@@ -15,7 +15,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/AG6j6LgVZLYYmAnL7", label: "2023年9月21日 想當年入伍訓是在地上爬旁邊引爆炸彈" },
       { type: "link", content: "https://photos.app.goo.gl/AWqoRNuSJ9M6akqp6", label: "2022年9月21日 I don't like to much ketone in my body" },
       { type: "link", content: "https://photos.app.goo.gl/25KjWZ5rkbgYrLh78", label: "2021年9月21日 大推的腳架清理&修理" },
-      { type: "link", content: "https://photos.app.goo.gl/dHMdgjZiP4qwx34n7", label: "2020年9月21日 內心都有天使與惡魔交戰 不爭氣的用自己睡覺時間任命開" }
+      { type: "link", content: "https://photos.app.goo.gl/dHMdgjZiP4qwx34n7", label: "2020年9月21日 內心都有天使與惡魔交戰 不爭氣的用自己睡覺時間認命開" }
     ]
   }
 ,
