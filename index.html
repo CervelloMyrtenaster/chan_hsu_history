@@ -123,7 +123,7 @@
     </nav>
 
     <div class="content" id="content">
-      <p>請選擇日期以查看展旭紀錄</p>
+      <p>請於選單中選擇日期以查看展旭紀錄</p>
     </div>
   </div>
 
@@ -170,11 +170,13 @@
       list.forEach(item => {
         const div = document.createElement("div");
         div.className = "record";
+
         if (item.type === "text") {
           div.textContent = item.content;
         } else if (item.type === "link") {
           div.innerHTML = `<a href="${item.content}" target="_blank">${item.label || item.content}</a>`;
         }
+        
         content.appendChild(div);
       });
 
@@ -191,7 +193,7 @@
       if (records[month] && records[month][day]) {
         showRecords(month, day);
       } else {
-        contentDiv.innerHTML = "<p>請選擇日期以查看展旭紀錄</p>";
+        contentDiv.innerHTML = "<p>請於選單中選擇日期以查看展旭紀錄</p>";
       }
     };
 

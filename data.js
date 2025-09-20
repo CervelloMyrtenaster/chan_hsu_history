@@ -9,6 +9,12 @@ const records = {
     ]
   }
 ,
+  "9": {
+    "21": [
+      { type: "link", content: "https://photos.app.goo.gl/AWqoRNuSJ9M6akqp6", label: "2022年9月21日 I don't like to much ketone in my body" }
+    ]
+  }
+,
   "11": {
     "11": [
       { type: "link", content: "https://photos.app.goo.gl/5uxQhntJZdxREUah7", label: "2016年11月11日 夠綠了還抽綠菸" }
