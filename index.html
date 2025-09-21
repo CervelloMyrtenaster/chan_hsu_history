@@ -20,6 +20,12 @@
       text-align: center;
     }
 
+    header button {
+      margin: 5px;
+      padding: 5px 10px;
+      cursor: pointer;
+    }
+
     .menu-toggle {
       display: none;
       background: #333;
@@ -110,11 +116,14 @@
     }
   </style>
 </head>
+
 <body>
   <header>
     <h1>歷史上的展旭</h1>
     <input type="text" id="searchInput" placeholder="輸入關鍵字搜尋" style="width:80%;max-width:400px;padding:5px;margin-top:10px;">
     <button id="searchBtn">搜尋</button>
+    <button id="randomBtn">隨機看看</button>
+    <button id="shareBtn">分享</button>   
   </header>
 
   <div class="menu-toggle">☰ 選單</div>
@@ -135,6 +144,11 @@
     const contentDiv = document.getElementById("content");
     const monthList = document.getElementById("monthList");
     const menuToggle = document.querySelector(".menu-toggle");
+
+    let currentMonth = null;
+    let currentDay = null;
+    let currentSearch = null;
+
 
     // 生成月份清單
     for (let m = 1; m <= 12; m++) {
@@ -165,7 +179,12 @@
     }
 
     // 顯示紀錄
-    function showRecords(month, day) {
+    function showRecords(month, day, skipPush = false) {
+
+      currentMonth = month;
+      currentDay = day;
+      currentSearch = null; // 進入日期紀錄時清空搜尋狀態
+
       contentDiv.innerHTML = `<h2>${month}月${day}日展旭紀錄</h2>`;
       const list = records[month][day];
 
@@ -179,23 +198,61 @@
           div.innerHTML = `<a href="${item.content}" target="_blank">${item.label || item.content}</a>`;
         }
         
-        content.appendChild(div);
+        contentDiv.appendChild(div);
       });
+
+       // 更新網址 (避免在初始載入時又推一遍)
+      if (!skipPush) {
+        const newUrl = `${window.location.pathname}?month=${month}&day=${day}`;
+        window.history.pushState({ month, day }, "", newUrl);
+      }
 
       // 手機版收合選單
       sidebar.classList.remove("open");
     }
 
-    // 打開網站直接顯示今天的紀錄
     window.onload = () => {
-      const today = new Date();
-      const month = today.getMonth() + 1;
-      const day = today.getDate();
+      const urlParams = new URLSearchParams(window.location.search);
+      const monthParam = urlParams.get("month");
+      const dayParam = urlParams.get("day");
+      const searchParam = urlParams.get("search");
 
-      if (records[month] && records[month][day]) {
-        showRecords(month, day);
+      if (searchParam) {
+        // 如果網址有 search
+        searchRecords(searchParam, true);
+        document.getElementById("searchInput").value = searchParam; // 把搜尋欄帶入文字
+      } else if (monthParam && dayParam && records[monthParam] && records[monthParam][dayParam]) {
+        // 如果網址有指定日期
+        showRecords(monthParam, dayParam, true);
       } else {
+        // 否則顯示今天
+        const today = new Date();
+        const month = today.getMonth() + 1;
+        const day = today.getDate();
+
+        if (records[month] && records[month][day]) {
+          showRecords(month, day, true);
+        } else {
+          contentDiv.innerHTML = "<p>請於選單中選擇日期以查看展旭紀錄</p>";
+        }
+      }
+    };
+
+    // 讓使用者可以用瀏覽器「上一頁/下一頁」回到之前看過的日期
+   window.onpopstate = (event) => {
+      if (event.state) {
+        if (event.state.month && event.state.day) {
+          showRecords(event.state.month, event.state.day, true);
+        } else if (event.state.search) {
+          searchRecords(event.state.search, true);
+          document.getElementById("searchInput").value = event.state.search;
+        }
+      } else {
+        // 沒有狀態則回到首頁或今天
         contentDiv.innerHTML = "<p>請於選單中選擇日期以查看展旭紀錄</p>";
+        currentMonth = null;
+        currentDay = null;
+        currentSearch = null;
       }
     };
 
@@ -205,7 +262,12 @@
     });
 
     // 搜尋功能
-    function searchRecords(keyword) {
+    function searchRecords(keyword, skipPush = false) {
+
+      currentMonth = null;
+      currentDay = null;
+      currentSearch = keyword;
+
       contentDiv.innerHTML = `<h2>搜尋結果：「${keyword}」</h2>`;
       let found = false;
 
@@ -233,6 +295,15 @@
       if (!found) {
         contentDiv.innerHTML += "<p>查無符合的紀錄。</p>";
       }
+
+      // 更新網址
+      if (!skipPush) {
+        const newUrl = `${window.location.pathname}?search=${encodeURIComponent(keyword)}`;
+        window.history.pushState({ search: keyword }, "", newUrl);
+      }
+
+      // 手機版收合選單
+      sidebar.classList.remove("open");
     }
 
     // 綁定搜尋按鈕
@@ -249,6 +320,46 @@
       }
     });
     
+    // 隨機看看
+    document.getElementById("randomBtn").addEventListener("click", () => {
+      const months = Object.keys(records);
+      const randMonth = months[Math.floor(Math.random() * months.length)];
+      const days = Object.keys(records[randMonth]);
+      const randDay = days[Math.floor(Math.random() * days.length)];
+      showRecords(randMonth, randDay);
+    });
+
+    // 分享功能
+    document.getElementById("shareBtn").addEventListener("click", async () => {
+
+      let shareUrl;
+      if (currentSearch) {
+        shareUrl = `${window.location.pathname}?search=${encodeURIComponent(currentSearch)}`;
+      } else if (currentMonth && currentDay) {
+        shareUrl = `${window.location.pathname}?month=${currentMonth}&day=${currentDay}`;
+      } else {
+        shareUrl = window.location.href;
+      }
+
+      const shareText = "快來看看歷史上的展旭紀錄！";
+
+      if (navigator.share) {
+        try {
+          await navigator.share({
+            title: "歷史上的展旭",
+            text: shareText,
+            url: shareUrl
+          });
+        } catch (err) {
+          console.log("分享取消或失敗：", err);
+        }
+      } else {
+        navigator.clipboard.writeText(shareUrl).then(() => {
+          alert("分享連結已複製到剪貼簿！");
+        });
+      }
+    });
+
   </script>
 </body>
 </html>

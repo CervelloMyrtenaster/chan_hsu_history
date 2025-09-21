@@ -254,24 +254,40 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/nsukrSJaPRh8LTmD8", label: "2016年8月4日 等著上社會新聞頭版 家裡開中藥店 等著被砸店" },
       { type: "link", content: "https://photos.app.goo.gl/xTMABD1L8PYto82y7", label: "2016年8月4日 我會先剁你手 不要懷疑" }
     ],
-    "5": [],
+    "5": [
+      { type: "link", content: "https://photos.app.goo.gl/Qh57F5GRnVFLMPFn6", label: "2016年8月5日 原諒滿腦精蟲的畜牲 我做得到嗎？也許無法 後悔沒用 先自愛" },
+      { type: "link", content: "https://photos.app.goo.gl/pvZKiFYrvdBhbveZ6", label: "2016年8月5日 只是想認真當個好醫生 如果有什麼能證明真愛 我想那是極端的痛苦" }
+    ],
     "6": [],
     "7": [],
-    "8": [],
+    "8": [
+      { type: "link", content: "https://photos.app.goo.gl/fTcSU97ZJp2H8Uyy8", label: "2016年8月8日 痛苦的值班 痛苦的日子 我還沒放棄" }
+    ],
     "9": [],
     "10": [],
-    "11": [],
+    "11": [
+      { type: "link", content: "https://photos.app.goo.gl/a1LrepZJREGDXndZ6", label: "2016年8月11日 一人做事一人擔" }
+    ],
     "12": [],
     "13": [],
     "14": [],
-    "15": [],
+    "15": [
+      { type: "link", content: "https://photos.app.goo.gl/cKcCD72FPVYUakZm8", label: "2016年8月15日 從我身上割下一塊血淋淋的肉" },
+      { type: "link", content: "https://photos.app.goo.gl/5gFB53sSVrwq5tpcA", label: "2016年8月15日 究竟還要多久才能找到生命中的平靜" }
+    ],
     "16": [],
     "17": [],
     "18": [],
-    "19": [],
+    "19": [
+      { type: "link", content: "https://photos.app.goo.gl/UMxiFyVWNVJrCtEH6", label: "2016年8月19日 默默寫下今天滿溢的情緒 我會振作" }
+    ],
     "20": [],
-    "21": [],
-    "22": [],
+    "21": [
+      { type: "link", content: "https://photos.app.goo.gl/vCc7GpHwso5W2aHcA", label: "2016年8月21日 骨科的日子只有苦 苦的日子只有自己知道" }
+    ],
+    "22": [
+      { type: "link", content: "https://photos.app.goo.gl/isto48x1XKz3AZgJA", label: "2016年8月22日 夜騎 台北 騎個夜台北" }
+    ],
     "23": [],
     "24": [],
     "25": [],
@@ -305,6 +321,7 @@ const records = {
     "19": [],
     "20": [],
     "21": [
+      { type: "link", content: "https://photos.app.goo.gl/UQQuKCYz8T52F1yAA", label: "2025年9月21日 週末一早被鞭策來上課" },
       { type: "link", content: "https://photos.app.goo.gl/qTvvtCzhjgCJ1DmaA", label: "2024年9月21日 芒果軟糖 超級愛吃 希望以後能再回越南" },
       { type: "link", content: "https://photos.app.goo.gl/AG6j6LgVZLYYmAnL7", label: "2023年9月21日 想當年入伍訓是在地上爬旁邊引爆炸彈" },
       { type: "link", content: "https://photos.app.goo.gl/AWqoRNuSJ9M6akqp6", label: "2022年9月21日 I don't like to much ketone in my body" },
