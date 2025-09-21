@@ -266,6 +266,7 @@ const records = {
     "9": [],
     "10": [],
     "11": [
+      { type: "link", content: "https://photos.app.goo.gl/uWJ4b3NosNxoTzxy6", label: "2025年8月11日 直行車佔用轉彎專用車道" },
       { type: "link", content: "https://photos.app.goo.gl/a1LrepZJREGDXndZ6", label: "2016年8月11日 一人做事一人擔" }
     ],
     "12": [],
@@ -288,14 +289,26 @@ const records = {
     "22": [
       { type: "link", content: "https://photos.app.goo.gl/isto48x1XKz3AZgJA", label: "2016年8月22日 夜騎 台北 騎個夜台北" }
     ],
-    "23": [],
+    "23": [
+      { type: "link", content: "https://photos.app.goo.gl/RnybMSPhrLZAm4gLA", label: "2016年8月23日 錯過了就可能會永遠錯過 只是會有一個人需要帶著傷痛走下去" }
+    ],
     "24": [],
-    "25": [],
-    "26": [],
-    "27": [],
-    "28": [],
+    "25": [
+      { type: "link", content: "https://photos.app.goo.gl/ke5QpEDaejFfe4cZ6", label: "2016年8月25日 小練重訓第30天不間斷" }
+    ],
+    "26": [
+      { type: "link", content: "https://photos.app.goo.gl/yyfAeHB5BpyXM8sbA", label: "2016年8月26日 看透了灰暗面 也要收起玻璃心" }
+    ],
+    "27": [
+      { type: "link", content: "https://photos.app.goo.gl/Dien47o2pDWhSRaf9", label: "2025年8月27日 不緊靠道路右側停車" }
+    ],
+    "28": [
+      { type: "link", content: "https://photos.app.goo.gl/f1rwDgUAbNhcK2P36", label: "2016年8月28日 今晚喝酒其它都不要想了" }
+    ],
     "29": [],
-    "30": [],
+    "30": [
+      { type: "link", content: "https://photos.app.goo.gl/8rFBUsxYktoPxxY26", label: "2016年8月30日 我好像魯夫 在被敵人摧殘了數次之後 依然頑固的拖著滿身血爬起來" }
+    ],
     "31": []
   },
 
@@ -321,14 +334,26 @@ const records = {
     "19": [],
     "20": [],
     "21": [
+      { type: "link", content: "https://photos.app.goo.gl/WFTsJ35TY95XPyuj8", label: "2025年9月21日 跟Barry比心電圖目前大輸五分追得上嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/zHXyt9AkmptewenHA", label: "2025年9月21日 ECG進階課程真的太精彩實用 專家就是把細節看到骨子裏" },
       { type: "link", content: "https://photos.app.goo.gl/UQQuKCYz8T52F1yAA", label: "2025年9月21日 週末一早被鞭策來上課" },
+      { type: "link", content: "https://photos.app.goo.gl/vvYCMRC4UVUGBxXw5", label: "2025年9月21日 他兒子超有天份欸" },
       { type: "link", content: "https://photos.app.goo.gl/qTvvtCzhjgCJ1DmaA", label: "2024年9月21日 芒果軟糖 超級愛吃 希望以後能再回越南" },
       { type: "link", content: "https://photos.app.goo.gl/AG6j6LgVZLYYmAnL7", label: "2023年9月21日 想當年入伍訓是在地上爬旁邊引爆炸彈" },
       { type: "link", content: "https://photos.app.goo.gl/AWqoRNuSJ9M6akqp6", label: "2022年9月21日 I don't like to much ketone in my body" },
       { type: "link", content: "https://photos.app.goo.gl/25KjWZ5rkbgYrLh78", label: "2021年9月21日 大推的腳架清理&修理" },
       { type: "link", content: "https://photos.app.goo.gl/dHMdgjZiP4qwx34n7", label: "2020年9月21日 內心都有天使與惡魔交戰 不爭氣的用自己睡覺時間認命開" }
     ],
-    "22": [],
+    "22": [
+      { type: "link", content: "https://photos.app.goo.gl/DhDkFTv8pdhVSgXn9", label: "2024年9月22日 對國家沒貢獻的嘴砲對國家有貢獻的人" },
+      { type: "link", content: "https://photos.app.goo.gl/pnZ4NQ2HgVSoaTBN6", label: "2024年9月22日 健身完就是直接約永豆" },
+      { type: "link", content: "https://photos.app.goo.gl/ERN5qLZmFcvpoTAZA", label: "2023年9月22日 南京復興站真的很愛你 一定要趁被拆下來之前趕快去合照" },
+      { type: "link", content: "https://photos.app.goo.gl/TowJEBhtvFCuQqXu9", label: "2023年9月22日 下午小補眠一下還是全身無力 要檢查每週一跑真的很困難" },
+      { type: "link", content: "https://photos.app.goo.gl/gwhDj5wU8wXW4eBr9", label: "2022年9月22日 氣切管的氣囊壓力" },
+      { type: "link", content: "https://photos.app.goo.gl/bQsAft4LoTbGVF4L7", label: "2019年9月22日 離開營區就像入獄後能短暫假釋 繼續逆著大浪 慢慢成長茁壯" },
+      { type: "link", content: "https://photos.app.goo.gl/aAR699nw4GVuKCb79", label: "2017年9月22日 這才是生活 但是它很短暫 此生發誓及早退休" },
+      { type: "link", content: "https://photos.app.goo.gl/uDAT7pPpgyNfTvZi9", label: "2016年9月22日 連續完全沒坐下上刀九個小時解鎖 nolimit" }
+    ],
     "23": [],
     "24": [],
     "25": [],
