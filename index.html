@@ -113,6 +113,8 @@
 <body>
   <header>
     <h1>歷史上的展旭</h1>
+    <input type="text" id="searchInput" placeholder="輸入關鍵字搜尋" style="width:80%;max-width:400px;padding:5px;margin-top:10px;">
+    <button id="searchBtn">搜尋</button>
   </header>
 
   <div class="menu-toggle">☰ 選單</div>
@@ -201,6 +203,52 @@
     menuToggle.addEventListener("click", () => {
       sidebar.classList.toggle("open");
     });
+
+    // 搜尋功能
+    function searchRecords(keyword) {
+      contentDiv.innerHTML = `<h2>搜尋結果：「${keyword}」</h2>`;
+      let found = false;
+
+      for (let m in records) {
+        for (let d in records[m]) {
+          records[m][d].forEach(item => {
+            // 檢查 label 或 content 內是否包含關鍵字
+            if ((item.label && item.label.includes(keyword)) || (item.content && item.content.includes(keyword))) {
+              found = true;
+              const div = document.createElement("div");
+              div.className = "record";
+              div.innerHTML = `<strong>${m}月${d}日</strong><br>`;
+
+              if (item.type === "text") {
+                div.innerHTML += item.content;
+              } else if (item.type === "link") {
+                div.innerHTML += `<a href="${item.content}" target="_blank">${item.label || item.content}</a>`;                
+              }
+              contentDiv.appendChild(div);
+            }
+          });
+        }
+      }
+
+      if (!found) {
+        contentDiv.innerHTML += "<p>查無符合的紀錄。</p>";
+      }
+    }
+
+    // 綁定搜尋按鈕
+    document.getElementById("searchBtn").addEventListener("click", () => {
+      const keyword = document.getElementById("searchInput").value.trim();
+      if (keyword) searchRecords(keyword);
+    });
+
+    // 也支援直接按 Enter
+    document.getElementById("searchInput").addEventListener("keypress", (e) => {
+      if (e.key === "Enter") {
+        const keyword = document.getElementById("searchInput").value.trim();
+        if (keyword) searchRecords(keyword);
+      }
+    });
+    
   </script>
 </body>
 </html>
