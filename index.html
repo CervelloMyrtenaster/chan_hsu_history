@@ -5,25 +5,88 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>歷史上的展旭</title>
   <style>
+    /* 預設 Light Mode */
     body {
       margin: 0;
       font-family: Arial, sans-serif;
       display: flex;
       flex-direction: column;
       height: 100vh;
+      background: #f9f9f9;
+      color: #333;
+      transition: background 0.3s, color 0.3s;
     }
 
     header {
-      background: #333;
+      background: #ffffff;
       color: #fff;
+      transition: background 0.3s;
       padding: 10px;
       text-align: center;
+      display: flex;
+      flex-direction: column; /* 垂直排版：標題一行，下面再分區 */
+      align-items: center;
+      gap: 10px; /* 區塊間距 */
+    }
+
+    header h1 {
+      margin: 0;
+      color: #333;
+      transition: color 0.3s;
+    }
+
+    #sidebar {
+      background: #ffffff;
+      color: #333;
+      transition: background 0.3s, color 0.3s;
+    }
+
+    #monthList {
+      background: #f9f9f9;
+      color: #333;
+      transition: background 0.3s, color 0.3s;
+    }
+
+    #content {
+      background: #ffffff;
+      color: #333;
+      transition: background 0.3s, color 0.3s;
+      flex: 1;
+      padding: 20px;
+      overflow-y: auto;
+    }
+
+    .header-row {
+      display: flex;
+      gap: 10px;         /* 按鈕/輸入框間距 */
+      flex-wrap: wrap;   /* 手機太窄時自動換行 */
+      justify-content: center;
+    }
+
+    header input[type="text"] {
+      width: 60%;
+      max-width: 300px;
+      padding: 6px;
+      margin: 6px 0;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      font-size: 0.9rem;
     }
 
     header button {
-      margin: 5px;
-      padding: 5px 10px;
+      margin: 4px;
+      padding: 6px 12px;
       cursor: pointer;
+      border: none;
+      border-radius: 4px;
+      background: #555;
+      color: #fff;
+      font-size: 0.9rem;
+      transition: background 0.2s;
+    }
+
+    header button:hover {
+      background: #777;
     }
 
     .menu-toggle {
@@ -33,6 +96,7 @@
       padding: 10px;
       cursor: pointer;
       text-align: center;
+      font-size: 1.2rem;
     }
 
     .container {
@@ -43,7 +107,7 @@
 
     nav {
       width: 250px;
-      background: #f4f4f4;
+      background: #f9f9f9;
       border-right: 1px solid #ddd;
       overflow-y: auto;
       transition: transform 0.3s ease-in-out;
@@ -58,33 +122,43 @@
     nav li {
       padding: 10px;
       cursor: pointer;
-      border-bottom: 1px solid #ddd;
+      border-bottom: 1px solid #eee;
+      user-select: none;
     }
 
     nav li:hover {
-      background: #ddd;
+      background: #e0e0e0;
     }
 
     nav li ul li {
       padding-left: 20px;
-      background: #eee;
+      background: #f1f1f1;
       border-bottom: none;
+      font-size: 0.9rem;
     }
 
     nav li ul li:hover {
       background: #ddd;
     }
 
-    .content {
-      flex: 1;
-      padding: 20px;
-      overflow-y: auto;
-    }
-
     .record {
       margin-bottom: 20px;
       padding-bottom: 10px;
       border-bottom: 1px solid #ccc;
+      line-height: 1.6;
+    }
+
+    .record strong {
+      color: #444;
+    }
+
+    .record a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    .record a:hover {
+      text-decoration: underline;
     }
 
     .record img {
@@ -92,10 +166,96 @@
       height: auto;
       display: block;
       margin-top: 10px;
+      border-radius: 6px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+    }
+
+    .day-item {
+      padding: 5px 10px;
+      cursor: pointer;
+      border-radius: 5px;
+      margin: 2px 0;
+      transition: background 0.2s;
+    }
+    .day-item:hover {
+      background: #e6f0ff; /* 淺藍 */
+    }
+    .day-item.selected {
+      background: #dbeeff; /* 更明顯藍底 */
+    }
+
+    /* Dark Mode 主題 */
+    body.dark-mode {
+      background: #1e1e1e;
+      color: #e0e0e0;
+      transition: background 0.3s, color 0.3s;
+    }
+    body.dark-mode header {
+      background: #2a2a2a;
+      color: #ffffff;
+    }
+    body.dark-mode h1 {
+      color: #ffffff;
+    }
+    body.dark-mode input[type="text"] {
+      background: #333;
+      color: #e0e0e0;
+      border: 1px solid #555;
+    }
+    body.dark-mode input[type="text"]:hover,
+    body.dark-mode input[type="text"]:focus {
+      border-color: #888;
+    }
+    body.dark-mode button {
+      background: #444;
+      color: #e0e0e0;
+      border: 1px solid #666;
+      transition: background 0.2s, color 0.2s;
+    }
+    body.dark-mode button:hover {
+      background: #555;
+      color: #ffffff;
+    }
+    body.dark-mode #sidebar {
+      background: #2c2c2c;
+      color: #f1f1f1;
+    }
+    body.dark-mode #monthList {
+      background: #3a3a3a;
+      color: #e0e0e0;
+    }
+    body.dark-mode .month-item {
+      background: #3a3a3a;
+      color: #e0e0e0;
+      transition: background 0.2s, color 0.2s;
+    }
+    body.dark-mode .month-item:hover {
+      background: #555;
+      color: #ffffff;
+    }
+    body.dark-mode .day-item {
+      background: #2e2e2e;
+      color: #e0e0e0;
+    }
+    body.dark-mode .day-item:hover {
+      background: #70708f;
+    }
+    body.dark-mode .day-item.selected {
+      background: #5a5a7a;
+    }
+    body.dark-mode #content {
+      background: #2c2c2c;
+      color: #e0e0e0;
     }
 
     /* 手機版 */
     @media (max-width: 768px) {
+      header {
+        font-size: 0.9rem;
+      }
+      header h1 {
+        font-size: 1.2rem;
+      }
       .menu-toggle {
         display: block;
       }
@@ -103,27 +263,38 @@
         flex-direction: column;
       }
       nav {
-        position: absolute;
+        position: fixed;
         top: 0;
         left: 0;
         height: 100%;
+        max-width: 240px;
         transform: translateX(-100%);
         z-index: 1000;
+        box-shadow: 2px 0 8px rgba(0,0,0,0.2);
       }
       nav.open {
         transform: translateX(0);
       }
+      .content {
+        padding: 15px;
+      }
     }
+
   </style>
 </head>
 
 <body>
   <header>
-    <h1>歷史上的展旭</h1>
-    <input type="text" id="searchInput" placeholder="輸入關鍵字搜尋" style="width:80%;max-width:400px;padding:5px;margin-top:10px;">
-    <button id="searchBtn">搜尋</button>
-    <button id="randomBtn">隨機看看</button>
-    <button id="shareBtn">分享</button>   
+    <h1>歷史上的展旭</h1>    
+    <div class="header-row">
+      <input type="text" id="searchInput" placeholder="輸入關鍵字搜尋">
+      <button id="searchBtn">搜尋</button>
+    </div>
+    <div class="header-row">
+      <button id="randomBtn">隨機看看</button>
+      <button id="shareBtn">分享</button>
+      <button id="theme-toggle">Dark Mode</button>
+    </div>
   </header>
 
   <div class="menu-toggle">☰ 選單</div>
@@ -140,35 +311,58 @@
 
   <script src="data.js"></script>
   <script>
-    const sidebar = document.getElementById("sidebar");
-    const contentDiv = document.getElementById("content");
-    const monthList = document.getElementById("monthList");
-    const menuToggle = document.querySelector(".menu-toggle");
+  /* ------------- DOM 與狀態 ------------- */
+  const sidebar = document.getElementById("sidebar");
+  const contentDiv = document.getElementById("content");
+  const monthList = document.getElementById("monthList");
+  const menuToggle = document.querySelector(".menu-toggle");
 
-    let currentMonth = null;
-    let currentDay = null;
-    let currentSearch = null;
+  let currentMonth = null;   // string or null
+  let currentDay = null;     // string or null
+  let currentSearch = null;  // string or null
 
+  /* 圖片偵測正規式 */
+  const imgRe = /\.(jpe?g|png|gif|webp|bmp|svg)$/i;
 
-    // 生成月份清單
+  /* ------------- 建立左側月份/日期清單（只列出有資料的日期） ------------- */
+  function buildMonthList() {
+    monthList.innerHTML = "";
     for (let m = 1; m <= 12; m++) {
+      const mStr = String(m);
       const monthItem = document.createElement("li");
+      monthItem.className = "month-item";
       monthItem.textContent = m + "月";
+
+      // 挑出此月份有實際內容（length>0）的日期
+      const daysObj = records[mStr] || {};
+      const daysWithData = Object.keys(daysObj).filter(d => Array.isArray(daysObj[d]) && daysObj[d].length > 0)
+                        .sort((a,b)=> Number(a) - Number(b));
+
+      if (daysWithData.length === 0) {
+        // 如果你希望即使沒有資料也顯示月份，改成 append 即可；目前我選擇跳過沒有資料的月份
+        continue;
+      }
 
       const dayList = document.createElement("ul");
       dayList.style.display = "none";
 
-      if (records[m]) {
-        Object.keys(records[m]).forEach(d => {
-          const dayItem = document.createElement("li");
-          dayItem.textContent = d + "日";
-          dayItem.addEventListener("click", (e) => {
-            e.stopPropagation(); // 防止點擊冒泡到月份展開
-            showRecords(m, d);
-          });
-          dayList.appendChild(dayItem);
+      daysWithData.forEach(d => {
+        const dayItem = document.createElement("li");
+        dayItem.className = "day-item";
+        dayItem.textContent = d + "日";
+        dayItem.dataset.month = mStr;
+        dayItem.dataset.day = String(d);
+        dayItem.classList.add("day-item");
+        dayItem.addEventListener("click", (e) => {
+          e.stopPropagation();
+          // 先清掉舊的選取
+          document.querySelectorAll(".day-item.selected").forEach(el => el.classList.remove("selected"));
+          // 標記目前這天
+          dayItem.classList.add("selected");
+          showRecords(m, d);
         });
-      }
+        dayList.appendChild(dayItem);
+      });
 
       monthItem.addEventListener("click", () => {
         dayList.style.display = dayList.style.display === "block" ? "none" : "block";
@@ -177,189 +371,294 @@
       monthItem.appendChild(dayList);
       monthList.appendChild(monthItem);
     }
+  }
 
-    // 顯示紀錄
-    function showRecords(month, day, skipPush = false) {
+  /* ------------- 顯示紀錄（日期頁面） ------------- */
+  function showRecords(month, day, skipPush = false) {
+    const monthStr = String(month);
+    const dayStr = String(day);
 
-      currentMonth = month;
-      currentDay = day;
-      currentSearch = null; // 進入日期紀錄時清空搜尋狀態
+    // 更新狀態
+    currentMonth = monthStr;
+    currentDay = dayStr;
+    currentSearch = null;
 
-      contentDiv.innerHTML = `<h2>${month}月${day}日展旭紀錄</h2>`;
-      const list = records[month][day];
+    contentDiv.innerHTML = `<h2>${monthStr}月${dayStr}日 展旭紀錄</h2>`;
 
+    const monthObj = records[monthStr];
+    const list = (monthObj && Array.isArray(monthObj[dayStr])) ? monthObj[dayStr] : null;
+
+    if (!list || list.length === 0) {
+      contentDiv.innerHTML += "<p>此日期尚無紀錄。</p>";
+    } else {
       list.forEach(item => {
         const div = document.createElement("div");
         div.className = "record";
 
         if (item.type === "text") {
-          div.textContent = item.content;
+          const p = document.createElement("p");
+          p.textContent = item.content;
+          div.appendChild(p);
         } else if (item.type === "link") {
-          div.innerHTML = `<a href="${item.content}" target="_blank">${item.label || item.content}</a>`;
+          const url = item.content || "";
+          const label = item.label || url;
+
+          // 若為圖片直連，直接顯示圖片
+          if (imgRe.test(url)) {
+            const img = document.createElement("img");
+            img.src = url;
+            img.alt = label;
+            div.appendChild(img);
+            if (label) {
+              const cap = document.createElement("p");
+              cap.textContent = label;
+              div.appendChild(cap);
+            }
+          } else {
+            // 一般連結，使用 <a> 並用 textContent 以避免 raw HTML 注入
+            const a = document.createElement("a");
+            a.href = url;
+            a.target = "_blank";
+            a.rel = "noopener";
+            a.textContent = label;
+            div.appendChild(a);
+          }
         }
-        
         contentDiv.appendChild(div);
       });
-
-       // 更新網址 (避免在初始載入時又推一遍)
-      if (!skipPush) {
-        const newUrl = `${window.location.pathname}?month=${month}&day=${day}`;
-        window.history.pushState({ month, day }, "", newUrl);
-      }
-
-      // 手機版收合選單
-      sidebar.classList.remove("open");
     }
 
-    window.onload = () => {
+    // 更新網址（絕對 URL）
+    if (!skipPush) {
+      const params = new URLSearchParams();
+      params.set("month", monthStr);
+      params.set("day", dayStr);
+      const newUrl = `${location.origin}${location.pathname}?${params.toString()}`;
+      window.history.pushState({ month: monthStr, day: dayStr }, "", newUrl);
+    }
+
+    // highlight sidebar（把之前的 .active 移掉並加上新的）
+    highlightSidebar(monthStr, dayStr);
+
+    // 手機版收合選單
+    sidebar.classList.remove("open");
+  }
+
+  /* ------------- 搜尋功能（結果中的日期可點回到該日） ------------- */
+  function searchRecords(keyword, skipPush = false) {
+    const kw = String(keyword || "").trim();
+    if (!kw) return;
+
+    currentMonth = null;
+    currentDay = null;
+    currentSearch = kw;
+
+    contentDiv.innerHTML = `<h2>搜尋結果：「${kw}」</h2>`;
+    let found = false;
+    const lower = kw.toLowerCase();
+
+    for (let m in records) {
+      for (let d in records[m]) {
+        const arr = records[m][d];
+        if (!Array.isArray(arr) || arr.length === 0) continue;
+        arr.forEach(item => {
+          const label = item.label || "";
+          const content = item.content || "";
+          if ((label && label.toLowerCase().includes(lower)) || (content && content.toLowerCase().includes(lower))) {
+            found = true;
+            const div = document.createElement("div");
+            div.className = "record";
+
+            // 可點的日期連結，點擊會跳到該日期並更新 URL
+            const dateLink = document.createElement("a");
+            dateLink.href = "#";
+            dateLink.textContent = `${m}月${d}日`;
+            dateLink.addEventListener("click", (e) => {
+              e.preventDefault();
+              showRecords(m, d);
+            });
+            div.appendChild(dateLink);
+            div.appendChild(document.createElement("br"));
+
+            if (item.type === "text") {
+              const p = document.createElement("p");
+              p.textContent = item.content;
+              div.appendChild(p);
+            } else if (item.type === "link") {
+              const url = item.content;
+              const lab = item.label || url;
+              if (imgRe.test(url)) {
+                const img = document.createElement("img");
+                img.src = url;
+                img.alt = lab;
+                div.appendChild(img);
+                const cap = document.createElement("p");
+                cap.textContent = lab;
+                div.appendChild(cap);
+              } else {
+                const a = document.createElement("a");
+                a.href = url;
+                a.target = "_blank";
+                a.rel = "noopener";
+                a.textContent = lab;
+                div.appendChild(a);
+              }
+            }
+            contentDiv.appendChild(div);
+          }
+        });
+      }
+    }
+
+    if (!found) contentDiv.innerHTML += "<p>查無符合的紀錄。</p>";
+
+    // 更新網址（絕對 URL）
+    if (!skipPush) {
+      const params = new URLSearchParams();
+      params.set("search", kw);
+      const newUrl = `${location.origin}${location.pathname}?${params.toString()}`;
+      window.history.pushState({ search: kw }, "", newUrl);
+    }
+
+    sidebar.classList.remove("open");
+  }
+
+  /* ------------- 隨機功能（只在有資料的日期中挑） ------------- */
+  function randomRecord() {
+    const monthsWithData = Object.keys(records).filter(m => {
+      return Object.keys(records[m] || {}).some(d => Array.isArray(records[m][d]) && records[m][d].length > 0);
+    });
+    if (monthsWithData.length === 0) return alert("尚無任何紀錄可隨機顯示。");
+
+    const randMonth = monthsWithData[Math.floor(Math.random() * monthsWithData.length)];
+    const daysWithData = Object.keys(records[randMonth]).filter(d => Array.isArray(records[randMonth][d]) && records[randMonth][d].length > 0);
+    const randDay = daysWithData[Math.floor(Math.random() * daysWithData.length)];
+    showRecords(randMonth, randDay);
+  }
+
+  /* ------------- 分享功能（會分享絕對網址） ------------- */
+  async function shareCurrentView() {
+    let shareUrl;
+    if (currentSearch) {
+      shareUrl = `${location.origin}${location.pathname}?search=${encodeURIComponent(currentSearch)}`;
+    } else if (currentMonth && currentDay) {
+      shareUrl = `${location.origin}${location.pathname}?month=${encodeURIComponent(currentMonth)}&day=${encodeURIComponent(currentDay)}`;
+    } else {
+      shareUrl = window.location.href;
+    }
+
+    const shareText = "快來看看歷史上的展旭紀錄！";
+
+    if (navigator.share) {
+      try {
+        await navigator.share({ title: "歷史上的展旭", text: shareText, url: shareUrl });
+      } catch (err) {
+        console.log("分享取消或失敗：", err);
+      }
+    } else {
+      try {
+        await navigator.clipboard.writeText(shareUrl);
+        alert("分享連結已複製到剪貼簿！");
+      } catch (e) {
+        alert("無法複製連結，請手動複製：" + shareUrl);
+      }
+    }
+  }
+
+  /* ------------- sidebar highlight ------------- */
+  function highlightSidebar(monthStr, dayStr) {
+    // 清除舊的 selected
+    const prev = monthList.querySelectorAll(".day-item.selected");
+    prev.forEach(n => n.classList.remove("selected"));
+    // 找到目前的 day-item
+    const selector = `.day-item[data-month="${monthStr}"][data-day="${dayStr}"]`;
+    const now = monthList.querySelector(selector);
+    if (now) now.classList.add("selected");
+  }
+
+  /* ------------- 綁定 UI 事件 ------------- */
+  document.getElementById("searchBtn").addEventListener("click", () => {
+    const kw = document.getElementById("searchInput").value.trim();
+    if (kw) searchRecords(kw);
+  });
+  document.getElementById("searchInput").addEventListener("keydown", (e) => {
+    if (e.key === "Enter") {
+      e.preventDefault();
+      const kw = document.getElementById("searchInput").value.trim();
+      if (kw) searchRecords(kw);
+    }
+  });
+  document.getElementById("randomBtn").addEventListener("click", randomRecord);
+  document.getElementById("shareBtn").addEventListener("click", shareCurrentView);
+  menuToggle.addEventListener("click", () => sidebar.classList.toggle("open"));
+
+  /* ------------- onload 與 popstate（歷史紀錄/分享網址支援） ------------- */
+  window.onload = () => {
+    buildMonthList();
+
+    const urlParams = new URLSearchParams(window.location.search);
+    const monthParam = urlParams.get("month");
+    const dayParam = urlParams.get("day");
+    const searchParam = urlParams.get("search");
+
+    if (searchParam) {
+      document.getElementById("searchInput").value = searchParam;
+      searchRecords(searchParam, true);
+    } else if (monthParam && dayParam && records[monthParam] && records[monthParam][dayParam] && records[monthParam][dayParam].length > 0) {
+      showRecords(monthParam, dayParam, true);
+    } else {
+      // 顯示今天（若該日有資料）
+      const today = new Date();
+      const m = String(today.getMonth() + 1);
+      const d = String(today.getDate());
+      if (records[m] && Array.isArray(records[m][d]) && records[m][d].length > 0) {
+        showRecords(m, d, true);
+      } else {
+        contentDiv.innerHTML = "<p>請於選單中選擇日期以查看展旭紀錄</p>";
+      }
+    }
+  };
+
+  window.onpopstate = (event) => {
+    if (event.state) {
+      if (event.state.search) {
+        document.getElementById("searchInput").value = event.state.search;
+        searchRecords(event.state.search, true);
+      } else if (event.state.month && event.state.day) {
+        showRecords(event.state.month, event.state.day, true);
+      }
+    } else {
+      // event.state 為 null：以目前 location.search 做判斷（支援書籤/外部直接開啟 URL）
       const urlParams = new URLSearchParams(window.location.search);
       const monthParam = urlParams.get("month");
       const dayParam = urlParams.get("day");
       const searchParam = urlParams.get("search");
 
       if (searchParam) {
-        // 如果網址有 search
+        document.getElementById("searchInput").value = searchParam;
         searchRecords(searchParam, true);
-        document.getElementById("searchInput").value = searchParam; // 把搜尋欄帶入文字
-      } else if (monthParam && dayParam && records[monthParam] && records[monthParam][dayParam]) {
-        // 如果網址有指定日期
+      } else if (monthParam && dayParam && records[monthParam] && records[monthParam][dayParam] && records[monthParam][dayParam].length > 0) {
         showRecords(monthParam, dayParam, true);
       } else {
-        // 否則顯示今天
-        const today = new Date();
-        const month = today.getMonth() + 1;
-        const day = today.getDate();
-
-        if (records[month] && records[month][day]) {
-          showRecords(month, day, true);
-        } else {
-          contentDiv.innerHTML = "<p>請於選單中選擇日期以查看展旭紀錄</p>";
-        }
-      }
-    };
-
-    // 讓使用者可以用瀏覽器「上一頁/下一頁」回到之前看過的日期
-   window.onpopstate = (event) => {
-      if (event.state) {
-        if (event.state.month && event.state.day) {
-          showRecords(event.state.month, event.state.day, true);
-        } else if (event.state.search) {
-          searchRecords(event.state.search, true);
-          document.getElementById("searchInput").value = event.state.search;
-        }
-      } else {
-        // 沒有狀態則回到首頁或今天
         contentDiv.innerHTML = "<p>請於選單中選擇日期以查看展旭紀錄</p>";
-        currentMonth = null;
-        currentDay = null;
-        currentSearch = null;
+        currentMonth = null; currentDay = null; currentSearch = null;
       }
-    };
-
-    // 手機版選單開關
-    menuToggle.addEventListener("click", () => {
-      sidebar.classList.toggle("open");
-    });
-
-    // 搜尋功能
-    function searchRecords(keyword, skipPush = false) {
-
-      currentMonth = null;
-      currentDay = null;
-      currentSearch = keyword;
-
-      contentDiv.innerHTML = `<h2>搜尋結果：「${keyword}」</h2>`;
-      let found = false;
-
-      for (let m in records) {
-        for (let d in records[m]) {
-          records[m][d].forEach(item => {
-            // 檢查 label 或 content 內是否包含關鍵字
-            if ((item.label && item.label.includes(keyword)) || (item.content && item.content.includes(keyword))) {
-              found = true;
-              const div = document.createElement("div");
-              div.className = "record";
-              div.innerHTML = `<strong>${m}月${d}日</strong><br>`;
-
-              if (item.type === "text") {
-                div.innerHTML += item.content;
-              } else if (item.type === "link") {
-                div.innerHTML += `<a href="${item.content}" target="_blank">${item.label || item.content}</a>`;                
-              }
-              contentDiv.appendChild(div);
-            }
-          });
-        }
-      }
-
-      if (!found) {
-        contentDiv.innerHTML += "<p>查無符合的紀錄。</p>";
-      }
-
-      // 更新網址
-      if (!skipPush) {
-        const newUrl = `${window.location.pathname}?search=${encodeURIComponent(keyword)}`;
-        window.history.pushState({ search: keyword }, "", newUrl);
-      }
-
-      // 手機版收合選單
-      sidebar.classList.remove("open");
     }
+  };
 
-    // 綁定搜尋按鈕
-    document.getElementById("searchBtn").addEventListener("click", () => {
-      const keyword = document.getElementById("searchInput").value.trim();
-      if (keyword) searchRecords(keyword);
-    });
+  document.getElementById("theme-toggle").addEventListener("click", function () {
+    document.body.classList.toggle("dark-mode");
+    // 切換按鈕文字
+    if (document.body.classList.contains("dark-mode")) {
+      this.textContent = "Light Mode";
+    } else {
+      this.textContent = "Dark Mode";
+    }
+  });
 
-    // 也支援直接按 Enter
-    document.getElementById("searchInput").addEventListener("keypress", (e) => {
-      if (e.key === "Enter") {
-        const keyword = document.getElementById("searchInput").value.trim();
-        if (keyword) searchRecords(keyword);
-      }
-    });
-    
-    // 隨機看看
-    document.getElementById("randomBtn").addEventListener("click", () => {
-      const months = Object.keys(records);
-      const randMonth = months[Math.floor(Math.random() * months.length)];
-      const days = Object.keys(records[randMonth]);
-      const randDay = days[Math.floor(Math.random() * days.length)];
-      showRecords(randMonth, randDay);
-    });
-
-    // 分享功能
-    document.getElementById("shareBtn").addEventListener("click", async () => {
-
-      let shareUrl;
-      if (currentSearch) {
-        shareUrl = `${window.location.pathname}?search=${encodeURIComponent(currentSearch)}`;
-      } else if (currentMonth && currentDay) {
-        shareUrl = `${window.location.pathname}?month=${currentMonth}&day=${currentDay}`;
-      } else {
-        shareUrl = window.location.href;
-      }
-
-      const shareText = "快來看看歷史上的展旭紀錄！";
-
-      if (navigator.share) {
-        try {
-          await navigator.share({
-            title: "歷史上的展旭",
-            text: shareText,
-            url: shareUrl
-          });
-        } catch (err) {
-          console.log("分享取消或失敗：", err);
-        }
-      } else {
-        navigator.clipboard.writeText(shareUrl).then(() => {
-          alert("分享連結已複製到剪貼簿！");
-        });
-      }
-    });
-
+  
   </script>
+
+
 </body>
 </html>
