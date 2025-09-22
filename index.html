@@ -248,6 +248,28 @@
       color: #e0e0e0;
     }
 
+    footer {
+      background: #333;
+      color: #fff;
+      text-align: left;
+      padding: 15px;
+      font-size: 14px;
+    }
+    footer a {
+      color: #66ccff;
+      text-decoration: none;
+    }
+    footer a:hover {
+      text-decoration: underline;
+    }
+    body.dark-mode footer {
+      background: #222;
+      color: #ccc;
+    }
+    body.dark-mode footer a {
+      color: #80d4ff;
+    }
+
     /* 手機版 */
     @media (max-width: 768px) {
       header {
@@ -285,7 +307,7 @@
 
 <body>
   <header>
-    <h1>歷史上的展旭</h1>    
+    <h1 id="homeBtn">歷史上的展旭</h1>
     <div class="header-row">
       <input type="text" id="searchInput" placeholder="輸入關鍵字搜尋">
       <button id="searchBtn">搜尋</button>
@@ -308,6 +330,26 @@
       <p>請於選單中選擇日期以查看展旭紀錄</p>
     </div>
   </div>
+
+  <footer>
+    <p>
+      追蹤展旭：
+      <a href="https://www.facebook.com/wuxizu" target="_blank">Facebook 吳展旭(あきら)</a> | 
+      <a href="https://www.facebook.com/100007873209011/" target="_blank">Facebook 吳展旭</a> | 
+      <a href="https://www.instagram.com/wu_chan_hsu" target="_blank">Instagram wu_chan_hsu</a> | 
+      <a href="https://www.threads.net/@wu_chan_hsu" target="_blank">Threads wu_chan_hsu</a> | 
+      <a href="https://www.instagram.com/omg_taiwan" target="_blank">Instagram omg_taiwan</a> | 
+      <a href="https://www.instagram.com/omg_eat_jhan" target="_blank">Instagram omg_eat_jhan</a> | 
+      <a href="https://www.instagram.com/taiwan_med_notes" target="_blank">Instagram taiwan_med_notes</a> | 
+      <a href="https://www.instagram.com/hanhsu_studio" target="_blank">Instagram hanhsu_studio</a> | 
+    </p>
+    <p>
+      展旭資料：
+      <a href="http://Myrtenaster.quickconnect.to/d/s/q5W2iS1Ld64VeJhc0yJ4XznXY8uKxbqm/CCfQ8J52IdcGOzvNB3S4T_0tomcW_wNf-_rMgJcLW1wk" target="_blank">展旭資料庫(Synology Drive)</a> | 
+      <a href="http://Myrtenaster.quickconnect.to/mo/sharing/MpFJdFoNb" target="_blank">展旭資料庫(Synology Photos)</a> | 
+      <a href="https://photos.app.goo.gl/eZCcNOezVExNxYWk2" target="_blank">展旭相簿(Google相簿)</a> | 
+    </p>
+  </footer>
 
   <script src="data.js"></script>
   <script>
@@ -656,9 +698,32 @@
     }
   });
 
+  // 點擊標題回到首頁
+  document.getElementById("homeBtn").addEventListener("click", () => {
+    // 清空狀態
+    currentMonth = null;
+    currentDay = null;
+    currentSearch = null;
+    // 顯示首頁或今天的展旭
+    const today = new Date();
+    const month = today.getMonth() + 1;
+    const day = today.getDate();
+    if (records[month] && records[month][day]) {
+      showRecords(month, day, true); // 顯示今天的紀錄
+    } else {
+      contentDiv.innerHTML = "<p>請於選單中選擇日期以查看展旭紀錄</p>";
+    }
+    // 收合選單
+    sidebar.classList.remove("open");
+    // 收合所有展開的日期清單
+    document.querySelectorAll("#monthList ul").forEach(ul => {
+      ul.style.display = "none";
+    });
+    // 更新網址為首頁
+    window.history.pushState({}, "", window.location.pathname);
+  });
   
   </script>
-
 
 </body>
 </html>

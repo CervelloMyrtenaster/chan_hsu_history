@@ -352,14 +352,16 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/gwhDj5wU8wXW4eBr9", label: "2022年9月22日 氣切管的氣囊壓力" },
       { type: "link", content: "https://photos.app.goo.gl/bQsAft4LoTbGVF4L7", label: "2019年9月22日 離開營區就像入獄後能短暫假釋 繼續逆著大浪 慢慢成長茁壯" },
       { type: "link", content: "https://photos.app.goo.gl/aAR699nw4GVuKCb79", label: "2017年9月22日 這才是生活 但是它很短暫 此生發誓及早退休" },
-      { type: "link", content: "https://photos.app.goo.gl/uDAT7pPpgyNfTvZi9", label: "2016年9月22日 連續完全沒坐下上刀九個小時解鎖 nolimit" }
+      { type: "link", content: "https://photos.app.goo.gl/uDAT7pPpgyNfTvZi9", label: "2016年9月22日 連續完全沒坐下上刀九個小時解鎖 又刷新自己的耐力紀錄了 nolimit" }
     ],
     "23": [],
     "24": [],
     "25": [],
     "26": [],
     "27": [],
-    "28": [],
+    "28": [
+      { type: "link", content: "https://photos.app.goo.gl/ff3PwqwbXewHkvT36", label: "2016年9月28日 跟骨科相比內科真的輕鬆很多 完全是體力與腦力的鐵人接力賽 最後兩天颱風假都安全的躲在醫院" }
+    ],
     "29": [],
     "30": []
   },
