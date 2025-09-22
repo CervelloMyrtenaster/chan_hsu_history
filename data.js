@@ -383,10 +383,15 @@ const records = {
     "1": [],
     "2": [],
     "3": [],
-    "4": [],
+    "4": [
+      { type: "link", content: "https://photos.app.goo.gl/orXuqGymccZpTAbz9", label: "2016年10月4日 真正絕望到全身無力的感覺 被一槍打死都沒這麼難受 要讓一個人死不需要複雜的算計" },
+      { type: "link", content: "https://photos.app.goo.gl/6ibQwhcHUvWsz36K8", label: "2016年10月4日 血液腫瘤科 小成就 一個月 用英文給烏克蘭交換生示範port-A的施行 0敗 繼續維持" }
+    ],
     "5": [],
     "6": [],
-    "7": [],
+    "7": [
+      { type: "link", content: "https://photos.app.goo.gl/UjcfVeLsSqnrc54Y8", label: "2016年10月7日 我是很多嘴 提心吊膽而不被領情 我已經盡力了 無力 放棄 theend" }
+    ],
     "8": [],
     "9": [],
     "10": [],
@@ -396,7 +401,9 @@ const records = {
     "14": [],
     "15": [],
     "16": [],
-    "17": [],
+    "17": [
+      { type: "link", content: "https://photos.app.goo.gl/siqb6ZkRGnLH9K4eA", label: "2016年10月17日 xmen fundus Ophthalmoscope 眼科intern最終型態" }
+    ],
     "18": [],
     "19": [],
     "20": [],
@@ -410,7 +417,9 @@ const records = {
     "28": [],
     "29": [],
     "30": [],
-    "31": []
+    "31": [
+      { type: "link", content: "https://photos.app.goo.gl/3NDUudjQUo5zTVRd8", label: "2016年10月31日 高雄榮民總醫院 終於能當身心靈健康快樂der英藤惹" }
+    ]
   },
 
   "11": {
@@ -421,11 +430,15 @@ const records = {
     "5": [],
     "6": [],
     "7": [],
-    "8": [],
+    "8": [
+      { type: "link", content: "https://photos.app.goo.gl/AsJJ5kjzacQxw8QKA", label: "2016年11月8日 徵外拍模特兒 清新健康 攝影本是快樂事 車馬費詳談 可長期 文藻外語大學 西三C教室" }
+    ],
     "9": [],
-    "10": [],
+    "10": [
+      { type: "link", content: "https://photos.app.goo.gl/ibUnW7vfoxCCS8pH8", label: "2016年11月10日 返回陽間的感覺真好 屏東東港東隆宮" }
+    ],
     "11": [
-      { type: "link", content: "https://photos.app.goo.gl/5uxQhntJZdxREUah7", label: "2016年11月11日 夠綠了還抽綠菸" }
+      { type: "link", content: "https://photos.app.goo.gl/5uxQhntJZdxREUah7", label: "2016年11月11日 夠綠了還抽綠菸 沒事兒沒事兒 這跟抽完就要戒了 戒菸門診 慎思" }
     ],
     "12": [],
     "13": [],
@@ -438,14 +451,20 @@ const records = {
     "20": [],
     "21": [],
     "22": [],
-    "23": [],
+    "23": [
+      { type: "link", content: "https://photos.app.goo.gl/jbCkD6HoxzGd7iRE6", label: "2016年11月23日 來幫學長測試第一台VHIT 暈眩門診 VHIT VIN 眼震測試" }
+    ],
     "24": [],
-    "25": [],
+    "25": [
+      { type: "link", content: "https://photos.app.goo.gl/FbXzz68BwBD4WZt3A", label: "2016年11月25日 CILF 幹伶娘你們是在嗆三小 找死是不是 沒有很可以 但你惹不起" }
+    ],
     "26": [],
     "27": [],
     "28": [],
     "29": [],
-    "30": []
+    "30": [
+      { type: "link", content: "https://photos.app.goo.gl/yAsywEugFXvjtrNN7", label: "2016年11月30日 高雄一個月尾聲到了 在這裡發生了很多事情 知足常在 高雄榮總 尾聲" }
+    ]
   },
 
   "12": {

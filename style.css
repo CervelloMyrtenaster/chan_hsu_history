@@ -1,0 +1,318 @@
+/* 預設 Light Mode */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background: #f9f9f9;
+    color: #333;
+    transition: background 0.3s, color 0.3s;
+}
+
+header {
+    background: #ffffff;
+    color: #fff;
+    transition: background 0.3s;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 20px;
+    color: #333;
+    transition: color 0.3s;
+    cursor: pointer;
+}
+
+.header-right {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+header input[type="text"] {
+    width: 60%;
+    max-width: 300px;
+    padding: 6px;
+    margin: 6px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 0.9rem;
+}
+
+header button {
+    margin: 4px;
+    padding: 6px 12px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    background: #555;
+    color: #fff;
+    font-size: 0.9rem;
+}
+
+header button:hover {
+    background: #777;
+}
+
+.header-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 10px; /* 按鈕之間留間距 */
+    padding: 6px;
+    background: #444;
+}
+
+.header-buttons button {
+    padding: 4px 10px;
+    background: #666;
+    color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.header-buttons button:hover {
+    background: #888;
+}
+
+.menu-toggle {
+    display: none;
+    background: #333;
+    color: #fff;
+    padding: 6px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.container {
+    flex: 1;
+    display: flex;
+    overflow: hidden;
+}
+
+#sidebar {
+    background: #ffffff;
+    color: #333;
+    transition: background 0.3s, color 0.3s;
+}
+
+#monthList {
+    background: #f9f9f9;
+    color: #333;
+    transition: background 0.3s, color 0.3s;
+}
+
+#content {
+    background: #ffffff;
+    color: #333;
+    transition: background 0.3s, color 0.3s;
+    flex: 1;
+    padding: 20px;
+    overflow-y: auto;
+}
+
+nav {
+    width: 250px;
+    background: #f9f9f9;
+    border-right: 1px solid #ddd;
+    overflow-y: auto;
+    transition: transform 0.3s ease-in-out;
+}
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+nav li {
+    padding: 10px;
+    cursor: pointer;
+    border-bottom: 1px solid #eee;
+    user-select: none;
+}
+nav li:hover {
+    background: #e0e0e0;
+}
+nav li ul li {
+    padding-left: 20px;
+    background: #f1f1f1;
+    border-bottom: none;
+    font-size: 0.9rem;
+}
+nav li ul li:hover {
+    background: #ddd;
+}
+
+.day-item {
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin: 2px 0;
+    transition: background 0.2s;
+}
+.day-item:hover {
+    background: #e6f0ff; /* 淺藍 */
+}
+.day-item.selected {
+    background: #dbeeff; /* 更明顯藍底 */
+}
+
+h2 {
+    margin-top: 0.25em;
+    margin-bottom: 0.5em;
+}
+
+.record {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    line-height: 1.6;
+}
+.record strong {
+    color: #444;
+}
+.record a {
+    color: #0066cc;
+    text-decoration: none;
+}
+.record a:hover {
+    text-decoration: underline;
+}
+.record img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-top: 10px;
+    border-radius: 6px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+
+/* Dark Mode 主題 */
+body.dark-mode {
+    background: #1e1e1e;
+    color: #e0e0e0;
+    transition: background 0.3s, color 0.3s;
+}
+body.dark-mode header {
+    background: #2a2a2a;
+    color: #ffffff;
+}
+body.dark-mode h1 {
+    color: #ffffff;
+}
+body.dark-mode input[type="text"] {
+    background: #333;
+    color: #e0e0e0;
+    border: 1px solid #555;
+}
+body.dark-mode input[type="text"]:hover,
+body.dark-mode input[type="text"]:focus {
+    border-color: #888;
+}
+body.dark-mode button {
+    background: #444;
+    color: #e0e0e0;
+    border: 1px solid #666;
+    transition: background 0.2s, color 0.2s;
+}
+body.dark-mode button:hover {
+    background: #555;
+    color: #ffffff;
+}
+body.dark-mode #sidebar {
+    background: #2c2c2c;
+    color: #f1f1f1;
+}
+body.dark-mode #monthList {
+    background: #3a3a3a;
+    color: #e0e0e0;
+}
+body.dark-mode .month-item {
+    background: #3a3a3a;
+    color: #e0e0e0;
+    transition: background 0.2s, color 0.2s;
+}
+body.dark-mode .month-item:hover {
+    background: #555;
+    color: #ffffff;
+}
+body.dark-mode .day-item {
+    background: #2e2e2e;
+    color: #e0e0e0;
+}
+body.dark-mode .day-item:hover {
+    background: #70708f;
+}
+body.dark-mode .day-item.selected {
+    background: #5a5a7a;
+}
+body.dark-mode #content {
+    background: #2c2c2c;
+    color: #e0e0e0;
+}
+body.dark-mode .record a {
+    color: #66aaff; /* 淺藍色，對比更清楚 */
+}
+body.dark-mode .record a:hover {
+    color: #99ccff; /* hover 時再亮一些 */
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: left;
+    padding: 0px 10px;
+    font-size: 14px;
+}
+footer a {
+    color: #66ccff;
+    text-decoration: none;
+}
+footer a:hover {
+    text-decoration: underline;
+}
+body.dark-mode footer {
+    background: #222;
+    color: #ccc;
+}
+body.dark-mode footer a {
+    color: #80d4ff;
+}
+
+/* 手機版 */
+@media (max-width: 768px) {
+    header {
+        font-size: 0.9rem;
+    }
+    header h1 {
+        font-size: 1.2rem;
+    }
+    .menu-toggle {
+        display: block;
+    }
+    .container {
+        flex-direction: column;
+    }
+    nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 100%;
+        max-width: 240px;
+        transform: translateX(-100%);
+        z-index: 1000;
+        box-shadow: 2px 0 8px rgba(0,0,0,0.2);
+    }
+    nav.open {
+        transform: translateX(0);
+    }
+    .content {
+        padding: 15px;
+    }
+}
