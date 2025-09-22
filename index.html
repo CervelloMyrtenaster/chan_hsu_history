@@ -24,15 +24,84 @@
       padding: 10px;
       text-align: center;
       display: flex;
-      flex-direction: column; /* 垂直排版：標題一行，下面再分區 */
+      justify-content: space-between;
       align-items: center;
-      gap: 10px; /* 區塊間距 */
     }
 
     header h1 {
       margin: 0;
+      font-size: 20px;
       color: #333;
       transition: color 0.3s;
+      cursor: pointer;
+    }
+
+    .header-right {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    header input[type="text"] {
+      width: 60%;
+      max-width: 300px;
+      padding: 6px;
+      margin: 6px 0;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      font-size: 0.9rem;
+    }
+
+    header button {
+      margin: 4px;
+      padding: 6px 12px;
+      cursor: pointer;
+      border: none;
+      border-radius: 4px;
+      background: #555;
+      color: #fff;
+      font-size: 0.9rem;
+    }
+
+    header button:hover {
+      background: #777;
+    }
+
+    .header-buttons {
+      display: flex;
+      justify-content: center;
+      gap: 10px; /* 按鈕之間留間距 */
+      padding: 6px;
+      background: #444;
+    }
+
+    .header-buttons button {
+      padding: 4px 10px;
+      background: #666;
+      color: #fff;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    .header-buttons button:hover {
+      background: #888;
+    }
+
+    .menu-toggle {
+      display: none;
+      background: #333;
+      color: #fff;
+      padding: 6px;
+      cursor: pointer;
+      text-align: center;
+      font-size: 1.2rem;
+    }
+
+    .container {
+      flex: 1;
+      display: flex;
+      overflow: hidden;
     }
 
     #sidebar {
@@ -56,55 +125,6 @@
       overflow-y: auto;
     }
 
-    .header-row {
-      display: flex;
-      gap: 10px;         /* 按鈕/輸入框間距 */
-      flex-wrap: wrap;   /* 手機太窄時自動換行 */
-      justify-content: center;
-    }
-
-    header input[type="text"] {
-      width: 60%;
-      max-width: 300px;
-      padding: 6px;
-      margin: 6px 0;
-      border: 1px solid #ccc;
-      border-radius: 4px;
-      font-size: 0.9rem;
-    }
-
-    header button {
-      margin: 4px;
-      padding: 6px 12px;
-      cursor: pointer;
-      border: none;
-      border-radius: 4px;
-      background: #555;
-      color: #fff;
-      font-size: 0.9rem;
-      transition: background 0.2s;
-    }
-
-    header button:hover {
-      background: #777;
-    }
-
-    .menu-toggle {
-      display: none;
-      background: #333;
-      color: #fff;
-      padding: 10px;
-      cursor: pointer;
-      text-align: center;
-      font-size: 1.2rem;
-    }
-
-    .container {
-      flex: 1;
-      display: flex;
-      overflow: hidden;
-    }
-
     nav {
       width: 250px;
       background: #f9f9f9;
@@ -112,62 +132,28 @@
       overflow-y: auto;
       transition: transform 0.3s ease-in-out;
     }
-
     nav ul {
       list-style: none;
       margin: 0;
       padding: 0;
     }
-
     nav li {
       padding: 10px;
       cursor: pointer;
       border-bottom: 1px solid #eee;
       user-select: none;
     }
-
     nav li:hover {
       background: #e0e0e0;
     }
-
     nav li ul li {
       padding-left: 20px;
       background: #f1f1f1;
       border-bottom: none;
       font-size: 0.9rem;
     }
-
     nav li ul li:hover {
       background: #ddd;
-    }
-
-    .record {
-      margin-bottom: 20px;
-      padding-bottom: 10px;
-      border-bottom: 1px solid #ccc;
-      line-height: 1.6;
-    }
-
-    .record strong {
-      color: #444;
-    }
-
-    .record a {
-      color: #0066cc;
-      text-decoration: none;
-    }
-
-    .record a:hover {
-      text-decoration: underline;
-    }
-
-    .record img {
-      max-width: 100%;
-      height: auto;
-      display: block;
-      margin-top: 10px;
-      border-radius: 6px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
     }
 
     .day-item {
@@ -182,6 +168,36 @@
     }
     .day-item.selected {
       background: #dbeeff; /* 更明顯藍底 */
+    }
+
+    h2 {
+      margin-top: 0.25em;
+      margin-bottom: 0.5em;
+    }
+
+    .record {
+      margin-bottom: 10px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #ccc;
+      line-height: 1.6;
+    }
+    .record strong {
+      color: #444;
+    }
+    .record a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    .record a:hover {
+      text-decoration: underline;
+    }
+    .record img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin-top: 10px;
+      border-radius: 6px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
     }
 
     /* Dark Mode 主題 */
@@ -247,6 +263,12 @@
       background: #2c2c2c;
       color: #e0e0e0;
     }
+    body.dark-mode .record a {
+      color: #66aaff; /* 淺藍色，對比更清楚 */
+    }
+    body.dark-mode .record a:hover {
+      color: #99ccff; /* hover 時再亮一些 */
+    }
 
     footer {
       background: #333;
@@ -307,18 +329,23 @@
 
 <body>
   <header>
-    <h1 id="homeBtn">歷史上的展旭</h1>
-    <div class="header-row">
+    <div class="header-left">
+      <h1 id="homeBtn">歷史上的展旭</h1>
+    </div>
+    <div class="header-right">
       <input type="text" id="searchInput" placeholder="輸入關鍵字搜尋">
       <button id="searchBtn">搜尋</button>
     </div>
-    <div class="header-row">
-      <button id="randomBtn">隨機看看</button>
-      <button id="shareBtn">分享</button>
-      <button id="theme-toggle">Dark Mode</button>
-    </div>
   </header>
 
+  <div class="header-buttons">
+    <button id="prevDay">看前一日</button>
+    <button id="nextDay">看後一日</button>
+    <button id="randomBtn">隨機看看</button>
+    <button id="shareBtn">分享</button>
+    <button id="theme-toggle">Dark Mode</button>
+  </div>
+  
   <div class="menu-toggle">☰ 選單</div>
 
   <div class="container">
@@ -337,11 +364,11 @@
       <a href="https://www.facebook.com/wuxizu" target="_blank">Facebook 吳展旭(あきら)</a> | 
       <a href="https://www.facebook.com/100007873209011/" target="_blank">Facebook 吳展旭</a> | 
       <a href="https://www.instagram.com/wu_chan_hsu" target="_blank">Instagram wu_chan_hsu</a> | 
-      <a href="https://www.threads.net/@wu_chan_hsu" target="_blank">Threads wu_chan_hsu</a> | 
       <a href="https://www.instagram.com/omg_taiwan" target="_blank">Instagram omg_taiwan</a> | 
       <a href="https://www.instagram.com/omg_eat_jhan" target="_blank">Instagram omg_eat_jhan</a> | 
       <a href="https://www.instagram.com/taiwan_med_notes" target="_blank">Instagram taiwan_med_notes</a> | 
       <a href="https://www.instagram.com/hanhsu_studio" target="_blank">Instagram hanhsu_studio</a> | 
+      <a href="https://www.threads.net/@wu_chan_hsu" target="_blank">Threads wu_chan_hsu</a> |
     </p>
     <p>
       展旭資料：
@@ -723,6 +750,33 @@
     window.history.pushState({}, "", window.location.pathname);
   });
   
+  // 切換日期的通用函數
+  function switchDay(direction) {
+    const days = Array.from(document.querySelectorAll('.day-item'));
+    const selected = document.querySelector('.day-item.selected');
+    if (!selected) return;
+    let index = days.indexOf(selected);
+    if (index === -1) return;
+    let newIndex = index + direction;
+    // 防呆：避免超出範圍
+    if (newIndex < 0 || newIndex >= days.length) return;
+    // 取消原本選中
+    selected.classList.remove('selected');
+    // 設定新選中
+    const newDay = days[newIndex];
+    newDay.classList.add('selected');
+    newDay.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    // 觸發點擊事件 (載入內容)
+    newDay.click();
+  }
+  // 綁定前一日 / 後一日按鈕
+  document.getElementById("prevDay").addEventListener("click", function () {
+    switchDay(-1);
+  });
+  document.getElementById("nextDay").addEventListener("click", function () {
+    switchDay(1);
+  });
+
   </script>
 
 </body>

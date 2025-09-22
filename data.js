@@ -345,6 +345,12 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/dHMdgjZiP4qwx34n7", label: "2020年9月21日 內心都有天使與惡魔交戰 不爭氣的用自己睡覺時間認命開" }
     ],
     "22": [
+      { type: "link", content: "https://photos.app.goo.gl/Kk8mmQ3yc7vGvRQQ9", label: "2025年9月22日 亞洲社會從小就是學習一個錯誤的工作態度 大家都甘願鞠躬盡瘁 卻從來很少對自己人生的快樂跟健康負責" },
+      { type: "link", content: "https://photos.app.goo.gl/CDLez9fYNtVY3g7c9", label: "2025年9月22日 政府會操弄輿論欺騙人民 大力提倡醫護應該要發展自媒體 應該要有自己的音量" },
+      { type: "link", content: "https://photos.app.goo.gl/tAeiRPdfhosRvSy89", label: "2025年9月22日 從此不再對始祖鳥有信仰了" },
+      { type: "link", content: "https://photos.app.goo.gl/L2Ry2nhqmbAcwozJ6", label: "2025年9月22日 去歐美洲千萬不要帶電腦" },
+      { type: "link", content: "https://photos.app.goo.gl/MwjDYDArLtdLU4XW8", label: "2025年9月22日 我也要當小狗" },
+      { type: "link", content: "https://photos.app.goo.gl/hbRCsqz66M3nC2ed6", label: "2025年9月22日 以後我都會記得幫你按" },
       { type: "link", content: "https://photos.app.goo.gl/DhDkFTv8pdhVSgXn9", label: "2024年9月22日 對國家沒貢獻的嘴砲對國家有貢獻的人" },
       { type: "link", content: "https://photos.app.goo.gl/pnZ4NQ2HgVSoaTBN6", label: "2024年9月22日 健身完就是直接約永豆" },
       { type: "link", content: "https://photos.app.goo.gl/ERN5qLZmFcvpoTAZA", label: "2023年9月22日 南京復興站真的很愛你 一定要趁被拆下來之前趕快去合照" },
@@ -354,7 +360,14 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/aAR699nw4GVuKCb79", label: "2017年9月22日 這才是生活 但是它很短暫 此生發誓及早退休" },
       { type: "link", content: "https://photos.app.goo.gl/uDAT7pPpgyNfTvZi9", label: "2016年9月22日 連續完全沒坐下上刀九個小時解鎖 又刷新自己的耐力紀錄了 nolimit" }
     ],
-    "23": [],
+    "23": [
+      { type: "link", content: "https://photos.app.goo.gl/8sNWTUWarnhtyFZM9", label: "2024年9月23日 都2024年了怎麼還可以這麼無知" },
+      { type: "link", content: "https://photos.app.goo.gl/SdgMbeLLv4sL7EHN9", label: "2024年9月23日 請問這是蓄意殺人嗎 沒關係你繼續害人" },
+      { type: "link", content: "https://photos.app.goo.gl/WUX9cTHLbzr9g7RV7", label: "2023年9月23日 多希望我的工作能給我預一個十天長假 去拍這些世界美景才是人生" },
+      { type: "link", content: "https://photos.app.goo.gl/tDxE2Rb3Wj7vE9mm8", label: "2023年9月23日 第一眼以為我是垃圾 每個月都需要啃肉 拼命的把鍋子塞滿好吃的牛肉 死不吃菜" },
+      { type: "link", content: "https://photos.app.goo.gl/Wjd3pUYP4dchJpDz9", label: "2023年9月23日 rasitol作用機轉 網路資料有許多複雜但都不甚完美的說明及圖片" },
+      { type: "link", content: "https://photos.app.goo.gl/1bVqXQjMEKVpduG59", label: "2019年9月23日 發售2022風景系列桌曆 賣場是在蝦皮一本250元" }
+    ],
     "24": [],
     "25": [],
     "26": [],
