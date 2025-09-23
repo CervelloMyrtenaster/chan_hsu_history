@@ -43,17 +43,19 @@ header input[type="text"] {
     border: 1px solid #ccc;
     border-radius: 4px;
     font-size: 0.9rem;
+    transition: background 0.3s;
 }
 
 header button {
     margin: 4px;
     padding: 6px 12px;
     cursor: pointer;
-    border: none;
+    border: 1px solid #ccc;
     border-radius: 4px;
     background: #555;
     color: #fff;
     font-size: 0.9rem;
+    transition: background 0.3s;
 }
 
 header button:hover {
@@ -66,6 +68,7 @@ header button:hover {
     gap: 10px; /* 按鈕之間留間距 */
     padding: 6px;
     background: #444;
+    flex-wrap: wrap;
 }
 
 .header-buttons button {
@@ -75,11 +78,80 @@ header button:hover {
     border: 1px solid #ccc;
     border-radius: 4px;
     cursor: pointer;
+    transition: background 0.3s;
 }
 
 .header-buttons button:hover {
     background: #888;
 }
+
+/* 統計儀表板樣式 */
+.dashboard {
+    background: #fff;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    display: none;
+}
+.dashboard.active {
+    display: block;
+}
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+    margin-bottom: 20px;
+}
+.stat-card {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+    text-align: center;
+}
+.stat-number {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.stat-label {
+    font-size: 0.9em;
+    opacity: 0.9;
+}
+
+/* 熱力圖樣式 */
+.heatmap-container {
+    background: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+.heatmap {
+    display: grid;
+    grid-template-columns: repeat(52, 1fr);
+    gap: 2px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+.heatmap-day {
+    width: 12px;
+    height: 12px;
+    border-radius: 2px;
+    cursor: pointer;
+    position: relative;
+    transition: transform 0.2s;
+}
+.heatmap-day:hover {
+    transform: scale(1.2);
+}
+
+.heatmap-day.level-0 { background: #ebedf0; }
+.heatmap-day.level-1 { background: #c6e48b; }
+.heatmap-day.level-2 { background: #7bc96f; }
+.heatmap-day.level-3 { background: #239a3b; }
+.heatmap-day.level-4 { background: #196127; }
 
 .menu-toggle {
     display: none;
@@ -164,7 +236,12 @@ nav li ul li:hover {
 }
 
 h2 {
-    margin-top: 0.25em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+h3 {
+    margin-top: 0.5em;
     margin-bottom: 0.5em;
 }
 
@@ -197,7 +274,6 @@ h2 {
 body.dark-mode {
     background: #1e1e1e;
     color: #e0e0e0;
-    transition: background 0.3s, color 0.3s;
 }
 body.dark-mode header {
     background: #2a2a2a;
@@ -224,6 +300,16 @@ body.dark-mode button {
 body.dark-mode button:hover {
     background: #555;
     color: #ffffff;
+}
+body.dark-mode .dashboard {
+    background: #2c2c2c;
+    color: #e0e0e0;
+}
+body.dark-mode .heatmap-container {
+    background: #2c2c2c;
+}
+body.dark-mode .heatmap-day.level-0 { 
+    background: #2d333b; 
 }
 body.dark-mode #sidebar {
     background: #2c2c2c;
@@ -311,6 +397,16 @@ body.dark-mode footer a {
     }
     nav.open {
         transform: translateX(0);
+    }
+    .stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .heatmap {
+        grid-template-columns: repeat(26, 1fr);
+    }
+    .heatmap-day {
+        width: 10px;
+        height: 10px;
     }
     .content {
         padding: 15px;

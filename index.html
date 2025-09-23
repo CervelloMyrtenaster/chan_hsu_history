@@ -28,14 +28,43 @@
   </header>
 
   <div class="header-buttons">
-    <button id="prevDay">看前一日</button>
-    <button id="nextDay">看後一日</button>
-    <button id="randomBtn">隨機看看</button>
+    <button id="dashboardBtn">統計儀表板</button>
+    <button id="prevDay">前一日</button>
+    <button id="nextDay">後一日</button>
+    <button id="randomBtn">隨機看</button>
     <button id="shareBtn">分享</button>
-    <button id="theme-toggle">Dark Mode</button>
+    <button id="theme-toggle">深色模式</button>
   </div>
   
   <div class="menu-toggle">☰ 選單</div>
+
+  <div class="dashboard" id="dashboard">
+    <h2>展旭記錄統計儀表板</h2>
+    
+    <div class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-number" id="totalRecords">0</div>
+        <div class="stat-label">總記錄數</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number" id="activeDays">0</div>
+        <div class="stat-label">活躍天數</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number" id="mostActiveMonth">-</div>
+        <div class="stat-label">最活躍月份</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number" id="averagePerDay">0</div>
+        <div class="stat-label">平均每日記錄</div>
+      </div>
+    </div>
+
+    <div class="heatmap-container">
+      <h3>年度活動熱力圖</h3>
+      <div class="heatmap" id="heatmap"></div>
+    </div>
+  </div>
 
   <div class="container">
     <nav id="sidebar">
@@ -43,7 +72,7 @@
     </nav>
 
     <main class="content" id="content">
-      <p>請於選單中選擇日期以查看展旭紀錄</p>
+      <p>請於選單中選擇日期以查看展旭記錄</p>
     </main>
   </div>
 

@@ -1,4 +1,4 @@
-// 展旭紀錄資料庫
+// 展旭記錄資料庫
 const records = {
   
   "1": {
@@ -345,10 +345,11 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/dHMdgjZiP4qwx34n7", label: "2020年9月21日 內心都有天使與惡魔交戰 不爭氣的用自己睡覺時間認命開" }
     ],
     "22": [
+      { type: "link", content: "https://photos.app.goo.gl/q2C6sRfdTb9M1dA69", label: "2025年9月22日 雖然發美食的頻率會下降 但有信心推薦的店家是絕對好吃的 也會慢慢轉換到THREAD上經營囉" },
       { type: "link", content: "https://photos.app.goo.gl/Kk8mmQ3yc7vGvRQQ9", label: "2025年9月22日 亞洲社會從小就是學習一個錯誤的工作態度 大家都甘願鞠躬盡瘁 卻從來很少對自己人生的快樂跟健康負責" },
-      { type: "link", content: "https://photos.app.goo.gl/CDLez9fYNtVY3g7c9", label: "2025年9月22日 政府會操弄輿論欺騙人民 大力提倡醫護應該要發展自媒體 應該要有自己的音量" },
-      { type: "link", content: "https://photos.app.goo.gl/tAeiRPdfhosRvSy89", label: "2025年9月22日 從此不再對始祖鳥有信仰了" },
       { type: "link", content: "https://photos.app.goo.gl/L2Ry2nhqmbAcwozJ6", label: "2025年9月22日 去歐美洲千萬不要帶電腦" },
+      { type: "link", content: "https://photos.app.goo.gl/tAeiRPdfhosRvSy89", label: "2025年9月22日 從此不再對始祖鳥有信仰了" },
+      { type: "link", content: "https://photos.app.goo.gl/CDLez9fYNtVY3g7c9", label: "2025年9月22日 政府會操弄輿論欺騙人民 大力提倡醫護應該要發展自媒體 應該要有自己的音量" },
       { type: "link", content: "https://photos.app.goo.gl/MwjDYDArLtdLU4XW8", label: "2025年9月22日 我也要當小狗" },
       { type: "link", content: "https://photos.app.goo.gl/hbRCsqz66M3nC2ed6", label: "2025年9月22日 以後我都會記得幫你按" },
       { type: "link", content: "https://photos.app.goo.gl/DhDkFTv8pdhVSgXn9", label: "2024年9月22日 對國家沒貢獻的嘴砲對國家有貢獻的人" },
@@ -361,6 +362,8 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/uDAT7pPpgyNfTvZi9", label: "2016年9月22日 連續完全沒坐下上刀九個小時解鎖 又刷新自己的耐力紀錄了 nolimit" }
     ],
     "23": [
+      { type: "link", content: "https://photos.app.goo.gl/P4qdMdUaJKsdgAEU7", label: "2025年9月23日 怎麼可能站立死亡" },
+      { type: "link", content: "https://photos.app.goo.gl/XpU8waBufmPZZvnU7", label: "2025年9月23日 社會住宅 我覺得要申請試試" },
       { type: "link", content: "https://photos.app.goo.gl/8sNWTUWarnhtyFZM9", label: "2024年9月23日 都2024年了怎麼還可以這麼無知" },
       { type: "link", content: "https://photos.app.goo.gl/SdgMbeLLv4sL7EHN9", label: "2024年9月23日 請問這是蓄意殺人嗎 沒關係你繼續害人" },
       { type: "link", content: "https://photos.app.goo.gl/WUX9cTHLbzr9g7RV7", label: "2023年9月23日 多希望我的工作能給我預一個十天長假 去拍這些世界美景才是人生" },
@@ -368,7 +371,20 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/Wjd3pUYP4dchJpDz9", label: "2023年9月23日 rasitol作用機轉 網路資料有許多複雜但都不甚完美的說明及圖片" },
       { type: "link", content: "https://photos.app.goo.gl/1bVqXQjMEKVpduG59", label: "2019年9月23日 發售2022風景系列桌曆 賣場是在蝦皮一本250元" }
     ],
-    "24": [],
+    "24": [
+      { type: "link", content: "https://photos.app.goo.gl/oX2vEu3JizgTn1QV8", label: "2024年9月24日 所以醫師開藥要對你負責 但這份責任要算免費？" },
+      { type: "link", content: "https://photos.app.goo.gl/C7PBjc1zj1eeTgrWA", label: "2024年9月24日 我打到戰場傳說還是一堆不會看小地圖來幫忙的白痴隊友 這種只能說好人平安 但輸了應該畢竟隊友還在耍憨清中線吃兵" },
+      { type: "link", content: "https://photos.app.goo.gl/WMGwfwckbQoYGhGK6", label: "2024年9月24日 這三句話要好好應用在職場" },
+      { type: "link", content: "https://photos.app.goo.gl/jXsJsGCDAwpnjdAb8", label: "2024年9月24日 就診以前一定要先查醫師經歷 沒有專科的多半是受訓階段有問題 沒辦法通過受訓或是不吃苦選擇提早享受 這樣的人是不會認真幫你看病的" },
+      { type: "link", content: "https://photos.app.goo.gl/5eLy9RSn1nZ3fYkK8", label: "2023年9月24日 氣切ballon破掉 很簡當的現象其實看過一次就會有印象 會持續放上這類臨床觀察的文章" },
+      { type: "link", content: "https://photos.app.goo.gl/dzUWpQzKiihmdWA28", label: "2023年9月24日 破紀錄 第一次有這麼多筆簽章" },
+      { type: "link", content: "https://photos.app.goo.gl/1Z8mLNApFWkjQbkJA", label: "2022年9月24日 感覺當時走進現場就會醉了" },
+      { type: "link", content: "https://photos.app.goo.gl/EnMsbbBLTumdT7eS6", label: "2021年9月24日 2022風景系列桌曆 一本250元有興趣可以支持支持 小弟我不會收益任何一塊錢 最後收入也會撥一些捐給流浪狗之家" },
+      { type: "link", content: "https://photos.app.goo.gl/9NDwjuCPS8j7zYLz7", label: "2018年9月24日 原來現實與制度是把利刃 確實地消磨著我 夢想不過是曾掛在嘴邊的無聊名詞" },
+      { type: "link", content: "https://photos.app.goo.gl/zQf97S9D5Jnma3haA", label: "2018年9月24日 在海上努力用四個孤獨晚上 用針線縫出一隻White guy布偶 言出必行的女子不能亂惹" },
+      { type: "link", content: "https://photos.app.goo.gl/GXeyStHhb6A53DzE6", label: "2018年9月24日 顛簸的航程 像邊地震邊試著睡著 超級狹窄的小床 有人肚子很痛很緊急趕快來看 恩沒睡" },
+      { type: "link", content: "https://photos.app.goo.gl/3M9qjTVgHemp6SmEA", label: "2017年9月24日 我麻吉 跟朋友一起吃飯囉 沒朋友" }
+    ],
     "25": [],
     "26": [],
     "27": [],
