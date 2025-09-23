@@ -54,7 +54,7 @@
       const stats = calculateStats();
       document.getElementById('totalRecords').textContent = stats.totalRecords;
       document.getElementById('activeDays').textContent = stats.activeDays;
-      document.getElementById('mostActiveMonth').textContent = `${stats.mostActiveMonth}月`;
+      document.getElementById('mostActiveMonth').textContent = stats.mostActiveMonth;
       document.getElementById('averagePerDay').textContent = stats.averagePerDay;
   }
 
