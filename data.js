@@ -372,6 +372,18 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/1bVqXQjMEKVpduG59", label: "2019年9月23日 發售2022風景系列桌曆 賣場是在蝦皮一本250元" }
     ],
     "24": [
+      { type: "link", content: "https://photos.app.goo.gl/2wrBJeYUoDBizjVP7", label: "2025年9月24日 這種壁虎可以養嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/wyQEiPYxXxLs5BBn6", label: "2025年9月24日 買買買 超好買" },
+      { type: "link", content: "https://photos.app.goo.gl/9KhR47SkHLr6XQSYA", label: "2025年9月24日 AI太強了" },
+      { type: "link", content: "https://photos.app.goo.gl/Lr7UmGhDLsNXqsct9", label: "2025年9月24日 健身工廠 花蓮也要開" },
+      { type: "link", content: "https://photos.app.goo.gl/BeQ3XvKNJBnGQ71K6", label: "2025年9月24日 跟沒值班還留在醫院的悲苦人買漢堡王就算了 他還被店員多薛8塊錢" },
+      { type: "link", content: "https://photos.app.goo.gl/M38BrwJc1vc6ndC39", label: "2025年9月24日 真的是醫院又窮又小又機掰" },
+      { type: "link", content: "https://photos.app.goo.gl/xovbG5E8QyeUzjyu8", label: "2025年9月24日 花蓮有夠可怕" },
+      { type: "link", content: "https://photos.app.goo.gl/gLxbhK1eGM7LqSdH6", label: "2025年9月24日 原來如此 太聰明了哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/4vTmDiq1WsnYsvY66", label: "2025年9月24日 這個才是真的已讀亂回" },
+      { type: "link", content: "https://photos.app.goo.gl/9RXZsS2FFYDpe6nD7", label: "2025年9月24日 居然有雨衣欸 這麼可愛哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/Eq6USqzVn7kZDR9C7", label: "2025年9月24日 這是因為男生希望能跟女生聊久一點故意裝傻的" },
+      { type: "link", content: "https://photos.app.goo.gl/ZALSTFK4dQznFZXB9", label: "2025年9月24日 他是不是以為不給他水了哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/oX2vEu3JizgTn1QV8", label: "2024年9月24日 所以醫師開藥要對你負責 但這份責任要算免費？" },
       { type: "link", content: "https://photos.app.goo.gl/C7PBjc1zj1eeTgrWA", label: "2024年9月24日 我打到戰場傳說還是一堆不會看小地圖來幫忙的白痴隊友 這種只能說好人平安 但輸了應該畢竟隊友還在耍憨清中線吃兵" },
       { type: "link", content: "https://photos.app.goo.gl/WMGwfwckbQoYGhGK6", label: "2024年9月24日 這三句話要好好應用在職場" },
@@ -385,7 +397,15 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/GXeyStHhb6A53DzE6", label: "2018年9月24日 顛簸的航程 像邊地震邊試著睡著 超級狹窄的小床 有人肚子很痛很緊急趕快來看 恩沒睡" },
       { type: "link", content: "https://photos.app.goo.gl/3M9qjTVgHemp6SmEA", label: "2017年9月24日 我麻吉 跟朋友一起吃飯囉 沒朋友" }
     ],
-    "25": [],
+    "25": [
+      { type: "link", content: "https://photos.app.goo.gl/URMWfeRgvjSTJmkQ6", label: "2024年9月25日 這樣有回答到嗎 有啊" },
+      { type: "link", content: "https://photos.app.goo.gl/UXftAjtfwhkR6rpz5", label: "2023年9月25日 喬神都會爆了 何況凡人" },
+      { type: "link", content: "https://photos.app.goo.gl/6T5uMh5pqsKTmWeR7", label: "2023年9月25日 英雄所見略同 DK大神這次跑的攝影行程 剛好就是我原本心中完美的北越風景行程 好想放下一切去拍照" },
+      { type: "link", content: "https://photos.app.goo.gl/uJPF6aHJwya8Uahv7", label: "2022年9月25日 太扯了吧 居然戴迪卡儂手錶" },
+      { type: "link", content: "https://photos.app.goo.gl/Lpy2TUjTaVZZN3YK8", label: "2022年9月25日 四獎 中了4000元 95張發票 哇靠" },
+      { type: "link", content: "https://photos.app.goo.gl/9WB1qBeRot3FXNvB7", label: "2021年9月25日 追焦功力超強的 台灣風景一哥追蹤起來" },
+      { type: "link", content: "https://photos.app.goo.gl/PxvZ8eESp8Li5qsr8", label: "2017年9月25日 開始還病歷債囉" }
+    ],
     "26": [],
     "27": [],
     "28": [

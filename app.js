@@ -185,6 +185,42 @@
     }
   }
 
+  function createRecordElement(item) {
+      const div = document.createElement("div");
+      div.className = "record";
+
+      if (item.type === "text") {
+        const p = document.createElement("p");
+        p.textContent = item.content;
+        div.appendChild(p);
+      } else if (item.type === "link") {
+        const url = item.content || "";
+        const label = item.label || url;
+
+        // 若為圖片直連，直接顯示圖片
+        if (imgRe.test(url)) {
+          const img = document.createElement("img");
+          img.src = url;
+          img.alt = label;
+          div.appendChild(img);
+          if (label) {
+            const cap = document.createElement("p");
+            cap.textContent = label;
+            div.appendChild(cap);
+          }
+        } else {
+          // 一般連結，使用 <a> 並用 textContent 以避免 raw HTML 注入
+          const a = document.createElement("a");
+          a.href = url;
+          a.target = "_blank";
+          a.rel = "noopener";
+          a.textContent = label;
+          div.appendChild(a);
+        }
+      }
+      return div;
+  }
+
   // 顯示記錄(日期頁面)
   function showRecords(month, day, skipPush = false) {
     const monthStr = String(month);
@@ -211,39 +247,8 @@
       contentDiv.innerHTML += "<p>此日期尚無記錄。</p>";
     } else {
       list.forEach(item => {
-        const div = document.createElement("div");
-        div.className = "record";
-
-        if (item.type === "text") {
-          const p = document.createElement("p");
-          p.textContent = item.content;
-          div.appendChild(p);
-        } else if (item.type === "link") {
-          const url = item.content || "";
-          const label = item.label || url;
-
-          // 若為圖片直連，直接顯示圖片
-          if (imgRe.test(url)) {
-            const img = document.createElement("img");
-            img.src = url;
-            img.alt = label;
-            div.appendChild(img);
-            if (label) {
-              const cap = document.createElement("p");
-              cap.textContent = label;
-              div.appendChild(cap);
-            }
-          } else {
-            // 一般連結，使用 <a> 並用 textContent 以避免 raw HTML 注入
-            const a = document.createElement("a");
-            a.href = url;
-            a.target = "_blank";
-            a.rel = "noopener";
-            a.textContent = label;
-            div.appendChild(a);
-          }
-        }
-        contentDiv.appendChild(div);
+        const recordElement = createRecordElement(item);
+        contentDiv.appendChild(recordElement);
       });
     }
 
@@ -255,11 +260,8 @@
       const newUrl = `${location.origin}${location.pathname}?${params.toString()}`;
       window.history.pushState({ month: monthStr, day: dayStr }, "", newUrl);
     }
-
-    // highlight sidebar (把之前的 .active 移掉並加上新的)
+    
     highlightSidebar(monthStr, dayStr);
-
-    // 手機版收合選單
     sidebar.classList.remove("open");
   }
 
@@ -287,50 +289,33 @@
       for (let d in records[m]) {
         const arr = records[m][d];
         if (!Array.isArray(arr) || arr.length === 0) continue;
+
         arr.forEach(item => {
           const label = item.label || "";
           const content = item.content || "";
           if ((label && label.toLowerCase().includes(lower)) || (content && content.toLowerCase().includes(lower))) {
             found = true;
-            const div = document.createElement("div");
-            div.className = "record";
+
+            const resultContainer = document.createElement("div");
+            resultContainer.className = "record";
 
             // 可點的日期連結，點擊會跳到該日期並更新 URL
             const dateLink = document.createElement("a");
             dateLink.href = "#";
+            dateLink.style.fontWeight = "bold";
             dateLink.textContent = `${m}月${d}日`;
             dateLink.addEventListener("click", (e) => {
               e.preventDefault();
               showRecords(m, d);
             });
-            div.appendChild(dateLink);
-            div.appendChild(document.createElement("br"));
 
-            if (item.type === "text") {
-              const p = document.createElement("p");
-              p.textContent = item.content;
-              div.appendChild(p);
-            } else if (item.type === "link") {
-              const url = item.content;
-              const lab = item.label || url;
-              if (imgRe.test(url)) {
-                const img = document.createElement("img");
-                img.src = url;
-                img.alt = lab;
-                div.appendChild(img);
-                const cap = document.createElement("p");
-                cap.textContent = lab;
-                div.appendChild(cap);
-              } else {
-                const a = document.createElement("a");
-                a.href = url;
-                a.target = "_blank";
-                a.rel = "noopener";
-                a.textContent = lab;
-                div.appendChild(a);
-              }
+            const recordElement = createRecordElement(item);
+            resultContainer.appendChild(dateLink);
+            resultContainer.appendChild(document.createElement("br"));
+            while (recordElement.firstChild) {
+                resultContainer.appendChild(recordElement.firstChild);
             }
-            contentDiv.appendChild(div);
+            contentDiv.appendChild(resultContainer);
           }
         });
       }
@@ -403,13 +388,54 @@
   // 切換日期的通用函數
   function switchDay(direction) {
     const days = Array.from(document.querySelectorAll('.day-item'));
+    if (days.length === 0) return; // 如果完全沒有記錄，直接返回
+
     const selected = document.querySelector('.day-item.selected');
-    if (!selected) return;
-    let index = days.indexOf(selected);
-    if (index === -1) return;
-    let newIndex = index + direction;
-    if (newIndex < 0 || newIndex >= days.length) return;
-    selected.classList.remove('selected');
+    let newIndex = -1;
+
+    if (selected) {
+      // 情況一：目前有選取的日期
+      const currentIndex = days.indexOf(selected);
+      if (currentIndex === -1) return;
+      newIndex = currentIndex + direction;
+
+    } else {
+      // 情況二：目前沒有選取的日期，根據 currentMonth 和 currentDay 尋找下一個目標
+      if (!currentMonth || !currentDay) return;
+      const currentDateValue = parseInt(currentMonth) * 100 + parseInt(currentDay);
+
+      if (direction === 1) {
+        // 尋找後一日
+        for (let i = 0; i < days.length; i++) {
+          const dayValue = parseInt(days[i].dataset.month) * 100 + parseInt(days[i].dataset.day);
+          if (dayValue > currentDateValue) {
+            newIndex = i;
+            break;
+          }
+        }
+      } else {
+        // 尋找前一日
+        for (let i = days.length - 1; i >= 0; i--) {
+          const dayValue = parseInt(days[i].dataset.month) * 100 + parseInt(days[i].dataset.day);
+          if (dayValue < currentDateValue) {
+            newIndex = i;
+            break;
+          }
+        }
+      }
+    }
+
+    // 檢查計算出的 newIndex 是否在有效範圍內
+    if (newIndex < 0 || newIndex >= days.length) {
+      return;
+    }
+
+    // 移除舊的 selected class
+    if (selected) {
+      selected.classList.remove('selected');
+    }
+
+    // 取得新的目標日期元素，並觸發點擊
     const newDay = days[newIndex];
     newDay.classList.add('selected');
     newDay.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
@@ -455,8 +481,10 @@
       document.body.classList.toggle("dark-mode");
       if (document.body.classList.contains("dark-mode")) {
           this.textContent = "淺色模式";
+          localStorage.setItem('theme', 'dark');
       } else {
           this.textContent = "深色模式";
+          localStorage.setItem('theme', 'light');
       }
   });
 
@@ -467,19 +495,11 @@
           dashboard.classList.remove('active');
           document.getElementById('dashboardBtn').textContent = '統計儀表板';
       }
-      
-      currentMonth = null;
-      currentDay = null;
-      currentSearch = null;
-      
+
       const today = new Date();
       const month = today.getMonth() + 1;
       const day = today.getDate();
-      if (records[month] && records[month][day]) {
-          showRecords(month, day, true);
-      } else {
-          contentDiv.innerHTML = "<p>請於選單中選擇日期以查看展旭記錄</p>";
-      }
+      showRecords(month, day);
       
       sidebar.classList.remove("open");
       document.querySelectorAll("#monthList ul").forEach(ul => {
@@ -490,6 +510,12 @@
 
   // onload 與 popstate (歷史紀錄/分享網址支援)
   window.onload = () => {
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme === 'dark') {
+        document.body.classList.add('dark-mode');
+        document.getElementById("theme-toggle").textContent = "淺色模式";
+    }
+
     buildMonthList();
 
     const urlParams = new URLSearchParams(window.location.search);
@@ -503,15 +529,11 @@
     } else if (monthParam && dayParam && records[monthParam] && records[monthParam][dayParam] && records[monthParam][dayParam].length > 0) {
       showRecords(monthParam, dayParam, true);
     } else {
-      // 顯示今天(若該日有資料)
+      // 顯示今天
       const today = new Date();
       const m = String(today.getMonth() + 1);
       const d = String(today.getDate());
-      if (records[m] && Array.isArray(records[m][d]) && records[m][d].length > 0) {
-        showRecords(m, d, true);
-      } else {
-        contentDiv.innerHTML = "<p>請於選單中選擇日期以查看展旭記錄</p>";
-      }
+      showRecords(m, d, true);
     }
   };
 

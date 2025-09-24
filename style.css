@@ -1,3 +1,16 @@
+:root {
+  --bg-color: #f9f9f9;
+  --text-color: #333333;
+  --header-bg: #ffffff;
+  --content-bg: #ffffff;
+  --sidebar-bg: #f9f9f9;
+  --link-color: #0066cc;
+  --border-color: #dddddd;
+  --button-bg: #555555;
+  --button-text: #ffffff;
+  --button-hover: #888888;
+}
+
 /* 預設 Light Mode */
 body {
     margin: 0;
@@ -5,28 +18,27 @@ body {
     display: flex;
     flex-direction: column;
     height: 100vh;
-    background: #f9f9f9;
-    color: #333;
+    background: var(--bg-color);
+    color: var(--text-color);
     transition: background 0.3s, color 0.3s;
 }
 
 header {
-    background: #ffffff;
-    color: #fff;
-    transition: background 0.3s;
     padding: 10px;
     text-align: center;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background: var(--header-bg);    
+    transition: background 0.3s;
 }
 
 header h1 {
     margin: 0;
-    font-size: 20px;
-    color: #333;
-    transition: color 0.3s;
+    font-size: 30px;
     cursor: pointer;
+    color: var(--text-color);
+    transition: color 0.3s;    
 }
 
 .header-right {
@@ -40,7 +52,7 @@ header input[type="text"] {
     max-width: 300px;
     padding: 6px;
     margin: 6px 0;
-    border: 1px solid #ccc;
+    border: 1px solid var(--border-color);
     border-radius: 4px;
     font-size: 0.9rem;
     transition: background 0.3s;
@@ -50,16 +62,15 @@ header button {
     margin: 4px;
     padding: 6px 12px;
     cursor: pointer;
-    border: 1px solid #ccc;
+    border: 1px solid var(--border-color);
     border-radius: 4px;
-    background: #555;
-    color: #fff;
-    font-size: 0.9rem;
+    background: var(--button-bg);
+    color: var(--button-text);
     transition: background 0.3s;
 }
 
 header button:hover {
-    background: #777;
+    background: var(--button-hover);
 }
 
 .header-buttons {
@@ -73,26 +84,27 @@ header button:hover {
 
 .header-buttons button {
     padding: 4px 10px;
-    background: #666;
-    color: #fff;
-    border: 1px solid #ccc;
+    background: var(--button-bg);
+    color: var(--button-text);
+    border: 1px solid var(--border-color);
     border-radius: 4px;
     cursor: pointer;
     transition: background 0.3s;
 }
 
 .header-buttons button:hover {
-    background: #888;
+    background: var(--button-hover);
 }
 
 /* 統計儀表板樣式 */
 .dashboard {
-    background: #fff;
+    background: var(--content-bg);
     padding: 10px;
     margin: 10px;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     display: none;
+    transition: background 0.3s, color 0.3s;
 }
 .dashboard.active {
     display: block;
@@ -122,11 +134,12 @@ header button:hover {
 
 /* 熱力圖樣式 */
 .heatmap-container {
-    background: #fff;
+    background: var(--content-bg);
     padding: 10px;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     margin-bottom: 20px;
+    transition: background 0.3s, color 0.3s;
 }
 .heatmap {
     display: grid;
@@ -141,7 +154,7 @@ header button:hover {
     border-radius: 2px;
     cursor: pointer;
     position: relative;
-    transition: transform 0.2s;
+    transition: background 0.3s, transform 0.2s;
 }
 .heatmap-day:hover {
     transform: scale(1.2);
@@ -155,12 +168,11 @@ header button:hover {
 
 .menu-toggle {
     display: none;
-    background: #333;
-    color: #fff;
+    background: var(--text-color);
+    color: var(--content-bg);
     padding: 6px;
     cursor: pointer;
     text-align: center;
-    font-size: 1.2rem;
 }
 
 .container {
@@ -170,20 +182,20 @@ header button:hover {
 }
 
 #sidebar {
-    background: #ffffff;
-    color: #333;
+    background: var(--sidebar-bg);
+    color: var(--text-color);
     transition: background 0.3s, color 0.3s;
 }
 
 #monthList {
-    background: #f9f9f9;
-    color: #333;
+    background: var(--bg-color);
+    color: var(--text-color);
     transition: background 0.3s, color 0.3s;
 }
 
 #content {
-    background: #ffffff;
-    color: #333;
+    background: var(--content-bg);
+    color: var(--text-color);
     transition: background 0.3s, color 0.3s;
     flex: 1;
     padding: 20px;
@@ -192,8 +204,8 @@ header button:hover {
 
 nav {
     width: 250px;
-    background: #f9f9f9;
-    border-right: 1px solid #ddd;
+    background: var(--bg-color);
+    border-right: 1px solid var(--border-color);
     overflow-y: auto;
     transition: transform 0.3s ease-in-out;
 }
@@ -205,7 +217,7 @@ nav ul {
 nav li {
     padding: 10px;
     cursor: pointer;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid var(--border-color);
     user-select: none;
 }
 nav li:hover {
@@ -226,7 +238,7 @@ nav li ul li:hover {
     cursor: pointer;
     border-radius: 5px;
     margin: 2px 0;
-    transition: background 0.2s;
+    transition: background 0.3s, color 0.3s;
 }
 .day-item:hover {
     background: #e6f0ff; /* 淺藍 */
@@ -239,7 +251,6 @@ h2 {
     margin-top: 0.5em;
     margin-bottom: 0.5em;
 }
-
 h3 {
     margin-top: 0.5em;
     margin-bottom: 0.5em;
@@ -248,14 +259,14 @@ h3 {
 .record {
     margin-bottom: 10px;
     padding-bottom: 10px;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid var(--border-color);
     line-height: 1.6;
 }
 .record strong {
     color: #444;
 }
 .record a {
-    color: #0066cc;
+    color: var(--link-color);
     text-decoration: none;
 }
 .record a:hover {
@@ -270,49 +281,77 @@ h3 {
     box-shadow: 0 2px 6px rgba(0,0,0,0.15);
 }
 
+footer {
+    background: var(--text-color);
+    color: var(--content-bg);
+    text-align: left;
+    padding: 0px 10px;
+    font-size: 12px;
+}
+footer a {
+    color: #66ccff;
+    text-decoration: none;
+}
+footer a:hover {
+    text-decoration: underline;
+}
+
 /* Dark Mode 主題 */
 body.dark-mode {
-    background: #1e1e1e;
-    color: #e0e0e0;
+  --bg-color: #1e1e1e;
+  --text-color: #e0e0e0;
+  --header-bg: #2a2a2a;
+  --content-bg: #2c2c2c;
+  --sidebar-bg: #2c2c2c;
+  --link-color: #66aaff;
+  --border-color: #555555;
+  --button-bg: #333333;
+  --button-text: #e0e0e0;
+  --button-hover: #555555;
+}
+body.dark-mode {
+    background: var(--bg-color);
+    color: var(--text-color);
 }
 body.dark-mode header {
-    background: #2a2a2a;
-    color: #ffffff;
+    background: var(--header-bg);
 }
 body.dark-mode h1 {
-    color: #ffffff;
+    color: var(--text-color);
 }
 body.dark-mode input[type="text"] {
     background: #333;
-    color: #e0e0e0;
-    border: 1px solid #555;
+    color: var(--text-color);
+    border: 1px solid var(--border-color);
 }
 body.dark-mode input[type="text"]:hover,
 body.dark-mode input[type="text"]:focus {
     border-color: #888;
 }
 body.dark-mode button {
-    background: #444;
-    color: #e0e0e0;
-    border: 1px solid #666;
-    transition: background 0.2s, color 0.2s;
+    background: var(--button-bg);
+    color: var(--button-text);
+    border: 1px solid var(--border-color);
 }
 body.dark-mode button:hover {
-    background: #555;
+    background: var(--button-hover);
     color: #ffffff;
 }
 body.dark-mode .dashboard {
-    background: #2c2c2c;
-    color: #e0e0e0;
+    background: var(--content-bg);
 }
 body.dark-mode .heatmap-container {
-    background: #2c2c2c;
+    background: var(--content-bg);
 }
 body.dark-mode .heatmap-day.level-0 { 
     background: #2d333b; 
 }
+body.dark-mode .menu-toggle{
+    background: #333333;
+    color: var(--text-color);
+}
 body.dark-mode #sidebar {
-    background: #2c2c2c;
+    background: var(--sidebar-bg);
     color: #f1f1f1;
 }
 body.dark-mode #monthList {
@@ -322,10 +361,10 @@ body.dark-mode #monthList {
 body.dark-mode .month-item {
     background: #3a3a3a;
     color: #e0e0e0;
-    transition: background 0.2s, color 0.2s;
+    transition: background 0.3s, color 0.3s;
 }
 body.dark-mode .month-item:hover {
-    background: #555;
+    background: #555555;
     color: #ffffff;
 }
 body.dark-mode .day-item {
@@ -343,25 +382,10 @@ body.dark-mode #content {
     color: #e0e0e0;
 }
 body.dark-mode .record a {
-    color: #66aaff; /* 淺藍色，對比更清楚 */
+    color: var(--link-color);
 }
 body.dark-mode .record a:hover {
     color: #99ccff; /* hover 時再亮一些 */
-}
-
-footer {
-    background: #333;
-    color: #fff;
-    text-align: left;
-    padding: 0px 10px;
-    font-size: 14px;
-}
-footer a {
-    color: #66ccff;
-    text-decoration: none;
-}
-footer a:hover {
-    text-decoration: underline;
 }
 body.dark-mode footer {
     background: #222;
