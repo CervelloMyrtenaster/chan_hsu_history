@@ -191,7 +191,7 @@
 
       if (item.type === "text") {
         const p = document.createElement("p");
-        p.textContent = item.content;
+        p.innerHTML = item.content;
         div.appendChild(p);
       } else if (item.type === "link") {
         const url = item.content || "";
@@ -201,11 +201,11 @@
         if (imgRe.test(url)) {
           const img = document.createElement("img");
           img.src = url;
-          img.alt = label;
+          img.alt = item.label;
           div.appendChild(img);
           if (label) {
             const cap = document.createElement("p");
-            cap.textContent = label;
+            cap.innerHTML = label;
             div.appendChild(cap);
           }
         } else {
@@ -214,7 +214,7 @@
           a.href = url;
           a.target = "_blank";
           a.rel = "noopener";
-          a.textContent = label;
+          a.innerHTML = label;
           div.appendChild(a);
         }
       }
@@ -265,6 +265,15 @@
     sidebar.classList.remove("open");
   }
 
+  function highlightText(text, keyword) {
+    if (!keyword || !text) {
+        return text;
+    }
+    const safeKeyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const regex = new RegExp(safeKeyword, 'gi');
+    return text.replace(regex, (match) => `<mark>${match}</mark>`);
+}
+
   // 搜尋功能(結果中的日期可點回到該日) 
   function searchRecords(keyword, skipPush = false) {
     const kw = String(keyword || "").trim();
@@ -309,7 +318,13 @@
               showRecords(m, d);
             });
 
-            const recordElement = createRecordElement(item);
+            // 建立一個新的 item 物件，其 label 經過高亮處理
+            const highlightedItem = {
+                ...item,
+                label: highlightText(item.label, kw) 
+            };
+            const recordElement = createRecordElement(highlightedItem);
+
             resultContainer.appendChild(dateLink);
             resultContainer.appendChild(document.createElement("br"));
             while (recordElement.firstChild) {
