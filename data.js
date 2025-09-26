@@ -490,6 +490,17 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/PxvZ8eESp8Li5qsr8", label: "2017年9月25日 開始還病歷債囉" }
     ],
     "26": [
+      { type: "link", content: "https://photos.app.goo.gl/nqjQV3DenQs9EjT56", label: "2025年9月26日 認同 黃國昌害的民進黨不能安心官商勾結跟貪污 真的很糟糕" },
+      { type: "link", content: "https://photos.app.goo.gl/7CKmY2uZoCwYLF3Z7", label: "2025年9月26日 \
+        超爛 但應該要跟Meta公司客訴才對 不然以後誰敢經營thread 沒有說明任何理由 請問他有說具體上封鎖原因是什麼嗎 \
+        超神奇的 她都沒做什麼事情 早上起來帳號直接消失 似乎2025/6月也有類似的事情一堆人受害" },
+      { type: "link", content: "https://photos.app.goo.gl/NMu3sFVzQm4n6XJW8", label: "2025年9月26日 \
+        帳號在2025年9月25日早上毫無預警的被官方封鎖 我們發誓在使用帳號從頭到尾 完全沒有違反過任何社群守則 都是非常正常的使用 \
+        但threads在完全沒有提出任何具體理由的情況下 就封鎖她的帳號 第一次申訴後一樣未給理由 還不給第二次申訴機會 請問這是脆公司的怠惰 無能 AI判定錯誤 還是系統出錯 \
+        為什麼這件事很重要 現代社會的資訊跟聯繫都很依靠社群媒體的傳播跟即時性 當大家信任這個軟體並且用心經營後 卻被官方以不負責任且毫無根據的方式封鎖 會扼殺每一個用心在經營社群的人 \
+        退一步來說 我們身為普通使用者也在這個帳號上有非常多回憶跟互動 這樣毫無理由的惡性封鎖真的可惡 \
+        這樣的事情可能發生在妳我身上 而且毫無預期 希望能有網友大神 分享處理經驗 或者能怎麼聯繫thread公司 這實在太瞎了 FB Ig X等都沒碰過這麼白痴的事情\
+        Thread官方能不能好好檢視使用者再封鎖" },
       { type: "link", content: "https://photos.app.goo.gl/xmQSEsqdK7mcpRUF7", label: "2024年9月26日 \
         台北韓丰117 目前最滿意的韓式料理之一  我們點兩人套餐 肉品是半半炸雞 沒有擾人的筋跟皮 炸的非常酥脆 肉質也鮮美多汁 \
         海鮮煎餅偏向濕軟 這是我唯一比較沒那麼喜歡的地方 我個人喜歡脆脆的外皮 但還是味道又香 口感也算紮實 \
@@ -526,8 +537,76 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/JmNGaybbNnUX1yQv9", label: "2018年9月26日 所謂的伙房就是蟑螂養殖場 還沒看過好幾個蟑螂屋在五個小時內全客滿的 黑壓壓的一片觸鬚" },
       { type: "link", content: "https://photos.app.goo.gl/fLjBjHm1KjkfsQY38", label: "2017年9月26日 早上要報Journal 下午要上課評鑑 Suffer" }
     ],
-    "27": [],
+    "27": [
+      { type: "link", content: "https://photos.app.goo.gl/Ya7BcbFg5MXR8fCj7", label: "2024年9月27日 可惜被告一次1000萬直接白做工" },
+      { type: "link", content: "https://photos.app.goo.gl/zgJ6qtAsZYQszJ888", label: "2024年9月27日 \
+        醫師如果當天值班 就可能有非動不可的緊急手術 醫師跟普通職業不同 隨時都要賠上自己的健康跟時間去處理病人 \
+        你們以為坐在診間等很累 殊不知醫師說不定從昨晚站到天亮再來看診再中途去站著開刀" },
+      { type: "link", content: "https://photos.app.goo.gl/bvNyWAL1aaKAc5Uy6", label: "2024年9月27日 賺錢就當未來學費 賠錢只好五歲去打工" },
+      { type: "link", content: "https://photos.app.goo.gl/Qsdti6BfNBastjJq9", label: "2024年9月27日 那+10%服務費給醫師護理師ok嗎 咦怎麼提到收費家屬們也態度變不好了啊" },
+      { type: "link", content: "https://photos.app.goo.gl/XwGKWwpMmXndQfdT8", label: "2024年9月27日 已回購 孩子很愛吃" },
+      { type: "link", content: "https://photos.app.goo.gl/ANqgVC8tBNtu7xh46", label: "2024年9月27日 這題我看不懂A 但利用考試刪去法選出A" },
+      { type: "link", content: "https://photos.app.goo.gl/31ycm3UBeQfASiKn7", label: "2024年9月27日 在台灣很常見吧 但確時是爛文化 該下班就下班 不要自己想累死還要累死別人" },
+      { type: "link", content: "https://photos.app.goo.gl/zeynPDZ5SVzMpJyw7", label: "2024年9月27日 怎麼都不寫上一ㄇ~" },
+      { type: "link", content: "https://photos.app.goo.gl/2meEMdWCqBu3dn1BA", label: "2024年9月27日 沒有那麼誇張 但女生有肌肉也好看" },
+      { type: "link", content: "https://photos.app.goo.gl/zyUDH9Mu4W1HzSNZ7", label: "2023年9月27日 \
+        台灣地小人稠 對行人腳踏車機車汽車都很不友善 道路規劃也因為政黨輪替 都不會真正長遠的考慮整體 \
+        所以就會出現短視近利的法規 例如增加測速照相 現在則是記點來吊銷駕照 \
+        你只要一年半被惡意檢舉三四次 每次都一次給你三四件重複檢舉過 超過12點就直接吊銷了 大家真的要小心 今年6/30開始實施" },
+      { type: "link", content: "https://photos.app.goo.gl/ZuDna7o4942bDLK68", label: "2023年9月27日 \
+        今早前面這輛車轉彎也壓到雙黃線 這樣是不是要檢舉他 我相信幾乎人人都會有這種根本無傷大雅的違法行為 \
+        用智商的1/100就能判斷出 哪些是真的跟檢舉跟懲罰 哪些沒差 畢竟法律不可能因人而異 只能死板的訂在那裡 \
+        如果大家都去檢舉這種屁都不是的案件 社會風氣會好？ 對交通改善有幫助？" },
+      { type: "link", content: "https://photos.app.goo.gl/NehpQaJ5NWMxu9pE6", label: "2023年9月27日 \
+        打給內湖分局 這個檢舉人非常惡劣 每天檢舉不下數件 員警都表示光找他檢舉的案件就花了五分鐘以上 真的太多件 內湖也確實是檢舉高峰的地方 \
+        而且同樣壓到雙黃線 即便只是過一個三公尺的路口 他都能重複檢舉 絕大多數都是完全不影響用路人也在檢舉 \
+        我們沒辦法改變世界上有太多腦袋破洞的垃圾 但從我的案例 出門一定防衛駕駛 一定要當成檢舉魔人都在四周 \
+        他們並不是真的希望台灣交通變好 他們只是想滿足自己貪婪的虛榮心" },
+      { type: "link", content: "https://photos.app.goo.gl/qxvBJsiR4m191Snh7", label: "2022年9月27日 \
+        三總工作紀錄 出院病歷及急診 \
+        一定要一筆一筆作紀錄 國家哪怕一塊錢 一天的退伍時間都要跟我們計較 反過來我們也絕對要跟國家計算到底不能吃虧" },
+      { type: "link", content: "https://photos.app.goo.gl/3tRHcGxJ2QNmEWyH9", label: "2021年9月27日 售副廠NIKON電池 台北可面交 可7-11交貨便自付運費60元 無損傷泡水 只是不能用在Z無反系列 這是以前D750用" },
+      { type: "link", content: "https://photos.app.goo.gl/drWVwK7Ywx1i6szT6", label: "2020年9月27日 \
+        你們這些民眾只知道開罰 有沒有想過為何台灣的藥剩下這些垃圾 就是因為賤飽制度 \
+        省錢省到好的藥不願意進來台灣 省錢省到醫生看病開藥開檢查還要自己貼錢 你們當然只剩下爛藥可以使用 \
+        今天罰再多錢都沒有用 因為你們繳的健保費就是只夠吃夜市牛排 正常的牛排根本吃不到(誰會虧本賣你) 所以別再無知了 \
+        想解決藥物品質的問題 第一步先讓健保改制或崩毀 才能讓有水準的藥物進來台灣 當然更重要的是 要了解醫療就是那麼貴 本來就該花錢不要貪便宜" },
+      { type: "link", content: "https://photos.app.goo.gl/pc6W43dckU8uF4Lx5", label: "2018年9月27日 講這種話的腦袋本來就只有屎 不用吃" },
+      { type: "link", content: "https://photos.app.goo.gl/jeFqr19mpTzJUrau8", label: "2017年9月27日 實習好累ㄛ" },
+    ],
     "28": [
+      { type: "link", content: "https://photos.app.goo.gl/kQzni4uxRkoqhw8i6", label: "2024年9月28日 \
+        今天真的可以再誇張一點 白天就三台導管了 到底還會來幾台 \
+        下次不會再值班前吃鳳梨酥了 之前吃了都沒事啊 但不知道為啥今天吃之前覺得內心沒有安全感" },
+      { type: "link", content: "https://photos.app.goo.gl/Ejwi4jZHHs3QCCZW8", label: "2024年9月28日 其實很好看啊" },
+      { type: "link", content: "https://photos.app.goo.gl/QCvtgB2cpWCR3Ja98", label: "2023年9月28日 謝謝分享" },
+      { type: "link", content: "https://photos.app.goo.gl/WcZLRzcRqtjJs61D8ctGxjGXWLpoTJnas7", label: "2022年9月28日 \
+        各位醫師跟護理師以後要小心 即便醫學上無法證實的 法律還是會因為衛福部有提醒 就直接認定因果關係 完全不科學不合理 \
+        既然有前例判決 萬一發生類似事情 難保你不會是下一個恐龍家屬的受害醫護\
+        上一篇限時說的就是這案例 有興趣大家點進去看 我真的沒看過給鈣之前還有醫師會問病人是不是48小時內有使用SINTRIX的 \
+        然後媒體開始一起無腦開罵 沒知識的民眾也加入一起罵辛苦的醫師跟護理師 想想如果是自己遇到 這口氣實在吞不下 \
+        病人醫得好賺到健康 醫不好就告醫院賺錢 真是穩賺不賠的家屬 台灣就因為有少數這種恐龍家屬 醫師護理師才人人自危" },
+      { type: "link", content: "https://photos.app.goo.gl/ctGxjGXWLpoTJnas7", label: "2022年9月28日 \
+        我常說在台灣當醫生很倒霉 會被亂告 講的就是這個 各位去看判決全文 世界上根本沒有鈣跟三代抗生素混用導致成人休克的案例 \
+        只因為嬰兒有發生過 衛福部有提到不建議混用 結果法院直接認定女大生休克就是混用造成的 倒霉的醫師護理師就被告爛 \
+        好比殺人判罪要有證據 但這個判決完全沒有直接證明混用鈣跟抗生素導致休克 只因衛福部提醒有可能就直接判醫護未注意 真的很可笑 \
+        世上千百種藥物 每種都有些微機率發生交互作用 如果都為了這種沒發生過但有可能的風險 我看大家也不要吃藥 不用來看醫生 因為再怎麼小心都有意外 這就是醫學的極限 \
+        醫師不是神 今天只是很倒霉這個醫師遇到所以他被判賠 以後醫療人員都防衛性醫療就好 反正出事就鬧法院 病人好了賺到健康 好不了就跟醫院要錢 怎麼樣都不虧是嗎 真的很心寒的判決 \
+        事實上女大生重感冒合併腎盂腎炎 才更有可能導致休克 但法官不提 民眾更不知道 恐龍家屬一哭二鬧 為了錢而去提告 根本不管事實 網路上醫護還被酸民亂罵實在很可憐" },
+      { type: "link", content: "https://photos.app.goo.gl/8qQtrk1AFdaBRguN8", label: "2022年9月28日 可以吃到自製早餐是現在唯一的小確幸" },
+      { type: "link", content: "https://photos.app.goo.gl/teahnRRdfARZJSMm7", label: "2021年9月28日 \
+        知道自己拍照要的是什麼 但發作品一直不知道內容要寫什麼 我觀察了很多攝影帳號 內容大致有以下類型 \
+        有些會抄歌詞或詩句 感覺有點太長輩文 有些只有標題或直接空白 感覺有點傲嬌到邊緣 \
+        有些幽默好笑又跟拍照相關 這個最高竿但我沒靈感 也不會撩粉絲 有些會寫很廣告的景點介紹文 感覺很雷同旅遊文章而不是活生生的個人 \
+        有些會寫整篇英文 但感覺跟粉絲太疏遠 除非粉絲多外國人 有些會加上一堆表情符號或看不懂的外星符號 感覺很中二 \
+        因此決定分享跟作品無關的生活或醫學文 當然攝影帳號也一定有關攝影的主題 但我的生活跟醫療綁在一起 能分享的內容 醫療一定比較多 其中沈重的比溫馨快樂的更多 怕大家不買單 \
+        發照片要寫什麼依舊很困擾 我決定寫學醫路上的經歷 至少主題比較特別 也不會單單只有攝影 想知道到底大家看照片時 會想看什麼內容呢" },
+      { type: "link", content: "https://photos.app.goo.gl/ojXtqzY2aFvMNFAA8", label: "2021年9月28日 阿狗第一時間判斷主人需要氣切" },
+      { type: "link", content: "https://photos.app.goo.gl/Rwe3ziRDRs6RY7ah9", label: "2021年9月28日 我覺得很重要哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/1wdceXPgZ67VqKxY7", label: "2021年9月28日 分享一位老醫師學長的真實故事 有點沈重 尤其是看完魷魚遊戲之後 社會底層的悲歌是個無解的問題 不只是在電影裡" },
+      { type: "link", content: "https://photos.app.goo.gl/VG5f8QMWVUpB9ZRi7", label: "2019年9月28日 館長也在戰鬥支援大隊忠誠營區旁捐贈一間重訓室 讓我能夠省錢省時間也能運動" },
+      { type: "link", content: "https://photos.app.goo.gl/3M62cWa2YtZRtVPq6", label: "2017年9月28日 Thank for my new profile, just check her page and amazing pics" },
+      { type: "link", content: "https://photos.app.goo.gl/YEPXAKBEdxB7krvX9", label: "2017年9月28日 餐卷全部半價 剛到的肉燥便當全新30元 熱的" },
       { type: "link", content: "https://photos.app.goo.gl/ff3PwqwbXewHkvT36", label: "2016年9月28日 \
         倒數一天骨科下刀 跟骨科相比內科真的輕鬆很多 但這四個月真的好難熬 不過並不後悔選了骨科 也不後悔跟著潘副院長 完全是體力與腦力的鐵人接力賽 從肩膀手肘髖關節膝關節踝關節到阿基里斯腱 全身上到下一個不漏 \
         我個性向來粗心 而潘副卻是細心到魔鬼的細節裡 這個月是個大洗禮 無論是見識關節鏡的奧義或是副座做人的道理 壓力逼自己一定得長大 \

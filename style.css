@@ -202,6 +202,97 @@ header button:hover {
     color: var(--text-color);
     transition: background 0.3s, color 0.3s;
     transition: transform 0.3s ease-in-out; 
+    display: flex;
+    flex-direction: column;
+}
+.sidebar-content {
+  flex-grow: 1;
+  overflow-y: auto;
+}
+.sidebar-footer {
+  padding: 10px;
+  border-top: 1px solid var(--border-color);
+}
+
+.about-button {
+  width: 100%;
+  padding: 10px;
+  background: var(--button-bg);
+  color: var(--button-text);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1rem;
+  transition: background 0.3s;
+}
+.about-button:hover {
+  background: var(--button-hover);
+}
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 2000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.6);
+  align-items: center;
+  justify-content: center;
+}
+.modal.show {
+  display: flex; 
+}
+.modal-content {
+  background-color: var(--content-bg);
+  color: var(--text-color);
+  margin: auto;
+  padding: 20px 30px;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  width: 80%;
+  max-width: 500px;
+  position: relative;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+  animation: modal-pop 0.3s ease-out;
+}
+.modal-content h3 {
+  margin-top: 1.5em;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 5px;
+}
+.modal-content p {
+  line-height: 1.8;
+}
+.modal a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+.close-button {
+  color: #aaa;
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  font-size: 28px;
+  font-weight: bold;
+}
+.close-button:hover,
+.close-button:focus {
+  color: var(--text-color);
+  text-decoration: none;
+  cursor: pointer;
+}
+@keyframes modal-pop {
+  from {
+    transform: scale(0.9);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
 }
 
 #monthList {
@@ -240,6 +331,20 @@ nav li {
 nav li:hover {
     background: #e0e0e0;
 }
+
+nav li ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s ease-in-out;
+}
+
+nav li ul.open {
+  max-height: 500px;
+}
+
 nav li ul li {
     padding-left: 20px;
     background: #f1f1f1;
@@ -298,6 +403,18 @@ h3 {
     box-shadow: 0 2px 6px rgba(0,0,0,0.15);
 }
 
+.external-link-section {
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border-color);
+}
+.external-link-section a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+.external-link-section a:hover {
+  text-decoration: underline;
+}
+
 mark {
   background-color: #ffdd57;
   color: #111;
@@ -310,7 +427,7 @@ footer {
     color: var(--content-bg);
     text-align: left;
     padding: 0px 10px;
-    font-size: 12px;
+    font-size: 16px;
 }
 footer a {
     color: #66ccff;
@@ -409,7 +526,13 @@ body.dark-mode .record a {
     color: var(--link-color);
 }
 body.dark-mode .record a:hover {
-    color: #99ccff; /* hover 時再亮一些 */
+    color: #99ccff;
+}
+body.dark-mode .external-link-section a {
+  color: var(--link-color);
+}
+body.dark-mode .external-link-section a:hover {
+  color: #99ccff;
 }
 body.dark-mode mark {
   background-color: #f7d926;

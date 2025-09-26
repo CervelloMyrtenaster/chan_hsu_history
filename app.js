@@ -158,7 +158,6 @@
       }
 
       const dayList = document.createElement("ul");
-      dayList.style.display = "none";
 
       daysWithData.forEach(d => {
         const dayItem = document.createElement("li");
@@ -177,7 +176,7 @@
       });
 
       monthItem.addEventListener("click", () => {
-        dayList.style.display = dayList.style.display === "block" ? "none" : "block";
+        dayList.classList.toggle("open");
       });
 
       monthItem.appendChild(dayList);
@@ -263,6 +262,19 @@
     
     highlightSidebar(monthStr, dayStr);
     sidebar.classList.remove("open");
+
+    const wikiLinkContainer = document.createElement('div');
+    wikiLinkContainer.style.marginTop = '30px';
+    wikiLinkContainer.className = 'external-link-section';
+    wikiLinkContainer.innerHTML = `
+      <h3>看看真實世界的這一天</h3>
+      <p>
+        <a href="https://zh.wikipedia.org/wiki/${month}月${day}日" target="_blank" rel="noopener">
+          點擊查看維基百科上「${month}月${day}日」發生的大事
+        </a>
+      </p>
+    `;
+    contentDiv.appendChild(wikiLinkContainer);
   }
 
   function highlightText(text, keyword) {
@@ -578,3 +590,18 @@
       }
     }
   };
+
+  const aboutBtn = document.getElementById('aboutBtn');
+  const aboutModal = document.getElementById('about-modal');
+  const closeBtn = document.querySelector('.close-button');
+  aboutBtn.addEventListener('click', () => {
+    aboutModal.classList.add('show');
+  });
+  closeBtn.addEventListener('click', () => {
+    aboutModal.classList.remove('show');
+  });
+  window.addEventListener('click', (event) => {
+    if (event.target == aboutModal) {
+      aboutModal.classList.remove('show');
+    }
+  });
