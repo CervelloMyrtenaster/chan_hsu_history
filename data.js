@@ -490,7 +490,22 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/PxvZ8eESp8Li5qsr8", label: "2017年9月25日 開始還病歷債囉" }
     ],
     "26": [
+      { type: "link", content: "https://photos.app.goo.gl/JgjjRxf9HV9J5Npk6", label: "2025年9月26日 我沒有躲導管 導管來 我就上 CV一直都要保持這種精神" },
+      { type: "link", content: "https://photos.app.goo.gl/7UsieCTF15dKCqXv7", label: "2025年9月26日 看似一般大學 實則綁約高額賠款扣執照的軍校" },
       { type: "link", content: "https://photos.app.goo.gl/nqjQV3DenQs9EjT56", label: "2025年9月26日 認同 黃國昌害的民進黨不能安心官商勾結跟貪污 真的很糟糕" },
+      { type: "link", content: "https://photos.app.goo.gl/WLaeTQxGzgaip5eK8", label: "2025年9月26日 不要去住院治療更省錢 怎麼能讓醫生護理師賺錢呢 怎麼能讓醫院賺錢呢 一起發起沒錢就拒絕就醫的活動吧" },
+      { type: "link", content: "https://photos.app.goo.gl/nyDkVsN3dhiHzjub6", label: "2025年9月26日 \
+        結果在這樓都沒看到專業的解答 腹主動脈不用說絕對馬上死 肝臟跟胰臟都是一樣的道理 都有動脈 而且周邊牽扯到的血管神經等都非常多 \
+        傷到只會比腹主動脈晚死一點點 標準答案只可能下腔靜脈 不要小看下腔靜脈 回流血之多 幹斷爆血應該1-2小時內就會休 \
+        甚至造成回心血不足 preload不夠提早hypovolemic shock 依照題幹 只有下腔靜脈受損他才能短暫保有戰鬥能力 其他都免談" },
+      { type: "link", content: "https://photos.app.goo.gl/8mQuZizw8MwmeQT47", label: "2025年9月26日 我可以畫的比他更恐怖" },
+      { type: "link", content: "https://photos.app.goo.gl/Z7ZwkB1Fok9a3otWA", label: "2025年9月26日 \
+        請問有大神知道台灣THREAD公司如何聯絡或是這是什麼原因嗎 一個社群媒體如此胡亂惡搞 是非常有可能發生在其他任何使用者身上的 \
+        你們辛苦經營的帳號也可能毫無原因再也回不來 希望能把帳號要回來" },
+      { type: "link", content: "https://photos.app.goo.gl/BW48YdMY6u6o1EGm6", label: "2025年9月26日 \
+        THREADS公司真的又蝦又扯 一直很正常的使用帳號且完全沒有違反任何一條規則 THREAD卻毫無預警的在9/25鎖住她的帳號 甚至申訴後完全沒有寫上任何具體違反的規則 \
+        也不再給第二次申訴機會 社群媒體能夠成功經營是因為使用者能安心的使用 但脆這種無腦的亂鎖帳號行為 真的很要不得" },
+      { type: "link", content: "https://photos.app.goo.gl/AejQLdRgsvwsvByM6", label: "2025年9月26日 謝謝 實在太扯太扯要考慮申請藍勾了" },
       { type: "link", content: "https://photos.app.goo.gl/7CKmY2uZoCwYLF3Z7", label: "2025年9月26日 \
         超爛 但應該要跟Meta公司客訴才對 不然以後誰敢經營thread 沒有說明任何理由 請問他有說具體上封鎖原因是什麼嗎 \
         超神奇的 她都沒做什麼事情 早上起來帳號直接消失 似乎2025/6月也有類似的事情一堆人受害" },
@@ -538,6 +553,13 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/fLjBjHm1KjkfsQY38", label: "2017年9月26日 早上要報Journal 下午要上課評鑑 Suffer" }
     ],
     "27": [
+      { type: "link", content: "https://photos.app.goo.gl/ocpRQvVjtrd2sfp69", label: "2025年9月27日 是元信那隻欸哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/RgRjV6p1vf4FsHWo8", label: "2025年9月27日 帳號一定可以要回來啦" },
+      { type: "link", content: "https://photos.app.goo.gl/FQJqDpvZCFfuUSEz5", label: "2025年9月27日 這個也要給我看ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/t2movCWnUFWaFQY16", label: "2025年9月27日 怎麼會有軟體的經營方這麼白癡 任由自動判定來鎖帳號 甚至是永久刪除 爛到家了" },
+      { type: "link", content: "https://photos.app.goo.gl/efiBTa6GRB4nHzWW6", label: "2025年9月27日 那你怎麼不考進來體驗一下 你思考一下考上這邊的學生外面都有多少好學校可以讀 但招生簡章用資訊不對等的方式騙學生進來當軍人 你就知道這種感受" },
+      { type: "link", content: "https://photos.app.goo.gl/7kRvaZMNxSahQN7H7", label: "2025年9月27日 超誇張" },
+      { type: "link", content: "https://photos.app.goo.gl/2A8vh68B5EPEmx558", label: "2025年9月27日 但是他說是致命穿刺傷" },
       { type: "link", content: "https://photos.app.goo.gl/Ya7BcbFg5MXR8fCj7", label: "2024年9月27日 可惜被告一次1000萬直接白做工" },
       { type: "link", content: "https://photos.app.goo.gl/zgJ6qtAsZYQszJ888", label: "2024年9月27日 \
         醫師如果當天值班 就可能有非動不可的緊急手術 醫師跟普通職業不同 隨時都要賠上自己的健康跟時間去處理病人 \
@@ -575,6 +597,17 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/jeFqr19mpTzJUrau8", label: "2017年9月27日 實習好累ㄛ" },
     ],
     "28": [
+      { type: "link", content: "https://photos.app.goo.gl/BjWD9V8tDcPSJeih9", label: "2025年9月28日 謝謝你們 我就是吃完發現身分證四碼全對可以換牛肉的那位 但平日來不及了" },
+      { type: "link", content: "https://photos.app.goo.gl/nad4ScfoWhBMDjxQ9", label: "2025年9月28日 \
+        醴本韓國正統燒肉 台中目前心中前三名的韓式燒肉 真的太扯太扯 \
+        一開始上的小菜相當多樣 海帶芽 泡菜 涼拌豆芽等都能無限續點 開胃又解膩 我超愛醃蘿蔔 應該自己嗑掉三盤了 \
+        豬肉部分以煙燻豬五花和伊比利系列為主 油脂香氣濃郁 若有松阪豬應會呈現脆彈口感 \
+        和牛則是重頭戲 也是我最愛的部分 油花細緻 入口即化 搭配簡單調味就很出色 整體肉量不算多 但專人代烤與小菜搭配 精緻感十足 \
+        最後甜點冰淇淋 已經飽到吃不下 但吃了第一口馬上又有胃口 真的適合回訪 \
+        美食分享改用相機拍 主要脆分享 均非業配 自己吃過推薦才寫" },
+      { type: "link", content: "https://photos.app.goo.gl/fmJxLydLS2fZ6f7NA", label: "2025年9月28日 一個連假值頭尾兩天班" },
+      { type: "link", content: "https://photos.app.goo.gl/TBXS96a4oHjKViTy6", label: "2025年9月28日 近期看過最屌的飯店 一晚十萬 但美到靠北好像到火星住 這輩子一定要去一次" },
+      { type: "link", content: "https://photos.app.goo.gl/UW11qbqU5wjtcVvz5", label: "2025年9月28日 真的是騙人要生女兒了哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/kQzni4uxRkoqhw8i6", label: "2024年9月28日 \
         今天真的可以再誇張一點 白天就三台導管了 到底還會來幾台 \
         下次不會再值班前吃鳳梨酥了 之前吃了都沒事啊 但不知道為啥今天吃之前覺得內心沒有安全感" },
@@ -613,7 +646,47 @@ const records = {
         也感謝廷逸學長超級的包容力跟火力掩護 才能一路撐到月底 \
         最後兩天颱風假我都安全的躲在醫院 昨天還連躲手術房12小時 果然有沒颱風都干我屁事啊" }
     ],
-    "29": [],
+    "29": [
+      { type: "link", content: "https://photos.app.goo.gl/8aSRrS8zwCCW553Z7", label: "2024年9月29日 避免自己變成病人 遠比治療好多少病人更重要" },
+      { type: "link", content: "https://photos.app.goo.gl/gcFPto5dxMqVaLHK6", label: "2024年9月29日 \
+        今天吃晚餐遇到一組葡萄牙人 因為他們不懂中文 我鼓起社牛的勇氣幫忙翻譯 聊天知道他們從澳門 台灣準備玩到菲律賓真的好羨慕 \
+        台灣的工作文化真的很爛 放個長假好像會要政府的命一樣 非要維持這種工作文化操死大家才開心 像國外這樣給人民長假放鬆有何不可呢" },
+      { type: "link", content: "https://photos.app.goo.gl/AYqDazwnQYJaA6Eh9", label: "2024年9月29日 嘴裡說也想每日關心國防醫 叫我幫她拍一張關心醫院的照片" },
+      { type: "link", content: "https://photos.app.goo.gl/osHNLACSfAVp63TY9", label: "2024年9月29日 沒有" },
+      { type: "link", content: "https://photos.app.goo.gl/xHbXRt52GTBFwAfT6", label: "2024年9月29日 正常啊 怪你自己血管難打而且查房不會問喔 還是問了也不信任你的醫師" },
+      { type: "link", content: "https://photos.app.goo.gl/U1wAJyvGeTKmRdHq6", label: "2024年9月29日 不要在這個怪怪的地方留言" },
+      { type: "link", content: "https://photos.app.goo.gl/i66M7umXR8PaBtFQA", label: "2024年9月29日 我也要加強" },
+      { type: "link", content: "https://photos.app.goo.gl/bwr6g6FywWNVjS628", label: "2024年9月29日 你以為只有考到醫師執照就會看病喔 真的很單純呢" },
+      { type: "link", content: "https://photos.app.goo.gl/m4v6kxrMf5MYT6GS7", label: "2023年9月29日 \
+        這個外國人想買我四張照片共2萬台幣當作他們NFT的作品 但需要我先註冊他們平台會員 並且上傳照片然後標價 他們才能直接購買 \
+        想昂這詐騙嗎 有人被這個方式買過照片嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/gdKuhwfFJxevvovg9", label: "2023年9月29日 好想拍這個唷" },
+      { type: "link", content: "https://photos.app.goo.gl/ks3fMBtGR7k6j4nX8", label: "2023年9月29日 有人知道這在河內附近的哪嗎 需要預約才能拍嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/HZj57j1oeKoPTgZE8", label: "2023年9月29日 山道猴子の休息站" },
+      { type: "link", content: "https://photos.app.goo.gl/T732SkRB4dWRSGjaA", label: "2023年9月29日 健保秀下限的能力 絕對不會讓你我失望的" },
+      { type: "link", content: "https://photos.app.goo.gl/TkdmKZFngTTsjW9d6", label: "2022年9月29日 \
+        Adobe一直以來是我修圖的主軸工具 從大三開始就自己摸索 也跟學長及許多朋友請益 \
+        後製或許看似深奧 其實度過前面的摸索階段 每當內心澎湃的靈感來襲時 便能創作屬於心目中的作品實在成就感十足 \
+        這次一起在象鼻岩看著九份的夜景 不禁也想體會身處星空下的浪漫 只能就靠著後製達成心願了 \
+        所以工欲善其事 必先利其器 擁有便宜好用的Photoshop 更能增添攝影的樂趣 這次就介紹一個好的合作方案 BTS Back To School \
+        置入了ADOBE 但PS確實是所有初學後製都應該玩的好東西 學會圖層 把理想中的畫面創作出來也是非常有趣" },
+      { type: "link", content: "https://photos.app.goo.gl/8GUZJPa2ar5gi1n98", label: "2022年9月29日 還以為他們跑到歐洲去了" },
+      { type: "link", content: "https://photos.app.goo.gl/B7C99wnSHnkZh8UY6", label: "2022年9月29日 這個取景跟後製 台灣也可以這麼美" },
+      { type: "link", content: "https://photos.app.goo.gl/8THsafyeR1uozFfD6", label: "2022年9月29日 好美 真的不想一直困在醫院" },
+      { type: "link", content: "https://photos.app.goo.gl/Uc71Tyo2CH3KyPrJ8", label: "2021年9月29日 國慶日一起拍煙火吧" },
+      { type: "link", content: "https://photos.app.goo.gl/Pdp3LBicUNq2jFVc9", label: "2021年9月29日 \
+        請朋友幫忙後救回來了 原來是昨天下午1600有人刻意刪除全部的檔案 可以查這個人 但是需要上公文給院方資訊組 才能調閱電腦查閱的紀錄 \
+        我會去上公文找出這個人 然後再公佈這件事 希望你沒種但還有一點良心 私下跟我道歉了結" },
+      { type: "link", content: "https://photos.app.goo.gl/UooAP3bVy4P5BkRx7", label: "2021年9月29日 \
+        每天我都會花快一小時 製作PATIENT LIST 昨天下班一如往常的做好了 結果今天早上來看居然全部被刪除 還只刪除我這個月的檔案 \
+        我是不知道這位不知名人士針對我 是有什麼居心 但有種讓我知道你是誰 無冤無仇背後搞這種小動作跟人渣一樣 有夠沒種" },
+      { type: "link", content: "https://photos.app.goo.gl/aNUAPjVauJf1wZsT6", label: "2020年9月29日 內科終於過2/3了" },
+      { type: "link", content: "https://photos.app.goo.gl/Xp2fnNPoWuUyoWRB7", label: "2018年9月29日 找亮點" },
+      { type: "link", content: "https://photos.app.goo.gl/NjmVf9ZXPsKcRYbp7", label: "2018年9月29日 剛剛一直碎念說這邊人太多 結果拍的最高興 其實是記憶卡也在我這裡 我一次拍兩人份的" },
+      { type: "link", content: "https://photos.app.goo.gl/xwVFTs4ne54hpgGMA", label: "2017年9月29日 2013年的時候還以為不再回來 2017運氣很好的再來東京醫科齒科大學" },
+      { type: "link", content: "https://photos.app.goo.gl/aRohSgt5VJCQ63QeA", label: "2017年9月29日 飄向日本了" },
+      { type: "link", content: "https://photos.app.goo.gl/8nofqYzotoaFySKA7", label: "2017年9月29日 我飄向東京 tokyo" },
+    ],
     "30": []
   },
 
