@@ -12,6 +12,8 @@
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://cervellomyrtenaster.github.io/chan_hsu_history/" />
   <meta property="og:image" content="001.jpg" /> 
+  <link rel="canonical" href="https://cervellomyrtenaster.github.io/chan_hsu_history/" />
+  <meta name="keywords" content="吳展旭,展旭" />
   
   <link rel="stylesheet" href="style.css" />
 </head>
@@ -29,6 +31,7 @@
 
   <div class="header-buttons">
     <button id="dashboardBtn">統計儀表板</button>
+    <button id="quizBtn">展旭小測驗</button>
     <button id="prevDay">前一日</button>
     <button id="nextDay">後一日</button>
     <button id="randomBtn">隨機看</button>
@@ -89,6 +92,28 @@
     <main class="content" id="content">
       <p>請於選單中選擇日期以查看展旭記錄</p>
     </main>
+
+    <div id="quiz-container" class="quiz-container">
+      <div id="quiz-game-view">
+        <div class="quiz-header">
+          <div id="quiz-progress">第 1 / 5 題</div>
+          <div id="quiz-score">分數: 0</div>
+        </div>
+        <div id="quiz-question" class="quiz-question">問題會顯示在這裡...</div>
+        <div id="quiz-options" class="quiz-options">
+          </div>
+        <div id="quiz-feedback" class="quiz-feedback"></div>
+      </div>
+      <div id="quiz-results-view" class="quiz-results" style="display: none;">
+        <h2>測驗結束！</h2>
+        <p>您的最終得分是：<span id="final-score">0</span> / 5</p>
+        <div class="quiz-results-buttons">
+          <button id="play-again-btn">再玩一次</button>
+          <button id="return-home-btn">返回主頁</button>
+        </div>
+      </div>
+    </div>
+
   </div>
 
   <div id="about-modal" class="modal">

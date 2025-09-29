@@ -594,9 +594,10 @@ const records = {
         今天罰再多錢都沒有用 因為你們繳的健保費就是只夠吃夜市牛排 正常的牛排根本吃不到(誰會虧本賣你) 所以別再無知了 \
         想解決藥物品質的問題 第一步先讓健保改制或崩毀 才能讓有水準的藥物進來台灣 當然更重要的是 要了解醫療就是那麼貴 本來就該花錢不要貪便宜" },
       { type: "link", content: "https://photos.app.goo.gl/pc6W43dckU8uF4Lx5", label: "2018年9月27日 講這種話的腦袋本來就只有屎 不用吃" },
-      { type: "link", content: "https://photos.app.goo.gl/jeFqr19mpTzJUrau8", label: "2017年9月27日 實習好累ㄛ" },
+      { type: "link", content: "https://photos.app.goo.gl/jeFqr19mpTzJUrau8", label: "2017年9月27日 實習好累ㄛ" }
     ],
     "28": [
+      { type: "link", content: "https://photos.app.goo.gl/2YLYtiuKsRjDYcDu7", label: "2025年9月28日 身為重度香蕉煎餅愛好者 吃過泰國的香蕉煎餅 同價格 但泰國的比較大 更脆更香" },
       { type: "link", content: "https://photos.app.goo.gl/BjWD9V8tDcPSJeih9", label: "2025年9月28日 謝謝你們 我就是吃完發現身分證四碼全對可以換牛肉的那位 但平日來不及了" },
       { type: "link", content: "https://photos.app.goo.gl/nad4ScfoWhBMDjxQ9", label: "2025年9月28日 \
         醴本韓國正統燒肉 台中目前心中前三名的韓式燒肉 真的太扯太扯 \
@@ -647,6 +648,13 @@ const records = {
         最後兩天颱風假我都安全的躲在醫院 昨天還連躲手術房12小時 果然有沒颱風都干我屁事啊" }
     ],
     "29": [
+      { type: "link", content: "https://photos.app.goo.gl/H2677VCbDWBqwrZw6", label: "2025年9月29日 緊急開刀裝了六支支架花了一百萬 你要不要聽聽看你在說什麼" },
+      { type: "link", content: "https://photos.app.goo.gl/wEFXzND2ktboYvFD6", label: "2025年9月29日 這個連假值班兩天 沒辦法去花蓮幫忙 但醫院這樣的善舉應該分享 希望花蓮平安 早日恢復" },
+      { type: "link", content: "https://photos.app.goo.gl/Z2GckW5TNGSV3BBz7", label: "2025年9月29日 還有關燈跟洗衣服" },
+      { type: "link", content: "https://photos.app.goo.gl/VTkFcFHF35Xdaq2E8", label: "2025年9月29日 迪化街貓貓之旅也是一個下午行程 而且每年有貓貓攝影比賽 另外我個人很喜歡合信蔘藥行的水蜜桃乾 蠻好吃的" },
+      { type: "link", content: "https://photos.app.goo.gl/NDuxJkN3LnVgLKkx7", label: "2025年9月29日 晚餐罰吃狗糧三大碗" },
+      { type: "link", content: "https://photos.app.goo.gl/tMANpZLZkr4ihE7q8", label: "2025年9月29日 羨慕了 好美" },
+      { type: "link", content: "https://photos.app.goo.gl/hZALijxnQRPXWeKN6", label: "2025年9月29日 蛤貓超可愛" },
       { type: "link", content: "https://photos.app.goo.gl/8aSRrS8zwCCW553Z7", label: "2024年9月29日 避免自己變成病人 遠比治療好多少病人更重要" },
       { type: "link", content: "https://photos.app.goo.gl/gcFPto5dxMqVaLHK6", label: "2024年9月29日 \
         今天吃晚餐遇到一組葡萄牙人 因為他們不懂中文 我鼓起社牛的勇氣幫忙翻譯 聊天知道他們從澳門 台灣準備玩到菲律賓真的好羨慕 \
@@ -680,14 +688,49 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/UooAP3bVy4P5BkRx7", label: "2021年9月29日 \
         每天我都會花快一小時 製作PATIENT LIST 昨天下班一如往常的做好了 結果今天早上來看居然全部被刪除 還只刪除我這個月的檔案 \
         我是不知道這位不知名人士針對我 是有什麼居心 但有種讓我知道你是誰 無冤無仇背後搞這種小動作跟人渣一樣 有夠沒種" },
-      { type: "link", content: "https://photos.app.goo.gl/aNUAPjVauJf1wZsT6", label: "2020年9月29日 內科終於過2/3了" },
+      { type: "link", content: "https://photos.app.goo.gl/79qqSQz66WX8fuye6", label: "2020年9月29日 第一次跑外面馬拉松正式的路線 昨天值班又沒啥睡 今天跑起來全身無力 但意外的河堤邊很涼很暢快 忍不住跑了六公里" },
+      { type: "link", content: "https://photos.app.goo.gl/c59EfzpFSQEMMoCK9", label: "2020年9月29日 內科終於過2/3了 雖然對我而言只是這輩子內科永無止境生活的開始而已" },
       { type: "link", content: "https://photos.app.goo.gl/Xp2fnNPoWuUyoWRB7", label: "2018年9月29日 找亮點" },
       { type: "link", content: "https://photos.app.goo.gl/NjmVf9ZXPsKcRYbp7", label: "2018年9月29日 剛剛一直碎念說這邊人太多 結果拍的最高興 其實是記憶卡也在我這裡 我一次拍兩人份的" },
       { type: "link", content: "https://photos.app.goo.gl/xwVFTs4ne54hpgGMA", label: "2017年9月29日 2013年的時候還以為不再回來 2017運氣很好的再來東京醫科齒科大學" },
       { type: "link", content: "https://photos.app.goo.gl/aRohSgt5VJCQ63QeA", label: "2017年9月29日 飄向日本了" },
-      { type: "link", content: "https://photos.app.goo.gl/8nofqYzotoaFySKA7", label: "2017年9月29日 我飄向東京 tokyo" },
+      { type: "link", content: "https://photos.app.goo.gl/8nofqYzotoaFySKA7", label: "2017年9月29日 我飄向東京 tokyo" }
     ],
-    "30": []
+    "30": [
+      { type: "link", content: "https://photos.app.goo.gl/ogaxvgWNfpJGYdHv8", label: "2024年9月30日 \
+        外面自費醫美門檻低賺的多 留在醫院做一線科 都是用自己的命在換病人的病 而且還要通過各種高難度的虐人考試 \
+        那些考官腦袋都還是僵化 硬要刷掉一堆辛苦訓練的考生 重點是考過了待遇也沒有去外面做自費醫美來的好 還更累 \
+        時代在變了 現在人人為己 學弟妹也不是以前那種生下來就是欠醫院的奴隸的態度了 大老腦袋不跟著進步 政府對醫護的待遇繼續這麼爛 就等著繼續流失救人科的醫師們了" },
+      { type: "link", content: "https://photos.app.goo.gl/JTPn6K7jHg3ZfFQMA", label: "2024年9月30日 真的 醫生的薪水去看一支幾百塊的原子筆 還是會覺得很貴 偷到賺到" },
+      { type: "link", content: "https://photos.app.goo.gl/QKvzruEwjYLaWWn78", label: "2024年9月30日 天轟回來到" },
+      { type: "link", content: "https://photos.app.goo.gl/vF1CXnUvCC13RL5P6", label: "2024年9月30日 我差點以為他拿的是模型" },
+      { type: "link", content: "https://photos.app.goo.gl/5y9rXvUmAc2Xdvrc7", label: "2024年9月30日 \
+        北眼觀景台夕陽 這次受邀體驗了canon 趕在颱風來之前享受夕陽餘暉 \
+        剛學攝影時我是使用canon 當時使用五年多心得是對焦跟寬容度真的大輸另外兩家 只有原生的皮膚色澤(紅潤)跟夜景的藍色調真的很美很值得而已 \
+        後來就跳家到nikon直到現在六年了 這次使用canon無反 感受到寬容度 對焦跟方便性(機身三個轉盤 而且感光元件還有擋塵板等)真的進步很多 不會輸給nikon了 \
+        不過目前心得仍是nikon優先但考慮sony 因為nikon的鏡頭組合是三家唯一選擇性最多的 而且很輕便 但sony在拍攝後的銳利度跟日系風格 \
+        也是另外兩家無法完全模仿的 canon只能說 已經追上來 但還沒有非常獨特的優勢 但聽說錄影功能就很強大" },
+      { type: "link", content: "https://photos.app.goo.gl/edUDFALN7wVqh7je7", label: "2023年9月30日 \
+        雖然跟拍照無關但還是跟大眾科普一下 醫師常說的點值是什麼東西 \
+        就是如果幫病人治療使用健保藥品開刀等等 一元的東西會先由醫院付款 然後跟健保申請補助 點值0.8就是醫院付1元但健保指揮給0.8元 \
+        那要賺什麼 只能靠鴨低醫材跟藥價進貨等成本 還有自費項目及地下街來賺錢打平 而南部今年點值只剩下0.6元 就是要醫院賠錢治療的意思 \
+        所以台灣醫療業 長久以來就是被政府掐住脖子 賠錢治療 只是賠多賠少而已 希望大家善待醫師護理師等醫療人員 真的是又血汗又賠錢" },
+      { type: "link", content: "https://photos.app.goo.gl/AN8hG5vaWa7NzYmG6", label: "2023年9月30日 今天上班要當咖啡富翁就是了" },
+      { type: "link", content: "https://photos.app.goo.gl/TqwiQ9ea2pZQYhb9A", label: "2023年9月30日 我心中的台灣第一後製神人" },
+      { type: "link", content: "https://photos.app.goo.gl/fHiG9YKkHpoYCFVR7", label: "2022年9月30日 三和國中捷運站 有優秀學弟展旭的作品 美不勝收 歡迎路過駐足欣賞" },
+      { type: "link", content: "https://photos.app.goo.gl/vmbAoCPCnGEBxa2h9", label: "2022年9月30日 內科好苦" },
+      { type: "link", content: "https://photos.app.goo.gl/yv2bjnDJDxvsqRbS7", label: "2022年9月30日 病人9/3入院 至審查日9/22仍未見住院診療計畫書 記缺點一次" },
+      { type: "link", content: "https://photos.app.goo.gl/83jfpdEwM52i9qpu6", label: "2022年9月30日 很久很久以前在骨科實習 上刀跟重訓一樣 血肉模糊不可怕 可怕的是開不完的刀跟需要無限體力 所以後來選內科 外科真是令人敬佩" },
+      { type: "link", content: "https://photos.app.goo.gl/eQJN5mQGaeCgjH2j8", label: "2021年9月30日 \
+        我想把台灣拍的像國外 並不是因為國外月亮比較圓 而是希望讓台灣的美 被大家重視 \
+        然後一起保護環境 督促政府跟財團不要過度開發 也不要花錢蓋一堆超醜人工建築在大自然" },
+      { type: "link", content: "https://photos.app.goo.gl/5XwCWGVqpPrpzTTP6", label: "2020年9月30日 部隊日常業務之一 每日製造數十張簽名單 每日簽數十張簽名單 督導來展示數百張簽名紀錄造冊" },
+      { type: "link", content: "https://photos.app.goo.gl/1FayazSCo58TAxkh7", label: "2018年9月30日 \
+        永遠沒放到該放的假 永遠都是緊急返港一次比一次搞人 龐大的壓力不斷突破我的忍耐底線 但因為有妳與妳家人的體諒 才能讓我安心不少 \
+        我們都很辛苦 而且也因為我七年前的錯誤決定跟這七年不夠努力造成的 只能盡責並且好好努力 清楚穩定幸福的日子會來到 \
+        八天出航休息不到三天中間還航安督導 接著緊急返港又要出航十天 千言萬語只有一句 就是謝謝比其他人更堅強的妳 謝謝妳無悔的等待跟包容 一起加油" },
+      { type: "link", content: "https://photos.app.goo.gl/U3V1scqs3gBodGkv8", label: "2017年9月30日 吃個飯穿西裝在路上 日本黑社會" }
+    ]
   },
 
   "10": {

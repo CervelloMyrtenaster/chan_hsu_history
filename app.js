@@ -10,6 +10,24 @@
   let currentSearch = null;
   let showingDashboard = false;
 
+  // 統一管理主要畫面的顯示狀態
+  function showView(viewName) {
+      contentDiv.style.display = 'none';
+      sidebar.style.display = 'none';
+      dashboard.classList.remove('active');
+      quizContainer.classList.remove('active');
+
+      if (viewName === 'main') {
+          contentDiv.style.display = '';
+          sidebar.style.display = '';
+      } else if (viewName === 'dashboard') {
+          sidebar.style.display = '';
+          dashboard.classList.add('active');
+      } else if (viewName === 'quiz') {
+          quizContainer.classList.add('active');
+      }
+  }
+
   // 圖片檢測正則式
   const imgRe = /\.(jpe?g|png|gif|webp|bmp|svg)$/i;
 
@@ -129,12 +147,12 @@
   function toggleDashboard() {
       showingDashboard = !showingDashboard;      
       if (showingDashboard) {
-          dashboard.classList.add('active');
+          showView('dashboard');
           updateDashboard();
           createHeatmap();
           document.getElementById('dashboardBtn').textContent = '返回記錄';
       } else {
-          dashboard.classList.remove('active');
+          showView('main');
           document.getElementById('dashboardBtn').textContent = '統計儀表板';
       }
   }
@@ -222,6 +240,7 @@
 
   // 顯示記錄(日期頁面)
   function showRecords(month, day, skipPush = false) {
+    showView('main');
     const monthStr = String(month);
     const dayStr = String(day);
 
@@ -288,6 +307,8 @@
 
   // 搜尋功能(結果中的日期可點回到該日) 
   function searchRecords(keyword, skipPush = false) {
+    showView('main');
+    
     const kw = String(keyword || "").trim();
     if (!kw) return;
 
@@ -529,8 +550,9 @@
       showRecords(month, day);
       
       sidebar.classList.remove("open");
-      document.querySelectorAll("#monthList ul").forEach(ul => {
-          ul.style.display = "none";
+      
+      document.querySelectorAll("#monthList ul.open").forEach(ul => {
+          ul.classList.remove("open");
       });
       window.history.pushState({}, "", window.location.pathname);
   });
@@ -605,3 +627,169 @@
       aboutModal.classList.remove('show');
     }
   });
+
+  // --- 展旭小測驗功能 ---
+
+  // 1. DOM 元素
+  const quizBtn = document.getElementById('quizBtn');
+  const quizContainer = document.getElementById('quiz-container');
+  const quizGameView = document.getElementById('quiz-game-view');
+  const quizResultsView = document.getElementById('quiz-results-view');
+  const quizProgress = document.getElementById('quiz-progress');
+  const quizScoreEl = document.getElementById('quiz-score');
+  const quizQuestionEl = document.getElementById('quiz-question');
+  const quizOptionsEl = document.getElementById('quiz-options');
+  const quizFeedbackEl = document.getElementById('quiz-feedback');
+  const finalScoreEl = document.getElementById('final-score');
+  const playAgainBtn = document.getElementById('play-again-btn');
+  const returnHomeBtn = document.getElementById('return-home-btn');
+
+  // 2. 測驗狀態變數
+  let allRecordsFlat = [];
+  let quizQuestions = [];
+  let currentQuestionIndex = 0;
+  let score = 0;
+  const TOTAL_QUESTIONS = 5;
+
+  // 3. 準備資料 將巢狀的 records 物件扁平化 方便隨機抽樣
+  function flattenRecords() {
+      if (allRecordsFlat.length > 0) return;
+      for (const m in records) {
+          for (const d in records[m]) {
+              if (records[m][d].length > 0) {
+                  records[m][d].forEach(record => {
+                      if (record.label) {
+                          allRecordsFlat.push({ month: m, day: d, ...record });
+                      }
+                  });
+              }
+          }
+      }
+  }
+
+  // 4. 輔助函數 洗牌演算法
+  function shuffleArray(array) {
+      for (let i = array.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [array[i], array[j]] = [array[j], array[i]];
+      }
+  }
+
+  // 5. 產生測驗問題
+  function generateQuizQuestions() {
+      shuffleArray(allRecordsFlat);
+      quizQuestions = [];
+      const usedLabels = new Set();
+      const dateRegex = /^\d{4}年\d{1,2}月\d{1,2}日\s*/;
+
+      for (let i = 0; i < allRecordsFlat.length && quizQuestions.length < TOTAL_QUESTIONS; i++) {
+          const questionRecord = allRecordsFlat[i];
+          if (usedLabels.has(questionRecord.label)) continue;
+
+          usedLabels.add(questionRecord.label);
+          
+          const correctAnswer = `${questionRecord.month}月${questionRecord.day}日`;
+          const options = new Set([correctAnswer]);
+          
+          while (options.size < 4) {
+              const randomRecord = allRecordsFlat[Math.floor(Math.random() * allRecordsFlat.length)];
+              const distractor = `${randomRecord.month}月${randomRecord.day}日`;
+              options.add(distractor);
+          }
+          
+          const shuffledOptions = Array.from(options);
+          shuffleArray(shuffledOptions);
+          
+          const cleanQuestion = questionRecord.label.replace(dateRegex, '').trim();
+          quizQuestions.push({
+              question: cleanQuestion,
+              options: shuffledOptions,
+              answer: correctAnswer
+          });
+      }
+  }
+
+  // 6. 顯示當前問題
+  function displayQuestion() {
+      if (currentQuestionIndex >= quizQuestions.length) {
+          endQuiz();
+          return;
+      }
+      
+      const currentQuestion = quizQuestions[currentQuestionIndex];
+      quizProgress.textContent = `第 ${currentQuestionIndex + 1} / ${TOTAL_QUESTIONS} 題`;
+      quizScoreEl.textContent = `分數: ${score}`;
+      quizQuestionEl.textContent = currentQuestion.question;
+      quizOptionsEl.innerHTML = '';
+      quizFeedbackEl.textContent = '';
+      
+      currentQuestion.options.forEach(option => {
+          const button = document.createElement('button');
+          button.className = 'quiz-option-btn';
+          button.textContent = option;
+          button.addEventListener('click', selectAnswer);
+          quizOptionsEl.appendChild(button);
+      });
+  }
+
+  // 7. 選擇答案的邏輯
+  function selectAnswer(e) {
+      const selectedButton = e.target;
+      const selectedAnswer = selectedButton.textContent;
+      const currentQuestion = quizQuestions[currentQuestionIndex];
+      
+      const allButtons = quizOptionsEl.querySelectorAll('button');
+      allButtons.forEach(btn => btn.disabled = true);
+      
+      if (selectedAnswer === currentQuestion.answer) {
+          score++;
+          selectedButton.classList.add('correct');
+          quizFeedbackEl.textContent = '答對了！';
+          quizFeedbackEl.style.color = '#28a745';
+      } else {
+          selectedButton.classList.add('incorrect');
+          quizFeedbackEl.textContent = `答錯了！正確答案是：${currentQuestion.answer}`;
+          quizFeedbackEl.style.color = '#dc3545';
+          allButtons.forEach(btn => {
+              if (btn.textContent === currentQuestion.answer) {
+                  btn.classList.add('correct');
+              }
+          });
+      }
+      
+      currentQuestionIndex++;
+      setTimeout(displayQuestion, 2000);
+  }
+
+  // 8. 結束測驗
+  function endQuiz() {
+      quizGameView.style.display = 'none';
+      quizResultsView.style.display = 'block';
+      finalScoreEl.textContent = `${score}`;
+  }
+
+  // 9. 開始測驗
+  function startQuiz() {
+      showView('quiz');      
+      quizGameView.style.display = 'block';
+      quizResultsView.style.display = 'none';      
+      currentQuestionIndex = 0;
+      score = 0;      
+      generateQuizQuestions();
+      displayQuestion();
+  }
+
+  // 10. 返回主頁
+  function returnToMain() {
+      quizContainer.classList.remove('active');
+      contentDiv.style.display = ''; 
+      document.getElementById('homeBtn').click();
+  }
+
+  // 11. 綁定事件監聽器
+  quizBtn.addEventListener('click', () => {
+      flattenRecords();
+      startQuiz();
+  });
+  playAgainBtn.addEventListener('click', startQuiz);
+  returnHomeBtn.addEventListener('click', returnToMain);
