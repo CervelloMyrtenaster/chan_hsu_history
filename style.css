@@ -437,6 +437,30 @@ footer a:hover {
     text-decoration: underline;
 }
 
+/* --- 回到頂部按鈕樣式 --- */
+#backToTopBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 1001;
+  border: none;
+  outline: none;
+  background-color: var(--button-bg);
+  color: var(--button-text);
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+  font-size: 20px;
+  opacity: 0.7;
+  transition: opacity 0.3s, visibility 0.3s;
+}
+#backToTopBtn:hover {
+  opacity: 1;
+}
+
 /* Dark Mode 主題 */
 body.dark-mode {
   --bg-color: #1e1e1e;
@@ -473,10 +497,6 @@ body.dark-mode button {
     background: var(--button-bg);
     color: var(--button-text);
     border: 1px solid var(--border-color);
-}
-body.dark-mode button:hover {
-    background: var(--button-hover);
-    color: #ffffff;
 }
 body.dark-mode .dashboard {
     background: var(--content-bg);
@@ -553,11 +573,11 @@ body.dark-mode footer a {
   color: var(--text-color);
   flex-grow: 1;
   text-align: center;
+  overflow-y: auto;
 }
 .quiz-container.active {
   display: block;
 }
-
 .quiz-header {
   display: flex;
   justify-content: space-between;
@@ -565,21 +585,21 @@ body.dark-mode footer a {
   margin-bottom: 20px;
   color: var(--text-color);
 }
-
 .quiz-question {
   font-size: 1.3em;
   font-weight: bold;
   margin: 20px 0;
   min-height: 80px;
+  max-height: 40vh;
+  overflow-y: auto;
+  line-height: 1.6;
 }
-
 .quiz-options {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 15px;
   margin: 20px 0;
 }
-
 .quiz-option-btn {
   padding: 15px;
   font-size: 1em;
@@ -590,17 +610,14 @@ body.dark-mode footer a {
   cursor: pointer;
   transition: all 0.3s;
 }
-
 .quiz-option-btn:hover:not(:disabled) {
   background: var(--sidebar-bg);
   transform: translateY(-2px);
 }
-
 .quiz-option-btn:disabled {
   cursor: not-allowed;
   opacity: 0.7;
 }
-
 /* 答對/答錯的樣式 */
 .quiz-option-btn.correct {
   background-color: #28a745;
@@ -612,14 +629,12 @@ body.dark-mode footer a {
   color: white;
   border-color: #dc3545;
 }
-
 .quiz-feedback {
   margin-top: 20px;
   font-size: 1.2em;
   font-weight: bold;
   min-height: 30px;
 }
-
 .quiz-results {
   padding-top: 50px;
 }
@@ -684,4 +699,12 @@ body.dark-mode footer a {
     .content {
         padding: 15px;
     }
+}
+
+/* --- 內容轉場動畫 --- */
+#content {
+  transition: opacity 0.2s ease-in-out;
+}
+#content.fade-out {
+  opacity: 0;
 }

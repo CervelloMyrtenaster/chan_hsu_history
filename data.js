@@ -697,6 +697,12 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/8nofqYzotoaFySKA7", label: "2017年9月29日 我飄向東京 tokyo" }
     ],
     "30": [
+      { type: "link", content: "https://photos.app.goo.gl/hSDSpHgTpZV396i89", label: "2025年9月30日 \
+        感謝您 民進黨急了 再不把你弄掉 要怎麼繼續官商勾結 民進黨媒體也急了 再不把你弄掉 要怎麼操縱輿論洗風向順便拿政府的好處 \
+        民進黨支持者更急了 再被你揭發下去 要怎麼繼續裝死裝傻說民進黨最抗中保台最清廉 弄掉柯文哲 下一個弄掉你黃國昌 台灣就再也沒有第二種聲音囉" },
+      { type: "link", content: "https://photos.app.goo.gl/f9ptxw1jKW5d6yhB6", label: "2025年9月30日 抱意思 這個很好吃 路過推" },
+      { type: "link", content: "https://photos.app.goo.gl/Pvyav5Y4GxWiwmMKA", label: "2025年9月30日 不管是哪個黨當選 國軍永遠都會出動救災 你應該感謝的是這些國軍 不是政府" },
+      { type: "link", content: "https://photos.app.goo.gl/jpA1nTgVpwQKufPR7", label: "2025年9月30日 讚啦 感謝年輕人幫老婆婆踢進捷運 不然他行進中這樣站著好危險" },
       { type: "link", content: "https://photos.app.goo.gl/ogaxvgWNfpJGYdHv8", label: "2024年9月30日 \
         外面自費醫美門檻低賺的多 留在醫院做一線科 都是用自己的命在換病人的病 而且還要通過各種高難度的虐人考試 \
         那些考官腦袋都還是僵化 硬要刷掉一堆辛苦訓練的考生 重點是考過了待遇也沒有去外面做自費醫美來的好 還更累 \
@@ -734,7 +740,36 @@ const records = {
   },
 
   "10": {
-    "1": [],
+    "1": [
+      { type: "link", content: "https://photos.app.goo.gl/rKumzJRu4kDGg1B2A", label: "2024年10月1日 滿中肯的 只靠當醫生 在台灣確實資產頂多百萬而已" },
+      { type: "link", content: "https://photos.app.goo.gl/EGmkTcJbMWj2fk3R8", label: "2024年10月1日 超可愛 真想跟他一樣不用上班" },
+      { type: "link", content: "https://photos.app.goo.gl/V8GEnGqoPyGUYdkd6", label: "2024年10月1日 已購買 山托兒很喜歡" },
+      { type: "link", content: "https://photos.app.goo.gl/womErxejrJLSBmP79", label: "2024年10月1日 拜託拜託明天不要放颱風假" },
+      { type: "link", content: "https://photos.app.goo.gl/bnaQ7tBtbHMJzZVs9", label: "2024年10月1日 我們也買一隻" },
+      { type: "link", content: "https://photos.app.goo.gl/9yTnegYzpz4wVAhM6", label: "2024年10月1日 大老婆還是比小老婆重要的" },
+      { type: "link", content: "https://photos.app.goo.gl/1xnWKZARdZSAGrDc8", label: "2024年10月1日 他們覺得老人都喜歡這樣玩嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/tCgDZkeeTrELqanf8", label: "2024年10月1日 根本神還原哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/265pDCu8in8Jrm7K6", label: "2024年10月1日 超美 那時候有拍到真幸運" },
+      { type: "link", content: "https://photos.app.goo.gl/jwYcG9aEfDFpXQ1X8", label: "2023年10月1日 \
+        很久沒吃澄食 回味一下點大人物丼 雖然很愛吃生魚片料理 但越有年紀就越不會一直吃 吃一遍就覺得今年份量夠了 \
+        因為越來越會亂想 生魚片有沒有寄生蟲 木製碗底有沒有發霉 等等的 真的很好吃啦 而且澄食算衛生做的很好的 但今年份量已經夠了" },
+      { type: "link", content: "https://photos.app.goo.gl/ypn1ffvtgHshRQ2UA", label: "2023年10月1日 太夢幻了 學弟的交易麻吉們 個個都是交易高手 有兩位月入穩定百萬" },
+      { type: "link", content: "https://photos.app.goo.gl/6QWFh6Gi4W2KLEAe8", label: "2023年10月1日 認真覺得至少Z6以上才有辦法拍複雜的光線 調控起來順很多 當然閃燈才是主因 感覺可以再升級了" },
+      { type: "link", content: "https://photos.app.goo.gl/8waefmnDG3C7ku3n9", label: "2023年10月1日 \
+        久違的回ICU 半夜再次經歷一場急救 沒想到護理師表示上一次急救 就是很久之前我那次的大吐血阿北 命啊 \
+        已經遇到第三次來的又急又快的SHOCK 三次當然都沒救活 只有上次大吐血知道原因 這次跟第一次遇到的 都是RIA的病人 \
+        什麼預兆都沒有 開始血壓血氧掉 半小時人就沒了 這次比較異常就突然發燒跟DDIMER 2.4->9 CPR之前抽的 可惜DATA還沒出來就RIP" },
+      { type: "link", content: "https://photos.app.goo.gl/eqyaLEMTYA2uUrGb7", label: "2022年10月1日 在這裏看電影太熱了吧 士林夜市" },
+      { type: "link", content: "https://photos.app.goo.gl/i4NknKX4zyzn7b5B8", label: "2022年10月1日 幾乎都待在醫院完全跟不到兄弟特別北上拍照" },
+      { type: "link", content: "https://photos.app.goo.gl/LNvEtUHcHVhQrXc87", label: "2022年10月1日 這張照片的作者跟我一樣名字欸好巧 在拍牆上的照片 結果作者不小心擋到 真抱歉 與他的作品與我幫他合照他的作品的作品" },
+      { type: "link", content: "https://photos.app.goo.gl/fHwKZgkNDxPTsmik8", label: "2021年10月1日 跟醫生比這叫做天堂般的工時" },
+      { type: "link", content: "https://photos.app.goo.gl/VxtHYtJGstHB6gcH9", label: "2021年10月1日 我高中最快3*3*3魔術方塊是25秒解完 但早就忘記公式哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/28kP1q1paiuUZkUDA", label: "2021年10月1日 \
+        徵老師一位 地點台北 有薪 一堂課 對象是大學生 人數不超過20位 上課內容大概簡單介紹手機攝影 可用哪些軟體 帶著學生簡單修圖 基本介紹修圖功能\
+        費用不高 所以不用進階或高超技巧 有興趣可私我" },
+      { type: "link", content: "https://photos.app.goo.gl/p3kmpMrSSknrKRs16", label: "2021年10月1日 也換新相機的 越來越會拍狗" },
+      { type: "link", content: "https://photos.app.goo.gl/CgME8dBQMjfHuZzD9", label: "2020年10月1日 我在跟她說我是甲上級烤肉廚師 她只在乎我有沒有偷喝奶茶" },
+    ],
     "2": [],
     "3": [],
     "4": [

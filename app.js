@@ -28,6 +28,16 @@
       }
   }
 
+  // 帶有淡入淡出效果的內容更新函數
+  function updateContentWithFade(newHTML) {
+      contentDiv.classList.add('fade-out');
+      setTimeout(() => {
+          contentDiv.innerHTML = newHTML;
+          contentDiv.scrollTop = 0;
+          contentDiv.classList.remove('fade-out');
+      }, 200);
+  }
+
   // 圖片檢測正則式
   const imgRe = /\.(jpe?g|png|gif|webp|bmp|svg)$/i;
 
@@ -256,31 +266,18 @@
     currentDay = dayStr;
     currentSearch = null;
 
-    contentDiv.innerHTML = `<h2>${monthStr}月${dayStr}日 展旭記錄</h2>`;
-
     const monthObj = records[monthStr];
     const list = (monthObj && Array.isArray(monthObj[dayStr])) ? monthObj[dayStr] : null;
 
+    let newContentHTML = `<h2>${monthStr}月${dayStr}日 展旭記錄</h2>`;
+
     if (!list || list.length === 0) {
-      contentDiv.innerHTML += "<p>此日期尚無記錄。</p>";
+      newContentHTML += "<p>此日期尚無記錄。</p>";
     } else {
       list.forEach(item => {
-        const recordElement = createRecordElement(item);
-        contentDiv.appendChild(recordElement);
+        newContentHTML += createRecordElement(item).outerHTML;
       });
     }
-
-    // 更新網址(絕對 URL)
-    if (!skipPush) {
-      const params = new URLSearchParams();
-      params.set("month", monthStr);
-      params.set("day", dayStr);
-      const newUrl = `${location.origin}${location.pathname}?${params.toString()}`;
-      window.history.pushState({ month: monthStr, day: dayStr }, "", newUrl);
-    }
-    
-    highlightSidebar(monthStr, dayStr);
-    sidebar.classList.remove("open");
 
     const wikiLinkContainer = document.createElement('div');
     wikiLinkContainer.style.marginTop = '30px';
@@ -293,7 +290,22 @@
         </a>
       </p>
     `;
-    contentDiv.appendChild(wikiLinkContainer);
+
+    newContentHTML += wikiLinkContainer.outerHTML;
+
+    updateContentWithFade(newContentHTML);
+    
+    // 更新網址(絕對 URL)
+    if (!skipPush) {
+      const params = new URLSearchParams();
+      params.set("month", monthStr);
+      params.set("day", dayStr);
+      const newUrl = `${location.origin}${location.pathname}?${params.toString()}`;
+      window.history.pushState({ month: monthStr, day: dayStr }, "", newUrl);
+    }
+    
+    highlightSidebar(monthStr, dayStr);
+    sidebar.classList.remove("open");
   }
 
   function highlightText(text, keyword) {
@@ -323,7 +335,7 @@
     currentDay = null;
     currentSearch = kw;
 
-    contentDiv.innerHTML = `<h2>搜尋結果：「${kw}」</h2>`;
+    let newContentHTML = `<h2>搜尋結果：「${kw}」</h2>`;
     let found = false;
     const lower = kw.toLowerCase();
 
@@ -363,13 +375,15 @@
             while (recordElement.firstChild) {
                 resultContainer.appendChild(recordElement.firstChild);
             }
-            contentDiv.appendChild(resultContainer);
+            newContentHTML += resultContainer.outerHTML;
           }
         });
       }
     }
 
-    if (!found) contentDiv.innerHTML += "<p>查無符合的記錄。</p>";
+    if (!found) newContentHTML += "<p>查無符合的記錄。</p>";
+
+    updateContentWithFade(newContentHTML);
 
     // 更新網址(絕對 URL)
     if (!skipPush) {
@@ -628,6 +642,53 @@
     }
   });
 
+  // --- 鍵盤快捷鍵功能 ---
+  document.addEventListener('keydown', (event) => {
+    // 當焦點在輸入框時，不觸發快捷鍵，避免干擾打字
+    if (document.activeElement.tagName === 'INPUT' || document.activeElement.tagName === 'TEXTAREA') {
+      return;
+    }
+
+    switch (event.key) {
+      case 'ArrowLeft': // 左箭頭
+        event.preventDefault();
+        document.getElementById('prevDay').click();
+        break;
+      case 'ArrowRight': // 右箭頭
+        event.preventDefault();
+        document.getElementById('nextDay').click();
+        break;
+      case 'Escape': // Esc 鍵
+        if (aboutModal.classList.contains('show')) {
+          aboutModal.classList.remove('show');
+        }
+        else if (sidebar.classList.contains('open')) {
+          sidebar.classList.remove('open');
+        }
+        break;
+      case '/': // 斜線鍵
+        event.preventDefault(); 
+        document.getElementById('searchInput').focus(); // 直接跳到搜尋框
+        break;
+    }
+  });
+
+  // --- 回到頂部按鈕功能 ---
+  const backToTopBtn = document.getElementById('backToTopBtn');
+  contentDiv.addEventListener('scroll', () => {
+    if (contentDiv.scrollTop > 300) {
+      backToTopBtn.style.display = 'block';
+    } else {
+      backToTopBtn.style.display = 'none';
+    }
+  });
+  backToTopBtn.addEventListener('click', () => {
+    contentDiv.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
+  });
+
   // --- 展旭小測驗功能 ---
 
   // 1. DOM 元素
@@ -654,12 +715,21 @@
   // 3. 準備資料 將巢狀的 records 物件扁平化 方便隨機抽樣
   function flattenRecords() {
       if (allRecordsFlat.length > 0) return;
+      const yearRegex = /^(\d{4})年/
       for (const m in records) {
           for (const d in records[m]) {
               if (records[m][d].length > 0) {
                   records[m][d].forEach(record => {
                       if (record.label) {
-                          allRecordsFlat.push({ month: m, day: d, ...record });
+                          const yearMatch = record.label.match(yearRegex);
+                          if (yearMatch) {
+                              allRecordsFlat.push({ 
+                                  year: yearMatch[1],
+                                  month: m, 
+                                  day: d, 
+                                  ...record
+                              });
+                          }
                       }
                   });
               }
@@ -687,13 +757,13 @@
           if (usedLabels.has(questionRecord.label)) continue;
 
           usedLabels.add(questionRecord.label);
-          
-          const correctAnswer = `${questionRecord.month}月${questionRecord.day}日`;
+
+          const correctAnswer = `${questionRecord.year}年${questionRecord.month}月${questionRecord.day}日`;
           const options = new Set([correctAnswer]);
           
           while (options.size < 4) {
               const randomRecord = allRecordsFlat[Math.floor(Math.random() * allRecordsFlat.length)];
-              const distractor = `${randomRecord.month}月${randomRecord.day}日`;
+              const distractor = `${randomRecord.year}年${randomRecord.month}月${randomRecord.day}日`;
               options.add(distractor);
           }
           
