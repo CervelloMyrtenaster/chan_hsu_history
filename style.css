@@ -200,8 +200,7 @@ header button:hover {
 #sidebar {
     background: var(--sidebar-bg);
     color: var(--text-color);
-    transition: background 0.3s, color 0.3s;
-    transition: transform 0.3s ease-in-out; 
+    transition: background 0.3s, color 0.3s, transform 0.3s ease-in-out; 
     display: flex;
     flex-direction: column;
 }
@@ -304,10 +303,13 @@ header button:hover {
 #content {
     background: var(--content-bg);
     color: var(--text-color);
-    transition: background 0.3s, color 0.3s;
+    transition: background 0.3s, color 0.3s, opacity 0.2s ease-in-out;
     flex: 1;
     padding: 20px;
     overflow-y: auto;
+}
+#content.fade-out {
+  opacity: 0;
 }
 
 nav {
@@ -493,11 +495,6 @@ body.dark-mode input[type="text"]:hover,
 body.dark-mode input[type="text"]:focus {
     border-color: #888;
 }
-body.dark-mode button {
-    background: var(--button-bg);
-    color: var(--button-text);
-    border: 1px solid var(--border-color);
-}
 body.dark-mode .dashboard {
     background: var(--content-bg);
 }
@@ -508,7 +505,7 @@ body.dark-mode .heatmap-day.level-0 {
     background: #2d333b; 
 }
 body.dark-mode .menu-toggle{
-    background: #333333;
+    background: var(--button-bg);
     color: var(--text-color);
 }
 body.dark-mode #sidebar {
@@ -659,6 +656,13 @@ body.dark-mode footer a {
     background: var(--button-hover);
 }
 
+#cloze-question .cloze-blank {
+  font-weight: bold;
+  color: var(--link-color);
+  border-bottom: 2px solid var(--link-color);
+  padding: 0 5px;
+}
+
 /* 手機版 */
 @media (max-width: 768px) {
     header {
@@ -669,6 +673,9 @@ body.dark-mode footer a {
     }
     .menu-toggle {
         display: block;
+        border: none;
+        font-family: inherit;
+        font-size: 1rem;
     }
     .container {
         flex-direction: column;
@@ -699,12 +706,4 @@ body.dark-mode footer a {
     .content {
         padding: 15px;
     }
-}
-
-/* --- 內容轉場動畫 --- */
-#content {
-  transition: opacity 0.2s ease-in-out;
-}
-#content.fade-out {
-  opacity: 0;
 }

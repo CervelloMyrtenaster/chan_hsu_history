@@ -31,15 +31,16 @@
 
   <div class="header-buttons">
     <button id="dashboardBtn">統計儀表板</button>
-    <button id="quizBtn">展旭小測驗</button>
     <button id="prevDay">前一日</button>
     <button id="nextDay">後一日</button>
     <button id="randomBtn">隨機看</button>
+    <button id="quizBtn">展旭歷史王</button>
+    <button id="clozeBtn">展旭克漏字</button>
     <button id="shareBtn">分享</button>
     <button id="theme-toggle">深色模式</button>
   </div>
   
-  <div class="menu-toggle">☰ 選單</div>
+  <button class="menu-toggle" type="button" aria-label="開啟或關閉選單">☰ 選單</button>
 
   <div class="dashboard" id="dashboard">
     <h2>展旭記錄統計儀表板</h2>
@@ -100,8 +101,7 @@
           <div id="quiz-score">分數: 0</div>
         </div>
         <div id="quiz-question" class="quiz-question">問題會顯示在這裡...</div>
-        <div id="quiz-options" class="quiz-options">
-          </div>
+        <div id="quiz-options" class="quiz-options"></div>
         <div id="quiz-feedback" class="quiz-feedback"></div>
       </div>
       <div id="quiz-results-view" class="quiz-results" style="display: none;">
@@ -110,6 +110,26 @@
         <div class="quiz-results-buttons">
           <button id="play-again-btn">再玩一次</button>
           <button id="return-home-btn">返回主頁</button>
+        </div>
+      </div>
+    </div>
+
+    <div id="cloze-container" class="quiz-container">
+      <div id="cloze-game-view">
+        <div class="quiz-header">
+          <div id="cloze-progress">第 1 / 5 題</div>
+          <div id="cloze-score">分數: 0</div>
+        </div>
+        <div id="cloze-question" class="quiz-question">題目會顯示在這裡...</div>
+        <div id="cloze-options" class="quiz-options"></div>
+        <div id="cloze-feedback" class="quiz-feedback"></div>
+      </div>
+      <div id="cloze-results-view" class="quiz-results" style="display: none;">
+        <h2>挑戰結束！</h2>
+        <p>您的最終得分是：<span id="cloze-final-score">0</span> / 5</p>
+        <div class="quiz-results-buttons">
+          <button id="cloze-play-again-btn">再玩一次</button>
+          <button id="cloze-return-home-btn">返回主頁</button>
         </div>
       </div>
     </div>

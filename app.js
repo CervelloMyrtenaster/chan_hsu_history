@@ -16,6 +16,7 @@
       sidebar.style.display = 'none';
       dashboard.classList.remove('active');
       quizContainer.classList.remove('active');
+      clozeContainer.classList.remove('active');
 
       if (viewName === 'main') {
           contentDiv.style.display = '';
@@ -25,6 +26,8 @@
           dashboard.classList.add('active');
       } else if (viewName === 'quiz') {
           quizContainer.classList.add('active');
+      } else if (viewName === 'cloze') {
+          clozeContainer.classList.add('active');
       }
   }
 
@@ -689,7 +692,7 @@
     });
   });
 
-  // --- 展旭小測驗功能 ---
+  // --- 展旭小測驗 ---
 
   // 1. DOM 元素
   const quizBtn = document.getElementById('quizBtn');
@@ -720,7 +723,7 @@
           for (const d in records[m]) {
               if (records[m][d].length > 0) {
                   records[m][d].forEach(record => {
-                      if (record.label) {
+                      if (record.label && record.label.length >= 20) {
                           const yearMatch = record.label.match(yearRegex);
                           if (yearMatch) {
                               allRecordsFlat.push({ 
@@ -840,20 +843,22 @@
 
   // 9. 開始測驗
   function startQuiz() {
+      generateQuizQuestions();
+      if (quizQuestions.length < TOTAL_QUESTIONS) {
+          alert(`符合條件的題目不足 ${TOTAL_QUESTIONS} 題，無法開始遊戲！\n（目前只找到 ${quizQuestions.length} 題）`);
+          return;
+      }
       showView('quiz');      
       quizGameView.style.display = 'block';
       quizResultsView.style.display = 'none';      
       currentQuestionIndex = 0;
-      score = 0;      
-      generateQuizQuestions();
+      score = 0;
       displayQuestion();
   }
 
   // 10. 返回主頁
   function returnToMain() {
-      quizContainer.classList.remove('active');
-      contentDiv.style.display = ''; 
-      document.getElementById('homeBtn').click();
+      showView('main');
   }
 
   // 11. 綁定事件監聽器
@@ -863,3 +868,166 @@
   });
   playAgainBtn.addEventListener('click', startQuiz);
   returnHomeBtn.addEventListener('click', returnToMain);
+
+
+  // --- 展旭克漏字功能 ---
+
+  // 1. DOM 元素
+  const clozeBtn = document.getElementById('clozeBtn');
+  const clozeContainer = document.getElementById('cloze-container');
+  const clozeGameView = document.getElementById('cloze-game-view');
+  const clozeResultsView = document.getElementById('cloze-results-view');
+  const clozeProgress = document.getElementById('cloze-progress');
+  const clozeScoreEl = document.getElementById('cloze-score');
+  const clozeQuestionEl = document.getElementById('cloze-question');
+  const clozeOptionsEl = document.getElementById('cloze-options');
+  const clozeFeedbackEl = document.getElementById('cloze-feedback');
+  const clozeFinalScoreEl = document.getElementById('cloze-final-score');
+  const clozePlayAgainBtn = document.getElementById('cloze-play-again-btn');
+  const clozeReturnHomeBtn = document.getElementById('cloze-return-home-btn');
+
+  // 2. 遊戲狀態變數
+  let allClozeRecords = [];
+  let masterWordList = [];
+  let clozeQuestions = [];
+  let currentClozeIndex = 0;
+  let clozeScore = 0;
+  const CLOZE_TOTAL_QUESTIONS = 5;
+
+  // 3. 準備克漏字資料和詞彙庫
+  function prepareClozeData() {
+      if (allClozeRecords.length > 0) return;
+      const wordSet = new Set();
+      const dateRegex = /^\d{4}年\d{1,2}月\d{1,2}日\s*/;
+      const splitRegex = /[\s,.;。，；、()（）]/g; 
+      allRecordsFlat.forEach(record => {
+          const cleanLabel = record.label.replace(dateRegex, '').trim();
+          if (cleanLabel.length >= 20) {
+              allClozeRecords.push({ ...record, cleanLabel });
+              const words = cleanLabel.split(splitRegex);
+              words.forEach(word => {
+                  if (word.length >= 3 && word.length <= 15) {
+                      wordSet.add(word);
+                  }
+              });
+          }
+      });
+      masterWordList = Array.from(wordSet);
+  }
+
+  // 4. 產生克漏字問題
+  function generateClozeQuestions() {
+      shuffleArray(allClozeRecords);
+      clozeQuestions = [];
+      const splitRegex = /[\s,.;。，；、()（）]/g
+      
+      for (let i = 0; i < allClozeRecords.length && clozeQuestions.length < CLOZE_TOTAL_QUESTIONS; i++) {
+          const record = allClozeRecords[i];
+          const words = record.cleanLabel.split(splitRegex).filter(w => w.length >= 3 && w.length <= 15);
+          if (words.length === 0) continue;
+
+          shuffleArray(words);
+          const answer = words[0];          
+          const questionText = record.cleanLabel.replace(answer, '<span class="cloze-blank">[ ___ ]</span>');
+          const options = new Set([answer]);
+
+          while(options.size < 4 && masterWordList.length > 3) {
+              const randomWord = masterWordList[Math.floor(Math.random() * masterWordList.length)];
+              options.add(randomWord);
+          }
+          
+          const shuffledOptions = Array.from(options);
+          shuffleArray(shuffledOptions);
+          
+          clozeQuestions.push({
+              question: questionText,
+              options: shuffledOptions,
+              answer: answer
+          });
+      }
+  }
+
+  // 5. 顯示克漏字問題
+  function displayClozeQuestion() {
+      if (currentClozeIndex >= clozeQuestions.length) {
+          endClozeTest();
+          return;
+      }
+      
+      const currentQuestion = clozeQuestions[currentClozeIndex];
+      clozeProgress.textContent = `第 ${currentClozeIndex + 1} / ${CLOZE_TOTAL_QUESTIONS} 題`;
+      clozeScoreEl.textContent = `分數: ${clozeScore}`;
+      clozeQuestionEl.innerHTML = currentQuestion.question;
+      clozeOptionsEl.innerHTML = '';
+      clozeFeedbackEl.textContent = '';
+      
+      currentQuestion.options.forEach(option => {
+          const button = document.createElement('button');
+          button.className = 'quiz-option-btn';
+          button.textContent = option;
+          button.addEventListener('click', selectClozeAnswer);
+          clozeOptionsEl.appendChild(button);
+      });
+  }
+
+  // 6. 選擇克漏字答案的邏輯
+  function selectClozeAnswer(e) {
+      const selectedButton = e.target;
+      const selectedAnswer = selectedButton.textContent;
+      const currentQuestion = clozeQuestions[currentClozeIndex];
+      
+      const allButtons = clozeOptionsEl.querySelectorAll('button');
+      allButtons.forEach(btn => btn.disabled = true);
+      
+      if (selectedAnswer === currentQuestion.answer) {
+          clozeScore++;
+          selectedButton.classList.add('correct');
+          clozeFeedbackEl.textContent = '答對了！';
+          clozeFeedbackEl.style.color = '#28a745';
+      } else {
+          selectedButton.classList.add('incorrect');
+          clozeFeedbackEl.textContent = `答錯了！正確答案是：${currentQuestion.answer}`;
+          clozeFeedbackEl.style.color = '#dc3545';
+          allButtons.forEach(btn => {
+              if (btn.textContent === currentQuestion.answer) {
+                  btn.classList.add('correct');
+              }
+          });
+      }
+      
+      clozeQuestionEl.innerHTML = currentQuestion.question.replace('<span class="cloze-blank">[ ___ ]</span>', `<span class="cloze-blank">${currentQuestion.answer}</span>`);
+      
+      currentClozeIndex++;
+      setTimeout(displayClozeQuestion, 2500);
+  }
+
+  // 7. 結束克漏字測驗
+  function endClozeTest() {
+      clozeGameView.style.display = 'none';
+      clozeResultsView.style.display = 'block';
+      clozeFinalScoreEl.textContent = `${clozeScore}`;
+  }
+
+  // 8. 開始克漏字測驗
+  function startClozeTest() {
+      generateClozeQuestions();
+      if (clozeQuestions.length < CLOZE_TOTAL_QUESTIONS) {
+          alert(`符合條件的題目不足 ${CLOZE_TOTAL_QUESTIONS} 題，無法開始遊戲！\n（目前只找到 ${clozeQuestions.length} 題）`);
+          return;
+      }
+      showView('cloze');      
+      clozeGameView.style.display = 'block';
+      clozeResultsView.style.display = 'none';      
+      currentClozeIndex = 0;
+      clozeScore = 0;
+      displayClozeQuestion();
+  }
+
+  // 9. 綁定事件監聽器
+  clozeBtn.addEventListener('click', () => {
+      flattenRecords()
+      prepareClozeData(); 
+      startClozeTest();
+  });
+  clozePlayAgainBtn.addEventListener('click', startClozeTest);
+  clozeReturnHomeBtn.addEventListener('click', returnToMain);
