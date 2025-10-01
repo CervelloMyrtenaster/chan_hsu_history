@@ -906,7 +906,7 @@
               allClozeRecords.push({ ...record, cleanLabel });
               const words = cleanLabel.split(splitRegex);
               words.forEach(word => {
-                  if (word.length >= 3 && word.length <= 15) {
+                  if (word.length >= 3 && word.length <= 16) {
                       wordSet.add(word);
                   }
               });
@@ -923,11 +923,11 @@
       
       for (let i = 0; i < allClozeRecords.length && clozeQuestions.length < CLOZE_TOTAL_QUESTIONS; i++) {
           const record = allClozeRecords[i];
-          const words = record.cleanLabel.split(splitRegex).filter(w => w.length >= 3 && w.length <= 15);
+          const words = record.cleanLabel.split(splitRegex).filter(w => w.length >= 3 && w.length <= 16);
           if (words.length === 0) continue;
 
           shuffleArray(words);
-          const answer = words[0];          
+          const answer = words[0];
           const questionText = record.cleanLabel.replace(answer, '<span class="cloze-blank">[ ___ ]</span>');
           const options = new Set([answer]);
 

@@ -257,8 +257,9 @@ const records = {
     "2": [
       { type: "link", content: "https://photos.app.goo.gl/JsSfHAdcxeAm76Hk7", label: "2016年8月2日 \
         腸胃內科 實習 第一天 嗯是一切好的開始呢 因為主治出國一個禮拜啦 \
-        現在除了晨會等例行公事 實在是沒事啊 但某些原因 其實我並沒有特別開心 但是既然有機會 就把握時間看看書吧 走進好久沒來的圖書館 充滿著大學時的回憶 \
-        二樓的討論室 翠華齋 一樓的單人座位 二樓左邊裡面的轉角座位等等 一幕一幕的回憶刷過腦海 雖然現在帶著酸苦的心情想起這些 但我相信會更好的 充實自己 讓自己比過去不一樣(過去應該直接蹓回去打電動了) \
+        現在除了晨會等例行公事 實在是沒事啊 但某些原因 其實我並沒有特別開心 但是既然有機會 就把握時間看看書吧 \
+        走進好久沒來的圖書館 充滿著大學時的回憶 二樓的討論室 翠華齋 一樓的單人座位 二樓左邊裡面的轉角座位等等 \
+        一幕一幕的回憶刷過腦海 雖然現在帶著酸苦的心情想起這些 但我相信會更好的 充實自己 讓自己比過去不一樣 過去應該直接蹓回去打電動了 \
         開工吧 期待回憶裡的場景 未來還能繼續出現在圖書館的某一角 firstchoice 回憶" }
     ],
     "3": [],
@@ -533,11 +534,11 @@ const records = {
         希望跟我一樣在內科大海裡迷茫的人 知道我也是其中之一 非常辛苦痛苦但仍努力存活著 一起加油" },
       { type: "link", content: "https://photos.app.goo.gl/uu1VeUtZ3KRa8C1i7", label: "2023年9月26日 \
         原來今天實習醫生座談會這麼精彩 應該也不少人跟我一樣 一直生活在相對權威的環境 \
-        從小家庭就是相對權威 很小的時候因為調皮被威脅要送我進軍中(沒想到後來真的進去) 幾乎沒有跟同學出遠門旅遊看電影等 也無法自然的跟朋友相處 社交能力非常差 最快樂的時候只有國中瘋練籃球的時光 \
+        從小家庭就是相對權威 很小的時候因為調皮被威脅要送我進軍中 沒想到後來真的進去 幾乎沒有跟同學出遠門旅遊看電影等 也無法自然的跟朋友相處 社交能力非常差 最快樂的時候只有國中瘋練籃球的時光 \
         因為家庭的封閉教育 我不知道如何表達自己的不滿 我不知道如何拒絕別人 我不知道如何與人協商 任何事情我只能被動的接受 如果不喜歡就忍耐 所以看似很乖很愛讀書 實則讓後來的自己吃很多很多虧 \
         高中相對校園更開放 我反倒很不習慣 極度無法適應把自己封閉 堅持著拒絕社交 每天讀書跟補習的生活 很羞愧的是當初覺得同學都不務正業 但畢業後才發現不正常的是自己 \
         當時我很有病的穿南一中的制服上學 因為父母告訴我只能讀一中但我卻差了一分 我國中班排第四 前十名都考上第一志願唯獨沒有我 而這個舉動讓我覺得很優越 跟同學分別 但如今卻覺得可笑 自欺欺人 \
-        我現在非常感謝當初是讀南科實中 老師包容我上課不聽課的個性 讓我因為成績好就享受很多資源(例如去參加NASA視訊 模擬聯合國會議) 只是我當時不懂這些資源的好 幸好部分高中同學雖然當我異類 卻很願意跟我做朋友 \
+        我現在非常感謝當初是讀南科實中 老師包容我上課不聽課的個性 讓我因為成績好就享受很多資源 例如去參加NASA視訊 模擬聯合國會議 只是我當時不懂這些資源的好 幸好部分高中同學雖然當我異類 卻很願意跟我做朋友 \
         很不幸大學又被家裡叫去讀軍校 因為衝著認為醫科很耀眼的頭銜而去 卻沒有想過「軍費」背後代表的意義 於是我再次承受高壓的環境 更封閉自己 但也因為同學來自各地 漸漸學會一點正常的社交跟看氣氛 \
         從來沒有任何長官告訴我可以離開 當有不適應時 一定先檢討你一番 最後輔導你 描繪繁華不實的未來藍圖  摸頭留下 過不久你再次因現實而破滅幻想 \
         高中自以為很會讀書 來到大學才知道什麼是真正的聰明跟善用資源 過去封閉的家庭生活 我沒有跟人接觸 永遠只會土法煉鋼 不知舉一反三跟找資料 後來成績都墊底 一路爬到今天 同學都在飛 而我還在爬 \
@@ -591,7 +592,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/drWVwK7Ywx1i6szT6", label: "2020年9月27日 \
         你們這些民眾只知道開罰 有沒有想過為何台灣的藥剩下這些垃圾 就是因為賤飽制度 \
         省錢省到好的藥不願意進來台灣 省錢省到醫生看病開藥開檢查還要自己貼錢 你們當然只剩下爛藥可以使用 \
-        今天罰再多錢都沒有用 因為你們繳的健保費就是只夠吃夜市牛排 正常的牛排根本吃不到(誰會虧本賣你) 所以別再無知了 \
+        今天罰再多錢都沒有用 因為你們繳的健保費 就是只夠吃夜市牛排 正常的牛排根本吃不到 誰會虧本賣你 所以別再無知了 \
         想解決藥物品質的問題 第一步先讓健保改制或崩毀 才能讓有水準的藥物進來台灣 當然更重要的是 要了解醫療就是那麼貴 本來就該花錢不要貪便宜" },
       { type: "link", content: "https://photos.app.goo.gl/pc6W43dckU8uF4Lx5", label: "2018年9月27日 講這種話的腦袋本來就只有屎 不用吃" },
       { type: "link", content: "https://photos.app.goo.gl/jeFqr19mpTzJUrau8", label: "2017年9月27日 實習好累ㄛ" }
@@ -697,9 +698,11 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/8nofqYzotoaFySKA7", label: "2017年9月29日 我飄向東京 tokyo" }
     ],
     "30": [
+      { type: "link", content: "https://photos.app.goo.gl/4xK1WfKj3df5WujS8", label: "2025年9月30日 我需要這個功能 超討厭咬珍珠 牙齒容易沾黏珍珠" },
+      { type: "link", content: "https://photos.app.goo.gl/uSpNJhQQyFcWmqh18", label: "2025年9月30日 之前去過 自駕真的還是最好 停車費稍微貴一點而已 但值得" },
       { type: "link", content: "https://photos.app.goo.gl/hSDSpHgTpZV396i89", label: "2025年9月30日 \
-        感謝您 民進黨急了 再不把你弄掉 要怎麼繼續官商勾結 民進黨媒體也急了 再不把你弄掉 要怎麼操縱輿論洗風向順便拿政府的好處 \
-        民進黨支持者更急了 再被你揭發下去 要怎麼繼續裝死裝傻說民進黨最抗中保台最清廉 弄掉柯文哲 下一個弄掉你黃國昌 台灣就再也沒有第二種聲音囉" },
+        感謝您 民進黨急了 再不把你弄掉 要怎麼繼續官商勾結 民進黨媒體也急了 再不把你弄掉 要怎麼操縱輿論洗風向 順便拿政府的好處 \
+        民進黨支持者更急了 再被你揭發下去 要怎麼繼續裝死裝傻 說民進黨最抗中保台最清廉 弄掉柯文哲 下一個弄掉你黃國昌 台灣就再也沒有第二種聲音囉" },
       { type: "link", content: "https://photos.app.goo.gl/f9ptxw1jKW5d6yhB6", label: "2025年9月30日 抱意思 這個很好吃 路過推" },
       { type: "link", content: "https://photos.app.goo.gl/Pvyav5Y4GxWiwmMKA", label: "2025年9月30日 不管是哪個黨當選 國軍永遠都會出動救災 你應該感謝的是這些國軍 不是政府" },
       { type: "link", content: "https://photos.app.goo.gl/jpA1nTgVpwQKufPR7", label: "2025年9月30日 讚啦 感謝年輕人幫老婆婆踢進捷運 不然他行進中這樣站著好危險" },
@@ -712,8 +715,8 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/vF1CXnUvCC13RL5P6", label: "2024年9月30日 我差點以為他拿的是模型" },
       { type: "link", content: "https://photos.app.goo.gl/5y9rXvUmAc2Xdvrc7", label: "2024年9月30日 \
         北眼觀景台夕陽 這次受邀體驗了canon 趕在颱風來之前享受夕陽餘暉 \
-        剛學攝影時我是使用canon 當時使用五年多心得是對焦跟寬容度真的大輸另外兩家 只有原生的皮膚色澤(紅潤)跟夜景的藍色調真的很美很值得而已 \
-        後來就跳家到nikon直到現在六年了 這次使用canon無反 感受到寬容度 對焦跟方便性(機身三個轉盤 而且感光元件還有擋塵板等)真的進步很多 不會輸給nikon了 \
+        剛學攝影時我是使用canon 當時使用五年多心得是對焦跟寬容度真的大輸另外兩家 只有原生的皮膚色澤紅潤 跟夜景的藍色調真的很美很值得而已 \
+        後來就跳家到nikon直到現在六年了 這次使用canon無反 感受到寬容度 對焦跟方便性 機身三個轉盤 而且感光元件還有擋塵板等 真的進步很多 不會輸給nikon了 \
         不過目前心得仍是nikon優先但考慮sony 因為nikon的鏡頭組合是三家唯一選擇性最多的 而且很輕便 但sony在拍攝後的銳利度跟日系風格 \
         也是另外兩家無法完全模仿的 canon只能說 已經追上來 但還沒有非常獨特的優勢 但聽說錄影功能就很強大" },
       { type: "link", content: "https://photos.app.goo.gl/edUDFALN7wVqh7je7", label: "2023年9月30日 \
@@ -732,8 +735,8 @@ const records = {
         然後一起保護環境 督促政府跟財團不要過度開發 也不要花錢蓋一堆超醜人工建築在大自然" },
       { type: "link", content: "https://photos.app.goo.gl/5XwCWGVqpPrpzTTP6", label: "2020年9月30日 部隊日常業務之一 每日製造數十張簽名單 每日簽數十張簽名單 督導來展示數百張簽名紀錄造冊" },
       { type: "link", content: "https://photos.app.goo.gl/1FayazSCo58TAxkh7", label: "2018年9月30日 \
-        永遠沒放到該放的假 永遠都是緊急返港一次比一次搞人 龐大的壓力不斷突破我的忍耐底線 但因為有妳與妳家人的體諒 才能讓我安心不少 \
-        我們都很辛苦 而且也因為我七年前的錯誤決定跟這七年不夠努力造成的 只能盡責並且好好努力 清楚穩定幸福的日子會來到 \
+        永遠沒放到該放的假 永遠都是緊急返港 一次比一次搞人 龐大的壓力不斷突破我的忍耐底線 但因為有妳與妳家人的體諒 才能讓我安心不少 \
+        我們都很辛苦 而且也因為我七年前的錯誤決定 跟這七年不夠努力造成的 只能盡責並且好好努力 清楚穩定幸福的日子會來到 \
         八天出航休息不到三天中間還航安督導 接著緊急返港又要出航十天 千言萬語只有一句 就是謝謝比其他人更堅強的妳 謝謝妳無悔的等待跟包容 一起加油" },
       { type: "link", content: "https://photos.app.goo.gl/U3V1scqs3gBodGkv8", label: "2017年9月30日 吃個飯穿西裝在路上 日本黑社會" }
     ]
@@ -741,6 +744,8 @@ const records = {
 
   "10": {
     "1": [
+      { type: "link", content: "https://photos.app.goo.gl/2WP5vuVGRuFpWTER8", label: "2025年10月1日 好幾天都晚睡 也完全沒讀到書 整天在耍廢 跑起來也沒什麼力 要怎麼振作" },
+      { type: "link", content: "https://photos.app.goo.gl/e4ckJT6HWz4mL9nv8", label: "2025年10月1日 真可悲 一想到這些國軍戰爭 還得守護你這種人 真不值" },
       { type: "link", content: "https://photos.app.goo.gl/rKumzJRu4kDGg1B2A", label: "2024年10月1日 滿中肯的 只靠當醫生 在台灣確實資產頂多百萬而已" },
       { type: "link", content: "https://photos.app.goo.gl/EGmkTcJbMWj2fk3R8", label: "2024年10月1日 超可愛 真想跟他一樣不用上班" },
       { type: "link", content: "https://photos.app.goo.gl/V8GEnGqoPyGUYdkd6", label: "2024年10月1日 已購買 山托兒很喜歡" },
@@ -770,7 +775,40 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/p3kmpMrSSknrKRs16", label: "2021年10月1日 也換新相機的 越來越會拍狗" },
       { type: "link", content: "https://photos.app.goo.gl/CgME8dBQMjfHuZzD9", label: "2020年10月1日 我在跟她說我是甲上級烤肉廚師 她只在乎我有沒有偷喝奶茶" },
     ],
-    "2": [],
+    "2": [
+      { type: "link", content: "https://photos.app.goo.gl/3dGfF94hLfjE5ZVv6", label: "2025年10月2日 我要買" },
+      { type: "link", content: "https://photos.app.goo.gl/ytG6z3affChJmNYVA", label: "2024年10月2日 \
+        可能有些縣市會連放四天 可能有些縣市會連放三天 看到一堆限動都好開心 但每個颱風假 很多醫護人員都沒得放 \
+        照常冒著生命危險上班 連自己家人都陪伴不了 很多醫生沒有補休 沒有加班費 颱風天來醫院就是做功德 \
+        值班的醫生也瞬間升級成全日值班 人力更不足 \ 颱風天放假沒有下雨很爽 很多人去唱歌 睡到自然醒 \
+        但真的不要忘記醫護人員被迫在醫院賣命 請注意自身安全 別來醫院拜託" },
+      { type: "link", content: "https://photos.app.goo.gl/SHL9f8ykpbtSLrpA6", label: "2024年10月2日 我明明是說要穿多一點才能拍" },
+      { type: "link", content: "https://photos.app.goo.gl/S4Rca5bxjad1HCzY9", label: "2024年10月2日 一起齁齁哈嘿" },
+      { type: "link", content: "https://photos.app.goo.gl/R7ABQA9x1XssqN828", label: "2024年10月2日 沒有 只有上班自己的晚餐自己pay" },
+      { type: "link", content: "https://photos.app.goo.gl/CCEnrt3reiYRNwEFA", label: "2024年10月2日 哈哈哈哈 我也想要這樣" },
+      { type: "link", content: "https://photos.app.goo.gl/39HXJEsqjams4U8MA", label: "2024年10月2日 對啊" },
+      { type: "link", content: "https://photos.app.goo.gl/j97KT6h8N4J4UHzS9", label: "2024年10月2日 整骨沒有用 人的骨頭不可能只靠一點點外力就移動位置 古時候民智未開才會信整骨" },
+      { type: "link", content: "https://photos.app.goo.gl/SErJV7n23Mnnrr5v7", label: "2023年10月2日 \
+        第一次覺得一個月如此飛快 真的太愛這裡 每個主治都很和藹 也願意教學跟聊天 不用有一堆機掰會議跟莫名的雜事 \
+        PM就好好P 在這裡選內科都甘願 唉居然要離開了 跟月初一樣 再次確定未來志願區域小醫院或診所 \
+        絕對不要去那種凶神惡煞 爭奪官位 汲汲營營於寫PAPER 被要求教學跟面對奇怪長官的奇怪醫院" },
+      { type: "link", content: "https://photos.app.goo.gl/LTyu1zK37DfMy2Fa6", label: "2023年10月2日 比什麼NEJM表格還受用 存著提醒自己 別把你的錢留到死" },
+      { type: "link", content: "https://photos.app.goo.gl/g7RXd1u6r3qdcsdc8", label: "2022年10月2日 \
+        池先生公館店 主餐我們選了咖喱海鮮湯麵跟福建炒麵 料多實在 尤其蝦仁真的好大隻好Q彈 麵量也剛好吃飽 \
+        另外我們也點了烤咖椰吐司 椰漿甜度剛剛好 但因為最先上 推薦一定要先吃一片 脆脆甜甜十足的讚 \
+        飲料我們點美祿 馬來西亞奶茶 都很好吃 其中奶茶真的很讚 嗜甜螞蟻的福利 消費不算太便宜 但論CP值還是很值得 \
+        懶人包 滿分的馬來西亞料理 不過也稍微台灣化 偏甜但很入口 以前吃過馬來西亞在地料理真的辣跟鮮 可是兩者我都喜歡 \
+        好好吃喔 不過馬來西亞在地料理不會偏甜 超好吃的馬來料理 建議訂位唷 現場約等10-15分鐘也沒有很久" },
+      { type: "link", content: "https://photos.app.goo.gl/C4s9qhGUbtYwTMAB8", label: "2022年10月2日 這個正版的枕頭才275元 我昨天在士林夜市花了400元 打氣球獲得一個應該是盜版的" },
+      { type: "link", content: "https://photos.app.goo.gl/6dwKvZsK2D7Mxdqb7", label: "2022年10月2日 好好喔醫院還有特聘超強攝影師" },
+      { type: "link", content: "https://photos.app.goo.gl/7EQQCBCyFUswtJzLA", label: "2022年10月2日 她也快成剪片大師了" },
+      { type: "link", content: "https://photos.app.goo.gl/P6kvbikbpVU4QkuD7", label: "2021年10月2日 感謝高雄最帥老師" },
+      { type: "link", content: "https://photos.app.goo.gl/mDrKRrNXLamph8Ni8", label: "2021年10月2日 \
+        哇太感動了 非常感謝你 她用心選圖和排版出來的 很感謝有你的支持 讓我們更有動力繼續以相機探索世界 記錄更多的美景 \
+        未來若有機會 不知道多久後 再出桌曆的話 再多多支持囉 或是說若有明信片的話 也會告知大家" },
+      { type: "link", content: "https://photos.app.goo.gl/Aot6HDoihpqsnmFWA", label: "2020年10月2日 笑死 原來各國股市會下跌的原因都很不一樣" },
+      { type: "link", content: "https://photos.app.goo.gl/JyoyrB65YvV6BchHA", label: "2017年10月2日 こはんを食べました exchangeprogram 午飯 友達" },
+    ],
     "3": [],
     "4": [
       { type: "link", content: "https://photos.app.goo.gl/orXuqGymccZpTAbz9", label: "2016年10月4日 \
@@ -779,10 +817,10 @@ const records = {
         要讓一個人死不需要複雜的算計 讓他連一點希望都沒有就好" },
       { type: "link", content: "https://photos.app.goo.gl/6ibQwhcHUvWsz36K8", label: "2016年10月4日 \
         血液腫瘤科 小成就 一個月 \
-        來這裡一個月 還是想特別記錄一下無聊中的小小喜悅 那就是port-A(人工血管通路)的實行了 \
+        來這裡一個月 還是想特別記錄一下無聊中的小小喜悅 那就是port-A人工血管通路 的實行了 \
         一開始我連備物都不知道 完全不知道以前OSCE是怎麼通過的 然後大概做兩次之後好像不自覺的開始上手 漸漸越來越順 \
         第三禮拜我嘗試用英文給烏克蘭交換生示範port-A的施行 發現好像緊張中也能安全完成操作 \
-        然後中間也幫同學cover兩床難放的port-A (什麼是難放 簡單說就是人工血管的基座埋在皮下太深 或者病人不太瘦皮脂厚 就很難定位) \
+        然後中間也幫同學cover兩床難放的port-A 什麼是難放 簡單說就是人工血管的基座埋在皮下太深 或者病人不太瘦皮脂厚 就很難定位 \
         剛好今天交班前又一床難放的 病人表示從前護理師或intern都要放三次以上或用長針 當下聽到心理躍躍欲試想挑戰 冷靜準備之後 沒想到一針短針直接到位 被小小稱讚 \
         不過最重要的是 施行同時顧病人疼痛感受 盡量快狠準的完成 待了一個月了也許自己沒什麼長進 但是on port-A的感覺 離開後還是會永遠記得 \
         0敗 繼續維持" }
