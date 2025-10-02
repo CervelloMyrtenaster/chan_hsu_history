@@ -776,6 +776,8 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/CgME8dBQMjfHuZzD9", label: "2020年10月1日 我在跟她說我是甲上級烤肉廚師 她只在乎我有沒有偷喝奶茶" },
     ],
     "2": [
+      { type: "link", content: "https://photos.app.goo.gl/Gihv1uuxaU7PQbLr6", label: "2025年10月2日 這種噁男就是直接忽略他" },
+      { type: "link", content: "https://photos.app.goo.gl/oPL6Jk6jEoLdumt68", label: "2025年10月2日 學長現在已經非常可靠了" },
       { type: "link", content: "https://photos.app.goo.gl/3dGfF94hLfjE5ZVv6", label: "2025年10月2日 我要買" },
       { type: "link", content: "https://photos.app.goo.gl/ytG6z3affChJmNYVA", label: "2024年10月2日 \
         可能有些縣市會連放四天 可能有些縣市會連放三天 看到一堆限動都好開心 但每個颱風假 很多醫護人員都沒得放 \
@@ -809,7 +811,35 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/Aot6HDoihpqsnmFWA", label: "2020年10月2日 笑死 原來各國股市會下跌的原因都很不一樣" },
       { type: "link", content: "https://photos.app.goo.gl/JyoyrB65YvV6BchHA", label: "2017年10月2日 こはんを食べました exchangeprogram 午飯 友達" },
     ],
-    "3": [],
+    "3": [
+      { type: "link", content: "https://photos.app.goo.gl/9UFP4RgJZNs9o2jbA", label: "2024年10月3日 以前看到一堆說打仗不怕要打來打的 先看看這個影片問自己 有沒有勇氣看著頭頂飛彈飛過來然後無處可躲" },
+      { type: "link", content: "https://photos.app.goo.gl/k5TCyKVN4hon1DTX7", label: "2024年10月3日 對啊" },
+      { type: "link", content: "https://photos.app.goo.gl/DaicC3ghWGMYSWQeA", label: "2024年10月3日 不用戰吧 你對得起自己良心就好 呵呵" },
+      { type: "link", content: "https://photos.app.goo.gl/sCWKMcek97iqhCg89", label: "2024年10月3日 原來筋跟膜鬆掉骨頭會歪噢呵呵 請問你說的筋跟膜具體是哪 鬆掉了是變成章魚哥嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/AVPvKBvQN8YF8rHU6", label: "2023年10月3日 \
+        第一天上內急真的震撼教育 早上0730倒晚上2000 沒辦法吃任何東西 中間除了喝水尿尿外就是看病人 交班我幾乎一半都沒辦法完整交班 \
+        台灣人也真幸福 很多4-5分鐘就能看到醫師 在國外分鐘要換成小時 結帳台幣要換成美金吧" },
+      { type: "link", content: "https://photos.app.goo.gl/saLMqnrPFZJJqxft8", label: "2023年10月3日 \
+        最久以前我是為了拍婚禮跟奕宏學長學習後製的 然後還去外面當免費助手 學習燈法 \
+        雖然已經很久沒碰了 但現在偶爾拍拍婚禮 還是覺得很開心 很喜歡紀錄這種溫馨美好的場景" },
+      { type: "link", content: "https://photos.app.goo.gl/NkkUEdg1yxCa2fRe7", label: "2022年10月3日 \
+        推薦大家 YT小綠頻道 由新光醫院李醫師利用閒暇時間所做的 講的深入且清晰 內科能有如此耐心教學的學長 才讓年輕醫師願意嘗試跟投入 推" },
+      { type: "link", content: "https://photos.app.goo.gl/uRvnrSLbQeFC83gg9", label: "2022年10月3日 \
+        毛茸茸喵星人 舊地重遊侯桐貓村 拍了好幾G裡面選了六張 也是我第一次在風景攝影版面放上喵星人 不知道大家會不會不習慣 \
+        回家後才發現原來每隻貓都有名字 甚至有許多遊客認出他們 能留言跟我說他們分別叫什麼嗎 \
+        在充滿風景的作品中穿插一個貓貓特輯 希望不要因此退我追蹤嗚嗚" },
+      { type: "link", content: "https://photos.app.goo.gl/vYpVFpuTF7myhxXZ8", label: "2022年10月3日 \
+        Westermark sign 非常感謝前輩分享 圖一到圖三 是病人巨大的pulmonary embolism 在心臟超音波下四個腔室清楚可見 \
+        並且在同一位病人的CXR出現Westermark sign 簡單介紹如圖四跟五 圖六為網路另一個例子" },
+      { type: "link", content: "https://photos.app.goo.gl/AgzULf9EJTyPs5uTA", label: "2021年10月3日 久違的美味早午餐 終於又發文了 真的好吃" },
+      { type: "link", content: "https://photos.app.goo.gl/SLsjkjUbtqZCcy9CA", label: "2021年10月3日 這什麼古老年代的IPHONE阿嬤" },
+      { type: "link", content: "https://photos.app.goo.gl/boJdDeyxasaPSyNk8", label: "2021年10月3日 NETFLEX家庭專案 缺一人每個月100元 110/10/6開始 希望是長期使用者 有需要私訊" },
+      { type: "link", content: "https://photos.app.goo.gl/RLwjarYxbcAkcLpV7", label: "2020年10月3日 真心覺得晶華酒店不只超高級 停車場各種千萬名車 大部分都是200多萬以上的 而且真的好好吃 好吃好吃" },
+      { type: "link", content: "https://photos.app.goo.gl/T6GSoiyfuykigrYC8", label: "2019年10月3日 跟他說這裡是國軍醫院不歡迎共匪" },
+      { type: "link", content: "https://photos.app.goo.gl/NWnRf9uhExWTD93v6", label: "2017年10月3日 日本醫生西裝褲好看又好穿 通風透氣正式又不用穿皮帶 可以吃飽飽 台灣沒賣好想多買幾件" },
+      { type: "link", content: "https://photos.app.goo.gl/JCisXVfAkp4g3ZDv8", label: "2017年10月3日 拍照好累 讀書比較輕鬆" },
+      { type: "link", content: "https://photos.app.goo.gl/U67a7XWFkXLuCVBm6", label: "2017年10月3日 New work would be lanuched" },
+    ],
     "4": [
       { type: "link", content: "https://photos.app.goo.gl/orXuqGymccZpTAbz9", label: "2016年10月4日 \
         終於體會到 真正絕望到全身無力的感覺 手不斷得發抖 是真的身平以來 當下想就這麼趴倒 被一槍打死都沒這麼難受 \
