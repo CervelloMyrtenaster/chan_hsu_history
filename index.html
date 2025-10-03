@@ -76,8 +76,15 @@
         <div class="heatmap-day level-4" title="大量記錄"></div>
         <span>多</span>
        </div>
-
     </div>
+
+    <div class="wordcloud-container">
+      <h3>關鍵字詞雲</h3>
+      <div id="wordcloud-canvas" class="wordcloud-canvas">
+        <p class="loading-text">正在分析文字，請稍候...</p>
+      </div>
+    </div>
+
   </div>
 
   <div class="container">
@@ -205,6 +212,7 @@
   <button id="backToTopBtn" title="回到頂部">↑</button>
 
   <script src="data.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/wordcloud@1.2.2/src/wordcloud2.js"></script>
   <script src="app.js"></script>
 
 </body>

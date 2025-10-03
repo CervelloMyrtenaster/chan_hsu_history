@@ -64,7 +64,7 @@ const records = {
     "26": [],
     "27": [],
     "28": [],
-    "29": [] // 只會在閏年有效
+    "29": []
   },
 
   "3": {
@@ -266,7 +266,7 @@ const records = {
     "4": [
       //{ type: "text", content: "測試文字" },
       { type: "link", content: "https://photos.app.goo.gl/nsukrSJaPRh8LTmD8", label: "2016年8月4日 \
-        世界上有種男人跟畜生一樣 把剛分手的女生吃死死 利用這點 滿足自己齷齪噁心的性需求 我告訴你 幹你老爸老母操機掰當初怎不把你射牆上 \
+        世界上有種男人跟畜生一樣 把剛分手的女生吃死死 利用這點 滿足自己齷齪噁心的性需求 我告訴你 幹你老爸老母操機掰 當初怎不把你射牆上 \
         我幹你全家 去死一死吧 最好不要讓我遇到你 以後你再敢動她 等著上社會新聞頭版 不過你應該也看不到了 操你爸媽是垃圾 沒把你教好 \
         家裡開中藥店 等著被砸店 畜生" },
       { type: "link", content: "https://photos.app.goo.gl/xTMABD1L8PYto82y7", label: "2016年8月4日 \
@@ -280,10 +280,10 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/pvZKiFYrvdBhbveZ6", label: "2016年8月5日 \
         我只是想認真當個好醫生 用心學習跟照顧病人 可是我真的累了 我好像連自己都照顧不了了 兩個多禮拜 我因為妳每天幾乎戰戰兢兢 撕心裂肺的過 度日如年 生不如死 \
         記得內科第一個月 因為太過忙碌跟直接毫無經驗的進入內科 那時候的確也是每日如戰場 壓力非常大 但那時候我不會有害怕的感覺 \
-        只是現在我每天都很害怕 害怕永遠失去妳 害怕妳傻傻被騙 害怕我沒有能力幫助妳 害怕妳不知道我在幫助妳 害怕我只能眼睜睜看著妳離去 說實話 我已經崩潰了 也許我也生病了 我不想跟任何人講太多話 似乎把自己封閉起來 讓自己無止境的流淚跟崩潰才能獲得平靜 \
-        妳不知道他對妳你造成多大的傷害 這是我更難過的地方 但是感謝妳願意想 願意告訴我妳錯了 可惜這個錯是我永遠的傷痕 一個超越我底線打破我原則的傷害 同時也是我曾經對妳的忽略與錯誤態度 要付出的龐大代價 \
-        但我依然挺住腳步 繼續前進 謝謝妳給我信任 傷痕依舊 但是信任會跟著時間撫平情緒 \
-        等我 我被擊垮了很多次但還是爬了起來 如果有什麼能證明真愛 我想那是極端的痛苦 值班 疲憊 支離破碎" }
+        只是現在我每天都很害怕 害怕永遠失去妳 害怕妳傻傻被騙 害怕我沒有能力幫助妳 害怕妳不知道我在幫助妳 害怕我只能眼睜睜看著妳離去 說實話 我已經崩潰了 也許我也生病了 \
+        我不想跟任何人講太多話 似乎把自己封閉起來 讓自己無止境的流淚跟崩潰才能獲得平靜 妳不知道他對妳你造成多大的傷害 這是我更難過的地方 但是感謝妳願意想 願意告訴我妳錯了 \
+        可惜這個錯是我永遠的傷痕 一個超越我底線打破我原則的傷害 同時也是我曾經對妳的忽略與錯誤態度 要付出的龐大代價 但我依然挺住腳步 繼續前進 謝謝妳給我信任 \
+        傷痕依舊 但是信任會跟著時間撫平情緒 等我 我被擊垮了很多次但還是爬了起來 如果有什麼能證明真愛 我想那是極端的痛苦 值班 疲憊 支離破碎" }
     ],
     "6": [],
     "7": [],
@@ -291,8 +291,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/fTcSU97ZJp2H8Uyy8", label: "2016年8月8日 \
         好像全世界 只有我一個人還記得妳的真實面貌 還記得妳最真的笑容 好像就是今天這句話 \
         那你有夠大的肩膀與胸懷能讓我不用再心疼她嗎 可以 我決定全盤接受妳的價值觀 我決定即使被欺騙也不後悔 最後的真愛 我想將它燃燒殆盡 \
-        妳曾說 希望有一天我不要受不了妳的脾氣 受不了妳的任性跟霸道 \
-        既然妳用最狠的心來打擊我了 我決定用夠大的胸懷 全盤包容 把妳找回來 \
+        妳曾說 希望有一天我不要受不了妳的脾氣 受不了妳的任性跟霸道 既然妳用最狠的心來打擊我了 我決定用夠大的胸懷 全盤包容 把妳找回來 \
         愛 痛苦的值班 痛苦的日子 我還沒放棄" }
     ],
     "9": [],
@@ -313,7 +312,7 @@ const records = {
         每一張大卡小卡的收拾 都是從我身上割下一塊血淋淋的肉 因為有妳無悔的支持 才讓我有如今的成長 但我希望最後的成長 可以用來回饋妳對我的好 可以用來證明我夠資格給妳幸福 \
         只是我不知道 該用什麼方法去完成 該用什麼心態去面對 或者 我該直接撒手不管 放棄這一切嗎 這樣的處境很無力 真的很無力 我到底該怎麼做才好" },
       { type: "link", content: "https://photos.app.goo.gl/5gFB53sSVrwq5tpcA", label: "2016年8月15日 \
-        究竟還要多久才能找到生命中的平靜 跌跌撞撞至今 好不容易才要抓穩了卻突然摔落 當我爬起來的時候 是否能再找回平靜的安心感 是否能再放鬆臉頰再次微笑 \
+        究竟還要多久 才能找到生命中的平靜 跌跌撞撞至今 好不容易才要抓穩了卻突然摔落 當我爬起來的時候 是否能再找回平靜的安心感 是否能再放鬆臉頰再次微笑 \
         sunset sky bluemoon" }
     ],
     "16": [],
@@ -324,7 +323,7 @@ const records = {
         半夜一點開始 陸陸續續新病人開始入院 奇怪的是這時間我居然完全睡不著 精神奕奕 於是接完之後肚子餓得要命 買了宵夜 隨意的點了YouTube一首歌 默默寫下今天滿溢的情緒 \
         下班的時候跟卓豪學長打招呼 看他用著燦爛的笑容 告訴我不要因為很多毛事失去當醫生的熱情 我很羨慕他 即使在忙碌的住院醫生生活 也有自己的愛人當歸屬 \
         醫院走道上看到一位父親推著輪椅的兒子 兩個人緊靠著窗戶 熱絡的玩著Pokemon抓著怪 這個遊戲還是有帶來好處的 \
-        32-13X的病人讓我早中晚都耗很多時間陪他去做治療 先是早上去RT定位出血點 中午去治療做止血 晚上值班還給我喘起來急推照CXR \
+        病人讓我早中晚都耗很多時間陪他去做治療 先是早上去RT定位出血點 中午去治療做止血 晚上值班還給我喘起來急推照CXR \
         令我印象深刻的是前天宣佈他胃癌合併肝轉移 是第四期時 離婚沒有家庭的他說了 唉怎麼不讓我這麼死了好了 他的家人大概只剩下兩個女兒 其中一個還是奧運選手不在身邊 不斷胃出血的他 失去求生意志 我也只能袖手旁觀 \
         晚上接到一個修冷氣被電擊的老伯 算是內科收過主訴最特別的 然後收到腎臟科 好吧 也許有機會發生橫紋肌溶解 謝謝妳 我會振作" }
     ],
@@ -367,7 +366,7 @@ const records = {
     "30": [
       { type: "link", content: "https://photos.app.goo.gl/8rFBUsxYktoPxxY26", label: "2016年8月30日 \
         兩三個禮拜以來漸漸調適情緒 以為即使痛苦也不會再痛哭 可惜晚上收到小生的來信 又點了他專頁的文章 \
-        然後影片開頭的20秒我便爆哭了 非常悽慘的爆 倒不是因為劇情 而是想到了自己 第40天,每天我都追得很辛苦 然而今天當面看到她的冰冷 我發現自己無法招架了 每一次釋出善意 都變成身上多了一條傷痕 \
+        然後影片開頭的20秒我便爆哭了 非常悽慘的爆 倒不是因為劇情 而是想到了自己 第40天 每天我都追得很辛苦 然而今天當面看到她的冰冷 我發現自己無法招架了 每一次釋出善意 都變成身上多了一條傷痕 \
         我好像魯夫 在被敵人摧殘了數次之後 依然頑固的拖著滿身血爬起來 可惜不同的是 我真的輸了 \
         事實上我一直沒有告訴妳 也因為妳的臭臉讓我無法講出來 每一次找你見面 我只是想看到妳的笑容而已 就是這麼單純 所以沒有什麼特別目的 可惜我沒有成功 妳也從來不知道為何我想見面 \
         我不懂明明繼續走下去會越來越好 會越來越扎實 為何妳選擇停下了 但不管如何 我不能因此失去自己 我要用屬於自己的生活方式 慢慢好起來 我可以打敗仗 但不能不繼續打仗 \
@@ -400,7 +399,7 @@ const records = {
     "11": [
       { type: "link", content: "https://photos.app.goo.gl/GS4ha6NgSMNT6iru6", label: "2016年9月11日 \
         今天再來隆重介紹一下刀房雞腿便當 沒錯今天刀一 從早上八點到現在總計20幾分鐘的吃飯時間 其他都是上刀上刀上刀刀刀刀 吃完還有三台刀準備戰到晚上十點 \
-        老弟 5-10分鐘吃便當可以嗎 等下沒有人幫我抬腳 我實在很懷疑學長今天有沒有吃飯 今天心情跟外面的天氣一樣鬱卒 幸好還有學長請的草莓歐蕾跟進步的便當菜色 \
+        老弟 10分鐘吃便當可以嗎 等下沒有人幫我抬腳 我實在很懷疑學長今天有沒有吃飯 今天心情跟外面的天氣一樣鬱卒 幸好還有學長請的草莓歐蕾跟進步的便當菜色 \
         最後我只告訴自己 這就是人生啦 開好開滿 不休息" }
     ],
     "12": [],
@@ -463,11 +462,11 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/BeQ3XvKNJBnGQ71K6", label: "2025年9月24日 跟沒值班還留在醫院的悲苦人買漢堡王就算了 他還被店員多薛8塊錢" },
       { type: "link", content: "https://photos.app.goo.gl/M38BrwJc1vc6ndC39", label: "2025年9月24日 真的是醫院又窮又小又機掰" },
       { type: "link", content: "https://photos.app.goo.gl/xovbG5E8QyeUzjyu8", label: "2025年9月24日 花蓮有夠可怕" },
-      { type: "link", content: "https://photos.app.goo.gl/gLxbhK1eGM7LqSdH6", label: "2025年9月24日 原來如此 太聰明了哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/gLxbhK1eGM7LqSdH6", label: "2025年9月24日 原來如此 太聰明了 哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/4vTmDiq1WsnYsvY66", label: "2025年9月24日 這個才是真的已讀亂回" },
-      { type: "link", content: "https://photos.app.goo.gl/9RXZsS2FFYDpe6nD7", label: "2025年9月24日 居然有雨衣欸 這麼可愛哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/9RXZsS2FFYDpe6nD7", label: "2025年9月24日 居然有雨衣欸 這麼可愛 哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/Eq6USqzVn7kZDR9C7", label: "2025年9月24日 這是因為男生希望能跟女生聊久一點故意裝傻的" },
-      { type: "link", content: "https://photos.app.goo.gl/ZALSTFK4dQznFZXB9", label: "2025年9月24日 他是不是以為不給他水了哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/ZALSTFK4dQznFZXB9", label: "2025年9月24日 他是不是以為不給他水了 哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/oX2vEu3JizgTn1QV8", label: "2024年9月24日 所以醫師開藥要對你負責 但這份責任要算免費？" },
       { type: "link", content: "https://photos.app.goo.gl/C7PBjc1zj1eeTgrWA", label: "2024年9月24日 我打到戰場傳說還是一堆不會看小地圖來幫忙的白痴隊友 這種只能說好人平安 但輸了應該畢竟隊友還在耍憨清中線吃兵" },
       { type: "link", content: "https://photos.app.goo.gl/WMGwfwckbQoYGhGK6", label: "2024年9月24日 這三句話要好好應用在職場" },
@@ -497,7 +496,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/WLaeTQxGzgaip5eK8", label: "2025年9月26日 不要去住院治療更省錢 怎麼能讓醫生護理師賺錢呢 怎麼能讓醫院賺錢呢 一起發起沒錢就拒絕就醫的活動吧" },
       { type: "link", content: "https://photos.app.goo.gl/nyDkVsN3dhiHzjub6", label: "2025年9月26日 \
         結果在這樓都沒看到專業的解答 腹主動脈不用說絕對馬上死 肝臟跟胰臟都是一樣的道理 都有動脈 而且周邊牽扯到的血管神經等都非常多 \
-        傷到只會比腹主動脈晚死一點點 標準答案只可能下腔靜脈 不要小看下腔靜脈 回流血之多 幹斷爆血應該1-2小時內就會休 \
+        傷到只會比腹主動脈晚死一點點 標準答案只可能下腔靜脈 不要小看下腔靜脈 回流血之多 幹斷爆血應該1 2小時內就會休克 \
         甚至造成回心血不足 preload不夠提早hypovolemic shock 依照題幹 只有下腔靜脈受損他才能短暫保有戰鬥能力 其他都免談" },
       { type: "link", content: "https://photos.app.goo.gl/8mQuZizw8MwmeQT47", label: "2025年9月26日 我可以畫的比他更恐怖" },
       { type: "link", content: "https://photos.app.goo.gl/Z7ZwkB1Fok9a3otWA", label: "2025年9月26日 \
@@ -549,12 +548,12 @@ const records = {
         希望我們這一代的 都能好好改變環境 讓環境變得更宜人 不再把不合適的價值觀強加在別人身上了" },
       { type: "link", content: "https://photos.app.goo.gl/HwgjZhVT6DsDsDxV7", label: "2021年9月26日 日歷我是第一個買兩本 支持一下" },
       { type: "link", content: "https://photos.app.goo.gl/mx8wYwSgYKtN49pY7", label: "2020年9月26日 用20分鐘跑五公里是滿有效率的運動 能有20分鐘能忘記世俗煩惱" },
-      { type: "link", content: "https://photos.app.goo.gl/qEy1rDhDVJqsEUcE6", label: "2020年9月26日 出售Nikkor 上班忙碌買來沒時間用 公司貨購入後遺失保卡但盒子與其他配件均在 可7-11先付款後寄送 寄送不負損壞責任但寄出前均會拍完整包裝與鏡頭狀況" },
+      { type: "link", content: "https://photos.app.goo.gl/qEy1rDhDVJqsEUcE6", label: "2020年9月26日 出售Nikkor 上班忙碌買來沒時間用 公司貨購入後遺失保卡但盒子與其他配件均在 可711先付款後寄送 寄送不負損壞責任但寄出前均會拍完整包裝與鏡頭狀況" },
       { type: "link", content: "https://photos.app.goo.gl/JmNGaybbNnUX1yQv9", label: "2018年9月26日 所謂的伙房就是蟑螂養殖場 還沒看過好幾個蟑螂屋在五個小時內全客滿的 黑壓壓的一片觸鬚" },
       { type: "link", content: "https://photos.app.goo.gl/fLjBjHm1KjkfsQY38", label: "2017年9月26日 早上要報Journal 下午要上課評鑑 Suffer" }
     ],
     "27": [
-      { type: "link", content: "https://photos.app.goo.gl/ocpRQvVjtrd2sfp69", label: "2025年9月27日 是元信那隻欸哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/ocpRQvVjtrd2sfp69", label: "2025年9月27日 是元信那隻欸 哈哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/RgRjV6p1vf4FsHWo8", label: "2025年9月27日 帳號一定可以要回來啦" },
       { type: "link", content: "https://photos.app.goo.gl/FQJqDpvZCFfuUSEz5", label: "2025年9月27日 這個也要給我看ㄚ" },
       { type: "link", content: "https://photos.app.goo.gl/t2movCWnUFWaFQY16", label: "2025年9月27日 怎麼會有軟體的經營方這麼白癡 任由自動判定來鎖帳號 甚至是永久刪除 爛到家了" },
@@ -588,7 +587,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/qxvBJsiR4m191Snh7", label: "2022年9月27日 \
         三總工作紀錄 出院病歷及急診 \
         一定要一筆一筆作紀錄 國家哪怕一塊錢 一天的退伍時間都要跟我們計較 反過來我們也絕對要跟國家計算到底不能吃虧" },
-      { type: "link", content: "https://photos.app.goo.gl/3tRHcGxJ2QNmEWyH9", label: "2021年9月27日 售副廠NIKON電池 台北可面交 可7-11交貨便自付運費60元 無損傷泡水 只是不能用在Z無反系列 這是以前D750用" },
+      { type: "link", content: "https://photos.app.goo.gl/3tRHcGxJ2QNmEWyH9", label: "2021年9月27日 售副廠NIKON電池 台北可面交 可711交貨便自付運費60元 無損傷泡水 只是不能用在Z無反系列 這是以前D750用" },
       { type: "link", content: "https://photos.app.goo.gl/drWVwK7Ywx1i6szT6", label: "2020年9月27日 \
         你們這些民眾只知道開罰 有沒有想過為何台灣的藥剩下這些垃圾 就是因為賤飽制度 \
         省錢省到好的藥不願意進來台灣 省錢省到醫生看病開藥開檢查還要自己貼錢 你們當然只剩下爛藥可以使用 \
@@ -609,7 +608,7 @@ const records = {
         美食分享改用相機拍 主要脆分享 均非業配 自己吃過推薦才寫" },
       { type: "link", content: "https://photos.app.goo.gl/fmJxLydLS2fZ6f7NA", label: "2025年9月28日 一個連假值頭尾兩天班" },
       { type: "link", content: "https://photos.app.goo.gl/TBXS96a4oHjKViTy6", label: "2025年9月28日 近期看過最屌的飯店 一晚十萬 但美到靠北好像到火星住 這輩子一定要去一次" },
-      { type: "link", content: "https://photos.app.goo.gl/UW11qbqU5wjtcVvz5", label: "2025年9月28日 真的是騙人要生女兒了哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/UW11qbqU5wjtcVvz5", label: "2025年9月28日 真的是騙人要生女兒了 哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/kQzni4uxRkoqhw8i6", label: "2024年9月28日 \
         今天真的可以再誇張一點 白天就三台導管了 到底還會來幾台 \
         下次不會再值班前吃鳳梨酥了 之前吃了都沒事啊 但不知道為啥今天吃之前覺得內心沒有安全感" },
@@ -637,7 +636,7 @@ const records = {
         因此決定分享跟作品無關的生活或醫學文 當然攝影帳號也一定有關攝影的主題 但我的生活跟醫療綁在一起 能分享的內容 醫療一定比較多 其中沈重的比溫馨快樂的更多 怕大家不買單 \
         發照片要寫什麼依舊很困擾 我決定寫學醫路上的經歷 至少主題比較特別 也不會單單只有攝影 想知道到底大家看照片時 會想看什麼內容呢" },
       { type: "link", content: "https://photos.app.goo.gl/ojXtqzY2aFvMNFAA8", label: "2021年9月28日 阿狗第一時間判斷主人需要氣切" },
-      { type: "link", content: "https://photos.app.goo.gl/Rwe3ziRDRs6RY7ah9", label: "2021年9月28日 我覺得很重要哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/Rwe3ziRDRs6RY7ah9", label: "2021年9月28日 我覺得很重要 哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/1wdceXPgZ67VqKxY7", label: "2021年9月28日 分享一位老醫師學長的真實故事 有點沈重 尤其是看完魷魚遊戲之後 社會底層的悲歌是個無解的問題 不只是在電影裡" },
       { type: "link", content: "https://photos.app.goo.gl/VG5f8QMWVUpB9ZRi7", label: "2019年9月28日 館長也在戰鬥支援大隊忠誠營區旁捐贈一間重訓室 讓我能夠省錢省時間也能運動" },
       { type: "link", content: "https://photos.app.goo.gl/3M62cWa2YtZRtVPq6", label: "2017年9月28日 Thank for my new profile, just check her page and amazing pics" },
@@ -753,7 +752,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/bnaQ7tBtbHMJzZVs9", label: "2024年10月1日 我們也買一隻" },
       { type: "link", content: "https://photos.app.goo.gl/9yTnegYzpz4wVAhM6", label: "2024年10月1日 大老婆還是比小老婆重要的" },
       { type: "link", content: "https://photos.app.goo.gl/1xnWKZARdZSAGrDc8", label: "2024年10月1日 他們覺得老人都喜歡這樣玩嗎" },
-      { type: "link", content: "https://photos.app.goo.gl/tCgDZkeeTrELqanf8", label: "2024年10月1日 根本神還原哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/tCgDZkeeTrELqanf8", label: "2024年10月1日 根本神還原 哈哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/265pDCu8in8Jrm7K6", label: "2024年10月1日 超美 那時候有拍到真幸運" },
       { type: "link", content: "https://photos.app.goo.gl/jwYcG9aEfDFpXQ1X8", label: "2023年10月1日 \
         很久沒吃澄食 回味一下點大人物丼 雖然很愛吃生魚片料理 但越有年紀就越不會一直吃 吃一遍就覺得今年份量夠了 \
@@ -763,19 +762,20 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/8waefmnDG3C7ku3n9", label: "2023年10月1日 \
         久違的回ICU 半夜再次經歷一場急救 沒想到護理師表示上一次急救 就是很久之前我那次的大吐血阿北 命啊 \
         已經遇到第三次來的又急又快的SHOCK 三次當然都沒救活 只有上次大吐血知道原因 這次跟第一次遇到的 都是RIA的病人 \
-        什麼預兆都沒有 開始血壓血氧掉 半小時人就沒了 這次比較異常就突然發燒跟DDIMER 2.4->9 CPR之前抽的 可惜DATA還沒出來就RIP" },
+        什麼預兆都沒有 開始血壓血氧掉 半小時人就沒了 這次比較異常就突然發燒跟DDIMER 2.4>9 CPR之前抽的 可惜DATA還沒出來就RIP" },
       { type: "link", content: "https://photos.app.goo.gl/eqyaLEMTYA2uUrGb7", label: "2022年10月1日 在這裏看電影太熱了吧 士林夜市" },
       { type: "link", content: "https://photos.app.goo.gl/i4NknKX4zyzn7b5B8", label: "2022年10月1日 幾乎都待在醫院完全跟不到兄弟特別北上拍照" },
       { type: "link", content: "https://photos.app.goo.gl/LNvEtUHcHVhQrXc87", label: "2022年10月1日 這張照片的作者跟我一樣名字欸好巧 在拍牆上的照片 結果作者不小心擋到 真抱歉 與他的作品與我幫他合照他的作品的作品" },
       { type: "link", content: "https://photos.app.goo.gl/fHwKZgkNDxPTsmik8", label: "2021年10月1日 跟醫生比這叫做天堂般的工時" },
-      { type: "link", content: "https://photos.app.goo.gl/VxtHYtJGstHB6gcH9", label: "2021年10月1日 我高中最快3*3*3魔術方塊是25秒解完 但早就忘記公式哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/VxtHYtJGstHB6gcH9", label: "2021年10月1日 我高中最快3*3*3魔術方塊是25秒解完 但早就忘記公式 哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/28kP1q1paiuUZkUDA", label: "2021年10月1日 \
         徵老師一位 地點台北 有薪 一堂課 對象是大學生 人數不超過20位 上課內容大概簡單介紹手機攝影 可用哪些軟體 帶著學生簡單修圖 基本介紹修圖功能\
         費用不高 所以不用進階或高超技巧 有興趣可私我" },
       { type: "link", content: "https://photos.app.goo.gl/p3kmpMrSSknrKRs16", label: "2021年10月1日 也換新相機的 越來越會拍狗" },
-      { type: "link", content: "https://photos.app.goo.gl/CgME8dBQMjfHuZzD9", label: "2020年10月1日 我在跟她說我是甲上級烤肉廚師 她只在乎我有沒有偷喝奶茶" },
+      { type: "link", content: "https://photos.app.goo.gl/CgME8dBQMjfHuZzD9", label: "2020年10月1日 我在跟她說我是甲上級烤肉廚師 她只在乎我有沒有偷喝奶茶" }
     ],
     "2": [
+      { type: "link", content: "https://photos.app.goo.gl/YUibMKLkahQdwhAZA", label: "2025年10月2日 不行了笑到破防" },
       { type: "link", content: "https://photos.app.goo.gl/Gihv1uuxaU7PQbLr6", label: "2025年10月2日 這種噁男就是直接忽略他" },
       { type: "link", content: "https://photos.app.goo.gl/oPL6Jk6jEoLdumt68", label: "2025年10月2日 學長現在已經非常可靠了" },
       { type: "link", content: "https://photos.app.goo.gl/3dGfF94hLfjE5ZVv6", label: "2025年10月2日 我要買" },
@@ -800,7 +800,7 @@ const records = {
         另外我們也點了烤咖椰吐司 椰漿甜度剛剛好 但因為最先上 推薦一定要先吃一片 脆脆甜甜十足的讚 \
         飲料我們點美祿 馬來西亞奶茶 都很好吃 其中奶茶真的很讚 嗜甜螞蟻的福利 消費不算太便宜 但論CP值還是很值得 \
         懶人包 滿分的馬來西亞料理 不過也稍微台灣化 偏甜但很入口 以前吃過馬來西亞在地料理真的辣跟鮮 可是兩者我都喜歡 \
-        好好吃喔 不過馬來西亞在地料理不會偏甜 超好吃的馬來料理 建議訂位唷 現場約等10-15分鐘也沒有很久" },
+        好好吃喔 不過馬來西亞在地料理不會偏甜 超好吃的馬來料理 建議訂位唷 現場約等10 15分鐘也沒有很久" },
       { type: "link", content: "https://photos.app.goo.gl/C4s9qhGUbtYwTMAB8", label: "2022年10月2日 這個正版的枕頭才275元 我昨天在士林夜市花了400元 打氣球獲得一個應該是盜版的" },
       { type: "link", content: "https://photos.app.goo.gl/6dwKvZsK2D7Mxdqb7", label: "2022年10月2日 好好喔醫院還有特聘超強攝影師" },
       { type: "link", content: "https://photos.app.goo.gl/7EQQCBCyFUswtJzLA", label: "2022年10月2日 她也快成剪片大師了" },
@@ -809,16 +809,19 @@ const records = {
         哇太感動了 非常感謝你 她用心選圖和排版出來的 很感謝有你的支持 讓我們更有動力繼續以相機探索世界 記錄更多的美景 \
         未來若有機會 不知道多久後 再出桌曆的話 再多多支持囉 或是說若有明信片的話 也會告知大家" },
       { type: "link", content: "https://photos.app.goo.gl/Aot6HDoihpqsnmFWA", label: "2020年10月2日 笑死 原來各國股市會下跌的原因都很不一樣" },
-      { type: "link", content: "https://photos.app.goo.gl/JyoyrB65YvV6BchHA", label: "2017年10月2日 こはんを食べました exchangeprogram 午飯 友達" },
+      { type: "link", content: "https://photos.app.goo.gl/JyoyrB65YvV6BchHA", label: "2017年10月2日 こはんを食べました exchangeprogram 午飯 友達" }
     ],
     "3": [
+      { type: "link", content: "https://photos.app.goo.gl/fi9xGr5VXAHwaEjY8", label: "2025年10月3日 \
+        第五種 病人可接受但家屬抵死不從型 還會威脅有拍照錄音 什麼樣鬼怪的病人或家屬都碰過 放鼻胃管沒幾個錢 有醫師願意幫放真的要珍惜" },
+      { type: "link", content: "https://photos.app.goo.gl/Ywdcv8wqhzZhVprh7", label: "2025年10月3日 挑戰空心投進三分球要請20份麥當勞" },
       { type: "link", content: "https://photos.app.goo.gl/9UFP4RgJZNs9o2jbA", label: "2024年10月3日 以前看到一堆說打仗不怕要打來打的 先看看這個影片問自己 有沒有勇氣看著頭頂飛彈飛過來然後無處可躲" },
       { type: "link", content: "https://photos.app.goo.gl/k5TCyKVN4hon1DTX7", label: "2024年10月3日 對啊" },
       { type: "link", content: "https://photos.app.goo.gl/DaicC3ghWGMYSWQeA", label: "2024年10月3日 不用戰吧 你對得起自己良心就好 呵呵" },
       { type: "link", content: "https://photos.app.goo.gl/sCWKMcek97iqhCg89", label: "2024年10月3日 原來筋跟膜鬆掉骨頭會歪噢呵呵 請問你說的筋跟膜具體是哪 鬆掉了是變成章魚哥嗎" },
       { type: "link", content: "https://photos.app.goo.gl/AVPvKBvQN8YF8rHU6", label: "2023年10月3日 \
         第一天上內急真的震撼教育 早上0730倒晚上2000 沒辦法吃任何東西 中間除了喝水尿尿外就是看病人 交班我幾乎一半都沒辦法完整交班 \
-        台灣人也真幸福 很多4-5分鐘就能看到醫師 在國外分鐘要換成小時 結帳台幣要換成美金吧" },
+        台灣人也真幸福 很多4 5分鐘就能看到醫師 在國外分鐘要換成小時 結帳台幣要換成美金吧" },
       { type: "link", content: "https://photos.app.goo.gl/saLMqnrPFZJJqxft8", label: "2023年10月3日 \
         最久以前我是為了拍婚禮跟奕宏學長學習後製的 然後還去外面當免費助手 學習燈法 \
         雖然已經很久沒碰了 但現在偶爾拍拍婚禮 還是覺得很開心 很喜歡紀錄這種溫馨美好的場景" },
@@ -838,33 +841,112 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/T6GSoiyfuykigrYC8", label: "2019年10月3日 跟他說這裡是國軍醫院不歡迎共匪" },
       { type: "link", content: "https://photos.app.goo.gl/NWnRf9uhExWTD93v6", label: "2017年10月3日 日本醫生西裝褲好看又好穿 通風透氣正式又不用穿皮帶 可以吃飽飽 台灣沒賣好想多買幾件" },
       { type: "link", content: "https://photos.app.goo.gl/JCisXVfAkp4g3ZDv8", label: "2017年10月3日 拍照好累 讀書比較輕鬆" },
-      { type: "link", content: "https://photos.app.goo.gl/U67a7XWFkXLuCVBm6", label: "2017年10月3日 New work would be lanuched" },
+      { type: "link", content: "https://photos.app.goo.gl/U67a7XWFkXLuCVBm6", label: "2017年10月3日 New work would be lanuched" }
     ],
     "4": [
+      { type: "link", content: "https://photos.app.goo.gl/jaMK5Dnf1rspahc16", label: "2024年10月4日 睡覺比較好 睡飽就不餓了" },
+      { type: "link", content: "https://photos.app.goo.gl/USdGzKrfikmkGxYZ7", label: "2024年10月4日 與其長時間待在醫院 不如好好鼓勵醫護早早下班離開醫院 好好運動提升自己的體能跟最大攝氧量 也能減少自己成為心血管患者的機會" },
+      { type: "link", content: "https://photos.app.goo.gl/H24WJzTh1fz5cMTv7", label: "2024年10月4日 謝謝山陀兒侵台 百忙中加入聯合討論會 幫忙share一次報告" },
+      { type: "link", content: "https://photos.app.goo.gl/RLWVHWmibotedPHn8", label: "2024年10月4日 我也要" },
+      { type: "link", content: "https://photos.app.goo.gl/B8hiVxorM5t2DbhF9", label: "2023年10月4日 今天只有業務送一瓶超小的奇怪品牌水" },
+      { type: "link", content: "https://photos.app.goo.gl/ycKWHj2ftzfFkMK29", label: "2022年10月4日 我沒辦法天天出作品 但可以分享一下特別的台灣攝影作品" },
+      { type: "link", content: "https://photos.app.goo.gl/hMmvzXVPZiS5ZH49A", label: "2021年10月4日 提前拿到的五週年禮物之一" },
+      { type: "link", content: "https://photos.app.goo.gl/J4H8RXjQKnHPzAM66", label: "2020年10月4日 2020年沒有任何事情不可能發生" },
+      { type: "link", content: "https://photos.app.goo.gl/ERmoofKJnrwAiiKNA", label: "2020年10月4日 是誰說5161病房很好睡 病人一直收 Complain一直來 換藥也不少" },
+      { type: "link", content: "https://photos.app.goo.gl/nMGa2oydy3AKiis4A", label: "2020年10月4日 \
+        醫生雖然相對薪水高 但只要一除工時下去 比711店員還低薪 何況還不計算為了考上醫科 花費多少寶貴的青春歲月\
+        某醫學中心目前為止 值班一天也只有60元" },
+      { type: "link", content: "https://photos.app.goo.gl/3fKtuXBGMpecko4b7", label: "2017年10月4日 Knowledge缺乏到不行 至少基礎的要補充" },
+      { type: "link", content: "https://photos.app.goo.gl/HvP8udSpeupG3UBH7", label: "2017年10月4日 都快忘了popping怎麼跳 原本就不太會 tokyo popping practice 中秋節快樂" },
       { type: "link", content: "https://photos.app.goo.gl/orXuqGymccZpTAbz9", label: "2016年10月4日 \
         終於體會到 真正絕望到全身無力的感覺 手不斷得發抖 是真的身平以來 當下想就這麼趴倒 被一槍打死都沒這麼難受 \
         無論命運再怎麼蹂躏我 讓我辛苦讓我失敗甚至詆毀我 我都不怕 可是絕望會 很深很深的絕望 \
         要讓一個人死不需要複雜的算計 讓他連一點希望都沒有就好" },
       { type: "link", content: "https://photos.app.goo.gl/6ibQwhcHUvWsz36K8", label: "2016年10月4日 \
-        血液腫瘤科 小成就 一個月 \
-        來這裡一個月 還是想特別記錄一下無聊中的小小喜悅 那就是port-A人工血管通路 的實行了 \
+        血液腫瘤科 小成就 一個月 來這裡一個月 還是想特別記錄一下無聊中的小小喜悅 那就是portA人工血管通路 的實行了 \
         一開始我連備物都不知道 完全不知道以前OSCE是怎麼通過的 然後大概做兩次之後好像不自覺的開始上手 漸漸越來越順 \
-        第三禮拜我嘗試用英文給烏克蘭交換生示範port-A的施行 發現好像緊張中也能安全完成操作 \
-        然後中間也幫同學cover兩床難放的port-A 什麼是難放 簡單說就是人工血管的基座埋在皮下太深 或者病人不太瘦皮脂厚 就很難定位 \
+        第三禮拜我嘗試用英文給烏克蘭交換生示範portA的施行 發現好像緊張中也能安全完成操作 \
+        然後中間也幫同學cover兩床難放的portA 什麼是難放 簡單說就是人工血管的基座埋在皮下太深 或者病人不太瘦皮脂厚 就很難定位 \
         剛好今天交班前又一床難放的 病人表示從前護理師或intern都要放三次以上或用長針 當下聽到心理躍躍欲試想挑戰 冷靜準備之後 沒想到一針短針直接到位 被小小稱讚 \
-        不過最重要的是 施行同時顧病人疼痛感受 盡量快狠準的完成 待了一個月了也許自己沒什麼長進 但是on port-A的感覺 離開後還是會永遠記得 \
-        0敗 繼續維持" }
+        不過最重要的是 施行同時顧病人疼痛感受 盡量快狠準的完成 待了一個月了也許自己沒什麼長進 但是on portA的感覺 離開後還是會永遠記得 0敗 繼續維持" }
     ],
-    "5": [],
-    "6": [],
+    "5": [
+      { type: "link", content: "https://photos.app.goo.gl/uduJ8XzfZWpwWg1s7", label: "2024年10月5日 \
+        沒想到攝影這個興趣可以超過十年了還在持續 但自己已經停止進步了 只能把心力放在工作 不過一路走來認識許多夥伴 還有現在各家廠牌厲害的攝影老師 \
+        一起吃飯聊天 感覺真的很棒 很希望自己能回歸攝影圈 充實攝影的技術 出國拍作品 再次成為講者分享" },
+      { type: "link", content: "https://photos.app.goo.gl/tvhsDcYZhszpirC29", label: "2024年10月5日 \
+        信義區晚上 男上加男相親相愛的學平衡車 信義區怪人 \
+        因為業務壓力太大流浪在台北知名酒吧無法自拔 等等要去發名片了 說好要帶鄉下的孩子來玩玩bar 不過他有點不知所措" },
+      { type: "link", content: "https://photos.app.goo.gl/GLLkyvQRhTN7QF9F9", label: "2024年10月5日 逛展巧遇 很紅的" },
+      { type: "link", content: "https://photos.app.goo.gl/C5xb4W9xEmv93PWm7", label: "2024年10月5日 哇德寶難波萬啊 還不忘記推銷德寶 太敬業了 來跟江老師學習攝影" },
+      { type: "link", content: "https://photos.app.goo.gl/9MTXZkVvvJ8nAbjx5", label: "2024年10月5日 在場內也可以風景攝影火燒雲" },
+      { type: "link", content: "https://photos.app.goo.gl/2M46JLq5qBuubuoK6", label: "2024年10月5日 以前陸戰隊的兄弟 現在退伍混的很好都快當店長了吧" },
+      { type: "link", content: "https://photos.app.goo.gl/Tz3eA2zxLCFe454E6", label: "2024年10月5日 台南德寶 今年一人就是一個攤位 行動店員" },
+      { type: "link", content: "https://photos.app.goo.gl/g3s3hT2EQgAminWW8", label: "2024年10月5日 感謝沒有贊助但讓我們亂入" },
+      { type: "link", content: "https://photos.app.goo.gl/WUgBgKDbdJbdWPR49", label: "2024年10月5日 今天可以好好沐浴在攝影的世界了 百聞不如一見 Sony24240靠真的很香 比nikon24200還香 且不到25000元 是不是該跳家 配合1224GM" },
+      { type: "link", content: "https://photos.app.goo.gl/6UeqVez73iCTeDra9", label: "2024年10月5日 這是誰ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/tvxd5hzg4XeS4VU49", label: "2024年10月5日 我們颱風都沒救援到貓貓" },
+      { type: "link", content: "https://photos.app.goo.gl/Dvm52XmGK2NSy5PKA", label: "2023年10月5日 之後要出門的夥伴們 感謝支援湊滿大三元 支支畫質都可跟定焦比 70200還兼具重訓負重功能 實際用看看再來分享跟24200的差別" },
+      { type: "link", content: "https://photos.app.goo.gl/XgdnakRVq2q8ShEq5", label: "2023年10月5日 感謝最厲害的攝影師吳展旭紀錄每個感動的瞬間" },
+      { type: "link", content: "https://photos.app.goo.gl/3XhSvh7CyypPTFacA", label: "2022年10月5日 上次受傷後休息了一個月 R2後壓力越來越大 晚睡早起 身體很明顯虛弱很多 再不久要三十而立了 沒規則運動跑起來身體好重 腳也沒後勁" },
+      { type: "link", content: "https://photos.app.goo.gl/CoKCQngdouzVsqKp9", label: "2021年10月5日 徵一人一起家庭方案 每個月100元 從110/10/11開始 一次一年" },
+      { type: "link", content: "https://photos.app.goo.gl/hD9ghqfQq14DBeW69", label: "2020年10月5日 \
+        case請益 病人是Hap再入院 女性60歲 意識清楚沒有喘 前幾天拿掉ng之後 吃東西後都會吐 但喝一點水沒問題 \
+        今天照kub 之前都沒照過 長這樣 感覺腸氣很多 前幾天給瀉藥只有大一點點 我該懷疑ileus或ibd嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/mPk3C2LDEcj2E7Mt9", label: "2017年10月5日 \
+        被校長看到照片點名 還是第一次 其實心裡非常慚愧 學攝影以來 其實我很自私 在學業與興趣的取捨 常捨學業而取攝影 \
+        當然成績上完全沒有問題 該拿的執照資格 實習技能都學會 只是被校長注意 忽然領悟一件事情 以前大人說 能被社會所用 你才是個成功的人 \
+        我一直覺得狗屁 社會憑什麼利用我 才能都是我自己努力的為何要分享 現在我大大明白了 當有所成就時 適時反思自己這一路上 \
+        受到多少人幫助與重視 如同我沒有優異成績或論文 卻被校長注意 所以取之社會 回饋社會 帶動後輩更多進步的機會 \
+        這只是校長輕輕帶過的一句話 但更該努力 讓自己有能力改變他人 國醫有這樣一位親民的大家長 真的很幸運 \
+        居然被院長直接點名 不勝惶恐 我希望要求自己 拍照之餘 莫忘初衷 醫學本業未來回饋母校 如同校長重視我們學生一樣 \
+        815大停電全台近600萬戶停電 我們的醫學生吳展旭以心靈的鏡頭捕捉了台北的星空 與百年前梵谷畫作中熾熱的內心世界相互輝映" },
+      { type: "link", content: "https://photos.app.goo.gl/bByfCzsqeiHzb8bL9", label: "2017年10月5日 咬碎自己臼齒一塊 唉偏偏在東京 不能大吃美食沒關係 這有需要立即處理嗎 大家吃東西千萬小心 不要咬太用力" }
+    ],
+    "6": [
+      { type: "link", content: "https://photos.app.goo.gl/vBHzqzwXr5R47ikc6", label: "2024年10月6日 好奇有這個地點嗎 101旁邊沒有這個拍點" },
+      { type: "link", content: "https://photos.app.goo.gl/98FGTQtJTK6jKsde8", label: "2024年10月6日 連開車的都暈" },
+      { type: "link", content: "https://photos.app.goo.gl/Lo4nAreztLCP9R7s5", label: "2024年10月6日 \
+        小丑2雖然不對自己胃口 卻勾起一些往事 國中讀美術班 班上有個畫漫畫很強的同學 因為去過他家 尤其是色情漫畫他畫一大堆 我承認以國中水準他漫畫畫功可以算準職業 \
+        印象很深刻 但可能因為家庭因素 讓他比同年齡的同學更懂社會 可惜他並不是老成或穩重 反而是帶頭霸凌同學的那個 不過好在美術班第一屆被學校重點栽培 \
+        因此他帶頭霸凌也只能在言語上而沒有進展到肢體傷害 當初班上有個女同學 就被他形容的很難聽 細節忘記了 帶頭群起討厭遠離她 雖然大家都不知道為什麼 \
+        但因為怕也被霸凌 所以只能附和他 長久以來也自然的會遠離那位女同學 小丑裡的亞瑟也是 明明已經過的比別人悲慘卻遭受嚴重的霸凌 終致別人與自己的不幸 \
+        或許隔著螢幕感受不到霸凌帶來的威力 但反思到自己曾經親眼看到的經歷 會覺得很可怕 正因為那位男同學總是用霸凌的方式貼別人標籤 \
+        導致多數同學平白無故的去討厭那個女同學 這個影響直到我懂事了 才疑惑我何必跟著起舞 可惜但心智成熟能夠分辨對錯時 很多莫須有的刻板印象跟傷害已經造成 \
+        後來那個帶頭霸凌的男同學不知何故刪除我臉書 以前學生時還很驚訝 怕自己也變成他貼標籤的對象 但現在覺得萬幸 這種人 還是永遠別跟我扯上關係最好 \
+        長大以後 霸凌對我們的影響變小很多 因為我們知道自己想活成怎麼樣 也沒時間理會那些無聊的碎嘴 但在青澀的學生時期 都是脆弱非常害怕被傷害的年紀 \
+        如同小丑 為了保護自己選擇傷害他人來引起注意跟關切 最終才發現被解決的是自己 誰也沒得救 之前偶然在臉書看到被他霸凌的女同學活得很好 \
+        更加肯定那是帶頭霸凌的那位同學有問題 也幸好自己一直都不是帶頭霸凌的人 我們可以選擇善良 就應該選擇善良 一時的惡行只會製造悲劇或更大的惡" },
+      { type: "link", content: "https://photos.app.goo.gl/44wVgfNT6YQj31Zn8", label: "2024年10月6日 社牛要回家了" },
+      { type: "link", content: "https://photos.app.goo.gl/C6NvF5p12QCxRzjy7", label: "2024年10月6日 你要不要腦袋想想你在寫什麼 牙醫師欠你" },
+      { type: "link", content: "https://photos.app.goo.gl/3JgPLFAXbkuZ6rD39", label: "2024年10月6日 \
+        心臟會需要手術就代表血管或瓣膜很糟 即便手術成功心臟很爛是會活 醫師已經給你親人一個活著的機會了 難道又想坑醫師的錢嗎 台灣以後誰走外科救人 誰就是白癡" },
+      { type: "link", content: "https://photos.app.goo.gl/e2oTuqfqAcpifq9LA", label: "2024年10月6日 \
+        不專業影評 先說結論 沒有雙重瘋狂 只有雙重失望 在多數觀眾心裡小丑的角色訂位 應該是幹出瘋狂大事的角色 但小丑2卻是充滿內心戲的一部 \
+        以下不爆雷 整部電影充滿重複的拍攝手法 抽菸畫面裡有畫面跟幻想交織而成 每每期待會有大場面出現但都終歸於被關回牢房 \
+        我大概能理解導演想把小丑本人的矛盾跟情緒給具體化塑造 但我不認為這是觀眾想看的 即便只是從劇情名稱雙重瘋狂來看 \
+        觀眾期待的應該是在高譚市裡小丑及小丑女大鬧特鬧一番 但最後只有愛情歌舞劇 如果喜歡看內心戲的應該滿適合的 \
+        燈光音效跟造景都很棒 但劇情不對大眾胃口 但想看爽片 想當劇情裡那些期待小丑出場的群眾的話 最終只有自己會變買票入場小丑" },
+      { type: "link", content: "https://photos.app.goo.gl/kMLZNHkozvaqyWKX6", label: "2024年10月6日 月薪十萬在雙北市 只有單身才會覺得錢夠用" },
+      { type: "link", content: "https://photos.app.goo.gl/x5mGjxiTnhxqA7Bh9", label: "2024年10月6日 今天看完了這部 沒有雙重瘋狂 只有雙重失望" },
+      { type: "link", content: "https://photos.app.goo.gl/Mui6TpBd38RHw4Xu8", label: "2024年10月6日 \
+        紀錄一下大直美麗華影城的爆米花跟奶茶 真的難吃難喝到爆 下次絕對不能花冤枉錢 奶茶喝起來完全奶精 味道就是廉價飯店附贈的茶包泡出來那種 完全一樣 \
+        爆米花甜的 但很不均勻 有些沒味道有些正常甜 剛吃就吃到顆粒 建議大直影城看電影先去其他地方買好吃的喝的" },
+      { type: "link", content: "https://photos.app.goo.gl/PqLbxZ5aG4oa1NSBA", label: "2024年10月6日 超美 下一代應該更讚" },
+      { type: "link", content: "https://photos.app.goo.gl/QY7ysZucB85D6wNG9", label: "2023年10月6日 看起來真好吃" },
+      { type: "link", content: "https://photos.app.goo.gl/T4vFkGnbnQTUnr7K7", label: "2023年10月6日 急診上班 平均每天HYDRATION三杯拿鐵" },
+      { type: "link", content: "https://photos.app.goo.gl/RASBErKSchAHvFvY6", label: "2021年10月6日 撿回一隻招財貓" },
+      { type: "link", content: "https://photos.app.goo.gl/DbbGz6hvbGc8Xf6EA", label: "2017年10月6日 夜車初體驗 外面很冷 裡面很熱 位置很小但是還算舒適" },
+      { type: "link", content: "https://photos.app.goo.gl/sL5hZjC7MvYL9Xhm8", label: "2017年10月6日 騎了22公里的腳踏車 勘完東京鐵塔的拍點 沒有多休息 馬上出發京都拍攝行程了 京都去去就回 體力還撐得住" },
+      { type: "link", content: "https://photos.app.goo.gl/cxF1ZvQzYLpPXBfe7", label: "2017年10月6日 還行" },
+      { type: "link", content: "https://photos.app.goo.gl/88ngtzjYPG7LUvu66", label: "2017年10月6日 好大一根 塔" }
+    ],
     "7": [
       { type: "link", content: "https://photos.app.goo.gl/UjcfVeLsSqnrc54Y8", label: "2016年10月7日 \
         朋友家人都瞭解妳的個性 但只有我夠白目 總是在知道事情以後對妳耳提面命 要妳保護自己 要妳多想想 要妳會看人 換來的是我不包容妳不懂妳 \
-        我是很多嘴 妳以為我不理解妳 但妳難道就理解外面的人的想法嗎 \
-        有些經驗發生在自己身上就已經太遲了 我已經盡力了 每天為妳提心吊膽而不被領情 真的好累好無力 什麼都做了卻挽回不了 我幫不了妳什麼 這樣下去真的只是彼此的困擾 \
-        也罷 這樣的結果我也有責任 是我不夠好 \
-        最後給了尊重跟包容 也只能祝福妳 謝謝妳教會了我許多事情 收拾完了 一切都重頭開始吧 \
-        無力 放棄 theend" }
+        我是很多嘴 妳以為我不理解妳 但妳難道就理解外面的人的想法嗎 有些經驗發生在自己身上就已經太遲了 我已經盡力了 \
+        每天為妳提心吊膽而不被領情 真的好累好無力 什麼都做了卻挽回不了 我幫不了妳什麼 這樣下去真的只是彼此的困擾 \
+        也罷 這樣的結果我也有責任 是我不夠好 最後給了尊重跟包容 也只能祝福妳 謝謝妳教會了我許多事情 收拾完了 一切都重頭開始吧 無力 放棄 theend" }
     ],
     "8": [],
     "9": [],

@@ -5,13 +5,29 @@
   const menuToggle = document.querySelector(".menu-toggle");
   const dashboard = document.getElementById("dashboard");
 
+  const config = {
+    quiz: {
+        totalQuestions: 5,
+        minLabelLength: 20
+    },
+    cloze: {
+        totalQuestions: 5,
+        minLabelLength: 20,
+        keywordMinLength: 3,
+        keywordMaxLength: 16
+    }
+  };
+
   let currentMonth = null;
   let currentDay = null;
   let currentSearch = null;
   let showingDashboard = false;
+  let isSpeaking = false;
+  let isPaused = false;
 
   // 統一管理主要畫面的顯示狀態
   function showView(viewName) {
+      window.speechSynthesis.cancel();
       contentDiv.style.display = 'none';
       sidebar.style.display = 'none';
       dashboard.classList.remove('active');
@@ -32,12 +48,15 @@
   }
 
   // 帶有淡入淡出效果的內容更新函數
-  function updateContentWithFade(newHTML) {
+  function updateContentWithFade(newHTML, callback) {
       contentDiv.classList.add('fade-out');
       setTimeout(() => {
           contentDiv.innerHTML = newHTML;
           contentDiv.scrollTop = 0;
           contentDiv.classList.remove('fade-out');
+          if (callback) {
+            callback();
+          }
       }, 200);
   }
 
@@ -163,6 +182,7 @@
           showView('dashboard');
           updateDashboard();
           createHeatmap();
+          createWordCloud();
           document.getElementById('dashboardBtn').textContent = '返回記錄';
       } else {
           showView('main');
@@ -253,6 +273,7 @@
 
   // 顯示記錄(日期頁面)
   function showRecords(month, day, skipPush = false) {
+    window.speechSynthesis.cancel();
     showView('main');
     const monthStr = String(month);
     const dayStr = String(day);
@@ -272,7 +293,16 @@
     const monthObj = records[monthStr];
     const list = (monthObj && Array.isArray(monthObj[dayStr])) ? monthObj[dayStr] : null;
 
-    let newContentHTML = `<h2>${monthStr}月${dayStr}日 展旭記錄</h2>`;
+    let pageHeaderHTML = `
+      <div class="page-header">
+        <h2>${monthStr}月${dayStr}日 展旭記錄</h2>
+    `;
+    if (list && list.length > 0) {
+        pageHeaderHTML += `<button id="tts-button" title="朗讀本頁內容">▶️ 朗讀</button>`;
+    }
+    pageHeaderHTML += `</div>`;
+
+    let newContentHTML = pageHeaderHTML;
 
     if (!list || list.length === 0) {
       newContentHTML += "<p>此日期尚無記錄。</p>";
@@ -296,8 +326,13 @@
 
     newContentHTML += wikiLinkContainer.outerHTML;
 
-    updateContentWithFade(newContentHTML);
-    
+    updateContentWithFade(newContentHTML, () => {
+        const ttsButton = document.getElementById('tts-button');
+        if (ttsButton) {
+            ttsButton.addEventListener('click', handleTTSClick);
+        }
+    });
+
     // 更新網址(絕對 URL)
     if (!skipPush) {
       const params = new URLSearchParams();
@@ -322,6 +357,7 @@
 
   // 搜尋功能(結果中的日期可點回到該日) 
   function searchRecords(keyword, skipPush = false) {
+    window.speechSynthesis.cancel();
     showView('main');
     
     const kw = String(keyword || "").trim();
@@ -601,6 +637,12 @@
       const d = String(today.getDate());
       showRecords(m, d, true);
     }
+
+    // 頁面載入在背景預先準備好所有遊戲資料
+    setTimeout(() => {
+        flattenRecords();
+        prepareClozeData();
+    }, 500);
   };
 
   window.onpopstate = (event) => {
@@ -713,7 +755,7 @@
   let quizQuestions = [];
   let currentQuestionIndex = 0;
   let score = 0;
-  const TOTAL_QUESTIONS = 5;
+  const TOTAL_QUESTIONS = config.quiz.totalQuestions;
 
   // 3. 準備資料 將巢狀的 records 物件扁平化 方便隨機抽樣
   function flattenRecords() {
@@ -723,7 +765,7 @@
           for (const d in records[m]) {
               if (records[m][d].length > 0) {
                   records[m][d].forEach(record => {
-                      if (record.label && record.label.length >= 20) {
+                      if (record.label && record.label.length >= config.quiz.minLabelLength) {
                           const yearMatch = record.label.match(yearRegex);
                           if (yearMatch) {
                               allRecordsFlat.push({ 
@@ -863,7 +905,6 @@
 
   // 11. 綁定事件監聽器
   quizBtn.addEventListener('click', () => {
-      flattenRecords();
       startQuiz();
   });
   playAgainBtn.addEventListener('click', startQuiz);
@@ -892,7 +933,7 @@
   let clozeQuestions = [];
   let currentClozeIndex = 0;
   let clozeScore = 0;
-  const CLOZE_TOTAL_QUESTIONS = 5;
+  const CLOZE_TOTAL_QUESTIONS = config.cloze.totalQuestions;
 
   // 3. 準備克漏字資料和詞彙庫
   function prepareClozeData() {
@@ -902,11 +943,11 @@
       const splitRegex = /[\s,.;。，；、()（）]/g; 
       allRecordsFlat.forEach(record => {
           const cleanLabel = record.label.replace(dateRegex, '').trim();
-          if (cleanLabel.length >= 20) {
+          if (cleanLabel.length >= config.cloze.minLabelLength) {
               allClozeRecords.push({ ...record, cleanLabel });
               const words = cleanLabel.split(splitRegex);
               words.forEach(word => {
-                  if (word.length >= 3 && word.length <= 16) {
+                  if (word.length >= config.cloze.keywordMinLength && word.length <= config.cloze.keywordMaxLength) {
                       wordSet.add(word);
                   }
               });
@@ -923,7 +964,7 @@
       
       for (let i = 0; i < allClozeRecords.length && clozeQuestions.length < CLOZE_TOTAL_QUESTIONS; i++) {
           const record = allClozeRecords[i];
-          const words = record.cleanLabel.split(splitRegex).filter(w => w.length >= 3 && w.length <= 16);
+          const words = record.cleanLabel.split(splitRegex).filter(w => w.length >= config.cloze.keywordMinLength && w.length <= config.cloze.keywordMaxLength);
           if (words.length === 0) continue;
 
           shuffleArray(words);
@@ -1025,9 +1066,126 @@
 
   // 9. 綁定事件監聽器
   clozeBtn.addEventListener('click', () => {
-      flattenRecords()
-      prepareClozeData(); 
       startClozeTest();
   });
   clozePlayAgainBtn.addEventListener('click', startClozeTest);
   clozeReturnHomeBtn.addEventListener('click', returnToMain);
+
+
+  // --- 關鍵字詞雲功能 ---
+  let wordCloudCreated = false;
+  function createWordCloud() {
+      if (wordCloudCreated) return;
+      const canvas = document.getElementById('wordcloud-canvas');
+      canvas.innerHTML = '<p class="loading-text">正在分析大量文字，請稍候...</p>';
+      setTimeout(() => {
+          let allCleanText = '';
+          const dateRegex = /^\d{4}年\d{1,2}月\d{1,2}日\s*/;
+          for (const m in records) {
+              for (const d in records[m]) {
+                  records[m][d].forEach(record => {
+                      if (record.label) {
+                        allCleanText += record.label.replace(dateRegex, '').trim() + ' ';
+                      }
+                  });
+              }
+          }
+          const stopWords = new Set([
+              '的', '我', '你', '他', '她', '它', '了', '是', '也', '在', '一個', 
+              '也罷', '一下', '一些', '什麼', '今天', '這個', '自己', '就是', 
+              '我們', '他們', '她們', '一個', '一樣', '不過', '不知', '不是', 
+              '不行', '不要', '而且', '但是', '因為', '所以', '如果', '可是',
+              '還有', '還是', '或是', '其次', '然後', '然而', '無論', '也許', 
+              '以及', '以免', '以致', '以致于', '以至於', '以求', '以便', '以來',
+              '以後', '以上', '以下', '以前', '已', '已經', '用', '有的', '於是',
+              'a', 'an', 'the', 'and', 'but', 'or', 'in', 'on', 'at', 'to', 'for', 'of'
+          ]);
+          const wordCounts = {};
+          const words = allCleanText.split(/[^a-zA-Z0-9\u4e00-\u9fa5]+/);
+          words.forEach(word => {
+              const lowerWord = word.toLowerCase();
+              if (lowerWord && !stopWords.has(lowerWord) && isNaN(lowerWord) && lowerWord.length >= 2) {
+                  wordCounts[lowerWord] = (wordCounts[lowerWord] || 0) + 1;
+              }
+          });
+          const list = Object.entries(wordCounts)
+              .sort((a, b) => b[1] - a[1])
+              .slice(0, 150);
+          if (list.length === 0) {
+              canvas.innerHTML = '<p class="loading-text">沒有足夠的關鍵字來產生詞雲。</p>';
+              return;
+          }
+          WordCloud(canvas, {
+              list: list,
+              gridSize: Math.round(16 * canvas.offsetWidth / 1024),
+              weightFactor: 8,
+              fontFamily: 'Arial, sans-serif',
+              color: 'random-dark',
+              backgroundColor: 'transparent',
+              rotateRatio: 0.5,
+              rotationSteps: 2,
+              minSize: 10
+          });
+          wordCloudCreated = true;
+      }, 100);
+  }
+
+  // 語音朗讀功能的核心處理函數
+  function handleTTSClick() {
+      if (!('speechSynthesis' in window)) {
+          alert('抱歉，您的瀏覽器不支援語音朗讀功能。');
+          return;
+      }
+      const ttsButton = document.getElementById('tts-button');
+      // --- 控制邏輯 ---
+      if (isSpeaking && !isPaused) {
+          window.speechSynthesis.pause();
+          isPaused = true;
+          ttsButton.textContent = '▶️ 繼續';
+      } else if (isSpeaking && isPaused) {
+          window.speechSynthesis.resume();
+          isPaused = false;
+          ttsButton.textContent = '⏸️ 暫停';
+      } else {
+          // 1. 收集要朗讀的文字
+          const dateRegex = /^\d{4}年\d{1,2}月\d{1,2}日\s*/;
+          let textToSpeak = '';
+          const recordsToRead = document.querySelectorAll('#content .record');
+          recordsToRead.forEach(recordEl => {
+              const label = recordEl.textContent.trim();
+              if (label) {
+                  textToSpeak += label.replace(dateRegex, '').trim() + '。 ';
+              }
+          });
+          if (!textToSpeak) {
+              alert('本頁沒有可朗讀的文字內容。');
+              return;
+          }
+          // 2. 建立語音請求物件
+          const utterance = new SpeechSynthesisUtterance(textToSpeak);
+          utterance.lang = 'zh-TW';
+          utterance.rate = 1;
+          utterance.pitch = 1;
+          // 3. 綁定事件
+          utterance.onstart = () => {
+              isSpeaking = true;
+              isPaused = false;
+              ttsButton.textContent = '⏸️ 暫停';
+          };
+          utterance.onpause = () => {
+              isPaused = true;
+              ttsButton.textContent = '▶️ 繼續';
+          };          
+          utterance.onresume = () => {
+              isPaused = false;
+              ttsButton.textContent = '⏸️ 暫停';
+          };
+          utterance.onend = () => {
+              isSpeaking = false;
+              isPaused = false;
+              ttsButton.textContent = '▶️ 朗讀';
+          };          
+          // 4. 開始朗讀
+          window.speechSynthesis.speak(utterance);
+      }
+  }
