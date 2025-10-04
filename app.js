@@ -24,6 +24,8 @@
   let showingDashboard = false;
   let isSpeaking = false;
   let isPaused = false;
+  let uniqueYears = [];
+  let trendChartInstance = null;
 
   // 統一管理主要畫面的顯示狀態
   function showView(viewName) {
@@ -64,33 +66,39 @@
   const imgRe = /\.(jpe?g|png|gif|webp|bmp|svg)$/i;
 
   // 統計計算函數
-  function calculateStats() {
-      let totalRecords = 0;
-      let activeDays = 0;
+  function calculateStats(selectedYear = 'all') {
+      let totalRecords = 0, activeDays = 0, maxCount = 0;
+      let mostActiveMonth = '-';
       let monthCounts = {};
-      for (let m = 1; m <= 12; m++) {
-          monthCounts[m] = 0;
-          const monthStr = String(m);
-          const monthObj = records[monthStr] || {};
-          for (let d = 1; d <= 31; d++) {
-              const dayStr = String(d);
-              const dayRecords = monthObj[dayStr];
-              if (Array.isArray(dayRecords) && dayRecords.length > 0) {
-                  totalRecords += dayRecords.length;
-                  activeDays++;
-                  monthCounts[m] += dayRecords.length;
+      const yearRegex = /^(\d{4})年/;
+
+      for (const m in records) {
+          for (const d in records[m]) {              
+              if (Array.isArray(records[m][d]) && records[m][d].length > 0) {
+                  let dayHasValidRecord = false;                 
+                  records[m][d].forEach(record => {
+                      let yearMatch = record.label.match(yearRegex);
+                      let recordYear = yearMatch ? yearMatch[1] : null;
+                      if (selectedYear === 'all' || selectedYear === recordYear) {
+                          totalRecords++;                          
+                          monthCounts[m] = (monthCounts[m] || 0) + 1;
+                          dayHasValidRecord = true;
+                      }
+                  });
+                  if (dayHasValidRecord) {
+                        activeDays++;
+                  }
               }
           }
       }
-      // 找出最活躍的月份
-      let mostActiveMonth = 1;
-      let maxCount = 0;
-      for (let m = 1; m <= 12; m++) {
+
+      for (const m in monthCounts) {
           if (monthCounts[m] > maxCount) {
               maxCount = monthCounts[m];
               mostActiveMonth = m;
           }
       }
+
       return {
           totalRecords,
           activeDays,
@@ -100,8 +108,8 @@
   }
 
   // 更新統計儀表板
-  function updateDashboard() {
-      const stats = calculateStats();
+  function updateDashboard(selectedYear = 'all') {
+      const stats = calculateStats(selectedYear);
       document.getElementById('totalRecords').textContent = stats.totalRecords;
       document.getElementById('activeDays').textContent = stats.activeDays;
       document.getElementById('mostActiveMonth').textContent = stats.mostActiveMonth;
@@ -109,80 +117,108 @@
   }
 
   // 創建熱力圖
-  function createHeatmap() {
+  function createHeatmap(selectedYear = 'all') {
       const heatmapContainer = document.getElementById('heatmap');
       heatmapContainer.innerHTML = '';
 
+      // 如果選擇所有年份 則顯示最新的那一年
+      const targetYear = (selectedYear === 'all' && uniqueYears.length > 0) 
+          ? Math.max(...uniqueYears.map(Number)) 
+          : Number(selectedYear);
+
+      if (!targetYear) {
+        heatmapContainer.innerHTML = '<p style="text-align: center;">無資料顯示</p>';
+        return;
+      }
+
       // 計算每日記錄數量
       const dailyCounts = {};
-      for (let m = 1; m <= 12; m++) {
-          for (let d = 1; d <= 31; d++) {
-              const monthStr = String(m);
-              const dayStr = String(d);
-              const key = `${m}-${d}`;
-              // 檢查日期是否有效
-              const date = new Date(2024, m - 1, d);
-              if (date.getMonth() !== m - 1) continue;              
-              const dayRecords = records[monthStr] && records[monthStr][dayStr];
-              dailyCounts[key] = Array.isArray(dayRecords) ? dayRecords.length : 0;
+      const yearRegex = /^(\d{4})年/;
+
+      for (const m in records) {
+          for (const d in records[m]) {
+              if (Array.isArray(records[m][d]) && records[m][d].length > 0) {
+                  let dayCount = 0;
+                  records[m][d].forEach(record => {
+                      const yearMatch = record.label.match(yearRegex);
+                      const recordYear = yearMatch ? yearMatch[1] : null;
+                      if (String(targetYear) === recordYear) {
+                          dayCount++;
+                      }
+                  });
+                  if (dayCount > 0) {
+                      const key = `${m}-${d}`;
+                      dailyCounts[key] = dayCount;
+                  }
+              }
           }
       }
 
       // 找出最大值用於計算等級
-      const maxCount = Math.max(...Object.values(dailyCounts));
+      const maxCount = Math.max(1, ...Object.values(dailyCounts));
+      const startDate = new Date(targetYear, 0, 1);
+      const dayOffset = startDate.getDay();
+
+      for (let i = 0; i < dayOffset; i++) {
+          const placeholder = document.createElement('div');
+          placeholder.className = 'heatmap-day';
+          placeholder.style.background = 'none';
+          heatmapContainer.appendChild(placeholder);
+      }
 
       // 創建一年的格子
-      const startDate = new Date(2024, 0, 1); 
-      for (let week = 0; week < 53; week++) {
-          for (let day = 0; day < 7; day++) {
-              const currentDate = new Date(startDate);
-              currentDate.setDate(startDate.getDate() + (week * 7) + day);
-              if (currentDate.getFullYear() !== 2024) continue;
-              const month = currentDate.getMonth() + 1;
-              const dayOfMonth = currentDate.getDate();
-              const key = `${month}-${dayOfMonth}`;
-              const count = dailyCounts[key] || 0;              
-              // 計算顏色等級
-              let level = 0;
-              if (count > 0) {
-                  level = Math.min(4, Math.ceil((count / Math.max(1, maxCount)) * 4));
-              }              
-              const dayElement = document.createElement('div');
-              dayElement.className = `heatmap-day level-${level}`;
-              dayElement.dataset.month = month;
-              dayElement.dataset.day = dayOfMonth;
-              dayElement.dataset.count = count;
-              dayElement.title = `${month}月${dayOfMonth}日: ${count}筆記錄`;              
-              // 添加點擊事件
+      for (let i = 0; i < 366; i++) {
+          const currentDate = new Date(targetYear, 0, i + 1);
+          if (currentDate.getFullYear() !== targetYear) continue;
+
+          const month = currentDate.getMonth() + 1;
+          const dayOfMonth = currentDate.getDate();
+          const key = `${month}-${dayOfMonth}`;
+          const count = dailyCounts[key] || 0;
+
+          let level = 0;
+          if (count > 0) {
+              level = Math.min(4, Math.ceil((count / maxCount) * 4));
+          }
+
+          const dayElement = document.createElement('div');
+          dayElement.className = `heatmap-day level-${level}`;
+          dayElement.title = `${targetYear}/${month}/${dayOfMonth}：${count}筆記錄`;
+          dayElement.dataset.month = month;
+          dayElement.dataset.day = dayOfMonth;
+          dayElement.dataset.count = count;
+
+          // 添加點擊事件
+          if (count > 0) {
+              dayElement.style.cursor = 'pointer';
               dayElement.addEventListener('click', () => {
-                  if (count > 0) {
-                      showRecords(month, dayOfMonth);
-                  }
+                  showRecords(month, dayOfMonth);
               });
-              // 添加懸停效果
               dayElement.addEventListener('mouseenter', (e) => {
-                  if (count > 0) {
-                      e.target.style.transform = 'scale(1.3)';
-                      e.target.style.zIndex = '10';
-                  }
+                  e.target.style.transform = 'scale(1.3)';
+                  e.target.style.zIndex = '10';
+                  e.target.style.boxShadow = '0 0 5px rgba(0,0,0,0.3)';
               });
               dayElement.addEventListener('mouseleave', (e) => {
                   e.target.style.transform = 'scale(1)';
                   e.target.style.zIndex = '1';
-              });              
-              heatmapContainer.appendChild(dayElement);
+                  e.target.style.boxShadow = 'none';
+              });
           }
+
+          heatmapContainer.appendChild(dayElement);
       }
   }
-
+  
   // 顯示/隱藏統計儀表板
   function toggleDashboard() {
-      showingDashboard = !showingDashboard;      
+      showingDashboard = !showingDashboard;
       if (showingDashboard) {
           showView('dashboard');
-          updateDashboard();
-          createHeatmap();
-          createWordCloud();
+          populateYearFilter();
+          if (!trendChartInstance) createTrendChart();          
+          const selectedYear = document.getElementById('year-filter').value;
+          refreshDashboard(selectedYear);          
           document.getElementById('dashboardBtn').textContent = '返回記錄';
       } else {
           showView('main');
@@ -305,7 +341,7 @@
     let newContentHTML = pageHeaderHTML;
 
     if (!list || list.length === 0) {
-      newContentHTML += "<p>此日期尚無記錄。</p>";
+      newContentHTML += "<p>此日期尚無記錄</p>";
     } else {
       list.forEach(item => {
         newContentHTML += createRecordElement(item).outerHTML;
@@ -420,7 +456,7 @@
       }
     }
 
-    if (!found) newContentHTML += "<p>查無符合的記錄。</p>";
+    if (!found) newContentHTML += "<p>查無符合的記錄</p>";
 
     updateContentWithFade(newContentHTML);
 
@@ -440,7 +476,7 @@
     const monthsWithData = Object.keys(records).filter(m => {
       return Object.keys(records[m] || {}).some(d => Array.isArray(records[m][d]) && records[m][d].length > 0);
     });
-    if (monthsWithData.length === 0) return alert("尚無任何記錄可隨機顯示。");
+    if (monthsWithData.length === 0) return alert("尚無任何記錄可隨機顯示");
 
     const randMonth = monthsWithData[Math.floor(Math.random() * monthsWithData.length)];
     const daysWithData = Object.keys(records[randMonth]).filter(d => Array.isArray(records[randMonth][d]) && records[randMonth][d].length > 0);
@@ -543,6 +579,96 @@
     newDay.click();
   }
 
+  // 繪製年度趨勢圖
+  function createTrendChart() {
+      if (trendChartInstance) {
+          trendChartInstance.destroy();
+      }
+      const yearRegex = /^(\d{4})年/;
+      const yearData = {};
+
+      // 準備資料
+      for (const m in records) {
+          for (const d in records[m]) {
+              if (Array.isArray(records[m][d]) && records[m][d].length > 0) {
+                  records[m][d].forEach(record => {
+                      const yearMatch = record.label.match(yearRegex);
+                      const year = yearMatch ? yearMatch[1] : null;
+                      if (year) {
+                          if (!yearData[year]) {
+                              yearData[year] = Array(12).fill(0);
+                          }
+                          yearData[year][parseInt(m) - 1] += 1;
+                      }
+                  });
+              }
+          }
+      }
+      
+      const colors = ['#e6194b', '#3cb44b', '#ffe119', '#4363d8', '#f58231', '#911eb4', '#46f0f0', '#f032e6', '#bcf60c', '#fabebe'];
+      const datasets = Object.keys(yearData).sort().map((year, index) => ({
+          label: `${year}年`,
+          data: yearData[year],
+          backgroundColor: colors[index % colors.length],
+          borderColor: colors[index % colors.length],
+          tension: 0.1,
+          fill: false,
+      }));
+
+      const ctx = document.getElementById('trend-chart').getContext('2d');
+      trendChartInstance = new Chart(ctx, {
+          type: 'line',
+          data: {
+              labels: ['一月', '二月', '三月', '四月', '五月', '六月', '七月', '八月', '九月', '十月', '十一月', '十二月'],
+              datasets: datasets
+          },
+          options: {
+              responsive: true,
+              maintainAspectRatio: false,
+              plugins: {
+                  legend: {
+                      position: 'top',
+                  },
+                  title: {
+                      display: true,
+                      text: '每月記錄數趨勢'
+                  }
+              }
+          }
+      });
+  }
+
+  // 填充年份篩選器的選項
+  function populateYearFilter() {
+      const yearFilter = document.getElementById('year-filter');
+      if (yearFilter.options.length > 1) return;
+
+      const yearRegex = /^(\d{4})年/;
+      const years = new Set();
+      allRecordsFlat.forEach(record => {
+          const yearMatch = record.label.match(yearRegex);
+          if (yearMatch) years.add(yearMatch[1]);
+      });
+      
+      uniqueYears = Array.from(years).sort((a, b) => b - a);
+
+      yearFilter.innerHTML = '<option value="all">所有年份</option>';
+      uniqueYears.forEach(year => {
+          const option = document.createElement('option');
+          option.value = year;
+          option.textContent = `${year}年`;
+          yearFilter.appendChild(option);
+      });
+  }
+
+  // 刷新整個儀表板的總控制函數
+  function refreshDashboard(selectedYear) {
+      wordCloudCreated = false; 
+      updateDashboard(selectedYear);
+      createHeatmap(selectedYear);
+      createWordCloud(selectedYear);
+  }
+
   // 事件監聽器設定
   document.getElementById("searchBtn").addEventListener("click", () => {
     const kw = document.getElementById("searchInput").value.trim();
@@ -562,6 +688,10 @@
   document.getElementById("nextDay").addEventListener("click", function () {switchDay(1);});
   document.getElementById("randomBtn").addEventListener("click", randomRecord);
   document.getElementById("shareBtn").addEventListener("click", shareCurrentView);
+
+  document.getElementById('year-filter').addEventListener('change', (e) => {
+      refreshDashboard(e.target.value);
+  });
 
   if (menuToggle) {
       menuToggle.addEventListener("click", () => sidebar.classList.toggle("open"));
@@ -1074,22 +1204,32 @@
 
   // --- 關鍵字詞雲功能 ---
   let wordCloudCreated = false;
-  function createWordCloud() {
-      if (wordCloudCreated) return;
+  function createWordCloud(selectedYear = 'all') {
       const canvas = document.getElementById('wordcloud-canvas');
-      canvas.innerHTML = '<p class="loading-text">正在分析大量文字，請稍候...</p>';
+      canvas.innerHTML = '<p class="loading-text">正在分析語錄文字，請稍候...</p>';
+
       setTimeout(() => {
           let allCleanText = '';
           const dateRegex = /^\d{4}年\d{1,2}月\d{1,2}日\s*/;
+          const yearRegex = /^(\d{4})年/;
+
+          // 收集所有文字
           for (const m in records) {
               for (const d in records[m]) {
-                  records[m][d].forEach(record => {
-                      if (record.label) {
-                        allCleanText += record.label.replace(dateRegex, '').trim() + ' ';
-                      }
-                  });
+                  if (Array.isArray(records[m][d]) && records[m][d].length > 0) {
+                      records[m][d].forEach(record => {
+                          const yearMatch = record.label.match(yearRegex);
+                          const recordYear = yearMatch ? yearMatch[1] : null;
+                          if (selectedYear === 'all' || selectedYear === recordYear) {                              
+                              if (record.label) {
+                                  allCleanText += record.label.replace(dateRegex, '').trim() + ' ';
+                              }                              
+                          }
+                      });
+                  }
               }
-          }
+          }      
+
           const stopWords = new Set([
               '的', '我', '你', '他', '她', '它', '了', '是', '也', '在', '一個', 
               '也罷', '一下', '一些', '什麼', '今天', '這個', '自己', '就是', 
@@ -1098,33 +1238,44 @@
               '還有', '還是', '或是', '其次', '然後', '然而', '無論', '也許', 
               '以及', '以免', '以致', '以致于', '以至於', '以求', '以便', '以來',
               '以後', '以上', '以下', '以前', '已', '已經', '用', '有的', '於是',
-              'a', 'an', 'the', 'and', 'but', 'or', 'in', 'on', 'at', 'to', 'for', 'of'
+              'a', 'an', 'the', 'and', 'but', 'or', 'in', 'on', 'at', 'to', 
+              'for', 'of', 'with', 'by', 'from', 'up', 'about', 'into', 'through',
+              'during', 'before', 'after', 'above', 'below', 'between', 'under'
           ]);
+
           const wordCounts = {};
           const words = allCleanText.split(/[^a-zA-Z0-9\u4e00-\u9fa5]+/);
+
           words.forEach(word => {
               const lowerWord = word.toLowerCase();
               if (lowerWord && !stopWords.has(lowerWord) && isNaN(lowerWord) && lowerWord.length >= 2) {
                   wordCounts[lowerWord] = (wordCounts[lowerWord] || 0) + 1;
               }
           });
+
           const list = Object.entries(wordCounts)
               .sort((a, b) => b[1] - a[1])
-              .slice(0, 150);
+              .slice(0, 50);
           if (list.length === 0) {
-              canvas.innerHTML = '<p class="loading-text">沒有足夠的關鍵字來產生詞雲。</p>';
+              canvas.innerHTML = '<p class="loading-text">沒有足夠的關鍵字來產生詞雲</p>';
               return;
           }
+
           WordCloud(canvas, {
               list: list,
               gridSize: Math.round(16 * canvas.offsetWidth / 1024),
               weightFactor: 8,
-              fontFamily: 'Arial, sans-serif',
+              fontFamily: 'Arial, "Microsoft JhengHei", sans-serif',
               color: 'random-dark',
               backgroundColor: 'transparent',
               rotateRatio: 0.5,
               rotationSteps: 2,
-              minSize: 10
+              minSize: 10,
+              click: function(item) {
+                  // 點擊詞彙時觸發搜尋
+                  document.getElementById('searchInput').value = item[0];
+                  searchRecords(item[0]);
+              }
           });
           wordCloudCreated = true;
       }, 100);
@@ -1133,7 +1284,7 @@
   // 語音朗讀功能的核心處理函數
   function handleTTSClick() {
       if (!('speechSynthesis' in window)) {
-          alert('抱歉，您的瀏覽器不支援語音朗讀功能。');
+          alert('抱歉，您的瀏覽器不支援語音朗讀功能');
           return;
       }
       const ttsButton = document.getElementById('tts-button');
@@ -1158,7 +1309,7 @@
               }
           });
           if (!textToSpeak) {
-              alert('本頁沒有可朗讀的文字內容。');
+              alert('本頁沒有可朗讀的文字內容');
               return;
           }
           // 2. 建立語音請求物件

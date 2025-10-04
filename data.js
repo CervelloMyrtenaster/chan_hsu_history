@@ -2,7 +2,15 @@
 const records = {
   
   "1": {
-    "1": [],
+    "1": [
+      { type: "link", content: "https://photos.app.goo.gl/RTELjgbrZ2q4LUvBA", label: "2017年1月1日 \
+        這個跨年自己一個人過掉了 2016的上半年過得很美好 兩次一生難忘的海外旅行 與我最好的朋友和曾經至愛的人 \
+        2016的下半年過得行屍走肉 進入臨床實習的轟炸 面對學業與人際溝通的考驗 上天安排了每個月給我跟最辛苦的主治醫生 \
+        並且同時經歷了最痛苦的分離 幸好 我遇上了許多好人 無論相處時間的長短 謝謝認識數年的老朋友 也謝謝認識短短幾個月的新朋友 \
+        若不是你們 我沒有勇氣經歷許多從前不敢想的事情 歲末年終 我終究知道自己是個差勁的人 不夠成熟 不夠勇敢 不夠有智慧 \
+        我會用更謙卑的心態面對接下來的學習 也會用更真誠的心面對相處的每個人 2017年 我會專注的 慢慢的 找回因為犯錯而失去的每個東西 \
+        這個新年快樂不起來 我需要時間消化連日累積的衝擊 但是 加油just do it 共勉 祝大家新年快樂 新的一年從值班開始" }
+    ],
     "2": [],
     "3": [],
     "4": [],
@@ -10,29 +18,58 @@ const records = {
     "6": [],
     "7": [],
     "8": [],
-    "9": [],
+    "9": [
+      { type: "link", content: "https://photos.app.goo.gl/34AV7GNxDgV4ERFTA", label: "2017年1月9日 \
+        透早上刀就是劈頭一個振奮人心 學弟 這台你來開 於是乎 雖然只是簡單的清創 但卻是第一台自己上的刀 \
+        意義上 很棒的成就感 不選外科的心志被動搖了" }
+    ],
     "10": [],
     "11": [],
     "12": [],
     "13": [],
     "14": [],
     "15": [],
-    "16": [],
+    "16": [
+      { type: "link", content: "https://photos.app.goo.gl/qYVvh7xKbFkcQ1A16", label: "2017年1月16日 缺三小家聚 歡迎我們的新秀卷哥唐化 有啊約吃黑輪超讚der 約吃宵高雄好推ㄘ的" }
+    ],
     "17": [],
     "18": [],
-    "19": [],
-    "20": [],
+    "19": [
+      { type: "link", content: "https://photos.app.goo.gl/WA7DPH5sFnbueMZZ7", label: "2017年1月19日 \
+        songshanairport 久違的出圖&GS weekly summary 一般外科的生活接近尾聲了 每天每天都讓自己燃燒殆盡 沒有想過多一點的休息跟偷懶 \
+        踢群能學就學 上刀能刷就刷 病人能接就接 昨天下班之後整個頭暈大概發燒了 繼np姐姐跟鵝學長 拜託不要換我中標 \
+        這個月真的好充實 遇到一起並肩作戰的夥伴同學們 幸好有你們一起分擔 也感謝學長在我犯錯後一直提醒我 教我 \
+        沒什麼好抱怨的 好累好盡興 套句有人說的, 當作是在玩或許會開心一點 不過已經夠開心了哈哈 感謝你的出現跟幫忙 要繼續努力下去 讓自己更值得依靠 liverteam" }
+      ],
+    "20": [
+      { type: "link", content: "https://photos.app.goo.gl/zhq5XMWB2NbB6yqy8", label: "2017年1月20日 \
+        一個下刀做完查房資料 直接飛奔外科部忘年會 合照紀念一下carry的R跟強大的漂亮np姐姐 \
+        上一科在CVS連續兩天上刀換心case 今天上刀換肝case 究竟下一科GU會遇到什麼大刀呢 frustrated burnout 一臉疲憊蠢貌" }
+    ],
     "21": [],
     "22": [],
     "23": [],
-    "24": [],
-    "25": [],
+    "24": [
+      { type: "link", content: "https://photos.app.goo.gl/r66SNfdmHjnorKf98", label: "2017年1月24日 當病人體驗醫病關係 銅鋰鋅+10 thanks for professional help Traditional treatment" },
+      { type: "link", content: "https://photos.app.goo.gl/QvfLkY8beP3CEoas9", label: "2017年1月24日 滿滿的大漢堡 第一次去吃 頗厲害的" }
+    ],
+    "25": [
+      { type: "link", content: "https://photos.app.goo.gl/6bbaXddLUHpvCjPa8", label: "2017年1月25日 \
+        拙劣的日常 連假前夕 悶 popping 這禮拜病人相對較少啦 晚上才有一點點時間 沒學欸當運動 學成這樣就太慘ㄖ" }
+    ],
     "26": [],
     "27": [],
-    "28": [],
+    "28": [
+      { type: "link", content: "https://photos.app.goo.gl/1MXfrcd9szquo89g8", label: "2017年1月28日 \
+        晚點刪文 明天凌晨突然想拍台南北門水晶教堂日出+銀河 天氣無雲的話 有人也想拍嗎 我開車接送 私我即可 \
+        因為我看衛星雲圖沒啥雲 請問你有推薦其他拍攝點嗎 哈哈" }
+    ],
     "29": [],
     "30": [],
-    "31": []
+    "31": [
+      { type: "link", content: "https://photos.app.goo.gl/yQJG51L9B5njiycm8", label: "2017年1月31日 \
+        Happy ending of vacation 北上收假 明天值班 超短假期 一日司機 太保花海" }
+    ]
   },
 
   "2": {
@@ -844,6 +881,10 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/U67a7XWFkXLuCVBm6", label: "2017年10月3日 New work would be lanuched" }
     ],
     "4": [
+      { type: "link", content: "https://photos.app.goo.gl/Aok9iHcEMLYQ4ocM8", label: "2025年10月4日 華山奶茶脆波波三分糖少冰超好喝 比我過去最愛喝的椰果奶茶更好喝" },
+      { type: "link", content: "https://photos.app.goo.gl/nEtzb8wJN6h65G4J8", label: "2025年10月4日 鄭捷接受死刑之後還有再犯嗎 沒有嘛 會覺得死刑沒用的都是白癡" },
+      { type: "link", content: "https://photos.app.goo.gl/LGeDw9M2zL1uBtYZA", label: "2025年10月4日 我覺得要做一個" },
+      { type: "link", content: "https://photos.app.goo.gl/UnGFTssiyzSM4T416", label: "2025年10月4日 什麼87出題 心臟注射基本上就是從動脈注射進去 現在人體基本上不可能做直接從心臟的注射" },
       { type: "link", content: "https://photos.app.goo.gl/jaMK5Dnf1rspahc16", label: "2024年10月4日 睡覺比較好 睡飽就不餓了" },
       { type: "link", content: "https://photos.app.goo.gl/USdGzKrfikmkGxYZ7", label: "2024年10月4日 與其長時間待在醫院 不如好好鼓勵醫護早早下班離開醫院 好好運動提升自己的體能跟最大攝氧量 也能減少自己成為心血管患者的機會" },
       { type: "link", content: "https://photos.app.goo.gl/H24WJzTh1fz5cMTv7", label: "2024年10月4日 謝謝山陀兒侵台 百忙中加入聯合討論會 幫忙share一次報告" },
@@ -1035,7 +1076,11 @@ const records = {
     "9": [],
     "10": [],
     "11": [],
-    "12": [],
+    "12": [
+      { type: "link", content: "https://photos.app.goo.gl/uUbWoPhBr3eYCsN39", label: "2016年12月12日 \
+        就當這個月是重新開始 以前總覺得多做多吃虧 總是抱怨為何生活沒極限的慘 總是有藉口原諒自己有著僥倖心態 \
+        奇怪的是我痲痹了 其實把醫院的事情care好並不難 甘願一點 認命一些 為時不晚 要積極正向 加油 四草大橋" }
+    ],
     "13": [],
     "14": [],
     "15": [],
@@ -1046,7 +1091,9 @@ const records = {
     "20": [],
     "21": [],
     "22": [],
-    "23": [],
+    "23": [
+      { type: "link", content: "https://photos.app.goo.gl/iyivEdMvJiDJx9Jk8", label: "2016年12月23日 久違的婚攝 這次代表南下拍攝 謝謝夥伴於政的火力支援 也謝謝學長姐邀請拍攝 一個熱血沸騰囉 南下出發" }
+    ],
     "24": [],
     "25": [],
     "26": [],

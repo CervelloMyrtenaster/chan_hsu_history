@@ -44,7 +44,12 @@
 
   <div class="dashboard" id="dashboard">
     <h2>展旭記錄統計儀表板</h2>
-    
+
+    <div class="dashboard-controls">
+      <label for="year-filter">篩選年份：</label>
+      <select id="year-filter"></select>
+    </div>
+
     <div class="stats-grid">
       <div class="stat-card">
         <div class="stat-number" id="totalRecords">0</div>
@@ -61,6 +66,13 @@
       <div class="stat-card">
         <div class="stat-number" id="averagePerDay">0</div>
         <div class="stat-label">平均每日記錄</div>
+      </div>
+    </div>
+
+    <div class="trend-chart-container">
+      <h3>年度趨勢圖</h3>
+      <div class="chart-wrapper">
+        <canvas id="trend-chart"></canvas>
       </div>
     </div>
 
@@ -211,6 +223,7 @@
   
   <button id="backToTopBtn" title="回到頂部">↑</button>
 
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script src="data.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/wordcloud@1.2.2/src/wordcloud2.js"></script>
   <script src="app.js"></script>
