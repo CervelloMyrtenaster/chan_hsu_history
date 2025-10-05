@@ -912,6 +912,15 @@ const records = {
         不過最重要的是 施行同時顧病人疼痛感受 盡量快狠準的完成 待了一個月了也許自己沒什麼長進 但是on portA的感覺 離開後還是會永遠記得 0敗 繼續維持" }
     ],
     "5": [
+      { type: "link", content: "https://photos.app.goo.gl/yow198k1WGnADAAZ7", label: "2025年10月5日 有推薦的防水包包 類似北臉的這種嗎 可以放MAC 一機兩鏡 空拍機 出國可以背 顏色又低調的嗎 黑迷彩或純黑" },
+      { type: "link", content: "https://photos.app.goo.gl/oZ8YQLFfLNtoWQRh7", label: "2025年10月5日 1360就讓專業人士判斷你是健康的 好便宜唷" },
+      { type: "link", content: "https://photos.app.goo.gl/62hvTL3dCSrLZjMB9", label: "2025年10月5日 \
+        有胸痛跟抽菸 第一張EKG沒有j point上升 tni上升診斷NSTEMI 但TIMI score依照文章敘述應該還是0 \
+        隔天早上V2-3 biphasic T wellen type A 瞎猜LAD proximal \
+        CXR有點pulmonary congestion的感覺 但還不到pulmonary edema killip 2 做導管時機應該是24小時內" },
+      { type: "link", content: "https://photos.app.goo.gl/Y2zhDAd4rnq2QnFU7", label: "2025年10月5日 有些底層就是不配活著" },
+      { type: "link", content: "https://photos.app.goo.gl/mR8vJ4WBAZBWe6fj6", label: "2025年10月5日 重點就是不能住在一起 這也是我一向的原則 不是每個男生都做得到的 真的是委屈" },
+      { type: "link", content: "https://photos.app.goo.gl/qAvxvrDbKYHLTn4A8", label: "2025年10月5日 走啊練啊" },
       { type: "link", content: "https://photos.app.goo.gl/uduJ8XzfZWpwWg1s7", label: "2024年10月5日 \
         沒想到攝影這個興趣可以超過十年了還在持續 但自己已經停止進步了 只能把心力放在工作 不過一路走來認識許多夥伴 還有現在各家廠牌厲害的攝影老師 \
         一起吃飯聊天 感覺真的很棒 很希望自己能回歸攝影圈 充實攝影的技術 出國拍作品 再次成為講者分享" },

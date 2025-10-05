@@ -383,10 +383,18 @@ h3 {
 }
 
 .record {
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
     margin-bottom: 10px;
     padding-bottom: 10px;
     border-bottom: 1px solid var(--border-color);
-    line-height: 1.6;
+    line-height: 1.6;    
+}
+.record-content {
+  flex-grow: 1;
+  word-break: break-word;
 }
 .record strong {
     color: #444;
@@ -424,6 +432,21 @@ mark {
   color: #111;
   padding: 1px 3px;
   border-radius: 3px;
+}
+
+.search-result-item {
+   margin-bottom: 8px;
+}
+.search-result-date {
+  display: block;
+  font-weight: bold;
+  font-size: 1.1em;
+  color: var(--link-color);
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+.search-result-date:hover {
+  text-decoration: underline;
 }
 
 footer {
@@ -800,4 +823,21 @@ body.dark-mode footer a {
 .chart-wrapper {
   flex-grow: 1;
   position: relative;
+}
+
+/* --- 收藏功能樣式 --- */
+
+.favorite-btn {
+  flex-shrink: 0;
+  background: none;
+  border: none;
+  font-size: 1.3em;
+  cursor: pointer;
+  padding: 0;
+
+  line-height: 1;
+  transition: transform 0.2s ease;
+}
+.favorite-btn:hover {
+  transform: scale(1.2);
 }
