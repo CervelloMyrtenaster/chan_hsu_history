@@ -390,7 +390,7 @@ h3 {
     margin-bottom: 10px;
     padding-bottom: 10px;
     border-bottom: 1px solid var(--border-color);
-    line-height: 1.6;    
+    line-height: 1.6;
 }
 .record-content {
   flex-grow: 1;
@@ -826,7 +826,6 @@ body.dark-mode footer a {
 }
 
 /* --- 收藏功能樣式 --- */
-
 .favorite-btn {
   flex-shrink: 0;
   background: none;
@@ -834,10 +833,88 @@ body.dark-mode footer a {
   font-size: 1.3em;
   cursor: pointer;
   padding: 0;
-
   line-height: 1;
   transition: transform 0.2s ease;
 }
 .favorite-btn:hover {
   transform: scale(1.2);
+}
+.favorites-controls {
+  margin-bottom: 20px;
+  text-align: right;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+}
+.sort-button {
+  padding: 5px 10px;
+  font-size: 0.9em;
+  border: 1px solid var(--border-color);
+  background: var(--content-bg);
+  color: var(--text-color);
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s, color 0.3s;
+}
+.sort-button:hover {
+  background: var(--sidebar-bg);
+}
+.sort-button.active {
+  background: var(--link-color);
+  color: var(--button-text);
+  border-color: var(--link-color);
+}
+.view-original-link {
+  display: block;
+  margin-top: 10px;
+  font-size: 0.9em;
+  text-align: right;
+}
+.view-original-link a {
+  color: var(--link-color);
+  opacity: 0.8;
+  text-decoration: none;
+}
+.view-original-link a:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
+/* --- 橫向時間軸樣式 --- */
+.timeline-view-container {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding-bottom: 10px;
+  -webkit-overflow-scrolling: touch;
+}
+.timeline-track {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 10px;
+  padding-top: 10px;
+}
+.timeline-year-card {
+  flex: 0 0 320px;
+  width: 320px;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  background: var(--sidebar-bg);
+  padding: 15px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+.timeline-year-card h3 {
+  margin-top: 0;
+  padding-bottom: 10px;
+  border-bottom: 2px solid var(--border-color);
+  text-align: center;
+}
+.timeline-year-card .record {
+  border-bottom: 1px dashed var(--border-color);
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+}
+.timeline-year-card .record:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }

@@ -47,6 +47,7 @@ let isSpeaking = false;
 let isPaused = false;
 let uniqueYears = [];
 let trendChartInstance = null;
+let favoritesSortOrder = 'added'; 
 
 // 統一管理主要畫面的顯示狀態
 function showView(viewName) {
@@ -292,9 +293,7 @@ function buildMonthList() {
     }
 }
 
-function createRecordElement(item, recordId) {
-    const mainDiv = document.createElement("div");
-    mainDiv.className = "record";
+function _createRecordContent(item) {
     const contentWrapper = document.createElement("div");
     contentWrapper.className = "record-content";
 
@@ -327,6 +326,30 @@ function createRecordElement(item, recordId) {
             contentWrapper.appendChild(a);
         }
     }
+    return contentWrapper;
+}
+
+function createRecordElement(item, recordId, context = 'default') {
+    const mainDiv = document.createElement("div");
+    mainDiv.className = "record";
+
+    const contentWrapper = _createRecordContent(item)
+
+    if (context === 'favorites' && recordId) {
+        const [month, day] = recordId.split('-').map(Number);
+        const linkContainer = document.createElement('div');
+        linkContainer.className = 'view-original-link';
+        const link = document.createElement('a');
+        link.href = '#';
+        link.textContent = `查看 ${month}月${day}日 全部記錄 →`;
+        link.addEventListener('click', (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            showRecords(month, day);
+        });
+        linkContainer.appendChild(link);
+        contentWrapper.appendChild(linkContainer);
+    }
 
     const favButton = document.createElement('button');
     favButton.className = 'favorite-btn';
@@ -345,8 +368,6 @@ function createRecordElement(item, recordId) {
 function showRecords(month, day, skipPush = false) {
     window.speechSynthesis.cancel();
     showView('main');
-    const monthStr = String(month);
-    const dayStr = String(day);
 
     // 隱藏儀表板
     if (showingDashboard) {
@@ -355,14 +376,30 @@ function showRecords(month, day, skipPush = false) {
         document.getElementById('dashboardBtn').textContent = '統計儀表板';
     }
 
-    // 更新狀態
+    const monthStr = String(month);
+    const dayStr = String(day);
     currentMonth = monthStr;
     currentDay = dayStr;
     currentSearch = null;
 
-    const monthObj = records[monthStr];
-    const list = (monthObj && Array.isArray(monthObj[dayStr])) ? monthObj[dayStr] : null;
+    const list = (records[monthStr] && Array.isArray(records[monthStr][dayStr])) ? records[monthStr][dayStr] : null;
 
+    // --- 1. 按年份對記錄進行分組 ---
+    const recordsByYear = {};
+    const yearRegex = /^(\d{4})年/;
+    if (list) {
+        list.forEach(item => {
+            const yearMatch = item.label.match(yearRegex);
+            const year = yearMatch ? yearMatch[1] : '未知年份';
+            if (!recordsByYear[year]) {
+                recordsByYear[year] = [];
+            }
+            recordsByYear[year].push(item);
+        });
+    }
+    const yearCount = Object.keys(recordsByYear).length;
+
+    // --- 2. 準備頁首 (標題和朗讀按鈕) ---
     let pageHeaderHTML = `
       <div class="page-header">
         <h2>${monthStr}月${dayStr}日 展旭記錄</h2>
@@ -374,15 +411,34 @@ function showRecords(month, day, skipPush = false) {
 
     let newContentHTML = pageHeaderHTML;
 
-    if (!list || list.length === 0) {
-        newContentHTML += "<p>此日期尚無記錄</p>";
-    } else {
-        list.forEach((item, index) => {
-            const recordId = `${monthStr}-${dayStr}-${index}`;
-            newContentHTML += createRecordElement(item, recordId).outerHTML;
+    // --- 3. 智慧渲染：根據年份數量選擇視圖 ---
+    if (yearCount > 1) {
+        // **渲染橫向時間軸視圖**
+        newContentHTML += '<div class="timeline-view-container"><div class="timeline-track">';        
+        const sortedYears = Object.keys(recordsByYear).sort((a, b) => a - b);
+        sortedYears.forEach(year => {
+            newContentHTML += `<div class="timeline-year-card"><h3>${year}年</h3>`;
+            recordsByYear[year].forEach((item, index) => {
+                const originalIndex = list.indexOf(item);
+                const recordId = `${monthStr}-${dayStr}-${originalIndex}`;
+                newContentHTML += createRecordElement(item, recordId).outerHTML;
+            });
+            newContentHTML += `</div>`;
         });
+        newContentHTML += '</div></div>';
+    } else {
+        // **渲染預設的垂直列表視圖**
+        if (!list || list.length === 0) {
+            newContentHTML += "<p>此日期尚無記錄</p>";
+        } else {
+            list.forEach((item, index) => {
+                const recordId = `${monthStr}-${dayStr}-${index}`;
+                newContentHTML += createRecordElement(item, recordId).outerHTML;
+            });
+        }
     }
 
+    // --- 4. 附加維基百科連結 ---
     const wikiLinkContainer = document.createElement('div');
     wikiLinkContainer.style.marginTop = '30px';
     wikiLinkContainer.className = 'external-link-section';
@@ -394,9 +450,9 @@ function showRecords(month, day, skipPush = false) {
           </a>
         </p>
     `;
-
     newContentHTML += wikiLinkContainer.outerHTML;
 
+    // --- 5. 更新畫面並綁定事件 ---
     updateContentWithFade(newContentHTML, () => {
         const ttsButton = document.getElementById('tts-button');
         if (ttsButton) {
@@ -404,15 +460,14 @@ function showRecords(month, day, skipPush = false) {
         }
     });
 
-    // 更新網址(絕對 URL)
+     // --- 6. 更新網址和側邊欄高亮 ---
     if (!skipPush) {
         const params = new URLSearchParams();
         params.set("month", monthStr);
         params.set("day", dayStr);
         const newUrl = `${location.origin}${location.pathname}?${params.toString()}`;
         window.history.pushState({ month: monthStr, day: dayStr }, "", newUrl);
-    }
-    
+    }    
     highlightSidebar(monthStr, dayStr);
     sidebar.classList.remove("open");
 }
@@ -645,7 +700,7 @@ function createTrendChart() {
                         if (!yearData[year]) {
                             yearData[year] = Array(12).fill(0);
                         }
-                        yearData[year][parseInt(m) - 1] += 1;
+                        yearData[year][parseInt(m) - 1]++;
                     }
                 });
             }
@@ -1302,7 +1357,7 @@ function createWordCloud(selectedYear = 'all') {
 
         const list = Object.entries(wordCounts)
             .sort((a, b) => b[1] - a[1])
-            .slice(0, 50);
+            .slice(0, 150);
         if (list.length === 0) {
             canvas.innerHTML = '<p class="loading-text">沒有足夠的關鍵字來產生詞雲</p>';
             return;
@@ -1391,24 +1446,64 @@ function handleTTSClick() {
 // 收藏功能
 function showFavoritesPage() {
     showView('main');
-    const favorites = getFavorites();
-    let newContentHTML = `
+    let favorites = getFavorites();
+
+    // --- 排序邏輯 ---
+    if (favoritesSortOrder === 'date') {
+        favorites.sort((a, b) => {
+            const [aMonth, aDay] = a.split('-').map(Number);
+            const [bMonth, bDay] = b.split('-').map(Number);
+            if (aMonth !== bMonth) {
+                return aMonth - bMonth;
+            }
+            return aDay - bDay;
+        });
+    }
+
+    const container = document.createElement('div');
+
+    const headerHTML = `
       <div class="page-header">
         <h2>我的收藏 ${favorites.length} 筆</h2>
+        <div class="favorites-controls">
+          <button class="sort-button ${favoritesSortOrder === 'date' ? 'active' : ''}" data-sort="date">按日期排序</button>
+          <button class="sort-button ${favoritesSortOrder === 'added' ? 'active' : ''}" data-sort="added">按收藏順序</button>
+        </div>
       </div>
     `;
+    container.innerHTML = headerHTML;
+    
     if (favorites.length === 0) {
-        newContentHTML += '<p>您尚未收藏任何記錄，點擊記錄右側的 ❤️ 來收藏您喜歡的內容吧！</p>';
+        const emptyMsg = document.createElement('p');
+        emptyMsg.textContent = '您尚未收藏任何記錄，點擊記錄右側的 ❤️ 來收藏您喜歡的內容吧！';
+        container.appendChild(emptyMsg);
     } else {
         favorites.forEach(recordId => {
             const [month, day, index] = recordId.split('-');
             if (records[month] && records[month][day] && records[month][day][index]) {
                 const item = records[month][day][index];
-                newContentHTML += createRecordElement(item, recordId).outerHTML;
+                const recordElement = createRecordElement(item, recordId, 'favorites');
+                container.appendChild(recordElement);
             }
         });
     }
-    updateContentWithFade(newContentHTML);
+
+    contentDiv.classList.add('fade-out');
+    setTimeout(() => {
+        contentDiv.innerHTML = '';
+        contentDiv.appendChild(container);
+        contentDiv.scrollTop = 0;
+        contentDiv.classList.remove('fade-out');
+
+        document.querySelectorAll('.sort-button').forEach(button => {
+            button.addEventListener('click', (e) => {
+                const sortBy = e.target.dataset.sort;
+                favoritesSortOrder = sortBy;
+                showFavoritesPage();
+            });
+        });
+    }, 200);
+
     document.querySelectorAll(".day-item.selected").forEach(el => el.classList.remove("selected"));
 }
 
