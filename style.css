@@ -33,7 +33,6 @@ header {
     background: var(--header-bg);    
     transition: background 0.3s;
 }
-
 header h1 {
     margin: 0;
     font-size: 30px;
@@ -41,13 +40,12 @@ header h1 {
     color: var(--text-color);
     transition: color 0.3s;    
 }
-
 .header-right {
     display: flex;
     align-items: center;
     gap: 8px;
+    justify-content: flex-end;
 }
-
 header input[type="text"] {
     width: 60%;
     max-width: 300px;
@@ -58,7 +56,6 @@ header input[type="text"] {
     font-size: 0.9rem;
     transition: background 0.3s;
 }
-
 header button {
     margin: 4px;
     padding: 6px 12px;
@@ -69,7 +66,6 @@ header button {
     color: var(--button-text);
     transition: background 0.3s;
 }
-
 header button:hover {
     background: var(--button-hover);
 }
@@ -82,7 +78,6 @@ header button:hover {
     background: var(--header-buttons);
     flex-wrap: wrap;
 }
-
 .header-buttons button {
     padding: 4px 10px;
     background: var(--button-bg);
@@ -92,7 +87,6 @@ header button:hover {
     cursor: pointer;
     transition: background 0.3s;
 }
-
 .header-buttons button:hover {
     background: var(--button-hover);
 }
@@ -344,11 +338,9 @@ nav li ul {
   overflow: hidden;
   transition: max-height 0.4s ease-in-out;
 }
-
 nav li ul.open {
   max-height: 500px;
 }
-
 nav li ul li {
     padding-left: 20px;
     background: #f1f1f1;
@@ -894,8 +886,8 @@ body.dark-mode footer a {
   padding-top: 10px;
 }
 .timeline-year-card {
-  flex: 0 0 320px;
-  width: 320px;
+  flex: 0 0 300px;
+  width: 300px;
   border: 1px solid var(--border-color);
   border-radius: 8px;
   background: var(--sidebar-bg);

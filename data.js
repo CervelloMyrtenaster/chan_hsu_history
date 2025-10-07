@@ -998,6 +998,8 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/88ngtzjYPG7LUvu66", label: "2017年10月6日 好大一根 塔" }
     ],
     "7": [
+      { type: "link", content: "https://photos.app.goo.gl/FDbDuyKkFMZHQJcR7", label: "2025年10月7日 怕是怕那些人連中文都看不懂" },
+      { type: "link", content: "https://photos.app.goo.gl/HjEgLSv2X8jiGaCh9", label: "2025年10月7日 長得好像釘鞋喔" },
       { type: "link", content: "https://photos.app.goo.gl/sDXeoxmeYoYrX1h16", label: "2024年10月7日 近期在脆上看到最有用的一篇文 學習到了" },
       { type: "link", content: "https://photos.app.goo.gl/s13Uc49FRYDZyTXM8", label: "2024年10月7日 \
         北眼觀景台夕陽 上週末參加南港的攝影器材展 除了聚餐吃飯還有跟許多厲害的老師及攝影師合照以外 最大的收穫是實體看了sony的相機跟鏡頭 \
