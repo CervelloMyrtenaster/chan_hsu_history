@@ -455,6 +455,11 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
+footer a + a::before {
+  content: "|";
+  margin: 0 0.5em;
+  color: var(--border-color);
+}
 
 /* --- 回到頂部按鈕樣式 --- */
 #backToTopBtn {

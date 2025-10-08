@@ -79,28 +79,72 @@ const records = {
     "4": [],
     "5": [],
     "6": [],
-    "7": [],
-    "8": [],
+    "7": [
+      { type: "link", content: "https://photos.app.goo.gl/92b1cTpeCLtbzZ3C9", label: "2017年2月7日 \
+        控制裡男角是精神解離患者 但他說的很對 痛苦才會造就進化 才會使人純淨 曾經的單純天真固然可貴 \
+        長大後不能祈求別人真心回報 所以承受痛苦 然後走過這些必經之路 不再回頭" }
+    ],
+    "8": [
+      { type: "link", content: "https://photos.app.goo.gl/Hw9Txqg8smsSeBga6", label: "2017年2月8日 外科の日常" }
+    ],
     "9": [],
     "10": [],
     "11": [],
-    "12": [],
-    "13": [],
-    "14": [],
+    "12": [
+      { type: "link", content: "https://photos.app.goo.gl/VuwqUMG4uRyF5hAr7", label: "2017年2月12日 來教會活動 first time" }
+    ],
+    "13": [
+      { type: "link", content: "https://photos.app.goo.gl/JTXasYXMtsg7coo99", label: "2017年2月13日 路上興起說要跳 就直接在路上跳 狂狂 謝謝兩位帥哥大大一起pop 熱血沸騰就不會冷" }
+    ],
+    "14": [
+      { type: "link", content: "https://photos.app.goo.gl/p6YpHJuMD1N1hSrM8", label: "2017年2月14日 情人節一個人走走即可 感恩每一位朋友家人學長學姊 遇見你們我很幸運 願自已變得更好遇上對的妳" }
+    ],
     "15": [],
     "16": [],
-    "17": [],
+    "17": [
+      { type: "link", content: "https://photos.app.goo.gl/iGg4BgCPgNyrhoXb9", label: "2017年2月17日 \
+        醫生是不賺錢的行業 醫生是沒有真正下班的行業 醫生更不是人生勝利組 真的真的不是 \
+        醫生只有勤奮 細心 耐心 勤奮的讀書 勤奮的follow data 細心的開order 細心的鑑別診斷 耐心的超時打病歷跟上刀 耐心的看病人安撫病人" },
+      { type: "link", content: "https://photos.app.goo.gl/7KHgKDXQG9vxPDaX9", label: "2017年2月17日 刮風的時候 你總要學會一個人顫抖 而不是奢望誰的手 三樣嘢" }
+    ],
     "18": [],
     "19": [],
-    "20": [],
-    "21": [],
-    "22": [],
-    "23": [],
-    "24": [],
-    "25": [],
-    "26": [],
-    "27": [],
-    "28": [],
+    "20": [
+      { type: "link", content: "https://photos.app.goo.gl/ydUeCxvj2Q5DENdu9", label: "2017年2月20日 GU值班 凌晨三點下班 明天六點上班 當醫生前先當鐵人" },
+      { type: "link", content: "https://photos.app.goo.gl/hz3MLHRo6H4DnyJT6", label: "2017年2月20日 夜跑with old classmate" },
+      { type: "link", content: "https://photos.app.goo.gl/xFv4RcQfY24qLpcJA", label: "2017年2月20日 五km超前 跑起來很舒服" }
+    ],
+    "21": [
+      { type: "link", content: "https://photos.app.goo.gl/iFVjHWgRKWYtwcPF8", label: "2017年2月21日 出刀房後的陽光 是最美的陽光 廢文" }
+    ],
+    "22": [
+      { type: "link", content: "https://photos.app.goo.gl/LLWo5tFpqudbKafVA", label: "2017年2月22日 病人如果不要遲到準時來罐藥 我就不用一飯三吐哺了" }
+    ],
+    "23": [
+      { type: "link", content: "https://photos.app.goo.gl/tQRte6zJpxhHFE4W9", label: "2017年2月23日 保暖" }
+    ],
+    "24": [
+      { type: "link", content: "https://photos.app.goo.gl/MRMrKGZvqJfCeG6p8", label: "2017年2月24日 \
+        迎接連假前的最後值班 跟醫師國考泌尿外科用書作者宏睿學長合照 書編的很用心 也在刀房踢群我很多 \
+        GU是很棒的一科因為有很棒的學長姐 希望自己能更成長 泌尿外科 充滿GG的一個月" }
+    ],
+    "25": [
+      { type: "link", content: "https://photos.app.goo.gl/bHK4W3A3GAmTRDcP8", label: "2017年2月25日 台中" },
+      { type: "link", content: "https://photos.app.goo.gl/cqFDbKkhPCQBLsi5A", label: "2017年2月25日 連假前 三總明天掰" }
+    ],
+    "26": [
+      { type: "link", content: "https://photos.app.goo.gl/hDwDUfMXm4DeBGqv9", label: "2017年2月26日 \
+        很喜歡GU 有每天帶我查房找我討論的主治曹伯伯 也有對吃很研究 對教學很樂於分享的蕎青學長 有45護理師們各種分享iv經驗 \
+        記得最後一次病房 在實習護生跟clerk目視下成功一針on上老人 大概是上天有保佑吧哈哈 GU其他學長姐也都很樂意教學跟灌溉知識 \
+        還有對院長們的風範跟氣度也印象深刻 開始愛上外科應該不意外 自認離開外科還有200%的進步空間 少抱怨多學習 希望漸漸不會再這麼嫩了" }
+    ],
+    "27": [
+      { type: "link", content: "https://photos.app.goo.gl/h5UXxEJ6MBuGAnz8A", label: "2017年2月27日 兔子很調皮" },
+      { type: "link", content: "https://photos.app.goo.gl/AWVimXHoVDUYmxJp7", label: "2017年2月27日 開車比Ya" }
+    ],
+    "28": [
+      { type: "link", content: "https://photos.app.goo.gl/XAu8GXgp6yMy11mHA", label: "2017年2月28日 回學校第一件事情 先follow病人狀況" }
+    ],
     "29": []
   },
 
@@ -108,12 +152,21 @@ const records = {
     "1": [],
     "2": [],
     "3": [],
-    "4": [],
-    "5": [],
+    "4": [
+      { type: "link", content: "https://photos.app.goo.gl/TRNxDXrHcrsjVmNY7", label: "2017年3月4日 為我的室友感到幸福 終於可以不要來煩我ㄌ" },
+      { type: "link", content: "https://photos.app.goo.gl/c8mb4nuQEgzYWVY88", label: "2017年3月4日 猜猜我要多少錢" }
+    ],
+    "5": [
+      { type: "link", content: "https://photos.app.goo.gl/MNnFH1NdT3cp8C5B8", label: "2017年3月5日 人不能不信邪 吃了鳳梨喝了芒果 還沒值班 睡到一半電話就來 明天0630準時先去抄data 原本0730才上班啊 我的老天鵝" },
+      { type: "link", content: "https://photos.app.goo.gl/HsApxmM4dNSQyvvw7", label: "2017年3月5日 明天值班 先喝個芒果汁 吃個鳳梨酥壓壓驚 ㄏㄏ" }
+    ],
     "6": [],
     "7": [],
     "8": [],
-    "9": [],
+    "9": [
+      { type: "link", content: "https://photos.app.goo.gl/ukNHpGmXEUfdgxzD8", label: "2017年3月9日 昨天搖豆漿是因為他結冰惹 超低能ㄉ" },
+      { type: "link", content: "https://photos.app.goo.gl/3HSgReKURXd4du846", label: "2017年3月9日 每次值班至少兩個new pa 一個lumbar puncture 到底誰說小兒爽的 但學到很多特別的case 非常充實" }
+    ],
     "10": [],
     "11": [],
     "12": [],
@@ -1036,6 +1089,9 @@ const records = {
         也罷 這樣的結果我也有責任 是我不夠好 最後給了尊重跟包容 也只能祝福妳 謝謝妳教會了我許多事情 收拾完了 一切都重頭開始吧 無力 放棄 theend" }
     ],
     "8": [
+      { type: "link", content: "https://photos.app.goo.gl/ituapKG9NhMPNxYD9", label: "2025年10月8日 全台灣應該剩沒幾家有全家積木可以預購了 今天才想到 直接成功預購兩組 超便宜 一個手機號碼只能買一組" },
+      { type: "link", content: "https://photos.app.goo.gl/aJGKDfD81us8kXRCA", label: "2025年10月8日 這個好猛" },
+      { type: "link", content: "https://photos.app.goo.gl/ncBiAeG9zjKBvkek6", label: "2025年10月8日 你們超讚" },
       { type: "link", content: "https://photos.app.goo.gl/4yFq5gfECHyocAU46", label: "2023年10月8日 一艘郵輪位於下龍灣 結果幾乎都台灣人" },
       { type: "link", content: "https://photos.app.goo.gl/3BufWyi9THYRxMza9", label: "2023年10月8日 發生了一連串不幸的事 是不是應該拜拜了" },
       { type: "link", content: "https://photos.app.goo.gl/5LKfrLFXxVNHPiYr5", label: "2023年10月8日 \

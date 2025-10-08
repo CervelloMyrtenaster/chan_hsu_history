@@ -38,6 +38,18 @@ function toggleFavorite(recordId) {
     saveFavorites(favorites);
     return favorites.includes(recordId);
 }
+function pruneInvalidFavorites() {
+    let favorites = getFavorites();
+    if (favorites.length === 0) return;
+    const validFavorites = favorites.filter(recordId => {
+        const [month, day, index] = recordId.split('-');
+        return records[month] && records[month][day] && records[month][day][index];
+    });
+    if (validFavorites.length !== favorites.length) {
+        console.log(`清除了 ${favorites.length - validFavorites.length} 筆失效的收藏記錄`);
+        saveFavorites(validFavorites);
+    }
+}
 
 let currentMonth = null;
 let currentDay = null;
@@ -47,7 +59,7 @@ let isSpeaking = false;
 let isPaused = false;
 let uniqueYears = [];
 let trendChartInstance = null;
-let favoritesSortOrder = 'added'; 
+let favoritesSortOrder = 'added';
 
 // 統一管理主要畫面的顯示狀態
 function showView(viewName) {
@@ -102,7 +114,7 @@ function calculateStats(selectedYear = 'all') {
                     let yearMatch = record.label.match(yearRegex);
                     let recordYear = yearMatch ? yearMatch[1] : null;
                     if (selectedYear === 'all' || selectedYear === recordYear) {
-                        totalRecords++;                          
+                        totalRecords++;
                         monthCounts[m] = (monthCounts[m] || 0) + 1;
                         dayHasValidRecord = true;
                     }
@@ -120,7 +132,7 @@ function calculateStats(selectedYear = 'all') {
             mostActiveMonth = m;
         }
     }
-
+    
     return {
         totalRecords,
         activeDays,
@@ -209,7 +221,7 @@ function createHeatmap(selectedYear = 'all') {
         dayElement.dataset.month = month;
         dayElement.dataset.day = dayOfMonth;
         dayElement.dataset.count = count;
-
+        
         // 添加點擊事件
         if (count > 0) {
             dayElement.style.cursor = 'pointer';
@@ -260,8 +272,7 @@ function buildMonthList() {
         // 挑出此月份有實際內容(length>0)的日期
         const daysObj = records[mStr] || {};
         const daysWithData = Object.keys(daysObj).filter(d => Array.isArray(daysObj[d]) && daysObj[d].length > 0)
-                          .sort((a,b)=> Number(a) - Number(b));
-
+                          .sort((a,b)=> Number(a) - Number(b));                          
         if (daysWithData.length === 0) {
             continue;
         }
@@ -399,7 +410,7 @@ function showRecords(month, day, skipPush = false) {
     }
     const yearCount = Object.keys(recordsByYear).length;
 
-    // --- 2. 準備頁首 (標題和朗讀按鈕) ---
+    // --- 2. 準備頁首 標題和朗讀按鈕 ---
     let pageHeaderHTML = `
       <div class="page-header">
         <h2>${monthStr}月${dayStr}日 展旭記錄</h2>
@@ -481,7 +492,7 @@ function highlightText(text, keyword) {
     return text.replace(regex, (match) => `<mark>${match}</mark>`);
 }
 
-// 搜尋功能(結果中的日期可點回到該日) 
+// 搜尋功能 結果中的日期可點回到該日
 function searchRecords(keyword, skipPush = false) {
     window.speechSynthesis.cancel();
     showView('main');
@@ -504,7 +515,7 @@ function searchRecords(keyword, skipPush = false) {
     const title = document.createElement('h2');
     title.textContent = `搜尋結果：「${kw}」`;
     resultContainer.appendChild(title);
-    
+
     let found = false;
     const lower = kw.toLowerCase();
 
@@ -586,10 +597,14 @@ function randomRecord() {
     showRecords(randMonth, randDay);
 }
 
-// 分享功能(會分享絕對網址)
+// 分享功能
 async function shareCurrentView() {
     let shareUrl;
-    if (currentSearch) {
+    const urlParams = new URLSearchParams(window.location.search);
+
+    if (urlParams.get('view') === 'favorites') {
+        shareUrl = `${location.origin}${location.pathname}?view=favorites`;
+    } else if (currentSearch) {
         shareUrl = `${location.origin}${location.pathname}?search=${encodeURIComponent(currentSearch)}`;
     } else if (currentMonth && currentDay) {
         shareUrl = `${location.origin}${location.pathname}?month=${encodeURIComponent(currentMonth)}&day=${encodeURIComponent(currentDay)}`;
@@ -627,7 +642,7 @@ function highlightSidebar(monthStr, dayStr) {
 // 切換日期的通用函數
 function switchDay(direction) {
     const days = Array.from(document.querySelectorAll('.day-item'));
-    if (days.length === 0) return; // 如果完全沒有記錄 直接返回
+    if (days.length === 0) return;
 
     const selected = document.querySelector('.day-item.selected');
     let newIndex = -1;
@@ -706,7 +721,7 @@ function createTrendChart() {
             }
         }
     }
-    
+
     const colors = ['#e6194b', '#3cb44b', '#ffe119', '#4363d8', '#f58231', '#911eb4', '#46f0f0', '#f032e6', '#bcf60c', '#fabebe'];
     const datasets = Object.keys(yearData).sort().map((year, index) => ({
         label: `${year}年`,
@@ -751,7 +766,7 @@ function populateYearFilter() {
         const yearMatch = record.label.match(yearRegex);
         if (yearMatch) years.add(yearMatch[1]);
     });
-    
+
     uniqueYears = Array.from(years).sort((a, b) => b - a);
 
     yearFilter.innerHTML = '<option value="all">所有年份</option>';
@@ -761,6 +776,224 @@ function populateYearFilter() {
         option.textContent = `${year}年`;
         yearFilter.appendChild(option);
     });
+}
+
+// 關鍵字詞雲功能
+
+// 1. 中文分詞輔助函數 使用n-gram方法
+function extractChineseWords(text) {
+    const words = [];
+    const chineseRegex = /[\u4e00-\u9fa5]+/g;
+    const chineseTexts = text.match(chineseRegex) || [];
+    
+    chineseTexts.forEach(chunk => {
+        for (let len = 5; len >= 2; len--) {
+            for (let i = 0; i <= chunk.length - len; i++) {
+                words.push(chunk.substring(i, i + len));
+            }
+        }
+        // 也加入單字 但權重會較低
+        for (let i = 0; i < chunk.length; i++) {
+            words.push(chunk[i]);
+        }
+    });
+
+    return words;
+}
+
+// 2. 英文單詞提取
+function extractEnglishWords(text) {
+    const englishRegex = /[a-zA-Z]+/g;
+    return text.match(englishRegex) || [];
+}
+
+// 3. 擴充的停用詞列表
+function getStopWords() {
+    return new Set([
+        // 原有的停用詞
+        '的', '我', '你', '他', '她', '它', '了', '是', '也', '在', '一個',
+        '也罷', '一下', '一些', '什麼', '今天', '這個', '自己', '就是',
+        '我們', '他們', '她們', '一個', '一樣', '不過', '不知', '不是',
+        '不行', '不要', '而且', '但是', '因為', '所以', '如果', '可是',
+        '還有', '還是', '或是', '其次', '然後', '然而', '無論', '也許',
+        '以及', '以免', '以致', '以致於', '以至於', '以求', '以便', '以來',
+        '以後', '以上', '以下', '以前', '已', '已經', '用', '有的', '於是',
+        '沒有',
+        'a', 'an', 'the', 'and', 'but', 'or', 'in', 'on', 'at', 'to',
+        'for', 'of', 'with', 'by', 'from', 'up', 'about', 'into', 'through',
+        'during', 'before', 'after', 'above', 'below', 'between', 'under',
+        
+        // 新增常見無意義詞
+        '可以', '可能', '應該', '必須', '需要', '想要', '希望', '覺得',
+        '感覺', '認為', '知道', '看到', '聽到', '發現', '變成', '成為',
+        '開始', '繼續', '結束', '進行', '使用', '透過', '經過', '通過',
+        '非常', '很多', '許多', '一些', '一點', '有點', '比較', '更加',
+        '特別', '尤其', '主要', '基本', '完全', '絕對', '真的', '實在',
+        '確實', '的確', '果然', '居然', '竟然', '突然', '忽然', '當然',
+        '自然', '原來', '本來', '依然', '仍然', '依舊', '還是', '或者',
+        '即使', '雖然', '儘管', '即便', '縱使', '哪怕', '除非', '只要',
+        '一直', '一向', '一再', '再次', '重新', '重複', '反覆', '多次',
+        '幾次', '每次', '各種', '各個', '各位', '大家', '彼此', '互相',
+        '分別', '另外', '其他', '其它', '別的', '某些', '某個', '這些',
+        '那些', '這樣', '那樣', '如此', '這麼', '那麼', '怎麼', '怎樣',
+        '為何', '為什麼', '哪裡', '何處', '何時', '什麼時候', '多少',
+        
+        // 標點和單字
+        '、', '，', '。', '！', '？', '：', '；', '「', '」', '『', '』',
+        '（', '）', '《', '》', '【', '】', '〈', '〉', '…', '—', '～',
+        '之', '與', '及', '或', '等', '對', '向', '從', '把', '被', '給',
+        '讓', '叫', '要', '會', '能', '該', '將', '再', '又', '才', '都',
+        '只', '就', '更', '最', '過', '來', '去', '得', '著', '了', '嗎',
+        '呢', '吧', '啊', '呀', '哦', '喔', '唷', '欸', '誒', '耶', '囉',
+        
+        // 時間相關
+        '今天', '明天', '昨天', '前天', '後天', '現在', '剛才', '等等',
+        '上午', '下午', '中午', '晚上', '早上', '半夜', '凌晨',
+        '今年', '明年', '去年', '前年', '年初', '年底', '年中',
+        '這週', '下週', '上週', '本週', '週末', '平日',
+        '這月', '下月', '上月', '月初', '月底', '月中',
+        
+        // 數字和量詞
+        '一', '二', '三', '四', '五', '六', '七', '八', '九', '十',
+        '個', '位', '名', '次', '回', '遍', '趟', '番', '場', '件',
+        '條', '張', '隻', '匹', '頭', '座', '棟', '層', '間', '家',
+        '台', '輛', '艘', '架', '枝', '支', '根', '株', '棵', '顆',
+        '粒', '滴', '片', '塊', '團', '堆', '群', '批', '套', '副',
+        
+        // 程度副詞
+        '太', '挺', '蠻', '頗', '相當', '十分', '格外', '分外', '異常',
+    ]);
+}
+
+// 4. 詞頻過濾器 過濾掉過於常見或罕見的詞
+function filterByFrequency(wordCounts, minFreq, maxFreqRatio) {
+    const totalWords = Object.values(wordCounts).reduce((sum, count) => sum + count, 0);
+    const maxFreq = totalWords * maxFreqRatio;
+
+    const filtered = {};
+    for (const [word, count] of Object.entries(wordCounts)) {
+        if (count >= minFreq && count <= maxFreq) {
+            filtered[word] = count;
+        }
+    }
+    return filtered;
+}
+
+// 5. 詞雲生成函數
+let wordCloudCreated = false;
+function createWordCloud(selectedYear = 'all') {
+    const canvas = document.getElementById('wordcloud-canvas');
+    canvas.innerHTML = '<p class="loading-text">正在分析語錄文字，請稍候...</p>';
+
+    setTimeout(() => {
+        let allCleanText = '';
+        const dateRegex = /^\d{4}年\d{1,2}月\d{1,2}日\s*/;
+        const yearRegex = /^(\d{4})年/;
+
+        // 收集所有文字
+        for (const m in records) {
+            for (const d in records[m]) {
+                if (Array.isArray(records[m][d]) && records[m][d].length > 0) {
+                    records[m][d].forEach(record => {
+                        const yearMatch = record.label.match(yearRegex);
+                        const recordYear = yearMatch ? yearMatch[1] : null;
+                        if (selectedYear === 'all' || selectedYear === recordYear) {
+                            if (record.label) {
+                                allCleanText += record.label.replace(dateRegex, '').trim() + ' ';
+                            }                              
+                        }
+                    });
+                }
+            }
+        }
+
+        if (!allCleanText.trim()) {
+            canvas.innerHTML = '<p class="loading-text">沒有足夠的資料來產生詞雲</p>';
+            return;
+        }
+
+        const stopWords = getStopWords();
+        const wordCounts = {};
+
+        // 提取中文詞組
+        const chineseWords = extractChineseWords(allCleanText);
+        chineseWords.forEach(word => {
+            if (!stopWords.has(word) && word.length >= 2) {
+                wordCounts[word] = (wordCounts[word] || 0) + 1;
+            }
+        });
+
+        // 提取英文單詞
+        const englishWords = extractEnglishWords(allCleanText);
+        englishWords.forEach(word => {
+            const lowerWord = word.toLowerCase();
+            if (!stopWords.has(lowerWord) && lowerWord.length >= 3) {
+                wordCounts[lowerWord] = (wordCounts[lowerWord] || 0) + 1;
+            }
+        });
+
+        // 過濾詞頻
+        const filteredWords = filterByFrequency(wordCounts, 2, 0.2);
+
+        // 檢查當前詞彙是否已經被一個更長的詞彙所包含
+        const wordsSortedByLength = Object.keys(filteredWords).sort((a, b) => b.length - a.length);
+        const finalWordCounts = {};
+        let acceptedText = ' ';
+        for (const word of wordsSortedByLength) {            
+            if (!acceptedText.includes(` ${word} `)) {
+                finalWordCounts[word] = filteredWords[word];
+                  acceptedText += word + ' ';
+            }
+        }
+
+        // 權重加成
+        const enhancedWords = {};
+        const sortedWordsForBoosting = Object.keys(finalWordCounts).sort((a, b) => b.length - a.length);        
+        for (const word of sortedWordsForBoosting) {
+            let boost = 1;
+            if (word.length >= 3 && /^[\u4e00-\u9fa5]+$/.test(word)) {
+                boost = 1.5;
+            }
+            enhancedWords[word] = filteredWords[word] * boost;
+        }
+
+        // 轉換為列表並排序
+        const list = Object.entries(enhancedWords)
+            .sort((a, b) => b[1] - a[1])
+            .slice(0, 150);
+        if (list.length === 0) {
+            canvas.innerHTML = '<p class="loading-text">沒有足夠的關鍵字來產生詞雲</p>';
+            return;
+        }
+
+        WordCloud(canvas, {
+            list: list,
+            gridSize: Math.round(16 * canvas.offsetWidth / 1024),
+             weightFactor: function(size) {
+                return Math.pow(size, 0.7) * 6;
+            },
+            fontFamily: 'Arial, "Microsoft JhengHei", "PingFang TC", sans-serif',
+            color: function() {
+                const colors = [
+                    '#e74c3c', '#3498db', '#2ecc71', '#f39c12', '#9b59b6',
+                    '#1abc9c', '#e67e22', '#34495e', '#16a085', '#c0392b'
+                ];
+                return colors[Math.floor(Math.random() * colors.length)];
+            },
+            backgroundColor: 'transparent',
+            rotateRatio: 0.3,
+            rotationSteps: 2,
+            minSize: 12,
+            drawOutOfBound: false,
+            shrinkToFit: true,
+            click: function(item) {
+                // 點擊詞彙時觸發搜尋
+                document.getElementById('searchInput').value = item[0];
+                searchRecords(item[0]);
+            }
+        });
+        wordCloudCreated = true;
+    }, 100);
 }
 
 // 刷新整個儀表板的總控制函數
@@ -844,6 +1077,8 @@ document.getElementById("homeBtn").addEventListener("click", () => {
 
 // onload 與 popstate (歷史紀錄/分享網址支援)
 window.onload = () => {
+    pruneInvalidFavorites();
+
     const savedTheme = localStorage.getItem('theme');
     if (savedTheme === 'dark') {
         document.body.classList.add('dark-mode');
@@ -856,51 +1091,46 @@ window.onload = () => {
     const monthParam = urlParams.get("month");
     const dayParam = urlParams.get("day");
     const searchParam = urlParams.get("search");
+    const viewParam = urlParams.get("view");
 
-    if (searchParam) {
+    if (viewParam === 'favorites') {
+        showFavoritesPage(true);
+    } else if (searchParam) {
         document.getElementById("searchInput").value = searchParam;
         searchRecords(searchParam, true);
     } else if (monthParam && dayParam && records[monthParam] && records[monthParam][dayParam] && records[monthParam][dayParam].length > 0) {
         showRecords(monthParam, dayParam, true);
     } else {
-        // 顯示今天
         const today = new Date();
         const m = String(today.getMonth() + 1);
         const d = String(today.getDate());
         showRecords(m, d, true);
     }
 
-    // 頁面載入在背景預先準備好所有遊戲資料
-    setTimeout(() => {
-        flattenRecords();
-        prepareClozeData();
-    }, 500);
+    flattenRecords();
+    prepareClozeData();
+    
 };
 
 window.onpopstate = (event) => {
-    if (event.state) {
-        if (event.state.search) {
-            document.getElementById("searchInput").value = event.state.search;
-            searchRecords(event.state.search, true);
-        } else if (event.state.month && event.state.day) {
-            showRecords(event.state.month, event.state.day, true);
-        }
-      } else {
-        // event.state為null 以目前location.search做判斷(支援書籤/外部直接開啟URL)
-        const urlParams = new URLSearchParams(window.location.search);
-        const monthParam = urlParams.get("month");
-        const dayParam = urlParams.get("day");
-        const searchParam = urlParams.get("search");
+    const urlParams = new URLSearchParams(window.location.search);
+    const monthParam = urlParams.get("month");
+    const dayParam = urlParams.get("day");
+    const searchParam = urlParams.get("search");
+    const viewParam = urlParams.get("view");
 
-        if (searchParam) {
-            document.getElementById("searchInput").value = searchParam;
-            searchRecords(searchParam, true);
-        } else if (monthParam && dayParam && records[monthParam] && records[monthParam][dayParam] && records[monthParam][dayParam].length > 0) {
-            showRecords(monthParam, dayParam, true);
-        } else {
-            contentDiv.innerHTML = "<p>請於選單中選擇日期以查看展旭記錄</p>";
-            currentMonth = null; currentDay = null; currentSearch = null;
-        }
+    if (viewParam === 'favorites') {
+        showFavoritesPage(true);
+    } else if (searchParam) {
+        document.getElementById("searchInput").value = searchParam;
+        searchRecords(searchParam, true);
+    } else if (monthParam && dayParam) {
+        showRecords(monthParam, dayParam, true);
+    } else {
+        const today = new Date();
+        const m = String(today.getMonth() + 1);
+        const d = String(today.getDate());
+        showRecords(m, d, true);
     }
 };
 
@@ -1037,16 +1267,16 @@ function generateQuizQuestions() {
 
         const correctAnswer = `${questionRecord.year}年${questionRecord.month}月${questionRecord.day}日`;
         const options = new Set([correctAnswer]);
-        
+
         while (options.size < 4) {
             const randomRecord = allRecordsFlat[Math.floor(Math.random() * allRecordsFlat.length)];
             const distractor = `${randomRecord.year}年${randomRecord.month}月${randomRecord.day}日`;
             options.add(distractor);
         }
-        
+
         const shuffledOptions = Array.from(options);
         shuffleArray(shuffledOptions);
-        
+
         const cleanQuestion = questionRecord.label.replace(dateRegex, '').trim();
         quizQuestions.push({
             question: cleanQuestion,
@@ -1062,14 +1292,14 @@ function displayQuestion() {
         endQuiz();
         return;
     }
-    
+
     const currentQuestion = quizQuestions[currentQuestionIndex];
     quizProgress.textContent = `第 ${currentQuestionIndex + 1} / ${TOTAL_QUESTIONS} 題`;
     quizScoreEl.textContent = `分數: ${score}`;
     quizQuestionEl.textContent = currentQuestion.question;
     quizOptionsEl.innerHTML = '';
     quizFeedbackEl.textContent = '';
-    
+
     currentQuestion.options.forEach(option => {
         const button = document.createElement('button');
         button.className = 'quiz-option-btn';
@@ -1084,10 +1314,10 @@ function selectAnswer(e) {
     const selectedButton = e.target;
     const selectedAnswer = selectedButton.textContent;
     const currentQuestion = quizQuestions[currentQuestionIndex];
-    
+
     const allButtons = quizOptionsEl.querySelectorAll('button');
     allButtons.forEach(btn => btn.disabled = true);
-    
+
     if (selectedAnswer === currentQuestion.answer) {
         score++;
         selectedButton.classList.add('correct');
@@ -1102,8 +1332,7 @@ function selectAnswer(e) {
                 btn.classList.add('correct');
             }
         });
-    }
-    
+    }    
     currentQuestionIndex++;
     setTimeout(displayQuestion, 2000);
 }
@@ -1226,14 +1455,14 @@ function displayClozeQuestion() {
         endClozeTest();
         return;
     }
-    
+
     const currentQuestion = clozeQuestions[currentClozeIndex];
     clozeProgress.textContent = `第 ${currentClozeIndex + 1} / ${CLOZE_TOTAL_QUESTIONS} 題`;
     clozeScoreEl.textContent = `分數: ${clozeScore}`;
     clozeQuestionEl.innerHTML = currentQuestion.question;
     clozeOptionsEl.innerHTML = '';
     clozeFeedbackEl.textContent = '';
-    
+
     currentQuestion.options.forEach(option => {
         const button = document.createElement('button');
         button.className = 'quiz-option-btn';
@@ -1248,10 +1477,10 @@ function selectClozeAnswer(e) {
     const selectedButton = e.target;
     const selectedAnswer = selectedButton.textContent;
     const currentQuestion = clozeQuestions[currentClozeIndex];
-    
+
     const allButtons = clozeOptionsEl.querySelectorAll('button');
     allButtons.forEach(btn => btn.disabled = true);
-    
+
     if (selectedAnswer === currentQuestion.answer) {
         clozeScore++;
         selectedButton.classList.add('correct');
@@ -1302,86 +1531,6 @@ clozeBtn.addEventListener('click', () => {
 });
 clozePlayAgainBtn.addEventListener('click', startClozeTest);
 clozeReturnHomeBtn.addEventListener('click', returnToMain);
-
-
-// 關鍵字詞雲功能
-let wordCloudCreated = false;
-function createWordCloud(selectedYear = 'all') {
-    const canvas = document.getElementById('wordcloud-canvas');
-    canvas.innerHTML = '<p class="loading-text">正在分析語錄文字，請稍候...</p>';
-
-    setTimeout(() => {
-        let allCleanText = '';
-        const dateRegex = /^\d{4}年\d{1,2}月\d{1,2}日\s*/;
-        const yearRegex = /^(\d{4})年/;
-
-        // 收集所有文字
-        for (const m in records) {
-            for (const d in records[m]) {
-                if (Array.isArray(records[m][d]) && records[m][d].length > 0) {
-                    records[m][d].forEach(record => {
-                        const yearMatch = record.label.match(yearRegex);
-                        const recordYear = yearMatch ? yearMatch[1] : null;
-                        if (selectedYear === 'all' || selectedYear === recordYear) {                              
-                            if (record.label) {
-                                allCleanText += record.label.replace(dateRegex, '').trim() + ' ';
-                            }                              
-                        }
-                    });
-                }
-            }
-        }      
-
-        const stopWords = new Set([
-            '的', '我', '你', '他', '她', '它', '了', '是', '也', '在', '一個', 
-            '也罷', '一下', '一些', '什麼', '今天', '這個', '自己', '就是', 
-            '我們', '他們', '她們', '一個', '一樣', '不過', '不知', '不是', 
-            '不行', '不要', '而且', '但是', '因為', '所以', '如果', '可是',
-            '還有', '還是', '或是', '其次', '然後', '然而', '無論', '也許', 
-            '以及', '以免', '以致', '以致于', '以至於', '以求', '以便', '以來',
-            '以後', '以上', '以下', '以前', '已', '已經', '用', '有的', '於是',
-            'a', 'an', 'the', 'and', 'but', 'or', 'in', 'on', 'at', 'to', 
-            'for', 'of', 'with', 'by', 'from', 'up', 'about', 'into', 'through',
-            'during', 'before', 'after', 'above', 'below', 'between', 'under'
-        ]);
-
-        const wordCounts = {};
-        const words = allCleanText.split(/[^a-zA-Z0-9\u4e00-\u9fa5]+/);
-
-        words.forEach(word => {
-            const lowerWord = word.toLowerCase();
-            if (lowerWord && !stopWords.has(lowerWord) && isNaN(lowerWord) && lowerWord.length >= 2) {
-                wordCounts[lowerWord] = (wordCounts[lowerWord] || 0) + 1;
-            }
-        });
-
-        const list = Object.entries(wordCounts)
-            .sort((a, b) => b[1] - a[1])
-            .slice(0, 150);
-        if (list.length === 0) {
-            canvas.innerHTML = '<p class="loading-text">沒有足夠的關鍵字來產生詞雲</p>';
-            return;
-        }
-
-        WordCloud(canvas, {
-            list: list,
-            gridSize: Math.round(16 * canvas.offsetWidth / 1024),
-            weightFactor: 8,
-            fontFamily: 'Arial, "Microsoft JhengHei", sans-serif',
-            color: 'random-dark',
-            backgroundColor: 'transparent',
-            rotateRatio: 0.5,
-            rotationSteps: 2,
-            minSize: 10,
-            click: function(item) {
-                // 點擊詞彙時觸發搜尋
-                document.getElementById('searchInput').value = item[0];
-                searchRecords(item[0]);
-            }
-        });
-        wordCloudCreated = true;
-    }, 100);
-}
 
 // 語音朗讀功能的核心處理函數
 function handleTTSClick() {
@@ -1444,7 +1593,7 @@ function handleTTSClick() {
 }
 
 // 收藏功能
-function showFavoritesPage() {
+function showFavoritesPage(skipPush = false) {
     showView('main');
     let favorites = getFavorites();
 
@@ -1459,20 +1608,34 @@ function showFavoritesPage() {
             return aDay - bDay;
         });
     }
-
+    
     const container = document.createElement('div');
 
-    const headerHTML = `
-      <div class="page-header">
-        <h2>我的收藏 ${favorites.length} 筆</h2>
-        <div class="favorites-controls">
-          <button class="sort-button ${favoritesSortOrder === 'date' ? 'active' : ''}" data-sort="date">按日期排序</button>
-          <button class="sort-button ${favoritesSortOrder === 'added' ? 'active' : ''}" data-sort="added">按收藏順序</button>
-        </div>
-      </div>
-    `;
-    container.innerHTML = headerHTML;
+    const pageHeader = document.createElement('div');
+    pageHeader.className = 'page-header';
+
+    const title = document.createElement('h2');
+    title.textContent = `我的收藏 ${favorites.length} 筆`;
+
+    const controls = document.createElement('div');
+    controls.className = 'favorites-controls';
     
+    const sortDateBtn = document.createElement('button');
+    sortDateBtn.className = `sort-button ${favoritesSortOrder === 'date' ? 'active' : ''}`;
+    sortDateBtn.dataset.sort = 'date';
+    sortDateBtn.textContent = '按日期排序';
+    
+    const sortAddedBtn = document.createElement('button');
+    sortAddedBtn.className = `sort-button ${favoritesSortOrder === 'added' ? 'active' : ''}`;
+    sortAddedBtn.dataset.sort = 'added';
+    sortAddedBtn.textContent = '按收藏順序';
+
+    controls.appendChild(sortDateBtn);
+    controls.appendChild(sortAddedBtn);
+    pageHeader.appendChild(title);
+    pageHeader.appendChild(controls);
+    container.appendChild(pageHeader);
+       
     if (favorites.length === 0) {
         const emptyMsg = document.createElement('p');
         emptyMsg.textContent = '您尚未收藏任何記錄，點擊記錄右側的 ❤️ 來收藏您喜歡的內容吧！';
@@ -1494,17 +1657,27 @@ function showFavoritesPage() {
         contentDiv.appendChild(container);
         contentDiv.scrollTop = 0;
         contentDiv.classList.remove('fade-out');
-
+        
         document.querySelectorAll('.sort-button').forEach(button => {
             button.addEventListener('click', (e) => {
                 const sortBy = e.target.dataset.sort;
-                favoritesSortOrder = sortBy;
-                showFavoritesPage();
+                if (favoritesSortOrder !== sortBy) {
+                    favoritesSortOrder = sortBy;
+                    showFavoritesPage(true);
+                }
             });
         });
     }, 200);
 
+    if (!skipPush) {
+        const params = new URLSearchParams();
+        params.set("view", "favorites");
+        const newUrl = `${location.origin}${location.pathname}?${params.toString()}`;
+        window.history.pushState({ view: 'favorites' }, "", newUrl);
+    }
+
     document.querySelectorAll(".day-item.selected").forEach(el => el.classList.remove("selected"));
+    sidebar.classList.remove("open");
 }
 
 // 綁定主按鈕
