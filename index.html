@@ -115,7 +115,17 @@
     </main>
 
     <div id="quiz-container" class="quiz-container">
-      <div id="quiz-game-view">
+      <div id="quiz-setup-view">
+        <h2>展旭歷史王挑戰</h2>
+        <p>請選擇您想挑戰的題目數量：</p>
+        <div class="game-setup-options" id="quiz-game-options">
+          <button class="game-option-btn" data-count="5">5 題</button>
+          <button class="game-option-btn" data-count="10">10 題</button>
+          <button class="game-option-btn" data-count="15">15 題</button>
+          <button class="game-option-btn" data-count="20">20 題</button>
+        </div>
+      </div>
+      <div id="quiz-game-view" style="display: none;">
         <div class="quiz-header">
           <div id="quiz-progress">第 1 / 5 題</div>
           <div id="quiz-score">分數: 0</div>
@@ -126,16 +136,29 @@
       </div>
       <div id="quiz-results-view" class="quiz-results" style="display: none;">
         <h2>挑戰結束！</h2>
-        <p>您的最終得分是：<span id="final-score">0</span> / 5</p>
+        <p>您的最終得分是：<span id="final-score"></span></p>
         <div class="quiz-results-buttons">
-          <button id="play-again-btn">再玩一次</button>
+          <button id="play-again-btn">重新選擇題數</button>
           <button id="return-home-btn">返回主頁</button>
+        </div>
+        <div id="quiz-review-area" class="game-review-area">
+          <h3>題目回顧</h3>
         </div>
       </div>
     </div>
 
     <div id="cloze-container" class="quiz-container">
-      <div id="cloze-game-view">
+      <div id="cloze-setup-view">
+        <h2>展旭克漏字挑戰</h2>
+        <p>請選擇您想挑戰的題目數量：</p>
+        <div class="game-setup-options">
+          <button class="game-option-btn" data-count="5">5 題</button>
+          <button class="game-option-btn" data-count="10">10 題</button>
+          <button class="game-option-btn" data-count="15">15 題</button>
+          <button class="game-option-btn" data-count="20">20 題</button>
+        </div>
+      </div>      
+      <div id="cloze-game-view" style="display: none;">
         <div class="quiz-header">
           <div id="cloze-progress">第 1 / 5 題</div>
           <div id="cloze-score">分數: 0</div>
@@ -146,10 +169,13 @@
       </div>
       <div id="cloze-results-view" class="quiz-results" style="display: none;">
         <h2>挑戰結束！</h2>
-        <p>您的最終得分是：<span id="cloze-final-score">0</span> / 5</p>
+        <p>您的最終得分是：<span id="cloze-final-score"></span></p>
         <div class="quiz-results-buttons">
-          <button id="cloze-play-again-btn">再玩一次</button>
+          <button id="cloze-play-again-btn">重新選擇題數</button>
           <button id="cloze-return-home-btn">返回主頁</button>
+        </div>
+        <div id="cloze-review-area" class="game-review-area">
+          <h3>題目回顧</h3>
         </div>
       </div>
     </div>

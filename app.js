@@ -1196,11 +1196,12 @@ backToTopBtn.addEventListener('click', () => {
     });
 });
 
-// 展旭小測驗
+// 展旭歷史王
 
 // 1. DOM 元素
 const quizBtn = document.getElementById('quizBtn');
 const quizContainer = document.getElementById('quiz-container');
+const quizSetupView = document.getElementById('quiz-setup-view');
 const quizGameView = document.getElementById('quiz-game-view');
 const quizResultsView = document.getElementById('quiz-results-view');
 const quizProgress = document.getElementById('quiz-progress');
@@ -1211,13 +1212,14 @@ const quizFeedbackEl = document.getElementById('quiz-feedback');
 const finalScoreEl = document.getElementById('final-score');
 const playAgainBtn = document.getElementById('play-again-btn');
 const returnHomeBtn = document.getElementById('return-home-btn');
+const quizReviewArea = document.getElementById('quiz-review-area');
 
 // 2. 測驗狀態變數
 let allRecordsFlat = [];
 let quizQuestions = [];
 let currentQuestionIndex = 0;
 let score = 0;
-const TOTAL_QUESTIONS = config.quiz.totalQuestions;
+let quizTotalQuestions = config.quiz.totalQuestions;
 
 // 3. 準備資料 將巢狀的 records 物件扁平化 方便隨機抽樣
 function flattenRecords() {
@@ -1259,7 +1261,7 @@ function generateQuizQuestions() {
     const usedLabels = new Set();
     const dateRegex = /^\d{4}年\d{1,2}月\d{1,2}日\s*/;
 
-    for (let i = 0; i < allRecordsFlat.length && quizQuestions.length < TOTAL_QUESTIONS; i++) {
+    for (let i = 0; i < allRecordsFlat.length && quizQuestions.length < quizTotalQuestions; i++) {
         const questionRecord = allRecordsFlat[i];
         if (usedLabels.has(questionRecord.label)) continue;
 
@@ -1281,7 +1283,8 @@ function generateQuizQuestions() {
         quizQuestions.push({
             question: cleanQuestion,
             options: shuffledOptions,
-            answer: correctAnswer
+            answer: correctAnswer,
+            userAnswer: null
         });
     }
 }
@@ -1292,9 +1295,8 @@ function displayQuestion() {
         endQuiz();
         return;
     }
-
     const currentQuestion = quizQuestions[currentQuestionIndex];
-    quizProgress.textContent = `第 ${currentQuestionIndex + 1} / ${TOTAL_QUESTIONS} 題`;
+    quizProgress.textContent = `第 ${currentQuestionIndex + 1} / ${quizTotalQuestions} 題`;
     quizScoreEl.textContent = `分數: ${score}`;
     quizQuestionEl.textContent = currentQuestion.question;
     quizOptionsEl.innerHTML = '';
@@ -1314,6 +1316,8 @@ function selectAnswer(e) {
     const selectedButton = e.target;
     const selectedAnswer = selectedButton.textContent;
     const currentQuestion = quizQuestions[currentQuestionIndex];
+
+    currentQuestion.userAnswer = selectedAnswer;
 
     const allButtons = quizOptionsEl.querySelectorAll('button');
     allButtons.forEach(btn => btn.disabled = true);
@@ -1337,39 +1341,72 @@ function selectAnswer(e) {
     setTimeout(displayQuestion, 2000);
 }
 
-// 8. 結束測驗
+// 8. 顯示題目回顧的函數
+function displayQuizReview() {
+    quizReviewArea.innerHTML = '<h3>題目回顧</h3>';
+    quizQuestions.forEach((q, index) => {
+        const item = document.createElement('div');
+        item.className = 'review-item';
+        
+        const questionHTML = `<div class="review-question">${index + 1}. ${q.question}</div>`;
+        
+        let answerHTML = '<div class="review-answer">';
+        const isCorrect = q.userAnswer === q.answer;
+        if (isCorrect) {
+            answerHTML += `<p class="user-answer correct">✓ 您的答案：${q.userAnswer}</p>`;
+        } else {
+            answerHTML += `<p class="user-answer incorrect">✗ 您的答案：${q.userAnswer}</p>`;
+            answerHTML += `<p>正確答案：${q.answer}</p>`;
+        }
+        answerHTML += '</div>';
+
+        item.innerHTML = questionHTML + answerHTML;
+        quizReviewArea.appendChild(item);
+    });
+}
+
+// 9. 結束歷史王
 function endQuiz() {
     quizGameView.style.display = 'none';
     quizResultsView.style.display = 'block';
-    finalScoreEl.textContent = `${score}`;
+    finalScoreEl.textContent = `${score} / ${quizTotalQuestions}`; 
+    displayQuizReview();
 }
 
-// 9. 開始測驗
+// 10. 開始歷史王
 function startQuiz() {
     generateQuizQuestions();
-    if (quizQuestions.length < TOTAL_QUESTIONS) {
-        alert(`符合條件的題目不足 ${TOTAL_QUESTIONS} 題，無法開始遊戲！\n（目前只找到 ${quizQuestions.length} 題）`);
+    if (quizQuestions.length < quizTotalQuestions) {
+        alert(`符合條件的題目不足 ${quizTotalQuestions} 題，無法開始遊戲！\n（目前只找到 ${quizQuestions.length} 題）`);
+        showQuizSetup(); // 返回設定畫面
         return;
     }
-    showView('quiz');      
+    quizSetupView.style.display = 'none';
     quizGameView.style.display = 'block';
-    quizResultsView.style.display = 'none';      
+    quizResultsView.style.display = 'none';
     currentQuestionIndex = 0;
     score = 0;
     displayQuestion();
 }
 
-// 10. 返回主頁
-function returnToMain() {
-    showView('main');
+// 11. 顯示設定畫面的函數
+function showQuizSetup() {
+    showView('quiz');
+    quizSetupView.style.display = 'block';
+    quizGameView.style.display = 'none';
+    quizResultsView.style.display = 'none';
 }
 
-// 11. 綁定事件監聽器
-quizBtn.addEventListener('click', () => {
-    startQuiz();
+// 12. 綁定事件監聽器 (重構)
+quizBtn.addEventListener('click', showQuizSetup);
+document.querySelectorAll('#quiz-game-options .game-option-btn').forEach(button => {
+    button.addEventListener('click', (e) => {
+        quizTotalQuestions = parseInt(e.target.dataset.count, 10);
+        startQuiz();
+    });
 });
-playAgainBtn.addEventListener('click', startQuiz);
-returnHomeBtn.addEventListener('click', returnToMain);
+playAgainBtn.addEventListener('click', showQuizSetup);
+returnHomeBtn.addEventListener('click', () => document.getElementById('homeBtn').click());
 
 
 // 展旭克漏字
@@ -1377,6 +1414,7 @@ returnHomeBtn.addEventListener('click', returnToMain);
 // 1. DOM 元素
 const clozeBtn = document.getElementById('clozeBtn');
 const clozeContainer = document.getElementById('cloze-container');
+const clozeSetupView = document.getElementById('cloze-setup-view');
 const clozeGameView = document.getElementById('cloze-game-view');
 const clozeResultsView = document.getElementById('cloze-results-view');
 const clozeProgress = document.getElementById('cloze-progress');
@@ -1387,6 +1425,7 @@ const clozeFeedbackEl = document.getElementById('cloze-feedback');
 const clozeFinalScoreEl = document.getElementById('cloze-final-score');
 const clozePlayAgainBtn = document.getElementById('cloze-play-again-btn');
 const clozeReturnHomeBtn = document.getElementById('cloze-return-home-btn');
+const clozeReviewArea = document.getElementById('cloze-review-area');
 
 // 2. 遊戲狀態變數
 let allClozeRecords = [];
@@ -1394,7 +1433,7 @@ let masterWordList = [];
 let clozeQuestions = [];
 let currentClozeIndex = 0;
 let clozeScore = 0;
-const CLOZE_TOTAL_QUESTIONS = config.cloze.totalQuestions;
+let clozeTotalQuestions = config.cloze.totalQuestions;
 
 // 3. 準備克漏字資料和詞彙庫
 function prepareClozeData() {
@@ -1423,7 +1462,7 @@ function generateClozeQuestions() {
     clozeQuestions = [];
     const splitRegex = /[\s,.;。，；、()（）]/g
     
-    for (let i = 0; i < allClozeRecords.length && clozeQuestions.length < CLOZE_TOTAL_QUESTIONS; i++) {
+    for (let i = 0; i < allClozeRecords.length && clozeQuestions.length < clozeTotalQuestions; i++) {
         const record = allClozeRecords[i];
         const words = record.cleanLabel.split(splitRegex).filter(w => w.length >= config.cloze.keywordMinLength && w.length <= config.cloze.keywordMaxLength);
         if (words.length === 0) continue;
@@ -1443,8 +1482,10 @@ function generateClozeQuestions() {
         
         clozeQuestions.push({
             question: questionText,
+            fullQuestion: record.cleanLabel,
             options: shuffledOptions,
-            answer: answer
+            answer: answer,
+            userAnswer: null
         });
     }
 }
@@ -1457,7 +1498,7 @@ function displayClozeQuestion() {
     }
 
     const currentQuestion = clozeQuestions[currentClozeIndex];
-    clozeProgress.textContent = `第 ${currentClozeIndex + 1} / ${CLOZE_TOTAL_QUESTIONS} 題`;
+    clozeProgress.textContent = `第 ${currentClozeIndex + 1} / ${clozeTotalQuestions} 題`;
     clozeScoreEl.textContent = `分數: ${clozeScore}`;
     clozeQuestionEl.innerHTML = currentQuestion.question;
     clozeOptionsEl.innerHTML = '';
@@ -1478,6 +1519,8 @@ function selectClozeAnswer(e) {
     const selectedAnswer = selectedButton.textContent;
     const currentQuestion = clozeQuestions[currentClozeIndex];
 
+    currentQuestion.userAnswer = selectedAnswer;
+
     const allButtons = clozeOptionsEl.querySelectorAll('button');
     allButtons.forEach(btn => btn.disabled = true);
 
@@ -1495,42 +1538,80 @@ function selectClozeAnswer(e) {
                 btn.classList.add('correct');
             }
         });
-    }
-    
+    }    
     clozeQuestionEl.innerHTML = currentQuestion.question.replace('<span class="cloze-blank">[ ___ ]</span>', `<span class="cloze-blank">${currentQuestion.answer}</span>`);
-    
     currentClozeIndex++;
-    setTimeout(displayClozeQuestion, 2500);
+    setTimeout(displayClozeQuestion, 2000);
 }
 
-// 7. 結束克漏字測驗
+// 7. 顯示題目回顧的函數
+function displayClozeReview() {
+    clozeReviewArea.innerHTML = '<h3>題目回顧</h3>';
+    clozeQuestions.forEach((q, index) => {
+        const item = document.createElement('div');
+        item.className = 'review-item';
+        
+        const questionHTML = `<div class="review-question">${index + 1}. ${q.fullQuestion.replace(q.answer, `<span class="cloze-blank">[${q.answer}]</span>`)}</div>`;
+        
+        let answerHTML = '<div class="review-answer">';
+        const isCorrect = q.userAnswer === q.answer;
+        if (isCorrect) {
+            answerHTML += `<p class="user-answer correct">✓ 您的答案：${q.userAnswer}</p>`;
+        } else {
+            answerHTML += `<p class="user-answer incorrect">✗ 您的答案：${q.userAnswer}</p>`;
+            answerHTML += `<p>正確答案：${q.answer}</p>`;
+        }
+        answerHTML += '</div>';
+
+        item.innerHTML = questionHTML + answerHTML;
+        clozeReviewArea.appendChild(item);
+    });
+}
+
+// 8. 結束克漏字
 function endClozeTest() {
     clozeGameView.style.display = 'none';
     clozeResultsView.style.display = 'block';
-    clozeFinalScoreEl.textContent = `${clozeScore}`;
+    clozeFinalScoreEl.textContent = `${clozeScore} / ${clozeTotalQuestions}`;
+    displayClozeReview();
 }
 
-// 8. 開始克漏字測驗
+// 9. 開始克漏字
 function startClozeTest() {
     generateClozeQuestions();
-    if (clozeQuestions.length < CLOZE_TOTAL_QUESTIONS) {
-        alert(`符合條件的題目不足 ${CLOZE_TOTAL_QUESTIONS} 題，無法開始遊戲！\n（目前只找到 ${clozeQuestions.length} 題）`);
+    if (clozeQuestions.length < clozeTotalQuestions) {
+        alert(`符合條件的題目不足 ${clozeTotalQuestions} 題，無法開始遊戲！\n（目前只找到 ${clozeQuestions.length} 題）`);
         return;
     }
-    showView('cloze');      
+    clozeSetupView.style.display = 'none';
     clozeGameView.style.display = 'block';
-    clozeResultsView.style.display = 'none';      
+    clozeResultsView.style.display = 'none';
     currentClozeIndex = 0;
     clozeScore = 0;
     displayClozeQuestion();
 }
 
-// 9. 綁定事件監聽器
+// 10. 顯示設定畫面的函數
+function showClozeSetup() {
+    showView('cloze');
+    clozeSetupView.style.display = 'block';
+    clozeGameView.style.display = 'none';
+    clozeResultsView.style.display = 'none';
+}
+
+// 11. 綁定事件監聽器 
 clozeBtn.addEventListener('click', () => {
-    startClozeTest();
+    prepareClozeData();
+    showClozeSetup();
 });
-clozePlayAgainBtn.addEventListener('click', startClozeTest);
-clozeReturnHomeBtn.addEventListener('click', returnToMain);
+document.querySelectorAll('.game-option-btn').forEach(button => {
+    button.addEventListener('click', (e) => {
+        clozeTotalQuestions = parseInt(e.target.dataset.count, 10);
+        startClozeTest();
+    });
+});
+clozePlayAgainBtn.addEventListener('click', showClozeSetup);
+clozeReturnHomeBtn.addEventListener('click', () => document.getElementById('homeBtn').click());
 
 // 語音朗讀功能的核心處理函數
 function handleTTSClick() {

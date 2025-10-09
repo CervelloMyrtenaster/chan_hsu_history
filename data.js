@@ -1089,6 +1089,7 @@ const records = {
         也罷 這樣的結果我也有責任 是我不夠好 最後給了尊重跟包容 也只能祝福妳 謝謝妳教會了我許多事情 收拾完了 一切都重頭開始吧 無力 放棄 theend" }
     ],
     "8": [
+      { type: "link", content: "https://photos.app.goo.gl/wDozrcb44moz7rpt6", label: "2025年10月8日 方便歸方便 但畫質跟景深實在有點無法接受 nikon 24200略勝一點" },
       { type: "link", content: "https://photos.app.goo.gl/ituapKG9NhMPNxYD9", label: "2025年10月8日 全台灣應該剩沒幾家有全家積木可以預購了 今天才想到 直接成功預購兩組 超便宜 一個手機號碼只能買一組" },
       { type: "link", content: "https://photos.app.goo.gl/aJGKDfD81us8kXRCA", label: "2025年10月8日 這個好猛" },
       { type: "link", content: "https://photos.app.goo.gl/ncBiAeG9zjKBvkek6", label: "2025年10月8日 你們超讚" },
@@ -1106,6 +1107,9 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/Vt5TWzkp8PL19Vu5A", label: "2020年10月8日 你太不食人間煙火 你嘴巴說的容易 建議來醫院當看護試試" }
     ],
     "9": [
+      { type: "link", content: "https://photos.app.goo.gl/SYDSKeeZc2Rob1hb9", label: "2025年10月9日 他有依照正確的方式量血壓欸 真可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/ChMUvMp3HiE12LUr5", label: "2025年10月9日 看個人 我就會有這個需求" },
+      { type: "link", content: "https://photos.app.goo.gl/UQXNvDj72XQKi2vo9", label: "2025年10月9日 這就是黃仁勳要的世界嗎" },
       { type: "link", content: "https://photos.app.goo.gl/neA9HZZjYxkSJmQo8", label: "2024年10月9日 當兵會要你命是不是 戰爭來你躲好就好 反正要死死別人" },
       { type: "link", content: "https://photos.app.goo.gl/U9CK4df1HqM1ykAj7", label: "2024年10月9日 大推 實力派畫家兼牙醫" },
       { type: "link", content: "https://photos.app.goo.gl/1xbfTQLLTH6KnUGa6", label: "2024年10月9日 他想告訴大家自己爸媽很有錢" },

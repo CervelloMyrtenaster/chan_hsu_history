@@ -655,14 +655,15 @@ body.dark-mode footer a {
   min-height: 30px;
 }
 .quiz-results {
-  padding-top: 50px;
+  padding-top: 10px;
 }
 .quiz-results h2 {
   font-size: 2em;
+  margin: 10px 0;
 }
 .quiz-results p {
   font-size: 1.5em;
-  margin: 20px 0;
+  margin: 10px 0;
 }
 .quiz-results-buttons button {
   padding: 10px 20px;
@@ -678,11 +679,65 @@ body.dark-mode footer a {
     background: var(--button-hover);
 }
 
-#cloze-question .cloze-blank {
+.cloze-blank {
   font-weight: bold;
   color: var(--link-color);
   border-bottom: 2px solid var(--link-color);
   padding: 0 5px;
+}
+.game-setup-options {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 15px;
+}
+.game-option-btn {
+  padding: 12px 25px;
+  font-size: 1.1em;
+  border: 1px solid var(--border-color);
+  background: var(--button-bg);
+  color: var(--button-text);
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.game-option-btn:hover {
+  background: var(--button-hover);
+  transform: translateY(-2px);
+}
+.game-review-area {
+  margin-top: 25px;
+  text-align: left;
+  border-top: 1px solid var(--border-color);
+  padding-top: 15px;
+}
+.review-item {
+  margin-bottom: 25px;
+  padding-bottom: 15px;
+  border-bottom: 1px dashed var(--border-color);
+}
+.review-item:last-child {
+  border-bottom: none;
+}
+.review-question {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.review-answer {
+  padding-left: 15px;
+}
+.review-answer p {
+  margin: 5px 0;
+  font-size: 1em;
+}
+.review-answer .user-answer.correct {
+  font-weight: bold;
+  color: #28a745;
+}
+.review-answer .user-answer.incorrect {
+  font-weight: bold;
+  color: #dc3545;
 }
 
 /* 手機版 */
