@@ -168,127 +168,305 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/3HSgReKURXd4du846", label: "2017年3月9日 每次值班至少兩個new pa 一個lumbar puncture 到底誰說小兒爽的 但學到很多特別的case 非常充實" }
     ],
     "10": [],
-    "11": [],
+    "11": [
+      { type: "link", content: "https://photos.app.goo.gl/aerwBhi8TfGNK1nr9", label: "2017年3月11日 打飛機 好涼" }
+    ],
     "12": [],
     "13": [],
     "14": [],
-    "15": [],
-    "16": [],
+    "15": [
+      { type: "link", content: "https://photos.app.goo.gl/fdwM5y9UqBuokFGS9", label: "2017年3月15日 但 Tra歸tra 苓膏歸苓膏 還是要樂觀" },
+      { type: "link", content: "https://photos.app.goo.gl/6HZhvnGiiSQhfR6aA", label: "2017年3月15日 I1的日子即將結束 自知實力還是很爛 最值得紀念的 就是每次都跟到科部老大之一 QAQ" }
+    ],
+    "16": [
+      { type: "link", content: "https://photos.app.goo.gl/8Q2DseQRG91d5miK8", label: "2017年3月16日 聽寶寶心跳" },
+    ],
     "17": [],
-    "18": [],
+    "18": [
+      { type: "link", content: "https://photos.app.goo.gl/qETQjsESGicA77S19", label: "2017年3月18日 \
+        推廣 DNR 全拒 最狂icu護理師 為了減輕癌未重症病患的痛苦 靠攝影作品宣傳理念 免除插管急救 超讚的 也是目前在醫療圈看到最強的攝影師了 雖然她說只玩兩年也太謙虛 "},
+      { type: "link", content: "https://photos.app.goo.gl/Pe3GJcKqTcWC7sNEA", label: "2017年3月18日 潤喉" }
+    ],
     "19": [],
-    "20": [],
+    "20": [
+      { type: "link", content: "https://photos.app.goo.gl/97KYvdHW4QQ1HNdFA", label: "2017年3月20日 早上醫院上班 晚上繼續修圖趕工 錢不好賺" },
+      { type: "link", content: "https://photos.app.goo.gl/8n36nd2notxEo9Qd6", label: "2017年3月20日 累癱了 該來的還是要" },
+      { type: "link", content: "https://photos.app.goo.gl/GyYgNBb6buFGWyvH6", label: "2017年3月20日 明明run婦產 卻跟GS詹主任的刀一整天 08001800就開一台刀 本日婦產I1都站神" }
+    ],
     "21": [],
     "22": [],
     "23": [],
-    "24": [],
+    "24": [
+      { type: "link", content: "https://photos.app.goo.gl/4JDbkBNivwdJB8Le6", label: "2017年3月24日 Keep on C/S" },
+      { type: "link", content: "https://photos.app.goo.gl/w14ijGFXYLuAXYEo8", label: "2017年3月24日 我家門前有小山 Robot開不完" }
+    ],
     "25": [],
-    "26": [],
-    "27": [],
+    "26": [
+      { type: "link", content: "https://photos.app.goo.gl/73BJVZWCf7vNbXFD6", label: "2017年3月26日 \
+        總是這樣 忙碌的生活讓短暫假日只能東奔西跑 其實多想靜下來 讓一杯咖啡就度過一下午 讓一場午覺就度過一天 但腦海中有太多的目標與想法 \
+        等著完成 所以疲憊還是要卯起來 不得閒 gogogo 假掰" }
+    ],
+    "27": [
+      { type: "link", content: "https://photos.app.goo.gl/48V9iPeaQrJxS2DB8", label: "2017年3月27日 曾經的溫柔 偶然看見 依然信感痛苦 這就是品嚐人生的感覺吧" }
+    ],
     "28": [],
     "29": [],
-    "30": [],
+    "30": [
+      { type: "link", content: "https://photos.app.goo.gl/ttFD6FomFxrDp79L7", label: "2017年3月30日 好像很久沒走出校園Orz 其實滿安靜滿美der" }
+    ],
     "31": []
   },
 
   "4": {
-    "1": [],
-    "2": [],
+    "1": [
+      { type: "link", content: "https://photos.app.goo.gl/WriikydjtfFJhEFRA", label: "2017年4月1日 街頭自拍" }
+    ],
+    "2": [
+      { type: "link", content: "https://photos.app.goo.gl/wLNe3yur31eYaRjx6", label: "2017年4月2日 屎定啊 突然決定要在0度的夫妻樹拍銀河 沒有最狂只有更狂 跟學長一起suffer" },
+      { type: "link", content: "https://photos.app.goo.gl/m6QVLzHykjPfR4JN6", label: "2017年4月2日 獲得一個月的喘息機會這樣 最動人的小角落" }
+    ],
     "3": [],
     "4": [],
     "5": [],
     "6": [],
     "7": [],
-    "8": [],
+    "8": [
+      { type: "link", content: "https://photos.app.goo.gl/5bLEDeAyF8EV9Kza6", label: "2017年4月8日 一直放重音根本誘惑我跳舞 難受 也太適合popping" },
+      { type: "link", content: "https://photos.app.goo.gl/TKd2Eb7oEks3vccn7", label: "2017年4月8日 Wolking Right now" }
+    ],
     "9": [],
     "10": [],
     "11": [],
     "12": [],
-    "13": [],
-    "14": [],
-    "15": [],
-    "16": [],
+    "13": [
+      { type: "link", content: "https://photos.app.goo.gl/oJTHXNy9nWtCX1eL9", label: "2017年4月13日 把興趣當工作不容易 熱情很快會被消耗 下班後的練功房 證件照 收工" }
+    ],
+    "14": [
+      { type: "link", content: "https://photos.app.goo.gl/YN7KCP9K7DsL5Gnt5", label: "2017年4月14日 第一次一個月回台南兩次 期待拍攝計畫" }
+    ],
+    "15": [
+      { type: "link", content: "https://photos.app.goo.gl/tQadKam34nUXvw5P8", label: "2017年4月15日 下午繼續拍攝 很累但盡興" }
+    ],
+    "16": [
+      { type: "link", content: "https://photos.app.goo.gl/hJx49aH5QE983MnCA", label: "2017年4月16日 吹泡泡自拍" }
+    ],
     "17": [
+      { type: "link", content: "https://photos.app.goo.gl/gbnhvhtg9vdduPoU6", label: "2017年4月14日 國防醫學院 醫學系 攝影街舞是我的生活 做人不要靠嘴 也不要用嘴巴認識人 做自己 活得開心 不斷求進步" },
+      { type: "link", content: "https://photos.app.goo.gl/1oBmNre3VExprDdd7", label: "2017年4月14日 愛玩就爛一輩子活該 當然不可接受" },
       { type: "link", content: "https://photos.app.goo.gl/piYWLwCRQufqTx3B8", label: "2016年4月17日 搭公車前往謝師宴" }
     ],
     "18": [],
     "19": [],
     "20": [],
     "21": [],
-    "22": [],
+    "22": [
+      { type: "link", content: "https://photos.app.goo.gl/5YhpfwxCmt1UpJRM8", label: "2017年4月22日 \
+        螢的生命短暫 人也是一樣 經歷多了會發現自己不過是眾多平凡人的一個 不必覺得自己有什麼特別 縱使努力發光也改變不了什麼 \
+        唯有當下的感受與愛 隨著時間烙成忘不了的回憶 螢火蟲 東勢 生日" }
+    ],
     "23": [],
     "24": [],
     "25": [],
     "26": [],
-    "27": [],
-    "28": [],
+    "27": [
+      { type: "link", content: "https://photos.app.goo.gl/Unh7iMNnx6DAU5Gz8", label: "2017年4月27日 國防醫學院體育館 popping practice" }
+    ],
+    "28": [
+      { type: "link", content: "https://photos.app.goo.gl/gPtSfoWko1S5LAe37", label: "2017年4月28日 我GS少兩個人力" }
+    ],
     "29": [],
     "30": []
   },
 
   "5": {
-    "1": [],
+    "1": [
+      { type: "link", content: "https://photos.app.goo.gl/DxR2eYibrgzQg9UaA", label: "2017年5月1日 \
+        從不是很了解病理部 到半個月實習結束真的好喜歡這裡 睡飽來看片然後teaching 接著開槓切肉到下班 非常惬意但又學得非常多 \
+        附上很罩的學長 和靄的主任還有台南最強美食專家的美麗學姊 最後感謝總醫師宜恕學長 出給我很多作業 倒數登出I1" }
+    ],
     "2": [],
-    "3": [],
-    "4": [],
+    "3": [
+      { type: "link", content: "https://photos.app.goo.gl/c6mSM9WsELZZQg6PA", label: "2017年5月3日 \
+        這半月在SICU實習還順便讓柯P上課值了值了 柯p也是SICU出身哈哈 這件白袍我就不洗囉回去掛起來 台北市長 柯文哲 親筆簽名 柯P" }
+    ],
+    "4": [
+      { type: "link", content: "https://photos.app.goo.gl/yndW6SMC1ePJZ23N6", label: "2017年5月4日 我很努力在吃宵夜了 拜託長胖怎麼這麼難" },
+      { type: "link", content: "https://photos.app.goo.gl/jGFcVGjP9hY2jhmv8", label: "2017年5月4日 當醫生是一件很孤單很孤單的事情" }
+    ],
     "5": [],
-    "6": [],
-    "7": [],
-    "8": [],
+    "6": [
+      { type: "link", content: "https://photos.app.goo.gl/Y3KexFzoaac41vTR6", label: "2017年5月6日 道貌岸然的保險業務 沒屁本事 搞得自己很端莊很有錢 用交友軟體騙女人 不是第一次看到 呵呵" },
+      { type: "link", content: "https://photos.app.goo.gl/XC5wzck1pQhcs5h59", label: "2017年5月6日 為了免費便當直接從睡中彈起來 Get 上課點名都沒這麼快" }
+    ],
+    "7": [
+      { type: "link", content: "https://photos.app.goo.gl/ZJFgsgTJhAVxin31A", label: "2017年5月7日 101借我帶回家一天" }
+    ],
+    "8": [
+      { type: "link", content: "https://photos.app.goo.gl/qfYPJmuyc4Jkv2126", label: "2017年5月8日 真心喜歡SICU 遇到很不同的case 有一點時間能讀書" },
+      { type: "link", content: "https://photos.app.goo.gl/f8VvRm7hMh5scuFm9", label: "2017年5月8日 Don't let your past determine your future From Ant-Man 信義區 antman antmanmovie" },
+      { type: "link", content: "https://photos.app.goo.gl/pgoFqcqJBoNUbyrk6", label: "2017年5月8日 紀念第一次挖大便成就 滿滿的 滿適合催吐的 都這麼犧牲拜託病人狀況改善阿" }
+    ],
     "9": [],
-    "10": [],
-    "11": [],
+    "10": [
+      { type: "link", content: "https://photos.app.goo.gl/q89QMh1Kc7eHqZed7", label: "2017年5月10日 Keep Keep Keep" },
+      { type: "link", content: "https://photos.app.goo.gl/RZJytzwS2a1pUK19A", label: "2017年5月10日 \
+        富士山 淺間神社 如果日本交換實習順利 希望能在拍攝更多美景回來 因天候取消馬祖藍眼淚 打算從北玩到南順便拍銀河 有人哪天有空的嗎" }
+    ],
+    "11": [
+      { type: "link", content: "https://photos.app.goo.gl/Uq3gXRcvVawv2c278", label: "2017年5月11日 \
+        I1結束的前夕 第一次寫到器捐的病歷 面對只剩呼吸心跳沒有體溫肉的肉體 不知道如何寫主訴 一具機器支持維生的屍體 一個有故事卻不能延續的人 不知從何而來的惋惜感要好好消化" },
+      { type: "link", content: "https://photos.app.goo.gl/pv6fX8ciW6tMXeAG6", label: "2017年5月11日 怎麼能不愛SICU" }
+    ],
     "12": [],
     "13": [],
     "14": [],
-    "15": [],
+    "15": [
+      { type: "link", content: "https://photos.app.goo.gl/UBMWL4EV5goRrocx8", label: "2017年5月15日 被時間匆忙催促著變成I2了 康樂山 夜景" }
+    ],
     "16": [],
-    "17": [],
-    "18": [],
-    "19": [],
+    "17": [
+      { type: "link", content: "https://photos.app.goo.gl/RuH644eWcebbtftR7", label: "2017年5月17日 計畫好的藍眼淚泡湯 難得長假只能讀書 悶悶der" }
+    ],
+    "18": [
+      { type: "link", content: "https://photos.app.goo.gl/YoJ7McEabrrwvkrZ9", label: "2017年5月18日 台南下著雨讓人心安" }
+    ],
+    "19": [
+      { type: "link", content: "https://photos.app.goo.gl/dACNmXGhzqnGegnC9", label: "2017年5月19日 今天平日早晨欸 夠扯 都不用上班" },
+      { type: "link", content: "https://photos.app.goo.gl/uKwJxkX4bLfPbVtu6", label: "2017年5月19日 從12點拍到六點 我瘋了嗎 晚上接續值急診 會掛 中寮山天希坊" }
+    ],
     "20": [],
-    "21": [],
-    "22": [],
-    "23": [],
-    "24": [],
-    "25": [],
+    "21": [
+      { type: "link", content: "https://photos.app.goo.gl/PTiAgXni373kzjbF7", label: "2017年5月21日 今晚兒急診大爆滿 門庭若市ORZ" }
+    ],
+    "22": [
+      { type: "link", content: "https://photos.app.goo.gl/E1Zj5HK9WtwKke3W7", label: "2017年5月22日 \
+        第三天守兒科急診 禮拜日果然門庭若市 醫店生意興隆 一直在看診on iv 做資料然後終於撐到天亮 有病人一枚是超活潑小一女 靠明明燒到39 \
+        欸醫生現在幾點 欸醫生為什麼要看耳朵 欸醫生你的筆是不是沒水我家很多 欸醫生妳講太快了吧你 直到揮手說掰掰還說要回來看我 \
+        可以完整的從叫號問診PE到下處分on iv 感謝學姊在我做完處置之後給予檢查跟修正 或許感覺讀醫會有趣 就是從實作開始吧 臨床真好 \
+        之後接續報case交班 然後教學門診到中午 明晚迎接最後一班夜急 嗯intern身體不是鐵打就是打鐵的呢 希望身體撐著點 \
+        發生太多事情真的真的太累 我需要talk但我沒朋友 生活像是在吃屎還要假裝過很爽" }
+    ],
+    "23": [
+      { type: "link", content: "https://photos.app.goo.gl/Md34HoQbbu7uWSdZ7", label: "2017年5月23日 Well trained in hospital Well trained in gym" }
+    ],
+    "24": [
+      { type: "link", content: "https://photos.app.goo.gl/b5JD9XhXmRtsXKMZ7", label: "2017年5月24日 最近很煩惱" }
+    ],
+    "25": [
+      { type: "link", content: "https://photos.app.goo.gl/QH4B1symJSYkA9Tb8", label: "2017年5月25日 有點難做" },
+      { type: "link", content: "https://photos.app.goo.gl/K6s4VYgcGoLsjsD29", label: "2017年5月25日 我的頭燈試用者" }
+    ],
     "26": [],
-    "27": [],
+    "27": [
+      { type: "link", content: "https://photos.app.goo.gl/EG7vW89U8EAms6cH9", label: "2017年5月27日 搭高鐵不能補眠背日文 上班休假都累得要死 我到底造什麼虐" }
+    ],
     "28": [],
     "29": [],
     "30": [],
-    "31": []
+    "31": [
+      { type: "link", content: "https://photos.app.goo.gl/rpYnzK4ENWD5NKbt6", label: "2017年5月31日 練個 步上自己的軌道 離計畫越來越近" },
+      { type: "link", content: "https://photos.app.goo.gl/2YgLZ6qhefJqBiuNA", label: "2017年5月31日 \
+        看到蘇花公路坍塌心裡只有一個想法 人總是以為美景能輕易的看到 因此造就許多環境的破壞 公路坍塌不是當然的嗎 \
+        他本來就是破壞自然生態而建造的 美景只有經過辛苦才能得到 風景攝影也是忍耐飢餓與犧牲睡眠才能等到 一切都是看老天臉色 \
+        對於自然的嚮往 而建造渡假飯店或遊憩園區 去犧牲自然創造的方便不是應該的 南投 sunrise 日月潭 \
+        你說是對的 為了生活方便而適當犧牲 不過另一方面建造的遊憩區與飯店讓大眾方便遊樂 造就蜂擁而至結果堵塞回不了家 算是一種破壞自然的自食其果" }
+    ]
   },
 
   "6": {
     "1": [],
     "2": [],
     "3": [],
-    "4": [],
+    "4": [
+      { type: "link", content: "https://photos.app.goo.gl/yG7Si7nUHxE8ABuS9", label: "2017年6月4日 收攤前阿姨送奶油紅豆餅 這麼感人 今天助人的好報吧" },
+      { type: "link", content: "https://photos.app.goo.gl/ELaG3LsJ5FsesakQ7", label: "2017年6月4日 值班準備月底的攝影課程 2小時的課如何讓人有趣又能吸收呢" }
+    ],
     "5": [],
     "6": [],
-    "7": [],
-    "8": [],
+    "7": [
+      { type: "link", content: "https://photos.app.goo.gl/gNcgFS6wTqJDdyWM7", label: "2017年6月7日 晚上都吃油條肉包豆漿一個多月 為什麼還胖不了 到底還要吃多久才行" },
+      { type: "link", content: "https://photos.app.goo.gl/uc7rBNvSokn35teG7", label: "2017年6月7日 吸入劑" }
+    ],
+    "8": [
+      { type: "link", content: "https://photos.app.goo.gl/7r89YEoxAot34GbBA", label: "2017年6月8日 拍照去" }
+    ],
     "9": [],
-    "10": [],
-    "11": [],
-    "12": [],
-    "13": [],
+    "10": [
+      { type: "link", content: "https://photos.app.goo.gl/aDFaQTF5Zz1LFp28A", label: "2017年6月10日 \
+        發現黃金鄉 大致上拍風景時我會想以下幾點給各位參考 首先現場觀察地形 如何拍出不同的構圖 正好國外很流行把攝影師自己放進去 小小的 \
+        襯托自然壯闊 於是我也來試試啦 台灣太多喜歡爭相模仿構圖的作品 甚至國外也有 即使構圖類似 現場也能思考如何選擇前景等 修飾作品的特別之處 \
+        再來拍攝幾張不同曝光 在這之前你要先了解 正常的曝光畫面跟你會合成哪幾部分 注意國外的自然風景  跟我們本土99%不同的是 他們會注意合理的曝光 \
+        並藉由曝光凸顯表達的主題 在台灣 例如銀河 我不懂把地景補光或拉得比銀河還亮是什麼意思 重點是表達地景 但也會有全黑沒細節的不說了 \
+        總之呢 暗處保留細節 並讓重點處保持正常曝光 剩下的色溫色階跟風格 可以參雜個人特色 最後檢查曝光有無爆掉 斷階 雜訊 拉銳利 \
+        實際上中間有很多小細節 包括這種險惡地形要自拍也很危險 要完成一張照片 要將各種構成因素考慮進去 而最後取決於攝影最終重點 表達光線 \
+        當天只有我一人 豪可怕" },
+      { type: "link", content: "https://photos.app.goo.gl/1EKhKCuUtYJwbRZb8", label: "2017年6月10日 一晚遇到兩個水腫的new pa A-line難打到飛上天 整夜都沒得睡 病人跟我一樣好on就好了" },
+      { type: "link", content: "https://photos.app.goo.gl/mfUNgVov5tiS148o6", label: "2017年6月10日 幹半夜4點妞胚 這個班難值" }
+    ],
+    "11": [
+      { type: "link", content: "https://photos.app.goo.gl/CLTRSZrGcnWqShaW8", label: "2017年6月11日 好棒的旅行 好像回到自己家" }
+    ],
+    "12": [
+      { type: "link", content: "https://photos.app.goo.gl/RU8RPvXjB5AYmuaF7", label: "2017年6月12日 手伸口袋太快直接被pt list的釘書針one touch 血糖顯示9487 唉今天各種災難" }
+    ],
+    "13": [
+      { type: "link", content: "https://photos.app.goo.gl/rAaugLAnAYfEgL8c8", label: "2017年6月13日 病歷號2545621 三合一疫苗一針1700自費" }
+    ],
     "14": [],
     "15": [],
-    "16": [],
-    "17": [],
+    "16": [
+      { type: "link", content: "https://photos.app.goo.gl/JfBqDjpAgX94XtwB9", label: "2017年6月16日 對不起真的不敢再鐵齒 吃完芒果鳳梨 病人plt掉到2000送micu 現在留著 然後micu不斷轉病人下來 對不起" }
+    ],
+    "17": [
+      { type: "link", content: "https://photos.app.goo.gl/DoPFpL2zsLDKyRYk7", label: "2017年6月17日 \
+        恭喜卒業おめでとう 這次的畢業送走的是最熟悉的學長姊與學弟妹 很快的明年迎來我的畢業 快不用再被當留級大學生惹 \
+        先補上手機照片其他的相機合照晚點處理 卒業おめでとう graduation 畢業快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/KVro1hmWVUfCAjzi9", label: "2017年6月17日 三軍總醫院 實習醫生 追蹤我然後帶你看台灣一堆五四三的秘境美景" }
+    ],
     "18": [],
-    "19": [],
-    "20": [],
-    "21": [],
-    "22": [],
+    "19": [
+      { type: "link", content: "https://photos.app.goo.gl/9c7VWwo8epg9xmRd7", label: "2017年6月19日 いいですね 謝謝梓翔哥teaching" },
+      { type: "link", content: "https://photos.app.goo.gl/9h9kkKvwXXrQ3WU49", label: "2017年6月19日 \
+        goodgoodbye 被幾個朋友提起 於是閃過片段的前任分手的記憶 想到時間過了快一年 而現在自己過得幸福美滿也不畏懼再提起 \
+        走出傷痛是個過程不會知道有沒有那一條deadline不再想起 只能說隨著時間頻率減少 強度減弱 然後讓新的人新的記憶填滿自己生命 \
+        現在我很感謝這個分手 卻無法原諒當初的決定 因為知道事後所為 實在不值祝福 分手後發生的事情徹底讓我改觀與成長 也看清自己某部分的爛與不長進 \
+        也常常心裡會想到當初積極一點 就能戳破某個謊言 但慶幸當初沒有 因為現在看來 信任已經打碎無論當時謊言與否 都是回不了頭 \
+        感謝當時的分手 更感謝願意花時間相陪的朋友 現在的自己心裡目標明確 瞭解缺少的與不足的 知道自己渺小與底線 知道謙卑與自省 \
+        雖然還是常犯錯但感謝天一直遇到好人 短期的目標慢慢實現 我很貪心 希望醫學之外還能體會各種人生 因此把握時間鋪成 檢視自己吧 Monday blue" }
+    ],
+    "20": [
+      { type: "link", content: "https://photos.app.goo.gl/tZXHGc7jhoXPc6jM7", label: "2017年6月20日 單挑成功 今晚三台也" },
+      { type: "link", content: "https://photos.app.goo.gl/dQ7wwgywcNjFZMn7A", label: "2017年6月20日 同時care micu+sicu就是chill 看看幾點才能吃晚餐" }
+    ],
+    "21": [
+      { type: "link", content: "https://photos.app.goo.gl/ShnLnxvCrfBhK8AA6", label: "2017年6月21日 \
+        動態回顧偶然跳出了這張照片 回首一年前自己的青澀記憶猶新 或許在醫學上馬齒徒長 但至少很確定現在自己為了自己而活 \
+        為自己找到生活的動力 只是每天都累得跟狗一樣罷了 sunrise 一個內科值班沒睡清晨走回宿舍巧遇超美日出的早晨" },
+    ],
+    "22": [
+      { type: "link", content: "https://photos.app.goo.gl/AzaYPFbygEZ5mXEp9", label: "2017年6月22日 這次掉下去就不好笑了喔 10樓" },
+      { type: "link", content: "https://photos.app.goo.gl/fVpEXb8w5JHCHinU7", label: "2017年6月22日 New tripod for Tokyo tourist" }
+    ],
     "23": [],
-    "24": [],
-    "25": [],
-    "26": [],
+    "24": [
+      { type: "link", content: "https://photos.app.goo.gl/3UU56FriRXLGnXp66", label: "2017年6月24日 爺爺你還好嘛 叫叫CBA ACLS啟動OAO" },
+      { type: "link", content: "https://photos.app.goo.gl/bQ8Pk3QrJbPb4ANf7", label: "2017年6月24日 \
+        常常不務正業的自己 被叫老師心裏很deny哈哈 幫小朋友留下紀錄也是有技巧的 謝謝各位聽完我兩小時的課 下課 謝謝陳主任邀請 謝謝側拍 微甜時刻 下課 children" }
+    ],
+    "25": [
+      { type: "link", content: "https://photos.app.goo.gl/kahPP9KgGPwDvQ418", label: "2017年6月25日 第一次自己打CVP 搞了很久還是失敗" },
+      { type: "link", content: "https://photos.app.goo.gl/rRB78XkCxT4diizR6", label: "2017年6月25日 陳雷搞很久的VP不平衡 廠商來到醫院的路上 我就搞定他惹 輕鬆 陳雷請我喝飲料ㄅ" }
+    ],
+    "26": [
+      { type: "link", content: "https://photos.app.goo.gl/J1fdCv42WkNWVmcm9", label: "2017年6月日 CCU比MICU還tra 扯淡 24小時都沒休息看日出囉" }
+    ],
     "27": [],
-    "28": [],
+    "28": [
+      { type: "link", content: "https://photos.app.goo.gl/jhZVpJUGJnmydko36", label: "2017年6月28日 \
+        又遇到一個好喜歡的地方 三總RCC 噢不 這個月應該是micu03 是一個小加護病房啊啊啊 被剛剛好多的事情纏住 從早上到下午然後打完所有病歷差不多六點下班 \
+        沒有之前同學交班說的輕鬆 卻有很棒的學長跟護理師們 唐V之前osce肺部PE時 主動說follow很久我的照片讓我受寵若驚 F3學長則是對於問題有問必答 有條不紊 \
+        還手把手教我看CXR 耐心程度簡直衝破天際 雖然有人丟早餐在桌上還栽贓我 不過看在這麼nice的病房應該是能釋懷的" }
+    ],
     "29": [],
     "30": []
   },
@@ -1107,6 +1285,12 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/Vt5TWzkp8PL19Vu5A", label: "2020年10月8日 你太不食人間煙火 你嘴巴說的容易 建議來醫院當看護試試" }
     ],
     "9": [
+      { type: "link", content: "https://photos.app.goo.gl/6FvVFeCUp2DEiHyt8", label: "2025年10月9日 \
+        臨床記錄 縱隔腔變寬 中年男性主訴突發胸痛及幾乎昏厥的感覺來診 EKG看到inferior leads有Jpoint上升 血壓偏低 疑似STEMI啟動緊急導管 \
+        但在診斷左側冠狀動脈時找不到left main coronary artery的開口 卻發現double lumen sign 當下的胸前超音波 發現moderate AR及擴大的aorta \
+        轉而急做Chest CTA確認type A aortic dissection 這樣的案例雖然少見 但總是第一線醫護人員的惡夢 後續也可以看到CXR與過去相比 \
+        有明顯的縱隔腔擴大及aortic knob變大上移遮住了原本左側subclavian下方的空間 都暗示著dissection的可能 \
+        過去常背誦縱隔腔變寬的鑑別診斷 但卻很少遇到如此典型的案例 有點分享價值" },
       { type: "link", content: "https://photos.app.goo.gl/SYDSKeeZc2Rob1hb9", label: "2025年10月9日 他有依照正確的方式量血壓欸 真可愛" },
       { type: "link", content: "https://photos.app.goo.gl/ChMUvMp3HiE12LUr5", label: "2025年10月9日 看個人 我就會有這個需求" },
       { type: "link", content: "https://photos.app.goo.gl/UQXNvDj72XQKi2vo9", label: "2025年10月9日 這就是黃仁勳要的世界嗎" },
