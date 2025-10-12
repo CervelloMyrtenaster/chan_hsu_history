@@ -458,7 +458,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/rRB78XkCxT4diizR6", label: "2017年6月25日 陳雷搞很久的VP不平衡 廠商來到醫院的路上 我就搞定他惹 輕鬆 陳雷請我喝飲料ㄅ" }
     ],
     "26": [
-      { type: "link", content: "https://photos.app.goo.gl/J1fdCv42WkNWVmcm9", label: "2017年6月日 CCU比MICU還tra 扯淡 24小時都沒休息看日出囉" }
+      { type: "link", content: "https://photos.app.goo.gl/J1fdCv42WkNWVmcm9", label: "2017年6月26日 CCU比MICU還tra 扯淡 24小時都沒休息看日出囉" }
     ],
     "27": [],
     "28": [
@@ -1331,6 +1331,23 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/pENdRGHHJJxGbAiU9", label: "2018年10月9日 這個月15天在海上呢 究竟面對這樣的壓力我還能撐到什麼時候 謝謝女友 妳勝過一切" }
     ],
     "10": [
+      { type: "link", content: "https://photos.app.goo.gl/8iUDWeAFTqqddEqc9", label: "2025年10月10日 \
+        再來一張 整個沙灘人滿為患 漂亮的木造尖塔跟小屋都沒了 除了吵還有髒 撇除今天的天空 這裏一無是處 \
+        過去這裡的漂亮跟空曠只能留在腦海 政府越發展越倒退 這就是我最討厭景點被政府開發跟宣傳的原因" },
+      { type: "link", content: "https://photos.app.goo.gl/7CM5aa2fAK7GewQi9", label: "2025年10月10日 幹他真的拿球棒哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/9aPEPBX5ksVtotqe9", label: "2025年10月10日 \
+        Gohome食研室早午餐義大利麵 台中 美食 早午餐 又帶我去吃美食啦 常常在假日爆滿預定的人潮 想睡到自然醒又都找不到有座位的早午餐 \
+        食研室就是很好的選擇 我個人最喜歡酥炸魚堡 酥炸牡蠣 超不健康 但攝取非常多的快樂 \
+        如果想吃健康一點除了早午餐 還有蛤蜊義大利麵 出餐速度快又好吃 也很推薦 " },
+      { type: "link", content: "https://photos.app.goo.gl/3eqZWP4ZUqJ9bLEo6", label: "2025年10月10日 光影就是氛圍的原料~" },
+      { type: "link", content: "https://photos.app.goo.gl/gBx5o65wBukPXLa89", label: "2025年10月10日 炒作伙爆香鹹酥雞 願稱這家是台南前三名好吃的鹹酥雞 太好吃了" },
+      { type: "link", content: "https://photos.app.goo.gl/n5YoaoH47Q2fGnYe7", label: "2025年10月10日 恭喜恭喜" },
+      { type: "link", content: "https://photos.app.goo.gl/ThedfDmsuAmwmJBZ7", label: "2025年10月10日 馬洛能開戰但不能保人 牛能開戰也能保人 被風箏時牛能移動的機會比較多 被控制時牛能走掉的機會比較多" },
+      { type: "link", content: "https://photos.app.goo.gl/kMKU15njEt4RRBnT7", label: "2025年10月10日 他這個還有加上後製 第一張構圖蠻厲害的" },
+      { type: "link", content: "https://photos.app.goo.gl/zcFcdsws9cbuTPJk8", label: "2025年10月10日 我根本沒這樣" },
+      { type: "link", content: "https://photos.app.goo.gl/M1o9ZTfXTwizcZPJ7", label: "2025年10月10日 又又美FotoShop" },
+      { type: "link", content: "https://photos.app.goo.gl/3RCC5YpLeSyvGuCJ7", label: "2025年10月10日 變電箱貓貓戰士居然有海綿" },
+      { type: "link", content: "https://photos.app.goo.gl/XUXccN3otuQmwMUA8", label: "2025年10月10日 阿財牛肉湯" },
       { type: "link", content: "https://photos.app.goo.gl/UvKUajT5nLLtoPnC7", label: "2024年10月10日 \
         把影片修好 音樂斷點好不容易對到煙火綻放 結果後半段音樂直接不見 影片好難哦放棄了 \
         2024台灣國慶煙火全紀錄 今年的國慶日紀錄101煙火 很開心在這麼厲害的視角拍攝 小可惜煙火的長度真不滿足 \
@@ -1410,6 +1427,20 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/8p7uiVH6LuDRYZCy7", label: "2017年10月10日 Night&Light&me 燒肉與酒的撫慰 新宿" }
     ],
     "11": [
+      { type: "link", content: "https://photos.app.goo.gl/XJFGHQhnq1aWnF7f6", label: "2025年10月11日 \
+        論攤位的話 高雄愛河旁邊的攤位做的100分 人潮剛好 熱鬧又不擁擠 也沒有亂七八糟吵鬧的唱歌 每個攤位又都很有特色 重要的是還很乾淨 真的很讚" },
+      { type: "link", content: "https://photos.app.goo.gl/uLXpPqcVMExzWkJD6", label: "2025年10月11日 什麼是好吃 就是一粒醋飯的米粒碎片都不能留下 他們做出一口下去多層次的口感 實在太讚了" },
+      { type: "link", content: "https://photos.app.goo.gl/5yPWoE6uv1LvyPmdA", label: "2025年10月11日 超級好吃的丼飯 可以來分享了" },
+      { type: "link", content: "https://photos.app.goo.gl/kcExt3x8uU3yn7mE6", label: "2025年10月11日 一起看夕陽" },
+      { type: "link", content: "https://photos.app.goo.gl/UoALaB7Scwq3rGdu5", label: "2025年10月11日 桐封堂" },
+      { type: "link", content: "https://photos.app.goo.gl/UkcTHZzZ3aZqdrFX8", label: "2025年10月11日 碗容奶奶家高雄店" },
+      { type: "link", content: "https://photos.app.goo.gl/aTeuuwM5dnLJXz7PA", label: "2025年10月11日 平常都沒睡覺的 睡兩小時算很久了" },
+      { type: "link", content: "https://photos.app.goo.gl/MbYmThEiqPJ26b7eA", label: "2025年10月11日 假日飛手練習" },
+      { type: "link", content: "https://photos.app.goo.gl/kqngxiReA2eW1aPL8", label: "2025年10月11日 今日戰利品 真的不能再買了" },
+      { type: "link", content: "https://photos.app.goo.gl/n77motpCQP1gqFYX7", label: "2025年10月11日 幸好我們沒去看哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/hSRL6WeR9EgZ761j7", label: "2025年10月11日 鹿耳門煙火是台灣第一的煙火當之無愧啊" },
+      { type: "link", content: "https://photos.app.goo.gl/mPAXrz9qvW4XUfW66", label: "2025年10月11日 他完全不管 就是一直吃" },
+      { type: "link", content: "https://photos.app.goo.gl/qeiAQUys8vkrzukRA", label: "2025年10月11日 晚上的鹹酥雞怎麼那麼好吃" },
       { type: "link", content: "https://photos.app.goo.gl/rPyx7Xn6ZE1kBra79", label: "2024年10月11日 \
         這裡是我拍過最美的101夜景 多希望每個日夜都能上來拍攝101晨昏 我絕對能讓世界看見最美的台北 最後感謝101官方協助申請 \
         2024台灣國慶煙火 2021年承接高雄85大樓煙火攝影 2024年承接台北101煙火攝影 算是解鎖了自己心中的成就 很開心101官方願意給我機會嘗試 \
@@ -1450,6 +1481,12 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/iK6MUZzLZThNVRab6", label: "2018年10月11日 比什麼節日都值得慶祝的是 能放假一起度過的每一天" }
     ],
     "12": [
+      { type: "link", content: "https://photos.app.goo.gl/eGbFw4eBKdEfPMMW7", label: "2025年10月12日 補班就是落後的國家在做的事情 這世界根本不需要人類上那麼多班 如果有 就只是證明有人想壓榨更多人而已" },
+      { type: "link", content: "https://photos.app.goo.gl/QK3L68eA5dnff3Q29", label: "2025年10月12日 如果把balloon打破瞬間產生震波 算不算一種窮人破產版的IVL 誤" },
+      { type: "link", content: "https://photos.app.goo.gl/VK5ikozLQnwgMMT89", label: "2025年10月12日 命 健康 本來就是要用錢才能買到 有錢還不一定能買到 但台灣人被政府慣壞 以為不用錢就能買到 可悲啊" },
+      { type: "link", content: "https://photos.app.goo.gl/61KoXA2vFgVdWhMj7", label: "2025年10月12日 又一位空拍大師出現了" },
+      { type: "link", content: "https://photos.app.goo.gl/DmoUb3Cfh1paXC8k9", label: "2025年10月12日 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/GMW5pprRTK4TKFDi9", label: "2025年10月12日 我怎麼那麼會拍" },
       { type: "link", content: "https://photos.app.goo.gl/BeJekGtRn1tiu3Yq9", label: "2024年10月12日 貓貓在獵物了哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/ghCBn4Rp9GgDUnZC8", label: "2024年10月12日 希望她這種嫌醫療費貴的 滾離醫院越遠越好 沒有醫護人員缺她這個錢" },
       { type: "link", content: "https://photos.app.goo.gl/JFNkjcRPx7nS6pdY6", label: "2024年10月12日 沒付錢叫什麼叫啊" },
