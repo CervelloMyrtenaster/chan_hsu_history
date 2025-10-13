@@ -1525,6 +1525,26 @@ const records = {
         記得 不需要重視那些技不如你的人給你評價 請重視自己 嚴格要求 精進自己 自己的價值自己徒手創造" }
     ],
     "13": [
+      { type: "link", content: "https://photos.app.goo.gl/T9GrQChdK9ZyiwDF8", label: "2025年10月13日 \
+        超同意 我挺護理師藥師醫檢師復健師等等加薪 但我對那種那醫師開刀的不以為然 除了智障就是沒良心 才會睜眼說瞎話 把同為受害者的醫生當開刀目標" },
+      { type: "link", content: "https://photos.app.goo.gl/j7zVVjpqZJdySS587", label: "2025年10月13日 沒錯 應該要大大改革 可惜政府還在睡" },
+      { type: "link", content: "https://photos.app.goo.gl/r9v45YjMWbsR23tc6", label: "2025年10月13日 不能一直滑thread" },
+      { type: "link", content: "https://photos.app.goo.gl/wZkSnMhXg36RBwHn7", label: "2025年10月13日 希望政府強力專制海洋業 吃不到魚肉沒關係 但還要必須被保護" },
+      { type: "link", content: "https://photos.app.goo.gl/iULR75J63zCC3BFs5", label: "2025年10月13日 有點太扯了" },
+      { type: "link", content: "https://photos.app.goo.gl/A7aje32tUYRoogXn8", label: "2025年10月13日 我覺得這個機器是不是過度解讀了 哈哈有啊 超大聲" },
+      { type: "link", content: "https://photos.app.goo.gl/d9DLzQyNUpdHg4js5", label: "2025年10月13日 \
+        CXR看不太清楚支架放哪個位置 被摩爾紋擋住 Baseline EKG應該是LBBB III AvF Q wave可能猜RCA old MI s/p stent \
+        ER EKG Af LBBB V1 aVR ST稍微上升 Echo好像下壁跟側壁hypokinesia EF eye ball 好像30-40% 非專業 猜不到血管嚴重程度 \
+        但盲猜可能三條或者RCA+LCX有問題 要看導管才知道ORZ EF不好+LBBB 如果以後符合indication不曉得會不會考慮CRT 好難的case" },
+      { type: "link", content: "https://photos.app.goo.gl/t85TSi6FG6vZxtLG7", label: "2025年10月13日 該去挖寶了" },
+      { type: "link", content: "https://photos.app.goo.gl/n5YRewBH2kTzfUFt5", label: "2025年10月13日 \
+        台南有著獨特的地景風貌 也有永遠挖掘不完的美食系列 這次就來分享部分心得 先說 交通上真的大推租機車 在地遊走沒有機車真如半殘 警察抓開車違規越來越頻繁 \
+        牛肉湯系列 億哥蒜香牛肉超頂 牛肉湯香肉嫩 有停車場又不用排隊 阿牛肉燥飯跟牛肉湯超好吃 沒有冷氣 路邊停車 但不用排隊 豪牛牛肉湯清爽 牛肉很嫩 有冷氣 \
+        路邊停車位要等 排隊10-15分鐘 阿財一樣是肉燥飯搭配牛肉的組合 也非常好吃 木木海產粥 非常訝異湯頭竟然如此香甜 蛤蜊算大顆 蝦肉也不會老 \
+        還有竹筍襯托著先煮過才下湯的飯粒 非常適合五分飽了卻對台南美食念念不忘的你我 感覺寬敞的用餐環境 超便宜的價格 大大推" },
+      { type: "link", content: "https://photos.app.goo.gl/fHEW2GtKnwJ8AMYu7", label: "2025年10月13日 感覺很好看ㄟ" },
+      { type: "link", content: "https://photos.app.goo.gl/mdW6Arghrw7tBUiC6", label: "2025年10月13日 今天上班看到的天空超藍超乾淨 超適合做成ppt背景 但沒帶相機 如果能有空拍機拍更好 可惜申請流程好麻煩" },
+      { type: "link", content: "https://photos.app.goo.gl/TvAoaetMMJp5cqqD7", label: "2025年10月13日 從大阪帶回來給大哥 大哥再指名送給 嗚嗚嗚 感動的我要哭了" },
       { type: "link", content: "https://photos.app.goo.gl/7pWtsBKnMFK7j6UA9", label: "2024年10月13日 \
         CHATGPT真的很恐怖的聰明 他能完美閱讀圖片 範例一 聽老外講課聽不懂 把老外PPT拍起來傳給CHATGPT 他能直接翻譯 整理成繁體中文 \
         範例二 越南伺服器傳說介面完全看不懂 截圖問他內容是說什麼 結果完美翻譯 免費版只有每天34個問題 是否該買月費600" },
