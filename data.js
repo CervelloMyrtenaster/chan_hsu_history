@@ -1713,6 +1713,14 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/BivHn9UjQTGZPevW9", label: "2025年10月15日 小時候可愛但長大就是底層 如果可以應該政府派兵 把這些社會癌細胞化療掉" },
       { type: "link", content: "https://photos.app.goo.gl/d8sAN7tMoTshmuVv8", label: "2025年10月15日 這也是社會癌細胞 應該用強力的方式讓他直接消失 同理受害者的心情 才會知道不是所有人都有資格活著去隨機傷害他人" },
       { type: "link", content: "https://photos.app.goo.gl/p2y5JCHhCRbwke7E8", label: "2025年10月15日 這可能要去檢查欸 我先猜免疫系統相關的血管炎之類的造成血管破裂出血 但這需要專家" },
+      { type: "link", content: "https://photos.app.goo.gl/cxZbgZaPvj9kqUMa8", label: "2025年10月15日 \
+        國防醫學大學 禮拜一上班經過學校大門 發現天空很藍很乾淨 一方面從國防醫學院升級成國防醫學大學 招牌也換了 一方面用來做自己的ppt封面好像不錯 \
+        另一方面也快離開台北了就留個紀念 看隔天天氣也差不多就帶了相機 沒想到隔天的學校背景也藍的很純粹 就拍了下來 可惜不知道怎麼申請空拍 \
+        用相機拍攝最多只能調整一些垂直比例等等 如果有需要照片原檔我放在下面連結了 可告知後自行使用" },
+      { type: "link", content: "https://photos.app.goo.gl/6SQKVvrF8wew2t7p8", label: "2025年10月15日 上次看到上班的藍天超美 就猜隔天應該也差不多天氣 果然第二天上班帶相機 就拍到跟第一天差不多的天空 完全純藍色 用來當封面也不錯" },
+      { type: "link", content: "https://photos.app.goo.gl/VvG1rUhv7tySY5Pd7", label: "2025年10月15日 比起榮譽校友 我更以育澤大哥為榮" },
+      { type: "link", content: "https://photos.app.goo.gl/PtrLYNr4EBhmBz9M8", label: "2025年10月15日 該去拍貓貓了" },
+      { type: "link", content: "https://photos.app.goo.gl/RjDqC8UX9Xdiughs8", label: "2025年10月15日 為啥不tag我看" },
       { type: "link", content: "https://photos.app.goo.gl/wEWau151ct1wfkYz5", label: "2025年10月15日 我們也要弄一件" },
       { type: "link", content: "https://photos.app.goo.gl/pniKbZzCsUXTt6yy9", label: "2025年10月15日 幫我收藏福岡美食" },
       { type: "link", content: "https://photos.app.goo.gl/msarFK2Drfa2C6ED6", label: "2025年10月15日 超美" },
