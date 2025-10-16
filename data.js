@@ -759,20 +759,35 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/CsEoQXBreZHa1PWx8", label: "2016年9月3日 九三軍人節 可惜今天是刀一 整天穿著外科手術衣沒有機會穿軍服 所以到底要開刀的日本人什麼時候來啊 為了你我還沒吃晚餐啊啊" }
     ],
     "4": [
+      { type: "link", content: "https://photos.app.goo.gl/vcvvKZVSMfKBAngm9", label: "2017年9月4日 這兩顆新電池被我丟進洗衣機洗 來實驗能不能用吧 結果居然可以" },
+      { type: "link", content: "https://photos.app.goo.gl/7hbwwHKsc9aYDLrf8", label: "2017年9月4日 Fb搜尋吳展旭 追蹤我 有揪拍照或討論後製都在那裡唷 背景是已經處理好的照片一角" },
+      { type: "link", content: "https://photos.app.goo.gl/nsR3xPY87B88cKEX8", label: "2017年9月4日 鎖定桌布跟主畫面都是自己的照片 覺得質感不錯 絕對不是因為沒女友的照片" },
       { type: "link", content: "https://photos.app.goo.gl/pGJBb3UkARgaXhhr7", label: "2016年9月4日 \
         自己的私人時間假的 超過十分鐘的吃飯時間假的 充足的睡覺時間假的 下班的時候有人當靠山假的 只有桌上簡單的便當跟每天超過幾十小時的手術是真的 \
         吃完交班總醫師請的最後的晚餐 就要做好下地獄的決心 OK這樣的生活也不賴 每天聞著血味跟各種挖骨怪機械的聲音" }
     ],
-    "5": [],
+    "5": [
+      { type: "link", content: "https://photos.app.goo.gl/HhyGxhELYyVdppMy7", label: "2017年9月5日 相機 幹自己沒帶記憶卡怪我囉" },
+      { type: "link", content: "https://photos.app.goo.gl/PMaL5wFEtatqo4Cd8", label: "2017年9月5日 和煦夕陽 最適合吹著涼風 擦著昨天西子灣留下的海水了 一點拍照壓力都沒有 好不愜意呢 幹我還是轉型賣笑好了" },
+      { type: "link", content: "https://photos.app.goo.gl/qqz52LyF563uZcFE6", label: "2017年9月5日 答案是來拍照嗎 不是歐 因為記憶卡不想跟我出門 哇哈哈哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/7seUS6sY4uPAsftD8", label: "2017年9月5日 這麼和煦的陽光適合做什麼呢" }
+    ],
     "6": [],
-    "7": [],
+    "7": [
+      { type: "link", content: "https://photos.app.goo.gl/FfHwA9mis8eXcJm29", label: "2017年9月7日 捷運上意外摸到口袋中的1000 真是又驚又喜 感覺今天是一個美好的開始" },
+      { type: "link", content: "https://photos.app.goo.gl/qwWcq21QhZrSbJth8", label: "2017年9月7日 \
+        你相信嗎 在小小的台灣裡 依然存在天堂般的角落 整個十月我都在東京 有朋友要去日本嗎 想一起拍或被拍都可以ㄛ 想留下自己婚紗或和服照的都來來來 免費創作包您滿意" }
+    ],
     "8": [
       { type: "link", content: "https://photos.app.goo.gl/jL2coUwBwDhsNX4j6", label: "2016年9月8日 \
         每天看不見終點的刀房日子 身心都非常疲倦了 我開始懷疑自己適不適合當醫生 其實我並不是很想 只是選擇了沒有退路 只有讓自己愛自己所擇 要撐住 不能放手努力過的歲月 \
         旅途終究還是一個人上路 想念自己的日子 想念只把風景留給自己的日子 想旅行了" }
     ],
     "9": [],
-    "10": [],
+    "10": [
+      { type: "link", content: "https://photos.app.goo.gl/Lotxr9vkZeBd2tDA7", label: "2017年9月10日 唸書修圖修圖修圖吃飯修圖 修圖修圖拍照修圖修圖修圖 實習修圖修圖修圖" },
+      { type: "link", content: "https://photos.app.goo.gl/eua94PxQEqnxcTJ98", label: "2017年9月10日 我的新桌面 追蹤我 年底目標 設計明信片 規劃修圖課程 追蹤獲得資訊吧" }
+    ],
     "11": [
       { type: "link", content: "https://photos.app.goo.gl/GS4ha6NgSMNT6iru6", label: "2016年9月11日 \
         今天再來隆重介紹一下刀房雞腿便當 沒錯今天刀一 從早上八點到現在總計20幾分鐘的吃飯時間 其他都是上刀上刀上刀刀刀刀 吃完還有三台刀準備戰到晚上十點 \
@@ -780,14 +795,34 @@ const records = {
         最後我只告訴自己 這就是人生啦 開好開滿 不休息" }
     ],
     "12": [],
-    "13": [],
-    "14": [],
-    "15": [],
+    "13": [
+      { type: "link", content: "https://photos.app.goo.gl/dYENM1uB2XrjTifu9", label: "2017年9月13日 \
+        我珍藏有無數種類的攝影 爬樓 街拍 夜景 空拍 人文 日出日落 銀河 婚紗等等 對我來說 是儲存創意跟攝影眼的好參考 \
+        我得厲害的攝影師 不是挑食 不是自以為是不看別人作品 而是能夠廣納別人的思維 轉化成自己的無創 共勉之" }
+    ],
+    "14": [
+      { type: "link", content: "https://photos.app.goo.gl/66i5Li45BjZunvLM6", label: "2017年9月14日 各位觀眾 帶你去更多點拍爽爽" }
+    ],
+    "15": [
+      { type: "link", content: "https://photos.app.goo.gl/PJiEDk9deJY2yMtD8", label: "2017年9月15日 \
+        上半月交班離開前不打病歷 留給我下半月打 到底什麼意思 十幾篇喔補起來真的很賭爛 把爛攤丟給下個月的很爽 幹 \
+        (九月上半的intern沒有在交班前完成病歷 真的太誇張了 故下半月intern吳展旭只好代打" },
+      { type: "link", content: "https://photos.app.goo.gl/iEUFqqGntAWaCbeB8", label: "2017年9月15日 為了拍照 把病歷補完先QAQ 好多" }
+    ],
     "16": [],
     "17": [],
-    "18": [],
-    "19": [],
+    "18": [
+      { type: "link", content: "https://photos.app.goo.gl/ms25gJqq8SzB6y5j6", label: "2017年9月18日 大半輩子的時間 都得在醫院內看著好天氣乾瞪眼 最近攝影衝的很兇 幫助很多朋友 但仍希望 未來本業可以幫助更多人" }
+    ],
+    "19": [
+      { type: "link", content: "https://photos.app.goo.gl/78GfsgwVfA6aoYfa9", label: "2017年9月19日 看得眼花花 照片少修一點 論文多讀一點 橫批 能森啊" },
+    ],
     "20": [
+      { type: "link", content: "https://photos.app.goo.gl/7m2mJ4VBY78o5wax5", label: "2017年9月20日 \
+        四年前第一次去蘭嶼就跟自己約好 畢業之前會去第二次 而第二次便這麼倉促的出發 老實說若不是已經繳了住宿費 還真的沒啥動力 \
+        這是大學第一次獨自的長途旅行 什麼行程都沒準備反正就是丟自己過去 體會一下何謂流浪 大的登山背包帶了電腦 相機 腳架等 每一處都可以是落腳點 \
+        天下之大何處不能是家 但也就僅此一次 這是在下個月大旅行之前的小旅行 希望未來長程的旅途 都不再是一個人 反省 這半月復健科很無恥的請兩天年休 \
+        剛好一個同學又去中榮 對不起剩下一個同學會很suffer journey 實現約定" },
       { type: "link", content: "https://photos.app.goo.gl/SfojkzAHUcevTpNP9", label: "2016年9月20日 \
         帶著一些讀物跟簡單的晚餐 連假輕易的結束了 鬱悶的是帶許多想解決的疑惑回鄉 直到現在卻仍沒有答案 把內心的結帶來帶去 似乎是壓力的源頭 幸好寶可夢轉移了注意力 幸好同學朋友們依舊開心 回鄉還是最好的療癒 \
         景物依舊 而過幾年以後我又會如何看待 那麼等著時間走過再慢慢體會 大概是最消極也是唯一的辦法了 \
@@ -818,7 +853,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/TowJEBhtvFCuQqXu9", label: "2023年9月22日 下午小補眠一下還是全身無力 要檢查每週一跑真的很困難" },
       { type: "link", content: "https://photos.app.goo.gl/gwhDj5wU8wXW4eBr9", label: "2022年9月22日 氣切管的氣囊壓力" },
       { type: "link", content: "https://photos.app.goo.gl/bQsAft4LoTbGVF4L7", label: "2019年9月22日 離開營區就像入獄後能短暫假釋 繼續逆著大浪 慢慢成長茁壯" },
-      { type: "link", content: "https://photos.app.goo.gl/aAR699nw4GVuKCb79", label: "2017年9月22日 這才是生活 但是它很短暫 此生發誓及早退休" },
+      { type: "link", content: "https://photos.app.goo.gl/vz2sR75uTUPLfMt9A", label: "2017年9月22日 這才是生活 但是 它很短暫 很快又要回去面對現實 此生發誓 及早退休 當攝影背包客 遊遍天下" },
       { type: "link", content: "https://photos.app.goo.gl/uDAT7pPpgyNfTvZi9", label: "2016年9月22日 連續完全沒坐下上刀九個小時解鎖 站到自己講話胡言亂語 飯菜都又冷又硬 不過好充實啊 又刷新自己的耐力記錄了 晚點繼續加油 nolimit" }
     ],
     "23": [
@@ -1016,7 +1051,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/Rwe3ziRDRs6RY7ah9", label: "2021年9月28日 我覺得很重要 哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/1wdceXPgZ67VqKxY7", label: "2021年9月28日 分享一位老醫師學長的真實故事 有點沈重 尤其是看完魷魚遊戲之後 社會底層的悲歌是個無解的問題 不只是在電影裡" },
       { type: "link", content: "https://photos.app.goo.gl/VG5f8QMWVUpB9ZRi7", label: "2019年9月28日 館長也在戰鬥支援大隊忠誠營區旁捐贈一間重訓室 讓我能夠省錢省時間也能運動" },
-      { type: "link", content: "https://photos.app.goo.gl/3M62cWa2YtZRtVPq6", label: "2017年9月28日 Thank for my new profile, just check her page and amazing pics" },
+      { type: "link", content: "https://photos.app.goo.gl/3M62cWa2YtZRtVPq6", label: "2017年9月28日 Thank for my new profile just check her page and amazing pics" },
       { type: "link", content: "https://photos.app.goo.gl/YEPXAKBEdxB7krvX9", label: "2017年9月28日 餐卷全部半價 剛到的肉燥便當全新30元 熱的" },
       { type: "link", content: "https://photos.app.goo.gl/ff3PwqwbXewHkvT36", label: "2016年9月28日 \
         倒數一天骨科下刀 跟骨科相比內科真的輕鬆很多 但這四個月真的好難熬 不過並不後悔選了骨科 也不後悔跟著潘副院長 完全是體力與腦力的鐵人接力賽 從肩膀手肘髖關節膝關節踝關節到阿基里斯腱 全身上到下一個不漏 \
@@ -1752,6 +1787,9 @@ const records = {
         人生沒有用不到的經歷 逆來順受 為自己的價值找到出路是很重要的" }
     ],
     "16": [
+      { type: "link", content: "https://photos.app.goo.gl/XJn2vYpSD2PrFt357", label: "2025年10月16日 為了打擊揭發綠色弊案的人真是不遺餘力" },
+      { type: "link", content: "https://photos.app.goo.gl/6mAx6s41dGbfmahZA", label: "2025年10月16日 你看有真正的貓貓島 相島" },
+      { type: "link", content: "https://photos.app.goo.gl/TMvxvR8414YWVWS4A", label: "2025年10月16日 好啊" },
       { type: "link", content: "https://photos.app.goo.gl/gNxAsGF5JU3z5oR68", label: "2024年10月16日 \
         滑了一下北愛爾蘭 我只能用美到傻眼來形容 到底何時可以去拍那邊的風景啊 \
         如果讓我選擇一億元財富但只能一直工作 或過著小康生活但可以環遊世界拍風景 我一定毫不猶豫選後者" },
@@ -1783,6 +1821,28 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/hC31nTKFGKnhPdy69", label: "2018年10月16日 人生第一張gopro拍的照片之 我要抽Hero7" }
     ],
     "17": [
+      { type: "link", content: "https://photos.app.goo.gl/UgyQwX3j7ncriiBb6", label: "2024年10月17日 \
+        黑卡現在的功能打蚊子多過遮光 為什麼 我舉三張照片為例 如果拍攝101夕陽 你搖黑卡保證101變成超黑的火柴棒 看太多了 \
+        尤其光線差異越大黑卡留下的不自然痕跡越明顯 再拉回他拍攝的苑里橋 用黑卡之後他的橋一定偏黑 黑卡最大的三個缺點 \
+        只能適用在地平線很平的構圖 複雜的地形就算升級用到縫卡一樣有痕跡 完美的光線 例如日出太陽剛升起時只有那12分鐘 一但黑卡搖壞 算錯曝光時間等 就沒了 \
+        很多人搖卡的時候都會撞到隔壁的人 現在都用多重曝光的方式來處理反差 很多人詬病HDR是因為不自然色調 我這裡大推LR的HDR功能 他是保留中間曝光的方式 \
+        讓後製有更多寬容度 很簡單就能處理高反差 確實不應該嘲笑黑卡 但是應該淘汰黑卡了 我玩攝影12年多 前五年跟很多大哥學習黑卡 但後面學了後製就不再搖黑卡 \
+        我甚至可以用黑色錢包直接搖 最後 很多人觀念錯誤 攝影並非直出的藝術 而是後製本身也是攝影的一環 別用直出當懶惰學不會後製的藉口" },
+      { type: "link", content: "https://photos.app.goo.gl/KL3icXQrFz4XeByWA", label: "2024年10月17日 \
+        舉個最簡單的例子 如果要拍這兩張我使用黑卡來搖 101通常會變成整根黑色的火柴棒 黑卡最適合的例子是水平面超級平的狀況 這樣搖出來或許可以接近完美 \
+        所以黑卡最大兩個缺點 無法適應變化多端的地形 會造成不合理陰影 關鍵時刻最好的光線往往只有12分鐘 例如拍日出太陽剛升起那瞬間是最美的 如果搖壞了就是直接錯過了 \
+        最後現在後製方式為多重曝光 其實處理手段越來越簡單 hdr可能會不自然 因此唯一推薦LR的HDR 那個是保留中間曝光的HDR 很自然又能留後製需要的寬容度 \
+        黑卡是一個工具 不需要訕笑他 但可以淘汰他了 現在的攝影不應該追求直出 而且接受後製就是攝影的一部分" },
+      { type: "link", content: "https://photos.app.goo.gl/iXWJziwmNqBjj4nz5", label: "2024年10月17日 \
+        學長說的沒錯 很吃地形 地形變化大就不適合用黑卡 而且黃金時刻的光線可能只有一兩分鐘 萬一那時候搖失敗 就錯過了 後製可能無腦打 拍很多張不同曝光 回去再來合" },
+      { type: "link", content: "https://photos.app.goo.gl/CaN63LSe9X37Cfoc6", label: "2024年10月17日 確實沒錯" },
+      { type: "link", content: "https://photos.app.goo.gl/qXp6Spk7W1mRJR5CA", label: "2023年10月17日 與其說是千萬不要輕易簽下 我更建議是 千萬不要簽下 這種後悔未來真的只剩尋短可以解脫 唉" },
+      { type: "link", content: "https://photos.app.goo.gl/jkdc9ZziyBKfkiAT9", label: "2022年10月17日 超實用" },
+      { type: "link", content: "https://photos.app.goo.gl/nQH9twKWhHPvRJVn9", label: "2022年10月17日 超噁 超討厭幫病人外大便" },
+      { type: "link", content: "https://photos.app.goo.gl/MXYuWBvZTiJ5fXkq5", label: "2021年10月17日 \
+        埔里鹹油條 如果你也喜歡傳統早餐 埔里鹹油條真的不能錯過 先說他油條粗粗一根 真的可以七分飽 配上荷包蛋跟小熱狗居然才35元 \
+        而且不會整個軟爛 吃起來幾分脆卻又不會乾硬 口感很讚 大推" },
+      { type: "link", content: "https://photos.app.goo.gl/uwMsBiHhGcJBBK7y7", label: "2021年10月17日 埔里超好吃鹹油條 有熱狗有蛋 晚點寫食記" },
       { type: "link", content: "https://photos.app.goo.gl/siqb6ZkRGnLH9K4eA", label: "2016年10月17日 xmen fundus Ophthalmoscope 眼科intern最終型態" }
     ],
     "18": [],
