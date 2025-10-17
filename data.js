@@ -815,7 +815,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/ms25gJqq8SzB6y5j6", label: "2017年9月18日 大半輩子的時間 都得在醫院內看著好天氣乾瞪眼 最近攝影衝的很兇 幫助很多朋友 但仍希望 未來本業可以幫助更多人" }
     ],
     "19": [
-      { type: "link", content: "https://photos.app.goo.gl/78GfsgwVfA6aoYfa9", label: "2017年9月19日 看得眼花花 照片少修一點 論文多讀一點 橫批 能森啊" },
+      { type: "link", content: "https://photos.app.goo.gl/78GfsgwVfA6aoYfa9", label: "2017年9月19日 看得眼花花 照片少修一點 論文多讀一點 橫批 能森啊" }
     ],
     "20": [
       { type: "link", content: "https://photos.app.goo.gl/7m2mJ4VBY78o5wax5", label: "2017年9月20日 \
@@ -1821,6 +1821,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/hC31nTKFGKnhPdy69", label: "2018年10月16日 人生第一張gopro拍的照片之 我要抽Hero7" }
     ],
     "17": [
+      { type: "link", content: "https://photos.app.goo.gl/oNsF2VMn5r8fdPX3A", label: "2025年10月17日 寶寶第一次看到貓貓的反應應該也很可愛" },
       { type: "link", content: "https://photos.app.goo.gl/UgyQwX3j7ncriiBb6", label: "2024年10月17日 \
         黑卡現在的功能打蚊子多過遮光 為什麼 我舉三張照片為例 如果拍攝101夕陽 你搖黑卡保證101變成超黑的火柴棒 看太多了 \
         尤其光線差異越大黑卡留下的不自然痕跡越明顯 再拉回他拍攝的苑里橋 用黑卡之後他的橋一定偏黑 黑卡最大的三個缺點 \
@@ -1845,33 +1846,188 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/uwMsBiHhGcJBBK7y7", label: "2021年10月17日 埔里超好吃鹹油條 有熱狗有蛋 晚點寫食記" },
       { type: "link", content: "https://photos.app.goo.gl/siqb6ZkRGnLH9K4eA", label: "2016年10月17日 xmen fundus Ophthalmoscope 眼科intern最終型態" }
     ],
-    "18": [],
-    "19": [],
-    "20": [],
+    "18": [
+      { type: "link", content: "https://photos.app.goo.gl/25qMv1CyiyQHUbg19", label: "2024年10月18日 \
+        現在的Chatgpt真的讓人震驚 尤其直接讀圖的能力實在太強 我把教科書隨意一張圖丟入 chatgpt居然能完整回答 雖然有一兩個地方可能是判讀失誤 \
+        但大致上結論沒什麼問題 真的非常可怕 膽小狗英雄裡二樓的超級電腦 應該就是未來的chatgpt 我試過把國外講者的ppt拍照截圖丟入 \
+        也試過直接把外國伺服器遊戲畫面隨意截圖丟入 chatgpt都能接近100%正確的回答我問題 這也是免費版ai cluade目前做不到的" },
+      { type: "link", content: "https://photos.app.goo.gl/cRT5XyS6hoF9Zxj3A", label: "2024年10月18日 CHATGPT去考心專口試說不定會過吧" },
+      { type: "link", content: "https://photos.app.goo.gl/tkydusW7t4pGRSSH9", label: "2024年10月18日 羨慕這些父母出生的小孩 天生就出生在終點線" },
+      { type: "link", content: "https://photos.app.goo.gl/X3kVJc5FK3arQibW7", label: "2024年10月18日 如果可以一秒離開我絕對頭也不回的離開" },
+      { type: "link", content: "https://photos.app.goo.gl/xTt4AU3msFX9L9978", label: "2024年10月18日 他就是以自私聞名的啊XD" },
+      { type: "link", content: "https://photos.app.goo.gl/KZbtF3vuYAxtPis38", label: "2024年10月18日 健保不倒 台灣醫療不會好" },
+      { type: "link", content: "https://photos.app.goo.gl/YRYN7x9sDB9LarVQ9", label: "2024年10月18日 醫師要看200號才發瘋吧 學長辛苦了 跑個20圈操場犒賞自己一下XD" },
+      { type: "link", content: "https://photos.app.goo.gl/d377DcdSTDmRXMcK9", label: "2024年10月18日 眼神很兇唷" },
+      { type: "link", content: "https://photos.app.goo.gl/NpxWMHfvfgANNrNi9", label: "2023年10月18日 \
+        住院醫生如同關禁閉的生活 體力下降超級多 考試的壓力也讓我處於緊繃邊緣 真的沒辦法規律運動 這三天趁休假強力要求自己 連續三天都至少慢慢跑三公里 回家後重訓一小時 今日達成" },
+      { type: "link", content: "https://photos.app.goo.gl/uq85kqocfkRLURHQ7", label: "2023年10月18日 \
+        這些退休校官真是可悲 中共掌握台灣總統跟高階首長行程只要花幾百萬台幣 真的掌握了要刺殺總統還真簡單 後面就是打下台灣了 \
+        這些退官也真的很白癡 如此重要的資訊 中共就算花個幾千億購買都還便宜了 畢竟開戰直接影響戰局 居然幾百萬就被收買是有多下賤啊ZZ" },
+      { type: "link", content: "https://photos.app.goo.gl/RBSq5AapCMPfPHP5A", label: "2023年10月18日 不愧我認為的台灣最強修圖神" },
+      { type: "link", content: "https://photos.app.goo.gl/6NHsrGTdbRGG9YdB8", label: "2023年10月18日 新光醫院聖賢大樓" },
+      { type: "link", content: "https://photos.app.goo.gl/E89bQMSpSLj8de2F9", label: "2019年10月18日 大電梯" },
+      { type: "link", content: "https://photos.app.goo.gl/7gHNva6EZrRNBySs6", label: "2019年10月18日 又收服一家國軍醫院啦 來上半天課" },
+      { type: "link", content: "https://photos.app.goo.gl/Cg7yWxaVtmLdRbZp6", label: "2018年10月18日 請委員為我們被壓榨的軍醫謀求公平合理的退場機制!" },
+      { type: "link", content: "https://photos.app.goo.gl/pDbPQ46t9vShfcgx9", label: "2018年10月18日 \
+        真心覺得1011月的奥入瀬美到不像話 比較特別的是我拍攝當下居然是飄小雨的 但讓鏡頭避開雨滴 畫面依然美到不行 暖色調的樹林配上冷色調的水流 合適地彼此融入 土曜日の小旅行 然後撞車" },
+      { type: "link", content: "https://photos.app.goo.gl/92v7dZUBYG1TnqxC7", label: "2018年10月18日 艦艇單位不用離營宣教啊 因為根本離不了營" },
+      { type: "link", content: "https://photos.app.goo.gl/UnkB4eZnJCsYWTrm8", label: "2018年10月18日 出海Day3 又消失了" }
+    ],
+    "19": [
+      { type: "link", content: "https://photos.app.goo.gl/fdo4tz1t6ErAnV4t9", label: "2024年10月19日 \
+        我實在不能理解也無法接受 努力工作直到退休再出去旅遊環遊世界 撇除老了只剩下車尿尿考量以外 這個世界大到用一輩子都看不完 \
+        學術地位 政治地位 金錢等這些在闔上眼那刹那完全沒有意義 只有腦海裡留下那些世界各處漂亮的風景才是屬於自己能帶走的 \
+        因此哪怕月薪只能養得起自己 都要以自己為主 把錢用在窮旅去看看世界 勝過為了別人埋首於工作 所以 我認為只要有一點錢一點時間 \
+        都應該放下一切去看看世界 把上帝留給地球最美的畫面留在自己心裡 用身體去感受風 用眼睛去感受光線 其他 都是假的" },
+      { type: "link", content: "https://photos.app.goo.gl/ach1aPjXSD8rrtBW6", label: "2024年10月19日 厲害捏" },
+      { type: "link", content: "https://photos.app.goo.gl/8hHZq8FFktUWK8NF7", label: "2024年10月19日 他在幫忙洗地板誒" },
+      { type: "link", content: "https://photos.app.goo.gl/Bgm4P1oBHVXPDaAX7", label: "2024年10月19日 我們當年也是 如果有AI就更方便了" },
+      { type: "link", content: "https://photos.app.goo.gl/n61exY61cNSoSxot6", label: "2023年10月19日 如果這樣搞我絕對把醫院鬧個天翻地覆 真的滿可惡的 全台灣還有哪間醫院敢這樣把住院醫生趕出宿舍的 唉 辛苦了" },
+      { type: "link", content: "https://photos.app.goo.gl/aGfad7iifQzr7kAP9", label: "2023年10月19日 每次好不容易放假 都一大堆外務要各種跑點唉 好想好好看書 煩死" },
+      { type: "link", content: "https://photos.app.goo.gl/paU7fhShZUyt9EDFA", label: "2023年10月19日 超好笑 最近有一堆假帳號小粉紅 特別來我拍的101底下找罵討 我是不介意啦 但只有兩三個戰力會不會太弱了 而且這是為什麼啦XDDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/zq3pMRekwZfqLtf16", label: "2023年10月19日 \
+        幸和殿手作料理 真正隱藏在內湖的日本料理 能夠形容的詞無非就是 道地 從用餐環境擺飾碗盤到食材都讓我彷彿身處日本 明太子雞肉串跟蒜味蛤蜊湯讓我驚艷 \
+        卡到好處的口感跟香味俱全 還有外型就非常可口的鮭魚炒飯 一碗就夠我們兩個吃 喜歡暫時體會在日本街頭吃飯的感覺 很推薦這家喔 不過價格也不便宜 \
+        加上服務費 我們兩人正常食量就吃了1500元了啊 得了懶惰症 但還是決定繼續紀錄美食" },
+      { type: "link", content: "https://photos.app.goo.gl/zdHueKCDdjWt2Zyv7", label: "2023年10月19日 \
+        線香是越南傳統手工的一部分 這次報名當地攝影導遊 是一位英國留學後 做完正職卻毅然朝著攝影夢想的小哥帶領 流利的英腔跟中文 還有幫忙協調行程及擺拍 \
+        其實最後這畫面只有十分鐘的拍攝時間 過程中多是參觀廠房 了解製作的不容易 消磨竹子的過程非常多粉塵 工人都戴兩層以上的口罩 這做久了一定職業病 \
+        畢竟這些小粉塵吸入後會慢慢沈積在肺部 拍攝完我們相機鏡頭也全都粉塵了" },
+      { type: "link", content: "https://photos.app.goo.gl/1TPZ8acM4X2eZEhE6", label: "2021年10月19日 一天的力量來源" },
+      { type: "link", content: "https://photos.app.goo.gl/Y6WHFbHoL8jNuA8B8", label: "2020年10月19日 規劃財務 克制慾望 不能被錢追著跑" },
+      { type: "link", content: "https://photos.app.goo.gl/WEWzzjeXuEzgzJYf6", label: "2018年10月19日 軍費才是最慘的" },
+      { type: "link", content: "https://photos.app.goo.gl/n2Cn85anD1HLzjyC7", label: "2018年10月19日 我在天上飛 活像隻被蜘蛛絲纏著的白癡 害我以為我女友被繩子綁住嚇一跳" },
+      { type: "link", content: "https://photos.app.goo.gl/zYbQQ3AiaWGHfGU2A", label: "2018年10月19日 政府背信軍公教 政府先對不起軍公教 那軍公教能撈能混只是剛好 少在那邊抹黑軍公教還一付自私嘴臉" },
+      { type: "link", content: "https://photos.app.goo.gl/HCuxgQTzKcKRq2v16", label: "2017年10月19日 OMG 東京狂 日本狂 實習狂 大家好我是實習醫師 繁忙之餘拍照舒緩壓力 一個不小心越玩越深 這次到東京實習一個月 在日本的狂照片" },
+      { type: "link", content: "https://photos.app.goo.gl/PrMM9xFbrM7GGebS7", label: "2017年10月19日 喝 吃 下班族醫生好瘋 想醉了 超高濃度清酒快醉" },
+      { type: "link", content: "https://photos.app.goo.gl/QxxB37bMTXbSBbF37", label: "2017年10月19日 正因為不斷挑戰不可能 每天都過得不輕鬆 修圖完畢 睡覺" }
+    ],
+    "20": [
+      { type: "link", content: "https://photos.app.goo.gl/KKw86XDUizu2JYmT8", label: "2024年10月20日 很嚴格捏 但重點不是外表 而是心態 那種想要爽完就跑不認真的男生 才是不行的真正原因" },
+      { type: "link", content: "https://photos.app.goo.gl/gDnwdF18HoB6euk8A", label: "2024年10月20日 好羨慕 想去練" },
+      { type: "link", content: "https://photos.app.goo.gl/5aVuNN553XQvgAjf9", label: "2024年10月20日 請問CXR可能猜測的診斷是是ADHF with pulmonary edema predipitated by ACS嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/VSGWavHtQycy5qER6", label: "2024年10月20日 貓貓表示要好好看看上班的傻瓜" },
+      { type: "link", content: "https://photos.app.goo.gl/MGPticVKj7Eako1aA", label: "2023年10月20日 超愛 這個攝影師拍的河內街景超對味 可惜回國才發現他的作品 可惜了 一定要再回去拍" },
+      { type: "link", content: "https://photos.app.goo.gl/fw3FNTEAxkeuUtvG9", label: "2023年10月20日 淋小雨跑步比較舒服 但還是很沒力" },
+      { type: "link", content: "https://photos.app.goo.gl/it4voNwFP4fRirfh7", label: "2023年10月20日 \
+        這些作品實在有夠震撼 地球實在有夠美 什麼學術地位 金錢權力 酒池肉林我真的一點興趣都沒有 那些都無法撼動內心 去看看這星球多美 去看看星空的絢麗 \
+        窮盡己力把他們拍攝下來 最後享受著現場帶來的光線跟和風 這才是人出生的理由 若上帝賦予你生命生於地球 而你卻不知地球之美 只眷戀人類文明所創的虛假制度跟物質 那真的白活了" },
+      { type: "link", content: "https://photos.app.goo.gl/zs5MSgGsbjP2EE6f7", label: "2023年10月20日 \
+        如果我老了 我會把錢全部用在自己身上 12天紐西蘭拍攝 費用我估計30萬台幣 等我退休以後這輩子一定要帶一起參加一次 加上其他費用大概70萬台幣跑不掉 \
+        70萬圓我這輩子的夢想或許是貴了點 但錢留給後代沒什麼意義 自己辛苦的成果 一定要留給自己享受 這也是時代的趨勢 以此為目標 勉勵自己繼續忍耐這高壓的工作" },
+      { type: "link", content: "https://photos.app.goo.gl/7B2yiLpY3hKQdn56A", label: "2022年10月20日 腎臟內科報告終於結束 從沒想過我會弄懂RTA 不過也只懂皮毛 林校長一發言COMMENT 還是一堆聽不懂的" },
+      { type: "link", content: "https://photos.app.goo.gl/9h31UeM7Bx9fFR3r8", label: "2021年10月20日 好奇為什麼投入股市第一年年底是1.1元 會穩定10%這麼多嗎 正常來說感覺是1.05元+股利" },
+      { type: "link", content: "https://photos.app.goo.gl/Moeyg2giuzYv2bDY6", label: "2021年10月20日 \
+        新竹太味發南洋小吃店 有別於傳統的餛飩跟蝦餅 走高檔精緻的路線 份量跟口味讓人超滿意 蝦雲吞肉燥的那塊肉燥 除了外型特別 還非常好搭配餛飩跟配菜 \
+        豪華叻沙除了有肉質鮮美的大蝦仁 還有肥厚的牡蠣 最後是蝦餅 與美乃滋更是加分再加分 旁邊就是停車場 也沒有太久的候位 吃飯時環境也不會吵雜 我覺得算高檔" },
+      { type: "link", content: "https://photos.app.goo.gl/EtKoD7f9Sv6BGi6M7", label: "2020年10月20日 台北ㄉ天氣也可以像春風一樣嗎 通勤族真的很可憐 冷死濕死樣樣來" },
+      { type: "link", content: "https://photos.app.goo.gl/a8eBjzJ45mXTiBsY8", label: "2020年10月20日 \
+        小弟y2臨床上有個病人滿奇怪的 求眾朋友給點想法QQ 60多歲男 病史是HCVD HTN HCV 並且數十年前因肝硬化接受肝臟移植 最近的病史是去年ich at right basal ganglion \
+        與數週前因PSA高而去他院做prostate切片 無法取得結果 原先是走路行動與意識正常的 本次因早上進廁所時雙下肢無力到自己坐在地上 沒有意識喪失 被老婆發現後送急診 \
+        也發現其右腳腫的狀況不過後來住院第四天左右自己消了 入院及之後三天大概都有斷續燒到39度上下 抽血比較特別的有ck剛入院18000 腿部超音波 靜脈沒有thrombus CXR沒有特別發現 \
+        每天都有尿出快2000 有便秘故開軟便 自從腳無力入院後就沒什麼起來走動 但可正常對答 hcv病毒量尚未有結果 其他病毒或流感均陰性 請問大家有什麼想鑑別診斷的嗎TAT 想了很久實在沒明確頭緒 \
+        雙下肢已掃 沒有DVT問題 重點是住院泌尿道感染打抗生素後三天 就好轉了 腹超好建議 謝謝 請問tb spine是因為雙下肢無力 懷疑神經學症狀嗎 \
+        鼻孔歌說的有道理 我在追蹤一下 只是那個ck真是莫名奇妙 我很怕是驗錯血 但有兩筆不同編號都驗到18000多 所以應該不可能同時送錯" },
+      { type: "link", content: "https://photos.app.goo.gl/MzgWgtQA6Kva16hZA", label: "2018年10月20日 \
+        這麼喜歡哀哀叫大學畢業沒工作家裡又沒錢 不會讓小孩讀軍校嗎 軍校那麼好考 考不上沒學歷隨便都能當志願役 \
+        來海軍一個月薪水五六萬起跳 怎麼不來 不敢吃苦又想做自己喜歡的工作 是當被強迫去志願役吃苦的人白癡嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/4ZYyAtSr5H9ZZ9D7A", label: "2018年10月20日 起碼想走內科的醫師願意吃苦還是能選內科 某醫院軍費生就算吃苦想選內科還不一定選的到 想內科的被丟去外科 想外科的被丟去內科 都是有可能" },
+      { type: "link", content: "https://photos.app.goo.gl/zut5y5suFMh2f8jL8", label: "2018年10月20日 少到可憐的假期 但好開心這一天半我得北中南跑的疲憊假期 有你願意陪我 偷偷說這是全場最可愛的女子" },
+      { type: "link", content: "https://photos.app.goo.gl/1ktL1WRo83MN9q5K6", label: "2018年10月20日 雖然考到照了但還是忘不掉當intern時被副院長電的情景 小菜鳥跑去跟三總副院長social 被電翻的廢intern" },
+      { type: "link", content: "https://photos.app.goo.gl/6RsKfdxusoFYpaUu7", label: "2018年10月20日 台中葳格國際會議中心 大學七年第一次參加學長姊婚禮不是來拍照的 不過 這輩子不會再拍婚禮啦哈哈" }
+    ],
     "21": [],
-    "22": [],
-    "23": [],
-    "24": [],
-    "25": [],
-    "26": [],
-    "27": [],
-    "28": [],
-    "29": [],
-    "30": [],
+    "22": [
+      { type: "link", content: "https://photos.app.goo.gl/jxJbZQScPiGo5rtt5", label: "2017年10月22日 手打ちうどん天下一" },
+    ],
+    "23": [
+      { type: "link", content: "https://photos.app.goo.gl/dKFnmAuBLzuhXkCE6", label: "2017年10月23日 外面出大景 我在醫院乾瞪眼" },
+      { type: "link", content: "https://photos.app.goo.gl/KJLoeVyVbq8MvijEA", label: "2017年10月23日 讀的有點痛苦" },
+      { type: "link", content: "https://photos.app.goo.gl/A3GUuisjRxKHugt48", label: "2017年10月23日 在日本第一次被拖吊 罰單5000" },
+      { type: "link", content: "https://photos.app.goo.gl/97LJ8k836gg5yiv1A", label: "2017年10月23日 天氣超好 好想拍東京人像 好想拍東京夜景 不想開會不想上班啊啊啊啊" }
+    ],
+    "24": [
+      { type: "link", content: "https://photos.app.goo.gl/HEnAFDBwaQK7zmWD8", label: "2017年10月24日 站就要站穩 站高" },
+      { type: "link", content: "https://photos.app.goo.gl/RHMH3mpib1qCSy7XA", label: "2017年10月24日 要在醫院做報告做到九點了 拼個" },
+      { type: "link", content: "https://photos.app.goo.gl/emsZACd5DYMNXLhK9", label: "2017年10月24日 願你是和煦的晨曦之光 朝朝相見" }
+    ],
+    "25": [
+      { type: "link", content: "https://photos.app.goo.gl/zngY886fR88mSTbr8", label: "2017年10月25日 \
+        Top standing 蘭嶼lanyu 有些人詢問攝影後製的家教 目前規劃 一人一小1000 共兩小 兩人一小800人 共兩小 超過一些不多收 有興趣請小盒子私或fb上詢問唷" }
+    ],
+    "26": [
+      { type: "link", content: "https://photos.app.goo.gl/9zAXPstJWqf2VMkW8", label: "2017年10月26日 \
+        這三位是我看過日本最頂尖的攝影師 無論後製構圖, 特別是創意 讓我佩服到底 唯一的遺憾 是即將回國 卻無法跟他們交流 畢竟我什麼咖都不是 \
+        如果有人認識他們 希望能藉由推薦而有交流機會 在此致敬這三位日本高手" },
+      { type: "link", content: "https://photos.app.goo.gl/t7nrYiSG99RoiPse9", label: "2017年10月26日 用功的男人 賢哥 跟耍廢的男人 我" },
+      { type: "link", content: "https://photos.app.goo.gl/Zc3e1wFsEsWUuaH36", label: "2017年10月26日 回國倒數 排班報告規劃行程 弄得身心俱疲 Ps後製家教規劃確定了 |情私訊 歡迎分享追蹤 朝2k邁進 晚安" }
+    ],
+    "27": [
+      { type: "link", content: "https://photos.app.goo.gl/4NeoP7gGdA7n8edX6", label: "2017年10月27日 啟程 他是我的車 也是我今晚的家 為了夢想的畫面 再累都要甘之如飴 只有很努力才能看起來不費吹灰之力 KATSUTA STATION" },
+      { type: "link", content: "https://photos.app.goo.gl/RPs91s2L9a1q35sa7", label: "2017年10月27日 這個月過的很快 TMDU謝謝你 收穫很多 日本頂尖醫學中心" },
+      { type: "link", content: "https://photos.app.goo.gl/2Lutm1nYBtyN6Zqz5", label: "2017年10月27日 感謝各位老師 最後一天在醫院 報告完成 裝備往東北拍攝楓葉啦" }
+    ],
+    "28": [
+      { type: "link", content: "https://photos.app.goo.gl/YJEHurYj73Q49ZQ87", label: "2017年10月28日 乾只有我一個 極度邊緣 有人在奥入瀬附近想找極便宜住宿嗎 附加24小時烤土司吃到飽 私個QQ" }
+    ],
+    "29": [
+      { type: "link", content: "https://photos.app.goo.gl/zSAs1TMWbcTfBSSZ7", label: "2017年10月29日 我出照片的速度是否太快 各位建議" },
+      { type: "link", content: "https://photos.app.goo.gl/KxVy8shQPbcjgRm57", label: "2017年10月29日 拍到楓葉跑進衣服裡面 我穿四件欸 拍照跟打仗一樣zzz" },
+      { type: "link", content: "https://photos.app.goo.gl/9K9XbvLznbXAh2Fh6", label: "2017年10月29日 居然走超過十公里" }
+    ],
+    "30": [
+      { type: "link", content: "https://photos.app.goo.gl/6AmzHctbbGLNN7hbA", label: "2017年10月30日 \
+        趁著記憶猶新 這是一篇這個月日本生活的反省+警惕文 文長 若你對日本自由行有興趣 請參考我的慘痛經驗 \
+        日語程度至少N3是很重要的 別想用英文走透日本 學習日語可以節省很多時間 了解文化 了解規定或問路都太常用到 \
+        這次弄清楚交通+天氣+租車 包含JR地鐵新幹線搭法, 些票卷如何使用 特別是日文網站時刻表與訂票系統都弄清楚了 天氣與楓葉狀況也是使用日本網站 若有朋友不懂可問我 \
+        租車系統也弄熟了 當然路上號誌 是否抓超速 自行加油等都已有概念 \
+        本次不小心咬破自己臼齒一小塊 真的不能為了趕上班狼吞虎嚥 光是牙醫診察 掛號費就3000塊 就不說回國處理牙齒 我又要花多少錢跟時間 另外她們有自動繳款很方便 三總最近開始在弄 \
+        日本自行車如同台灣機車 即使帥如金城武的鮮肉依然騎著有菜籃的腳踏車 更看不到任何火箭筒或雙載這種中二行為 \
+        千萬別亂停腳踏車在路邊 拖吊之後得搭很長一段路取車 保管費5000塊就飛了 另外腳踏車一定要有500元防盜貼紙與夜間照明 新車基本12000以上 二手大概5000-6000 \
+        我在日本弄丟腳踏車鑰匙 結果只能牽去最近的鎖店 新鎖2000 打掉舊鎖1000 \
+        最慘莫過於今天的車禍 很不巧每個假日我都在大雨中開車 本次前車跟我維持40在大雨下坡山路行駛 前車為了閃大巴急煞 我剛好開在水坑 煞車踩到底居然停不下來就這樣撞上 記得在日本你的頭燈壞掉 開在路上是違法 所以一路被拖回車行 \
+        我沒保一天2000的全險 全額免費 拖吊費40000 車禍全額150000加一點點油錢 我當下賠上20萬 完全刷自己戶頭這種事情不知怎麼跟家人說 \
+        租車務必務必保一般險 一天1050只要賠五萬 或全險一天2000不用賠 我心很痛更怪自己因小失大 在日本自駕我算很熟也很小心 萬萬沒想到會打滑 如果你不幸遇上了 包含檢查外觀等等事後處理 都可以問我 \
+        警察的話當參考 他跟我說當天沒有腳踏車拖吊作業結果有 跟我說汽車道路救援免費結果要四萬 \
+        在日本衡量自己伙食費 一餐300500才算便宜 1000上下是它們普通價位 \
+        總之送自己一句話 自作自受 很多小心點可以避免的事情卻還是發生 這些都是這輩子忘不了的慘痛經驗 以後會更謹慎面對 寧可小心而錯過 也不要急於一時貪小便宜而慘賠 \
+        如果你看完文章 非常感謝你 所有能發生的慘況這個月我都經歷了 別像我一樣 回國後需要時間存錢 升級器材這種事還是吃屎吧 \
+        最後的最後 我深深感謝 他為我處理很多事情但我還是雷慘他 萬分抱歉也萬分慚愧啊 \
+        當然也感謝子賢跟哥主任幫忙 我實在太不小心 國外拍照衝景這種事 以後還是少做 受罪受夠了 受罪" },
+      { type: "link", content: "https://photos.app.goo.gl/9eEgKtsf2Sqh81yv8", label: "2017年10月30日 一個月日本發生許多鳥事 希望這些很慘的事情能讓我學到教訓 這輩子凡事都得小心再小心 不斷警惕自己 三思而行並且穩重 勿因小失大" }
+    ],
     "31": [
+      { type: "link", content: "https://photos.app.goo.gl/dC5t4Q5LVPXrEe2p7", label: "2017年10月31日 我要去台灣旅行惹 請問台灣朋友 有沒有什麼景點要介紹的" },
+      { type: "link", content: "https://photos.app.goo.gl/hANJweCo7pUuQ3P16", label: "2017年10月31日 第一次去台灣玩好興奮 請問台灣有什麼推薦景點嗎 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/c6zxSzAq3WCrwp3PA", label: "2017年10月31日 請問回台灣後哪裡可以賣腎或賣屁股的 私我一下不然我要跑路ㄌ" },
+      { type: "link", content: "https://photos.app.goo.gl/kt4szCjcNLS5SBCk8", label: "2017年10月31日 請問台灣有賣腎或賣屁股的地方嗎 不然我要跑路ㄌ" },
+      { type: "link", content: "https://photos.app.goo.gl/EoS3qkSYSF4CRgCX9", label: "2017年10月31日 東京掰" },
       { type: "link", content: "https://photos.app.goo.gl/3NDUudjQUo5zTVRd8", label: "2016年10月31日 高雄榮民總醫院 終於能當身心靈健康快樂der英藤惹" }
     ]
   },
 
   "11": {
-    "1": [],
-    "2": [],
-    "3": [],
+    "1": [
+      { type: "link", content: "https://photos.app.goo.gl/GpU9TeTZFeadyS6F8", label: "2017年11月1日 \
+        風景後製家教預計11月底開始 北部為主 其他縣市可討論 會釋出所有我會的技巧 不保留 看你能學到哪裡 課後及後續也能發問 \
+        私人原因沒有女生一對一家教 但會規劃班級課程歡迎所有人 請見諒 我要閉關修練更深層次的後製了" }
+    ],
+    "2": [
+      { type: "link", content: "https://photos.app.goo.gl/e5UfZsjwRhXU3uGX8", label: "2017年11月2日 收心準備到急診室上班 相機就在防潮箱住一陣子吧" },
+      { type: "link", content: "https://photos.app.goo.gl/q5bP5dMhjH8htDCW6", label: "2017年11月2日 \
+        OMG 日本特輯 東北奧入瀨 楓葉 整理了一點經驗跟照片 想去日本奧入瀨拍攝的朋友 歡迎參考唷 \
+        在日本自駕算是有經驗 但這次也遇上小車禍 有任何關於日本自駕如何申辦 小心事項 保險差別還有拍照景點 請追蹤ig並且從ig私訊詢問唷 我很樂意分享更多經驗" }
+    ],
+    "3": [
+      { type: "link", content: "https://photos.app.goo.gl/U9Q4guUoruRoBKhJ6", label: "2017年11月3日 Back to Taichung and Tainan" },
+      { type: "link", content: "https://photos.app.goo.gl/addufx6wsa1Mi1YW6", label: "2017年11月3日 不管再晚都會有人跌倒撞頭 縫了幾個病人頭皮了 半夜走進浴室請各位小心啊 三總急診室 愛睏不能睏" }
+    ],
     "4": [],
     "5": [],
     "6": [],
     "7": [],
     "8": [
+      { type: "link", content: "https://photos.app.goo.gl/3J5rTuuNUVN8h7UB9", label: "2017年11月8日 回到內湖三總 準備今晚的演講 還有一個禮拜多連續急診上班" },
       { type: "link", content: "https://photos.app.goo.gl/AsJJ5kjzacQxw8QKA", label: "2016年11月8日 徵外拍模特兒 清新健康 攝影本是快樂事 車馬費詳談 可長期 文藻外語大學 西三C教室" }
     ],
     "9": [],
@@ -1882,9 +2038,26 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/5uxQhntJZdxREUah7", label: "2016年11月11日 夠綠了還抽綠菸 沒事兒沒事兒 這跟抽完就要戒了 戒菸門診 抽煙 慎思" }
     ],
     "12": [],
-    "13": [],
-    "14": [],
-    "15": [],
+    "13": [
+      { type: "link", content: "https://photos.app.goo.gl/oRC8qFPu8Z7kw1S49", label: "2017年11月13日 學障生日快樂唷 哈哈學長對不起 選字選太快 是長哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/sTGrtgruxpiRAn1w8", label: "2017年11月13日 大家去睡覺 留我獨守空急診室 三總急診室 睏" }
+    ],
+    "14": [
+      { type: "link", content: "https://photos.app.goo.gl/FPmR6VvU63VacsFKA", label: "2017年11月14日 各位 教學Ppt完成囉 靜待我擬定攝影教學簡介跟說明" }
+    ],
+    "15": [
+      { type: "link", content: "https://photos.app.goo.gl/iwgoACHHBfo24dwn9", label: "2017年11月15日 \
+        遇到很棘手的case 男65 右胸痛到右臂 右手冰冷酸痛 大約一個禮拜 無搬重物無外傷 病史只有氣喘 CXR CHEST CT EKG都沒問題 目前等抽血data 請問我該懷疑什麼 覺得不是扭傷就是什麼血管堵住" },
+      { type: "link", content: "https://photos.app.goo.gl/7CyExPdU9Br4hmBF9", label: "2017年11月15日 攝影後製正式接受預約 實習繁忙 每個月不會接太多 但必定全力教學分享" },
+      { type: "link", content: "https://photos.app.goo.gl/WrtyD9AkDB55PPba8", label: "2017年11月15日 \
+        囚裡望天 是想飛天俯瞰 還是不甘拘束 攝影後製家教正式開始囉 教學內容 會先了解你目前程度作調整 但基本會有 基礎講解 構圖光線等想法 包含晨昏高反差 銀河 氣象判讀 \
+        後製步驟 完整圖層遮色片 延伸 若已經熟悉遮色片 可利用時間多教亮度蒙版 須自己有亮蒙軟體 費用時間 一人兩小時2000 兩人兩小時1800一人 三人兩個半小時1600一人 \
+        已繳費確定上課者 時間允許可提前帶拍不多收費 注意事項 報名或任何問題直接私igfb本人 兩個禮拜前 不需太早 因為實習關係我只能在月底排定下個月班表 \
+        匯款一半經費當訂金 後約上課時間 北部為主 其他縣市若無法 則介紹其他教學 保證超專業 地點可約自宅 速食店 咖啡廳等有插座與桌子處 超時問問題不多收費用 \
+        ppt無法copy給予 也無法錄音錄影 但可當場做筆記紀錄 一對一限男性 以上 十萬分跪謝支持" },
+      { type: "link", content: "https://photos.app.goo.gl/BSg95pKUEBRGYymG8", label: "2017年11月15日 \
+        今晚病人多到哭 各種奇奇怪怪 有要跟醫師pk打架ㄉ 有摔酒杯手掌動脈噴血 有妹子自割脖子因為跟閨蜜吵架 有恨三總醫生還是來三總急診的破眼皮大叔 還有很多其他的說不完" }
+    ],
     "16": [],
     "17": [],
     "18": [],
