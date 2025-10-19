@@ -1847,6 +1847,16 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/siqb6ZkRGnLH9K4eA", label: "2016年10月17日 xmen fundus Ophthalmoscope 眼科intern最終型態" }
     ],
     "18": [
+      { type: "link", content: "https://photos.app.goo.gl/WZ8drB3kc8SnbMzr9", label: "2025年10月18日 民進黨好不容易掌握政權 想要好好官商勾結大賺一筆 你這個委員不識相 當人家財路幹嘛 難怪他們弄完柯文哲下個弄你" },
+      { type: "link", content: "https://photos.app.goo.gl/dJzT1yh1BCXgkfsh8", label: "2025年10月18日 這麼險峻你怎麼不趕快從軍保衛國家" },
+      { type: "link", content: "https://photos.app.goo.gl/LRScmeVTaMZwmpnt6", label: "2025年10月18日 來看同事的小寶寶 意外發現同事老公居然是大十屆的國防學長欸 世界太小了" },
+      { type: "link", content: "https://photos.app.goo.gl/H9FuffARtCcfp7Ry6", label: "2025年10月18日 等下健身" },
+      { type: "link", content: "https://photos.app.goo.gl/ASg3wKkGSqNCsmsv7", label: "2025年10月18日 好可愛 騙人要開電扇結果又關起來" },
+      { type: "link", content: "https://photos.app.goo.gl/z8fDEbpVdKByQGtv5", label: "2025年10月18日 這個必須去買" },
+      { type: "link", content: "https://photos.app.goo.gl/cpwQSrxNXBpoM56o6", label: "2025年10月18日 超想去 因為觀光客人好少" },
+      { type: "link", content: "https://photos.app.goo.gl/wRT9oxnMRUwjgeTp9", label: "2025年10月18日 超可愛 不知道在哪" },
+      { type: "link", content: "https://photos.app.goo.gl/w2uiBm9zos4Y1C2y8", label: "2025年10月18日 不能一直看這個啦" },
+      { type: "link", content: "https://photos.app.goo.gl/EMb2Ff3JwfEJbZRN6", label: "2025年10月18日 醫生真聰明" },
       { type: "link", content: "https://photos.app.goo.gl/25qMv1CyiyQHUbg19", label: "2024年10月18日 \
         現在的Chatgpt真的讓人震驚 尤其直接讀圖的能力實在太強 我把教科書隨意一張圖丟入 chatgpt居然能完整回答 雖然有一兩個地方可能是判讀失誤 \
         但大致上結論沒什麼問題 真的非常可怕 膽小狗英雄裡二樓的超級電腦 應該就是未來的chatgpt 我試過把國外講者的ppt拍照截圖丟入 \
@@ -1874,6 +1884,18 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/UnkB4eZnJCsYWTrm8", label: "2018年10月18日 出海Day3 又消失了" }
     ],
     "19": [
+      { type: "link", content: "https://photos.app.goo.gl/qG83nWT6BMkmUtgP6", label: "2025年10月19日 \
+        分享一下上次吃到的高雄美食 這次去高雄 發現愛河現在規劃的超級棒 不只環境乾淨 夜景跟攤販都很漂亮很有情調 真的很讚 反倒是台南漁光島徹底爛掉QQ \
+        整理了幾家很不錯的店推薦給大家 樂壽司 樂すし 炙燒三味丼 鮭魚干貝跟牛肉從入口到嚥下都有不同層次的風味 配上有別於普通醋飯的香鬆醋飯 \
+        飯粒保有彈性卻把清甜跟鬆香融為一體 如幸福的浪潮拍打在舌尖 茶碗蒸 壽司 炸牡蠣跟味增湯 也具現化了細膩跟功夫 價格稍貴 份量不多而且要等10分鐘 \
+        但都不影響我下次再來的決心 鴨肉珍 排隊約15分鐘 切成剛好一口的鴨肉 配上香肥肉燥飯 簡直太好吃 鴨血跟空心菜也超好下飯 這是傳統台灣人的早餐 \
+        Shoreline Coffee Roaster 海岸線咖啡燈塔店 很不錯的外帶咖啡跟奶茶 出餐快 旁邊也很好拍旗津市區搭配85大樓 雙妃奶茶 甜度適當 奶味很夠 以下我個人覺得還好 \
+        香茗茶行 霜淇淋普通 十秒就開始融化建議用紙杯 伯爵鮮奶茶沒有那麼濃郁 桐封堂Tea House 網路好評的鍋燒意麵跟珍珠奶茶 但牛奶口味鍋燒意麵味道不夠深入 配料也普通 奶茶部分是不錯 " },
+      { type: "link", content: "https://photos.app.goo.gl/C2zhk54qoEZL5Mu48", label: "2025年10月19日 好美喔 每張都很漂亮尤其第一張捏" },
+      { type: "link", content: "https://photos.app.goo.gl/vBx7SAq96i7Ft87ZA", label: "2025年10月19日 你可以創立在日本的台灣人頻道了 日本的介紹跟景色可以多帶一點 其實我們都超想看 有點太快閃過去" },
+      { type: "link", content: "https://photos.app.goo.gl/ufFd44opkJnMrzn79", label: "2025年10月19日 怎麼可能這麼可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/AexcrqkLWYTGgBmy9", label: "2025年10月19日 可愛到以為ai哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/JszMCwiwdK6HDgR88", label: "2025年10月19日 真可愛捏" },
       { type: "link", content: "https://photos.app.goo.gl/fdo4tz1t6ErAnV4t9", label: "2024年10月19日 \
         我實在不能理解也無法接受 努力工作直到退休再出去旅遊環遊世界 撇除老了只剩下車尿尿考量以外 這個世界大到用一輩子都看不完 \
         學術地位 政治地位 金錢等這些在闔上眼那刹那完全沒有意義 只有腦海裡留下那些世界各處漂亮的風景才是屬於自己能帶走的 \
@@ -2058,25 +2080,67 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/BSg95pKUEBRGYymG8", label: "2017年11月15日 \
         今晚病人多到哭 各種奇奇怪怪 有要跟醫師pk打架ㄉ 有摔酒杯手掌動脈噴血 有妹子自割脖子因為跟閨蜜吵架 有恨三總醫生還是來三總急診的破眼皮大叔 還有很多其他的說不完" }
     ],
-    "16": [],
+    "16": [
+      { type: "link", content: "https://photos.app.goo.gl/LzGQV6HbWA74eN9y5", label: "2017年11月16日 \
+        如果可以我也想以拍照為職遊走天涯 但很可惜 當初的選擇必須走下去 白袍的重量不輕 其實每個人都是這樣 都有他自己的生活 自己的故事 要去完成 這是我家鄉的日出雲海 歡迎一遊純樸的台南" },
+      { type: "link", content: "https://photos.app.goo.gl/MZcSQCPV8Bjf573m7", label: "2017年11月16日 答 帶狀皰疹 蛇皮 掀開衣服一看答案出現 因為帶狀皰疹通常前胸先痛 慢慢往肢體痛下去 之後才出現紅疹 也難怪昨天萬分急診沒有抓出來" }
+    ],
     "17": [],
     "18": [],
     "19": [],
-    "20": [],
-    "21": [],
-    "22": [],
+    "20": [
+      { type: "link", content: "", label: "2017年11月20日 \
+        井裡望天 是想俯瞰大地 還是不甘拘束 近期開始攝影後製的家教課囉 有興趣的朋友詳細如下 \
+        教學內容 會先了解您目前程度作調整 但基本會有 基礎講解 構圖光線等想法 包含晨昏高反差銀河 氣象判讀 後製步驟 完整圖層遮色片 \
+        延伸 若已經熟悉遮色片 可利用時間多教亮度蒙版 須自己有亮蒙軟體 費用時間 一人兩小時2000 兩人兩小時1800一人 三人兩個半小時1600一人 \
+        已繳費確定上課者 時間允許可提前帶拍不多收費 注意事項 報名或任何問題直接私igfb本人 兩個禮拜前確定時間 匯款一半經費當訂金 後約上課時間 \
+        北部為主 其他縣市若無法會介紹其他教學 保證超專業 地點可約自宅 速食店 咖啡廳等有插座與桌子處 超時問問題不多收費用 \
+        ppt無法copy給予 也無法錄音錄影 但可當場做筆記紀錄 一對一限男性" }
+    ],
+    "21": [
+      { type: "link", content: "https://photos.app.goo.gl/agjFjVueCfvaM4y48", label: "2017年11月21日 到底 救護車膩 我的智障室友" }
+    ],
+    "22": [
+      { type: "link", content: "https://photos.app.goo.gl/cYf3diFJ6qwMKbi98", label: "2017年11月22日 \
+        使用luminosity能讓我快速 無痕跡的合成銀河 無天空地面交界的多餘痕跡 想知道如何製作 可以私我 預約我的後製家教課程" }
+    ],
     "23": [
       { type: "link", content: "https://photos.app.goo.gl/jbCkD6HoxzGd7iRE6", label: "2016年11月23日 來幫學長測試第一台VHIT 暈眩門診 VHIT VIN 眼震測試" }
     ],
-    "24": [],
+    "24": [
+      { type: "link", content: "https://photos.app.goo.gl/U5DXsEhSmXXMrRD3A", label: "2017年11月24日 後來發現越燒越高 全身無力應該是流感 一驗果然B流 開完自費Rapiacta給他回家 只是做個經驗紀錄大家都很強看完笑笑就好" },
+      { type: "link", content: "https://photos.app.goo.gl/ajFT5ZTtXJnJywJ19", label: "2017年11月24日 27男沒病史 感冒症狀 四肢無力 想吐 但沒吐三天 Blood routine CXR正常 燒到38.8 感覺是病毒感染的呼吸道症狀 為何肝功能會變高呢" }
+    ],
     "25": [
       { type: "link", content: "https://photos.app.goo.gl/FbXzz68BwBD4WZt3A", label: "2016年11月25日 CILF 幹伶娘你們是在嗆三小 找死是不是 沒有很可以 但你惹不起" }
     ],
     "26": [],
-    "27": [],
-    "28": [],
-    "29": [],
+    "27": [
+      { type: "link", content: "https://photos.app.goo.gl/h96GXsg1FRFLCNiJ7", label: "2017年11月27日 \
+        12月份班表已經出來 之前有跟我約攝影家教 或現在想約家教的朋友 歡迎跟我聯絡確定時間唷 抱歉醫院事務繁忙 排班很慢 小弟致上萬分感謝 \
+        後製家教時間 為全天可約時間 若想知道詳細規則可私 感謝" },
+      { type: "link", content: "https://photos.app.goo.gl/M2oZPreKyHVxt3758", label: "2017年11月27日 Magic book teached me to magic the city" },
+      { type: "link", content: "https://photos.app.goo.gl/3czeLLUwZbhvQ5wn9", label: "2017年11月27日 wu_chan_hsu 何其幸運才能遇到也喜歡拍照的妳 更幸運的是有妳走過許多風景 因為遇見妳過去的一切都值得 我會努力要求自己 穩紮穩打更成長 謝謝妳" },
+      { type: "link", content: "https://photos.app.goo.gl/DLQtSSwrhmLRHAzq5", label: "2017年11月27日 第一次以醫生身份壓救護車 心臟差點沒跳出來 塞車時開120絕對比玩任何賽車遊戲刺激" }
+    ],
+    "28": [
+      { type: "link", content: "https://photos.app.goo.gl/UBzQ27TgrACG8PEG7", label: "2017年11月28日 \
+        12月課程報名開始囉 秋葉原の日落火燒 12月風景後製家教開始預約囉 目前以北部為主 可全天預約 了解詳情與報名 私訊我即可 \
+        內容有基礎課程 構圖 光線處理或進階遮色片 甚至亮度蒙版的使用 高反差 銀河 城市夜景或者大景合成都不私藏 後製或攝影技巧只會在課程完整回答教學 \
+        不會在私訊透露 一對一限男性 教學是名目 我不以此為賺錢目的 當成交朋友的機會囉 任何問題課後皆不吝回答 中南部若我無法 會推薦其他超專業攝影師 絕對滿意 \
+        歡迎大家一起研究後製 讓作品邁向更高層次吧" }
+    ],
+    "29": [
+      { type: "link", content: "https://photos.app.goo.gl/bNAS2XDdc2mTyCdA7", label: "2017年11月29日 壓救護車最後一回 結束這個月汀州急診的上班日子" },
+      { type: "link", content: "https://photos.app.goo.gl/HWzRkCrUJJzvRAxv6", label: "2017年11月29日 唉我頭頂上白白霧霧的 就是現在大屯大家拍很爽的雪海 上班上好上滿 放假天氣再剛好變爛 人生真是茶几" },
+      { type: "link", content: "https://photos.app.goo.gl/8BsA8MHRnAP4VA2DA", label: "2017年11月29日 三軍醫院汀州院區 難得晴天 真的很適合上班呢" },
+      { type: "link", content: "https://photos.app.goo.gl/PoMc945NeyNyxfDa9", label: "2017年11月29日 \
+        每次遇到有症狀卻又查不出明顯異常 都只能給一些似是而非的診斷 好不踏實 剛剛那位我給 s/p upper airway inf COPD with AE 求指教 三軍醫院汀州院區" },
+      { type: "link", content: "https://photos.app.goo.gl/7vxKHua9ii2jo9Wr8", label: "2017年11月29日 \
+        76女高血壓 心血管病史目前服用抗肺癌藥 這次咳嗽有痰兩天 胸口辣辣的 抽血WBC正常 腎功能稍高 心臟酵素正常 胸部×光 心電圖正常沒發燒 嗯 會是上呼吸道感染嗎 詢問病史不像胃食道逆流 " }
+    ],
     "30": [
+      { type: "link", content: "https://photos.app.goo.gl/8xXKsfiihz4jNnTT7", label: "2017年11月30日 第一天值班" },
       { type: "link", content: "https://photos.app.goo.gl/yAsywEugFXvjtrNN7", label: "2016年11月30日 高雄一個月尾聲到了 在這裡發生了很多事情 知足常在 高雄榮總 尾聲" }
     ]
   },
