@@ -1925,6 +1925,10 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/QxxB37bMTXbSBbF37", label: "2017年10月19日 正因為不斷挑戰不可能 每天都過得不輕鬆 修圖完畢 睡覺" }
     ],
     "20": [
+      { type: "link", content: "https://photos.app.goo.gl/VvKBV7ZxvTHDjtqF7", label: "2025年10月20日 \
+        今天出公差協助OSCE模擬考評分 結果有醫學生請病人用沒有背靠的方式 先做45度仰臥然後開始檢查 \
+        就是仰臥起做一半的姿勢 我看了三分鐘病人好像快撐不下去 趕快請他躺下 模擬病人真是太辛苦了" },
+      { type: "link", content: "https://photos.app.goo.gl/wozvBGWVeeY5HbPu9", label: "2025年10月20日 超級讚" },
       { type: "link", content: "https://photos.app.goo.gl/KKw86XDUizu2JYmT8", label: "2024年10月20日 很嚴格捏 但重點不是外表 而是心態 那種想要爽完就跑不認真的男生 才是不行的真正原因" },
       { type: "link", content: "https://photos.app.goo.gl/gDnwdF18HoB6euk8A", label: "2024年10月20日 好羨慕 想去練" },
       { type: "link", content: "https://photos.app.goo.gl/5aVuNN553XQvgAjf9", label: "2024年10月20日 請問CXR可能猜測的診斷是是ADHF with pulmonary edema predipitated by ACS嗎" },
@@ -1958,9 +1962,29 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/1ktL1WRo83MN9q5K6", label: "2018年10月20日 雖然考到照了但還是忘不掉當intern時被副院長電的情景 小菜鳥跑去跟三總副院長social 被電翻的廢intern" },
       { type: "link", content: "https://photos.app.goo.gl/6RsKfdxusoFYpaUu7", label: "2018年10月20日 台中葳格國際會議中心 大學七年第一次參加學長姊婚禮不是來拍照的 不過 這輩子不會再拍婚禮啦哈哈" }
     ],
-    "21": [],
+    "21": [
+      { type: "link", content: "https://photos.app.goo.gl/BXuuSJZLg7jKb4er9", label: "2024年10月21日 但只要沒辦法確定 就是不確定 不是100%就不是純了啊 沒有任何檢測方式知道是不是純" },
+      { type: "link", content: "https://photos.app.goo.gl/PuS1XAubjH6divMt7", label: "2024年10月21日 異性不可能有純友誼 因為誰也無法猜透對方內心到底在想什麼 這個就是一個例子" },
+      { type: "link", content: "https://photos.app.goo.gl/KGdD1SyHTdHggC3j9", label: "2024年10月21日 感恩惜福 希望自己未來也能把東西再傳承下去" },
+      { type: "link", content: "https://photos.app.goo.gl/sJ2Uvgek1NnMfKRc9", label: "2024年10月21日 好猛 我從小到大還沒收過這種生日禮物欸 倒是檯燈要繳回家" },
+      { type: "link", content: "https://photos.app.goo.gl/iB8e21jr5xJpevfw6", label: "2024年10月21日 蛤貓欸" },
+      { type: "link", content: "https://photos.app.goo.gl/DiLz62TEiponbLBa7", label: "2024年10月21日 萬聖節打扮" },
+      { type: "link", content: "https://photos.app.goo.gl/8jFcHqaC94qcrNTo8", label: "2024年10月21日 好 走" },
+      { type: "link", content: "https://photos.app.goo.gl/UPsg1S9QrQpwBPbW6", label: "2023年10月21日 陳建賓生日快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/1sfwYtLhtTAKNsRo6", label: "2022年10月21日 來腎臟科聽到一個有趣的問題 請問正常的UAG是多少 答案在下一頁 可以思考一下再往下翻 \
+        如果回答UAG在正常情況下<0 是一個不完全正確的答案 因為如果一個正常的人 去驗UAG 會發現UAG是>0 \
+        正確的答案應該是 在酸血症的情況下 UAG應該要<0才是正常 要特別把前提確立清楚 NEP真是充滿學問的一科" },
+      { type: "link", content: "https://photos.app.goo.gl/HXApkdWF5nY4xWR56", label: "2022年10月21日 怎麼很像阿幼生病的時候" },
+      { type: "link", content: "https://photos.app.goo.gl/ikpoya4qiG8k6hKK8", label: "2021年10月21日 也未免太厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/p62MjQDUekvZfcvq6", label: "2021年10月21日 病人從2X個變成剩下14個 好像有輕鬆一點了 就一點 一點 點" },
+      { type: "link", content: "https://photos.app.goo.gl/KR1XvWfpWtrtFYKt7", label: "2021年10月21日 家的溫暖" },
+      { type: "link", content: "https://photos.app.goo.gl/Dk6qR9zBvcwFG6Si7", label: "2021年10月21日 學長其實我覺得講裝病不太對 這種環境真的會讓人生病 只是大多數人選擇繼續忍耐" },
+      { type: "link", content: "https://photos.app.goo.gl/yd5RKd9HM6EJ5sMT9", label: "2020年10月21日 主治要我隨便報就好 但第一次認真花超過6個小時做ppt 晚上完全沒陪到 用了一大堆時間看到眼睛花" },
+      { type: "link", content: "https://photos.app.goo.gl/GGpVpmCovVrScat57", label: "2020年10月21日 這些字真的小到靠北 筆記也得寫的小到靠北 現在還看的清楚 但十年後說不定就慢慢看不清楚小字了 希望能在看不清楚之前記進腦袋" },
+      { type: "link", content: "https://photos.app.goo.gl/22hd7dg3ZFYLhB6X7", label: "2020年10月21日 腎功能正常的狀況做追蹤 Creatinine&BUN只抽一個的話 大家會抽哪個" }
+    ],
     "22": [
-      { type: "link", content: "https://photos.app.goo.gl/jxJbZQScPiGo5rtt5", label: "2017年10月22日 手打ちうどん天下一" },
+      { type: "link", content: "https://photos.app.goo.gl/jxJbZQScPiGo5rtt5", label: "2017年10月22日 手打ちうどん天下一" }
     ],
     "23": [
       { type: "link", content: "https://photos.app.goo.gl/dKFnmAuBLzuhXkCE6", label: "2017年10月23日 外面出大景 我在醫院乾瞪眼" },
