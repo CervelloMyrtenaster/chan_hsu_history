@@ -1928,6 +1928,12 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/VvKBV7ZxvTHDjtqF7", label: "2025年10月20日 \
         今天出公差協助OSCE模擬考評分 結果有醫學生請病人用沒有背靠的方式 先做45度仰臥然後開始檢查 \
         就是仰臥起做一半的姿勢 我看了三分鐘病人好像快撐不下去 趕快請他躺下 模擬病人真是太辛苦了" },
+      { type: "link", content: "https://photos.app.goo.gl/TmsR88d47rT68mUo8", label: "2025年10月20日 好想再去" },
+      { type: "link", content: "https://photos.app.goo.gl/zWbzwhho6VFSwDbk6", label: "2025年10月20日 這個圖真好用" },
+      { type: "link", content: "https://photos.app.goo.gl/FbrGsgG8jxSxutQw9", label: "2025年10月20日 我覺得他是感動的哭哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/uJPKEjZYEXHHVV2F7", label: "2025年10月20日 必須要有錢 我也想要" },
+      { type: "link", content: "https://photos.app.goo.gl/BfXVYpzBT7x5S6Ts9", label: "2025年10月20日 這樣很棒啊哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/w9cjBSSv62ma9ZR26", label: "2025年10月20日 扯哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/wozvBGWVeeY5HbPu9", label: "2025年10月20日 超級讚" },
       { type: "link", content: "https://photos.app.goo.gl/KKw86XDUizu2JYmT8", label: "2024年10月20日 很嚴格捏 但重點不是外表 而是心態 那種想要爽完就跑不認真的男生 才是不行的真正原因" },
       { type: "link", content: "https://photos.app.goo.gl/gDnwdF18HoB6euk8A", label: "2024年10月20日 好羨慕 想去練" },
