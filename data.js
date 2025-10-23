@@ -1969,6 +1969,9 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/6RsKfdxusoFYpaUu7", label: "2018年10月20日 台中葳格國際會議中心 大學七年第一次參加學長姊婚禮不是來拍照的 不過 這輩子不會再拍婚禮啦哈哈" }
     ],
     "21": [
+      { type: "link", content: "https://photos.app.goo.gl/3JyAvqajY3JSXREn8", label: "2025年10月21日 越南超讚 我猜要去對地方" },
+      { type: "link", content: "https://photos.app.goo.gl/f2MLMjwgcCN1fFHQ9", label: "2025年10月21日 請問是空拍機拍攝的嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/4CXxtQF8Q5QZdNod6", label: "2025年10月21日 希望他找到家" },
       { type: "link", content: "https://photos.app.goo.gl/SybcRztAZMKc9JjEA", label: "2025年10月21日 幹 這麼明顯這麼鐵錚錚的事實 用媒體的力量造謠說謊用 還能容許NCC的人 跟當初能容忍中天的人有什麼不一樣xdd" },
       { type: "link", content: "https://photos.app.goo.gl/ksZsjXQHPTpC4cAy9", label: "2025年10月21日 外表光鮮亮麗的父權社會的智障Y" },
       { type: "link", content: "https://photos.app.goo.gl/BXuuSJZLg7jKb4er9", label: "2024年10月21日 但只要沒辦法確定 就是不確定 不是100%就不是純了啊 沒有任何檢測方式知道是不是純" },
@@ -1992,6 +1995,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/22hd7dg3ZFYLhB6X7", label: "2020年10月21日 腎功能正常的狀況做追蹤 Creatinine&BUN只抽一個的話 大家會抽哪個" }
     ],
     "22": [
+      { type: "link", content: "https://photos.app.goo.gl/sPPXWbpuCXnS2a626", label: "2025年10月22日 差多了 我衣服都有攤平 只有襪子懶得反面" },
       { type: "link", content: "https://photos.app.goo.gl/2KewroPG5Ny9rBi2A", label: "2024年10月22日 醫師也一樣吧 留在大醫院的住院醫生血汗到不行 去診所那麼舒服 有機會都馬走醫美跟小科去了" },
       { type: "link", content: "https://photos.app.goo.gl/uGBwiBFEqhDsrzDH9", label: "2024年10月22日 完全正常 台灣醫師護理師這種北七低薪你還期待有多少人力在第一線顧病房 還有機會等 還沒崩盤你就要偷笑了" },
       { type: "link", content: "https://photos.app.goo.gl/CdvchWk2kXDCsZ6n6", label: "2024年10月22日 有這樣的貓貓你會幾點回家" },
@@ -2007,6 +2011,16 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/jxJbZQScPiGo5rtt5", label: "2017年10月22日 手打ちうどん天下一" }
     ],
     "23": [
+      { type: "link", content: "https://photos.app.goo.gl/zaPqrxrCAA2ApyLQ9", label: "2025年10月23日 \
+        我在他這個年紀也是畫青眼白龍 孫悟空 還有自己的連載漫畫 結果上國中被逼著讀書從此跟美術無緣 小弟弟千萬別像我這樣荒廢了 好好保持這個天賦啊" },
+      { type: "link", content: "https://photos.app.goo.gl/YJjutXDZdKhUKuXC9", label: "2025年10月23日 多數這種發言的人都知道自己多丟臉用假帳號 但你居然敢申請藍勾勾 讓大家知道你多丟臉 也是不簡單 respect" },
+      { type: "link", content: "https://photos.app.goo.gl/2HA2TTbL1GUgYiAo6", label: "2025年10月23日 點開ig 開始編故事 看看多少人受騙 啊等等 粉絲人數怎麼才554" },
+      { type: "link", content: "https://photos.app.goo.gl/5UNGsZLZutvjXtsS8", label: "2025年10月23日 根本兒子寶哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/CfM77PMdHrihSrXE6", label: "2025年10月23日 他感覺超爽的哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/f1hpaLNX76EHyQRX7", label: "2025年10月23日 去日本買" },
+      { type: "link", content: "https://photos.app.goo.gl/FUkTcpmfWJ9cDwdAA", label: "2025年10月23日 原來如此 謝謝您 想走來這裡拍" },
+      { type: "link", content: "https://photos.app.goo.gl/ws7NoLAzeL4EbXUz5", label: "2025年10月23日 請問第三個影片拍攝點是哪呢 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/rMjnKoxri9zXr5x96", label: "2025年10月23日 八仙瀑布 傾瀉而下的晨光 與晨霧水氣交織 很久沒有再訪這個景點 對於大自然的熱愛與憧憬 還是得先靠著照片慢慢醞釀" },
       { type: "link", content: "https://photos.app.goo.gl/xkzQWqNBBQAGmXAdA", label: "2024年10月23日 你會幫礦開order嗎 會跟礦病解嗎 不會的話怎麼能用當礦來形容 顧RCW也需要一定內科水準 找路邊阿貓阿狗來顧 說不定連病人快死了都不知道" },
       { type: "link", content: "https://photos.app.goo.gl/hAEhdAMpPaR8KodJ6", label: "2024年10月23日 超氣啊 醫師在醫院都做功德 一個月業績數百萬的 薪水只拿到幾十萬 犧牲夢想犧牲家人犧牲健康 結果待遇這樣差超可憐 台灣健保倒一倒 醫師的薪水才會合理" },
       { type: "link", content: "https://photos.app.goo.gl/NQ2PuM9Um5NEg1yZ7", label: "2024年10月23日 有撫慰到上班上到心累的我了嗚嗚嗚嗚" },
