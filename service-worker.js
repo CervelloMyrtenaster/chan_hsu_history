@@ -1,19 +1,22 @@
 // 快取的名稱加上版本號
-const CACHE_NAME = 'chan-hsu-history-20251024-1955';
+const CACHE_NAME = 'chan-hsu-history-20251024-2330';
 
 // 需要被快取的核心檔案
 const urlsToCacheOnInstall = [
-  './',
-  './index.html',
-  './style.css',
-  './app.js',
-  './og-image.jpg',
-  './icon-192.png',
-  './icon-512.png',
-  './icon-maskable.png',
-  './manifest.json',
-  'https://cdn.jsdelivr.net/npm/chart.js',
-  'https://cdn.jsdelivr.net/npm/wordcloud@1.2.2/src/wordcloud2.js'
+    './',
+    './index.html',
+    './style.css',
+    './app.js',
+    './og-image.jpg',
+    './icon-152.png',
+    './icon-167.png',
+    './icon-180.png',
+    './icon-192.png',
+    './icon-512.png',
+    './icon-maskable.png',
+    './manifest.json',
+    'https://cdn.jsdelivr.net/npm/chart.js',
+    'https://cdn.jsdelivr.net/npm/wordcloud@1.2.2/src/wordcloud2.js'
 ];
 
 // 1. 安裝 Service Worker
@@ -21,8 +24,11 @@ self.addEventListener('install', event => {
   event.waitUntil(
     caches.open(CACHE_NAME)
       .then(cache => {
-        console.log('Opened cache and caching app shell');
-        return cache.addAll(urlsToCacheOnInstall);
+        console.log('Opened cache and caching app shell including new icons');
+        return cache.addAll(urlsToCacheOnInstall)
+          .catch(error => {
+            console.error('Failed to cache during install:', error);
+          });
       })
   );
 });
