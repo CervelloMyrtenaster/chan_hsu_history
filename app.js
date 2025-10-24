@@ -422,7 +422,7 @@ function showRecords(month, day, skipPush = false) {
 
     let newContentHTML = pageHeaderHTML;
 
-    // --- 3. 智慧渲染：根據年份數量選擇視圖 ---
+    // --- 3. 智慧渲染 根據年份數量選擇視圖 ---
     if (yearCount > 1) {
         // **渲染橫向時間軸視圖**
         newContentHTML += '<div class="timeline-view-container"><div class="timeline-track">';        
@@ -1077,6 +1077,15 @@ document.getElementById("homeBtn").addEventListener("click", () => {
 
 // onload 與 popstate (歷史紀錄/分享網址支援)
 window.onload = () => {
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('./service-worker.js')
+        .then(registration => {
+          console.log('ServiceWorker 註冊成功, scope: ', registration.scope);
+        })
+        .catch(err => {
+          console.log('ServiceWorker 註冊失敗: ', err);
+        });
+    }
     pruneInvalidFavorites();
 
     const savedTheme = localStorage.getItem('theme');

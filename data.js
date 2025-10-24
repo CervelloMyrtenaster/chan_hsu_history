@@ -806,7 +806,7 @@ const records = {
     "15": [
       { type: "link", content: "https://photos.app.goo.gl/PJiEDk9deJY2yMtD8", label: "2017年9月15日 \
         上半月交班離開前不打病歷 留給我下半月打 到底什麼意思 十幾篇喔補起來真的很賭爛 把爛攤丟給下個月的很爽 幹 \
-        (九月上半的intern沒有在交班前完成病歷 真的太誇張了 故下半月intern吳展旭只好代打" },
+        九月上半的intern沒有在交班前完成病歷 真的太誇張了 故下半月intern吳展旭只好代打" },
       { type: "link", content: "https://photos.app.goo.gl/iEUFqqGntAWaCbeB8", label: "2017年9月15日 為了拍照 把病歷補完先QAQ 好多" }
     ],
     "16": [],
@@ -2055,6 +2055,17 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/97LJ8k836gg5yiv1A", label: "2017年10月23日 天氣超好 好想拍東京人像 好想拍東京夜景 不想開會不想上班啊啊啊啊" }
     ],
     "24": [
+      { type: "link", content: "https://photos.app.goo.gl/xKy8mAKTkxo3uKgm9", label: "2025年10月24日 不是 是被逼迫的你自己當醫生就知道" },
+      { type: "link", content: "https://photos.app.goo.gl/crGSBhoHvHRdfpjG6", label: "2025年10月24日 學弟沒事啦 這個學長真的是詐騙帳號 小事情別在意" },
+      { type: "link", content: "https://photos.app.goo.gl/JSmQg1eX4RjK6NmT8", label: "2025年10月24日 這麼經典的case 這一年遇到第二次了 發現好多人都答對 太厲害了 感謝主治醫師帶我看到這麼好的case" },
+      { type: "link", content: "https://photos.app.goo.gl/DAYyoo1Y2QPHzK9AA", label: "2025年10月24日 \
+        章魚壺心肌症 Takotsubo Cardiomyopathy 70歲女性某日與人爭吵後發生胸悶痛來診 心電圖及心臟超音波檢查後 懷疑心血管疾病 \
+        但檢查後發現是很經典的章魚壺心肌症 Apical ballooning類型 心尖不動 容易產生血栓 也容易有LVOTO 及MV systolic anterior movement SAM而導致MR \
+        心導管測量EF只有36% 後續治療為維持抗血栓及HFrE用藥" },
+      { type: "link", content: "https://photos.app.goo.gl/fuJCDVML8doP7cJ66", label: "2025年10月24日 這是真的" },
+      { type: "link", content: "https://photos.app.goo.gl/tha6HpDzurGeNeQGA", label: "2025年10月24日 你也是ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/h7EM39snJ7TWqJYm7", label: "2025年10月24日 我覺得都普通 你比較棒" },
+      { type: "link", content: "https://photos.app.goo.gl/2r4eHqWQerN2qKub7", label: "2025年10月24日 我都吃不到" },
       { type: "link", content: "https://photos.app.goo.gl/CA2kg387ZsB58Z4c9", label: "2024年10月24日 跟統神結婚還有小孩應該是003這輩子最錯誤的決定XD" },
       { type: "link", content: "https://photos.app.goo.gl/8Vs33xvZdJJUgokb9", label: "2024年10月24日 除了以外我應該都會 可以 上班不用那麼累的時候提早回家準備就好" },
       { type: "link", content: "https://photos.app.goo.gl/ADRH6dkci511nsWx9", label: "2024年10月24日 貓貓也愛吃鹹酥雞欸" },
@@ -2173,7 +2184,7 @@ const records = {
         個人經驗 tarry stool的病人去做CTA常常沒有發現active bleeding 因此把難得遇到有發現的影像記錄下來 extravasation有時很常被忽略 我還需要多看影像來練習" },
       { type: "link", content: "https://photos.app.goo.gl/TwXhKwEamh3FHS5w8", label: "2020年10月27日 \
         經歷三個月內科洗禮 終於剩最後一個禮拜 可以在迎接真正內科戰鬥前稍作休息 今年真的發生了很多事情 很多的措手不及與出乎意料 難關似乎永不間斷 \
-        每當壓力很大的時候 都打起精神去跑個步 讓自己暫時忘記煩惱 今天回家看到愛心晚餐 突然有種苦盡甘來的感覺 又可以繼續努力了 謝謝妳:)" },
+        每當壓力很大的時候 都打起精神去跑個步 讓自己暫時忘記煩惱 今天回家看到愛心晚餐 突然有種苦盡甘來的感覺 又可以繼續努力了 謝謝妳" },
       { type: "link", content: "https://photos.app.goo.gl/kTXGL9jNX4nuv2HC9", label: "2020年10月27日 雖然很少發飲料的貼文 但有好喝的都會特地買回來請疲累值班醫師們試喝 拍照跟貼文用詞都很重視質感 超級暖心的小編 一定要追蹤" },
       { type: "link", content: "https://photos.app.goo.gl/QPrtkAMexzF68v3E7", label: "2020年10月27日 現在上班都坐著下班都天黑了 強迫自己運動取代拍照 拖著疲憊慢慢跑也要撐到五公里 但回家還有愛心晚餐 元氣瞬間回復了" },
       { type: "link", content: "https://photos.app.goo.gl/rwUKvBMUsndeVdMQ7", label: "2020年10月27日 下班後硬撐著疲累去跑了五公里 餓都餓扁了 回家看到這個驚為天人" },

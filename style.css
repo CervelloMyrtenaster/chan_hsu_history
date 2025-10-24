@@ -339,7 +339,7 @@ nav li ul {
   transition: max-height 0.4s ease-in-out;
 }
 nav li ul.open {
-  max-height: 500px;
+  max-height: 1000px;
 }
 nav li ul li {
     padding-left: 20px;

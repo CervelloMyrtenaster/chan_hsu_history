@@ -1,0 +1,30 @@
+{
+  "name": "歷史上的展旭",
+  "short_name": "展旭歷史",
+  "description": "一個紀錄與展示「吳展旭」歷史上每日事蹟的網站",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f9f9f9",
+  "theme_color": "#ffffff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
