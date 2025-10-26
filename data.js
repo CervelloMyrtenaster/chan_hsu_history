@@ -2020,7 +2020,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/f1hpaLNX76EHyQRX7", label: "2025年10月23日 去日本買" },
       { type: "link", content: "https://photos.app.goo.gl/FUkTcpmfWJ9cDwdAA", label: "2025年10月23日 原來如此 謝謝您 想走來這裡拍" },
       { type: "link", content: "https://photos.app.goo.gl/ws7NoLAzeL4EbXUz5", label: "2025年10月23日 請問第三個影片拍攝點是哪呢 謝謝" },
-      { type: "link", content: "https://photos.app.goo.gl/rMjnKoxri9zXr5x96", label: "2025年10月23日 八仙瀑布 傾瀉而下的晨光 與晨霧水氣交織 很久沒有再訪這個景點 對於大自然的熱愛與憧憬 還是得先靠著照片慢慢醞釀" },
+      { type: "link", content: "https://photos.app.goo.gl/axDw6x5qrpb2hSR16", label: "2025年10月23日 八仙瀑布 傾瀉而下的晨光 與晨霧水氣交織 很久沒有再訪這個景點 對於大自然的熱愛與憧憬 還是得先靠著照片慢慢醞釀" },
       { type: "link", content: "https://photos.app.goo.gl/xkzQWqNBBQAGmXAdA", label: "2024年10月23日 你會幫礦開order嗎 會跟礦病解嗎 不會的話怎麼能用當礦來形容 顧RCW也需要一定內科水準 找路邊阿貓阿狗來顧 說不定連病人快死了都不知道" },
       { type: "link", content: "https://photos.app.goo.gl/hAEhdAMpPaR8KodJ6", label: "2024年10月23日 超氣啊 醫師在醫院都做功德 一個月業績數百萬的 薪水只拿到幾十萬 犧牲夢想犧牲家人犧牲健康 結果待遇這樣差超可憐 台灣健保倒一倒 醫師的薪水才會合理" },
       { type: "link", content: "https://photos.app.goo.gl/NQ2PuM9Um5NEg1yZ7", label: "2024年10月23日 有撫慰到上班上到心累的我了嗚嗚嗚嗚" },
@@ -2089,6 +2089,18 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/emsZACd5DYMNXLhK9", label: "2017年10月24日 願你是和煦的晨曦之光 朝朝相見" }
     ],
     "25": [
+      { type: "link", content: "https://photos.app.goo.gl/5ZyQo8QTYHnXqHEr5", label: "2025年10月25日 第一次認真的吃和牛 30歲了終於有口福鳴嗚嗚嗚嗚" },
+      { type: "link", content: "https://photos.app.goo.gl/sMfZ8FSMotRVkDnH9", label: "2025年10月25日 每一口和牛下肚 胃都在大聲抗議 還不夠 還不夠 還不夠啊啊啊" },
+      { type: "link", content: "https://photos.app.goo.gl/Gq68jJkmLAtfbAk58", label: "2025年10月25日 提早慶祝生日" },
+      { type: "link", content: "https://photos.app.goo.gl/NRb3AzrRB7hri2cf8", label: "2025年10月25日 大後期電刀可以換晨星嗎 錢很多的話" },
+      { type: "link", content: "https://photos.app.goo.gl/r1X442AjquK11LTP6", label: "2025年10月25日 請問有成果解鎖嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/yrZwvsqSuyoTQWeD8", label: "2025年10月25日 我也是跟著BK選內科的" },
+      { type: "link", content: "https://photos.app.goo.gl/MXHrzytgto5JgBqo9", label: "2025年10月25日 小飯糰卡車" },
+      { type: "link", content: "https://photos.app.goo.gl/WpwDdrnJT8uAap9N8", label: "2025年10月25日 下次約" },
+      { type: "link", content: "https://photos.app.goo.gl/SqQVtGBgUeef73QK7", label: "2025年10月25日 學長該去該去" },
+      { type: "link", content: "https://photos.app.goo.gl/zb5Q9r4VnXKxXa896", label: "2025年10月25日 欠錢不還上什麼新片" },
+      { type: "link", content: "https://photos.app.goo.gl/ttkXmbhno9XDk1ni7", label: "2025年10月25日 因為這是急診病人 有時間都會掃echo" },
+      { type: "link", content: "https://photos.app.goo.gl/M2nVEeULeFM6Mt4M9", label: "2025年10月25日 看吧 這個學長又再詐騙了 不要相信他" },
       { type: "link", content: "https://photos.app.goo.gl/d9WPfoHoU5CzqVsP9", label: "2024年10月25日 前天跑了3公里暖身 昨天健身房練了一小時大小腿 今天再跑4.7公里 體感很明顯自己變的很重 步伐邁不開而且無法加到三分速 現在真的很容易生病跟受傷" },
       { type: "link", content: "https://photos.app.goo.gl/b87P8sXN1XsZzF787", label: "2024年10月25日 好想出國" },
       { type: "link", content: "https://photos.app.goo.gl/BKRtusBQJE9HHDHb6", label: "2024年10月25日 是一隻跟我們一樣的杜估貓貓" },
@@ -2114,6 +2126,17 @@ const records = {
         Top standing 蘭嶼lanyu 有些人詢問攝影後製的家教 目前規劃 一人一小1000 共兩小 兩人一小800人 共兩小 超過一些不多收 有興趣請小盒子私或fb上詢問唷" }
     ],
     "26": [
+      { type: "link", content: "https://photos.app.goo.gl/9TysVMczuBA1sAoAA", label: "2025年10月26日 \
+        所有內外婦兒急這種第一線值班救人的主治醫師 在台灣這種物價房價之下 少說也要保障40萬月收入以上才合理 \
+        憑什麼一堆網紅房東建商富二代每天舒舒服服月入百萬 牙醫工程師也是月入數十萬以上 但救人的醫護 做最重要的事情 薪水卻遠遠比他們低 \
+        這不是制度有問題就是政府官員腦子有問題 不然就是都有問題" },
+      { type: "link", content: "https://photos.app.goo.gl/RZvGQREsm32XhjAs9", label: "2025年10月26日 比較可怕的是萬一他沒戴安全帽結果又摔車腦出血 那好心的駕駛下場是" },
+      { type: "link", content: "https://photos.app.goo.gl/NnV7XcQQCiBTpQuZ9", label: "2025年10月26日 上網查了一下 發現這個點好像2023之後就絕景拍不到了 有朋友知道這個點還有得拍嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/MAppKk5Hn28skWP2A", label: "2025年10月26日 這確實" },
+      { type: "link", content: "https://photos.app.goo.gl/jwgGtLnjif6sT9XQA", label: "2025年10月26日 統一回覆確實是比台服好多了隨便同樣造型價格 直購或抽獎 都是台服35折起跳 配對時間比台服快超多 尤其半夜 唯一缺點是偶爾會爆pin" },
+      { type: "link", content: "https://photos.app.goo.gl/i4qqxbA5JFxnKcy79", label: "2025年10月26日 根本就沒有是在騙" },
+      { type: "link", content: "https://photos.app.goo.gl/gKhwnM5cjskn7wAG7", label: "2025年10月26日 希望他有報應" },
+      { type: "link", content: "https://photos.app.goo.gl/QcJp5mY97Zb8Jvc19", label: "2025年10月26日 怎麼那麼漂亮 這樣我就不能發了" },
       { type: "link", content: "https://photos.app.goo.gl/FxRSHDDcip3CaAN2A", label: "2024年10月26日 \
         沒錯醫師都是想賺你的錢 來 你現在應該下定決心 此生不再踏入醫院 千萬別讓任何醫師賺到你的錢 回家之後直接把健保卡剪爛 拒繳健保 加油 你是對的 你一定要做到喲 千千萬萬別再看任何醫師囉" },
       { type: "link", content: "https://photos.app.goo.gl/rRGgnrf8BALLLFD99", label: "2024年10月26日 在台灣讀書是犯法 可能會判死刑的 我想您一定是個守法的好公民 絕對從來不會讀書以免犯法 讚" },
