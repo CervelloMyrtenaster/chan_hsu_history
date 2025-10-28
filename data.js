@@ -864,7 +864,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/WUX9cTHLbzr9g7RV7", label: "2023年9月23日 多希望我的工作能給我預一個十天長假 去拍這些世界美景才是人生" },
       { type: "link", content: "https://photos.app.goo.gl/tDxE2Rb3Wj7vE9mm8", label: "2023年9月23日 第一眼以為我是垃圾 每個月都需要啃肉 拼命的把鍋子塞滿好吃的牛肉 死不吃菜" },
       { type: "link", content: "https://photos.app.goo.gl/Wjd3pUYP4dchJpDz9", label: "2023年9月23日 rasitol作用機轉 網路資料有許多複雜但都不甚完美的說明及圖片" },
-      { type: "link", content: "https://photos.app.goo.gl/1bVqXQjMEKVpduG59", label: "2019年9月23日 發售2022風景系列桌曆 賣場是在蝦皮一本250元" }
+      { type: "link", content: "https://photos.app.goo.gl/1bVqXQjMEKVpduG59", label: "2021年9月23日 發售2022風景系列桌曆 賣場是在蝦皮一本250元" }
     ],
     "24": [
       { type: "link", content: "https://photos.app.goo.gl/2wrBJeYUoDBizjVP7", label: "2025年9月24日 這種壁虎可以養嗎" },
@@ -2191,6 +2191,19 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/Zc3e1wFsEsWUuaH36", label: "2017年10月26日 回國倒數 排班報告規劃行程 弄得身心俱疲 Ps後製家教規劃確定了 |情私訊 歡迎分享追蹤 朝2k邁進 晚安" }
     ],
     "27": [
+      { type: "link", content: "", label: "2025年10月27日 \
+        順便也把心碎症候群的讀書筆記整理好啦 Takotsubo Cardiomyopathy Definition 又稱Takotsubo syndrome TTS \
+        為一種急性 約90%為女性多為停經後 平均年齡6070歲 Pathophysiology 壓力會造成交感神經過度興奮 導致catecholamines過量釋放 引起短暫性心肌收縮異常 \
+        主要症狀 胸痛 呼吸困難 暈厥 ECG類似心肌梗塞ST elevation QT prolongation 心臟酵素上升 影像學可見典型apical ballooning心尖擴張 \
+        診斷 InterTAK score可幫助區分與急性冠心症ACS Apical type最常見 Therapy 大多可自行恢復 使用ACEI或β-blocker改善預後 \
+        避免QT prolonging drugs 若LVOTO避免使用inotropes 可給予輸液或vasopressors 若EF低或有血栓 AF可考慮短期抗凝" },
+      { type: "link", content: "https://photos.app.goo.gl/zjaVHYZvRx7BGMpf8", label: "2025年10月27日 雖然這個月已經吃土 手頭超緊 但還是買了 你這個小笨狗" },
+      { type: "link", content: "https://photos.app.goo.gl/fkn29GDxJ7653r1c6", label: "2025年10月27日 其實打病歷本來就是該學的 給clerk寫很正常" },
+      { type: "link", content: "https://photos.app.goo.gl/sP8KXD4Azp14eNb36", label: "2025年10月27日 \
+        時事 前陣子很難過的新聞 是長榮航空服務員過勞送醫後不治身亡 今天看到yt達特傑生分享 猜測很可能是still's disease 遙遠的考試回憶湧上心頭 \
+        但從來沒有好好搞懂這疾病 果然是很罕見 內專近年考過一題 小弟對於風濕免疫科不熟悉 就不做過多評論了" },
+      { type: "link", content: "https://photos.app.goo.gl/YYdJQLeGMQKbfxoMA", label: "2025年10月27日 老師我如果考100分的話可以請我吃嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/5u8EzWAYRhyj7iBBA", label: "2025年10月27日 777" },
       { type: "link", content: "https://photos.app.goo.gl/x9viPFJuXs3t91UT9", label: "2024年10月27日 兩路進會場" },
       { type: "link", content: "https://photos.app.goo.gl/gJpz6SQ66ZYN4CG29", label: "2024年10月27日 今天吃完飯遇到哥布林本人了 壯爆 今天還是有收穫 兩隻哥布林 遇到英雄一家" },
       { type: "link", content: "https://photos.app.goo.gl/pxaf6qKg2nGb1oYJA", label: "2024年10月27日 超美 希望未來跟學長一樣能環遊世界拍美景" },
@@ -2232,6 +2245,10 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/2Lutm1nYBtyN6Zqz5", label: "2017年10月27日 感謝各位老師 最後一天在醫院 報告完成 裝備往東北拍攝楓葉啦" }
     ],
     "28": [
+      { type: "link", content: "https://photos.app.goo.gl/LRebvRFnbswJnMNfA", label: "2025年10月28日 一想到中國即將在這裡蓋一個電梯我就全身作噁 中國這個國家能不能從地球抹滅啊" },
+      { type: "link", content: "https://photos.app.goo.gl/zXCrBU25ku1wmPK88", label: "2025年10月28日 你努力考試 只會獲得更多的考試 考一輩子 然後同樣分數你選二類機電 早就存好幾桶金" },
+      { type: "link", content: "https://photos.app.goo.gl/GsViwaKs7RhQCvVp7", label: "2025年10月28日 製作投影幕無法接上電腦的排除方法" },
+      { type: "link", content: "https://photos.app.goo.gl/j665hBD1q2JbjnHg6", label: "2025年10月28日 這就是黃仁勳要的世界嗎" },
       { type: "link", content: "https://photos.app.goo.gl/Ep62AVNbFXZWCnrh9", label: "2024年10月28日 對啊" },
       { type: "link", content: "https://photos.app.goo.gl/1hqmLFjf46byCiRx5", label: "2024年10月28日 好了啦 是不是很想參政啊 可以直接說啊 不用這樣假惺惺" },
       { type: "link", content: "https://photos.app.goo.gl/imCH2UzqkCVuQvGZA", label: "2024年10月28日 CXR有一點pulmonary edema跟heart boarder變大的感覺 跟喘的症狀比較符合 另外縱隔腔稍微變寬 EKG想猜wellen但前幾天心導管沒問題 這就不明白了 等答案" },
@@ -2474,7 +2491,7 @@ const records = {
         12月份班表已經出來 之前有跟我約攝影家教 或現在想約家教的朋友 歡迎跟我聯絡確定時間唷 抱歉醫院事務繁忙 排班很慢 小弟致上萬分感謝 \
         後製家教時間 為全天可約時間 若想知道詳細規則可私 感謝" },
       { type: "link", content: "https://photos.app.goo.gl/M2oZPreKyHVxt3758", label: "2017年11月27日 Magic book teached me to magic the city" },
-      { type: "link", content: "https://photos.app.goo.gl/3czeLLUwZbhvQ5wn9", label: "2017年11月27日 wu_chan_hsu 何其幸運才能遇到也喜歡拍照的妳 更幸運的是有妳走過許多風景 因為遇見妳過去的一切都值得 我會努力要求自己 穩紮穩打更成長 謝謝妳" },
+      { type: "link", content: "https://photos.app.goo.gl/3czeLLUwZbhvQ5wn9", label: "2017年11月27日 何其幸運才能遇到也喜歡拍照的妳 更幸運的是有妳走過許多風景 因為遇見妳過去的一切都值得 我會努力要求自己 穩紮穩打更成長 謝謝妳" },
       { type: "link", content: "https://photos.app.goo.gl/DLQtSSwrhmLRHAzq5", label: "2017年11月27日 第一次以醫生身份壓救護車 心臟差點沒跳出來 塞車時開120絕對比玩任何賽車遊戲刺激" }
     ],
     "28": [
