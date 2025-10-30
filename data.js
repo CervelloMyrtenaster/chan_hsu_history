@@ -2191,7 +2191,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/Zc3e1wFsEsWUuaH36", label: "2017年10月26日 回國倒數 排班報告規劃行程 弄得身心俱疲 Ps後製家教規劃確定了 |情私訊 歡迎分享追蹤 朝2k邁進 晚安" }
     ],
     "27": [
-      { type: "link", content: "", label: "2025年10月27日 \
+      { type: "link", content: "https://photos.app.goo.gl/rw1mCGRGX3YaNK857", label: "2025年10月27日 \
         順便也把心碎症候群的讀書筆記整理好啦 Takotsubo Cardiomyopathy Definition 又稱Takotsubo syndrome TTS \
         為一種急性 約90%為女性多為停經後 平均年齡6070歲 Pathophysiology 壓力會造成交感神經過度興奮 導致catecholamines過量釋放 引起短暫性心肌收縮異常 \
         主要症狀 胸痛 呼吸困難 暈厥 ECG類似心肌梗塞ST elevation QT prolongation 心臟酵素上升 影像學可見典型apical ballooning心尖擴張 \
@@ -2245,6 +2245,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/2Lutm1nYBtyN6Zqz5", label: "2017年10月27日 感謝各位老師 最後一天在醫院 報告完成 裝備往東北拍攝楓葉啦" }
     ],
     "28": [
+      { type: "link", content: "https://photos.app.goo.gl/CseMkeDxWVLJgWAGA", label: "2025年10月28日 你的大腦無法辨識木板跟電梯的差異嗎 智商還好嗎" },
       { type: "link", content: "https://photos.app.goo.gl/LRebvRFnbswJnMNfA", label: "2025年10月28日 一想到中國即將在這裡蓋一個電梯我就全身作噁 中國這個國家能不能從地球抹滅啊" },
       { type: "link", content: "https://photos.app.goo.gl/zXCrBU25ku1wmPK88", label: "2025年10月28日 你努力考試 只會獲得更多的考試 考一輩子 然後同樣分數你選二類機電 早就存好幾桶金" },
       { type: "link", content: "https://photos.app.goo.gl/GsViwaKs7RhQCvVp7", label: "2025年10月28日 製作投影幕無法接上電腦的排除方法" },
@@ -2274,6 +2275,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/YJEHurYj73Q49ZQ87", label: "2017年10月28日 乾只有我一個 極度邊緣 有人在奥入瀬附近想找極便宜住宿嗎 附加24小時烤土司吃到飽 私個QQ" }
     ],
     "29": [
+      { type: "link", content: "https://photos.app.goo.gl/oG9aBWSy8H27PUgF7", label: "2025年10月29日 超可 我覺得要租車躲在裡面" },
       { type: "link", content: "https://photos.app.goo.gl/fVE26C7uy9d6jB7o9", label: "2024年10月29日 沒那麼笨留在台灣 如果他們要 一屆99%台清交成也可以" },
       { type: "link", content: "https://photos.app.goo.gl/fBLSFkNb4eVfu31GA", label: "2024年10月29日 竹中超強 我有兩個醫學系同學 是他們那屆竹中資優班倒數名次的 聽說那班一半醫學系" },
       { type: "link", content: "https://photos.app.goo.gl/8PtFr9hqcicCGzCg7", label: "2024年10月29日 嗚嗚 他才是主管啦" },
@@ -2301,7 +2303,12 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/9K9XbvLznbXAh2Fh6", label: "2017年10月29日 居然走超過十公里" }
     ],
     "30": [
-      { type: "link", content: "", label: "2024年10月30日 \
+      { type: "link", content: "https://photos.app.goo.gl/CDijHRQEBpSGagL27", label: "2025年10月30日 認同 這個世界上已經人口過剩 多點人相信這種反智言論 剛好可以消耗過多的人口 早點解脫" },
+      { type: "link", content: "https://photos.app.goo.gl/WMkYtf8LWqTRcMjU6", label: "2025年10月30日 \
+        台服的盤子們有夠傻 越服這些造型都不知道復刻幾遍了 每個禮拜六0100準時換造型 全部都保底1429點卷 換成台幣差不多1200吧甚至不到 奉勸造型控早點轉越服除非錢很多" },
+      { type: "link", content: "https://photos.app.goo.gl/9kDoxsvJeEoz6pr9A", label: "2025年10月30日 眼睛粿到屎" },
+      { type: "link", content: "https://photos.app.goo.gl/enkbKrHY338P8yyJA", label: "2025年10月30日 有點像是2度2或2度1AVB with apc RBBB biphasic T over V2-4 還是要排除CAD" },
+      { type: "link", content: "https://photos.app.goo.gl/EZj5eFVSxnGMPeg99", label: "2024年10月30日 \
         某間四樓值班室裡面 某位同仁居然在中午時間大喇喇躺在床上抽電子菸 整個值班室都是你電子菸的味道 你旁邊都還有人在睡覺 \
         你想得肺癌就自己去外面慢慢抽 在值班室裡面抽電子菸是怎樣 為甚麼中午休息還要忍受你的二手菸 有夠誇張 我有錄影 再一次我就直接公布影片在投訴系統 投訴系統不能公布我就放網路" },
       { type: "link", content: "https://photos.app.goo.gl/r2zR9q8zMHaQ2ZEi7", label: "2024年10月30日 有摔 但不多" },
@@ -2389,7 +2396,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/p7ZBK6tAnRS8Q7q18", label: "2018年10月31日 \
         昨天的問卷真的很謝謝大家幫忙 但自己實驗送的桌布 由訊息下載之後畫質降低不少 但我實在受不了這樣不完美 所以 之前有給你但覺得畫質不好的 \
         或問卷限時幫忙填寫的 填完直接截圖給我 我直接送兩張的drive讓你們下載原檔 畫質跟顏色保證完美清晰" },
-      { type: "link", content: "", label: "2018年10月31日 很久沒有犯這麼低級的錯誤 滿滿的JPG檔 本來還想說街拍試試單張寬容度我的老天鵝 白拍Orz" },
+      { type: "link", content: "https://photos.app.goo.gl/MX7SJBpWLYTBxhscA", label: "2018年10月31日 很久沒有犯這麼低級的錯誤 滿滿的JPG檔 本來還想說街拍試試單張寬容度我的老天鵝 白拍Orz" },
       { type: "link", content: "https://photos.app.goo.gl/dC5t4Q5LVPXrEe2p7", label: "2017年10月31日 我要去台灣旅行惹 請問台灣朋友 有沒有什麼景點要介紹的" },
       { type: "link", content: "https://photos.app.goo.gl/hANJweCo7pUuQ3P16", label: "2017年10月31日 第一次去台灣玩好興奮 請問台灣有什麼推薦景點嗎 謝謝" },
       { type: "link", content: "https://photos.app.goo.gl/c6zxSzAq3WCrwp3PA", label: "2017年10月31日 請問回台灣後哪裡可以賣腎或賣屁股的 私我一下不然我要跑路ㄌ" },
@@ -2460,7 +2467,7 @@ const records = {
     "18": [],
     "19": [],
     "20": [
-      { type: "link", content: "", label: "2017年11月20日 \
+      { type: "link", content: "https://photos.app.goo.gl/NWtUBZKnrTv1o2wX9", label: "2017年11月20日 \
         井裡望天 是想俯瞰大地 還是不甘拘束 近期開始攝影後製的家教課囉 有興趣的朋友詳細如下 \
         教學內容 會先了解您目前程度作調整 但基本會有 基礎講解 構圖光線等想法 包含晨昏高反差銀河 氣象判讀 後製步驟 完整圖層遮色片 \
         延伸 若已經熟悉遮色片 可利用時間多教亮度蒙版 須自己有亮蒙軟體 費用時間 一人兩小時2000 兩人兩小時1800一人 三人兩個半小時1600一人 \
