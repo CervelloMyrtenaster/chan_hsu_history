@@ -2275,7 +2275,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/YJEHurYj73Q49ZQ87", label: "2017年10月28日 乾只有我一個 極度邊緣 有人在奥入瀬附近想找極便宜住宿嗎 附加24小時烤土司吃到飽 私個QQ" }
     ],
     "29": [
-      { type: "link", content: "https://photos.app.goo.gl/oG9aBWSy8H27PUgF7", label: "2025年10月29日 超可 我覺得要租車躲在裡面" },
+      { type: "link", content: "https://photos.app.goo.gl/oG9aBWSy8H27PUgF7", label: "2025年10月29日 超可怕 我覺得要租車躲在裡面" },
       { type: "link", content: "https://photos.app.goo.gl/fVE26C7uy9d6jB7o9", label: "2024年10月29日 沒那麼笨留在台灣 如果他們要 一屆99%台清交成也可以" },
       { type: "link", content: "https://photos.app.goo.gl/fBLSFkNb4eVfu31GA", label: "2024年10月29日 竹中超強 我有兩個醫學系同學 是他們那屆竹中資優班倒數名次的 聽說那班一半醫學系" },
       { type: "link", content: "https://photos.app.goo.gl/8PtFr9hqcicCGzCg7", label: "2024年10月29日 嗚嗚 他才是主管啦" },
@@ -2373,6 +2373,8 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/9eEgKtsf2Sqh81yv8", label: "2017年10月30日 一個月日本發生許多鳥事 希望這些很慘的事情能讓我學到教訓 這輩子凡事都得小心再小心 不斷警惕自己 三思而行並且穩重 勿因小失大" }
     ],
     "31": [
+      { type: "link", content: "https://photos.app.goo.gl/G7XTrkxy4tdFrew46", label: "2025年10月31日 甚至比原唱效果厲害XD" },
+      { type: "link", content: "https://photos.app.goo.gl/nAPQPp4BSYMRSZJZ8", label: "2025年10月31日 怎麼那麼可愛" },
       { type: "link", content: "https://photos.app.goo.gl/x9WkRXKwQzvsHDSm6", label: "2024年10月31日 為什麼不是醫生但要穿白袍啊" },
       { type: "link", content: "https://photos.app.goo.gl/nzGzCMJ7aPYMpR6J7", label: "2024年10月31日 用生命吶喊我只服蛙人 親自跟過他們訓練 是真的很猛 對台灣國防有貢獻 至於心靈課程那些 都是低智商然後還去被騙錢浪費時間的白痴" },
       { type: "link", content: "https://photos.app.goo.gl/rnBQUzEjs5AHgRoB8", label: "2024年10月31日 我們也要在颱風天救援貓貓 不然他們ㄊㄞㄎㄜㄌㄅ" },
@@ -2408,17 +2410,108 @@ const records = {
 
   "11": {
     "1": [
+      { type: "link", content: "https://photos.app.goo.gl/jb7Mk6vudXFr6rs26", label: "2024年11月1日 \
+        這個人可能沒有醫學相關背景 或沒有任何執照 三總ACLS也不可能讓他擔任專任教師 我們醫院是很嚴謹的 各位民眾要睜大眼睛看清楚 \
+        好好諮詢身邊真正的醫護人員 再對比他的發文及用詞 就知道真假" },
+      { type: "link", content: "https://photos.app.goo.gl/XEFiD7dBCafssLUd6", label: "2024年11月1日 內湖的風直接開箱路邊的機台" },
+      { type: "link", content: "https://photos.app.goo.gl/EJp8MGJtNzvcZ7MP8", label: "2023年11月1日 \
+        二類組的職業很多都能兼顧生活 運動睡眠休假平衡 還能時常出國跟斜槓工作以外的興趣 醫學只能做醫學 當醫生當到比病人不健康 睡眠不足 30歲還在讀一堆跟鬼一樣難懂的東西 \
+        還有考不完的筆試口試 還不能規律運動 圈子也很小各種不敢讓前輩生氣 朋友約個吃飯常常在值班或下班太累 賺個錢比二類的難 還不一定比二類多 未來還得買保險避免被病人亂提告敲竹槓 \
+        每次遇到挫折這種負面 但很現實 的想法就會淹沒我 常覺快淹死 真希望當初高中考大學時 就能想這麼多 做正確的選擇 而不是留到現在才抱怨 講完就算了繼續加油" },
+      { type: "link", content: "https://photos.app.goo.gl/Z7TRn6d4H2R6ycCi9", label: "2023年11月1日 \
+        第一眼在急診室看到30歲男性四肢紅疹 Tonsil也是一堆紅腫跟pus 頓時內心充滿許多特別的DDx 後來經過主治醫師指導 原來是腸病毒感染 \
+        腸病毒感染多數不需住院 且supportive care即可 病人因第一次來診時只有tonsil紅腫 以為是acute tonsilitis 結果帶anti回家兩三天仍高燒不退 \
+        慢慢出現疹子 二度來診後才發現腸病毒 一個耳熟能詳的疾病 身為內科仔竟沒實際看過幾次 實在有愧 圖取自病歷及自己拍攝 均經病人同意" },
+      { type: "link", content: "https://photos.app.goo.gl/68vgHqZZEGvsDo2z5", label: "2023年11月1日 \
+        臨床上還沒有遇過很多真的需renal biopsy的患者 但之前碰到一位biopsy後卻不幸產生hematoma的患者 但後來經照顧治療後也逐漸穩定 腎功能恢復中 \
+        分享一下Uptodate及腎臟科小麻對於renal biopsy的indication及contraindication 還有發生左腎hematoma的CT影像做紀錄" },
+      { type: "link", content: "https://photos.app.goo.gl/UspmAu7CYPdtc4oU6", label: "2022年11月1日 每天晚上回家都變這樣" },
+      { type: "link", content: "https://photos.app.goo.gl/D273uKWGByPcnLgY7", label: "2020年11月1日 \
+        如果要撕紙鈔12萬 不如拍一支撕紙鈔youtube 再把碎紙鈔做成拼畫 完成台灣的真鈔拼畫紀錄 反正橫豎要撕又要關 說不定這一舉動還能成名 有新聞賺點閱 \
+        從此成為瘋狂ytber 以後還有機會賺好幾十萬的月薪 第一部影片就算合法也沒有錢啊 但至少鋪了往後的知名度 就像某玉XD" },
+      { type: "link", content: "https://photos.app.goo.gl/K8BjusxGPNMcrVPq9", label: "2020年11月1日 每次值內科班 都有好多新遇到 不知道如何做下一步的鑑別診斷或檢查 花大量時間查閱跟思考也還是有很多疑慮 這種感覺好無力" },
+      { type: "link", content: "https://photos.app.goo.gl/Rz7xzqLdpotkaptJ9", label: "2018年11月1日 能長得這麼有張力不多見 但這絕對是今年修過最難最失敗的一張 台灣若不是深山 很難有足夠茂密足夠高的樹林可以凸顯主題 敗在整體而言非常雜亂" },
+      { type: "link", content: "https://photos.app.goo.gl/JQxUPJ77v6p75Rcx8", label: "2018年11月1日 \
+        Happy Birthday to me Happy Anniversary Happy Christmas 一次過完開玩笑 這家口味價格很像台中的凱恩斯 肉質是蠻嫩蠻新鮮的 只是紅蘿蔔跟玉米很降價它的價值" },
+      { type: "link", content: "https://photos.app.goo.gl/CynkuW1LPMPcY4748", label: "2018年11月1日 最雞掰的還是這個 我女友是你跑腿嘛 是不是沒被扁過" },
       { type: "link", content: "https://photos.app.goo.gl/GpU9TeTZFeadyS6F8", label: "2017年11月1日 \
         風景後製家教預計11月底開始 北部為主 其他縣市可討論 會釋出所有我會的技巧 不保留 看你能學到哪裡 課後及後續也能發問 \
         私人原因沒有女生一對一家教 但會規劃班級課程歡迎所有人 請見諒 我要閉關修練更深層次的後製了" }
     ],
     "2": [
+      { type: "link", content: "https://photos.app.goo.gl/mTAat8kt9KWy9n4y6", label: "2024年11月2日 我在樓上都有聽到你笑" },
+      { type: "link", content: "https://photos.app.goo.gl/GJRHNkYijyvd2SsD6", label: "2024年11月2日 林氏璧您是我的偶像 真希望以後跟您一樣走出內科 有自己的人生..." },
+      { type: "link", content: "https://photos.app.goo.gl/LiM1qCfZFpCRnC6z6", label: "2024年11月2日 本來就應該這樣啊 很棒" },
+      { type: "link", content: "https://photos.app.goo.gl/1xUeAy51MjyCYrky6", label: "2024年11月2日 哈哈哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/gUeMVW5Bge6ZdQM59", label: "2024年11月2日 我也要去讀書" },
+      { type: "link", content: "https://photos.app.goo.gl/QHEBxTtM39h6uBwq9", label: "2024年11月2日 不說我以為在大陸" },
+      { type: "link", content: "https://photos.app.goo.gl/QHEBxTtM39h6uBwq9", label: "2024年11月2日 這個包包真的超不實用XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/6kPrCEwsSR2ihLuB8", label: "2024年11月2日 真聰明哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/eyUGxxci88svR4K7A", label: "2024年11月2日 簽到" },
+      { type: "link", content: "https://photos.app.goo.gl/fzFovVAT7px4jNp56", label: "2024年11月2日 為什麼隱藏自己帳號了 坦蕩蕩是醫護人員的話幹嘛要隱藏 根本有鬼XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/8irqH9xgNeMDTiB27", label: "2023年11月2日 是的 我在下龍灣遊艇行駛中把空拍機飛上去 場景就完全跟小仙女一樣" },
+      { type: "link", content: "https://photos.app.goo.gl/GJWHmMHzyLh4Np4Q6", label: "2023年11月2日 我好可憐 要報告的PAPER一堆免疫細胞跟酵素看不懂 還要找高中生物再建立一次免疫學" },
+      { type: "link", content: "https://photos.app.goo.gl/b5hQxAA5c1QqKSBW9", label: "2023年11月2日 \
+        北越的某個鄉鎮 低矮的民宅格局像極了20多年前的台灣 走過午後陽光斜射下的影子 經過一戶曬大量龍眼乾的鄰家 但旁邊好多蒼蠅 隔壁就是製作魚簍的老翁家 \
+        標配有兩位阿麼跟一位主人老翁 我猜也是越南僅存的一戶製作人家 這個地方只能由當地攝影導遊預約且攜帶入場 印入眼簾是長相超可愛的手工竹編魚簍 一大串綁在一起 兩位慈祥的奶奶跟我們打招呼 \
+        早在10年前剛學攝影我就注意到有位國外攝影師拍過 卻在十年後才發現原來在越南 對這個地方實在太有印象 因此第一眼真的像是走進夢裡的場景 \
+        我們小心的拍攝 生怕弄壞了這些精緻又特別的魚簍 雖然一切都在20分鐘後被韓國攝影團打亂 他們一來就大呼小叫 各種移動魚簍 指示阿麼跟老翁擺pose \
+        這種感覺真的非常討厭 非常不尊重 我想擺拍要有底線在 才能在拍攝時感受當下 所謂的攝影團真的到哪國都一個樣呢 \
+        最後老翁跟我們要了台灣的硬幣做收藏 趕緊掏了12塊給他 真的很喜歡這裡 希望他們都能快樂長壽 繼續編織著藝術結晶" },
+      { type: "link", content: "https://photos.app.goo.gl/4bNecMfd9wyLMQFGA", label: "2023年11月2日 漂亮的拍照地點 好吃的在地美食 當感受到負面壓力時 就打開GOOGLE MAP看看不斷努力收藏的這些景點 用心想像有天帶一起去玩 就比較能撐下去了" },
+      { type: "link", content: "https://photos.app.goo.gl/ccWGVDEQVrXersF48", label: "2022年11月2日 可愛死" },
+      { type: "link", content: "https://photos.app.goo.gl/nH3yuT6eCLgLV6Eb9", label: "2021年11月2日 11月上班概況 如果我不是在發會診單 就是在發會診單的路上" },
+      { type: "link", content: "https://photos.app.goo.gl/63ZhCkctxh7rgmc58", label: "2021年11月2日 \
+        DOCTORKOWJ這句好這個是我們錯了 加10分 這句話我幾乎沒從任何一位首長嘴巴聽過 但FROGGYCHIU的邏輯 直切重點的質詢 直接可以給100分 \
+        不打嘴砲 不說廢話 不浪費時間表演作秀 不故意搗亂會議 做錯就直接道歉 才對得起納稅錢" },
+      { type: "link", content: "https://photos.app.goo.gl/KU8gLpikGu1bZVbY6", label: "2021年11月2日 放鬆一下" },
+      { type: "link", content: "https://photos.app.goo.gl/MCBN1vvAReKDyaR67", label: "2021年11月2日 他家的狗說不定都還比較會開車" },
+      { type: "link", content: "https://photos.app.goo.gl/jiGQQnRqTU86im8g8", label: "2020年11月2日 我從來沒看過茶類比星巴克價位更尊爵不凡 不愧是所挑 絕對不失望" },
+      { type: "link", content: "https://photos.app.goo.gl/LboVPgtEdFLkkkvQ7", label: "2018年11月2日 好想踩" },
+      { type: "link", content: "https://photos.app.goo.gl/fEf5X8FLHqYCWpf9A", label: "2018年11月2日 雖然一週年無法一起過還可能在海上 但是終於收到第一個禮物啦" },
+      { type: "link", content: "https://photos.app.goo.gl/DDMWsgxubXAjbu2K7", label: "2018年11月2日 別太崇拜我 幫你破解Luminar給你用" },
+      { type: "link", content: "https://photos.app.goo.gl/1HVHTYiQNHtcA7cq6", label: "2018年11月2日 有使用flickr的朋友要注意囉 本人我是已經淘汰他了 拿來當備份的備份而已 未來每年須繳50美元才能使用所有功能 我建議不如買一顆硬碟還比較賺" },
+      { type: "link", content: "https://photos.app.goo.gl/SGcC3rjRP2sexHyz9", label: "2018年11月2日 有朋友在問 現在依然可到首頁 點選網址填問卷 填完截圖最後一頁私我 還是可以拿桌布噢" },
       { type: "link", content: "https://photos.app.goo.gl/e5UfZsjwRhXU3uGX8", label: "2017年11月2日 收心準備到急診室上班 相機就在防潮箱住一陣子吧" },
       { type: "link", content: "https://photos.app.goo.gl/q5bP5dMhjH8htDCW6", label: "2017年11月2日 \
         OMG 日本特輯 東北奧入瀨 楓葉 整理了一點經驗跟照片 想去日本奧入瀨拍攝的朋友 歡迎參考唷 \
         在日本自駕算是有經驗 但這次也遇上小車禍 有任何關於日本自駕如何申辦 小心事項 保險差別還有拍照景點 請追蹤ig並且從ig私訊詢問唷 我很樂意分享更多經驗" }
     ],
     "3": [
+      { type: "link", content: "https://photos.app.goo.gl/p7qBwZPWsCiUoPLJ8", label: "2024年11月3日 女生正常會這麼兇嗎XD" },
+      { type: "link", content: "https://photos.app.goo.gl/9comwn9yiZyKgRuz8", label: "2024年11月3日 這個要趁早去 感覺會被買完" },
+      { type: "link", content: "https://photos.app.goo.gl/73VhHAtLy2DHw4mR7", label: "2024年11月3日 沒有騙人啊 很棒" },
+      { type: "link", content: "https://photos.app.goo.gl/hYRLQ6DuP2tNVPfd6", label: "2023年11月3日 真的偶像 希望能跟你一樣 能夠活得像人 有自己的未來真的不容易 恭喜 加油啦" },
+      { type: "link", content: "https://photos.app.goo.gl/RWx3KbfxoTUUnWCc7", label: "2023年11月3日 \
+        帶來這次線香空拍最喜歡的作品及越南攝影心得分享 攝影篇 這次帶了DJI M3c跟nikon z6ll+大三元鏡頭 Marsace C25TR腳架及Mystery x Carryology no escape \
+        首先是空拍 基本上河內市區無法起飛 直到郊區拍傳統藝術的地點才能飛 下龍灣則不一定 我在沿海飯店是完全無法起飛 而Sunworld園區則只能飛30公尺 我實在很好奇為什麼有些影片能飛到比摩天輪高 \
+        可能是要到更北邊的海邊吧 另外下龍灣郵輪停靠的Bảo tàng ngọc trai vịnh Hạ Long居然也有限飛30公尺 總之下龍灣若要無限高空拍喀斯特地形 可能只能在英雄島上了 \
+        再來是攝影 越南真的超適合街拍+風景 尤其是街拍 俯拾即是美景 我最推薦帶z2470 f2.8甚至優於24200 輕便接近定焦的畫質跟大光圈 我幾乎八成的照片都是靠他 \
+        至於z1424f2.8 則是連同有風景需求時才推薦 z70200f2.8是一個重量體積大到足以讓我忘記是用無反拍照 優點是能躲過眼神對視 從較遠的距離捕捉主題 而且散景跟景深真的漂亮 \
+        但因為重量 只推薦對街拍真的有愛的攝影師 整體而言 下龍灣+河內這個常見的行程 旅拍CP值最高的組合應是DJI+z6ll+z2470 兼顧輕便跟畫面美感 如果不想錯過任何畫面 就可以跟我一樣全帶 然後重的唉唉叫" },
+      { type: "link", content: "https://photos.app.goo.gl/wPTXftF1dNUsk49w9", label: "2023年11月3日 新光腎臟內科的學長 富有教學熱忱 這次被我推坑創立了粉專 分享許多專業的知識 經驗跟技術 超級大推喔 看過他的頻道就知多用心 掛保證的讚" },
+      { type: "link", content: "https://photos.app.goo.gl/oBzFu41gMQHSKZBZ9", label: "2023年11月3日 完全看不懂啊 八成報不出來 第一次想問能不能換PAPER" },
+      { type: "link", content: "https://photos.app.goo.gl/V3g5wYMiM1XEd8GS7", label: "2022年11月3日 \
+        歐華酒店 地中海牛排館 低調的隱藏在老舊的中山區酒店 連招牌都快被路邊的樹叢擋住 但印入眼簾的內裝卻非常用心 用餐環境很老派 \
+        我們點了熟成牛排跟鴨胸 價格不俗但餐點非常精緻 開胃菜的干貝很推薦 味覺感受到千變萬化的刺激 \
+        熟成牛排點標準的三分熟 但失誤在我只點4oz 實在是份量不夠啊好可惜 鴨胸的炭烤味跟軟嫩度都沒話說 不過我們第一次吃鴨肝 難以言喻的味蕾刺激 \
+        最後甜點大推冰淇淋的香草口味 還有香蕉蛋糕 來自屏東的神奇巧克力 切開蛋糕同時把味道都融入其中 又甜又香 總之很適合想在紀念日享受高檔料理的朋友唷" },
+      { type: "link", content: "https://photos.app.goo.gl/YdfWmWqzsAAzSGdH7", label: "2022年11月3日 \
+        響應DOCTORMEME回應醫生很好賺的限動 昨天是我的值班日 早上0730之前到醫院 工作到1700後接著值班 值班後加護病房事情不斷 空檔的時間我都在趕下個禮拜臨時被要求的文獻報告 \
+        半夜呢 當然不是好好的睡覺 凌晨一點 兩點 三點 四點 五點 六點 七點都不斷有需要處理的事情打過來 加總睡眠時間四小時左右 \
+        現在呢 當然不是開心的下班 而是忙到0830交班後 繼續上班到晚上1800 這就是台灣內科住院醫生的生活 \
+        有人覺得等主治醫生之後比較輕鬆 別肖想了 主治醫生沒有勞基法保障 我常常半夜2300看到主治醫生在非值班日跟家屬病情解釋 結果隔天0630又看到主治醫生出現查房 \
+        而週末非上班日呢 當然是要自發性回醫院探視自己的病人 外加大小不斷的研討會跟學術會議 這樣的生活, 很多行業低的薪水 你會願意犧牲自己進來當菩薩嗎 別再以為醫生好賺了 有圖為證" },
+      { type: "link", content: "https://photos.app.goo.gl/jp8xD9EHKEBhbmnNA", label: "2021年11月3日 會診單發出新高度了" },
+      { type: "link", content: "https://photos.app.goo.gl/YFp71MweRTGVpnH6A", label: "2020年11月3日 今早 在醫院喝了杯有些苦澀的黑咖啡 從此踏上心臟內科醫師之路 真 下鄉醫師 CV 國軍花蓮總醫院" },
+      { type: "link", content: "https://photos.app.goo.gl/wWGEQzexUBya1ZE37", label: "2020年11月3日 這裡每天醒來好像住山中旅館醒來一樣" },
+      { type: "link", content: "https://photos.app.goo.gl/xf5jitGgoH49um8m6", label: "2020年11月3日 我好想趕快搬來花蓮 我不要在台北" },
+      { type: "link", content: "https://photos.app.goo.gl/oeNTNmDpLAXyW62X7", label: "2020年11月3日 來決定我的人生該往哪科走了 花蓮車站" },
+      { type: "link", content: "https://photos.app.goo.gl/MMv5Zew84Q5mW8Um7", label: "2018年11月3日 \
+        以前讀美術班的時候畫畫比賽都得獎 國小用三年的時間 自己畫了一整櫃的漫畫  只要下課午休就是畫畫 夢想是漫畫家 \
+        誰知道國中考上美術班 反而被老師當成數資班壓著讀書 後來不會畫畫了變成現在這樣子" },
+      { type: "link", content: "https://photos.app.goo.gl/gXkMdah2YQYYR7iP9", label: "2018年11月3日 掰掰 考試加油" },
+      { type: "link", content: "https://photos.app.goo.gl/egH7QbKp3vj94C1d9", label: "2018年11月3日 Raw file原始照片 Ps CC處理 Final" },
       { type: "link", content: "https://photos.app.goo.gl/U9Q4guUoruRoBKhJ6", label: "2017年11月3日 Back to Taichung and Tainan" },
       { type: "link", content: "https://photos.app.goo.gl/addufx6wsa1Mi1YW6", label: "2017年11月3日 不管再晚都會有人跌倒撞頭 縫了幾個病人頭皮了 半夜走進浴室請各位小心啊 三總急診室 愛睏不能睏" }
     ],
