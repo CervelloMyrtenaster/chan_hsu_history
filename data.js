@@ -2410,6 +2410,11 @@ const records = {
 
   "11": {
     "1": [
+      { type: "link", content: "https://photos.app.goo.gl/wg9jfX5jJsgh6ZDCA", label: "2025年11月1日 我差點以為AI影片XD" },
+      { type: "link", content: "https://photos.app.goo.gl/1VrF7kxgV3DRrSHk7", label: "2025年11月1日 這個超屌" },
+      { type: "link", content: "https://photos.app.goo.gl/aDgy7mmUc29e2ptp8", label: "2025年11月1日 今天這樣會太冷啦" },
+      { type: "link", content: "https://photos.app.goo.gl/jX9zRsghCeBXLTvi9", label: "2025年11月1日 我以為是生魚片丼哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/p5j44MWpUG6UTbTs6", label: "2025年11月1日 聲音也超像哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/jb7Mk6vudXFr6rs26", label: "2024年11月1日 \
         這個人可能沒有醫學相關背景 或沒有任何執照 三總ACLS也不可能讓他擔任專任教師 我們醫院是很嚴謹的 各位民眾要睜大眼睛看清楚 \
         好好諮詢身邊真正的醫護人員 再對比他的發文及用詞 就知道真假" },
@@ -2439,6 +2444,14 @@ const records = {
         私人原因沒有女生一對一家教 但會規劃班級課程歡迎所有人 請見諒 我要閉關修練更深層次的後製了" }
     ],
     "2": [
+      { type: "link", content: "https://photos.app.goo.gl/VU6CSx6wBh1BRrxH7", label: "2025年11月2日 不小心答的太認真 早知道不要亂取名字" },
+      { type: "link", content: "https://photos.app.goo.gl/6SiRCRKpXRJP23u99", label: "2025年11月2日 \
+        看著前面兩排的老師們 內心一直很納悶 每個週末好幾場的講座 這些心臟科老師幾乎都是熟面孔 幾乎都會出現 現場也會很熱情的分享知識跟case \
+        我相信他們平常絕對是超忙 超多病人的 90%生活應該都在醫院 但怎麼有辦法也把一堆假日都奉獻在心臟科 真的是太厲害了" },
+      { type: "link", content: "https://photos.app.goo.gl/ryDtNEJkdD5idGMs5", label: "2025年11月2日 下值班 小睡一下 再吃早午餐 馬上趕來上課 真的好累 整個週末都不是自己的" },
+      { type: "link", content: "https://photos.app.goo.gl/ePTbGBhuWFiWn1J98", label: "2025年11月2日 巧手的好吃午餐補充體力" },
+      { type: "link", content: "https://photos.app.goo.gl/LXHVTyQNnRvWNxKV7", label: "2025年11月2日 昨天值班 今天下午都在上課 上課前跟下課後都有早午餐跟晚餐 太讚的一天 牛肉湯麵大成功 超級成功好吃" },
+      { type: "link", content: "https://photos.app.goo.gl/tBjsSJBWT4jyJRuF7", label: "2025年11月2日 是哪個工讀生裝的" },
       { type: "link", content: "https://photos.app.goo.gl/mTAat8kt9KWy9n4y6", label: "2024年11月2日 我在樓上都有聽到你笑" },
       { type: "link", content: "https://photos.app.goo.gl/GJRHNkYijyvd2SsD6", label: "2024年11月2日 林氏璧您是我的偶像 真希望以後跟您一樣走出內科 有自己的人生..." },
       { type: "link", content: "https://photos.app.goo.gl/LiM1qCfZFpCRnC6z6", label: "2024年11月2日 本來就應該這樣啊 很棒" },
@@ -2478,6 +2491,15 @@ const records = {
         在日本自駕算是有經驗 但這次也遇上小車禍 有任何關於日本自駕如何申辦 小心事項 保險差別還有拍照景點 請追蹤ig並且從ig私訊詢問唷 我很樂意分享更多經驗" }
     ],
     "3": [
+      { type: "link", content: "https://photos.app.goo.gl/5FLGxW9c1ZNguniQA", label: "2025年11月3日 \
+        徵求one note高手解決問題 1000塊以上獎金可匯款 上週開始我電腦MAC M2 one note做完筆記 就無法同步到手機one note app \
+        我有檢查one drive上one note網頁版的筆記本 也同時沒有更新到我在電腦上做的筆記 我以為是容量問題 試用了付費版 把容量開到100g 但結果沒用 \
+        接著重新下載手機one note app也沒用 不管怎麼刷都無法更新 甚至在我升級one drive容量後 我網頁版的one note 再也打不開了 \
+        所以總共兩個問題 電腦one note筆記無法同步到網頁上 因此也無法同步到手機one note 這怎麼解 \
+        現在one note網頁的筆記打不開了 到底發生啥事 這是從PGY整理到現在的資料 修得好付2000元也沒關係 修不好換notion但超麻煩 有點崩潰" },
+      { type: "link", content: "https://photos.app.goo.gl/PnxgE79gqoCbJEsz5", label: "2025年11月3日 紀錄一下 感謝老師 LCX stent+IVUS" },
+      { type: "link", content: "https://photos.app.goo.gl/yDxX4uZcSqJLVuLdA", label: "2025年11月3日 這個AI做超像的欸" },
+      { type: "link", content: "https://photos.app.goo.gl/BJDoNsagaaM9xSCJ6", label: "2025年11月3日 給滿滿的情緒價值哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/p7qBwZPWsCiUoPLJ8", label: "2024年11月3日 女生正常會這麼兇嗎XD" },
       { type: "link", content: "https://photos.app.goo.gl/9comwn9yiZyKgRuz8", label: "2024年11月3日 這個要趁早去 感覺會被買完" },
       { type: "link", content: "https://photos.app.goo.gl/73VhHAtLy2DHw4mR7", label: "2024年11月3日 沒有騙人啊 很棒" },
@@ -2515,8 +2537,88 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/U9Q4guUoruRoBKhJ6", label: "2017年11月3日 Back to Taichung and Tainan" },
       { type: "link", content: "https://photos.app.goo.gl/addufx6wsa1Mi1YW6", label: "2017年11月3日 不管再晚都會有人跌倒撞頭 縫了幾個病人頭皮了 半夜走進浴室請各位小心啊 三總急診室 愛睏不能睏" }
     ],
-    "4": [],
-    "5": [],
+    "4": [
+      { type: "link", content: "https://photos.app.goo.gl/yNMd7rjaoJMj4ZY5A", label: "2025年11月4日 \
+        先問你為這個健保體制付了多少錢 你為醫師及護理師付了多少錢 沒付錢就閉嘴 醫護人員不是服務業 不需要服務你 媽的台灣真的很多鬼島民眾欠教訓 \
+        不爽就不要來醫院看 沒有醫院歡迎你 也沒有醫護欠你 需要醫護的是你 媽的搞清楚自己的立場 搞清楚在台灣你已經佔了醫護多少便宜 知足一點吧" },
+      { type: "link", content: "https://photos.app.goo.gl/5iAG4vS78hytRRve6", label: "2025年11月4日 嘻嘻 從以前拍照圈我就知道這個人有問題" },
+      { type: "link", content: "https://photos.app.goo.gl/VeMw3vrMXH8SVEfw9", label: "2025年11月4日 只有我可以捧場" },
+      { type: "link", content: "https://photos.app.goo.gl/jHNer2wwtVYcrYFq9", label: "2025年11月4日 真好看" },
+      { type: "link", content: "https://photos.app.goo.gl/vNYJgK4TuXUi9ErC8", label: "2025年11月4日 她怎麼那麼厲害 是不是有一百條聲帶哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/zM7jMZFnamKqEuni6", label: "2024年11月4日 這就是台北人的快樂哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/sHs9hNpmySoycexz5", label: "2023年11月4日 \
+        看著某位本該早已是VS的學長 用血淚寫下的文章 幸存者偏差 歷史由勝利者書寫 這句話看得我五體投地 這真切形容現況 在這個體制下 太多太多被體制踐踏的軍醫師 \
+        軍醫師的家庭也跟著受罪 檯面上因體制得到幸福的人 太少了 但表面卻只有他們被看到 把實況分享給外界醫師或公費生 都驚嘆我們居然能承受這一切 \
+        已經看過太多的軍費學長姐血淚之言 更多的只是沒寫出來 這兩個月也見證連兩位學妹用極端方式結束生命 我差點以為自己是在集中營工作 \
+        總之 這個體制下大家都非常努力活著 真的是努力 活著 加油了 為自己 也為同為軍醫的人" },
+      { type: "link", content: "https://photos.app.goo.gl/moaFndU11gf4K2PM7", label: "2023年11月4日 小孩噎到 不是哈姆立克法 是哈姆立刻扒皮法" },
+      { type: "link", content: "https://photos.app.goo.gl/tJF1X3EwFFBMz45W9", label: "2023年11月4日 CVS大師生日快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/mFA6V7ZL6x4YSQex8", label: "2022年11月4日 幸好你沒在三總訓練 不然這些都享受不到 值班值到飽" },
+      { type: "link", content: "https://photos.app.goo.gl/YReim3UWH5b7TrpZA", label: "2022年11月4日 唉都看不到 什麼時候能去" },
+      { type: "link", content: "https://photos.app.goo.gl/kvEfRXpLEPB4ojms5", label: "2022年11月4日 \
+        臉書應該很多社團打nikon canon or sony二手買賣就有 加入至少35萬人以上的 裡面假帳號的不要買 婚禮或工作機不要買 太老舊 相隔兩代以上 機型的不要買 \
+        沒有盒單的不要買 初階機型不要買 三大牌以外品牌不要買 換過快門簾的不要買 其他的眉角還很多難以用文字表達 \
+        另外3000元買不到相機不要肖想了 除非底片機 所以價格完全不合理 在二手社團問3000元買二手相機 除非正到國色天香 否則絕對被嗆到刪文 \
+        買相機原則上就是至少要比手機好用 不然不用浪費錢 比手機好的相機 差別在於夜景 星空 畫質跟連拍 鏡頭+機身預算大約15000 20000初頭 \
+        講白一點 買這個價位以下的都形同垃圾 回家佔空間而已XD 對了 越輕越簡的相機就越貴 越笨重的相機就越便宜 這點蠻多人誤會的除非傻瓜相機才有辦法便宜又輕便 " },
+      { type: "link", content: "https://photos.app.goo.gl/peSdeSS3GzQ6v3TM6", label: "2022年11月4日 下一張照片應該是他的臉被貓貓貓一拳XD" },
+      { type: "link", content: "https://photos.app.goo.gl/edwamuYGcnqAuM6fA", label: "2022年11月4日 食道癌的病人做完PET 請問圖中箭頭的位置是脾臟嗎 食道癌脾臟也會亮嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/kvovhh7e8NCZHKEKA", label: "2022年11月4日 忙碌中邊打病歷邊吃" },
+      { type: "link", content: "https://photos.app.goo.gl/3zfzMdtouZygV9Aj8", label: "2021年11月4日 \
+        看到這個突然回想到上週六幫忙疫苗診 我對所有來打的民眾都叮嚀一句話 胸悶胸痛喘呼吸困難 一定要馬上到急診 不要忍 \
+        不管是不是跟疫苗有關 說再多的衛教 不如講最保命的提醒" },
+        { type: "link", content: "https://photos.app.goo.gl/ADv2QKfsdRWzyppU9", label: "2020年11月4日 很多人第一次煎蔥油餅 都會不小心把他煎出鍋外 我也不例外 這時候只要把他放回去加溫殺菌即可 認真覺得我還算有點煮菜天份 吧" },
+        { type: "link", content: "https://photos.app.goo.gl/u9L2jqoYmBTfgzhC8", label: "2020年11月4日 第一次下廚養活自己 但蠻好吃的哈哈哈" },
+        { type: "link", content: "https://photos.app.goo.gl/vweuMRuDkewV2GrW9", label: "2020年11月4日 開箱祝賀" },
+        { type: "link", content: "https://photos.app.goo.gl/tnf6zizp9qqpgjRZ6", label: "2020年11月4日 感謝在國防遇到的每一位同學 幫助人生每一個階段度過繁忙的工作" },
+        { type: "link", content: "https://photos.app.goo.gl/DC8HyzivARqsD19c9", label: "2020年11月4日 感謝在遇到的每一位同學 幫助人生每一個階段度過繁忙的工作" },
+        { type: "link", content: "https://photos.app.goo.gl/8sUzUtcRhwKmm6i7A", label: "2020年11月4日 正威生日快樂 祝福你在內科找到工作的熱忱 走內科實現人生的成就" },
+        { type: "link", content: "https://photos.app.goo.gl/t1zum4nB6s6yowiS8", label: "2018年11月4日 這三個一週年&生日手作禮物卡片 不知道讓我在海上花了幾個夜晚" },
+        { type: "link", content: "https://photos.app.goo.gl/139SpDDJFcG7VYC2A", label: "2018年11月4日 這個月又要開始海上不知道飄好幾天了 唉我會加油的 每次短聚都給我滿滿能量" },
+    ],
+    "5": [
+      { type: "link", content: "https://photos.app.goo.gl/eWnwovaVAYFawi8N9", label: "2025年11月5日 \
+        從10月底困擾到今天的one note無法同步問題好像解決了 感謝谷歌工程師跟最後幫我重新下載app 原來根本問題是 電腦app更新的資料直接離線 \
+        所以東西都存檔在電腦而不是雲端one drive 間接導致雲端沒更新 手機也就無法同步 加上我之前用盜版的 所以雲端one note先買了正版的容量後反而被阻斷登入 \
+        這裡感謝提醒我買正版的重要性 總之感謝很多朋友的意見 貌似暫時解決 也把近期的筆記更新了" },
+      { type: "link", content: "https://photos.app.goo.gl/kHdja5D9LEY23iVc7", label: "2025年11月5日 你不可能祈禱所有人智商都在線 所以這些東西永遠都能騙到錢" },
+      { type: "link", content: "https://photos.app.goo.gl/M3mkdV6wiHaQdDiC7", label: "2025年11月5日 看來我有安慰到你那脆弱的自卑心了, 算今天做了一件好事 不過建議還是掛號看精神科比較好唷" },
+      { type: "link", content: "https://photos.app.goo.gl/DLDoEcuosHRMi1j3A", label: "2025年11月5日 人不怕無知丟臉這就是最經典的帳號" },
+      { type: "link", content: "", label: "2024年11月5日 \
+        因為聰明的人讀書不能中斷思考 所以必備物品必須擺出來才能馬上拿取 還有就是收拾會讓自己分心 因為收拾了一點就會想整理更多 時間因此被浪費 \
+        因此我很認真的說 真正聰明的人都只收拾該收拾的 但需要的東西不會浪費時間收拾 這樣會導致效率嚴重下降 高效率的完成事情跟產出作品 遠比只有收拾後的美觀重要" },
+      { type: "link", content: "https://photos.app.goo.gl/ihQWAhJGLFDT3ihcA", label: "2024年11月5日 對啊 那個大象很像蜘蛛哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/SmTmDp2ivaWQC4Lb7", label: "2024年11月5日 養貓貓必備" },
+      { type: "link", content: "https://photos.app.goo.gl/WkJoSgASJEYpcT4e7", label: "2024年11月5日 雖然我沒有什麼FUNCTION 但至少能守護偉大的導管戰士的早晚餐!" },
+      { type: "link", content: "https://photos.app.goo.gl/nXXbBU1YU4MaJEMSA", label: "2024年11月5日 能夠幫鄭V搬家過 是我的榮幸 這輩子可以說嘴了" },
+      { type: "link", content: "https://photos.app.goo.gl/oUh8V6GRgW3wmm4T9", label: "2024年11月5日 看起來是積怨很久了哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/TbM5NjiwZhMVpb2x5", label: "2024年11月5日 \
+        用心讓理解什麼是日照節約時間 期末考題 美國日照節約時間 調整前後之差異 下列敘述何者錯誤 一天一樣是24小時 白天總時長一樣 此人總睡眠時間一樣 此人白天活動時間多一小時 此人晚上活動時間相同" },
+      { type: "link", content: "https://photos.app.goo.gl/dXGU7tzkQCsWNNb47", label: "2023年11月5日 \
+        流浪的八九月 應該是R3最幸福的兩個月 應該留下文字紀錄 九月松山分院 松山分院是台北繁華市區裡的綠洲 有別於三總如天降大雨般的病人數及雜事 在這裡更多閒逸的氣氛跟和藹的老師們 \
+        內科R1開始便有自己的辦公桌 每個人都有電腦開order 在三總去開個會 查房 晚點到醫院就沒電腦用了 每天0800開始 主治醫生多會自己看完病人 也有會帶查房跟教學的 \
+        比起總院需侍奉某些老師 這裡更像一個平等的團隊 當然好的老師總院也有 值班累度大約是總院3233病房的1/3 2/3 雖然第一天值班就遇上急放葉克膜 值班隔天的早餐 感受滿滿老師的溫暖 \
+        中午準時的PM 能不再懼怕值班的辛苦 除了需自己組裝CVVH 剩下的分胸水腹水 送檢體 做EKG 都不虛忙碌的值班醫師來做 著實感受到外面醫院的正常光景 \
+        總的來說 松山分院內科有比三總小科 適合身心發展 值班數合理 有時間好好讀書跟充電 周圍也很多美食 步出醫院門口十分鐘路程 反觀三總步出醫院門口十分鐘才能走出院區 也很感謝學長每日帶交班 彌補孱弱不堪的內科知識 \
+        十月急診 急診曾經是內心渴求的科別 但真正身歷其境才知苦 不能只被連假的甜美吸引 我是進入狀況特慢的人 月底才慢慢適應步調 學習迅速整理病人的狀況並打會診電話真不習慣 \
+        也常常忘了接電話跟拿order單 快速的步驟 遲疑了幾分鐘 事情就被身旁的急診人做完了 常顯得自己多餘 卻也從他們身上看到迅速而有節奏的處理方式 \
+        急診像是每月急性的疼痛 每次12小時班都如中長距離跑步比賽 需要速度跟耐力齊聚 然而痛楚過後的甜美連假 卻能撫慰身心及完成許多夢想 內科像是好不了的慢性疼痛 雖然可以忍耐卻永遠緩解不了 \
+        不論上班下班依舊惦記醫院 也沒有什麼連假可言 只能說很感謝急診人的包容 很感謝讓我能處理一些雜魚小事 第一線面對最新鮮的病人 還要記得十多位患者的檢查治療進度並交班 感受到滿滿的衝擊 \
+        回歸後的十一月 這個週末終於上完AHA ACLS 聽說是能在美國CPR的 應該有過吧 最後附上跟學長聚餐閒聊 他整理了許多內科教學影片 大推薦追蹤跟訂閱他的頻道囉" },
+      { type: "link", content: "https://photos.app.goo.gl/5jRgZSNFoNQan1t56", label: "2023年11月5日 部隊兄弟創業 誠意滿滿 高雄的朋友可以參考" },
+      { type: "link", content: "https://photos.app.goo.gl/mWor21nr31Lhou897", label: "2023年11月5日 野原一家差小葵就完美了 下次去買小葵" },
+      { type: "link", content: "https://photos.app.goo.gl/Di31xpCsT4StVjvU7", label: "2023年11月5日 第一次GPS飄成這樣" },
+      { type: "link", content: "https://photos.app.goo.gl/TFP3kzYmugG4Ybh17", label: "2023年11月5日 查資料突然看到大阪跟京都的廣告 原來台灣有信義日本在弄 看看價格大概台幣1000 2000多萬就能住市區 忽然心動一下 就一下" },
+      { type: "link", content: "https://photos.app.goo.gl/mQHtctcWwTjzZajb7", label: "2022年11月5日 \
+        我到底這兩個月為什麼一直瘋狂趕報告 這些報告知識很多都非常刁鑽 我這個很需要時間讀基礎內專的人 做這些到底有什麼幫助 \
+        花了大把時間不見的真的懂很難的研究 卻犧牲我的生活品質 已經一個月沒有運動 也少很多時間學臨床的CASE" },
+      { type: "link", content: "https://photos.app.goo.gl/u5FKBqCuPfRL6c4Y6", label: "2022年11月5日 生日之請她吃大餐第二彈 第二次請吃大餐再慶生一次" },
+      { type: "link", content: "https://photos.app.goo.gl/EtU1iYzugRXgFp8P6", label: "2018年11月5日 \
+        到底是坐高鐵轉乘快呢 還是直接從台北搭客運快呢 我也很難用隻字片語來形容到這裡的路程 通常都得騎機車從營區出來 或走路 然後搭上往台北的火車 \
+        到了台北再走去搭往台中的高鐵 到高鐵之後再搭往埔里總站的客運 到了之後再走去附近租機車 最後慢慢騎到暨南找我女友 \
+        也許是感情依存 我不後悔來這裡找妳 就算這樣的路程我已經能回家兩趟 或許 妳畢業以後我們還是會想念" },
+      { type: "link", content: "https://photos.app.goo.gl/Mo9REd7PMotjwMPt6", label: "2018年11月5日 這是我的畢生夢想 這輩子工作很大部分為了實現這個夢 真希望跟這幾位醫生一樣" },
+    ],
     "6": [],
     "7": [],
     "8": [
