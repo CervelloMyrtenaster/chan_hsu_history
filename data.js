@@ -3,6 +3,11 @@ const records = {
   
   "1": {
     "1": [
+      { type: "link", content: "https://photos.app.goo.gl/LDhToHb7f5jmSCG76", label: "2018年1月1日 \
+        不好意思忘記跟你們 說我爸媽禮拜六臨時要來台北 所以我還去取消南下高鐵 造成你們觀感不佳 非常抱歉 \
+        我不會也不敢想凹你們 三天連假我值兩天也沒關係 真的不是故意搞你們 \
+        不是 我這禮拜是真的原本要回家 不是騙你啊 爸媽說要上來 改行程啊 \
+        我今天盡量提早回去 五點半以前應該沒問題 拍謝啦 三天連假我幾乎值兩天 留一天過年應該不過分吧" },
       { type: "link", content: "https://photos.app.goo.gl/RTELjgbrZ2q4LUvBA", label: "2017年1月1日 \
         這個跨年自己一個人過掉了 2016的上半年過得很美好 兩次一生難忘的海外旅行 與我最好的朋友和曾經至愛的人 \
         2016的下半年過得行屍走肉 進入臨床實習的轟炸 面對學業與人際溝通的考驗 上天安排了每個月給我跟最辛苦的主治醫生 \
@@ -2574,9 +2579,12 @@ const records = {
         { type: "link", content: "https://photos.app.goo.gl/DC8HyzivARqsD19c9", label: "2020年11月4日 感謝在遇到的每一位同學 幫助人生每一個階段度過繁忙的工作" },
         { type: "link", content: "https://photos.app.goo.gl/8sUzUtcRhwKmm6i7A", label: "2020年11月4日 正威生日快樂 祝福你在內科找到工作的熱忱 走內科實現人生的成就" },
         { type: "link", content: "https://photos.app.goo.gl/t1zum4nB6s6yowiS8", label: "2018年11月4日 這三個一週年&生日手作禮物卡片 不知道讓我在海上花了幾個夜晚" },
-        { type: "link", content: "https://photos.app.goo.gl/139SpDDJFcG7VYC2A", label: "2018年11月4日 這個月又要開始海上不知道飄好幾天了 唉我會加油的 每次短聚都給我滿滿能量" },
+        { type: "link", content: "https://photos.app.goo.gl/139SpDDJFcG7VYC2A", label: "2018年11月4日 這個月又要開始海上不知道飄好幾天了 唉我會加油的 每次短聚都給我滿滿能量" }
     ],
     "5": [
+      { type: "link", content: "https://photos.app.goo.gl/CENmbF3t9fH87tEK6", label: "2025年11月5日 \
+        在台灣醫療環境崩壞 醫師人力越來越缺乏的時代 網路上依然還是有這種惡意造謠 不斷攻擊醫生的帳號 可能他知道自己的文章漏洞百出 因此用假名發文 \
+        而且他還自己承認曾經考不上醫學系 看來就是一個得不到就要毀掉他的偏激性格 希望這樣的人越來越少 他不會影響到我們第一線救人的決心 但可能會對民眾傳達錯誤的價值觀" },
       { type: "link", content: "https://photos.app.goo.gl/eWnwovaVAYFawi8N9", label: "2025年11月5日 \
         從10月底困擾到今天的one note無法同步問題好像解決了 感謝谷歌工程師跟最後幫我重新下載app 原來根本問題是 電腦app更新的資料直接離線 \
         所以東西都存檔在電腦而不是雲端one drive 間接導致雲端沒更新 手機也就無法同步 加上我之前用盜版的 所以雲端one note先買了正版的容量後反而被阻斷登入 \
@@ -2584,6 +2592,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/kHdja5D9LEY23iVc7", label: "2025年11月5日 你不可能祈禱所有人智商都在線 所以這些東西永遠都能騙到錢" },
       { type: "link", content: "https://photos.app.goo.gl/M3mkdV6wiHaQdDiC7", label: "2025年11月5日 看來我有安慰到你那脆弱的自卑心了, 算今天做了一件好事 不過建議還是掛號看精神科比較好唷" },
       { type: "link", content: "https://photos.app.goo.gl/DLDoEcuosHRMi1j3A", label: "2025年11月5日 人不怕無知丟臉這就是最經典的帳號" },
+      { type: "link", content: "https://photos.app.goo.gl/BaH51h2CwFKY2rHd9", label: "2025年11月5日 浪浪都知道感恩XD" },
       { type: "link", content: "", label: "2024年11月5日 \
         因為聰明的人讀書不能中斷思考 所以必備物品必須擺出來才能馬上拿取 還有就是收拾會讓自己分心 因為收拾了一點就會想整理更多 時間因此被浪費 \
         因此我很認真的說 真正聰明的人都只收拾該收拾的 但需要的東西不會浪費時間收拾 這樣會導致效率嚴重下降 高效率的完成事情跟產出作品 遠比只有收拾後的美觀重要" },
@@ -2617,16 +2626,130 @@ const records = {
         到底是坐高鐵轉乘快呢 還是直接從台北搭客運快呢 我也很難用隻字片語來形容到這裡的路程 通常都得騎機車從營區出來 或走路 然後搭上往台北的火車 \
         到了台北再走去搭往台中的高鐵 到高鐵之後再搭往埔里總站的客運 到了之後再走去附近租機車 最後慢慢騎到暨南找我女友 \
         也許是感情依存 我不後悔來這裡找妳 就算這樣的路程我已經能回家兩趟 或許 妳畢業以後我們還是會想念" },
-      { type: "link", content: "https://photos.app.goo.gl/Mo9REd7PMotjwMPt6", label: "2018年11月5日 這是我的畢生夢想 這輩子工作很大部分為了實現這個夢 真希望跟這幾位醫生一樣" },
+      { type: "link", content: "https://photos.app.goo.gl/Mo9REd7PMotjwMPt6", label: "2018年11月5日 這是我的畢生夢想 這輩子工作很大部分為了實現這個夢 真希望跟這幾位醫生一樣" }
     ],
-    "6": [],
-    "7": [],
+    "6": [
+      { type: "link", content: "https://photos.app.goo.gl/72oK23L62VEGuMay5", label: "2025年11月6日 等到等打哈欠了哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/MQnmJ35tsSqRsVyp8", label: "2024年11月6日 抽菸就是該死啊 有啥好討論" },
+      { type: "link", content: "https://photos.app.goo.gl/7ooW6PKTCJUAv5s46", label: "2024年11月6日 我也是" },
+      { type: "link", content: "https://photos.app.goo.gl/MvvShxTtMDTGmriL9", label: "2024年11月6日 這個學妹真有禮貌 現在還有學弟是直接消失的 月底分數太低才來投訴 只能說新世代的觀念已經不一樣了 以後大家都走人人為己的路線" },
+      { type: "link", content: "https://photos.app.goo.gl/MCQQnxieCM3mXQPg6", label: "2024年11月6日 因為不懂日照節約日的概念 因此我趕快出了三題考題幫助她理解 題目看起來很長 其實很簡單都可以快速想出來 也可以用排除法作答" },
+      { type: "link", content: "https://photos.app.goo.gl/PbApPfTTpKfTPJjZ9", label: "2024年11月6日 不是 你是小聰明啊" },
+      { type: "link", content: "https://photos.app.goo.gl/g8fucs4H4GwE9xki6", label: "2023年11月6日 住院醫師要當得那麼卑微嗎 護理師 NP都是環境下的受害者 醫師不也是嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/4oUnVDoh6WjuKQBo8", label: "2023年11月6日 \
+        雖然我今天發生了很多不幸的事情 包含影響終身的悲慘大事 但還是要鼓起勇氣 好好努力 即便承受著痛苦 也要好好生活 珍惜身邊的人跟朋友 願一切安好 然後生日快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/5xH6FbLP6BEHMEL79", label: "2022年11月6日 有錢人就連車子都不怕撞 反觀我們平民" },
+      { type: "link", content: "https://photos.app.goo.gl/heg8rzgrqGKJNTi26", label: "2020年11月6日 有夠淺zz 工作並不是為了功名利祿好嗎 工作是為了溫飽肚子能夠對自己的獨立生活負責 不然想期待誰平白無故養妳 果然學校畢業了但心智還沒畢業" },
+      { type: "link", content: "https://photos.app.goo.gl/629H4AuQuperne1k8", label: "2020年11月6日 bradycardia如果小於10下是不是通常要立刻性的處理 那如果介於10 50下 是怎麼評估立刻性處理還是先觀察後續變化 除了血壓之外" },
+      { type: "link", content: "https://photos.app.goo.gl/f1djF1HwAXmdKEiK7", label: "2020年11月6日 \
+        56男主述胸痛 但沒有喘來急診 Ekg normal Lab data wbc12000 Ck Tnl normal 電腦斷層做起來長這樣 請問肝臟看起來白白的 \
+        上半部那裡 可能是肝硬化或什麼原因嗎 目前還沒診斷只是我很疑惑 謝謝@@ 這是正面" },
+      { type: "link", content: "https://photos.app.goo.gl/C8Se6q1ofj86BP848", label: "2018年11月6日 看到學長分 感觸非常非常深" }
+    ],
+    "7": [
+      { type: "link", content: "https://photos.app.goo.gl/ciPBjzdU9nS6weds5", label: "2024年11月7日 \
+        看著許多朋友每年固定的出國慶生 還有各種度假 反觀妳一起陪我在台北辛苦的過每一天 幾乎沒有出國玩甚至出遠門的機會 真的很謝謝妳的陪伴跟包容 \
+        今年生日需要值班 沒辦法好好慶祝 希望未來能有正常人的生活品質 繼續踏上全世界的拍照旅程" },
+      { type: "link", content: "https://photos.app.goo.gl/dkGzq7qQnLXVUgN38", label: "2024年11月7日 那請他多吸幾口氧氣 怕是很快就吸不到了" },
+      { type: "link", content: "https://photos.app.goo.gl/UGHWayS1eF93b5WWA", label: "2024年11月7日 生日快樂 居然在生日DAY值班 希望禮物一號能彌補這個過錯 然後等禮物二號漂回來 希望在台北這個動亂的時期趕快結束 能夠過上有品質沒壓力的生活" },
+      { type: "link", content: "https://photos.app.goo.gl/QpND8YbNMcfAgCxH8", label: "2023年11月7日 \
+        魚簍阿嬤特輯 魚簍有可愛的阿公跟阿嬤特輯 先分享阿嬤特輯系列 北越某處偏鄉 低矮的民宅格局像20多年前的台灣 \
+        走過陽光斜射下的影子 經過曬大量龍眼乾的鄰居 但旁邊好多蒼蠅 隔壁就是製作魚簍的老翁家 標配有兩位阿麼跟一位主人老翁 我猜也是越南僅存的一戶製作人家 \
+        這個地方只能由當地攝影導遊預約且攜帶入場 印入眼簾是長相超可愛的手工竹編魚簍 一大串綁在一起 兩位慈祥的阿嬤跟我們打招呼 \
+        早在10年前剛學攝影我就注意到有位國外攝影師拍過 十年後才發現原來在越南 對這個地方實在太有印象 因此第一眼真的是走進夢裡的場景 \
+        我們小心的拍攝 生怕弄壞了這些精緻又特別的魚簍 雖然一切都在20分鐘後被韓國攝影團打亂 他們一來就大呼小叫 各種移動魚簍 指示阿麼跟老翁擺pose \
+        這種感覺真的非常討厭 非常不尊重 我想擺拍要有底線在 才能紀錄體驗真實 所謂的攝影團真的到哪國都一個樣呢 \
+        最後老翁跟我們要了台灣的硬幣做收藏 趕緊掏了12塊給他 或許是來自台灣的旅客太少了呢 真的很喜歡這裡 希望他們都能快樂長壽 繼續編織著藝術結晶" },
+      { type: "link", content: "https://photos.app.goo.gl/4fGDZfh1Bw4R2SHT7", label: "2023年11月7日 這張空拍跟鬼一樣 真的有夠美 彷彿樹葉要衝破平面了 超想自己去拍 印刷裱框放家裡" },
+      { type: "link", content: "https://photos.app.goo.gl/LC9qZEfyo6vLqGWN9", label: "2023年11月7日 今天是吳展旭的生日" },
+      { type: "link", content: "https://photos.app.goo.gl/NBDDFp2AXPHyHc3N7", label: "2023年11月7日 學長謝謝 但今天不是我生日 不知哪顯示錯誤QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/JyyshhpgdwS4nDKU8", label: "2022年11月7日 \
+        一堆宣稱能降血脂的食物 一聽就知道是詐騙廣告 但無良商家拼命宣稱這些食物能降血脂 尤其紅麴 看到好幾次電視廣告了 每次都很想吐槽 \
+        這次終於真相大白 只有真正的降血脂藥才能降血脂 不要相信醫師開立以外的騙人商品" },
+      { type: "link", content: "https://photos.app.goo.gl/mDHAg27Rgtxx19vj8", label: "2021年11月7日 \
+        生日快樂&生活分享No.6 當內科住院醫師的日子 是台灣數一數二高工時 沒有加班費 沒有補假 沒有高薪 也沒有時間拍照修圖 \
+        雖忙碌如此 但不能忘記的 是祝今天生日快樂 謝謝妳的包容陪伴 不能有說走就走的旅程 也不能有下班就完全不管工作的放鬆夜晚 \
+        真的辛苦了 必須忍耐這些日子 希望以後繼續一起努力 一起拍照 一起享受生活唷" },
+      { type: "link", content: "https://photos.app.goo.gl/7EqUREK5VYjtxX6AA", label: "2021年11月7日 今天的乘客是某醫學中心的精神科黃醫師" },
+      { type: "link", content: "https://photos.app.goo.gl/KH1rYMyzSJHwS35R9", label: "2021年11月7日 生日快樂 超好吃的巧克力蛋糕 跟上個月才剛出的高級結果手機太舊不能用的手錶 度過今年平安的生日" },
+      { type: "link", content: "https://photos.app.goo.gl/Q7zXgixKsSjjxEmu5", label: "2020年11月7日 軍費生更慘" },
+      { type: "link", content: "https://photos.app.goo.gl/XhH9zDR5z7SWCmm28", label: "2020年11月7日 生日快樂 金色三麥 台中市政店" },
+      { type: "link", content: "https://photos.app.goo.gl/ry8MdPoP5kS2g5Ba7", label: "2020年11月7日 請問如果需要能清楚聽所有心音的聽診器 有推薦哪支比較好的嗎 請問雙管的是哪種 有推薦的牌子嗎 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/T6RTdQWFbs61kSBM7", label: "2018年11月7日 生日快樂 但今天我只能心靈上支持" },
+      { type: "link", content: "https://photos.app.goo.gl/oTiTtVrkzzYWq8T57", label: "2018年11月7日 宜蘭山城因為純樸與乾淨 拜託不要開發不要開發 什麼時候再一起去小旅行" },
+      { type: "link", content: "https://photos.app.goo.gl/nnZV9w2a5HwPpwjY6", label: "2018年11月7日 \
+        醫療知識關係到生命安全 並不是開玩笑能帶過 請不要散播或相信這種可惡的詐看文章 看到這種言論真的很氣 不管挺不挺同 \
+        很難相信有人會相信這篇文章 甚至明知大錯特錯的論調但為了反對而造謠 就算沒有醫療知識也會知道內容非常可笑" },
+      { type: "link", content: "https://photos.app.goo.gl/DTJBTyS81fmvULLd8", label: "2018年11月7日 謝謝可愛幫做蠻像我的人 很像醫療粉專的照片 讓我有動力換了頭貼" },
+      { type: "link", content: "https://photos.app.goo.gl/BJDBiER3vFSzfzA37", label: "2018年11月7日 \
+        台北市政府有展出我的作品 我完全無緣跟自己作品碰面 有好心朋友可以跟我作品合照給我看 我的作品展出在台北市政府站喔 但我無緣親自去看他 \
+        我的作品在台北市政府站展出喔 但我根本無法親自看到 漂泊人生啊 唉" },
+      { type: "link", content: "https://photos.app.goo.gl/tw7rDt7EB1LYpTeG7", label: "2018年11月7日 \
+        第二個生日我被督導轟炸的體無完膚 而妳也在期中考試與報告 但大浪中的燈塔非你莫屬了 每次的放假都是兩次的客運 兩次騎車一次高鐵才能在深山找到妳 \
+        但卻非常值得 祝18歲的妳生日大快樂 要好好跟我的大禮物相處喔 但內心還是會增長的 目前30歲" }
+    ],
     "8": [
+      { type: "link", content: "https://photos.app.goo.gl/oeqCc7YFMjKh4Gh2A", label: "2024年11月8日 這些心靈課程的白癡老師 很適合跟破壞承諾的政治人物大聲" },
+      { type: "link", content: "https://photos.app.goo.gl/febJGDKuKHxNMRjr7", label: "2024年11月8日 你為啥都還沒加我無名小站好友" },
+      { type: "link", content: "https://photos.app.goo.gl/2Yst5i44bZr4wGEF7", label: "2024年11月8日 不是軍職 都不知道軍職多可悲QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/PZ2gYF82piiL25Vi7", label: "2024年11月8日 我哪有那麼誇張~~" },
+      { type: "link", content: "https://photos.app.goo.gl/QRFVbVqjcEm11e188", label: "2024年11月8日 \
+        鐵砧山碉堡 夕陽 之前看見有人拍低空雲海搭配碉堡 就非常想來 前陣子甚至想拍流星搭配這個地景 可惜沒什麼時間拍照 這次踩點後來介紹一下 \
+        開車或騎車前往的話google鐵砧山大草原 建議停車在此 yt上有影片是開越野車上去 但極度不建議 一來路難走而且沒有迴轉空間 更可能會擦撞影響行人 \
+        從這裡走上去 慢慢步行約2030分鐘 走快一點更快到 走上去沒什麼遮蔽處但秋天開始很涼爽 搭配夕陽跟開闊的視野非常漂亮 \
+        傳統的視角是走到底V型向右轉上去拍 不過我是從左邊草叢拍攝 這是一個很親民的景點 希望遊客能愛護這個少見的碉堡" },
+      { type: "link", content: "https://photos.app.goo.gl/xQmPCRzEcu1qc7gc9", label: "2023年11月8日 \
+        攝影界的重磅消息 A9III全域快門的釋放 過去相機都是滾動快門為主 也就是拍攝瞬間由上至下感光 所以有時使用閃燈 閃快過可以同步的快門速度時 就會出現上面亮下面暗 \
+        或是拍攝動態系列時 同一張照片上下半部感光時間略有差異 而全域快門就是感光瞬間 由整片感光元件一起感光拍攝 不會有畫面上任何一點的時間誤差 \
+        對於風景應該還好 但動態跟人像創作這類的 是劃時代發明了" },
+      { type: "link", content: "https://photos.app.goo.gl/DPVYsax13yeMJa4f6", label: "2020年11月8日 笑死" },
+      { type: "link", content: "https://photos.app.goo.gl/xosS5opQQT4jD1hw5", label: "2020年11月8日 第一次吃到這種食物 大家猜猜這是什麼 是螺菰 是螺肉" },
+      { type: "link", content: "https://photos.app.goo.gl/c6AhV3XrdRpoUK1i6", label: "2020年11月8日 唯一支持的國防部高官" },
+      { type: "link", content: "https://photos.app.goo.gl/oBPegZxvJGJGZJwx9", label: "2019年11月8日 \
+        絕對數醫師賺的錢不只是正當 更是在台灣被剝削之後的賤價 健保已經讓台灣很多重症醫師做了多少沒薪水的功德了 羨慕醫師賺的相對好一點 \
+        根本不多 只是生活穩定 有本事來考看看有沒有資格進醫學院 再來試看看能不能撐過五六年以上幾乎沒有假日甚至一口氣上班超過40小時的惡質生活吧" },
+      { type: "link", content: "https://photos.app.goo.gl/1ZmNsxJjqnS1DEoD8", label: "2019年11月8日 哇喔喔喔喔喔喔 這是我收過最精緻漂亮的卡片 謝謝用心" },
+      { type: "link", content: "https://photos.app.goo.gl/zrkBe4qS6t9UbGGs6", label: "2018年11月8日 醫師也是要進階好嗎 不然 GY住院總主治分假的 時間還花的比護理師久 不用特別提第一句來誤導視聽 陳述你要表達的就好" },
       { type: "link", content: "https://photos.app.goo.gl/3J5rTuuNUVN8h7UB9", label: "2017年11月8日 回到內湖三總 準備今晚的演講 還有一個禮拜多連續急診上班" },
       { type: "link", content: "https://photos.app.goo.gl/AsJJ5kjzacQxw8QKA", label: "2016年11月8日 徵外拍模特兒 清新健康 攝影本是快樂事 車馬費詳談 可長期 文藻外語大學 西三C教室" }
     ],
-    "9": [],
+    "9": [
+      { type: "link", content: "https://photos.app.goo.gl/6TzGtHfi7uwpWHiE7", label: "2024年11月9日 這就是天蠍座哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/ZwLLqz5hAAhLe1Np9", label: "2024年11月9日 \
+        一定能 但畢竟台灣政府跟醫療官員都是弱智居多 他們那些智障只想當好人邀功 完全不會體恤酒駕受害者跟醫護人員 所以鬼島別想了" },
+      { type: "link", content: "https://photos.app.goo.gl/Dw4K6ZrtrgT2bWhj6", label: "2024年11月9日 八萬公里保養 大破錢包 賺都存不了多少錢" },
+      { type: "link", content: "https://photos.app.goo.gl/fbXSD2p53A9LQ2sK8", label: "2023年11月9日 \
+        無關乎醫學 已親眼見過聽過兩個案例 都是胰臟囊腫之類的 後續病人被發現其實是惡性 反過來告醫師 惡意求償數百萬 \
+        台灣的醫療環境並不好 遇到貪心貪錢的家屬或病人 醫師護理師是弱勢族群 但沒有人可以幫我們 那兩起案例 都靠著病歷跟護理紀錄證明醫療團隊已完善告知追蹤義務 \
+        才沒有被惡意的家屬敲詐數百萬 見過學長姐夠多辛酸血淚 病歷上一定要記載清楚有告知患者檢查結果及後續風險 \
+        無關乎知識 但被告一次 即便無罪 僅存的行醫熱情絕對一點都不剩" },
+      { type: "link", content: "https://photos.app.goo.gl/c72VMU8cqytDdjzZ8", label: "2022年11月9日 \
+        上次跟去綠島我把腳架摔爆 但謝謝公主大老遠幫我買到MARSACE 1543喔喔喔 雖然我已經很久沒辦法拍照了但還是好感動 今年最棒的禮物了嗚嗚嗚" },
+      { type: "link", content: "https://photos.app.goo.gl/hj1MuZusrXZBYuP87", label: "2021年11月9日 \
+        連台大醫科醫師都會被騙 全台灣應該沒人敢保證自己不會被騙 所以我決定分享一下 \
+        任何網購紀錄都要當成公開資訊 不要以為只有官方知道 任何要輸入匯款帳號的操作 就算是真正的銀行打來也不要做 \
+        任何指示你不在銀行現場的轉帳或匯款 絕對不做 以上做到就不可能被詐騙" },
+      { type: "link", content: "https://photos.app.goo.gl/DhFwaGh9ieP7wFZu9", label: "2021年11月9日 感覺有點厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/ttkyJJorYBQEGPEj7", label: "2020年11月9日 光是眷舍有得申請就屌打某台北醫學中心 唉" },
+      { type: "link", content: "https://photos.app.goo.gl/XxvK557dWQgxmXYV9", label: "2019年11月9日 這個月底終於可以放長假了 隊長 虱令部月底抽測戰技 我" },
+      { type: "link", content: "https://photos.app.goo.gl/g4tisJn8duNTFqRH6", label: "2019年11月9日 第一次投幣式自助洗車經驗的紀錄 避免下次再手忙腳亂" },
+      { type: "link", content: "https://photos.app.goo.gl/CMFZoK8Enq36JShB8", label: "2019年11月9日 推台中西屯油工廠 休旅機油1350 一大罐五公升 還比原廠高級 去保養原廠賣我五罐 小的 650*5=3250 瞬間省1900元還更高級" },
+      { type: "link", content: "https://photos.app.goo.gl/1vRsnCJobcDKku3X6", label: "2018年11月9日 \
+        為民發聲是很好 但事情能否不要虎頭蛇尾做一半 軍人退場機制被國防部擺了一道 軍醫空官退場就是3000萬 \
+        根本就想逼瘋不適應人員 退場機制形同虛設 可否請委員大力監督 別讓國防黑布繼續用惡法好嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/rb5sWcuNN1dLN3FB7", label: "2018年11月9日 沒有這個規定 沒有人說過要這樣 BJ4" }
+    ],
     "10": [
+      { type: "link", content: "https://photos.app.goo.gl/vwEcQqGm2GiyoJ9GA", label: "2024年11月10日 確實 不過我其實更推崇醫療費全額負擔及必須先付款 這才是保護醫療人員 台灣應該跟進" },
+      { type: "link", content: "https://photos.app.goo.gl/RAu53R98KWSQXd5h9", label: "2024年11月10日 婚攝day 超美 室內如 果拍幾張婚紗會很漂亮" },
+      { type: "link", content: "https://photos.app.goo.gl/v9ivse6xmcnjk8fs9", label: "2023年11月10日 五年前我才剛到海軍服役 在一級艦上生活真印象深刻應該很少人可以想像 還有每次放假都讓聞到沾滿衣服的船漆味" },
+      { type: "link", content: "https://photos.app.goo.gl/g2xvTyCahpCtUnCu9", label: "2023年11月10日 居然有這樣" },
+      { type: "link", content: "https://photos.app.goo.gl/aHKsdGxLJx8FoZEB6", label: "2023年11月10日 總覺得我現在老不只五歲了" },
+      { type: "link", content: "https://photos.app.goo.gl/StT9WZHqY9NqKKYGA", label: "2022年11月10日 \
+        請問症狀第十點 是表現type II mixed cryoglobulinemia還是表現Type I cryoglobulinemia Raynaud's phenomenon 小麻8th是寫Type I" },
+      { type: "link", content: "https://photos.app.goo.gl/ZjRWr7mjm2Ff9WVf8", label: "2022年11月10日 這兩個月的報告都好精實 都被要求最高規格 腦細胞已耗盡XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/sTtBRPpSudDpkV9L9", label: "2020年11月10日 單身也很好啊 財務跟投資規劃搞起來XD" },
+      { type: "link", content: "https://photos.app.goo.gl/3ybd32UXhNoFNLaNA", label: "2018年11月10日 柯市長一定當選" },
       { type: "link", content: "https://photos.app.goo.gl/ibUnW7vfoxCCS8pH8", label: "2016年11月10日 屏東東港東隆宮 返回陽間的感覺真好 可是已經過一半ㄌ" }
     ],
     "11": [
