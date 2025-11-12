@@ -2647,6 +2647,10 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/C8Se6q1ofj86BP848", label: "2018年11月6日 看到學長分 感觸非常非常深" }
     ],
     "7": [
+      { type: "link", content: "https://photos.app.goo.gl/JuL7qXVXqViPRLXY8", label: "2025年11月7日 生日快樂 今年應該是禮物最早又最多的一年" },
+      { type: "link", content: "https://photos.app.goo.gl/pqTefhnJjbVwZQew6", label: "2025年11月7日 幸好我都會幫你回去拿" },
+      { type: "link", content: "https://photos.app.goo.gl/YYwgg8wTakM273gdA", label: "2025年11月7日 好久沒有有氧 又慢了不少" },
+      { type: "link", content: "https://photos.app.goo.gl/M7wdGvXCjwpvv2cC7", label: "2025年11月7日 趕在今天結束前還是要Po一下 生日快樂 居然一起在台北打拼五年了 北漂的生活辛苦但也慢慢接近尾聲 以後也要繼續一起努力 一起去旅行" },
       { type: "link", content: "https://photos.app.goo.gl/ciPBjzdU9nS6weds5", label: "2024年11月7日 \
         看著許多朋友每年固定的出國慶生 還有各種度假 反觀妳一起陪我在台北辛苦的過每一天 幾乎沒有出國玩甚至出遠門的機會 真的很謝謝妳的陪伴跟包容 \
         今年生日需要值班 沒辦法好好慶祝 希望未來能有正常人的生活品質 繼續踏上全世界的拍照旅程" },
@@ -2689,6 +2693,15 @@ const records = {
         但卻非常值得 祝18歲的妳生日大快樂 要好好跟我的大禮物相處喔 但內心還是會增長的 目前30歲" }
     ],
     "8": [
+      { type: "link", content: "https://photos.app.goo.gl/CmA7BiArV36xy2ZB9", label: "2025年11月8日 看到這個超氣 鼓勵全台灣的醫生護理師都要硬起來 這種干擾看診的行為就是要教訓跟教育 我自己身為醫生 去掛號看診也完全乖乖排隊 乖乖等 乖乖繳錢 醫療本來就是建立在尊重上" },
+      { type: "link", content: "https://photos.app.goo.gl/SkGjD8VxDnc33q6C8", label: "2025年11月8日 這就是現在台灣醫療制度的偽善 應該提倡所有醫生跟護理師可以大力大方的糾正病患跟家屬 而不是各種受到委屈跟投訴都要自己小心 該小心的是這些白癡民眾" },
+      { type: "link", content: "https://photos.app.goo.gl/jJp8pAxwc1T7CvB89", label: "2025年11月8日 \
+        眉心遭子彈打中 腦袋裡早就被碎片衝擊成一團漿糊了 你跟我說不會馬上死亡 惡性主動脈剝離 主動脈剝離沒有分惡性不惡性 只分裂的位置 如果裂在降主動脈以下不一定會馬上死亡 \
+        在急診看過從升主動脈裂到下肢的common iliac artery也暫時活得好好的 不知道原PO是不是真的醫生 有看過病人 出題目但跟錯誤的答案跟解說 誤導大眾" },
+      { type: "link", content: "https://photos.app.goo.gl/z3FjNuL1xsiDLAaS7", label: "2025年11月8日 認同 不懂還賣弄 民眾誤以為真 真的臨床醫生一看就知道錯哪" },
+      { type: "link", content: "https://photos.app.goo.gl/cS8YLMRrxTM9JQy59", label: "2025年11月8日 所以他題目其實出的很不好 沒有貼近現實狀況" },
+      { type: "link", content: "https://photos.app.goo.gl/Pgx9AHc2tmS2nx6S8", label: "2025年11月8日 學長我覺得是上癮的問題 只能靠抽煙來紓解壓力" },
+      { type: "link", content: "https://photos.app.goo.gl/hyga7dyZhVWcAZMt7", label: "2025年11月8日 做過去的瞬間大家一起拍手很重要" },
       { type: "link", content: "https://photos.app.goo.gl/oeqCc7YFMjKh4Gh2A", label: "2024年11月8日 這些心靈課程的白癡老師 很適合跟破壞承諾的政治人物大聲" },
       { type: "link", content: "https://photos.app.goo.gl/febJGDKuKHxNMRjr7", label: "2024年11月8日 你為啥都還沒加我無名小站好友" },
       { type: "link", content: "https://photos.app.goo.gl/2Yst5i44bZr4wGEF7", label: "2024年11月8日 不是軍職 都不知道軍職多可悲QQ" },
@@ -2714,6 +2727,8 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/AsJJ5kjzacQxw8QKA", label: "2016年11月8日 徵外拍模特兒 清新健康 攝影本是快樂事 車馬費詳談 可長期 文藻外語大學 西三C教室" }
     ],
     "9": [
+      { type: "link", content: "https://photos.app.goo.gl/kWf4GbMFb26eT6GdA", label: "2025年11月9日 這他媽超沒品 我支持吊銷這個醫生的執照 如果屬實的話 建議大家去檢舉太可惡" },
+      { type: "link", content: "https://photos.app.goo.gl/TgNwFFcyGGmB1Hhj8", label: "2025年11月9日 哈哈哈哈超好笑" },
       { type: "link", content: "https://photos.app.goo.gl/6TzGtHfi7uwpWHiE7", label: "2024年11月9日 這就是天蠍座哈哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/ZwLLqz5hAAhLe1Np9", label: "2024年11月9日 \
         一定能 但畢竟台灣政府跟醫療官員都是弱智居多 他們那些智障只想當好人邀功 完全不會體恤酒駕受害者跟醫護人員 所以鬼島別想了" },
@@ -2740,6 +2755,12 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/rb5sWcuNN1dLN3FB7", label: "2018年11月9日 沒有這個規定 沒有人說過要這樣 BJ4" }
     ],
     "10": [
+      { type: "link", content: "https://photos.app.goo.gl/7iE312pRscM57Tm47", label: "2025年11月10日 這已經病入膏肓到嗆你都感覺自己格調降低了 留友看就好 自卑心也能擴張成世界奇觀 讓大家笑笑" },
+      { type: "link", content: "https://photos.app.goo.gl/Xe43DKudKbndnDnA7", label: "2025年11月10日 爸媽應該放棄了 畢竟連我們醫生也覺得救不了XD" },
+      { type: "link", content: "https://photos.app.goo.gl/EyeZmae7HPsBAe3b8", label: "2025年11月10日 這帳號說不定是真話俠本尊" },
+      { type: "link", content: "https://photos.app.goo.gl/qfxzyB1VnLxNczwa8", label: "2025年11月10日 大推 真的羨慕又崇拜 其實這才是我最想做的職業 如果可以重來 我真的想做全職海外攝影師 不論拍景或拍人" },
+      { type: "link", content: "https://photos.app.goo.gl/n3BEQQrpHfZb3taq7", label: "2025年11月10日 真可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/BtAwqWEsqWcmch6U9", label: "2025年11月10日 這太猛了 很難相信真的去上班" },
       { type: "link", content: "https://photos.app.goo.gl/vwEcQqGm2GiyoJ9GA", label: "2024年11月10日 確實 不過我其實更推崇醫療費全額負擔及必須先付款 這才是保護醫療人員 台灣應該跟進" },
       { type: "link", content: "https://photos.app.goo.gl/RAu53R98KWSQXd5h9", label: "2024年11月10日 婚攝day 超美 室內如 果拍幾張婚紗會很漂亮" },
       { type: "link", content: "https://photos.app.goo.gl/v9ivse6xmcnjk8fs9", label: "2023年11月10日 五年前我才剛到海軍服役 在一級艦上生活真印象深刻應該很少人可以想像 還有每次放假都讓聞到沾滿衣服的船漆味" },
@@ -2753,9 +2774,72 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/ibUnW7vfoxCCS8pH8", label: "2016年11月10日 屏東東港東隆宮 返回陽間的感覺真好 可是已經過一半ㄌ" }
     ],
     "11": [
+      { type: "link", content: "https://photos.app.goo.gl/G38vktxw8LJgFRLU9", label: "2025年11月11日 有大大知道這是重慶什麼飯店的view嗎 好像在紅崖洞" },
+      { type: "link", content: "https://photos.app.goo.gl/xSuY6XeeMeLi82Ns8", label: "2025年11月11日 有些人真的不配健保 更不配活著 台灣政府就是懦弱又無能 只會整天嚷嚷病人權益多重要 重要個屁 醫生護理師的權益才重要 保障醫護第一 再來談病人" },
+      { type: "link", content: "https://photos.app.goo.gl/bgW5kRAKBynSXMwQ6", label: "2025年11月11日 我剛回來也差點被吹回醫院" },
+      { type: "link", content: "https://photos.app.goo.gl/HjyrL9qyqBpv3wXE7", label: "2025年11月11日 看了我都想灌他幾拳" },
+      { type: "link", content: "https://photos.app.goo.gl/9cMhwEjRzT1nkuFcA", label: "2024年11月11日 如果沒有補習班獎學金 4000元是我從出生到國中畢業的壓歲錢總和" },
+      { type: "link", content: "https://photos.app.goo.gl/hbBTZrEbitS8SY5X6", label: "2024年11月11日 幹這好好笑XDDD 重點是阿嬤的安全帽是有正常下載完的 應該是機車還沒載完" },
+      { type: "link", content: "https://photos.app.goo.gl/ZTfbBJHD4Jn4iihu9", label: "2024年11月11日 不行喔 換衣服一定要叫男生全部滾出去 因為男生一定會偷看" },
+      { type: "link", content: "https://photos.app.goo.gl/uppJay7LmbcDWc5Y7", label: "2024年11月11日 每次急診會診也會遇到這種的" },
+      { type: "link", content: "https://photos.app.goo.gl/3didyG4KCSbkmTGv9", label: "2024年11月11日 如果當初我夠聰明 應該休學重考醫學系 考不上也沒差因為我一定考得上藥學系 可惜當初沒有貴人告訴我" },
+      { type: "link", content: "https://photos.app.goo.gl/H3FbdFvzQpsqdjk28", label: "2024年11月11日 藥師跟工程師 基本上都勝第一線的血汗醫師" },
+      { type: "link", content: "https://photos.app.goo.gl/7CouEuY41srj7E6k8", label: "2024年11月11日 \
+        恭喜友銓及沛儀 幸福滿滿 祝福你們 這次拍攝完就要暫時收心 把時間留給本業了 回想起十多年 跟奕宏於政大元David一起創作類婚紗 當時對於Fine art風格十分喜愛 也受KedaZ很多作品給了靈感 \
+        雖然十多年後仍無法如那些大師有能力創作神級作品 但也稍微有些心得了 很開心這次用不同以往的角度呈現 俯瞰角度果然還有很多能開發 一邊修圖 一邊想著內心更完美的畫面 \
+        希望可以是新娘仰躺在新郎懷裡 把白紗的裙擺攤開來成花狀綻放 手握大把紅玫瑰 最後賓客在周圍呈有秩序的圓圈 會帶來更震撼及集中的視覺效果 \
+        那顆對於風景及婚紗熱愛的火苗尚未澆熄 可現在不在允許一心多用 但多年以後 還要把握機會創作更多攝影作品" },
+      { type: "link", content: "https://photos.app.goo.gl/zfXLuCUPYDofLCoR7", label: "2023年11月11日 \
+        生日快樂 不知道一起度過的第幾次生日 每次都讓你找餐廳真是對不住 所以我一定會努力擔任好錢包君的角色 隨著年紀越來越大 生活不再是只有去哪玩 \
+        更多是工作順遂跟身體是否健康 無聊但很實際的過每一天 這也是成長的一部分吧 很感謝你的包容陪伴 我會努力拿捏工作跟生活的平衡 盡力保持正面情緒不被負面給壓過 一起存錢到世界各地拍照旅遊囉" },
+      { type: "link", content: "https://photos.app.goo.gl/XgNkts8aBHRe3iei7", label: "2023年11月11日 \
+        正確的NG位置 沒有繞口 沒有KINKIN 也沒有太深入 千萬不要小看放NG 即便放了很多次也有放不進去的時候 \
+        會覺得放NG很容易的人 若不是超強NG大師 通常都是NP 或放鼻胃管很多年的居家護理師之類 就是沒經驗的菜鳥 \
+        鼻胃管有許多的狀況會很難放 臨床上最常見的是無法配合的病人 例如病人抗拒鼻胃管 不斷在過程中咳嗽跟用力 另外就是完全沒反應的病人 一點吞嚥能力都沒有 \
+        因此我聽過很多招 例如將鼻胃管冰凍增加硬度 手伸進咽喉把NG拉進食道口 用棉花沾水讓病人吸食促進吞嚥動作 甚至聽說有NG guidewire \
+        我自己的作法 讓病人坐直 請看護或家屬扶住額頭固定 也請他們拿吸水棉棒給病人吸 病人若配合則可用自費較軟的矽膠NG 若不配合只能試健保較硬的塑膠NG \
+        放置時我會盡量頂著鼻腔後壁 配合病人吞嚥慢慢往內推 咳嗽時停手等待 切記急躁的放讓病人更容易嗆咳 會更易失敗 \
+        考OSCE時還需測量嘴角到下顎+下顎到胃部長度來估計深 實際上我都抓5560公分深 或3.5 4大格 \
+        再來則是重點 如何檢查是否放置正確 最常見做法是反抽胃內容物跟打氣聽診 但患者非常空腹時甚至聽不到聲音 這裡要注意 正規做法是 要照CXR來檢查位置 反抽順聽有聲音 \
+        鼻胃管也可能在食道裡繞圈 甚至我遇過怎麼都放不進去 結果居然是因頂到食道支架 鼻胃管可以kinkin 可以繞口 但也可以放進氣管造成吸入性肺炎 放進大腦甚至脊椎 \
+        放好NG也要跟家屬衛教 病人自拔機會太高要約束才行 最後分享故事 我曾因聽不到聲音 反抽不到而要求CXR確認 卻被護理師嫌麻煩因而鬧得不愉快 \
+        我了解照相 尤其ICU 對於忙碌的護理師的確有負擔 但CXR永遠是有沒有位置正確的鐵證 能聽診就聽診 但萬一無法確認就餵食造成吸入性肺炎 家屬告下去醫師絕對是責任最大的 \
+        希望臨床上大家相互體諒 讓患者風險降到最低 也避免後續醫糾的可能 祝大家放NG順利千萬別再放進肺裡" },
+      { type: "link", content: "https://photos.app.goo.gl/wRRg1Zz7yUkTLHsn9", label: "2023年11月11日 DK這次去的富士山有個超美的湖配天鵝 有大大知道這是哪個湖嗎 多年前去過但沒找到這個湖" },
+      { type: "link", content: "https://photos.app.goo.gl/gzHHUukDQ6MSXiFQ6", label: "2023年11月11日 難得一個月一次的完整週末 不用上班 睡了很久把上班極度疲憊給消除 也花了時間重整PS 買了年費方案 重新安裝所有外掛軟件 終於弄好了 但醫院的報告完全沒做 也沒有讀到書" },
+      { type: "link", content: "https://photos.app.goo.gl/S4Qv5dMx9YT1zJ7f7", label: "2022年11月11日 \
+        小烏來瀑布 小烏來很多作品都拍特寫 不過我習慣到哪都拍張廣角留紀念 結果發現還不錯 很有叢林與瀑布交雜的原始感覺 \
+        這張後製主要先突顯瀑布 作為主題 但較難的是樹叢的立體感 一樣秉持著受光面越亮的原則 一筆一筆刷 但不能搶過身為主角的河川" },
+      { type: "link", content: "https://photos.app.goo.gl/rs6bzHLwj3i2LXke8", label: "2022年11月11日 這個讚讚 需要二手腳架私" },
+      { type: "link", content: "https://photos.app.goo.gl/NgHP1LBWyk6i7usy6", label: "2020年11月11日 值班遇到一個棘手的問題但好像不緊急 一個很老的病人快expired了 CAPD可以直接在bedside拔嗎 我看那整個連在體內 還是剪掉皮膚表面的管路即可 在線等 拜託學長學姊提供解法QAQ" },
+      { type: "link", content: "https://photos.app.goo.gl/ktRzCNpb3eXoK16NA", label: "2020年11月11日 軍費生107年被迫接受臨時簽下不適服退伍 要賠償3161萬以上 是以上喔" },
+      { type: "link", content: "https://photos.app.goo.gl/JbEbvHXMBA13rE3u9", label: "2019年11月11日 這次自己買機油花了1300 保養項目只留必要的1305 只多了換雨刷跟空濾 1020+480=1500 所以總共2805+1300=4105 對比去高雄開價9200划算多了 養車還是要做功課的" },
       { type: "link", content: "https://photos.app.goo.gl/5uxQhntJZdxREUah7", label: "2016年11月11日 夠綠了還抽綠菸 沒事兒沒事兒 這跟抽完就要戒了 戒菸門診 抽煙 慎思" }
     ],
-    "12": [],
+    "12": [
+      { type: "link", content: "https://photos.app.goo.gl/83G7nroYZ5F2o3Qb9", label: "2025年11月12日 我怎麼錯過這麼漂亮的照片" },
+      { type: "link", content: "https://photos.app.goo.gl/gppibYVw2JGexv459", label: "2025年11月12日 屌 真的屌 這個貼文我給100" },
+      { type: "link", content: "https://photos.app.goo.gl/TEEQy5boox5uBiUm8", label: "2025年11月12日 還以為是蠟筆小新的哥吉拉的屁屁" },
+      { type: "link", content: "https://photos.app.goo.gl/R21PAfT4PZaNtgWJ9", label: "2025年11月12日 笑死 真 拍攝者不救XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/DjGQ2FVqgeSYW6gs5", label: "2024年11月12日 要振作起來 不能被絕望打敗" },
+      { type: "link", content: "https://photos.app.goo.gl/HLqEiUZLRQq4pq466", label: "2024年11月12日 哈哈哈應該是把兒子丟下去啦" },
+      { type: "link", content: "https://photos.app.goo.gl/ybeVFoUCUxcN9E4E7", label: "2023年11月12日 \
+        台北Just Grill Just grill真是令人口服的高質感牛排館 前菜區是自助Bar 有無限自取的煙燻鮭魚 涼拌蛤蜊跟肥美鮮蝦 其他水果 生菜沙拉等等當然一應俱全 新鮮又美味 \
+        湯品推薦焗烤洋蔥湯 解膩又香甜的口感很難忘卻 我們點快6000元的雙人牛排餐 加了服務費之後 有菲力莎朗跟肋眼各兩大塊的牛排 牛肉真的品質跟處理方法完全很高的層次 \
+        表面帶點酥脆跟烤焦 內在七分熟剛剛好 又嫩又不帶筋 每一口都是置身天堂 最後甜點是吃到飽的准盆子跟香草哈根達斯 滿足到不行 \
+        大推週年紀念或約會好處所 價格不菲但尊榮享受 然後建議偷偷準備花會更浪漫" },
+      { type: "link", content: "https://photos.app.goo.gl/trrHKZnUnuy2351T6", label: "2023年11月12日 讚讚 牛排超好吃" },
+      { type: "link", content: "https://photos.app.goo.gl/zxDSDi4Ym15W5KsU7", label: "2022年11月12日 \
+        建模是未來攝影後製的趨勢 技術很有深度 不容易一下子被學習模仿 而且作品能輕易的抓住觀眾 如果工作能不要如此耗盡心力 我真的很想學 \
+        再過幾年這個技術越普及 我們現在純拍跟後製的作品也會變成舊時代的產物 就像現在回去看底片或原圖直出的派別一樣" },
+      { type: "link", content: "https://photos.app.goo.gl/qwmR1ie1d3XH6BWt9", label: "2022年11月12日 不知道多久沒出國了 好想出國拍風景啊啊" },
+      { type: "link", content: "https://photos.app.goo.gl/SbZfBBC5mkGdHRSz5", label: "2021年11月12日 讓動物產生安全感真的很重要捏" },
+      { type: "link", content: "https://photos.app.goo.gl/Go8p6zFn3MwXEm338", label: "2020年11月12日 當醫生們挺身抗議 捍衛權益時 謝謝健保署總是拿出最堅強的後盾 把醫生的訴求阻擋在外 視而不見:)" },
+      { type: "link", content: "https://photos.app.goo.gl/maBovg96MZ9Scpfc8", label: "2018年11月12日 因為喜歡所以腦衝偷偷訂一本想給她驚喜 結果購買頁面都點完了才發現沒有付款頁面 是貨到付款啊啊啊啊啊 於是女友就乖乖自己付錢收下了 嗯嗯幸好她還願意乖乖收下 好囧我真的只有純心意 送禮不付錢的" },
+      { type: "link", content: "https://photos.app.goo.gl/4RT1wXuAEuG39iCR7", label: "2018年11月12日 \
+        巨蛋搞四年是遠雄害的好嗎 某些留言是智能不足嗎 請問柯批 醫院可以不要自費打白蛋白 自費打蜂蜜檸檬嗎 \
+        你是第一名 蜂蜜檸檬第二 該唱歌了吧 請問您目前胡言亂語的狀況是因為喝蜂蜜檸檬的後遺症嗎 蜂蜜檸檬可以長生不老嗎" }
+    ],
     "13": [
       { type: "link", content: "https://photos.app.goo.gl/oRC8qFPu8Z7kw1S49", label: "2017年11月13日 學障生日快樂唷 哈哈學長對不起 選字選太快 是長哈哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/sTGrtgruxpiRAn1w8", label: "2017年11月13日 大家去睡覺 留我獨守空急診室 三總急診室 睏" }
