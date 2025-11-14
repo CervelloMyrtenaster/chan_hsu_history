@@ -2841,13 +2841,77 @@ const records = {
         你是第一名 蜂蜜檸檬第二 該唱歌了吧 請問您目前胡言亂語的狀況是因為喝蜂蜜檸檬的後遺症嗎 蜂蜜檸檬可以長生不老嗎" }
     ],
     "13": [
+      { type: "link", content: "https://photos.app.goo.gl/Mu2NTNqbXzVzy7ZG7", label: "2025年11月13日 哈哈哈根本雙胞胎好可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/WtExYA3mdMCzsdxE9", label: "2025年11月13日 這個真的很可愛欸" },
+      { type: "link", content: "https://photos.app.goo.gl/RPQWFy8CbujSJxMe8", label: "2025年11月13日 我也嚇到哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/efvdYNdsPGEJmChb8", label: "2025年11月13日 他們跳來跳去好可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/DTofbkvUqazRuvJg7", label: "2023年11月13日 有推薦的買日幣帳戶嗎? 同時可以在日本刷卡有回饋的 跪求推薦" },
+      { type: "link", content: "https://photos.app.goo.gl/HyYsdutF2DEDqBfXA", label: "2023年11月13日 \
+        更新了最新PS 付費版問題一大堆 剛放好在右側欄位的STARTRAIL偶爾會自動消失 重開PS才會在視窗的延伸功能出現 為什麼右側放置好的功能會自己消失?? \
+        跑CAMERA RAW到一半當掉重開 明明只是用一個濾鏡而已就當掉 重開之後也沒有復原最後步驟?! 遮色片功能我調半天才弄好但即使用100% 他也沒辦法濃度刷到100% \
+        跟之前版本比都會比較淡 沒辦法把下方圖層完全刷出來?! 這週末都在處理各種亂七八糟的狀況 是因為我沒有刪除舊版PS嗎? \
+        還是M1 PRO本身比較爛? 我以為付費用新科技可以更方便 換來的是莫名其妙的介面跟時常出問題的功能" },
+      { type: "link", content: "https://photos.app.goo.gl/JiUavqd2WeccxGTy6", label: "2023年11月13日 \
+         台北FB食尚曼谷bistro&lounge 意外發現卻成為心目中台北最想再回顧的泰式料理 這次六人聚餐 我們點了2500元的套餐加上額外小菜 \
+         不論是泰式奶茶 炒青菜 綠咖哩到月亮蝦餅等 份量跟口味上都令人滿意 這裡超推軟殼蟹搭配麵包 第一次吃驚為天人 實在太好吃 光是外層醬料搭配麵包皮 \
+         就非常刺激胃口 裡面酥脆完全不帶刺的口感 把帶殼螃蟹提升到另一個層次 總覺得一個人就能吃一整道 為了泰式軟殼螃蟹而再回顧也值得的 \
+         店內空間 裝潢等都不錯 附近也有價格合理的停車場跟捷運站 走路只需8分鐘內 超級大推團體聚餐 交通方便又價格合理 實在推薦" },
+      { type: "link", content: "https://photos.app.goo.gl/AjdFqqdyzv9UeVe98", label: "2022年11月13日 原本今天一時衝動要去觀音山硬漢嶺 幸好下值班睡太久沒去成 什麼都拍不到XD" },
+      { type: "link", content: "https://photos.app.goo.gl/FCXXMsuLMTKQyHkt5", label: "2021年11月13日 \
+        存檔小知識&攝影分享 攝影照片檔案的遺失常是心頭痛 感謝專業的限時分享 並讓我紀錄在貼文分享 \
+        記憶卡的檔案簡單救援 下載Transcend的RecoveRx軟體來試試 很多人也知道的 如果記憶卡出問題 千萬別急著格式化 也不要繼續拍攝讓檔案被覆寫 以免減低救援成功的機會 \
+        讀卡的小動作 當電腦要讀記憶卡時通常需讀卡機 建議先插上讀卡機 再插記憶卡 因為有些讀卡機剛插入電腦會有電力不穩定的狀況 避免這種狀況馬上影響到記憶卡運作 \
+        第二點我以前沒有注意過 也沒遇過這種狀況 不過多一分注意 就少一分風險囉 有什麼記憶卡的突發經驗也歡迎分享在留言" },
+      { type: "link", content: "https://photos.app.goo.gl/vcYZyfoKBoTadJdA9", label: "2021年11月13日 第一次在新聞留言區看到最實用中肯的建議" },
+      { type: "link", content: "https://photos.app.goo.gl/nW32yLVuSvwqS9nr7", label: "2018年11月13日 類固醇治百病就是ㄌ" },
+      { type: "link", content: "https://photos.app.goo.gl/HHXZQDrEX3h2Bqws7", label: "2018年11月13日 哈哈哈好想自己去看看" },
       { type: "link", content: "https://photos.app.goo.gl/oRC8qFPu8Z7kw1S49", label: "2017年11月13日 學障生日快樂唷 哈哈學長對不起 選字選太快 是長哈哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/sTGrtgruxpiRAn1w8", label: "2017年11月13日 大家去睡覺 留我獨守空急診室 三總急診室 睏" }
     ],
     "14": [
+      { type: "link", content: "https://photos.app.goo.gl/wAHZCD3rK9Cn9n7B9", label: "2025年11月14日 普通醫生也不可能那樣炫富 頂多是加麵加兩份沒問題" },
+      { type: "link", content: "https://photos.app.goo.gl/ySqQyvnsxUYPAe9L6", label: "2025年11月14日 這是霸道大耳狗男友嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/Xyz5DSHLuCGYU8cr6", label: "2023年11月14日 \
+        就算身體真的生病 符合退伍資格 他們一樣會百般刁難 下從基層行政人員 上到副院長等級 都會為了升官等各自利益 想辦法磨損退伍當事人耐心 \
+        想辦法阻擋跟刁難 這就是軍醫局一貫手法 完全就是詐騙集團的典範 望周知 不要再有受害者" },
+      { type: "link", content: "https://photos.app.goo.gl/UxvR3psqqFYXFfMN8", label: "2023年11月14日 \
+        超感謝大家回覆 目前有整理了三家大家推薦最多的 超過三位朋友 第一個是RICHART \
+        第二個是大戶 我本來就有永豐大戶 可能先考慮這家 第三個是玉山 感謝大家回饋建議 彙整一下放限時也給有需要的朋友參考" },
+      { type: "link", content: "https://photos.app.goo.gl/7XNmqux56ts5eWoA8", label: "2023年11月14日 \
+        超愛河內街拍 各種細節跟畫面都很好構圖 而且不套風格檔都有點綠綠的感覺 想到日本修起來也很自然的會有通透感跟藍色 一個有文化的都市原來都有自己的顏色 台灣缺的就是這個" },
+      { type: "link", content: "https://photos.app.goo.gl/ch8Vdz74AhKhti5w5", label: "2023年11月14日 這裡的天空讓我想到差點弄丟去的空拍機 撿回來之後機翼破損不敢飛太遠 只好用手機跟相機隨意紀錄" },
+      { type: "link", content: "https://photos.app.goo.gl/Jz8D84U6QuHqeAnR8", label: "2023年11月14日 訂的士氣章還沒到 結果整理房間發現幾年前當兵的臂章 直接貼上去好像也沒違和 一個海軍的 一個陸戰隊的 這兩個單位都真的待過 也是很辛苦 回憶湧上心頭 國軍基層辛苦了" },
+      { type: "link", content: "https://photos.app.goo.gl/nYQ6TyepiUeLR2jK8", label: "2023年11月14日 \
+        歷經了快三天的時間 終於搞定更新後最新版PS的各種狀況 初步使用上選取這個功能真的方便 之後有空再來學習更多功能 對於照片細節的處理也更快速 \
+        另一個心得 買筆電建議捏著直上最好最高規格的版本 能用越久越好 每一次換筆電各種軟體跟設定重弄 超級浪費時間" },
+      { type: "link", content: "https://photos.app.goo.gl/dLB8MZMG1WQhC9BNA", label: "2021年11月14日 還有加印的現貨 2022桌曆 價格跟質感都兼顧 真的很便宜 盈餘也會捐跟貓貓狗狗 一起來支持 PS超級感謝之後跟我購買的朋友 你們的支持我們都記得" },
+      { type: "link", content: "https://photos.app.goo.gl/KD5zpzjBF39HivvV8", label: "2020年11月14日 也難怪如今醫師律師工程師 三師裡面醫師最低薪" },
+      { type: "link", content: "https://photos.app.goo.gl/1fLthXPwTFvLD6FV6", label: "2019年11月14日 高一分享科系請來大學老師 結果直接幫高一上大一的經濟課 能不睡著的果然只有高中生 大學生早就" },
+      { type: "link", content: "https://photos.app.goo.gl/1HNxesf9eSoSfjfw8", label: "2019年11月14日 還有可愛國企系大學生" },
+      { type: "link", content: "https://photos.app.goo.gl/NEBT4PrRgjbgNzYa9", label: "2019年11月14日 完了完了 昏睡人數增加了 是說大一生涯規劃結果直接 上大學經濟課 真的有傻眼XDDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/ESg5MTfbW9bXssXY9", label: "2019年11月14日 治療一下被部隊殘骸的心情 唉" },
+      { type: "link", content: "https://photos.app.goo.gl/SeJcQLUpkNEW8Ums7", label: "2018年11月14日 完美詮釋人民公僕的市長 目前只有柯文哲做到 台灣不需要很老實不講錯話的官僚 而是需要願意為台北拼命 智商高但造福到市民的市長" },
+      { type: "link", content: "https://photos.app.goo.gl/hA7ghqcscoHfn75M7", label: "2018年11月14日 \
+        本人記憶力超差 所以為了避免別人問我吃過啥推薦的我答不出來 而且也懶得詳細回想說明 而且也希望未來再去光臨時忘記吃了哪 \
+        所以創立單純紀錄+能快速搜尋美食的專頁 並不是為了經營他而創立 以後吃喝過的放在這裡 如果有興趣在追蹤" },
       { type: "link", content: "https://photos.app.goo.gl/FPmR6VvU63VacsFKA", label: "2017年11月14日 各位 教學Ppt完成囉 靜待我擬定攝影教學簡介跟說明" }
     ],
     "15": [
+      { type: "link", content: "https://photos.app.goo.gl/EXDcCrAC9cFsdSh88", label: "2024年11月15日 請問是因為放完支架沒有按醫囑吃DAPT嗎 Ps很棒的case 謝謝分享" },
+      { type: "link", content: "https://photos.app.goo.gl/ZWM4vhozgVcJV5uk8", label: "2024年11月15日 這裡我超想來!!! 哥之後跟你請益交通方式嗚嗚" },
+      { type: "link", content: "https://photos.app.goo.gl/suBM4zjwPJCVNBGU8", label: "2024年11月15日 \
+        長久以來是GARMIN愛用者 但他的充電線真的榮登所有電子產品第一爛 不知道有沒有朋友也在用GARMIN 充電線都充不了 只能重新買一條嗎? \
+        還是現在有新一代的GARMIN系統可以用? 不管怎麼充都充不了電" },
+      { type: "link", content: "https://photos.app.goo.gl/ChHwaSQcdv1RD2EH6", label: "2023年11月15日 \
+        Baker cyst 患者為60女性 診斷RA with flare up 這次因左膝關節發炎嚴重 組織液分泌累積在左膝後方 小腿肚的位置 形成Baker cyst 造成小腿緊繃的症狀入院 \
+        Baker cyst=膕窩囊腫 發生於膝關節後內側由膕窩滑膜囊所長出來的 類似手腕的腱鞘囊腫 這個滑膜囊是與膝關節相通的 當膝關節受傷或發炎時會產生過量的關節液 \
+        液體因而就會流入滑膜囊裡頭 使得滑膜囊變大形成囊腫 這位患者抽吸液非常黏稠 只能抽出2cc 後續會診外科醫師處理以改善症狀" },
+      { type: "link", content: "https://photos.app.goo.gl/szLdXccF4ZtupaAh7", label: "2023年11月15日 學長 生日快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/TpM6E5jpzShMf7HZ9", label: "2022年11月15日 我個人是不買電子股的 台灣50除外 但看到這個還是覺得很好笑 他們真是賺爛 但我寧願看著別人當爆發戶 我只要當穩定戶就好 努力工作累積資產我比較安心 這一年熊年 努力進補金融股!!" },
+      { type: "link", content: "https://photos.app.goo.gl/ECWPSi5WuHKKwDHu6", label: "2021年11月15日 感謝購買" },
+      { type: "link", content: "https://photos.app.goo.gl/iadJZYtG4V2tPjtB6", label: "2020年11月15日 真的 鞋子越漂亮的科越難選XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/se9sugkR3T2oVmbY7", label: "2019年11月15日 海軍聯合婚禮" },
+      { type: "link", content: "https://photos.app.goo.gl/Vcx5ju5poawW3KRQA", label: "2018年11月15日 終於 希望這是第一次好好放到完整輪休" },
       { type: "link", content: "https://photos.app.goo.gl/iwgoACHHBfo24dwn9", label: "2017年11月15日 \
         遇到很棘手的case 男65 右胸痛到右臂 右手冰冷酸痛 大約一個禮拜 無搬重物無外傷 病史只有氣喘 CXR CHEST CT EKG都沒問題 目前等抽血data 請問我該懷疑什麼 覺得不是扭傷就是什麼血管堵住" },
       { type: "link", content: "https://photos.app.goo.gl/7CyExPdU9Br4hmBF9", label: "2017年11月15日 攝影後製正式接受預約 實習繁忙 每個月不會接太多 但必定全力教學分享" },
@@ -2861,6 +2925,24 @@ const records = {
         今晚病人多到哭 各種奇奇怪怪 有要跟醫師pk打架ㄉ 有摔酒杯手掌動脈噴血 有妹子自割脖子因為跟閨蜜吵架 有恨三總醫生還是來三總急診的破眼皮大叔 還有很多其他的說不完" }
     ],
     "16": [
+      { type: "link", content: "https://photos.app.goo.gl/7pTbUea8Rt1uw8DL9", label: "2024年11月16日 雖然我平常都幫醫師講話 但這狀況 真的是這位太扯 有點在亂搞病人 VS有責任好好訓練他" },
+      { type: "link", content: "https://photos.app.goo.gl/1iEdFVM41SFsYizx6", label: "2023年11月16日 \
+        河內市景 與其說河內攤販們是在買賣 反而更像市民生活的展示 林林總總的商品 遍佈在門口 掛在牆上 鋪在地上 但卻帶有秩序感 每個角落 都有他們自成的畫面 \
+        如果不努力擺脫工作 出國去看看這世界 就會錯過這些美麗的人間藝術 \
+        比起工作 我更在意自己的人生有沒有踏足世界 有沒有一直去旅行 去看看世界的人文跟大自然 如果只剩工作當初又何必出生" },
+      { type: "link", content: "https://photos.app.goo.gl/DEoRcf6bxWTJcKdH9", label: "2022年11月16日 \
+        200元只限定急診病人 而且病況整理完可能要30分鐘 520分鐘報告主治 再1020分鐘補order 不包含值班再去處理他的狀況 至少要耗一個小時 \
+        有執照的醫師時薪200元 也算是台灣奇蹟了 啊忘了值班24小時只有60元 200真的很多" },
+      { type: "link", content: "https://photos.app.goo.gl/zdbrz6n1zCRGPvQg9", label: "2022年11月16日 後面全部吸二手菸 肺癌製造人 我的超人" },
+      { type: "link", content: "https://photos.app.goo.gl/gsVmLaDeBwvwiUNZ8", label: "2022年11月16日 52102新病人剛報到" },
+      { type: "link", content: "https://photos.app.goo.gl/CwbbxrRo4edsHfcE8", label: "2022年11月16日 太帥了吧" },
+      { type: "link", content: "https://photos.app.goo.gl/jP2nXf3nfwQX3SEM6", label: "2021年11月16日 BCP8628 精神大樓 黃網線上停車" },
+      { type: "link", content: "https://photos.app.goo.gl/mVpcwuPVL1Zx2Ar69", label: "2021年11月16日 不賣蘋果派 不賣薯餅 不賣麥香雞很棒啊 這樣就完全不會想進去消費 麥當勞乾脆關店也沒差 離健康又更進一步了" },
+      { type: "link", content: "https://photos.app.goo.gl/Q8v4Ni2s1ssjXmfe9", label: "2018年11月16日 哪個市長能對市政如此了解 沒有 因為藍綠只了解自己會不會發財賺錢 謝謝柯市長" },
+      { type: "link", content: "https://photos.app.goo.gl/BnXhxpu7y2Rs9soC9", label: "2018年11月16日 就說鹼性酸性水是騙人的 這些前輩是" },
+      { type: "link", content: "https://photos.app.goo.gl/itQ9VpoRQhWVaRMF7", label: "2018年11月16日 任憑弱水三千 我只取一瓢飲 學習國外高級後製 堅持拍出台灣風景更精緻 質感更高的作品 澎湖四天四島嶼攻略見下網址" },
+      { type: "link", content: "https://photos.app.goo.gl/KynGYYz9dgrmcPgT7", label: "2018年11月16日 可能不能去" },
+      { type: "link", content: "https://photos.app.goo.gl/yraDLUeWvzjHr3pH8", label: "2018年11月16日 薯條狗" },
       { type: "link", content: "https://photos.app.goo.gl/LzGQV6HbWA74eN9y5", label: "2017年11月16日 \
         如果可以我也想以拍照為職遊走天涯 但很可惜 當初的選擇必須走下去 白袍的重量不輕 其實每個人都是這樣 都有他自己的生活 自己的故事 要去完成 這是我家鄉的日出雲海 歡迎一遊純樸的台南" },
       { type: "link", content: "https://photos.app.goo.gl/MZcSQCPV8Bjf573m7", label: "2017年11月16日 答 帶狀皰疹 蛇皮 掀開衣服一看答案出現 因為帶狀皰疹通常前胸先痛 慢慢往肢體痛下去 之後才出現紅疹 也難怪昨天萬分急診沒有抓出來" }
