@@ -2869,6 +2869,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/sTGrtgruxpiRAn1w8", label: "2017年11月13日 大家去睡覺 留我獨守空急診室 三總急診室 睏" }
     ],
     "14": [
+      { type: "link", content: "https://photos.app.goo.gl/bjs5qhpJTxbApHGG8", label: "2025年11月14日 學弟真是又帥又厲害" },
       { type: "link", content: "https://photos.app.goo.gl/wAHZCD3rK9Cn9n7B9", label: "2025年11月14日 普通醫生也不可能那樣炫富 頂多是加麵加兩份沒問題" },
       { type: "link", content: "https://photos.app.goo.gl/ySqQyvnsxUYPAe9L6", label: "2025年11月14日 這是霸道大耳狗男友嗎" },
       { type: "link", content: "https://photos.app.goo.gl/Xyz5DSHLuCGYU8cr6", label: "2023年11月14日 \
@@ -2897,6 +2898,8 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/FPmR6VvU63VacsFKA", label: "2017年11月14日 各位 教學Ppt完成囉 靜待我擬定攝影教學簡介跟說明" }
     ],
     "15": [
+      { type: "link", content: "https://photos.app.goo.gl/h7nk5whW3GTznNnV8", label: "2025年11月15日 我以為尼克星是在做效果 但看下來他是真的EQ極低 也難怪專長只剩下拳擊XD" },
+      { type: "link", content: "https://photos.app.goo.gl/n2JE5rg4PsA7YvCaA", label: "2025年11月15日 好可愛欸" },
       { type: "link", content: "https://photos.app.goo.gl/EXDcCrAC9cFsdSh88", label: "2024年11月15日 請問是因為放完支架沒有按醫囑吃DAPT嗎 Ps很棒的case 謝謝分享" },
       { type: "link", content: "https://photos.app.goo.gl/ZWM4vhozgVcJV5uk8", label: "2024年11月15日 這裡我超想來!!! 哥之後跟你請益交通方式嗚嗚" },
       { type: "link", content: "https://photos.app.goo.gl/suBM4zjwPJCVNBGU8", label: "2024年11月15日 \
@@ -2925,6 +2928,18 @@ const records = {
         今晚病人多到哭 各種奇奇怪怪 有要跟醫師pk打架ㄉ 有摔酒杯手掌動脈噴血 有妹子自割脖子因為跟閨蜜吵架 有恨三總醫生還是來三總急診的破眼皮大叔 還有很多其他的說不完" }
     ],
     "16": [
+      { type: "link", content: "https://photos.app.goo.gl/RU5JqWRJhMiQpNeS7", label: "2025年11月16日 \
+        很多人都追蹤樂冠廷 我跟他不熟但從他粉絲很少的時候就知道他 不得不說他這照片是完全在騙 標記這個點 後面的樹超高 旁邊都是電線桿 而且是俯角拍攝 我自己知道怎麼後製處理 \
+        我會弄掉電線桿 把樹修低 把山拉高甚至出動空拍機拍就能得到跟你一樣的照片 問題是你把慕名而去的粉絲當小丑 普通大眾興致高昂去了結果浪費時間 \
+        其他照片跟本人我不評論 但就這種騙粉絲流量的行為實在看不下去 就算我有修圖也是在光線 天空跟小地方做調整 而不是整張圖幾乎都是普通人做不到的事情 \
+        內行人騙外行人 唉唉 現場長這樣 是要普通人怎麼修成那樣" },
+      { type: "link", content: "https://photos.app.goo.gl/NDodpeyAEGybcukp9", label: "2025年11月16日 好啊這個沒有一堆肌肉就可以" },
+      { type: "link", content: "https://photos.app.goo.gl/633BsN6jWHKaW2ui7", label: "2025年11月16日 這是今際之國的比賽場地嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/LJ9NSpCtt9BfnK3i9", label: "2025年11月16日 Lexus真的是蠻漂亮的" },
+      { type: "link", content: "https://photos.app.goo.gl/KAdaaaXp3RYr8j7G7", label: "2025年11月16日 我快笑死哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/FE2FnwheJwUBF1626", label: "2025年11月16日 改成應徵乾女兒 太扯了" },
+      { type: "link", content: "https://photos.app.goo.gl/BfpaRwNrkL4c1tKDA", label: "2025年11月16日 哈哈哈哈超可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/Z3ekp6K5WCJnMHSw6", label: "2025年11月16日 大推的貓糧" },
       { type: "link", content: "https://photos.app.goo.gl/7pTbUea8Rt1uw8DL9", label: "2024年11月16日 雖然我平常都幫醫師講話 但這狀況 真的是這位太扯 有點在亂搞病人 VS有責任好好訓練他" },
       { type: "link", content: "https://photos.app.goo.gl/1iEdFVM41SFsYizx6", label: "2023年11月16日 \
         河內市景 與其說河內攤販們是在買賣 反而更像市民生活的展示 林林總總的商品 遍佈在門口 掛在牆上 鋪在地上 但卻帶有秩序感 每個角落 都有他們自成的畫面 \
@@ -2947,10 +2962,82 @@ const records = {
         如果可以我也想以拍照為職遊走天涯 但很可惜 當初的選擇必須走下去 白袍的重量不輕 其實每個人都是這樣 都有他自己的生活 自己的故事 要去完成 這是我家鄉的日出雲海 歡迎一遊純樸的台南" },
       { type: "link", content: "https://photos.app.goo.gl/MZcSQCPV8Bjf573m7", label: "2017年11月16日 答 帶狀皰疹 蛇皮 掀開衣服一看答案出現 因為帶狀皰疹通常前胸先痛 慢慢往肢體痛下去 之後才出現紅疹 也難怪昨天萬分急診沒有抓出來" }
     ],
-    "17": [],
-    "18": [],
-    "19": [],
+    "17": [
+      { type: "link", content: "https://photos.app.goo.gl/Kc1Wa8RUDDiSSYo2A", label: "2025年11月17日 這真是我買過最正確的公仔之一 比奇堡居民們 比奇堡居民們真是我買過最正確的公仔之一" },
+      { type: "link", content: "https://photos.app.goo.gl/XJgkZbMdrg8uM4g9A", label: "2025年11月17日 \
+        左邊修成右邊只要一分鐘 我只能說現在修圖功能越來越方便 越來越強大 真的不要想分享地點但是放跟原本差太多的照片 因為這樣會讓相信你的粉絲像小丑一樣白跑一趟" },
+      { type: "link", content: "https://photos.app.goo.gl/A5tx6ftukM7wvNci8", label: "2024年11月17日 前天手錶沒電先跑兩公里 今天手錶充電 雖然雨一直下但還是再出門跑 但有將近一公里GARMIN沒記錄到" },
+      { type: "link", content: "https://photos.app.goo.gl/pFJEjiJLBtdDygyt6", label: "2024年11月17日 連續試了數百次都充電失敗 今天特別出門買充電線回來 結果都還沒拆新的 舊的馬上恢復正常充電 GARMIN充電線真調皮" },
+      { type: "link", content: "https://photos.app.goo.gl/Z2oUnBYDHzgmfk5C7", label: "2024年11月17日 被黃繼正醫師驚訝到 這是我聽過主治醫師英文發音最標準 最流利的之一 真的好厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/HE9AjQK9HKQSCakC8", label: "2024年11月17日 下值班沒得休息 趕緊跟學長一起聽演講" },
+      { type: "link", content: "https://photos.app.goo.gl/mfpPwyiCiRavaC4H7", label: "2021年11月17日 五月有推薦大家的國泰金 已經如預期站上60元 有跟著買的應該一張都賺7000以上" },
+      { type: "link", content: "https://photos.app.goo.gl/VHHyK71vjLGXrTbM9", label: "2021年11月17日 \
+        國泰61元了 富邦金明年站穩80 跟開發金有機會站穩20 可以買 如今來看 怎麼會買貴呢 \
+        看0050就知道 代表人類生產能力 長期一定走高 大跌就是要重押0050跟大權值金融股 因為無腦買即可 完全不需要花額外時間學習 人生更美好" },
+      { type: "link", content: "https://photos.app.goo.gl/G42AVzzrwXTZ65o16", label: "2021年11月17日 \
+        目前可以無腦買的金融股價位 富邦80元以下 首推 預估股利一張4-5元 開發20元以下 首推 預估股利1元 元大25元以下 次推 已達目標可獲利了結或等明年股利 一張至少1.5元 \
+        國泰60元以下 已達目標可獲利了結或等領明年股利 一張至少3-3.5元 兆豐32元以下 已達目標可獲利了結 明年股利跟今年差不多 中信22元以下 已達目標可獲利了結或等領明年股利 一張至少 1.2-1.3元 \
+        玉山 合庫 第一不推 因為發股票股利 若獲利穩定成長就可以開始買 純銀行跟其他金融股我不懂 \
+        以上推薦價格意思是明年保守至少會到的價位 提早到可以賣出獲利 沒有到也可以領比往年更多的股利 至於後年以後我無法預估 但如果崩盤我肯定大買" },
+      { type: "link", content: "https://photos.app.goo.gl/798G4XV3ShL7z8oc6", label: "2021年11月17日 請問正常放置使用期限是多久 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/5Qb7vn2SEivu3V4r5", label: "2020年11月17日 \
+        沒有病史的20多歲男性被電擊後ohca Rosc後呈現如圖st depression 請問rosc後心電圖呈現st depression是常見的嗎 看到這種情況會懷疑nstemi嗎 \
+        後來馬上送導管 果然不意外都沒阻塞所以我才有此疑問 附上當下心電圖 這是做完導管後兩小時的 有需要胸部電腦斷層報告我可附上 \
+        掉進含有導電線的水池 他是工人 後來救護車給他cpr然後電了兩次 心跳才回覆 \
+        揭曉一下我認為是答案的結果 我認為有兩種可能 一種是一開始掉進含電水池電傷 不過這樣應該體表要有傷口 不過該病人體表都沒電傷痕跡 \
+        另一種是急救電擊兩次造成的心臟受傷 這時候我就疑問了 cpr電擊造成心室壁受傷的機率大嗎 跪求心內大神開示 \
+        這位病人讓我覺得很有趣 當然希望他趕快康復 再麻煩大家提供想法 因為我還真的沒聽過心臟急救電擊會造成ischemia change" }
+    ],
+    "18": [
+      { type: "link", content: "https://photos.app.goo.gl/foQTfnB86HASsdDb6", label: "2025年11月18日 成為桌上的療癒小物XD" },
+      { type: "link", content: "https://photos.app.goo.gl/JAZyjxJUgwKZ7BDP6", label: "2025年11月18日 我也要看這個" },
+      { type: "link", content: "https://photos.app.goo.gl/zqoHMxWGdNWehCgR6", label: "2024年11月18日 \
+        如果要我具體一點形容 護理師是藥師三倍辛苦 薪水只有1/3 醫師是藥師五倍辛苦 薪水只有2-3倍 甚至有些藥師當老闆薪水完全不輸名醫 \
+        整個醫療體系裡面 藥師算是最聰明的選擇之一 取得難度適中 薪水又是中上 發展又多元 有一定無法取代性 CP值真的很高 低端奢華就好 版主不用發文出來討噴" },
+      { type: "link", content: "https://photos.app.goo.gl/GLajWHsSQxquvzuSA", label: "2024年11月18日 笑死 這當然是當了醫師才知道好嗎 沒當醫生之前是懂個屁 你才應該覺得自己奇怪" },
+      { type: "link", content: "https://photos.app.goo.gl/wxraLAjFzqqqPb6K6", label: "2024年11月18日 可以來考醫學系看看啊 花一整個童年讀書 還可能花幾年重考 再花七年畢業 然後輪值班第一線要去急救 每天碰血痰尿 還會被告被家屬打 薪水可能只有你們兩倍不到XD" },
+      { type: "link", content: "https://photos.app.goo.gl/wDXCNCW6CescFGU56", label: "2024年11月18日 不用值班 不用第一線面對病人 不用被告 還是鐵飯碗跟專業執照一個月有7-11萬 嫌什麼?" },
+      { type: "link", content: "https://photos.app.goo.gl/9pUHFpxPLBAMK8KN9", label: "2023年11月18日 \
+        做報告真的很討厭碰到免疫這塊 因為一堆標記跟基因 根本看不懂 用了好幾個晚上查資料跟整理 沒辦法好好運動 沒辦法好好查臨床不會的問題 \
+        也沒辦法讀內專FC 壓力大之餘 還要靠AI幫忙找資料 做個報告健康跟作息虧爛" },
+      { type: "link", content: "https://photos.app.goo.gl/UQgPGkwptqpEvFxu5", label: "2023年11月18日 住院醫生平均1-2個月就一定要報告一次 醫院的報告不能開玩笑的 而且又很難 壓力山大" },
+      { type: "link", content: "https://photos.app.goo.gl/cmEgNvA27VkmjHTe6", label: "2023年11月18日 去北車旁邊吃鍋 回程路上看到玩具有毒 整個超好買 正版而且超便宜 這隻超大小白才680元 立馬帶走" },
+      { type: "link", content: "https://photos.app.goo.gl/udf9fMj4kbMW9hEn9", label: "2023年11月18日 這個就比較貴了帶不走" },
+      { type: "link", content: "https://photos.app.goo.gl/spRYFtdnYHRa7THw6", label: "2023年11月18日 買了小白 抽到一隻小葵 還有本來就有小新跟他爸媽 一家團圓囉" },
+      { type: "link", content: "https://photos.app.goo.gl/ZuFe6SN1LPA6uqEYA", label: "2023年11月18日 最近被燒到 右邊五隻是廠商送錯 店家全新五隻260元 在7-11轉蛋一隻就120元了" },
+      { type: "link", content: "https://photos.app.goo.gl/inryM5bu9DLRU66x7", label: "2021年11月18日 CV的學長都好優秀 各種校外發光發熱" },
+      { type: "link", content: "https://photos.app.goo.gl/Wi8kGFNM53SSTYNh8", label: "2021年11月18日 趁國軍點數截止前趕忙亂買一波 國軍戰術手套 皮厚 指節有強化硬墊 發生行車糾紛打架可以好好保護關節XDDD 讚" },
+      { type: "link", content: "https://photos.app.goo.gl/wXL3CZmrvnsqToSC7", label: "2020年11月18日 2020 堪稱我人生中最多重大決定跟最累最累的一年" },
+      { type: "link", content: "https://photos.app.goo.gl/2taw3D5TM1DTHg1G8", label: "2018年11月18日 有這樣的口才沒有奉獻海軍真是可惜" }
+    ],
+    "19": [
+      { type: "link", content: "https://photos.app.goo.gl/rsMDnXoRoJmJws9c7", label: "2025年11月19日 早上過了一個超長的CTO 但其實過彎後我可能早就督爆病人血管了 模型的血管才經得起這樣督 Gaia1-Gaia2-Gaia3-conquest pro-Gaia3" },
+      { type: "link", content: "https://photos.app.goo.gl/BpauaBvGASTzASx48", label: "2024年11月19日 \
+        這個問題近幾年內專都會考 問就是看最新版harrison寫的 比較白癡的是 48-72小時開刀那個在選項敘述裡面 好像是出院前開刀 沒記錯的話" },
+      { type: "link", content: "https://photos.app.goo.gl/L7LEaqkdVAdXYtW56", label: "2023年11月19日 2023最適合擺放在家的小物 這隻比例超完美 沒有死角 笑死超可愛 適合放在家" },
+      { type: "link", content: "https://photos.app.goo.gl/4rhGacpMZztrkwDo6", label: "2023年11月19日 \
+        巨人第一集到最後一集都追完了 沒有漏掉 是很好看 但完全沒有大家這種想哭的感覺 自己覺得不夠悲慘 也不夠打動心裡 好看但無感 \
+        總覺得航海王某些角色的遭遇更讓我難過 例如佛多朗明哥那個吃奶嘴的部下或大熊的身世 或蠟筆小新有些情節更動人 例如松阪老師跟德郎" },
+      { type: "link", content: "https://photos.app.goo.gl/3i26r4bEiVVBGg8o8", label: "2022年11月19日 幫我拍一張結果拍我正在抓癢" },
+      { type: "link", content: "https://photos.app.goo.gl/HHvpjTN67TLXKbZVA", label: "2022年11月19日 上次拍照應該100年前了吧" },
+      { type: "link", content: "https://photos.app.goo.gl/xk9MDDbAWhHfzpJE6", label: "2022年11月19日 昨天值班 明天也值班 睡眠不足也要動起來維持心肺功能" },
+      { type: "link", content: "https://photos.app.goo.gl/NDH4RPBaMrJ4pAco6", label: "2020年11月19日 半路被一個叔叔超車 後面才追回來 平常沒練長距離真的太勉強" },
+      { type: "link", content: "https://photos.app.goo.gl/vsDrmm8dzEWcd4RB7", label: "2020年11月19日 壓力很大 上夜班急診前 來個慢速十公里跑步好了" },
+      { type: "link", content: "https://photos.app.goo.gl/b4fnTXtBFD1tmGiP9", label: "2020年11月19日 \
+        我上網找了很多關於defibrillation後會不會造成心肌損傷的paper 包含比例高低 心肌哪部分容易受損等等 但幾乎沒有資料 \
+        有醫師大大做過關於這方面的資料或文獻 可以讓我參考嗎 穴穴TAT" },
+      { type: "link", content: "https://photos.app.goo.gl/vuvtXHd9ZQiQdE2o8", label: "2019年11月19日 超級小確幸時間 超級小確幸之二 宵夜" }
+    ],
     "20": [
+      { type: "link", content: "https://photos.app.goo.gl/okgDpKafw47DsGkh6", label: "2024年11月20日 問他有沒有聽過胃食道逆流" },
+      { type: "link", content: "https://photos.app.goo.gl/UPWRsA6euQs7tkRLA", label: "2024年11月20日 辛苦了~" },
+      { type: "link", content: "https://photos.app.goo.gl/dBsY2cqqG9isXxM26", label: "2023年11月20日 嚇到 AI原來可以這樣對答跟提問 他真的會去查文章回覆 不曉得是拼字亂答還是真的答案 但快要讓我相信" },
+      { type: "link", content: "https://photos.app.goo.gl/u2fR3t8StC9h9s2t6", label: "2023年11月20日 我獲得繼續做報告的燃油了" },
+      { type: "link", content: "https://photos.app.goo.gl/RAEdVjkr3ebsMjFo9", label: "2023年11月20日 搞了三個禮拜的免疫細胞 這張圖可以簡單代表剛好一半的瓶頸 另一半瓶頸還沒找到示意圖 要去解釋這些圓球的作用跟未來可能的治療 好痛苦" },
+      { type: "link", content: "https://photos.app.goo.gl/uCtyvowrQj6nvTZ67", label: "2023年11月20日 今年跨年101煙火 有好友要去特別的拍點拍嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/TGjGY3C2oRq99ZB99", label: "2022年11月20日 太詳細了 那請問101大樓是因為他有101公尺高嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/pZsqhYTqGPHwTAmk6", label: "2021年11月20日 誠品的裝置藝術好特別" },
+      { type: "link", content: "https://photos.app.goo.gl/JraBG9AdmwnSUBrh8", label: "2019年11月20日 真的很想直接賞他巴掌 沒本事幫忙就算了 還在害醫師害病人" },
       { type: "link", content: "https://photos.app.goo.gl/NWtUBZKnrTv1o2wX9", label: "2017年11月20日 \
         井裡望天 是想俯瞰大地 還是不甘拘束 近期開始攝影後製的家教課囉 有興趣的朋友詳細如下 \
         教學內容 會先了解您目前程度作調整 但基本會有 基礎講解 構圖光線等想法 包含晨昏高反差銀河 氣象判讀 後製步驟 完整圖層遮色片 \
