@@ -3029,6 +3029,9 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/vuvtXHd9ZQiQdE2o8", label: "2019年11月19日 超級小確幸時間 超級小確幸之二 宵夜" }
     ],
     "20": [
+      { type: "link", content: "https://photos.app.goo.gl/yxd5EyX578HnLuGU7", label: "2025年11月20日 11月最後一個小任務 要收心開始讀書了" },
+      { type: "link", content: "https://photos.app.goo.gl/ReVjgJqVJEsBDWG26", label: "2025年11月20日 居然不覺得唐突" },
+      { type: "link", content: "https://photos.app.goo.gl/psH7CjeHXkEcjS4U9", label: "2025年11月20日 也不一定 說不定是LCX dominant來幫忙" },
       { type: "link", content: "https://photos.app.goo.gl/okgDpKafw47DsGkh6", label: "2024年11月20日 問他有沒有聽過胃食道逆流" },
       { type: "link", content: "https://photos.app.goo.gl/UPWRsA6euQs7tkRLA", label: "2024年11月20日 辛苦了~" },
       { type: "link", content: "https://photos.app.goo.gl/dBsY2cqqG9isXxM26", label: "2023年11月20日 嚇到 AI原來可以這樣對答跟提問 他真的會去查文章回覆 不曉得是拼字亂答還是真的答案 但快要讓我相信" },
@@ -3047,6 +3050,30 @@ const records = {
         ppt無法copy給予 也無法錄音錄影 但可當場做筆記紀錄 一對一限男性" }
     ],
     "21": [
+      { type: "link", content: "https://photos.app.goo.gl/RTSGutYNaLhgSNio8", label: "2025年11月21日 目前負債1800多萬 還要償還快十年 就只是因為當初高中畢業時不懂事 唉" },
+      { type: "link", content: "https://photos.app.goo.gl/16tdJAuJ8Wp4ykrp9", label: "2025年11月21日 那倒是不一定 沒專科的醫生做沒專科醫師能做的事情 有專科的醫生做沒專科的醫生不能做的事情 說真正做事大多都是沒專科的醫生這句話是錯的" },
+      { type: "link", content: "https://photos.app.goo.gl/CxHV5w6iUBFpeF137", label: "2025年11月21日 都是放假太短了!!!" },
+      { type: "link", content: "https://photos.app.goo.gl/U8GVsS7vfUH52fKD7", label: "2025年11月21日 這樣也被看出來" },
+      { type: "link", content: "https://photos.app.goo.gl/ZuduukAKK1bhwQC27", label: "2025年11月21日 好猛的嗆法XD" },
+      { type: "link", content: "https://photos.app.goo.gl/qDD7b2CSCZShkoEu8", label: "2025年11月21日 哈哈哈台灣人居然接力幫他紀錄" },
+      { type: "link", content: "https://photos.app.goo.gl/qweRNSzbSE2TuPHB6", label: "2025年11月21日 好啊帶你去" },
+      { type: "link", content: "https://photos.app.goo.gl/Zij7AZSLiSzCDDZCA", label: "2024年11月21日 今天也要走進健身房" },
+      { type: "link", content: "https://photos.app.goo.gl/qBo2biwmDao3E2xt6", label: "2023年11月21日 \
+        腎病症候群何時該預防血栓 腎病症候群何時該預防性使用抗血栓藥物? 這是個非常冷門的問題 第一次被問時很疑惑 \
+        把uptodate資料整理成簡單的重點分享給人生很無趣的內科醫生們 除了內科應該沒人想知道 懶人包 Alb<3要用 然後再分出MN 不是MN的NC跟懷孕的族群 各自有使用建議" },
+      { type: "link", content: "https://photos.app.goo.gl/CFEehnRr9VSzAdU47", label: "2023年11月21日 感恩 讚嘆" },
+      { type: "link", content: "https://photos.app.goo.gl/XLJjg2d1gSQCiTTX8", label: "2023年11月21日 \
+        台北 waku waku burger101店 WakuWaku漢堡主打牛肉系列 特點是肉量充足且口感奇佳 價格就正常 加上飲料大約400-500元/人 \
+        最推薦洋蔥圈牛肉堡 洋蔥圈是細的那種 外層酥脆 搭配漢堡咬下去香味就爆開來 漢堡的外層麵包也很鬆 可以輕易的壓縮而不需要挑戰嘴巴的極限 \
+        副餐的薯塊超多 稍微失望因為並沒有很脆的外皮 整體而言最推洋蔥圈牛肉堡 用餐建議騎機車 但50公尺內有市場的公共停車場 也可開車過來 " },
+      { type: "link", content: "https://photos.app.goo.gl/zJJC7brgpRNVxJhC8", label: "2022年11月21日 懂了懂了 你們都比我遇到的奇怪爬山阿公幽默XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/qgq26ZvJXeHLEpfM7", label: "2021年11月21日 Anti在特殊抗藥菌的小整理 CRE的部分不知道最常用的到底是哪些 只看到POLYMYXIN 還請指教 " },
+      { type: "link", content: "https://photos.app.goo.gl/3aFE8yNpQGpRyWeC8", label: "2020年11月21日 大家都說超有家的感覺XD" },
+      { type: "link", content: "https://photos.app.goo.gl/3CgLyeJQH1mDndby6", label: "2019年11月21日 已買 33元這樣划算耶" },
+      { type: "link", content: "https://photos.app.goo.gl/sy4rSgcpiB7argPD8", label: "2018年11月21日 \
+        長官的好意讓我第一次能好好放6天 當然也在船上連待了十天跟疫苗還有校閱奮鬥 跟醫院工作相比或許現在只是很不穩定 但單就見面的次數也比較多 也快一年了慢慢磨合很多小習慣與價值觀 \
+        我覺得可以認識自己的方法 才不是什麼旅行 少裝文青 而是遇到一個願意相陪的女友 才知道自己有多少缺點跟不經心 這才是認識自己吧 發現我私版怎麼都是她" },
+      { type: "link", content: "", label: "2018年11月21日 一邊讀書 一邊不讓自己對目前的生活想太多" },
       { type: "link", content: "https://photos.app.goo.gl/agjFjVueCfvaM4y48", label: "2017年11月21日 到底 救護車膩 我的智障室友" }
     ],
     "22": [

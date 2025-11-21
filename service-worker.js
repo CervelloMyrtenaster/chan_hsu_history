@@ -1,5 +1,5 @@
 // 快取的名稱加上版本號
-const CACHE_NAME = 'chan-hsu-history-20251119-2100';
+const CACHE_NAME = 'chan-hsu-history-20251121-2130';
 
 // 需要被快取的核心檔案
 const urlsToCacheOnInstall = [
