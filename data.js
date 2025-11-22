@@ -3057,6 +3057,8 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/ZuduukAKK1bhwQC27", label: "2025年11月21日 好猛的嗆法XD" },
       { type: "link", content: "https://photos.app.goo.gl/qDD7b2CSCZShkoEu8", label: "2025年11月21日 哈哈哈台灣人居然接力幫他紀錄" },
       { type: "link", content: "https://photos.app.goo.gl/qweRNSzbSE2TuPHB6", label: "2025年11月21日 好啊帶你去" },
+      { type: "link", content: "https://photos.app.goo.gl/BK2VggHJM84v6a64A", label: "2025年11月21日 我也是Y" },
+      { type: "link", content: "https://photos.app.goo.gl/kUn6v2BDix6Q4iDr7", label: "2025年11月21日 為什麼是在滅火器前面跳XD" },
       { type: "link", content: "https://photos.app.goo.gl/Zij7AZSLiSzCDDZCA", label: "2024年11月21日 今天也要走進健身房" },
       { type: "link", content: "https://photos.app.goo.gl/qBo2biwmDao3E2xt6", label: "2023年11月21日 \
         腎病症候群何時該預防血栓 腎病症候群何時該預防性使用抗血栓藥物? 這是個非常冷門的問題 第一次被問時很疑惑 \
@@ -3077,8 +3079,30 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/agjFjVueCfvaM4y48", label: "2017年11月21日 到底 救護車膩 我的智障室友" }
     ],
     "22": [
-      { type: "link", content: "https://photos.app.goo.gl/cYf3diFJ6qwMKbi98", label: "2017年11月22日 \
-        使用luminosity能讓我快速 無痕跡的合成銀河 無天空地面交界的多餘痕跡 想知道如何製作 可以私我 預約我的後製家教課程" }
+      { type: "link", content: "https://photos.app.goo.gl/vZ8tGdy39YmNL3fJ7", label: "2025年11月22日 心臟舒張功能異常這幾年真是更新到嫑嫑的 去年看過教科書比較老舊死板的內容 今年再參照ASE NEJM TSOC還有學會幾次的演講 把老師們教的東西都湊在一起再濃縮 也是做的嫑嫑的" },
+      { type: "link", content: "https://photos.app.goo.gl/DtvwFVXt2hmfSYdR9", label: "2025年11月22日 這樣一個完美的101機位 政府居然不多加配合富邦發展觀光 讓大家能有沒有玻璃隔閡的景拍 真的真的真的太可惜了 唉" },
+      { type: "link", content: "https://photos.app.goo.gl/s8mpSFqi1BwNfZaC7", label: "2025年11月22日 富邦大樓的角度應該是周邊拍攝101最完美的角度 有富邦大樓的員工未來能夠私下提供拍攝位置嗎 花錢也沒問題 想記錄沒有玻璃擋住的超美台北夕陽 這裡絕對是最有潛力的拍點" },
+      { type: "link", content: "https://photos.app.goo.gl/eQFhP9uUf6jHG4NYA", label: "2025年11月22日 戒掉手遊 啟一個美好的早晨 太厲害了 補一下超好吃早午餐跟奶茶" },
+      { type: "link", content: "https://photos.app.goo.gl/F9Xy7KYzLGcrugr2A", label: "2025年11月22日 公費生還好多了 這是ㄐ" },
+      { type: "link", content: "https://photos.app.goo.gl/ZVa27N1rfdLXG6Gv9", label: "2025年11月22日 等還完債我才敢講" },
+      { type: "link", content: "https://photos.app.goo.gl/NLGnTTJ28VBET2H6A", label: "2025年11月22日 我也要跟他玩" },
+      { type: "link", content: "https://photos.app.goo.gl/dzTPuTS2aXtPu2VFA", label: "2025年11月22日 超級修長有氣質" },
+      { type: "link", content: "https://photos.app.goo.gl/uxZWtAKitZX76N6k9", label: "2025年11月22日 慈禧復活了" },
+      { type: "link", content: "https://photos.app.goo.gl/xe7JLzLqsGgVHDF99", label: "2024年11月22日 真可愛的小孩 他跟貓貓一定是朋友" },
+      { type: "link", content: "https://photos.app.goo.gl/W3g4EcCPAj4Lv2Ry8", label: "2024年11月22日 累壞 今天成功勾中人生第一次的診斷導管 之前三次勾RCA都一直飄走 今天主任很有耐心的帶領 內心感激痛哭" },
+      { type: "link", content: "https://photos.app.goo.gl/4hyMscxPWj3F8gTB9", label: "2024年11月22日 怎麼那麼可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/QDoe53zDk7f587xU8", label: "2023年11月22日 \
+        我是吳展旭 我很喜歡風景攝影 我希望大家都能愛上拍照 並享受當下的自由 作品的成就感 大景哥這次的攝影課程 題材從晨昏 銀河甚至極光分享國際上主流的攝影技巧 非常的難得 \
+        一直以來我們致力於現代風景攝影的推廣 如今已有非常多風景攝影師在這塊達到成就與創造風格 因此對風景攝影師而言 這堂課程可以讓你作品突破的關鍵技術" },
+      { type: "link", content: "https://photos.app.goo.gl/BYmav11UXufUCsvT7", label: "2022年11月22日 又是久違的跑步 這次退步到被一個看起來練馬拉松的叔叔超車 幸好最後只落後200公尺 我太累了 又從來不暖身的 這樣好像不太好" },
+      { type: "link", content: "https://photos.app.goo.gl/ke7rPM2MToVigEmM8", label: "2022年11月22日 \
+        我發現自己很少分享相機泡水的緊急處置 網路上很多偏門的方式 但在這裡分享最正規最安全的做法給大家參考 感謝分享 這個案例最後成功拯救相機 \
+        非常幸運 真的太棒了 有想看詳細的朋友 這是官方的處理流程 希望大家都別遇到相機泡水" },
+      { type: "link", content: "https://photos.app.goo.gl/ivn3qBfTFw7JJDX98", label: "2021年11月22日 台北超忙碌的每一天 總算有空請壽星吃好料" },
+      { type: "link", content: "https://photos.app.goo.gl/K2TJW3rF7wqR7G347", label: "2020年11月22日 被投資大師說帥" },
+      { type: "link", content: "https://photos.app.goo.gl/vBDADAocZgZwQ9mz9", label: "2018年11月22日 我有兩幅作品在台北市市府大樓一樓中庭展出 非常感謝市政府的分享 可惜今天的記者會無法參加 也錯過跟熊讚見面的機會QQ 11/22-11/27展出期間 可以去看看唷" },
+      { type: "link", content: "https://photos.app.goo.gl/9vxD4fdvxL7As5Ar7", label: "2018年11月22日 遙遠ㄟ距離 只剩這個努力下去的動力 希望多存錢了" },
+      { type: "link", content: "https://photos.app.goo.gl/cYf3diFJ6qwMKbi98", label: "2017年11月22日 使用luminosity能讓我快速 無痕跡的合成銀河 無天空地面交界的多餘痕跡 想知道如何製作 可以私我 預約我的後製家教課程" }
     ],
     "23": [
       { type: "link", content: "https://photos.app.goo.gl/jbCkD6HoxzGd7iRE6", label: "2016年11月23日 來幫學長測試第一台VHIT 暈眩門診 VHIT VIN 眼震測試" }
