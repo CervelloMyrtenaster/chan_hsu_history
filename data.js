@@ -3105,13 +3105,118 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/cYf3diFJ6qwMKbi98", label: "2017年11月22日 使用luminosity能讓我快速 無痕跡的合成銀河 無天空地面交界的多餘痕跡 想知道如何製作 可以私我 預約我的後製家教課程" }
     ],
     "23": [
+      { type: "link", content: "https://photos.app.goo.gl/ToQq4u3DpqaRSwRA7", label: "2025年11月23日 計劃很久的事情突然落空 真的很痛苦 雖然是兩件好事 但衝突在一起必有一個犧牲 唉 已經很久沒有那麼沮喪" },
+      { type: "link", content: "https://photos.app.goo.gl/tJEL7x14iVzXMtZr9", label: "2025年11月23日 還是要有多一點這樣漫無目的的亂逛" },
+      { type: "link", content: "https://photos.app.goo.gl/E9yucafbv6UbtuU79", label: "2025年11月23日 夕陽下去之前強烈的光線很美" },
+      { type: "link", content: "https://photos.app.goo.gl/AKqwFZjyL6zA7iNH6", label: "2025年11月23日 這真是我拍過最可惜的地點 明明是台灣唯一最佳視角的101構圖 有對稱 有高度 正對夕陽 結果咖啡吧設立在剛好擋住101的位置 兩層超厚髒玻璃 然後未來不再開放民眾 真的是把能拿來宣傳台灣的景浪費了" },
+      { type: "link", content: "https://photos.app.goo.gl/9aiSFH9QyqU8nXo37", label: "2025年11月23日 好羨慕 拍爆" },
+      { type: "link", content: "https://photos.app.goo.gl/n75N65YN5ZZqzRom6", label: "2025年11月23日 哈哈哈他可以上台比賽了" },
+      { type: "link", content: "https://photos.app.goo.gl/Hsuh2fHast1148Ld8", label: "2025年11月23日 我們應該多逛一下" },
+      { type: "link", content: "https://photos.app.goo.gl/HCJbDm8vekfzM6vRA", label: "2024年11月23日 呵 病人騙醫師的事情更多 病人倒是可以厚顏無恥不用道歉不用被公審" },
+      { type: "link", content: "https://photos.app.goo.gl/8DpuSQepabR3EN7GA", label: "2024年11月23日 請問這需要藥物治療嗎 感覺不用" },
+      { type: "link", content: "https://photos.app.goo.gl/Pc4LdDBDbgKv8jjj8", label: "2024年11月23日 閃亮亮" },
+      { type: "link", content: "https://photos.app.goo.gl/e1C8zvxpzxoQR7RE6", label: "2024年11月23日 路人也太會拍" },
+      { type: "link", content: "https://photos.app.goo.gl/aLZv9G3uYdUBYLW17", label: "2023年11月23日 \
+        有史以來最難的報告當之無愧 三個禮拜才做到75%左右而已 100多篇REFERRENCE都在講差不多但又不同的東西 幾乎每篇都給我看這三小鬼圖 到底幾個人看得懂這個圖片 根本看不懂啊 \
+        PPT做快80頁還沒到盡頭 真覺得報不出來 對於免疫沒研究 又沒做過臨床試驗的我 然後要報這種極度艱深 又要介紹數十種不同免疫研究跟治療方式 痛苦" },
+      { type: "link", content: "https://photos.app.goo.gl/yGDaE7aWRQdrNw3c7", label: "2023年11月23日 \
+        例如MMP-9這個鬼東西 整個文章只有一個REFERRENCE提到 然後還是得回去翻原文 原文寫的機轉完全就是第一次聽過根本看不懂 然後花了一小時跟AI對答還是一知半解 \
+        最後整個文章有好幾個這種全新而且超複雜的知識 真的很浪費時間 真的做過最扯的高難度報告" },
+      { type: "link", content: "https://photos.app.goo.gl/Fy5PWw13MBHix8rz9", label: "2023年11月23日 今天繼續看十幾篇長這樣看不懂的鬼圖 沒關係 報告迫在眉睫 先想辦法掰內容 這個圖都直接跳過" },
+      { type: "link", content: "https://photos.app.goo.gl/PoFiKKJzuEwDAXdY6", label: "2023年11月23日 自顧自的抱怨卻沒好好解釋到底在忙什麼 就是如圖內容" },
+      { type: "link", content: "https://photos.app.goo.gl/A4y8szppSP3q6GZ18", label: "2022年11月23日 其實蠻羨慕的 並不是每家醫院的制度跟風氣 都允許住院主治醫師有精彩自由的人生" },
+      { type: "link", content: "https://photos.app.goo.gl/xjhe54A8WQs179S38", label: "2021年11月23日 TBS剔邦饈Teppanyaki 吃的好飽" },
+      { type: "link", content: "https://photos.app.goo.gl/Y7gLMZY6jYSUHt8G7", label: "2020年11月23日 收到星巴克後方可執行填寫任務" },
+      { type: "link", content: "https://photos.app.goo.gl/izfAVfnfDqS2anvn7", label: "2019年11月23日 夏內爾落羽松民宿 這種程度的漂亮 很難相信在平價的台灣民宿裡 大推" },
+      { type: "link", content: "https://photos.app.goo.gl/apPYEj8nchjAqKF5A", label: "2019年11月23日 雲洞山莊 20191123第一次來超熱門攝影景點敷面膜" },
+      { type: "link", content: "https://photos.app.goo.gl/dMTXUEhSLNusmJBn7", label: "2018年11月23日 柯市長加油" },
+      { type: "link", content: "https://photos.app.goo.gl/gGyLopLZQrJHQSwk8", label: "2018年11月23日 笑死人 拼命找柯批碴 實柯批根本沒性別歧視你們 倒是他的用心他的政績造福整個台北 而你們正是亂源" },
+      { type: "link", content: "https://photos.app.goo.gl/jAvqZvbzdt3gA1XJ8", label: "2018年11月23日 \
+        某位景仰的公眾人物曾說 並不是給政府可以給的 而是給人民需要的 一直心有戚戚 真正的好 並不是給自己開心能給的 而是別人真正需要的 \
+        說的簡單 體悟難 做到更難 圖中的人影 最近他工作壓力很大 我也發現自己常很久不能下班 原來以前隨揪隨拍這麼難 這就是工作的責任吧" },
+      { type: "link", content: "https://photos.app.goo.gl/ntEtdCGH9B7fyuLc9", label: "2018年11月23日 Thank you" },
+      { type: "link", content: "https://photos.app.goo.gl/ui9AdwAh6Y14igSA8", label: "2018年11月23日 可愛ㄟ綿羊" },
+      { type: "link", content: "https://photos.app.goo.gl/wiJd6N3S4JQkrg3v6", label: "2018年11月23日 上拉連結有網址 我有兩幅作品在台北市政府大樓一樓展出 分可以猜猜是哪兩幅 最後希望這週日能親自去看看" },
       { type: "link", content: "https://photos.app.goo.gl/jbCkD6HoxzGd7iRE6", label: "2016年11月23日 來幫學長測試第一台VHIT 暈眩門診 VHIT VIN 眼震測試" }
     ],
     "24": [
+      { type: "link", content: "https://photos.app.goo.gl/Tadkp3NEneocyJiR9", label: "2025年11月24日 \
+        台北的絕景 致消逝的景點 除了風景攝影 我對於城市的標誌性建築也有偏執， 望能拍遍世界各地的知名地標 哪怕花錢花時間 只要合法我都要去完成 \
+        知名地標的建築通常都很高 但並不是很好拍 通常最好但拍攝高度是20樓以上 因為這能使地面露出的範圍 在廣角之下有舒服的擴張感 所以要在這些建築旁邊有剛好距離的20樓高樓 \
+        另外也要能夠正對夕陽或日出方位 這是光線的重要性 最後要能夠有簇擁式的構圖 藉由周邊的次高樓群來凸顯指標建築 這是構圖的重要性 \
+        光是這幾點就不容易 能夠符合合法的 只有找滿足條件的觀景台或飯店 以日本拍攝東京鐵塔為例 是個很先禁的國家 各種禁止腳架及禁止接近欄杆 根本不可能有完美的觀景台 而飯店也常沒有對外陽台 透過玻璃的畫質絕對大打折扣 \
+        再說回這間Ka sky coffee 今天過後再也不對外開放 其咖啡吧甚至設立在剛好擋住101的方向 一個有大片落地窗且符合光線及構圖的完美視角 除了景色被擋住 還有兩片超髒的厚玻璃 完全的角度只能蜷縮在一個小角落拍 \
+        如果這個咖啡吧的賣點是這個景色 那真的有點矛盾XD 當然我知道這些飯店或觀景台的設立本就不是為了攝影存在 但攝影的成品是一種藝術的表現 絕美的視角 光線及構圖甚至不是金錢衡量的 有錢也使喚不了彩霞為你燃燒 \
+        當一個進步的都市能夠考慮到藝術層面 就應該規劃給民眾能夠創作畫面的機會 這些作畫攝影等等 也能促進觀光跟留下回憶 隨著時間更顯價值 \
+        說了這麼多 只是我個人內心很深的遺憾而已 也許只有像我這樣很在意拍攝細節的少數人覺得重要 世界不為誰而運行 我只能靠自己的能力 繼續努力創作出內心預想的作品了哈 \
+        As the sun sets the sky glows in radiant hues while Taipei 101 rises gracefully at the citys heart Lights flicker on blending with the twilight where vibrance and serenity meet " },
+      { type: "link", content: "https://photos.app.goo.gl/iLbJXoBorSLBMRYj8", label: "2025年11月24日 恭喜畢業 我還在無限留級" },
+      { type: "link", content: "https://photos.app.goo.gl/1EmxrCBDJDLHQCvRA", label: "2025年11月24日 想當年入伍訓最後的五百公尺障礙場地 居然成為歷史了 當年是邊爬旁邊TNT真的一直在爆炸 最後前面那個山頭衝刺殺 然後進到洞裡再從右邊小路走出來 已經成為回憶了啊" },
+      { type: "link", content: "https://photos.app.goo.gl/NmuUqhZ1EUJLm6B37", label: "2025年11月24日 靠ps cc模擬創作出這個點完美的景色了 完美的畫質 完美的細節 完美的天空" },
+      { type: "link", content: "https://photos.app.goo.gl/GqnGgCCdY7xH74MJ6", label: "2025年11月24日 窮爆" },
+      { type: "link", content: "https://photos.app.goo.gl/7AXZNPKKWUNnzQuN6", label: "2025年11月24日 哇靠 我也準備去撿錢包了" },
+      { type: "link", content: "https://photos.app.goo.gl/vD8c7YK8v2UYJDko8", label: "2025年11月24日 這真的賺爛" },
+      { type: "link", content: "https://photos.app.goo.gl/LiAi2Ykuec1oeU8d7", label: "2025年11月24日 弄了一個超可愛影片 佩服AI" },
+      { type: "link", content: "https://photos.app.goo.gl/23HemcGVghXEUEWC8", label: "2024年11月24日 生日快樂 昕慧超級優秀" },
+      { type: "link", content: "https://photos.app.goo.gl/a6iBQkKpUwdfouE87", label: "2024年11月24日 信義區永遠都在變化" },
+      { type: "link", content: "https://photos.app.goo.gl/otMPLDYEASNVKeVM9", label: "2024年11月24日 感覺是打大小孩跟小小孩哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/SVsZ5SUvqfvj4V1u8", label: "2024年11月24日 下次我也要一起去" },
+      { type: "link", content: "https://photos.app.goo.gl/e6FaaMnwTW3nDEsZ7", label: "2024年11月24日 好屌的歌 以前都不知道歌詞是這樣" },
+      { type: "link", content: "https://photos.app.goo.gl/uz7seXCjb395i5FBA", label: "2024年11月24日 \
+        超喜歡這次拍攝的場地 天氣好光線美 恭喜這對新人 認識也很長的時間了 能夠參與甜蜜幸福的婚禮真的很開心 \
+        這次在心之芳庭拍攝 感謝台中總是高機率的出現好天氣 看起來是上天也給予滿滿的祝福 心之芳庭的採光也非常漂亮 尤其是送客時的自然光 搭配新人眼光超棒的佈景設計 大自然背景 是我拍過數一數二喜歡的畫面" },
+      { type: "link", content: "https://photos.app.goo.gl/6B3GbmW17xTfbiDYA", label: "2024年11月24日 恭喜" },
+      { type: "link", content: "https://photos.app.goo.gl/B8ZdNGqgVh83C9Uh6", label: "2024年11月24日 大推主治醫師 可以看影片好好複習一下 學弟妹建議追蹤這粉專 臨床受用無窮" },
+      { type: "link", content: "https://photos.app.goo.gl/61Z1XxsNP7oV9C7x9", label: "2023年11月24日 值班繼續虐待AI回答問題 有幾個問題他需要想30秒才有答案" },
+      { type: "link", content: "https://photos.app.goo.gl/Bj5fzitQSUDPQxW46", label: "2023年11月24日 \
+        讚啦做完了凸 99頁PPT 破紀錄的頁數 每頁我都幾乎只放圖 我保證報到我自己都不知道在公三小 台下也不知道自己聽了三小 當然 我讀完快100篇文章也不知道自己到底看了三小 一個禮拜沒運動 超悶 呵" },
+      { type: "link", content: "https://photos.app.goo.gl/FMo79iaMA3yrwGwP7", label: "2023年11月24日 \
+        這次旅程選擇了待在下龍灣的遊艇上住宿一晚 發生了許多小意外和插曲 像是空拍機差點墜海 緊急迫降在別人家的郵輪上 前往驚訝洞時 因為吃太飽肚子不舒服又去旁邊吐 休息一陣子 只能說這次的下龍灣行令人又驚又嚇的" },
+      { type: "link", content: "https://photos.app.goo.gl/mgDR1MqF8p16djXw8", label: "2022年11月24日 那些標示太快出錯了 這是NRC的維修唷 感謝提醒我的好友們" },
+      { type: "link", content: "https://photos.app.goo.gl/yfxQrp4rDG6bJ9XQ9", label: "2022年11月24日 最近大概一個月修不到兩張圖 而且豪無靈感 工作壓力佔據了大腦" },
+      { type: "link", content: "https://photos.app.goo.gl/ZEZpBVociEgxUMtL7", label: "2022年11月24日 真吉歪欸XD" },
+      { type: "link", content: "https://photos.app.goo.gl/yesh7vrTA4P1RFiQ8", label: "2021年11月24日 後山埤捷運站 奇岩站" },
+      { type: "link", content: "https://photos.app.goo.gl/q71HdrDKbx34bB9H9", label: "2020年11月24日 莫忘在內科充滿歡笑的日子啊" },
+      { type: "link", content: "https://photos.app.goo.gl/P14wPB1u9ZZadM9S6", label: "2020年11月24日 \
+        11/21買的好市多肉 因為吃不完不想浪費所以售出 價格如圖 一號有至少六片厚肉 二號有至少四片小一點的厚肉還有很多細肉 三總或學校均可面交 \
+        玻璃盒是全新的非賣品喔 請自備容器或用完當天還我XD 臉書不讓我放照片 我只好用黑白的 要看彩色請私我 等下也會放留言試試orz" },
+      { type: "link", content: "https://photos.app.goo.gl/9mPAQfRQ5ZQ3ecFq6", label: "2020年11月24日 陳維鋐你的最愛" },
+      { type: "link", content: "https://photos.app.goo.gl/tsLgzpCpbn6Dob3V8", label: "2018年11月24日 \
+        很久才能回家一次 默默完成投票沒有廢票 心得是40歲以上的人佔了七成多啊 現場不知道幹嘛就目測隨機數 剩下30上下跟幾個明顯20初的 \
+        只能說現在的政策決定20歲人未來的環境 真的應該好好投票" },
+      { type: "link", content: "https://photos.app.goo.gl/FAHDjQ7GDnRRw4i67", label: "2018年11月24日 真的不懂柯這麼努力 為何選的這麼辛苦" },
+      { type: "link", content: "https://photos.app.goo.gl/nrDvhR7nDQ8kACRX7", label: "2018年11月24日 天佑台北 拜託了" },
+      { type: "link", content: "https://photos.app.goo.gl/EGEMJJAaYqSbtDdh6", label: "2018年11月24日 雖然我不是台北戶籍 但拜託天佑台北 這應該是第一個也是最後一個我欣賞的政治家" },
+      { type: "link", content: "https://photos.app.goo.gl/VroLg9X4EW3dybH88", label: "2018年11月24日 \
+        真的不懂 很多老一輩真的不知道為何藍綠不惜砸千萬上億只為了選市長嗎 選上隨便官商勾結都是幾億在分紅 真的沒有人會為了造福人民自掏腰包花千萬選舉好嗎 \
+        沒有暴利利潤政黨怎麼甘願這樣花錢 你辛苦一輩子賺錢甘心讓那些政治人物勾結分紅嗎 而且查不到告不到的 你們這些貪婪老人努力一輩子繳稅 甘願給某政黨貪汙一次賺爽 \
+        爽嗎 唉 只要我選上大巨蛋四個月解決 解決個毛 暗示遠雄趕快幫我拉票選上就讓你們賺到飽" },
+      { type: "link", content: "https://photos.app.goo.gl/ccGnB1QxSRD3uSp27", label: "2018年11月24日 多那之崇德店 有攝影case需求請找" },
+      { type: "link", content: "https://photos.app.goo.gl/wjjhkaQ8eKwvjb5N6", label: "2018年11月24日 在百貨公司專櫃購買 已經忘記原價 但算有牌子的吧 只戴過一次 需要手動打領帶" },
       { type: "link", content: "https://photos.app.goo.gl/U5DXsEhSmXXMrRD3A", label: "2017年11月24日 後來發現越燒越高 全身無力應該是流感 一驗果然B流 開完自費Rapiacta給他回家 只是做個經驗紀錄大家都很強看完笑笑就好" },
       { type: "link", content: "https://photos.app.goo.gl/ajFT5ZTtXJnJywJ19", label: "2017年11月24日 27男沒病史 感冒症狀 四肢無力 想吐 但沒吐三天 Blood routine CXR正常 燒到38.8 感覺是病毒感染的呼吸道症狀 為何肝功能會變高呢" }
     ],
     "25": [
+      { type: "link", content: "https://photos.app.goo.gl/qzXzgXtxJawUPT1G8", label: "2025年11月25日 他當下真的嚇傻XD" },
+      { type: "link", content: "https://photos.app.goo.gl/srHQ954dJqtcorBX9", label: "2025年11月25日 Diastolic dysfunction大彙整完成 濃縮再濃縮 但所有重點都要放 也要有60頁 一小時應該報得完吧" },
+      { type: "link", content: "https://photos.app.goo.gl/W1sTvt2REqCXobzi8", label: "2024年11月25日 吃的跟長肥的都比練的多 有氧也大大退步 身體還開始出現各種無法根治的毛病 真的很希望擁有健康 健康才能讓我有足夠時間環遊世界 去旅行" },
+      { type: "link", content: "https://photos.app.goo.gl/ingbWBTSfz2yqf9q9", label: "2024年11月25日 真可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/UhKFAg56tzQ73yzG6", label: "2024年11月25日 這隻可以收編欸" },
+      { type: "link", content: "https://photos.app.goo.gl/9aJ6MSwemY6dBuyYA", label: "2023年11月25日 好想去拍照" },
+      { type: "link", content: "https://photos.app.goo.gl/U1Y3xVXYb9AYMVXw8", label: "2023年11月25日 風雨中慢慢磨慢慢跑" },
+      { type: "link", content: "https://photos.app.goo.gl/pgvR354rHHRAhYcz9", label: "2023年11月25日 漂亮到差點捨不穿的跑鞋 但現在超沒時間運動" },
+      { type: "link", content: "https://photos.app.goo.gl/bPTQP64jfTEqRo5T9", label: "2023年11月25日 \
+        魚簍阿公特輯 阿公是魚簍傳藝的靈魂人物 沒有阿公就少了一半的感覺 因為這位阿公 總是泰然自若的迎接客人 熱情的打招呼絲毫沒有防備 並且出動他的魚簍戰車 \
+        滿載的竹編魚簍 遠遠的看彷彿是球型的花 緩慢的移動卻非常引人注目 雖然很多是擺拍 但仍感受到傳統生活的趣味跟樸實簡單的風情 內心不禁想到 幸好安排了這個行程 才能看到如此可愛的地方跟人物" },
+      { type: "link", content: "https://photos.app.goo.gl/6siFy3vWYPZCmW4j8", label: "2021年11月25日 決定成立一個精選動態 紀錄特別的天氣 也供大家一起學習預測火燒雲 台北低雲火燒 雲圖看起來 中部以北都大燒 不過時間很短暫" },
+      { type: "link", content: "https://photos.app.goo.gl/XkxtjDmf4pUkcddd6", label: "2020年11月25日 有所有人的簽名 厲害 真的厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/wUeNxfrse8UsEcqV8", label: "2020年11月25日 超屌的新創公司 支持起來" },
+      { type: "link", content: "https://photos.app.goo.gl/WPz8f6KQC5d1k6pAA", label: "2020年11月25日 虧本王二人組 除了蛤蜊跟菜 我真的不知道要拿什麼 大干貝甚至都沒了 明明剛剛還在我眼前 店員卻說今天的份都沒了 我連一顆都沒吃到耶" },
+      { type: "link", content: "https://photos.app.goo.gl/kyQJ4bKZTfcczCex6", label: "2020年11月25日 皇家帝國麻辣火鍋吃到飽 三週年紀念開吃啦 這次請帝王麻辣鍋 點多少都算我的盡量點XD" },
+      { type: "link", content: "https://photos.app.goo.gl/uSx8JdApE6eJ2bRV9", label: "2020年11月25日 看看這是誰來了" },
+      { type: "link", content: "https://photos.app.goo.gl/LYKkKRXTpfUNhJ2s9", label: "2020年11月25日 我用這個早餐解釋AAA" },
+      { type: "link", content: "https://photos.app.goo.gl/17mHtwyvMWMqkJtbA", label: "2019年11月25日 苗栗雲洞山莊 兩周年了 謝謝妳的陪伴包容 讓每次的拍照都有意義 更讓拍照之外的所有事有了意義 對唷 好眼力哈哈 不過原本天空不優 我比較在意結果的畫面 真實狀況比較不在意哈XD" },
+      { type: "link", content: "https://photos.app.goo.gl/vujdnCN2ZF9HC9Tm9", label: "2018年11月25日 一週年" },
       { type: "link", content: "https://photos.app.goo.gl/FbXzz68BwBD4WZt3A", label: "2016年11月25日 CILF 幹伶娘你們是在嗆三小 找死是不是 沒有很可以 但你惹不起" }
     ],
     "26": [],
