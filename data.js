@@ -3219,7 +3219,43 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/vujdnCN2ZF9HC9Tm9", label: "2018年11月25日 一週年" },
       { type: "link", content: "https://photos.app.goo.gl/FbXzz68BwBD4WZt3A", label: "2016年11月25日 CILF 幹伶娘你們是在嗆三小 找死是不是 沒有很可以 但你惹不起" }
     ],
-    "26": [],
+    "26": [
+      { type: "link", content: "https://photos.app.goo.gl/LoU19K1W5rLgsVRM9", label: "2025年11月26日 傻的一批 軍費生什麼都不能選 唯獨護理系才該選 真的傻的一批 你都不知道軍費護跟外面護差多少" },
+      { type: "link", content: "https://photos.app.goo.gl/sAqZTDLXBxnvGyRq7", label: "2025年11月26日 所以我才不買這個牌子 而且他方形的太大顆 根本超占空間" },
+      { type: "link", content: "https://photos.app.goo.gl/w1zc43oH848dBgwB9", label: "2025年11月26日 哇靠 要買嗎 要的話我買" },
+      { type: "link", content: "https://photos.app.goo.gl/TSBX8pWBhTmpzVrQA", label: "2025年11月26日 He is black but hos rice is white They are good friends" },
+      { type: "link", content: "https://photos.app.goo.gl/zWH4W7dtqMXEiVKU9", label: "2025年11月26日 ㄏㄠ ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/FJjDwpS4KpDvjyUy7", label: "2025年11月26日 好啊" },
+      { type: "link", content: "https://photos.app.goo.gl/CC9hZ8Pc3wPt4RWs9", label: "2024年11月26日 超可愛 阿啾也說他要拍證件照" },
+      { type: "link", content: "https://photos.app.goo.gl/yKg1ZzLo3NVfabbV9", label: "2024年11月26日 從不同視角看這幸福的瞬間 真的很感動" },
+      { type: "link", content: "https://photos.app.goo.gl/KvNLsfLm1aZYGgdZ9", label: "2024年11月26日 沒有" },
+      { type: "link", content: "https://photos.app.goo.gl/Z6LdigVRaRobFzSTA", label: "2024年11月26日 太可愛了哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/3eQrKtfhGvYfrkjF9", label: "2024年11月26日 好歡樂 以後來裝XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/RoRHPD9H1FAGZcwP7", label: "2023年11月26日 分享蛤蜊香菇雞湯做法 冬天暖呼呼 怎麼那麼厲害的啦" },
+      { type: "link", content: "https://photos.app.goo.gl/dyiUnKoXg1fr16SGA", label: "2023年11月26日 冬天的豐盛晚餐 做完報告居然有超豐盛晚餐 我只負責當車手跟提款機 其他都搞出來的 實在有夠厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/BUqUkj38nNdpU6LFA", label: "2023年11月26日 花了一天把99頁的報告縮減成80頁 第一次做這種全新的主題 幸好老師很耐心的解答 聽到有學妹研究相關主題 實在太厲害了 研究這個光做實驗跟寫文章 就沒生活品質了吧 我還是繼續以林氏璧醫師為目標就好" },
+      { type: "link", content: "https://photos.app.goo.gl/H9sUAZqZdQfknXhQ7", label: "2023年11月26日 買露營椅回家放" },
+      { type: "link", content: "https://photos.app.goo.gl/ekq4rsY9Hwd4FVsz9", label: "2023年11月26日 準" },
+      { type: "link", content: "https://photos.app.goo.gl/bgFvNBDdoNZ3ZHu38", label: "2022年11月26日 這是中國醫藥學系招生文" },
+      { type: "link", content: "https://photos.app.goo.gl/WBZpJZC2q994U3KUA", label: "2021年11月26日 \
+        丟了感謝,掉了尊重 生活分享 某位文青網紅把南投暨南大學演講的感謝狀直接丟進垃圾桶 不只發在限時 還在道歉文中寫成台中暨大 讓我滿訝異的 \
+        丟棄感謝狀的行為 只會出現在努力被辜負 或是被敷衍 若是收報酬的演講 實在想不出有理由做到這樣 所以我很好奇他後續會講什麼理由 \
+        走紅或許是機緣運氣 也或許是真本事及累積的努力 但無論如何 都不要把大眾當笨蛋 若不是大眾願意買單 也不會有登上講台傳達價值觀跟作品的機會 \
+        對我來說 每位粉絲的追蹤支持 並不是為了讓版面漂亮 而是讓藝術者能肯定自己 付出的作品跟堅持 原來是被大家接受的 \
+        所以我一直抱著感恩的心 不論是願意聽我演講 或是看我文章 甚至是路上看到我作品特別跟我分享 這種受到重視的感覺 是我最大的動力 \
+        因此粉絲回饋給粉專 粉專回饋給作品 作品再回饋給粉絲的良性循環得已產生 而這個良性循環 是建立在尊重跟感恩裡 \
+        身為粉專 並不需討好粉絲 但必須感謝每個粉絲的支持 才能讓自己的信念跟作品能被看見 抱著這樣的想法 也就不會把別人的感謝跟支持 當作理所當然的丟掉了" },
+      { type: "link", content: "https://photos.app.goo.gl/hak1nwcGmqQWXH9E7", label: "2021年11月26日 感謝線上演講課程 更新CRE最新最正確的用藥" },
+      { type: "link", content: "https://photos.app.goo.gl/F5qndjwUg1KxQ2qK9", label: "2021年11月26日 \
+        國泰富邦明年股利創新高 將可能納入0056 0056納入當週股價有機會爆衝 一星期內5-10% 富邦80以下 國泰60以下可買 \
+        就算沒爆衝也是大到不能倒的龍頭公司 套牢不怕 先預告在這裡放著 明年驗證 另外若富邦成功合併花旗銀行 百元可期待" },
+      { type: "link", content: "https://photos.app.goo.gl/yQw4a1LeRqZVMzzX9", label: "2020年11月26日 不能跟律師要免費諮詢 不能跟老師要免費上課 不跟工程師要免費修電腦 請問為何可以跟醫師要免費建議 免費仔通通吃屎去" },
+      { type: "link", content: "https://photos.app.goo.gl/wwRhswRM4n1ENsi87", label: "2018年11月26日 婕涵唯一總統" },
+      { type: "link", content: "https://photos.app.goo.gl/tqCwKcykYy5NUpEV6", label: "2018年11月26日 \
+        無意間在高雄撞進這個小村子 裏頭大概都是老人 騎著機車或路邊聊天 貓狗也懶懶的躺在地上 瞬間我覺得很幸福很羨慕 老了最重要的不是坐收金山銀山或擁大權 \
+        而是簡簡單單 非常自由 健康的住在寧靜的小村 心裡和平 是最大的幸福" },
+      { type: "link", content: "https://photos.app.goo.gl/M58S9NuR3LPtTSmdA", label: "2018年11月26日 今天才能說一週年快樂 現在完整的一起一年了 我需要改進的地方很多 還要繼續加油 也謝謝你的督促跟包容" }
+    ],
     "27": [
       { type: "link", content: "https://photos.app.goo.gl/h96GXsg1FRFLCNiJ7", label: "2017年11月27日 \
         12月份班表已經出來 之前有跟我約攝影家教 或現在想約家教的朋友 歡迎跟我聯絡確定時間唷 抱歉醫院事務繁忙 排班很慢 小弟致上萬分感謝 \
