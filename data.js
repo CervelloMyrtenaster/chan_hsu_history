@@ -3257,6 +3257,27 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/M58S9NuR3LPtTSmdA", label: "2018年11月26日 今天才能說一週年快樂 現在完整的一起一年了 我需要改進的地方很多 還要繼續加油 也謝謝你的督促跟包容" }
     ],
     "27": [
+      { type: "link", content: "https://photos.app.goo.gl/nwS124MbuB5rbjkMA", label: "2025年11月27日 \
+        因為很多像你這種人都覺得我們是欠你的 醫師欠你的 護理師欠你的 \
+        整個醫療體系好像我們辛苦付出血汗是應該的 領底薪是應該的 為了病人失去自己的生活跟健康應該的 講白一點 不是所有人都值得被救 少偽善了" },
+      { type: "link", content: "https://photos.app.goo.gl/mhFBwSTYerVtj5JeA", label: "2025年11月27日 神經內科已經很難 但可以建議走心臟內科 這又更難" },
+      { type: "link", content: "https://photos.app.goo.gl/8STrTdMJ1ikoWXyKA", label: "2025年11月27日 可以建議她考上國防醫學院但選軍費生" },
+      { type: "link", content: "https://photos.app.goo.gl/cyqHWJea4Vi6oWMr6", label: "2025年11月27日 平日沒人真的很適合拍這種ai的感覺" },
+      { type: "link", content: "https://photos.app.goo.gl/tDAxUZwMazh7v4zB7", label: "2025年11月27日 你不用討愛 好吧" },
+      { type: "link", content: "https://photos.app.goo.gl/zW5kseLNJGKnYukB7", label: "2024年11月27日 有夠可笑的看板 人類的量才太多 應該消滅那些對人類社會沒益處而且有害的人吧" },
+      { type: "link", content: "https://photos.app.goo.gl/SUawxrDVfYzQr3RYA", label: "2024年11月27日 他真的很聰明 用肉眼看不到的速度前進xdddd" },
+      { type: "link", content: "https://photos.app.goo.gl/YQBKGMrnZbYw1paT9", label: "2024年11月27日 犒賞動干給他吃" },
+      { type: "link", content: "https://photos.app.goo.gl/ShXfiB2VXxdjq5xUA", label: "2024年11月27日 超級好看" },
+      { type: "link", content: "https://photos.app.goo.gl/RG22fMMScF2A7QyGA", label: "2024年11月27日 好想被咬哦" },
+      { type: "link", content: "https://photos.app.goo.gl/qFofgeMSnwaRoHsL6", label: "2024年11月27日 想知道後續處置 請問是在perforation的部分架一支新的stent嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/qFofgeMSnwaRoHsL6", label: "2024年11月27日 超可愛 直接收養" },
+      { type: "link", content: "https://photos.app.goo.gl/Xob84bTr5xHWdwUZ8", label: "2023年11月27日 驚險結束最難的一次展會報告" },
+      { type: "link", content: "https://photos.app.goo.gl/mcbKrnTcfGeQ8Xom9", label: "2023年11月27日 傻眼新出現的網紅 直接把真鈔當白紙在撒 到處發錢" },
+      { type: "link", content: "https://photos.app.goo.gl/iXEEWyTX8YvZfuAb6", label: "2022年11月27日 難得的放假 每年N度請吃大餐 不過我們兩個好像賠錢貨" },
+      { type: "link", content: "https://photos.app.goo.gl/SpzYFj85yv1beoDr8", label: "2020年11月27日 真的是幹話王" },
+      { type: "link", content: "https://photos.app.goo.gl/MwnSHAe5Say6EDZV8", label: "2020年11月27日 沒有背叛內科護理站的家綸生日快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/s3zp1MRzVnYnb2MG7", label: "2018年11月27日 市長已是我們台灣很多人的精神指標 請繼續帶領台北前進" },
+      { type: "link", content: "https://photos.app.goo.gl/FMcpv4So8Hei8hSq9", label: "2018年11月27日 這樣才對" },
       { type: "link", content: "https://photos.app.goo.gl/h96GXsg1FRFLCNiJ7", label: "2017年11月27日 \
         12月份班表已經出來 之前有跟我約攝影家教 或現在想約家教的朋友 歡迎跟我聯絡確定時間唷 抱歉醫院事務繁忙 排班很慢 小弟致上萬分感謝 \
         後製家教時間 為全天可約時間 若想知道詳細規則可私 感謝" },
