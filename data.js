@@ -3264,6 +3264,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/8STrTdMJ1ikoWXyKA", label: "2025年11月27日 可以建議她考上國防醫學院但選軍費生" },
       { type: "link", content: "https://photos.app.goo.gl/cyqHWJea4Vi6oWMr6", label: "2025年11月27日 平日沒人真的很適合拍這種ai的感覺" },
       { type: "link", content: "https://photos.app.goo.gl/tDAxUZwMazh7v4zB7", label: "2025年11月27日 你不用討愛 好吧" },
+      { type: "link", content: "https://photos.app.goo.gl/5RmTY9VjVMMxMJiZA", label: "2025年11月27日 值班來病房看一下病人 到底是誰這麼有創意" },
       { type: "link", content: "https://photos.app.goo.gl/zW5kseLNJGKnYukB7", label: "2024年11月27日 有夠可笑的看板 人類的量才太多 應該消滅那些對人類社會沒益處而且有害的人吧" },
       { type: "link", content: "https://photos.app.goo.gl/SUawxrDVfYzQr3RYA", label: "2024年11月27日 他真的很聰明 用肉眼看不到的速度前進xdddd" },
       { type: "link", content: "https://photos.app.goo.gl/YQBKGMrnZbYw1paT9", label: "2024年11月27日 犒賞動干給他吃" },
@@ -3286,6 +3287,33 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/DLQtSSwrhmLRHAzq5", label: "2017年11月27日 第一次以醫生身份壓救護車 心臟差點沒跳出來 塞車時開120絕對比玩任何賽車遊戲刺激" }
     ],
     "28": [
+      { type: "link", content: "https://photos.app.goo.gl/SG2oQvnMEwPVwznJA", label: "2025年11月28日 加入「小7國醫好康團go」" },
+      { type: "link", content: "https://photos.app.goo.gl/pXiSPz6tsddbM3Wq8", label: "2025年11月28日 店長好 想請問還會進貨7-11的299元聖誕樹嗎?" },
+      { type: "link", content: "https://photos.app.goo.gl/ZwZ5AhfXTgHDgcw36", label: "2025年11月28日 認真說 要不要去啊我覺得可以去欸" },
+      { type: "link", content: "https://photos.app.goo.gl/fmA7qudwuUXBQfpD9", label: "2025年11月28日 超想去拍雪" },
+      { type: "link", content: "https://photos.app.goo.gl/2ACEaQYnbZzEHd3A9", label: "2025年11月28日 超好看" },
+      { type: "link", content: "https://photos.app.goo.gl/ojS6yL2zVGiC4sqJ6", label: "2024年11月28日 一個Clip 120萬 一個人有四個瓣膜 如果心室又要裝輔助器或是無導線節律器又是300萬 所以一個心臟可以價值800萬" },
+      { type: "link", content: "https://photos.app.goo.gl/ZTuekMbYePhMxXgGA", label: "2024年11月28日 去尋找 並且踏上這片美景 然後用自己雙眼感受大海 用自己的皮膚感受風 最後用相機紀錄 完成屬於自己的作品 是我這輩子最重要的事情 沒有任何事情 比這件事重要" },
+      { type: "link", content: "https://photos.app.goo.gl/nzLs8Z5EBx4Qbani9", label: "2024年11月28日 工作中得到的任何成就 真的遠遠比不上當個環遊世界的風景攝影師" },
+      { type: "link", content: "https://photos.app.goo.gl/LZF6jK5M5uMqKQNx5", label: "2024年11月28日 這好可愛 可以買一個哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/L3e163ife1xPkuup8", label: "2024年11月28日 他是要老公還是乾爹" },
+      { type: "link", content: "https://photos.app.goo.gl/NMdDXmwhZTqiB6V89", label: "2023年11月28日 \
+        看到公館星巴克收掉太驚訝 就連我不是讀台大都來過這裡幾次 從剛到台北讀書 超過十年前 就來過了 \
+        那些不務正業 不用正常繳稅的吸血鬼房東 真的是台灣的惡性腫瘤 有時還會很偏激的希望有獨裁政府收掉這些人 \
+        我們這些普通人辛苦工作的時候 他們跟他們的孩子孫子 遊山玩水 到處出國 開跑車戴名錶 唉" },
+      { type: "link", content: "https://photos.app.goo.gl/T1b4b8yg1pJ9cDud7", label: "2023年11月28日 換新鞋第一跑 但這個路徑是" },
+      { type: "link", content: "https://photos.app.goo.gl/fKWmKM3NdcB9C4ra7", label: "2021年11月28日 \
+        台北TBS剔邦饈鐵板燒 中高價位的鐵板燒 特色是千變萬化的料理 讓人很驚艷 首兩張是牛排跟羊排 熟度抓的準 沾醬多樣 \
+        第三張是甜點冰淇淋 冷熱交融入口即化 第四張是米粒狀義大利麵裹蛋汁 這是我目前吃過第一名的神仙義大利麵 Q度跟口味完美\
+        第五張是紐西蘭鹿肉 口感似牛肉但野味多 還好 第六張是無熬小龍蝦 肉質很新鮮 第七張是鮭魚跟鮪魚 新鮮是肯定的 調味很特別 無法形容 算不錯吃 \
+        第八到十張都是前菜 調味真的都是外面沒吃過的 整體而言 小輸墨賞 這家吃的是精緻跟別出心裁 外面絕對吃不到的特殊料理 喜歡嚐鮮 厭倦千篇一律的朋友很適合來吃一次" },
+      { type: "link", content: "https://photos.app.goo.gl/2L2bquGiWFDjhcBK8", label: "2021年11月28日 今天西部沿海夕陽燒很大 應該 16:30開始就位 16:55-17:10大燒 雲海人怪怪的好像沒預測好" },
+      { type: "link", content: "https://photos.app.goo.gl/57LLdHY4E8AoHuUu5", label: "2021年11月28日 這樣是沒有長嗎?" },
+      { type: "link", content: "https://photos.app.goo.gl/uRzyFgZoY9fFp5Si6", label: "2020年11月28日 原來這是恐龍 我真的以為是果然翁 謝謝名攝影師大景哥aka恐龍粉讓我知道這隻可愛的恐龍" },
+      { type: "link", content: "https://photos.app.goo.gl/88PkoSmFhsVwLKHx8", label: "2020年11月28日 這才是人生" },
+      { type: "link", content: "https://photos.app.goo.gl/PzgjTq5yuCxCzhLZ8", label: "2020年11月28日 疲憊的工作後有一個乾淨的廚房可以讓潔癖的做料理真的很舒壓 不過我自己也會在這裡幫忙跟自己學料理XD" },
+      { type: "link", content: "https://photos.app.goo.gl/uRQu9QYpgu42W6Hf7", label: "2020年11月28日 會不會太厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/8QkZyNZhJdQF85ju5", label: "2019年11月28日 牙齒永遠給我帶來麻煩" },
       { type: "link", content: "https://photos.app.goo.gl/UBzQ27TgrACG8PEG7", label: "2017年11月28日 \
         12月課程報名開始囉 秋葉原の日落火燒 12月風景後製家教開始預約囉 目前以北部為主 可全天預約 了解詳情與報名 私訊我即可 \
         內容有基礎課程 構圖 光線處理或進階遮色片 甚至亮度蒙版的使用 高反差 銀河 城市夜景或者大景合成都不私藏 後製或攝影技巧只會在課程完整回答教學 \
@@ -3293,6 +3321,35 @@ const records = {
         歡迎大家一起研究後製 讓作品邁向更高層次吧" }
     ],
     "29": [
+      { type: "link", content: "https://photos.app.goo.gl/hz2fbQWaHvMVssLh8", label: "2024年11月29日 \
+        台北入夜前 每次出門拍照 都要先檢整裝備 這次發現有個以前沒分享過的好東西 就是eneloop可充電電池 \
+        從剛玩攝影時 我的閃燈就是買eneloop_tw電池 直到現在外出拍照使用的頭等 閃燈等等器材都是 這次剛好趁Costco好市多黑五購物節週 直到12/1 入手一組 \
+        好東西就是要分享XD 順帶一提 我有看到感恩節優惠的特價是2199元 之前原價 2999元 這個套組有eneloop pro 3號充電電池8顆及充電器1組 我覺得很划算 我長期有在買XD" },
+      { type: "link", content: "https://photos.app.goo.gl/RnKe3PrNAVt8moy36", label: "2024年11月29日 我願意提供襪子幫他保暖" },
+      { type: "link", content: "https://photos.app.goo.gl/qb7MEq9FYqpMZ6Q26", label: "2024年11月29日 好扁哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/G63cdoF3hPPqABzB7", label: "2024年11月29日 如果她流落街頭 就收養他 太可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/NndJh3hve6iCPx4t8", label: "2023年11月29日 對於民眾可能快速滑過的新聞 我還是想簡單說明一下 不想讓台灣醫護背後的血汗付出被埋沒" },
+      { type: "link", content: "https://photos.app.goo.gl/6drNXTyoY2AKtmzM9", label: "2023年11月29日 \
+        這個醫學中心評鑑 其實就是這樣 政府是莊家 了一個鬥場鬥蟋蟀 各家院長是參賽者 帶著他的員工 那些蟋蟀 灑進鬥場裡面鬥個你死我活 \
+        蟋蟀多數都不願意 但院長說鬥 就是鬥到死 所以評鑑來 我們被迫加班 放著該看的病人不看 熬夜做假資料 把原本該以救人為目的 變成評鑑第一 \
+        對的 我說實話很難聽 評鑑的時候病人的痛苦第二 評鑑第一 而逼迫我們的幕後黑手 就是衛福部這個政府機關 \
+        你鬥贏了 院長成功拿到醫學中心資格 政府就會給你更多資源 其中一個就是錢 但你以為錢會直接給這些被鬥到半殘的可憐蟋蟀? 即使有 也只有一點點 CP超低 \
+        為了錢 為了門面 為了醫院的資源 政府掐著我們脖子逼迫我們每年參加鬥蟋蟀 鬥的是我們的生命跟熱情" },
+      { type: "link", content: "https://photos.app.goo.gl/up4Hqne6TqmNTVrQ8", label: "2023年11月29日 \
+        而圍觀的觀眾就是民眾 民眾只需要享受政府創造的鬥蟋蟀節目 付一點點門票錢 掛號費 享受這個過程後帶來的好處就好 \
+        台灣醫療的便宜跟高效率 還有不是服務業卻要卑躬屈膝 就是因為政府掐著醫師護理師等等的脖子 用完美包裝的威脅所以創立的表像 \
+        這個醫學中心晉升跟下降 背後代表的是無數醫護悲慘的生活品質跟不合理的低薪換來的 我沒有危言聳聽 問你還在第一線的醫護朋友就知道 \
+        院長會告訴你大家很辛苦嗎 不會的 因為院長敢說醫護很辛苦 代表他沒做好管理跟制度 誰會拿石頭砸自己的腳呢? 每家醫院都是如此 \
+        最後希望民眾珍惜 台灣醫療很畸形 很珍貴 請好好愛護身邊的醫護同仁" },
+      { type: "link", content: "https://photos.app.goo.gl/w9bzy6YEU1pHuyqD6", label: "2023年11月29日 \
+        最後 前面說了很多負面的毒東西 但有什麼建設性能改變這情況的嗎? 答案是 有 \
+        只要台灣政府願意砸更多的經費給醫療體系就好了 我們醫療的GDP遠遠輸給歐美 但品質勝過歐美就是因為剝削醫護才做得到 \
+        只要台灣政府願意撥更多錢給醫療 就能有更多資源灌注在藥物 器具跟聘請更多醫師專師護理師 維持病人的照護品質 也讓醫護有合理薪水跟生活品質 更讓好藥不退出台灣 \
+        那台灣政府願意撥更多錢給醫療嗎? 答案是NO 今年已經很多新聞 都報導政府一致否決醫療需求的經費 這是為什麼呢? \
+        第一因為醫療是小眾族群 就算我們被剝削也影響不了選票 第二是醫療沒辦法收回扣 沒辦法官商勾結 沒有暴利可圖 聰明的官員怎麼會白白讓資金流到醫療去呢? \
+        最後 只要利用鬥蟋蟀的方式 壓榨醫療人員一樣能給民眾好的就醫服務 何必增加費用呢? 以上幫大家撥開台灣醫療面紗之誠實豆沙包版本" },
+      { type: "link", content: "https://photos.app.goo.gl/sN5YRBchNygnKzbaA", label: "2023年11月29日 恭喜" },
+      { type: "link", content: "https://photos.app.goo.gl/ZwsywhiyyWXYQW1V9", label: "2021年11月29日 感謝粉絲回覆 果然有燒 可惜低雲太多了 衛星雲圖上暗綠色 燒的不夠漂亮" },
       { type: "link", content: "https://photos.app.goo.gl/bNAS2XDdc2mTyCdA7", label: "2017年11月29日 壓救護車最後一回 結束這個月汀州急診的上班日子" },
       { type: "link", content: "https://photos.app.goo.gl/HWzRkCrUJJzvRAxv6", label: "2017年11月29日 唉我頭頂上白白霧霧的 就是現在大屯大家拍很爽的雪海 上班上好上滿 放假天氣再剛好變爛 人生真是茶几" },
       { type: "link", content: "https://photos.app.goo.gl/8BsA8MHRnAP4VA2DA", label: "2017年11月29日 三軍醫院汀州院區 難得晴天 真的很適合上班呢" },
