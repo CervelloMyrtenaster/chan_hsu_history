@@ -3321,6 +3321,21 @@ const records = {
         歡迎大家一起研究後製 讓作品邁向更高層次吧" }
     ],
     "29": [
+      { type: "link", content: "https://photos.app.goo.gl/gy7fTCJtdq8h6J526", label: "2025年11月29日 \
+        這是台北市的絕景畫面 因為富邦大樓的咖啡廳正式不對外開放 為了處理掉骯髒的玻璃造成的畫質減損跟很多的反光 \
+        我花了兩小時處理後製 還原出幾乎是沒有隔著玻璃拍攝且出大景的場景 我利用疊圖修飾天空 利用生成式ai補足邊緣的缺漏 \
+        利用亮度蒙版劃分出前景跟遠景的光線變化 最後利用朦朧跟遮色片將光線做層次 \
+        我沒有辦法100分的修補 但幾乎達成我夢想中的畫面 在拍攝地標性建築的過程 要付出很多的時間跟金錢 \
+        有限的生命不太可能有拍完的一天 但我會繼續保持這份動力 更多的台灣攝影作品在這裡" },
+      { type: "link", content: "https://photos.app.goo.gl/vu3mHcaT3Dyd3sZEA", label: "2025年11月29日 這玻璃真的太厚了沒辦法QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/UWH6qRmZH55Mhx6F9", label: "2025年11月29日 \
+        感謝 這些我都知道 事實上狀況是現場絕佳的視野轉角被咖啡吧整個擋住 所以真正能拍的位置只有非常小一個角落 \
+        還必須蹲在地上 也有不少遊客要拍 基本上很難再用外套或任何輔助做遮蔽 這樣會影響到客人太多 只能說富邦規劃時主打這個景色卻完全沒有用心在思考" },
+      { type: "link", content: "https://photos.app.goo.gl/fptbWpGiuxhj8kYw6", label: "2025年11月29日 今天好多人喔" },
+      { type: "link", content: "https://photos.app.goo.gl/g7hLEkr95tuup4fJA", label: "2025年11月29日 已經茁壯的非常棒" },
+      { type: "link", content: "https://photos.app.goo.gl/MQgmukLFxMDVEoNY7", label: "2025年11月29日 他怎麼那麼可憐 先帶到旁邊的警察局QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/Qbjx1cmBVNBqHPbs7", label: "2025年11月29日 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/GhdgWPRLayf3ViWh7", label: "2025年11月29日 第一次知道有這個地方哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/hz2fbQWaHvMVssLh8", label: "2024年11月29日 \
         台北入夜前 每次出門拍照 都要先檢整裝備 這次發現有個以前沒分享過的好東西 就是eneloop可充電電池 \
         從剛玩攝影時 我的閃燈就是買eneloop_tw電池 直到現在外出拍照使用的頭等 閃燈等等器材都是 這次剛好趁Costco好市多黑五購物節週 直到12/1 入手一組 \
@@ -3359,6 +3374,43 @@ const records = {
         76女高血壓 心血管病史目前服用抗肺癌藥 這次咳嗽有痰兩天 胸口辣辣的 抽血WBC正常 腎功能稍高 心臟酵素正常 胸部×光 心電圖正常沒發燒 嗯 會是上呼吸道感染嗎 詢問病史不像胃食道逆流 " }
     ],
     "30": [
+      { type: "link", content: "https://photos.app.goo.gl/gA5XLXt2qvVbNBMU8", label: "2025年11月30日 要不是穿著衣服 這種長相我以為是兩隻腳走路的畜生欸" },
+      { type: "link", content: "https://photos.app.goo.gl/iE3UjcXAqDHkdAM27", label: "2025年11月30日 \
+        網路上看到這支實測影片 都拿共軍跟國軍當前的裝備 共軍的步槍子彈是第一發能打穿國軍抗彈板 \
+        國軍的步槍子彈是第一發打不穿共軍抗彈板 除非陶瓷破頂從同一個位置第二發才會穿透 想想真的是很悲哀 不是不抵抗 是根本台灣沒有好好做準備" },
+      { type: "link", content: "https://photos.app.goo.gl/7nti52zKL8BHsSPQ9", label: "2025年11月30日 如果可以不用隔著玻璃且天空有火燒雲就是這樣的畫面喔" },
+      { type: "link", content: "https://photos.app.goo.gl/jHn7iHrVKxiK2cCB8", label: "2025年11月30日 好羨慕喔 請問你們跨年會在裡面看煙火嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/UQD3UAkHoLbKLsQG9", label: "2025年11月30日 謝謝 沒錯 謝謝你" },
+      { type: "link", content: "https://photos.app.goo.gl/4CRqZQoF2WyF3cTj9", label: "2025年11月30日 哇 真的好可惜" },
+      { type: "link", content: "https://photos.app.goo.gl/XiTqKMEWhvB3FA8z8", label: "2025年11月30日 富邦沒有發展這個101景色咖啡真的好可惜 可以像日本東京鐵塔夜景的那種咖啡廳一樣" },
+      { type: "link", content: "https://photos.app.goo.gl/VRfbirCvjonZ3tFCA", label: "2025年11月30日 小小愛因斯坦" },
+      { type: "link", content: "https://photos.app.goo.gl/z82uRqLu52tKYyqZA", label: "2025年11月30日 這個入鏡太厲害了" },
+      { type: "link", content: "https://photos.app.goo.gl/LQuBA4UGB8B4Tmoc7", label: "2025年11月30日 我小時候都沒這種快樂哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/z7BdbTt4PHrwrUnJ6", label: "2025年11月30日 還有我ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/1vNtPkzxgpRHKuzL8", label: "2024年11月30日 一大早就開始 永無止境 導管一台接著一台 學長的體力超好" },
+      { type: "link", content: "https://photos.app.goo.gl/tMpCkqrmtNArkZJv7", label: "2024年11月30日 腦很好用 但不是每個人都有" },
+      { type: "link", content: "https://photos.app.goo.gl/tTwTYqPJnvLyniyTA", label: "2024年11月30日 台北這幾天天氣根本就是日本等級" },
+      { type: "link", content: "https://photos.app.goo.gl/xiMKxNE9yVuNHgvh8", label: "2024年11月30日 太厲害了 喜歡健身的朋友可以追蹤起來" },
+      { type: "link", content: "https://photos.app.goo.gl/CMk7bK88J3TbGmCr8", label: "2024年11月30日 日光浴貓貓" },
+      { type: "link", content: "https://photos.app.goo.gl/MLTBrzAxLhK2M3LF6", label: "2024年11月30日 真的差蠻多" },
+      { type: "link", content: "https://photos.app.goo.gl/94KKNvRJUyaXxNP77", label: "2022年11月30日 感謝贊助值班上班超過30小時的我 一杯溫暖的星巴克 下次拍照揪起來" },
+      { type: "link", content: "https://photos.app.goo.gl/VweS3ygvv6dF4F5UA", label: "2022年11月30日 請問左右哪邊好看? 純屬民調" },
+      { type: "link", content: "https://photos.app.goo.gl/Tue2PhoPp3aPeCqk8", label: "2018年11月30日 今天看到一篇發文很有感 關於攝影修圖這件事 應該可以說是代表性反思文章 如果你有興趣可以看下頁文章跟我的想法 歡迎討論 來源dcard" },
+      { type: "link", content: "https://photos.app.goo.gl/vYeEQb1pgaPkkhxd6", label: "2018年11月30日 \
+        討論 因為修圖所以會失去對光影構圖等敏感性嗎 其實 真正會後製的人 更重視現場光影 \
+        針對風景 第一點我已經表達過很多次了 後製不只彌補相機的不足 更能傳達內心的思維與作品的氛圍 \
+        很多所謂攝影老師或前輩 會認為修圖有兩個問題 第一是畫面失去真實 第二是失去對光影等的敏感度 \
+        第二點 我自己研究後製好幾年了 對我來說 現場的光影 想法與構圖真的太重要 我會細膩的觀察光影 無論是交織的影子或不同時間的陽光 在後製都需要不同功夫 \
+        再來構圖要考慮裁切或配合光影方向等問題 最後是當下的景色才能給我後製方向的靈感 所以 好的後製 更需要細膩的觀察 你的想法呢" },
+      { type: "link", content: "https://photos.app.goo.gl/H2Y9VTJzBjCzxMmT7", label: "2018年11月30日 看什麼主題 風景基本上一定要修圖 美麗的誤會 LR+PS 這被問了上萬次哈哈 只開HDR修會很粗糙 對啊 就像出外除了大景 我也會拍沒有要修的當紀念" },
+      { type: "link", content: "https://photos.app.goo.gl/hgewXjxk4QuWvbHy7", label: "2018年11月30日 重點 謝謝學長 找對光線 才有辦法知道修圖方向 不然只是硬加光線 沒錯哈哈 修不修圖是個人取向 但對我來說修圖的理由 是為了完美內心的構思" },
+      { type: "link", content: "https://photos.app.goo.gl/pYrWdb76JYd8HeKY6", label: "2018年11月30日 沒錯 謝謝哈哈 總是這麼中肯 是啊哈哈 修修臉 前置後製一樣重要 在風景這個領域 也是沒錯喔 修圖用來補足缺陷也是功能之一" },
+      { type: "link", content: "https://photos.app.goo.gl/d24zkSJdSmABhqEF8", label: "2018年11月30日 哈哈 真的修圖是一種興趣喔 這就是對光線的觀察 認同 但有些時候我們只想表達美 而不在意真實 但風景而言 我希望能真實與美感兼顧 修圖要有很大熱忱才會願意砸時間 不要有太大壓力在修圖 沒錯但我只能說這侷限在風景這主題哈哈 像新聞紀實就很不建議後製" },
+      { type: "link", content: "https://photos.app.goo.gl/nMgo5eDJwiDatqTy8", label: "2018年11月30日 說的兩個原因都是中肯 有點抽象 大概就是按下快門的瞬間作品成果就已經想好了 哈哈 但這個最真實的樣貌 真實是最真實的嗎 我覺得各一半 沒錯就是這樣" },
+      { type: "link", content: "https://photos.app.goo.gl/9TKx5CtLsfKr4NYK6", label: "2018年11月30日 能直接拍就好看的景真的不多哈哈 詮釋到位 沒錯哦 哈哈 但前置沒拍好甚至沒拍到的部分 後製是無法彌補 好的修圖手段 更能精準表達作品 對啊 不需要在意是否直出" },
+      { type: "link", content: "https://photos.app.goo.gl/TLd9TGN6cvgNYU2BA", label: "2018年11月30日 對啊 多觀察可以找到很多題材 這邏輯很對 就看是什麼主題了哈哈 100分的觀念 對 後製可以強化光影的變化 這很重要" },
+      { type: "link", content: "https://photos.app.goo.gl/bkY1c2CH1fMyYRiQ7", label: "2018年11月30日 PM2.5啊 有時我會覺得想這些很無聊 但內心堅持一件事情的時候 就應該再三確認自己的方向是明確的 只能說風景這個領域重視修圖哈 哈哈這比喻我想過 很有趣 合理性很重要 對 多看神作就會了解" },
+      { type: "link", content: "https://photos.app.goo.gl/1AZiBWmR9ZZ1crty9", label: "2018年11月30日 加油小企業家" },
       { type: "link", content: "https://photos.app.goo.gl/8xXKsfiihz4jNnTT7", label: "2017年11月30日 第一天值班" },
       { type: "link", content: "https://photos.app.goo.gl/yAsywEugFXvjtrNN7", label: "2016年11月30日 高雄一個月尾聲到了 在這裡發生了很多事情 知足常在 高雄榮總 尾聲" }
     ]
