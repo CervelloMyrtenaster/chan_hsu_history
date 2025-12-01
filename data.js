@@ -3395,6 +3395,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/MLTBrzAxLhK2M3LF6", label: "2024年11月30日 真的差蠻多" },
       { type: "link", content: "https://photos.app.goo.gl/94KKNvRJUyaXxNP77", label: "2022年11月30日 感謝贊助值班上班超過30小時的我 一杯溫暖的星巴克 下次拍照揪起來" },
       { type: "link", content: "https://photos.app.goo.gl/VweS3ygvv6dF4F5UA", label: "2022年11月30日 請問左右哪邊好看? 純屬民調" },
+      { type: "link", content: "https://photos.app.goo.gl/WVfrWyuuf7EQsMYy8", label: "2022年11月30日 很多人說喜歡左邊地景跟右邊天空哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/Tue2PhoPp3aPeCqk8", label: "2018年11月30日 今天看到一篇發文很有感 關於攝影修圖這件事 應該可以說是代表性反思文章 如果你有興趣可以看下頁文章跟我的想法 歡迎討論 來源dcard" },
       { type: "link", content: "https://photos.app.goo.gl/vYeEQb1pgaPkkhxd6", label: "2018年11月30日 \
         討論 因為修圖所以會失去對光影構圖等敏感性嗎 其實 真正會後製的人 更重視現場光影 \
@@ -3417,7 +3418,40 @@ const records = {
   },
 
   "12": {
-    "1": [],
+    "1": [
+      { type: "link", content: "https://photos.app.goo.gl/PAMdGW5opZEnbq7e8", label: "2025年12月1日 \
+        講的很像醫生的錯一樣 這就是無知的原罪 因為無知 所以把過錯都怪給要幫助你的人 罹患癌症的人 聽到可以開刀都應該當作中樂透一樣 因為這代表有機會根治 \
+        一但癌症是開刀也沒用或是不能開刀的 你才要節哀 無知不是錯 但用自己的無知來醜化別人對你的專業跟善舉 這就是一種錯" },
+      { type: "link", content: "https://photos.app.goo.gl/RNNPj11ijULNj86Q8", label: "2025年12月1日 管你什麼黨 沒當兵跟不敢當兵就閉嘴好嗎 沒勇氣拿槍桿面對死亡的人都沒資格談愛國 少那邊只剩嘴巴跟鍵盤" },
+      { type: "link", content: "https://photos.app.goo.gl/gB4WbgT21XzpB2pm8", label: "2025年12月1日 沒看到價格之前無法抗拒 看到價格之後抗拒到底" },
+      { type: "link", content: "https://photos.app.goo.gl/ZbmDT2kvGBXWfxNx5", label: "2025年12月1日 請問這如果開車到底應該導航那個地點呢 QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/EJi5SCbs1ytc9WFQ6", label: "2025年12月1日 太美了吧 好羨慕" },
+      { type: "link", content: "https://photos.app.goo.gl/Vc8nzVoLqUY4eEUm9", label: "2025年12月1日 哥太厲害了" },
+      { type: "link", content: "https://photos.app.goo.gl/gn9zKEs5xHVQaaoa8", label: "2025年12月1日 開心開心開心 快樂快樂快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/kQ6a8KXsqfrXBryu5", label: "2025年12月1日 我們該出門了" },
+      { type: "link", content: "https://photos.app.goo.gl/5Ch9BNGTVpwwqCxx6", label: "2024年12月1日 要開始每年的拜拜打卡行程了" },
+      { type: "link", content: "https://photos.app.goo.gl/iupgLbxxNQyKpVSb9", label: "2024年12月1日 今天跟一起去買快樂 結果買到晚上連買生活用品的錢都不夠" },
+      { type: "link", content: "https://photos.app.goo.gl/u8mYwAcjDC9gycH97", label: "2024年12月1日 雖然用大大的疲累只換來少少的薪水 所以也不奢望留什麼錢給下一代 不如製造多點生活小確幸XDDD 到現在還是搞不知道這松鼠跟兔子的名字" },
+      { type: "link", content: "https://photos.app.goo.gl/wTtA11Kx9a49K3vBA", label: "2024年12月1日 \
+        玩台服傳說的都是盤子 一樣的造型越南服至少都七折起跳 大多數都是台灣3-5折價格 以次元突破納克為例 \
+        越南抽到約花3200台幣 去找越南實況抽獎影片就知平均價格 但台服動輒8000-10000多台幣" },
+      { type: "link", content: "https://photos.app.goo.gl/XiP5x9V2dD1hrE4D8", label: "2024年12月1日 不過日服玩不得 一場至少等6-10分鐘 太浪費時間 正確是750台幣 日服3500點卷 我買過" },
+      { type: "link", content: "https://photos.app.goo.gl/CmcogkVpJULPiSu8A", label: "2024年12月1日 是沒錯 但我想表達的是 如果跟我一樣是造型控但又窮 建議改玩越服 除了語言不通以外沒啥大問題" },
+      { type: "link", content: "https://photos.app.goo.gl/W9GoPvj1cVAYhFYS8", label: "2024年12月1日 \
+        用iphone App store國家換成越南 資料亂填就好 搜尋Arena of Valor就有 下載他 整個下載且登入遊戲完成後 回到app store把國家改回台灣 \
+        然後在扣款卡片的地方輸入自己的信用卡或金融卡 成功後即可 你進入越服儲值他就會自動換成台幣 跟匯率無關 他就是固定價格" },
+      { type: "link", content: "https://photos.app.goo.gl/5iECdhq8W8qV4W6QA", label: "2024年12月1日 可以算一下這些台服要多少錢 而且有些沒有呈現在上面 我只能說這些花台服快一半的錢而已" },
+      { type: "link", content: "https://photos.app.goo.gl/f5sCnCBH3dQepP4V8", label: "2024年12月1日 台北這幾天天氣根本就是日本等級 嗚嗚 不要害我現在馬上想去日本" },
+      { type: "link", content: "https://photos.app.goo.gl/iajSNui1mkVTXKpk6", label: "2024年12月1日 今天的風好涼" },
+      { type: "link", content: "https://photos.app.goo.gl/TSrdinnRv3LJKG6L9", label: "2024年12月1日 帥爛" },
+      { type: "link", content: "https://photos.app.goo.gl/BGg9WBJCVPeYZmV49", label: "2024年12月1日 想拍" },
+      { type: "link", content: "https://photos.app.goo.gl/iqwjjjwQhwhYJQ7k8", label: "2018年12月1日 媽的宅砲 整天看動漫" },
+      { type: "link", content: "https://photos.app.goo.gl/kmHxCiUWaMSKFFyx8", label: "2017年12月1日 \
+        Golden Sea Waves Welcome share and follow the beatiful scenery of Taiwan \
+        一天po兩次 因為美麗的風景值得大家一看再看 畢生所願 走訪世界各處 讓每個展昏火燒銀河雲海城市建築夜景極光通通被紀錄 \
+        謝謝各位支持 12月風景後製家教已經滿額 其實是我沒很多有空時間" },
+      { type: "link", content: "https://photos.app.goo.gl/6RHeHRkcP1Ca25EX6", label: "2017年12月1日 鏡頭 機身損壞修理 找我吧 比外面便宜喔" }
+    ],
     "2": [],
     "3": [],
     "4": [],
