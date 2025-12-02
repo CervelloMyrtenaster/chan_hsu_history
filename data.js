@@ -3425,6 +3425,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/RNNPj11ijULNj86Q8", label: "2025年12月1日 管你什麼黨 沒當兵跟不敢當兵就閉嘴好嗎 沒勇氣拿槍桿面對死亡的人都沒資格談愛國 少那邊只剩嘴巴跟鍵盤" },
       { type: "link", content: "https://photos.app.goo.gl/gB4WbgT21XzpB2pm8", label: "2025年12月1日 沒看到價格之前無法抗拒 看到價格之後抗拒到底" },
       { type: "link", content: "https://photos.app.goo.gl/ZbmDT2kvGBXWfxNx5", label: "2025年12月1日 請問這如果開車到底應該導航那個地點呢 QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/cjkubbgnUtprBxzv9", label: "2025年12月1日 這有可能詐騙帳號" },
       { type: "link", content: "https://photos.app.goo.gl/EJi5SCbs1ytc9WFQ6", label: "2025年12月1日 太美了吧 好羨慕" },
       { type: "link", content: "https://photos.app.goo.gl/Vc8nzVoLqUY4eEUm9", label: "2025年12月1日 哥太厲害了" },
       { type: "link", content: "https://photos.app.goo.gl/gn9zKEs5xHVQaaoa8", label: "2025年12月1日 開心開心開心 快樂快樂快樂" },
@@ -3452,7 +3453,36 @@ const records = {
         謝謝各位支持 12月風景後製家教已經滿額 其實是我沒很多有空時間" },
       { type: "link", content: "https://photos.app.goo.gl/6RHeHRkcP1Ca25EX6", label: "2017年12月1日 鏡頭 機身損壞修理 找我吧 比外面便宜喔" }
     ],
-    "2": [],
+    "2": [
+      { type: "link", content: "https://photos.app.goo.gl/basCdwW2nea7GsXn6", label: "2025年12月2日 \
+        參加完一日活動 找了當時在海軍當兵時的咖啡廳坐著 回想一下五年前的心情 \
+        可怕的是一直到現在 我坐在這個咖啡廳依然在思考當初自己為何會起心動念選擇來花蓮服務 一來就是將近十年的時間 人生有多少十年 當初怎麼不選高雄就好呢 \
+        花蓮其實也不錯 就像放大版但人煙更稀少的嘉義或埔里 早上是氣勢磅礴的中央山脈 下午是山上下來的低雲夾帶涼風跟微雨 閒情逸致的感覺充滿一整天 \
+        沒有擠得水洩不通的交通 空氣也乾淨很多 但實在不知道在這裡還能做些什麼 有點徬徨呢" },
+      { type: "link", content: "https://photos.app.goo.gl/bVgEkiK5umtD2bjd6", label: "2025年12月2日 到花蓮的第一件事就是租機車 騎到醫院後發現偌大的地方幾乎沒什麼人 路上也沒人 不像台北一樣到處塞 到處都是騎機車吵雜聲 醫院停車場也是一堆位置 少了那種到哪都要等 都要搶的感覺" },
+      { type: "link", content: "https://photos.app.goo.gl/s7m13riUtdDdhjeH6", label: "2025年12月2日 幾個月前在好市多買到這個 一吃驚為天人 超級好吃 但上週去好市多已經找不到了 有大大知道這在哪裡能買得到嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/Gj5Fr1bMdwiQESxB8", label: "2025年12月2日 失控的手" },
+      { type: "link", content: "https://photos.app.goo.gl/Zd5ZpAh9rjwc9Gh78", label: "2025年12月2日 這裏要楓葉的時候去 我之前其他季節去完全空景" },
+      { type: "link", content: "https://photos.app.goo.gl/QxBhE7dmJQYNMNHi7", label: "2025年12月2日 今年的富士山楓葉好美 我收藏的富士山攝影點至少20個以上 什麼時候可以去直接住一個月自由自在的拍完全部" },
+      { type: "link", content: "https://photos.app.goo.gl/gBcYv16KeWx1FD1F6", label: "2025年12月2日 練超好很適合這件褲子欸" },
+      { type: "link", content: "https://photos.app.goo.gl/MiGqA4ABWqXjpi8n9", label: "2024年12月2日 我也願意" },
+      { type: "link", content: "https://photos.app.goo.gl/JTsKUey4sP94rq626", label: "2024年12月2日 原來這是正確名字XD" },
+      { type: "link", content: "https://photos.app.goo.gl/57NqU4TocMKdN1SZA", label: "2024年12月2日 璀璨到永恆如果一組四五個四冠王 甚至對面職業多排 職業都不一定能赢" },
+      { type: "link", content: "https://photos.app.goo.gl/334LX8248UDf3WB99", label: "2024年12月2日 哇靠 我服 真的猛" },
+      { type: "link", content: "https://photos.app.goo.gl/bxbaxduaLGiJ3H3i6", label: "2024年12月2日 恭喜 真的太強了" },
+      { type: "link", content: "https://photos.app.goo.gl/bFidkYat5M5yt2T58", label: "2024年12月2日 好啊涵涵" },
+      { type: "link", content: "https://photos.app.goo.gl/7kicqFUnrg2UHu4g8", label: "2022年12月2日 \
+        這張圖是黑道幹部跟被關小弟的對話文字檔 原來開槍殺人可以領一輩子退休俸 比我當軍人還簡單欸 \
+        我不理解為什麼現在還有人支持民進黨 有興趣進去看看這影片 連黑道跟開槍小弟的對話都清清楚楚 背後完全就是民進黨在挺這些黑道大老 \
+        這些都是有證據 不是亂抹黑的 如果連人民的安全都無法保障 談什麼抗中保台 騙鬼 \
+        到底還有誰可以忍受這樣的政黨 如果有天是自己遇到黑道誰保護你 這是非常可怕的事情 這是非常齷齪骯髒的事實" },
+      { type: "link", content: "https://photos.app.goo.gl/xQAeTjZsuSEoisGv7", label: "2022年12月2日 貓戴這個頭套一秒暴怒 但狗可以戴一個晚上怡然自得哈哈哈 差好多" },
+      { type: "link", content: "https://photos.app.goo.gl/DtAaAXYU9kMzbgRo6", label: "2018年12月2日 假裝自己是獅子王的好地方" },
+      { type: "link", content: "https://photos.app.goo.gl/owqxfST5y9fTNfig6", label: "2018年12月2日 人生短短幾個秋不海不罷休唉" },
+      { type: "link", content: "https://photos.app.goo.gl/TSics8KeKmCK56DM8", label: "2017年12月2日 去拍個街 晶華酒店" },
+      { type: "link", content: "https://photos.app.goo.gl/ixrbtLzw8D7YxSs48", label: "2017年12月2日 神社之王八蛋 自拍系列" },
+      { type: "link", content: "https://photos.app.goo.gl/joAuSdEotnMxgNuq5", label: "2017年12月2日 原圖 修完 銀河版本 12月後製教學預訂已滿 歡迎預訂一月後製家教&詢問詳情" }
+    ],
     "3": [],
     "4": [],
     "5": [],
