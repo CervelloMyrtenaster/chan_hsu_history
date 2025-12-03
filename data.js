@@ -3461,6 +3461,7 @@ const records = {
         沒有擠得水洩不通的交通 空氣也乾淨很多 但實在不知道在這裡還能做些什麼 有點徬徨呢" },
       { type: "link", content: "https://photos.app.goo.gl/bVgEkiK5umtD2bjd6", label: "2025年12月2日 到花蓮的第一件事就是租機車 騎到醫院後發現偌大的地方幾乎沒什麼人 路上也沒人 不像台北一樣到處塞 到處都是騎機車吵雜聲 醫院停車場也是一堆位置 少了那種到哪都要等 都要搶的感覺" },
       { type: "link", content: "https://photos.app.goo.gl/s7m13riUtdDdhjeH6", label: "2025年12月2日 幾個月前在好市多買到這個 一吃驚為天人 超級好吃 但上週去好市多已經找不到了 有大大知道這在哪裡能買得到嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/tV7XmveBDqpG7hqB6", label: "2025年12月2日 真的是很會買這種可愛的小廢物 別在白袍超可愛 又變出一堆可愛的東西" },
       { type: "link", content: "https://photos.app.goo.gl/Gj5Fr1bMdwiQESxB8", label: "2025年12月2日 失控的手" },
       { type: "link", content: "https://photos.app.goo.gl/Zd5ZpAh9rjwc9Gh78", label: "2025年12月2日 這裏要楓葉的時候去 我之前其他季節去完全空景" },
       { type: "link", content: "https://photos.app.goo.gl/QxBhE7dmJQYNMNHi7", label: "2025年12月2日 今年的富士山楓葉好美 我收藏的富士山攝影點至少20個以上 什麼時候可以去直接住一個月自由自在的拍完全部" },
@@ -3483,7 +3484,52 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/ixrbtLzw8D7YxSs48", label: "2017年12月2日 神社之王八蛋 自拍系列" },
       { type: "link", content: "https://photos.app.goo.gl/joAuSdEotnMxgNuq5", label: "2017年12月2日 原圖 修完 銀河版本 12月後製教學預訂已滿 歡迎預訂一月後製家教&詢問詳情" }
     ],
-    "3": [],
+    "3": [
+      { type: "link", content: "https://photos.app.goo.gl/KKArPPh45yp4VmaX8", label: "2025年12月3日 \
+        以醫師這種資質跟努力 去二類或牙醫 年收都是500-600萬以上 \
+        再退一步說 醫師為醫院跟病人製造的產值每年都破1000萬甚至更高 然後才領300多萬 可悲不可悲" },
+      { type: "link", content: "https://photos.app.goo.gl/4maT4bWfvamX8JjM6", label: "2025年12月3日 \
+        我一直覺得guideline應該是最嚴謹的 可是從intern到現在就真的很不喜歡MI AMI這個詞 有夠不精確 \
+        大部分MI都是STEMI+NSTEMI AMI也是 但又偶爾AMI特指STEMI 然後在這個ACS建議裡面明明都是指STEMI+NSTEMI 但卻分別用MI跟AMI這兩個不同的詞" },
+      { type: "link", content: "https://photos.app.goo.gl/Yv4vZSRvepYaMfVW9", label: "2025年12月3日 \
+        從當intern開始就對某些醫學名詞感到困惑 其中之一就是ACS MI AMI 直到現在都搞得我好亂啊 \
+        在2025 AHA/ACC ACS指引9.2章節的指引裡 就同時出現上述三個詞 這三個詞還必須對照出處才知道指什麼狀況 但這些狀況又跟初始定義不一樣 \
+        我盡力理解後歸納的結論 ACS定義上包含UA NSTEMI STEMI 但在某些狀況特指NSTEMI STEMI而已 MI包含NSTEMI STEMI \
+        AMI包含NSTEMI STEMI 但某些狀況特指STEMI 有沒有脆上的大神能解釋這些名詞到底是怎麼回事 是能這樣隨心所欲的交互使用的嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/9zFmSDXarWQ2W7SU7", label: "2025年12月3日 感謝前輩 只是我很好奇 都沒有心血管大師在國際會議上提出這些用詞很容易混淆嗎 了解 看來我不應該在意這個了哈哈 謝謝您" },
+      { type: "link", content: "https://photos.app.goo.gl/r8Em6Yosnz3r3S7G9", label: "2025年12月3日 這個沒問題我知道~ Ok 這部分我也知道 感謝您" },
+      { type: "link", content: "https://photos.app.goo.gl/QircvHFxhq9BsXPAA", label: "2025年12月3日 \
+        非常感謝您詳盡的補充 不過似乎我沒有得到核心的答案 我的理解是CAD應該是包含CCS跟ACS 這樣比較直觀 \
+        回到我的問題 我的疑問是ACS有時在文獻裡面定義沒有包含UA 因為他不是心肌真的壞死 但實際上應該要包含 \
+        MI AMI大多數幾乎是相同意思 但文獻上又喜歡同時出現這兩個名詞 這些都沒有一個明確的定義 讓我非常困惑" },
+      { type: "link", content: "https://photos.app.goo.gl/tRLoDXMRQMWXNqGv8", label: "2024年12月3日 把特別有內科學習價值的網路資源做個整理 歡迎補充及更正 試著整理出最齊全的內科入科的資源 希望能幫助到大家 若長期沒有更新就不放上 分為六大類" },
+      { type: "link", content: "https://photos.app.goo.gl/YqMHSHAfyeGmMAte8", label: "2024年12月3日 發現自己LDL爆表到100 難過了一週 很害怕自己也變成CAD風險 不過也有動力嚴厲要求自己 要好好運動飲食改善 然後也準備接受一點藥物治療 該死的斑塊一點都不能長進我血管" },
+      { type: "link", content: "https://photos.app.goo.gl/LePHqcpDRNzKjiMi8", label: "2024年12月3日 我也是" },
+      { type: "link", content: "https://photos.app.goo.gl/HZh3Fa4HAPcQU9896", label: "2024年12月3日 好想要這隻貓貓棉被喔" },
+      { type: "link", content: "https://photos.app.goo.gl/qWUNXvnKXfNAk5C36", label: "2023年12月3日 好想出門拍照 還接獲噩耗下下禮拜又要報告 真的很煩==" },
+      { type: "link", content: "https://photos.app.goo.gl/UH5ksZhZ6RbdDW1c8", label: "2023年12月3日 強迫自己訓練一下街拍 拍一些很台灣的東西" },
+      { type: "link", content: "https://photos.app.goo.gl/wuqGnX8RoSqzBigT7", label: "2023年12月3日 \
+        終於碰到少數不用做報告不用值班的假日 回覆一下修圖手感 順便嘗試簽名檔製作 \
+        2023即將過去 這一年唯一真正的快樂是跟一起出國的這三次 我感覺到自己活著 真正擁有短暫的自我 尤其在勝尾寺 真是如夢一般不真實" },
+      { type: "link", content: "https://photos.app.goo.gl/U2jRwAfXfYELt1ci7", label: "2023年12月3日 \
+        大阪 勝尾寺 勝尾寺是我跟今天出國碰到最美的地方 沒有人山人海吵雜的喧鬧 時刻傳來的誦佛聲顯得莊嚴而肅 \
+        小達摩們四處散佈 這裡就是他們的國度 走到一半忽然飄起小小的雪花 空氣靜止在那一刻 至今仍忘不了的美好 \
+        一輩子應該去日本幾次呢? 我覺得除非定居在日本 否則永遠不夠" },
+      { type: "link", content: "https://photos.app.goo.gl/h4CM6mwwSekhcWqV6", label: "2023年12月3日 超喜歡這次重修的達摩 終於抓到我要的光影跟立體感 色調也正常很多 終於抓到如何處理達摩們色調跟氛圍的訣竅了" },
+      { type: "link", content: "https://photos.app.goo.gl/heoAD4meLq4ejFNL6", label: "2023年12月3日 真的拍到一半日本小孩童跑過去 跑的太好了直接入鏡" },
+      { type: "link", content: "https://photos.app.goo.gl/Vi7W3Ao1M4HwnesS8", label: "2021年12月3日 \
+        誇張到我覺得必須出來講 我昨天從2200左右就一直在護理站坐著等新病人順便補病歷 23-24左右急診交班給護理師 會有兩床新病人 但規定12-3不能收 所以三點才會上來 \
+        我昨天基本上已經累到一整天幾乎沒吃東西 趕到汀州也沒睡覺都在處理還沒接完的化療病人 我弄到兩點 跟一個胖護理師說 等下病人上來如果stable的 腸胃炎那種 可否六點摳我 結果他給我擺臭臉瞪我 我就說好那病人來你直接摳 \
+        然後我兩點睡 03:38就摳我病人到了 我看一下一個發燒找原因 一個安養中心轉下來UTI vital sign穩定也不端 所以我六點才去開order \
+        這兩位病人自備藥一大堆 我一個一個對 也都有報給王勝輝 檢查藥物我通通都開好07:30才走 病人也有去看去taking hx 病歷也打完整 \
+        試問什麼叫做order亂開? 什麼叫用不完? 告狀遲到到底是三小 昨天根本我根本沒告狀 也沒遲到 這句話無中生有 可以當記者了吧 \
+        03:38看完data沒有馬上開order的確可議 但說的好像我完全不負責任 我也是人也需要休息 1200-0300不收病人所以延後到0300才把病人收上來 這樣有比較體諒我們住院醫師嗎? 別家醫院有這樣嗎? \
+        我已經非常盡量負責的看病人 八九不離十是那個胖護理師去講的 我非常不能理解他一個上班八小時加班兩小時的人 憑什麼說我昨天早上上班到現在還坐在護理站的住院醫師 草草對待病人! 歡迎部長找我約談" },
+      { type: "link", content: "https://photos.app.goo.gl/aDNN4k4EkpfJU5FD8", label: "2021年12月3日 這個世界真的很大很漂亮 我常常在想 對工作的奉獻真的要有限度 離開這個世界之前一定要把世界的美都看完" },
+      { type: "link", content: "https://photos.app.goo.gl/x2Jw3o17aEWPe8jP7", label: "2021年12月3日 可愛的老主任 拿著大陸醫院印製的相片 這還是我第一次看到 感覺像是醫療劇才會出現的酷東西" },
+      { type: "link", content: "https://photos.app.goo.gl/W1Y4MQDYn35u9PN98", label: "2018年12月3日 請問腳受傷去看病有說錯嗎? 偉哉長官" },
+      { type: "link", content: "https://photos.app.goo.gl/bqb53YfMLTpzpJUv5", label: "2018年12月3日 在一起195小時 現在的生活困難但很單純 除了當兵就是你了" }
+    ],
     "4": [],
     "5": [],
     "6": [],
