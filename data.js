@@ -3530,7 +3530,37 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/W1Y4MQDYn35u9PN98", label: "2018年12月3日 請問腳受傷去看病有說錯嗎? 偉哉長官" },
       { type: "link", content: "https://photos.app.goo.gl/bqb53YfMLTpzpJUv5", label: "2018年12月3日 在一起195小時 現在的生活困難但很單純 除了當兵就是你了" }
     ],
-    "4": [],
+    "4": [
+      { type: "link", content: "https://photos.app.goo.gl/KLcRSozHzzC2vrL87", label: "2025年12月4日 部分網友的留言讓我發現自己的盲點 這禮拜我會整理好資料 查好referrence再分享" },
+      { type: "link", content: "https://photos.app.goo.gl/2V5jiSEesWFUBLbX9", label: "2025年12月4日 謝謝 這樣說也很清楚 感謝 我很認同你的說法" },
+      { type: "link", content: "https://photos.app.goo.gl/uVsfEcvfFRvShrqw8", label: "2024年12月4日 怎麼刪文了? 不小心露出馬腳了? 還真的是想要黨媒一手抓 學習共產黨的民進黨啊呵呵呵 真是民主 遇到反對的聲音 一律戒嚴 剷除就好了 噁心" },
+      { type: "link", content: "https://photos.app.goo.gl/G3vrYmw27wLB3Ms77", label: "2024年12月4日 很厲害 想當初我都在音樂課算數學" },
+      { type: "link", content: "https://photos.app.goo.gl/M8pKh67VX3W2vEzr5", label: "2024年12月4日 我視力有問題 除了你之外 不知為啥看其他女生都變成打馬賽克根本看不到 我有去看眼科學長門診但沒藥醫 我應該就是少數那些不看的 是真的" },
+      { type: "link", content: "https://photos.app.goo.gl/axm8jhiTouyC1dEo9", label: "2024年12月4日 哈哈哈哈哈 誒不是" },
+      { type: "link", content: "https://photos.app.goo.gl/v2tL5fkCrGj9kkHM7", label: "2023年12月4日 感謝帶貨 便宜又帥" },
+      { type: "link", content: "https://photos.app.goo.gl/VbL7ajMAcyaMWP8v6", label: "2022年12月4日 我真的不知道為什麼連續三個月 只要有報告就一定會有我的份 趕緊回來加班看資料 能讓我好好的先讀內專嗎 我會考不過捏QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/AFFuAxwND2a1JGCX7", label: "2022年12月4日 鄉下俗第一次拍W hotal 感謝相機支援" },
+      { type: "link", content: "https://photos.app.goo.gl/sSnusG1muns4N4CB7", label: "2022年12月4日 賓客兼婚攝 全新挑戰" },
+      { type: "link", content: "https://photos.app.goo.gl/f5HoykKB7sf9vZ9WA", label: "2022年12月4日 今天開工日 老了背雙機肩膀好痛" },
+      { type: "link", content: "https://photos.app.goo.gl/CJ37Edc9eFSxF53m6", label: "2021年12月4日 佛系拍夜景" },
+      { type: "link", content: "https://photos.app.goo.gl/t2aJ5utTRGBXvkAY6", label: "2020年12月4日 恭喜啦 沒想到因我而造就一段良綠" },
+      { type: "link", content: "https://photos.app.goo.gl/AUvDz5j5JyiedyVx5", label: "2019年12月4日 友城海產碳烤 下部隊的庶民聚餐" },
+      { type: "link", content: "https://photos.app.goo.gl/Kb3WbtBwaK3BXrjM8", label: "2018年12月4日 \
+        很無奈的一個禮拜 病痛讓我幾乎下不了床走不了路 偏偏這個工作沒辦法請假養病 \
+        三天前開始只要醒著就是折磨 接著明天要開船了還是11天 但非得努力撐下去 希望一切趕快好轉 我的精神支柱 zepeto \
+        腰酸背痛+胃脹氣+感冒+腦袋秀逗" },
+      { type: "link", content: "https://photos.app.goo.gl/YMvijDHT3Ptd9zEX9", label: "2017年12月4日 \
+        總是這樣 無法停止的惡夢 從小牙齒就比一般人容易蛀牙 做了幾次根管 每次都是多次的療程 牙套牙根也不便宜 \
+        而這兩個月 先是左邊蛀牙脆弱 在日本咬碎臼齒的一塊 預計也是根管治療 再來最近右邊曾經做過根管的牙根 \
+        又因為當時牙醫沒抽乾淨 現在細菌感染復發 腫一個芽苞 預計打掉上半整個牙冠 用顯微鏡清理 18000台幣 再做一次牙套 \
+        沒完沒了 抱怨也是枉然 就當作是紀錄生命的缺陷吧 實習一年半 在醫院看過各種案例各種生離死別 我曾想人被生下來 其實就是種罪 \
+        承受各種痛苦各種疾病跟意外 然後終究面對死亡 不過這樣想是過於悲觀了 希望牙齒別再有狀況 我會轉念並用更堅強的心態面對" },
+      { type: "link", content: "https://photos.app.goo.gl/Yoo92MnkiRCiwAmh7", label: "2017年12月4日 唉快樂人生的兩個人 我已經過了想玩電動的年紀 不過也忙到沒時間玩 沒事修圖日文重訓唸書" },
+      { type: "link", content: "https://photos.app.goo.gl/z7ywN3sJsUyd6Zpb9", label: "2017年12月4日 寢室怎麼可能多一個不知道誰的杯子 裡面還有水欸 黑人問號加驚嘆號== 室友情" },
+      { type: "link", content: "https://photos.app.goo.gl/HRfniSEcNrLyRm7G6", label: "2017年12月4日 \
+        我都去3樓病歷室打病歴等摳欸 下次會準時到gi報到 拍謝拍謝 不太知道PPN CPN的order名字也大概一樣嗎 拍謝問很多 PD Diet我也不太懂 也是在his裡面看嗎 謝謝 恩恩懂 謝謝你 我真的很多不知道 以前都是得過且過" }
+
+    ],
     "5": [],
     "6": [],
     "7": [],
