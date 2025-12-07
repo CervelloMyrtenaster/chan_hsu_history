@@ -3561,6 +3561,18 @@ const records = {
         我都去3樓病歷室打病歴等摳欸 下次會準時到gi報到 拍謝拍謝 不太知道PPN CPN的order名字也大概一樣嗎 拍謝問很多 PD Diet我也不太懂 也是在his裡面看嗎 謝謝 恩恩懂 謝謝你 我真的很多不知道 以前都是得過且過" }
     ],
     "5": [
+      { type: "link", content: "https://photos.app.goo.gl/pFsjoZCzqmaxzMaC7", label: "2025年12月5日 \
+        不行 但是說實在的 這些都是從業務角度出發的想法跟臆測 更多的是我看到許多醫師的言行跟舉止是為了自我保護跟避免誤會 \
+        畢竟今天哪位醫師得到什麼好處甚至偏袒 不只傷害到病人跟自身信譽 更多的是當大家矛頭指向醫師時 哪個業務要出來承擔負責XD \
+        所以看到內文還是覺得有些事情要多看不同面向" },
+      { type: "link", content: "https://photos.app.goo.gl/PwmXoZw23rty9WkY6", label: "2025年12月5日 真的是傻子才抽台服造型 笨死了 越南這造型只要1429點卷保底 換台幣大概1000上下吧" },
+      { type: "link", content: "https://photos.app.goo.gl/XDHZbo8sXQKYxxZQ9", label: "2025年12月5日 因為開始有系統的幫錄上課影片 發現整理yt影片蠻有趣的 而且用ai生成封面也沒版權問題 畫面也更一致好看" },
+      { type: "link", content: "https://photos.app.goo.gl/EVYJFpafa9FvtJXt8", label: "2025年12月5日 我的聽齡真是年輕 讚讚" },
+      { type: "link", content: "https://photos.app.goo.gl/M2SNwC9YYqiUAsYHA", label: "2025年12月5日 聖誕樹也太美" },
+      { type: "link", content: "https://photos.app.goo.gl/JeTfv1nLv3WfGEvC6", label: "2025年12月5日 最愛這種有彈性的" },
+      { type: "link", content: "https://photos.app.goo.gl/maycMwz3SzZUVxAMA", label: "2025年12月5日 \
+        那些年容易搞混的名詞 從醫學生時期就沒有搞懂CAD ACS AMI MI等名詞 直到成為了住院醫生才發現不能再馬齒徒長 \
+        這次查閱了許多文獻 把這些看似平常但容易混淆的心臟科名詞給整理清楚 結論可以直接看第一張 如果有寫錯的部分也可以直接指正唷" },
       { type: "link", content: "https://photos.app.goo.gl/QsP9DiZHxTWPVcnd8", label: "2025年12月5日 好便宜 好啊" },
       { type: "link", content: "https://photos.app.goo.gl/fQPv5Rimve3ibtfX7", label: "2024年12月5日 比醫師的補貼多太多了 重視護理師是對的 但政府也該更善待第一線的醫師吧" },
       { type: "link", content: "https://photos.app.goo.gl/ETPxYeYPYyvsA3d39", label: "2024年12月5日 那對面另外三隻就補阿來 綺羅 馬洛" },
@@ -3579,6 +3591,13 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/1YtT7GiHdxRbnGM38", label: "2017年12月5日 正中午的城市合成日出火燒 搞到自己快瘋掉 這樣後製會更強嗎 還是腦力會先耗弱 新加坡佛牙寺龍華院 合成這樣會不會很怪 方便的話請告訴我意見跟看法" }
     ],
     "6": [
+      { type: "link", content: "https://photos.app.goo.gl/xwCg7urGH5UcizUy8", label: "2025年12月6日 他是聰明的壁虎" },
+      { type: "link", content: "https://photos.app.goo.gl/sdvBmHATMfifqasf6", label: "2025年12月6日 今天又練更好了" },
+      { type: "link", content: "https://photos.app.goo.gl/hJjpEEyNq1TB82iZ8", label: "2025年12月6日 保持帥哥" },
+      { type: "link", content: "https://photos.app.goo.gl/bRynTCshKmTki6969", label: "2025年12月6日 台北信義 動物方城市2" },
+      { type: "link", content: "https://photos.app.goo.gl/imhQgATVmNAz2Hf1A", label: "2025年12月6日 對啊 不過偶爾AI還是會誤會文獻的意思XD" },
+      { type: "link", content: "https://photos.app.goo.gl/DcGuTFAwMkyFCQrh6", label: "2025年12月6日 真可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/QGVGnySx3o5j42TRA", label: "2025年12月6日 不行" },
       { type: "link", content: "https://photos.app.goo.gl/evtQmdFWpByxXnp87", label: "2024年12月6日 \
         這絕對不是單純只有良性腫瘤的問題 你可以用聳動的內文來誤導大眾 但醫護人員都不是白癡 那你這種發文就是邪惡" },
       { type: "link", content: "https://photos.app.goo.gl/CtJNnMYLYhuqGcwN8", label: "2024年12月6日 弟弟說這是我存錢很久才買的雞排 不要再看了XD" },
@@ -3606,6 +3625,12 @@ const records = {
         目前99張 而第100張的答案藏在上一頁限時裡 我會堅持這樣的照片風格 修煉後製技術 並拍好各種主題 提升自己攝影的層次" }
     ],
     "7": [
+      { type: "link", content: "https://photos.app.goo.gl/wN132nY1w5Ycop9cA", label: "2025年12月7日 \
+        真的很羨慕別的職業說走就走 說訂機票就訂機票的自由 當軍人最北七的之一就是出國上公文還要提前準備 \
+        這種不自由一個月多給我三萬也不要zzz 薪水根本沒有高到值得放棄這些自由 小時候真的不懂事 \
+        根本沒辦法好好了解自己的愛好跟人生規劃 幾十年的光陰都用來忍耐跟接受 這輩子真的不要讓任何人來幫你決定未來" },
+      { type: "link", content: "https://photos.app.goo.gl/nFreXacNcHVhTP1p9", label: "2025年12月7日 一早又被這種可怕的東西轟炸" },
+      { type: "link", content: "https://photos.app.goo.gl/PesVY6qvEqnjaSFU8", label: "2025年12月7日 爆可愛" },
       { type: "link", content: "https://photos.app.goo.gl/syFuRtkGJgBVb2Pu7", label: "2024年12月7日 第一名是不是搞錯什麼啊 醫師在台灣薪水大約200-300而已 工程師光年終就比我們年薪多了 醫師還沒幾毛年終的呵呵" },
       { type: "link", content: "https://photos.app.goo.gl/EAP6jZmYtkLiyF2GA", label: "2024年12月7日 超爽 畢竟對面就是一群被共產黨控制的白癡國度 不敢面對真相" },
       { type: "link", content: "https://photos.app.goo.gl/su7umRnsGQuE5vEY8", label: "2024年12月7日 啊我咧" },
