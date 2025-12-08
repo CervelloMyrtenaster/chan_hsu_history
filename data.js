@@ -3644,7 +3644,26 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/jMD4e9hKbEdVgMfZ6", label: "2019年12月7日 這篇敘述性回顧文獻 探討馬拉松當中驟死 結論為 每149,968名參賽者 會出現一名死亡案例 男性發生率為女性的兩倍 大多在比賽最後四分之一時發生" },
       { type: "link", content: "https://photos.app.goo.gl/EVV7CHiqzizqMvey8", label: "2017年12月7日 My dear partner 第100篇貼文 很幸運認識武嶺上最閃亮的聖誕 謝謝妳陪我上山下海的拍照 未來我們要到更多的地方 紀錄更多的風景" }
     ],
-    "8": [],
+    "8": [
+      { type: "link", content: "https://photos.app.goo.gl/pb5Y9wYvUTWdHF3R9", label: "2025年12月8日 超可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/tj6cCbxpiQUw7yHaA", label: "2024年12月8日 \
+        峇里島 人之所以出生在這個世界 並且被賦予豐富的感官與思想 並不是為了要被囚禁在工作 那只有痛苦與遺憾 \
+        這個世界有數千萬種顏色 文化 建築 際遇 氣候 思想 用一生的時間去體驗才是被生下來的原因" },
+      { type: "link", content: "https://photos.app.goo.gl/AB9JyF453E4DJKBR7", label: "2024年12月8日 週末修圖溫溫手感 越來越想念那些海島國家 什麼時候可以做自由的風景攝影師" },
+      { type: "link", content: "https://photos.app.goo.gl/vo9HpZE6zhj74jNGA", label: "2024年12月8日 \
+        星空下的樹屋 漆黑的半夜 我剛到超美的海濱小屋 就拖著疲憊的身軀去找到這個點 當下真的伸手不見五指 地景長曝兩分多鐘才些微的明亮 \
+        但身處於遼闊大海中小島旁的小島 我們與世隔絕 只剩下海浪聲跟星空 當下便是這輩子最滿足的時刻 天啊真的很想住在國外" },
+      { type: "link", content: "https://photos.app.goo.gl/kt7DqGhpXeEkStc97", label: "2024年12月8日 真心推 超好吃 買給毛小孩吧" },
+      { type: "link", content: "https://photos.app.goo.gl/4YvntrXuumtkA9Hr5", label: "2024年12月8日 好吃" },
+      { type: "link", content: "https://photos.app.goo.gl/C2sa2MzjgLGqhCpN7", label: "2024年12月8日 買過 真的推哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/9TtVVxVPXeVEAe9M8", label: "2024年12月8日 哈哈哈哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/3zwPKgHmCvK9NsGx7", label: "2024年12月8日 我也要買一個海棉寶寶" },
+      { type: "link", content: "https://photos.app.goo.gl/AMQYE2R4iH3fSG9f7", label: "2024年12月8日 好危險 妹妹真聰明" },
+      { type: "link", content: "https://photos.app.goo.gl/zHAVa3zRxTQjBGUS6", label: "2024年12月8日 他不是一個想得獎的人 他是一個想跳舞的人 respect哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/nXAVSzxVhchAifjm6", label: "2020年12月8日 飄向台中" },
+      { type: "link", content: "https://photos.app.goo.gl/goh9FYbVHJ6xVtH36", label: "2017年12月8日 國立暨南國際大學女研究生宿舍 美麗校園之一" },
+      { type: "link", content: "https://photos.app.goo.gl/4AaNe5QjchT2LApLA", label: "2017年12月8日 國立暨南國際大學女研究生宿舍 美麗校園之二 黑森林啊啊啊啊啊" }
+    ],
     "9": [],
     "10": [],
     "11": [],
