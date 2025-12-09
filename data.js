@@ -3664,7 +3664,35 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/goh9FYbVHJ6xVtH36", label: "2017年12月8日 國立暨南國際大學女研究生宿舍 美麗校園之一" },
       { type: "link", content: "https://photos.app.goo.gl/4AaNe5QjchT2LApLA", label: "2017年12月8日 國立暨南國際大學女研究生宿舍 美麗校園之二 黑森林啊啊啊啊啊" }
     ],
-    "9": [],
+    "9": [
+      { type: "link", content: "https://photos.app.goo.gl/Sn5HbA6xRf2dtcu67", label: "2025年12月9日 民進黨的17.7%裡面是不是包含一位想到當兵就憂鬱導致不能當兵的林昶佐" },
+      { type: "link", content: "https://photos.app.goo.gl/oWJFxsitby7kGWCN8", label: "2025年12月9日 讚 就是這樣罵死他" },
+      { type: "link", content: "https://photos.app.goo.gl/vddZJfm9f9LR1JZP7", label: "2025年12月9日 \
+        幾天的潮濕寒冷後 終於迎來一天的乾爽 雖然還是非常冷 但我決定一起去爬個金面山 路上我們聊到 我曾說想在離開台北前 \
+        把所有漂亮的101視角都拍過 不過目前的生活被工作填的很滿 沒有值班的晚上跟週末 也常常得犧牲 所以到底有沒有機會拍完呢 \
+        我們一起抵達山上 路上還有阿貓阿狗陪爬 純淨的天空被夕彩渲染 而我意外捕捉到飛機飛過101 解鎖了這個畫面 當成手機桌布真的很美 分享給大家" },
+      { type: "link", content: "https://photos.app.goo.gl/bWZ4NQvFtj5N6b2r6", label: "2025年12月9日 我覺得他一定是狗狗轉世 可愛又感動" },
+      { type: "link", content: "https://photos.app.goo.gl/8Dc4UedarNvfuSag9", label: "2025年12月9日 強" },
+      { type: "link", content: "https://photos.app.goo.gl/K1NyNgraWWPh5f3r6", label: "2024年12月9日 今天還沒過一半就22個會診 什麼意思" },
+      { type: "link", content: "https://photos.app.goo.gl/cq8yn4tEckeJe7tRA", label: "2024年12月9日 哈哈哈小隻就是可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/UeR4BH4aCV6qhEGb7", label: "2024年12月9日 對啊" },
+      { type: "link", content: "https://photos.app.goo.gl/UeVRziTdCUs5Txxx5", label: "2024年12月9日 認真說 一定是那隻跳下來的貓貓哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/7fyAzyFEpsnoBLXJ8", label: "2024年12月9日 九個小黑豆在玩" },
+      { type: "link", content: "https://photos.app.goo.gl/vaWRvDaLzGzcZRQN9", label: "2024年12月9日 震撼" },
+      { type: "link", content: "https://photos.app.goo.gl/ahZNtvVGBFkSU5Vs9", label: "2023年12月9日 這禮拜七天都在工作 每天都加班 今天起大早拍婚證婚禮 明天值班 只有今晚的空檔要好好把握一起吃晚餐" },
+      { type: "link", content: "https://photos.app.goo.gl/Gu5MqCc5sCmnjEsv5", label: "2023年12月9日 難得主動 找出很可愛的餐廳 彷彿回到了大阪一樣好懷念 超級懷念 會客室" },
+      { type: "link", content: "https://photos.app.goo.gl/YviPD5sr1sUsPC7t6", label: "2023年12月9日 是之前的麻醉部長嗎 表演不用摸也可以打上aline" },
+      { type: "link", content: "https://photos.app.goo.gl/SMkCQzdcuRkuYL1X6", label: "2023年12月9日 學生時代就是一起接各種攝影活動 跑去國際大師的講習聽課 研究婚禮及婚紗攝影 結果這場居然又一起當工作人員了 重現以前我們擺各種器材的桌面XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/tK5Mo4L48Z1VfC456", label: "2023年12月9日 孫立人將軍官邸 應該是我拍過最喜歡的場地 有別於一般大飯店 這裡是台北鬧區中的幽靜之地" },
+      { type: "link", content: "https://photos.app.goo.gl/82rrAAPGxe6frZzi8", label: "2023年12月9日 終於見到我的偶像學長" },
+      { type: "link", content: "https://photos.app.goo.gl/KFmSKFgrGc4sV6hBA", label: "2023年12月9日 今天的婚禮場地太酷了吧 上工 孫立人將軍官邸" },
+      { type: "link", content: "https://photos.app.goo.gl/fp56M4F48cJArZ8x6", label: "2022年12月9日 政府一直在扯台灣醫師的後腿 這就是現在的醫療環境" },
+      { type: "link", content: "https://photos.app.goo.gl/2znDfGDdhr2ok31A8", label: "2022年12月9日 圖片中看起來如果沒有火人可以融合成冰火人 會很難打血鬼啊" },
+      { type: "link", content: "https://photos.app.goo.gl/VKruHfK2jqKQmZb96", label: "2021年12月9日 高雄市百萬夜景 這裡是南臺灣第一的百萬夜景 日出日落都可以拍 八五大樓聳立在高樓中心 充滿平衡的美感" },
+      { type: "link", content: "https://photos.app.goo.gl/5Vgs18uSgtqxAxHW8", label: "2020年12月9日 我不知道對一份大家都直接沿用舊的ppt來報告的一個會 我幹嘛花5-6個小時看原文書跟一堆資料做新的講義 也許只是對以前不認真的一個補償心理而已 " },
+      { type: "link", content: "https://photos.app.goo.gl/mnSp6mQ5WiPVeNpn8", label: "2018年12月9日 出海11天又人間蒸發" },
+      { type: "link", content: "https://photos.app.goo.gl/9u5rq1fCXULvoBFT6", label: "2017年12月9日 相機什麼的還是收防潮箱吧" }
+    ],
     "10": [],
     "11": [],
     "12": [
