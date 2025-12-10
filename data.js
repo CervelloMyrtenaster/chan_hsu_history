@@ -3665,6 +3665,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/4AaNe5QjchT2LApLA", label: "2017年12月8日 國立暨南國際大學女研究生宿舍 美麗校園之二 黑森林啊啊啊啊啊" }
     ],
     "9": [
+      { type: "link", content: "https://photos.app.goo.gl/5jKDunUsdaP8Lp197", label: "2025年12月9日 這跟年薪150萬的醫師完全一樣啊 而且醫師一個月還有6-8天要值班 是連續工作超過30小時的" },
       { type: "link", content: "https://photos.app.goo.gl/Sn5HbA6xRf2dtcu67", label: "2025年12月9日 民進黨的17.7%裡面是不是包含一位想到當兵就憂鬱導致不能當兵的林昶佐" },
       { type: "link", content: "https://photos.app.goo.gl/oWJFxsitby7kGWCN8", label: "2025年12月9日 讚 就是這樣罵死他" },
       { type: "link", content: "https://photos.app.goo.gl/vddZJfm9f9LR1JZP7", label: "2025年12月9日 \
@@ -3682,9 +3683,8 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/ahZNtvVGBFkSU5Vs9", label: "2023年12月9日 這禮拜七天都在工作 每天都加班 今天起大早拍婚證婚禮 明天值班 只有今晚的空檔要好好把握一起吃晚餐" },
       { type: "link", content: "https://photos.app.goo.gl/Gu5MqCc5sCmnjEsv5", label: "2023年12月9日 難得主動 找出很可愛的餐廳 彷彿回到了大阪一樣好懷念 超級懷念 會客室" },
       { type: "link", content: "https://photos.app.goo.gl/YviPD5sr1sUsPC7t6", label: "2023年12月9日 是之前的麻醉部長嗎 表演不用摸也可以打上aline" },
-      { type: "link", content: "https://photos.app.goo.gl/SMkCQzdcuRkuYL1X6", label: "2023年12月9日 學生時代就是一起接各種攝影活動 跑去國際大師的講習聽課 研究婚禮及婚紗攝影 結果這場居然又一起當工作人員了 重現以前我們擺各種器材的桌面XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/PDk5f9YqtGDpocmf8", label: "2023年12月9日 終於見到我的偶像學長 學生時代就是一起接各種攝影活動 跑去國際大師的講習聽課 研究婚禮及婚紗攝影 結果這場居然又一起當工作人員了 重現以前我們擺各種器材的桌面XDDD" },
       { type: "link", content: "https://photos.app.goo.gl/tK5Mo4L48Z1VfC456", label: "2023年12月9日 孫立人將軍官邸 應該是我拍過最喜歡的場地 有別於一般大飯店 這裡是台北鬧區中的幽靜之地" },
-      { type: "link", content: "https://photos.app.goo.gl/82rrAAPGxe6frZzi8", label: "2023年12月9日 終於見到我的偶像學長" },
       { type: "link", content: "https://photos.app.goo.gl/KFmSKFgrGc4sV6hBA", label: "2023年12月9日 今天的婚禮場地太酷了吧 上工 孫立人將軍官邸" },
       { type: "link", content: "https://photos.app.goo.gl/fp56M4F48cJArZ8x6", label: "2022年12月9日 政府一直在扯台灣醫師的後腿 這就是現在的醫療環境" },
       { type: "link", content: "https://photos.app.goo.gl/2znDfGDdhr2ok31A8", label: "2022年12月9日 圖片中看起來如果沒有火人可以融合成冰火人 會很難打血鬼啊" },
@@ -3693,7 +3693,31 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/mnSp6mQ5WiPVeNpn8", label: "2018年12月9日 出海11天又人間蒸發" },
       { type: "link", content: "https://photos.app.goo.gl/9u5rq1fCXULvoBFT6", label: "2017年12月9日 相機什麼的還是收防潮箱吧" }
     ],
-    "10": [],
+    "10": [
+      { type: "link", content: "https://photos.app.goo.gl/wUHDb8pTSraDuWE1A", label: "2025年12月10日 好看 感覺就是一拳超人跟悟空打架 快到看不見的連續相撞" },
+      { type: "link", content: "https://photos.app.goo.gl/qzNSyVpxjBiD5fKS8", label: "2025年12月10日 我有看到 他真的600天每天往前一點點 棉被都這麼努力撐住了 我們也要努力" },
+      { type: "link", content: "https://photos.app.goo.gl/v3687UuF1RcsMBxG8", label: "2025年12月10日 好好看" },
+      { type: "link", content: "https://photos.app.goo.gl/gTy2nXZ6QJAFf44H6", label: "2025年12月10日 阿貓ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/yUAojWXui73NPATD9", label: "2025年12月10日 對 我爬到山頂" },
+      { type: "link", content: "https://photos.app.goo.gl/Evr27w6HqxsZqBjS6", label: "2025年12月10日 感謝老天的好天氣 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/gCp6aZBYcM6KXq8cA", label: "2024年12月10日 \
+        加上富邦國泰 還有圖中的中信元大兆豐凱基 台灣前六大金控我都有買 之前也有推薦過 如果心臟跟我一樣小 平常也跟我一樣懶惰 \
+        其實就逢低無腦買這些大金控就好 買完完全不用理別人想法 本多終勝 就是這麼簡單" },
+      { type: "link", content: "https://photos.app.goo.gl/MWxK17ceUKsk79EZA", label: "2024年12月10日 \
+        有圖為證 早在幾年前就一直在買 投資就是買自己了解也有信心的 而不是見風轉舵 整天在那邊聽別人五四三的意見 \
+        然後心神不寧賠錢又影響本業 股票就是要穩 要始終如一 體質夠好 市值夠大沒辦法內線操作 公司負責人清楚明瞭 \
+        且要能在大跌時勇敢接刀的標的才是好標的 沒聽過 亂七八糟的 小公司的 我一律當詐騙" },
+      { type: "link", content: "https://photos.app.goo.gl/5Gsuo9M2XCeEDQyt5", label: "2024年12月10日 \
+        是我的話 我會先跳進對面團裡面再開 一方面等隊友在走近一點 一方面有機會對面以為我失誤砸更多招出來 \
+        但風險是怕跳進去第一時間被控開不出大就沒了 但如果跳進去開大 應該可以更卡開對面陣形" },
+      { type: "link", content: "https://photos.app.goo.gl/jqnQ7FJwFa5auai86", label: "2024年12月10日 好可愛 發現尾巴怪怪的哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/rQ4uYzmqv6jt7egx7", label: "2024年12月10日 想養" },
+      { type: "link", content: "https://photos.app.goo.gl/HiUuPKCysJ4Yg6L26", label: "2024年12月10日 哈哈哈哈好" },
+      { type: "link", content: "https://photos.app.goo.gl/zzxGsCaqB9TDuNp76", label: "2024年12月10日 不行 要開始開車了 先從坦克車開始" },
+      { type: "link", content: "https://photos.app.goo.gl/faxobCpZjCntiT9W6", label: "2024年12月10日 這些都是疫苗副作用啦" },
+      { type: "link", content: "https://photos.app.goo.gl/bhssbCTKfrngS3AS9", label: "2020年12月10日 三總員餐的鮪魚帕尼尼真是世界第一好吃 屌打外面早午餐的帕尼尼 是早起上班厭世的解藥 真的是太厲害XDDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/vCwNqNFjSqX6f1hv9", label: "2017年12月10日 Call me later again 101是我的電塔 收聽來自銀河的聲音" }
+    ],
     "11": [],
     "12": [
       { type: "link", content: "https://photos.app.goo.gl/uUbWoPhBr3eYCsN39", label: "2016年12月12日 \
