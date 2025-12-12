@@ -3694,6 +3694,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/9u5rq1fCXULvoBFT6", label: "2017年12月9日 相機什麼的還是收防潮箱吧" }
     ],
     "10": [
+      { type: "link", content: "https://photos.app.goo.gl/VrrdbpQcjZcb6EjJ9", label: "2025年12月10日 這樣塔拉會變更強嗎" },
       { type: "link", content: "https://photos.app.goo.gl/wUHDb8pTSraDuWE1A", label: "2025年12月10日 好看 感覺就是一拳超人跟悟空打架 快到看不見的連續相撞" },
       { type: "link", content: "https://photos.app.goo.gl/qzNSyVpxjBiD5fKS8", label: "2025年12月10日 我有看到 他真的600天每天往前一點點 棉被都這麼努力撐住了 我們也要努力" },
       { type: "link", content: "https://photos.app.goo.gl/v3687UuF1RcsMBxG8", label: "2025年12月10日 好好看" },
@@ -3718,8 +3719,37 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/bhssbCTKfrngS3AS9", label: "2020年12月10日 三總員餐的鮪魚帕尼尼真是世界第一好吃 屌打外面早午餐的帕尼尼 是早起上班厭世的解藥 真的是太厲害XDDDD" },
       { type: "link", content: "https://photos.app.goo.gl/vCwNqNFjSqX6f1hv9", label: "2017年12月10日 Call me later again 101是我的電塔 收聽來自銀河的聲音" }
     ],
-    "11": [],
+    "11": [
+      { type: "link", content: "https://photos.app.goo.gl/uSCxoZrfZCsxFKpa6", label: "2025年12月11日 真的齁 但醫院給的假超少 以後再想想辦法" },
+      { type: "link", content: "https://photos.app.goo.gl/qsvLqj96ntmDvrAg9", label: "2025年12月11日 怎麼那麼聰明可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/onLhF2keorRn9txV9", label: "2025年12月11日 我怎麼沒吃到干貝 有吃到啦" },
+      { type: "link", content: "https://photos.app.goo.gl/8djeHERtDydowbmo9", label: "2025年12月11日 今天真ㄉ是好累好累 回家補充熱量" },
+      { type: "link", content: "https://photos.app.goo.gl/cwxdc5KicrPGvo7v6", label: "2025年12月11日 Ok 我來安排" },
+      { type: "link", content: "https://photos.app.goo.gl/21agE8yBL7j9c2n76", label: "2025年12月11日 二刷起來" },
+      { type: "link", content: "https://photos.app.goo.gl/6kUpPQLtSLunYEM1A", label: "2024年12月11日 好啊" },
+      { type: "link", content: "https://photos.app.goo.gl/UzX364GtwMTfmxs58", label: "2024年12月11日 可愛小手連擊" },
+      { type: "link", content: "https://photos.app.goo.gl/hwJdBXHu5MkxesaG8", label: "2024年12月11日 對欸" },
+      { type: "link", content: "https://photos.app.goo.gl/gunrVc7a9ooJxat69", label: "2023年12月11日 Happy Birthday" },
+      { type: "link", content: "https://photos.app.goo.gl/aJMLoJzxxbvcBoad9", label: "2023年12月11日 如果CV綸跟CV昕同時都上 我就請客 代表我可以輕鬆了 不然撐不住" }
+    ],
     "12": [
+      { type: "link", content: "https://photos.app.goo.gl/UfrQpF8mxRRjdJVd8", label: "2025年12月12日 所以我以前才說有些中國人可以直接消失沒關係" },
+      { type: "link", content: "https://photos.app.goo.gl/QpYEJNHC7LJ7CAWJ6", label: "2025年12月12日 敦聘貴屬吳展旭醫師為本會「看見腫瘤護理之美」攝影比賽評審 敬請惠允" },
+      { type: "link", content: "https://photos.app.goo.gl/GRBEpXvc8eQAwNeL6", label: "2025年12月12日 不行了 真的太好笑了" },
+      { type: "link", content: "https://photos.app.goo.gl/N74EYX97b1S5Jc1v9", label: "2024年12月12日 小腦大面積出血的話根本沒辦法做心導管吧 做了就算要放支架也不能放 因為抗凝血跟抗血小板不能使用" },
+      { type: "link", content: "https://photos.app.goo.gl/kFtD73MAUTRmvmoc8", label: "2024年12月12日 台灣職籃蠻可悲的 幸好從來不看 這種沒良心的經營方式應該抵制" },
+      { type: "link", content: "https://photos.app.goo.gl/XrB8GwntufgZ4oaXA", label: "2024年12月12日 路過 這真的超推" },
+      { type: "link", content: "https://photos.app.goo.gl/sYuGRdmZneFap7Sv9", label: "2024年12月12日 可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/vXV5ZhzTEBoM6Qqh7", label: "2023年12月12日 我還是很喜歡拍婚攝 雖然修圖眼睛好累 但有別於醫院工作需面對無盡的痛苦跟陰暗 至少婚攝記錄的是歡樂跟幸福 工作都是一樣辛苦的 但能選擇自己喜歡的工作類型 遠比被迫接受不喜歡工作環境更有價值" },
+      { type: "link", content: "https://photos.app.goo.gl/x6tLBighig2XoXwJ8", label: "2023年12月12日 感謝紀錄工作身影 學長拍周邊小品類型也太強了吧 食物那些" },
+      { type: "link", content: "https://photos.app.goo.gl/LDuxXfM5FQw4PrQEA", label: "2022年12月12日 分享一下優秀同學 最近好忙 上班值班輪迴以外 被各種逼迫報告 還有回覆投稿苛刻問題 之後會再努力經營分享 不是放棄粉專" },
+      { type: "link", content: "https://photos.app.goo.gl/biVZtgbdepBAupxs6", label: "2022年12月12日 沒再客氣的 直接嚕過去" },
+      { type: "link", content: "https://photos.app.goo.gl/qedG2WrC5bGk3BF98", label: "2021年12月12日 每個週末必須的加班補病歷" },
+      { type: "link", content: "https://photos.app.goo.gl/P8qh3sBVp1sx8ijg8", label: "2020年12月12日 10月感染科就是遇到這種case 很典型 本身有糖尿病 不規則就醫但是用自以為的飲食節制來調整 結果有一餐沒一餐 HHS送來醫院 開始補足營養跟正常進食 馬上Refeeding Syndrome" },
+      { type: "link", content: "https://photos.app.goo.gl/o6KkkoQKmTjHu5gc9", label: "2020年12月12日 喝咖啡好不好 用最嚴謹的醫學實證 是很好的 尤其過濾過的咖啡更好 沒有照片可以分享 但醫學的有趣知識可以分享" },
+      { type: "link", content: "https://photos.app.goo.gl/vfUK8E9mWCkA4zGX9", label: "2019年12月12日 \
+        多數的先生都在做自己喜歡的工作嗎 多數的男人明明也是捏著懶趴 頂著痛苦的經濟壓力 活在犧牲健康 看不到小孩老婆跟生活品質的陰影下痛苦的工作不是嗎 \
+        電影傳達的理念或許很好 但別忘了實際上被遺忘不只是女人的心酸 男人也是一樣 真正應該檢討的 是這個社會病態的框架 經濟的壓力與傳統的觀念 不分男女都是受害者" },
       { type: "link", content: "https://photos.app.goo.gl/uUbWoPhBr3eYCsN39", label: "2016年12月12日 \
         就當這個月是重新開始 以前總覺得多做多吃虧 總是抱怨為何生活沒極限的慘 總是有藉口原諒自己有著僥倖心態 \
         奇怪的是我痲痹了 其實把醫院的事情care好並不難 甘願一點 認命一些 為時不晚 要積極正向 加油 四草大橋" }
