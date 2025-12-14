@@ -3754,8 +3754,51 @@ const records = {
         就當這個月是重新開始 以前總覺得多做多吃虧 總是抱怨為何生活沒極限的慘 總是有藉口原諒自己有著僥倖心態 \
         奇怪的是我痲痹了 其實把醫院的事情care好並不難 甘願一點 認命一些 為時不晚 要積極正向 加油 四草大橋" }
     ],
-    "13": [],
-    "14": [],
+    "13": [
+      { type: "link", content: "https://photos.app.goo.gl/Zox9snPN4nZUs4x27", label: "2025年12月13日 該不會全部花蓮的牛肉麵都吃過一輪吧 好猛" },
+      { type: "link", content: "https://photos.app.goo.gl/bgUjFuVARmi3kjmc9", label: "2025年12月13日 我的攝影作品 IG搜尋omg_taiwan" },
+      { type: "link", content: "https://photos.app.goo.gl/yrerMt8vqDqxy5YT9", label: "2024年12月13日 真可愛 他吃這個好搭喔哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/xPYNRemparDPCeMG9", label: "2023年12月13日 要被聖強盯上了 學長抱歉 我會修改並注意" },
+      { type: "link", content: "https://photos.app.goo.gl/8J8C2XHwNAt2HQxz8", label: "2019年12月13日 軍費生最該跳" },
+      { type: "link", content: "https://photos.app.goo.gl/38eUbFH3fGjJkLv57", label: "2017年12月13日 咳咳咳咳咳咳咳咳咳咳咳" }
+    ],
+    "14": [
+      { type: "link", content: "https://photos.app.goo.gl/pZN7QNUdckj93mf48", label: "2025年12月14日 要吃嗎 我來定" },
+      { type: "link", content: "https://photos.app.goo.gl/AZuZ3ChX9yrzHxUU8", label: "2025年12月14日 可是我們家外面有蟑螂蚊子壁虎QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/owVUTYTtjJD9CFcw6", label: "2025年12月14日 我也想練健身" },
+      { type: "link", content: "https://photos.app.goo.gl/4izZZPrqAQYWypfZA", label: "2025年12月14日 最後忘記帶健保卡真的不行了 太好笑哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/a8tE67dCdMiAmiHp7", label: "2024年12月14日 怎麼那麼霸道哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/uk4NgREHVseqcw527", label: "2024年12月14日 該買了" },
+      { type: "link", content: "https://photos.app.goo.gl/r6aXVvxFZfpEnATZ9", label: "2024年12月14日 醫學系可以打上永恆太鬼了吧 第一次看到" },
+      { type: "link", content: "https://photos.app.goo.gl/MpxFbsGAUpbJv3zH6", label: "2024年12月14日 鼎學是因為同為PT才追蹤的嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/mZVW19Vf3hrD7NW6A", label: "2024年12月14日 對啊" },
+      { type: "link", content: "https://photos.app.goo.gl/DUzfqXEynQscNfeW7", label: "2024年12月14日 怎麼那麼漂亮" },
+      { type: "link", content: "https://photos.app.goo.gl/pFcUZt9em6TumH8C6", label: "2024年12月14日 應該可以下雪了吧 太冷了不然這裡滿好拍 包含附近的道路" },
+      { type: "link", content: "https://photos.app.goo.gl/NgaB9nfxdeTgjer26", label: "2021年12月14日 幾乎全新無畫記 約面交以台北台中為主 寄送則是7-11交貨便 需付運費60元" },
+      { type: "link", content: "https://photos.app.goo.gl/c91XdRWSc98pSTn37", label: "2021年12月14日 請問圖中勁戰是什麼顏色 請以主觀回答 結果答案是咖啡色 赤褐色 我輸一杯奶茶了 但赤+褐不就是紫色嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/PgEbptuihmMqQaZq7", label: "2021年12月14日 太扯了吧有夠水" },
+      { type: "link", content: "https://photos.app.goo.gl/fQuhgs7KBbTiQzRS7", label: "2021年12月14日 跟鬼一樣欸 好想拍" },
+      { type: "link", content: "https://photos.app.goo.gl/gfbL6PqJWSst22M58", label: "2018年12月14日 完全不懂丁那麼想當市長幹嘛 又不是真的想替人民服務 聳肩" },
+      { type: "link", content: "https://photos.app.goo.gl/CiMNg1Y2D3bzKV4F9", label: "2018年12月14日 我喜歡出海那種無拘無束的感覺" },
+      { type: "link", content: "https://photos.app.goo.gl/ejkMsqsqBEA1zGJz6", label: "2018年12月14日 大海也有很多角落值得探索耶 緊來" },
+      { type: "link", content: "https://photos.app.goo.gl/LMyU1kiY5YUJpgsQ9", label: "2018年12月14日 說來慚愧 New Post都是三年前修的照片了 櫛次鱗比的大樓裝著每日忙碌的人們 日子悄悄的過去 時間流動意外的快了起來 一年又準備過了" },
+      { type: "link", content: "https://photos.app.goo.gl/tbJmFpzGzeijYRKB9", label: "2018年12月14日 喝水中" },
+      { type: "link", content: "https://photos.app.goo.gl/Rp4fYyqDbSbf5HvT6", label: "2018年12月14日 開了快11天船 連陸上上的盤子都特別好吃" },
+      { type: "link", content: "https://photos.app.goo.gl/3QDJ9yt1z4E6wnf96", label: "2017年12月14日 不會 很高興認識你們哈哈哈哈哈 哈哈 我還是要檢討 下次要準備重點整理給你們帶回去 也要增加相機操作的內容 謝謝你們成為我第一組客人 以後就是朋友 一起享受攝影吧!" },
+      { type: "link", content: "https://photos.app.goo.gl/WeDQxLXF3F18p1cU6", label: "2017年12月14日 \
+        內微黑特 沒錯就是你想的那樣想看歡迎 不刪文 攝影家教第一堂開工大成功 謝謝你們大老遠來上課 \
+        收費部分 我敢保證價格跟內容 絕對是高cp值 畢竟賺錢只是目的的一半 另一半是為了交朋友 但我不會免費教學 這些技術經驗還有自己研發的修圖應用 都是我花數千小時的結晶 \
+        再說 我跟朋友請益也是得花錢請客 從來沒有東西是平白無故得到的 我從不當白臉 話說某同學7pupu呢呵呵 雖然我早就封鎖他看不到 \
+        為他發文真浪費時間 不過相信有善良大大會截圖給他看 所以只發這一次 也順便給底下留言的看 發文者您就繼續黑 ,您只會欺騙跟抱怨 有時間不如多讀書 \
+        不要學校被當到留級還不能考醫師執照 很丟人現眼捏 難道要我說大一時期您觸法被中隊長查封電腦 差點退除學籍嗎 \
+        但您記性不好應該早忘了 勸您自愛 面對現實 而我繼續往上爬繼續努力 人的程度高下立判 頂多同情您的無知^^ \
+        另外請不要當面說有攝影方面跟我請益 底下留言看不起我專業的話(?) 也許是我誤會了 畢竟在別人嘴砲文在底下留言好像很爽 \
+        但如果您的朋友是會發這種秀下限文章的人 您出現在底下留言不覺得丟臉嗎? 看看他在迪卡怎麼黑醫研營就知道水準在哪 \
+        我誰也不欠誰也不怕 尊重是相互的 你敬我三分我敬你十分 今後我會繼續做好攝影副業 也會要求自己保持最高品質 若想學攝影歡迎來找我囉 保準滿載而歸 94說你" },
+      { type: "link", content: "https://photos.app.goo.gl/vtU6rJqfgozMvYnm6", label: "2017年12月14日 昨天2000上到今晚2000的班 還感冒 下班再接家教課 終於下課囉 洗洗睡到這禮拜六都要上班 期待這禮拜日的家教課程 保證讓各位收穫滿滿" },
+      { type: "link", content: "https://photos.app.goo.gl/JVe8XssUK3N5ntmg7", label: "2017年12月14日 第一堂家教開課爹斯!" },
+      { type: "link", content: "https://photos.app.goo.gl/WyrN77J8D2DDS8sv7", label: "2017年12月14日 台北難得大燒 衝一發上班== 唉人生ㄚ 還被路過的麻醉科主任說好有情調" }
+    ],
     "15": [],
     "16": [],
     "17": [],
