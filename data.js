@@ -3759,6 +3759,9 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/bgUjFuVARmi3kjmc9", label: "2025年12月13日 我的攝影作品 IG搜尋omg_taiwan" },
       { type: "link", content: "https://photos.app.goo.gl/yrerMt8vqDqxy5YT9", label: "2024年12月13日 真可愛 他吃這個好搭喔哈哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/xPYNRemparDPCeMG9", label: "2023年12月13日 要被聖強盯上了 學長抱歉 我會修改並注意" },
+      { type: "link", content: "https://photos.app.goo.gl/V9fJ71vchyqt9vMG8", label: "2020年12月13日 半夜還可以喝到泰式奶茶" },
+      { type: "link", content: "https://photos.app.goo.gl/jKMq6gaqN4A6wSbc7", label: "2020年12月13日 內外科值班住院醫生爆肝的深夜" },
+      { type: "link", content: "https://photos.app.goo.gl/1E9RPG9otUJnCiDJ9", label: "2020年12月13日 也只有少數醫院如三總 半夜不鎖床 絕對不讓病人受委屈在急診過夜 一定能即時入住病房 讚" },
       { type: "link", content: "https://photos.app.goo.gl/8J8C2XHwNAt2HQxz8", label: "2019年12月13日 軍費生最該跳" },
       { type: "link", content: "https://photos.app.goo.gl/38eUbFH3fGjJkLv57", label: "2017年12月13日 咳咳咳咳咳咳咳咳咳咳咳" }
     ],
@@ -3799,7 +3802,44 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/JVe8XssUK3N5ntmg7", label: "2017年12月14日 第一堂家教開課爹斯!" },
       { type: "link", content: "https://photos.app.goo.gl/WyrN77J8D2DDS8sv7", label: "2017年12月14日 台北難得大燒 衝一發上班== 唉人生ㄚ 還被路過的麻醉科主任說好有情調" }
     ],
-    "15": [],
+    "15": [
+      { type: "link", content: "https://photos.app.goo.gl/eekW3T9xU4D1JSt67", label: "2025年12月15日 為什麼保衛國家犧牲自由的軍人要被你操啊 發文素質跟邏輯有夠低下 跟對岸某些小粉紅差沒多少 戰爭打來了誰要保衛你這東西嘻嘻" },
+      { type: "link", content: "https://photos.app.goo.gl/qHQbDgj4wXB6Degc9", label: "2025年12月15日 真的是很好的出路 年輕只有一次 不要把時間都賠在醫院而是有更多時間做自己喜歡的事情會更好 CV真的太辛苦了" },
+      { type: "link", content: "https://photos.app.goo.gl/NrEhK6GYTabffy548", label: "2025年12月15日 \
+        說實在的如果我有心想準備考試 老師認真的教而且有料 跟一樣的優秀老師 我絕對超有精神超專心 因為高效率吸收才是最節省時間 \
+        需要黃色笑話來提神 不只代表老師沒料沒法引起有心的學生 更代表只能喚醒那些沒心的學生 而那些學生根本準備也是浪費時間去陪考而已 \
+        然後講個黃色笑話3-5分鐘 優秀的學生不如直接趴在桌上睡一下 起來還更有精神zzzz 聽那種笑話根本浪費時間" },
+      { type: "link", content: "https://photos.app.goo.gl/xgKQ19vCfar5bzWC8", label: "2025年12月15日 他這個slow motion蠻穩的 我以前也有練 很久沒跳" },
+      { type: "link", content: "https://photos.app.goo.gl/anHdqoAyq4Y6KVsj9", label: "2025年12月15日 哇靠好可怕的車禍 看得我眼淚都從嘴角流下來了" },
+      { type: "link", content: "https://photos.app.goo.gl/c4iR7yucRfyTkyoN8", label: "2025年12月15日 好猛 這台機器很嗆喔XD" },
+      { type: "link", content: "https://photos.app.goo.gl/AogBaKH99tnf9p2JA", label: "2025年12月15日 我餓了" },
+      { type: "link", content: "https://photos.app.goo.gl/ctJmEmcPeTS3WGk58", label: "2025年12月15日 好" },
+      { type: "link", content: "https://photos.app.goo.gl/xTdpVP1CbTVxHgE3A", label: "2025年12月15日 好 來定" },
+      { type: "link", content: "https://photos.app.goo.gl/G96U7J1eXZHhga4c7", label: "2024年12月15日 八角瞭望臺 由上往下看 由下往上看 都是旋轉組成的地方" },
+      { type: "link", content: "https://photos.app.goo.gl/JHhUUtNLDfMpKR9dA", label: "2024年12月15日 羨慕 工程師工作高薪又可以幽默 還能放一下午的假 醫師工作高壓薪水低 不能開玩笑還沒年假放zz" },
+      { type: "link", content: "https://photos.app.goo.gl/pedDVtFcM5NUs2gq7", label: "2024年12月15日 \
+        這次路過頭城 覺得這家大腸麵線不妨可以嘗試 停車方便 可以逛老街 也很好吃 \
+        頭城 轉角大腸麵線 位於頭城老街旁不起眼的路邊 但非常好吃的大腸麵線 \
+        我個人超愛油條或皮蛋口味 油條超脆 皮蛋也很入味 另外也有綜合口味的 包含油條 皮蛋 赤肉跟大腸四種混合的 \
+        如果當一餐可以點大份 吃個味道的小份就夠了 車子也可以停老街附近 非常方便" },
+      { type: "link", content: "https://photos.app.goo.gl/gBzs1vv22NBJQxvB7", label: "2024年12月15日 哪會 我會做全部事情" },
+      { type: "link", content: "https://photos.app.goo.gl/vdrL8Au8Yaq5DN54A", label: "2024年12月15日 太噁 沒辦法" },
+      { type: "link", content: "https://photos.app.goo.gl/uAvWXj8n7VhjMdUg7", label: "2024年12月15日 還可以體驗到立體視線的交流" },
+      { type: "link", content: "https://photos.app.goo.gl/RzEKX8hs4dhjgxrM9", label: "2024年12月15日 傲嬌貓貓" },
+      { type: "link", content: "https://photos.app.goo.gl/oLDG4b6DzdHiJ5sw8", label: "2024年12月15日 冒煙的石頭溫泉渡假旅館 頭城老街" },
+      { type: "link", content: "https://photos.app.goo.gl/g2nfSxhrtAR1KRr77", label: "2023年12月15日 捕獲忠孝復興的半截LV聖誕樹 半折直樹" },
+      { type: "link", content: "https://photos.app.goo.gl/rXt6J1FSWUDdVS437", label: "2023年12月15日 來台北超過十年但真的很少去餐酒館" },
+      { type: "link", content: "https://photos.app.goo.gl/nAfbCF1tiGSQ5hj2A", label: "2023年12月15日 跟我有沒有在旁邊有啥關係 是本來就不能玩吧" },
+      { type: "link", content: "https://photos.app.goo.gl/2uQZNJPhG7oarKTL9", label: "2023年12月15日 ANOTHER ROUND醉好 子曰 朝聞道夕死可矣 早上知道你家的道路 晚上你就可以死了" },
+      { type: "link", content: "https://photos.app.goo.gl/bEdnULHFovFHd4XS6", label: "2023年12月15日 整晚只喝一杯SHOT 網路說三口啤酒就會酒駕 想說一杯SHOT完全無感 應該可以騎車回去" },
+      { type: "link", content: "https://photos.app.goo.gl/gnq95uhD2Ga9HK8XA", label: "2023年12月15日 還是乖乖坐捷運回去吧" },
+      { type: "link", content: "https://photos.app.goo.gl/xQtpFjkkepRYshm47", label: "2022年12月15日 感謝細心整理 我覺得重點只有一個 就是ETF裡面單股的納入或賣出 並不會跟單股股價有關 別以為某股被ETF納入就會大漲 股市無法預測 只有認真賺錢 認真選好公司 才是長久投資" },
+      { type: "link", content: "https://photos.app.goo.gl/2Daa2nqF2Pv69Q3v6", label: "2020年12月15日 操 垃圾健保 虧待醫護人員 那些爛官 我就具名的說 你們去死一死吧 台灣這種用點值把醫師薪水打折的混蛋官員 都是伐害台灣醫療的罪人" },
+      { type: "link", content: "https://photos.app.goo.gl/CRdy8Qz6ALyDzo1v5", label: "2017年12月15日 Ig大神的照片都是直幅 看來要改變拍攝方式惹" },
+      { type: "link", content: "https://photos.app.goo.gl/Jw7C8e7AwEoNjPdx5", label: "2017年12月15日 攝影家教歡迎詢問 雖然累 但這就是價值" },
+      { type: "link", content: "https://photos.app.goo.gl/2FHeCbGj1hA636i29", label: "2017年12月15日 好消息 免費亮度蒙版luminsity mask軟體已有載點 未來我也能提供進階曝光處理的後製教學啦 會提供軟體載點 徵一位有興趣者 提供您蒙版載點試玩看看 但麻煩用限時幫我分享ig專頁 私我即可" },
+      { type: "link", content: "https://photos.app.goo.gl/iSAK8eGChMFxYdbo9", label: "2017年12月15日 謝謝各位踴躍私訊 原本打算給一個 現在破例多給好幾個 目前截止 希望各位好好研究 若想上PS後製班學習應用 還是歡迎唷" },
+    ],
     "16": [],
     "17": [],
     "18": [],
