@@ -256,8 +256,8 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/hJx49aH5QE983MnCA", label: "2017年4月16日 吹泡泡自拍" }
     ],
     "17": [
-      { type: "link", content: "https://photos.app.goo.gl/gbnhvhtg9vdduPoU6", label: "2017年4月14日 國防醫學院 醫學系 攝影街舞是我的生活 做人不要靠嘴 也不要用嘴巴認識人 做自己 活得開心 不斷求進步" },
-      { type: "link", content: "https://photos.app.goo.gl/1oBmNre3VExprDdd7", label: "2017年4月14日 愛玩就爛一輩子活該 當然不可接受" },
+      { type: "link", content: "https://photos.app.goo.gl/gbnhvhtg9vdduPoU6", label: "2017年4月17日 國防醫學院 醫學系 攝影街舞是我的生活 做人不要靠嘴 也不要用嘴巴認識人 做自己 活得開心 不斷求進步" },
+      { type: "link", content: "https://photos.app.goo.gl/1oBmNre3VExprDdd7", label: "2017年4月17日 愛玩就爛一輩子活該 當然不可接受" },
       { type: "link", content: "https://photos.app.goo.gl/piYWLwCRQufqTx3B8", label: "2016年4月17日 搭公車前往謝師宴" }
     ],
     "18": [],
@@ -3803,6 +3803,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/WyrN77J8D2DDS8sv7", label: "2017年12月14日 台北難得大燒 衝一發上班== 唉人生ㄚ 還被路過的麻醉科主任說好有情調" }
     ],
     "15": [
+      { type: "link", content: "https://photos.app.goo.gl/szyVYeF4kwJtXq5A9", label: "2025年12月15日 今天終於拿到全家商店的積木 沒想到居然要花超過半小時組裝 有點幸運當時訂了兩套" },
       { type: "link", content: "https://photos.app.goo.gl/eekW3T9xU4D1JSt67", label: "2025年12月15日 為什麼保衛國家犧牲自由的軍人要被你操啊 發文素質跟邏輯有夠低下 跟對岸某些小粉紅差沒多少 戰爭打來了誰要保衛你這東西嘻嘻" },
       { type: "link", content: "https://photos.app.goo.gl/qHQbDgj4wXB6Degc9", label: "2025年12月15日 真的是很好的出路 年輕只有一次 不要把時間都賠在醫院而是有更多時間做自己喜歡的事情會更好 CV真的太辛苦了" },
       { type: "link", content: "https://photos.app.goo.gl/NrEhK6GYTabffy548", label: "2025年12月15日 \
@@ -3838,11 +3839,101 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/CRdy8Qz6ALyDzo1v5", label: "2017年12月15日 Ig大神的照片都是直幅 看來要改變拍攝方式惹" },
       { type: "link", content: "https://photos.app.goo.gl/Jw7C8e7AwEoNjPdx5", label: "2017年12月15日 攝影家教歡迎詢問 雖然累 但這就是價值" },
       { type: "link", content: "https://photos.app.goo.gl/2FHeCbGj1hA636i29", label: "2017年12月15日 好消息 免費亮度蒙版luminsity mask軟體已有載點 未來我也能提供進階曝光處理的後製教學啦 會提供軟體載點 徵一位有興趣者 提供您蒙版載點試玩看看 但麻煩用限時幫我分享ig專頁 私我即可" },
-      { type: "link", content: "https://photos.app.goo.gl/iSAK8eGChMFxYdbo9", label: "2017年12月15日 謝謝各位踴躍私訊 原本打算給一個 現在破例多給好幾個 目前截止 希望各位好好研究 若想上PS後製班學習應用 還是歡迎唷" },
+      { type: "link", content: "https://photos.app.goo.gl/iSAK8eGChMFxYdbo9", label: "2017年12月15日 謝謝各位踴躍私訊 原本打算給一個 現在破例多給好幾個 目前截止 希望各位好好研究 若想上PS後製班學習應用 還是歡迎唷" }
     ],
-    "16": [],
-    "17": [],
-    "18": [],
+    "16": [
+      { type: "link", content: "https://photos.app.goo.gl/k3yR4HSgjf487du59", label: "2025年12月16日 身為一個比常人更需要無拘無束的人 想追求最自由的人生卻反而困在最不自由 約束最多的體制裡 這種痛苦跟掙扎 努力維持創作的動力 應該沒幾個人跟我一樣" },
+      { type: "link", content: "https://photos.app.goo.gl/F5aswnxDHfBKfQws8", label: "2025年12月16日 我想推薦本院好幾個技術高超又一直持續進修的心血管老師 但他們病人已經太多了不忍心再讓他們操勞QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/GDH5wphYQd24UKM49", label: "2025年12月16日 不是所有病人都值得有個好醫生 這就是健保最作賤醫護跟最偽善的想法 有些病人應該直接撤銷健保卡並且永不得再入院" },
+      { type: "link", content: "https://photos.app.goo.gl/cXa7juUoZL5WVcCd8", label: "2025年12月16日 超好吃 但太好吃吃太多沒辦法運動了QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/iszGPuSKM9TXVQUn6", label: "2025年12月16日 能 但只能拉一次" },
+      { type: "link", content: "https://photos.app.goo.gl/ivyDfJdXP7p4kajZ8", label: "2025年12月16日 爺爺心態年輕 身體也會跟著年輕" },
+      { type: "link", content: "https://photos.app.goo.gl/HjW4JtTKuUEpVKq19", label: "2025年12月16日 我猜玉米濃湯" },
+      { type: "link", content: "https://photos.app.goo.gl/uctL4Sr79bdVjfLf6", label: "2024年12月16日 94要買金控股 不用傷腦筋進進出出" },
+      { type: "link", content: "https://photos.app.goo.gl/M4yaUMjztZx4tjA87", label: "2024年12月16日 會買這些亂七八糟股票的人當然會遇到鬼故事 沒有天份的乖乖買大盤買到底就好 還不會傻到被詐騙" },
+      { type: "link", content: "https://photos.app.goo.gl/AjC8FXhWPq6mttxt8", label: "2024年12月16日 重點他是美國律師 不是在鬼島工作整天被壓榨 美國比較尊重個人生活跟休閒 這點台灣跟落後國家一樣 整個社會氛圍就是壓榨到大家都不健康 當然運動也就更難 除非犧牲休閒娛樂來運動" },
+      { type: "link", content: "https://photos.app.goo.gl/zCTjhq9CtPk8Xk867", label: "2024年12月16日 直接舉手答有XDDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/vRQuaJMPc5GcXZk39", label: "2024年12月16日 會買這些亂七八糟股票的人當然會遇到鬼故事 沒有天份的乖乖買大盤買到底就好 還不會傻到被詐騙" },
+      { type: "link", content: "https://photos.app.goo.gl/Zx6ET15efzHGCGrk9", label: "2024年12月16日 他想上微積分但需要同學的麵包先填飽肚子哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/yqrM7zhpbBtwwVyZ7", label: "2024年12月16日 超可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/7D6m5xhAQa7TB2vV8", label: "2023年12月16日 2023最傻眼的一件事 象鼻居然斷掉 我真的傻眼" },
+      { type: "link", content: "https://photos.app.goo.gl/WLkdvkmSehge7D538", label: "2023年12月16日 \
+        我不是一個對演唱會有興趣的人 但跟一起後 她總是讓我生活中添增豐富 林宥嘉這個名字在高中數學補習班聽過 補教名師傅壹吹嘘著他有位當歌手的學生 \
+        快20年過去了總算親眼看到他 我對於歌曲沒有很熟 但他說了一席話是今晚的最大收穫 當我們有A跟B兩個選項 選兩者對自己都沒差時該怎麼辦 那就選能對對方好的那個吧 \
+        踏入職場社會 常會碰到許多選擇 加上許多的困難跟辛苦常會覺得自己不被體制在乎 成為犧牲者 又何必為他人想 \
+        但宥嘉的這句話 反映著內心的善良 或許我都忘了路上默默被多少人幫助 適時的善意或許能成為他人路上的助力 \
+        最後表演的結束 他總是一一對夥伴介紹道謝 這就是他口中的溫柔吧 今晚內心波瀾最多的不是歌曲 而是他對於善及溫柔最高的高度" },
+      { type: "link", content: "https://photos.app.goo.gl/mQWxGD9CwSCGhkDV9", label: "2018年12月16日 出個海太晃手機被撞壞 換新之後 懇請之前有給我電話號碼的朋友 再私我一次你的電話 萬分感謝" },
+      { type: "link", content: "https://photos.app.goo.gl/dcGayanN9RWZVf458", label: "2018年12月16日 買兩個月左右的犀牛盾手機殼 有使用痕跡但無損壞 因換手機故出售 便宜賣 國醫校內面交限12/19禮拜三 中午後皆可" },
+      { type: "link", content: "https://photos.app.goo.gl/RYXKi5HwpMi9A8gSA", label: "2018年12月16日 因故換手機原號碼沒變 之前有給我號碼的朋友 麻煩再私訊給我一次 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/fugqYughQ4vwX9EX6", label: "2018年12月16日 本日歲末年終感謝女友一家人 怒請客一發 開心" },
+      { type: "link", content: "https://photos.app.goo.gl/xSkKKq7JvwfjJVtL8", label: "2018年12月16日 喔喔喔太久沒拍照了手控制不住" },
+      { type: "link", content: "https://photos.app.goo.gl/XR6YYCrQpes5VXQL8", label: "2017年12月16日 這個g saline要寫進pt list嘛" },
+      { type: "link", content: "https://photos.app.goo.gl/Vn8DZJoe1H94UfCc8", label: "2017年12月16日 乾查誰洩漏機密" },
+      { type: "link", content: "https://photos.app.goo.gl/HSdeJaPeW5b4AKPb7", label: "2017年12月16日 好 其實我沒有怎樣XD 只是問好玩的X 我不會care你們怎麼講啦畢竟我做事我自己也很清楚XD" },
+      { type: "link", content: "https://photos.app.goo.gl/c1MX1nMsYi7WZRbP7", label: "2017年12月16日 不是 我以為他先收CRS 然後開刀 開完轉進GICU 我的錯 我今天一定會打好病歷 不會亂打 每天=.=" },
+      { type: "link", content: "https://photos.app.goo.gl/NPpTThC2sJA7kGBR9", label: "2017年12月16日 可是他昨天下刀沒有什麼特別的complain@@" },
+      { type: "link", content: "https://photos.app.goo.gl/3MW4NfpwSYCFnoiF9", label: "2017年12月16日 對不起我不會再打混 不好意思還讓你們花時間跟我講這個 我會自己負責做好事情" },
+      { type: "link", content: "https://photos.app.goo.gl/N3VooBntLcUV6NpH6", label: "2017年12月16日 到了大學接觸攝影 我才知道 挖掘世界是我這輩子最想完成的夢想 沒有其他的了 挖掘世界才是我這輩子唯一的夢想 沒有其他的了 我不想被束縛" },
+      { type: "link", content: "https://photos.app.goo.gl/saNWT5HLKntLthdt9", label: "2017年12月16日 This is me 參加後製教學班揭秘 誰說一定要玩三陵鏡 不過是套路 修風景照學問難多了 New Pic Please check it" },
+      { type: "link", content: "https://photos.app.goo.gl/EH1negCAP5fMbCGa9", label: "2017年12月16日 Where I took this pic?" }
+    ],
+    "17": [
+      { type: "link", content: "https://photos.app.goo.gl/a6CXVAoUnrrpmAib9", label: "2025年12月17日 有訓練到咀嚼肌" },
+      { type: "link", content: "https://photos.app.goo.gl/rg3AWTs4qijU5zZu9", label: "2025年12月17日 來看貓貓型掃地機器人" },
+      { type: "link", content: "https://photos.app.goo.gl/2o2b6ciYQBVBytb58", label: "2025年12月17日 幸好我不會這樣" },
+      { type: "link", content: "https://photos.app.goo.gl/9Zq565f6Y1EiLZuH8", label: "2025年12月17日 放心這個我會做 熬過現在這種地獄壓力模式就有時間跟精神了" },
+      { type: "link", content: "https://photos.app.goo.gl/esonUZVyA5B1T8wN8", label: "2025年12月17日 怎麼那麼白" },
+      { type: "link", content: "https://photos.app.goo.gl/UgkZfQX1B4qiAGaLA", label: "2025年12月17日 你的main角重製" },
+      { type: "link", content: "https://photos.app.goo.gl/PagEKJj7SudbZT3f7", label: "2024年12月17日 這種不用跟他廢話== 這種螢幕後面都是可悲噁男 你跟他有回應就相當於讓他爽到 以後不要這樣回覆 直接封鎖就好" },
+      { type: "link", content: "https://photos.app.goo.gl/pTjEVzt9GJ2Xvbjb6", label: "2024年12月17日 超可愛小猴" },
+      { type: "link", content: "https://photos.app.goo.gl/8rVJDn6hXpC4cLFL7", label: "2024年12月17日 好啊 希望我有更多假 假太少QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/hjeszKG6rT9pYfjC7", label: "2024年12月17日 這個一定是gay 而且家裡冷氣好到不行不用修==" },
+      { type: "link", content: "https://photos.app.goo.gl/sJfD48S5wmQzK9Dp7", label: "2024年12月17日 他想若無其事的偷喝哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/vhgPpnMRZ36h8Dhv6", label: "2024年12月17日 \
+        八角瞭望台 走進八角瞭望台 從建築物的縫隙間 仍可感受到海風的強勁 比起深山 我似乎更喜歡靠海的地方 \
+        夏天時 乾淨無人的海灘與椰子樹能夠完全忘記煩惱 冬天時 聽著洶湧的浪濤聲 能夠靜下心沈思及冥想 這裡整修了很久 終於等到了開放" },
+      { type: "link", content: "https://photos.app.goo.gl/u5KvUUoekpxv77Pq9", label: "2024年12月17日 超可愛 我看了三次哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/xQKRvzUXU9CbDF6g7", label: "2022年12月17日 \
+        台北松山 韓江烤肉 走進市區裡老舊公寓的電梯 三樓映入眼簾的韓江烤肉彷彿一瞬間來到了韓國 非常道地 \
+        這是我目前認為CP第一名的韓國烤肉 每人450元不需服務費 各種小菜跟牛豬雞羊肉夾到爽 重點是補肉速度很快 超適合大胃王來吃 \
+        喜歡韓式烤肉的朋友真的很推薦冬天來吃一頓 我原本要給滿分三顆星 不過吃很多盤之後肉類的醬油調味就有點膩了 算是唯一的美中不足 不過無傷大雅 推薦" },
+      { type: "link", content: "https://photos.app.goo.gl/v58Y3oGf578RTBSp9", label: "2022年12月17日 第一看到手機螢火蟲海" },
+      { type: "link", content: "https://photos.app.goo.gl/c86KVRPssnZrNMi16", label: "2019年12月17日 好可怕的技術 未來的未來 癌症能否不再是絕症 但讓人類超越自然對地球真的好嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/Aybshcw2TJ2FZdsm9", label: "2018年12月17日 唉這個工作環境 算了 撐著加油" },
+      { type: "link", content: "https://photos.app.goo.gl/7a6Q8QQEY57X3zZF9", label: "2017年12月17日 好啦 想學PS後製可以找我啦 追蹤參考作品" }
+    ],
+    "18": [
+      { type: "link", content: "https://photos.app.goo.gl/FSpEufG31L826Tg57", label: "2025年12月18日 真的 看就知道根本不是貪污 還亂起訴 現在可好了 事實證明沒貪污 但亂七八糟的檢方抱對大腿 當到法務部長囉嘻嘻嘻" },
+      { type: "link", content: "https://photos.app.goo.gl/RHvonPMHwSEmE92z9", label: "2025年12月18日 會買這本書的人大概這輩子也會容易被詐騙 早點被消滅早點好" },
+      { type: "link", content: "https://photos.app.goo.gl/zqGEb41prLwUfwLq6", label: "2025年12月18日 沒有腦袋的病患 少一個是一個" },
+      { type: "link", content: "https://photos.app.goo.gl/TTSASn6EX4xh1yEQ9", label: "2025年12月18日 這我會啊 但實際上拍起來很累 要趕景點 要看天氣 要補失敗的畫面 就沒辦法好好吃東西跟耍廢" },
+      { type: "link", content: "https://photos.app.goo.gl/Qd4swbypC45zgLfu6", label: "2025年12月18日 人生不公平啊 有些人髮型就比較好看" },
+      { type: "link", content: "https://photos.app.goo.gl/HMoakKVzRuyWce3G9", label: "2025年12月18日 好難 我都不會" },
+      { type: "link", content: "https://photos.app.goo.gl/R37g3eyuhGCckRBT8", label: "2025年12月18日 超可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/hVe4BSioQsmzd5US7", label: "2025年12月18日 他超棒" },
+      { type: "link", content: "https://photos.app.goo.gl/T9RHkUJMgcDRFihK8", label: "2024年12月18日 我也是狠人" },
+      { type: "link", content: "https://photos.app.goo.gl/ZzHUQjPtHvoYt8MS6", label: "2024年12月18日 我到了" },
+      { type: "link", content: "https://photos.app.goo.gl/ER6niRGStdaN68256", label: "2024年12月18日 但阿嬤的孫子會少100元零用錢" },
+      { type: "link", content: "https://photos.app.goo.gl/hPouMWugF14khBdt7", label: "2024年12月18日 我給你前boo" },
+      { type: "link", content: "https://photos.app.goo.gl/TLCwNXSnXwgpiXPz5", label: "2023年12月18日 每一次的旅行都令人懷念 真希望一年出國十次" },
+      { type: "link", content: "https://photos.app.goo.gl/kV3yBpeDckovgsFk6", label: "2023年12月18日 會參加把象鼻岩黏回去" },
+      { type: "link", content: "https://photos.app.goo.gl/rrjdGgtCznoWMLbx5", label: "2023年12月18日 為什麼同樣的東西 蝦皮一整組可以這麼便宜啊 左邊後來從蝦皮買整組六隻 加運費才550元 寄來跟右邊比較後 應該是正版無誤 右邊在忠泰買 一個小愛就要370元" },
+      { type: "link", content: "https://photos.app.goo.gl/Q47YW84sEfXQ1EVt9", label: "2023年12月18日 終於重現春日部幼稚園的熱鬧XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/FVowKZDMF1z4kzWG7", label: "2023年12月18日 \
+        台北會客室 新大阪 一間由裡到外 從裝潢飾品到符合大阪口味的料理 無一不讓我們彷彿出國 \
+        我們點了關東煮 蛤蜊烏龍麵 炸雞 章魚丸子跟薄片和牛 以及一杯熱帶調酒 蛤蜊烏龍麵跟薄片和牛是最愛 紮實的用料跟道地的口感太加分 \
+        兩個人消費約1500 不算便宜但值得 不論聚餐 約會或單人 有吧台 都適合 非常推薦唷" },
+      { type: "link", content: "https://photos.app.goo.gl/nQiaMcN4dCu9vtCBA", label: "2022年12月18日 五跟六都全天值班 週六唯一的小確幸 不過最爽的是在小巨蛋旁邊居然找到路邊停車位 這在台北假日晚餐時間根本百年一遇XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/B8Hd77zE5m96ren67", label: "2021年12月18日 現實社會就是 明明是惡人 卻能被包裝的很漂亮 還一堆擁護者 最後還能得到原諒 明明是善人 努力工作跟付出 即使因為助人而損失也不吭聲 卻被媒體帶風向成惡人" },
+      { type: "link", content: "https://photos.app.goo.gl/iLuoTLboSf2a4FRt8", label: "2018年12月18日 熟悉的路口 真的要無時無刻注意安全 以後要小心TT 還好我都開軍艦 嗚嗚" },
+      { type: "link", content: "https://photos.app.goo.gl/ArR4BbVpSzP41VTx5", label: "2018年12月18日 \
+        上船快滿四個月了 才知道在醫院值班是多美好 才了解在工作找到意義多重要 所以也常在想 醫科七年蹉跎了很多歲月 \
+        沒有好好讀書沒有好好學習 總是輸同學很多 現在慢慢起步也許還來得及 利用這兩年補足過去應該培養的知識 好銜接未來回醫院工作" },
+      { type: "link", content: "https://photos.app.goo.gl/4j7jdVKnZQsHGsgSA", label: "2018年12月18日 是我搓圓了日子 下鍋 水滾 然後有湯圓吃了" },
+      { type: "link", content: "https://photos.app.goo.gl/vBpHPhHcaU6fHoR86", label: "2017年12月18日 謝謝更正 status post是甚麼意思 是接下來的處置嗎 我已經誤會很久了" },
+      { type: "link", content: "https://photos.app.goo.gl/xhLeZi9AGGTkHiga9", label: "2017年12月18日 hustag超過30個以上 一般我會tag60個 會被shawdow ban 請問有人知道這怎麼回事嗎 被ban是別人會看不到我照片嗎 每次tag60個都會被ban嗎 求大神解答 感恩" }
+    ],
     "19": [],
     "20": [],
     "21": [],
