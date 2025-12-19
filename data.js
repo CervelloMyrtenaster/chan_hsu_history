@@ -3903,7 +3903,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/Aybshcw2TJ2FZdsm9", label: "2018年12月17日 唉這個工作環境 算了 撐著加油" },
       { type: "link", content: "https://photos.app.goo.gl/7a6Q8QQEY57X3zZF9", label: "2017年12月17日 好啦 想學PS後製可以找我啦 追蹤參考作品" }
     ],
-    "18": [
+    "18": [      
       { type: "link", content: "https://photos.app.goo.gl/FSpEufG31L826Tg57", label: "2025年12月18日 真的 看就知道根本不是貪污 還亂起訴 現在可好了 事實證明沒貪污 但亂七八糟的檢方抱對大腿 當到法務部長囉嘻嘻嘻" },
       { type: "link", content: "https://photos.app.goo.gl/RHvonPMHwSEmE92z9", label: "2025年12月18日 會買這本書的人大概這輩子也會容易被詐騙 早點被消滅早點好" },
       { type: "link", content: "https://photos.app.goo.gl/zqGEb41prLwUfwLq6", label: "2025年12月18日 沒有腦袋的病患 少一個是一個" },
@@ -3934,9 +3934,93 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/vBpHPhHcaU6fHoR86", label: "2017年12月18日 謝謝更正 status post是甚麼意思 是接下來的處置嗎 我已經誤會很久了" },
       { type: "link", content: "https://photos.app.goo.gl/xhLeZi9AGGTkHiga9", label: "2017年12月18日 hustag超過30個以上 一般我會tag60個 會被shawdow ban 請問有人知道這怎麼回事嗎 被ban是別人會看不到我照片嗎 每次tag60個都會被ban嗎 求大神解答 感恩" }
     ],
-    "19": [],
-    "20": [],
-    "21": [],
+    "19": [
+      { type: "link", content: "https://photos.app.goo.gl/Eu5gjinjSAbYXi386", label: "2025年12月19日 未來是體操冠軍XD" },
+      { type: "link", content: "https://photos.app.goo.gl/5DLEgczauw84jTE8A", label: "2024年12月19日 這是廢話 大醫院醫師被值班+爆量病人+刁民家屬跟低薪壓榨很久了 誰不會沒溫柔 錢來或生活品質來才有溫柔" },
+      { type: "link", content: "https://photos.app.goo.gl/mGrNFgBnrzrJvCXJ7", label: "2024年12月19日 查了兩分鐘找不到答案果斷問AI 結果秒答給我 是人腦已經輸給AI還是我偏笨" },
+      { type: "link", content: "https://photos.app.goo.gl/QLgK63StE93cQpqL7", label: "2024年12月19日 好累 好想去診所工作就好" },
+      { type: "link", content: "https://photos.app.goo.gl/S18dSAM4YUsmLGhA8", label: "2024年12月19日 可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/kyYVtt5bc2sF3nAe7", label: "2024年12月19日 我要買" },
+      { type: "link", content: "https://photos.app.goo.gl/nj792Kebr3dKCQiR9", label: "2024年12月19日 會信的人真可憐" },
+      { type: "link", content: "https://photos.app.goo.gl/r8bt1UiyH7WSxP2M9", label: "2024年12月19日 太難過了 不過眼淚怎麼從嘴角流出來了呢" },
+      { type: "link", content: "https://photos.app.goo.gl/xFidREvm5f7TnGWu6", label: "2024年12月19日 我一開始以為是AI" },
+      { type: "link", content: "https://photos.app.goo.gl/FGKFMfJpUVce3ANt6", label: "2023年12月19日 感恩CV 讚嘆CV 能吃好料 又能補充貧瘠的知識" },
+      { type: "link", content: "https://photos.app.goo.gl/27Whvi6Y9trAa1SR8", label: "2022年12月19日 簡單的看懂圖中血液動力監測儀 ICU血液動力學基礎 剛到ICU對於血液監測器是非常懵懂 其實基礎的數值可以參考以下資料 資料來源為仁愛內科的網路整理 非常實用" },
+      { type: "link", content: "https://photos.app.goo.gl/e44MFQkjDuSwn9bw6", label: "2021年12月19日 一個多月沒有修圖了 下班什麼書跟病人都不想看 直接來疊圖 左邊三張合成右邊這張" },
+      { type: "link", content: "https://photos.app.goo.gl/EZRNfftsuHTc26tU9", label: "2020年12月19日 高中畢業十年 還要回來高中上週六補課 嗚嗚嗚嗚 國立南科國際實驗高級中學" },
+      { type: "link", content: "https://photos.app.goo.gl/zdFanCPH1eyLKXys7", label: "2020年12月19日 下午上體育課 果然都是南部孩子" },
+      { type: "link", content: "https://photos.app.goo.gl/7jXLa8kwmNjSs4eo7", label: "2020年12月19日 以前放學前的風景 然後就回家讀書了" },
+      { type: "link", content: "https://photos.app.goo.gl/vy9MSs5wZrygM1V36", label: "2020年12月19日 台南天空好美" },
+      { type: "link", content: "https://photos.app.goo.gl/A1D38WJEgxS24ok49", label: "2020年12月19日 太開心了 明天晚上再來整理照片" },
+      { type: "link", content: "https://photos.app.goo.gl/gnXNtoGdTYh6GALv7", label: "2018年12月19日 感謝學校的愛戴ㄛ" },
+      { type: "link", content: "https://photos.app.goo.gl/KgjgKnXC8eBEoymeA", label: "2018年12月19日 短暫的呼吸 短暫的幸福 能充滿精神的運動真的好幸福" },
+      { type: "link", content: "https://photos.app.goo.gl/AjGAn6aisEW8DZhi8", label: "2018年12月19日 \
+        上帝的瀑布很適合形容這裡 邊界的小村落反而像水壩邊緣 而雲瀑彷彿洩洪一樣 \
+        很久沒有修圖跟拍照了 討生活還是比較要緊 當然也遇到瓶頸 感受不到自己的進步 這時候就適合歇息了:)" },
+      { type: "link", content: "https://photos.app.goo.gl/pxPdmeBTB3B69mcf8", label: "2017年12月19日 請問大家覺得我照片有哪些改進點呢 請私 小弟跪求狠狠的 老實的 血淋淋的告訴我麻煩不要稱讚 小弟是誠心發問 大家相互交流給意見" },
+      { type: "link", content: "https://photos.app.goo.gl/AyKD4CJW6Rvxg4sJ9", label: "2017年12月19日 Go check my new work Check my new pic" }
+    ],
+    "20": [
+      { type: "link", content: "https://photos.app.goo.gl/rcrD6y3unk984Bj1A", label: "2024年12月20日 我們也只能買幾十條絲瓜Q" },
+      { type: "link", content: "https://photos.app.goo.gl/yH3t3nvkEA5oS46BA", label: "2024年12月20日 這個架開旁邊的人是很厲害的招式哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/V55zjbdKQcSvPfWu9", label: "2024年12月20日 幹超愛 好想拍" },
+      { type: "link", content: "https://photos.app.goo.gl/RtpCQhq3zj8Eb4ji9", label: "2023年12月20日 男生也很帥XD" },
+      { type: "link", content: "https://photos.app.goo.gl/1DzhH7UEhpagZsZv5", label: "2022年12月20日 下禮拜會不會擠爛" },
+      { type: "link", content: "https://photos.app.goo.gl/RCcvkkcNkbtfALqZA", label: "2022年12月20日 我比較怕太晚到無法入園 要早點出發" },
+      { type: "link", content: "https://photos.app.goo.gl/Kvpi6wquTkaxdonr8", label: "2020年12月20日 究竟是怎樣的高中生會有這樣的作品ㄋ 我想應該是充滿對社會的失望ㄅ" },
+      { type: "link", content: "https://photos.app.goo.gl/k18UkveYT6Jnmmc98", label: "2017年12月20日 \
+        抱歉抱歉 我今天一定會跟你說 不在台北需要排假的12/31 12/22 23 24 12/9 10 12/3 12/17盡量 \
+        平日想值早班0800-2000 12/15 12/18 想值整天12/16 對不起可能有點小複雜 真心麻煩你了萬分感謝" },
+      { type: "link", content: "https://photos.app.goo.gl/MXc6YNquh9dB1CLd9", label: "2017年12月20日 \
+        昨天半夜跟今天早上都修改與添加家教教材 50頁ppt 另外已經做好重點整理給您帶回家 \
+        因為這四次家教發現大家程度差異很大 誠心希望所有人都滿載而歸 每個月固定不接超過五組 因為有實習與家教品質要顧 期待明年了 感謝支持" }
+    ],
+    "21": [
+      { type: "link", content: "https://photos.app.goo.gl/kRjm7tJcjVxz65zV8", label: "2024年12月21日 呵 難怪某週刊永遠都在替民進黨教訓別人" },
+      { type: "link", content: "https://photos.app.goo.gl/C82ajVSkx8cfvMmX6", label: "2024年12月21日 這些北京人都長得像低能兒 難怪會信台灣是中國領土這套" },
+      { type: "link", content: "https://photos.app.goo.gl/PDGg1h9DMgx89Ro46", label: "2024年12月21日 這種社會底層猴不直接槍斃台灣不會好" },
+      { type: "link", content: "https://photos.app.goo.gl/RTzmEWsShK2FyUEo9", label: "2024年12月21日 看著自己收藏很多的超美攝影景點 卻遲遲沒有足夠的假期可以飛去拍照 跟朋友們聊到這些點時 內心一直充滿空虛跟難過 唉 能還我一個正常的人生嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/WfvGWj8udUihtihW8", label: "2024年12月21日 歡迎我們的攝影比賽冠軍 是冠軍才有資格讓我們等到吃飽了才來唷 刺青大叔的料理屋" },
+      { type: "link", content: "https://photos.app.goo.gl/7uA17RRYqnV4aPEJA", label: "2024年12月21日 意外在Donki找到當年超愛喝的日本奶茶的女子 回想起來2023根本沒出國 真的好想跟正常工作一樣出國" },
+      { type: "link", content: "https://photos.app.goo.gl/5FF36HKauP1UZWbC8", label: "2024年12月21日 好好吃好好喝" },
+      { type: "link", content: "https://photos.app.goo.gl/d3Zy5WwFA7tZV6Rx9", label: "2024年12月21日 傻眼欸這個" },
+      { type: "link", content: "https://photos.app.goo.gl/SBVDPaXFA4Ci3eRR6", label: "2024年12月21日 不行" },
+      { type: "link", content: "https://photos.app.goo.gl/PdWWjiip2w5BBAmy5", label: "2024年12月21日 超漂亮" },
+      { type: "link", content: "https://photos.app.goo.gl/1DBMbHrCEgyoVYF67", label: "2024年12月21日 好可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/bMHd3AhT42WUrQDR8", label: "2024年12月21日 這是不對的行為" },
+      { type: "link", content: "https://photos.app.goo.gl/Y2XrqLznNwDmHpju6", label: "2024年12月21日 對啊" },
+      { type: "link", content: "https://photos.app.goo.gl/XHKVaXcGfgrVxGs78", label: "2023年12月21日 \
+        今天打了兩小時DL 以失敗告終 病人入針後都會流血 但GUIDEWIRE就是進去到2-3格就卡住 推掉後血還是可以留 真奇怪 我還為此換了第二套新的DL \
+        經過提醒 有可能入針太垂直 GUIDEWIRE直接頂到血管壁 真的沒想過會這樣QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/f5rG9kYzB1ztiNJR8", label: "2022年12月21日 \
+        從每週一跑 變成每月一跑 上週瘋狂上班 中間一度冷顫跟狂咳 我都覺得自己確診了但三次快篩都陰性 只好撐著把班上完 \
+        這個月第一次跑步 雖然還有咳嗽好幾度慢下來 但還是跑完9公里 以前都四分速 現在只能用五分速這種比較不喘的速度完成 真的老了退步了" },
+      { type: "link", content: "https://photos.app.goo.gl/9upggfVWRv9BC2DSA", label: "2021年12月21日 這個月我抱著輕鬆愉悅的心情來化療病房 原本想像著當個病歷機器人 有閒看點書 但沒想到第一週後 一直不斷出現很trouble的case 一個好不容易出院 另一個就出現critical 拜託真的不想轉病人進icu 全部都好好入院出院好嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/AQ1Qh7t1qM38SrfB9", label: "2021年12月21日 這絕對長命百歲XD" },
+      { type: "link", content: "https://photos.app.goo.gl/Wouua1aA1rNPS46m7", label: "2020年12月21日 這樣可以做調酒嗎 真4太可愛了 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/feuX7b3wFrrVqRz66", label: "2020年12月21日 我不確定酒需不需要冰起來" },
+      { type: "link", content: "https://photos.app.goo.gl/AbYocubSJDmAhZcR8", label: "2020年12月21日 沒想到會有用到的一天" },
+      { type: "link", content: "https://photos.app.goo.gl/wq5DVJi5ZvMEyepHA", label: "2020年12月21日 半夜洗杯子 明天還要早起" },
+      { type: "link", content: "https://photos.app.goo.gl/pBLQLSzxFfKwL3xW8", label: "2020年12月21日 又洗好一群杯子ㄌ" },
+      { type: "link", content: "https://photos.app.goo.gl/HX8RfRekKfGcKy1S9", label: "2020年12月21日 超可愛聖誕禮物 腳底會發光" },
+      { type: "link", content: "https://photos.app.goo.gl/sdFUq8XsNswi9BWf6", label: "2020年12月21日 \
+        十年一會 偷偷側拍一張 保留這個難得的時刻 也是我特別喜歡的角度 \
+        理由很單純 第一是我不太會寫文字 所以用照片記得當下的夕陽跟大家的歡笑談天 第二是南部的天空很特別 冬天會帶有乾燥卻空寂的感覺 整個就很涼很舒適 \
+        第三是側拍呈現最自然的樣子 畫面很像當年畢業時 大家各自成群離校 有各自不同的未來 \
+        十年過去了 國高中我很封閉自己 可能因為家庭教育跟自己內向 所以回憶起來除了讀書補習 只剩跑步打球 \
+        沒有逛街 沒有約會 沒有電影 沒有唱歌 沒有同學間的八卦跟小秘密 沒有外宿過家裡以外的地方 好像沒有特別值得回憶的事情 除了高伯文全校第一支ihpone被摔爛以外XD \
+        十年過來了 雖然很充滿無趣跟尷尬的過去不堪回首 但很開心看到一群28歲的人們 像當年18歲一樣玩在一起 即使有工作 也特別抽空回來XD \
+        很感謝特別舉辦的同學 鄭志宇 陳昱翔 林景毅 沈軒宇 也特別感謝老師們 包容我當初自以為聰明 沒有認真上過一堂課 結果上大學了才被同學電得狗吃屎 \
+        大開眼界見識真正的資優天才外 還學到做人的道理 是比書中更寶貴的知識 \
+        我沒有後悔這個選擇 見證從稻田蓋成大樓 也打破我過去被教育的觀念 原來讀書並不是有錢的唯一途徑 好多同學都有多彩多姿或多金的人生 真是替他們高興 \
+        最後希望再回來 幫學校拍更多漂亮的照片 南科實中間圍是沒有高建築也沒有車水馬龍 夕陽的光線能完美的映照在這片土地 雖然邊緣 但是美好^_^" },
+      { type: "link", content: "https://photos.app.goo.gl/VXWkPCbwQBxvso8M6", label: "2017年12月21日 \
+        S/p tracheostomy沒有預計要做什麼procedure的意思嗎 那就是我用法錯誤 不過問了一下同學 同學是說s/p後面接的是 解決s/p前面所述問題所使用的方法 \
+        所以我是要表達用氣切來解決前面病人咳痰能力弱的問題 不過我不確定的是 他有沒有已經做了的意涵 看來好像有 \
+        那一段是內文寫的 不是我說的 好 我再去改病歷 以後不會用這種用法" },
+      { type: "link", content: "https://photos.app.goo.gl/rAmHBKTv8wecbkKf9", label: "2017年12月21日 他x的這真的是內湖附近最難走 最難找 最噁心的拍攝點 沒有之一 不要一個人來" },
+      { type: "link", content: "https://photos.app.goo.gl/9Rccfv5YYf8bSLkG7", label: "2017年12月21日 Hey Check my new pic I use new size of pics now 本日成果 歡迎發摟" }
+    ],
     "22": [],
     "23": [
       { type: "link", content: "https://photos.app.goo.gl/iyivEdMvJiDJx9Jk8", label: "2016年12月23日 久違的婚攝 這次代表南下拍攝 謝謝夥伴於政的火力支援 也謝謝學長姐邀請拍攝 一個熱血沸騰囉 南下出發" }
