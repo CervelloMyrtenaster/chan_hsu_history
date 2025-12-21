@@ -3935,6 +3935,14 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/xhLeZi9AGGTkHiga9", label: "2017年12月18日 hustag超過30個以上 一般我會tag60個 會被shawdow ban 請問有人知道這怎麼回事嗎 被ban是別人會看不到我照片嗎 每次tag60個都會被ban嗎 求大神解答 感恩" }
     ],
     "19": [
+      { type: "link", content: "https://photos.app.goo.gl/MpDCe1uax3MEWsUw5", label: "2025年12月19日 \
+        中山區才剛發生隨機砍人 我走回家路上就目睹一個怪人 躺在地上那個 不知為啥攻擊路人的車子跟副駕駛阿姨 \
+        被駕駛 右邊那個 壓在地上報警 無差別怪人的攻擊真的越來越多 身邊隨時準備一把武器很重要" },
+      { type: "link", content: "https://photos.app.goo.gl/qzJxZMiuLUzyczgN6", label: "2025年12月19日 \
+        看到這樣的新聞非常難過 即便台灣已經是世界最安全之一的國家 我們仍無法防範這樣的悲劇 \
+        剛走回家路上也直接目睹一個怪人無差別攻擊路上的車 被駕駛下車壓制報警 看到這樣的事情回家我馬上下訂防身武器了 願平安" },
+      { type: "link", content: "https://photos.app.goo.gl/9e3G5LVhvfGPpTJq8", label: "2025年12月19日 願封你為2025最後線抗生樹" },
+      { type: "link", content: "https://photos.app.goo.gl/EiZCTtVLKGBJXr5J9", label: "2025年12月19日 有了ㄚ" },
       { type: "link", content: "https://photos.app.goo.gl/Eu5gjinjSAbYXi386", label: "2025年12月19日 未來是體操冠軍XD" },
       { type: "link", content: "https://photos.app.goo.gl/5DLEgczauw84jTE8A", label: "2024年12月19日 這是廢話 大醫院醫師被值班+爆量病人+刁民家屬跟低薪壓榨很久了 誰不會沒溫柔 錢來或生活品質來才有溫柔" },
       { type: "link", content: "https://photos.app.goo.gl/mGrNFgBnrzrJvCXJ7", label: "2024年12月19日 查了兩分鐘找不到答案果斷問AI 結果秒答給我 是人腦已經輸給AI還是我偏笨" },
@@ -3961,6 +3969,25 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/AyKD4CJW6Rvxg4sJ9", label: "2017年12月19日 Go check my new work Check my new pic" }
     ],
     "20": [
+      { type: "link", content: "https://photos.app.goo.gl/sU5EpY8hc98X5TME6", label: "2025年12月20日 \
+        從醫學角度看這些悲傷的事故 祈願平安 短短的時間 從澳洲的海灘槍手事件 到台灣的清潔員被酒駕衝撞及昨日的無差別攻擊 都是非常震驚跟難過的事情 \
+        醫學角度來說 這類創傷性OHCA整體存活率極低 近期醫學期刊的系統性回顧 整體死亡率約96% 也就是存活約4% 而非創傷OHCA整體存活率通常在10%左右 \
+        另外創傷OHCA在30天存活率的機率也較低 這表示這些悲劇上演時 即便以現今的醫療科技也難把患者從死神手上搶回來 \
+        還有許多民眾的疑問是 當遇到大出血導致的OHCA 原則上先止血與恢復有效循環容量血液 的優先順序通常高於單純CPR \
+        CPR的精神是把握時間在無呼吸心跳的患者 確保他的心臟內血液灌流能抵達全身 但出血到休克的OHCA患者 體內的有效容積已經遠遠不夠 CPR能提供的有效灌流非常有限 \
+        除了嚴刑峻法跟對於被害人的保障提升以外 想來沒什麼有效預防這些事情的發生 身在治安較好的台灣 我們已經非常幸福 祈願這樣的事情不再發生 傷者早日康復" },
+      { type: "link", content: "https://photos.app.goo.gl/CCQKUoFDFKPEjCaN7", label: "2025年12月20日 \
+        我在陸戰隊學過奪刀奪槍術 一句話送民眾 都是演的 就算用演的 套好的招式我們也要每天像傻瓜一樣練習才能完美奪刀槍甚至讓對方重心不穩 \
+        所以根本沒有用 就算全盛時期的館長面對一個國中小女生拿刀 館長也不一定能全身而退 遇到只有跑 跑不過就是要有防身武器跟他拼" },
+      { type: "link", content: "https://photos.app.goo.gl/HZVXdcmdDU18jgok7", label: "2025年12月20日 先止血加壓 源頭要救 但如果沒辦法止血 應該還是馬上CPR" },
+      { type: "link", content: "https://photos.app.goo.gl/KAMvc5L2b8Mmemi86", label: "2025年12月20日 打不贏 就算只拿美工刀也打不贏 所以那些奪刀槍都是沒用的 望周知 要跟歹徒對打至少身上要有一件武器 不要赤手空拳" },
+      { type: "link", content: "https://photos.app.goo.gl/EfNDXpg8dfJo3wut6", label: "2025年12月20日 那是不是可以推論沒當志願役的根本就是不愛國 一定心裡想著大陸打過來就不抵抗 幫助共匪殺害台灣人 不只是殺人犯更是賣國賊" },
+      { type: "link", content: "https://photos.app.goo.gl/RjEzKijf6s4YAK8V6", label: "2025年12月20日 要跟你一起去才有意義啊" },
+      { type: "link", content: "https://photos.app.goo.gl/Xa4mYMHnuzZ7pp4WA", label: "2025年12月20日 噁心" },
+      { type: "link", content: "https://photos.app.goo.gl/VyMeP6vfEoexz4oV6", label: "2025年12月20日 這是好現象XD" },
+      { type: "link", content: "https://photos.app.goo.gl/4TmTETTXMFeyre9k7", label: "2025年12月20日 怎麼那麼棒" },
+      { type: "link", content: "https://photos.app.goo.gl/3NhJP51FtXD4kXZp9", label: "2025年12月20日 推" },
+      { type: "link", content: "https://photos.app.goo.gl/yZ3g3DLgAMKCAetz8", label: "2025年12月20日 JiaJiaJiou++酒" },
       { type: "link", content: "https://photos.app.goo.gl/rcrD6y3unk984Bj1A", label: "2024年12月20日 我們也只能買幾十條絲瓜Q" },
       { type: "link", content: "https://photos.app.goo.gl/yH3t3nvkEA5oS46BA", label: "2024年12月20日 這個架開旁邊的人是很厲害的招式哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/V55zjbdKQcSvPfWu9", label: "2024年12月20日 幹超愛 好想拍" },
@@ -3976,6 +4003,26 @@ const records = {
         因為這四次家教發現大家程度差異很大 誠心希望所有人都滿載而歸 每個月固定不接超過五組 因為有實習與家教品質要顧 期待明年了 感謝支持" }
     ],
     "21": [
+      { type: "link", content: "https://photos.app.goo.gl/Ac1PhwnVBArAmD1d8", label: "2025年12月21日 \
+        醫師建議不要 除非你確定一畢業就去醫美或是選得到眼皮復 律師考慮但也是血汗 下限比醫師低但上限比醫師高 \
+        工程師最推 入學門檻最低 但迎合未來趨勢是最賺錢的 20多歲基本上收入就贏同年齡層的醫師很多了 雖然有被裁員風險 但如果不長進被裁員基本上你選前面兩個科系也好不到哪裡 \
+        最後推薦一個 牙醫系 錢多事少風險低 最貴的是去上自費課程 但CP吊打前三個選項 前提是要能考上 他是國內目前分數最高的科系 基本上要樣樣滿分才行" },
+      { type: "link", content: "https://photos.app.goo.gl/dfjRChzkkV9YoVho8", label: "2025年12月21日 真假 那有請牙醫開示了 我總覺得被健保吃掉的醫療業才是夕陽QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/pt9yjkqaibgfojZQ6", label: "2025年12月21日 同理不死刑也沒辦法阻止攻擊事件 更沒辦法遏止 這種可悲影片根本不想點開 降智用的" },
+      { type: "link", content: "https://photos.app.goo.gl/1Wa1VL4k5GzV7ZyQ6", label: "2025年12月21日 那萬一那個人不是殺人犯結果醫師當初沒有救 醫護的專業度就是不分人種職業貴賤做到自己能做的治療而已" },
+      { type: "link", content: "https://photos.app.goo.gl/jYNZcKheXr7VFUYZ9", label: "2025年12月21日 超羨慕 夢想的人生就是希望可以窩在電腦房裡修圖聽音樂找靈感創作 周圍擺滿公仔 攝影器材跟照片 然後每年有一半的時間都出國拍照 帶回素材再窩回電腦房修圖創作作品 人生真的很不公平啊" },
+      { type: "link", content: "https://photos.app.goo.gl/AVKDkNX6KmLZ1stJA", label: "2025年12月21日 \
+        回顧這個新聞真的很感動 台身為治安最好的台灣人 應要在能力範圍內保護台灣的和平 等警察來可能都好幾條無辜人命沒了 \
+        舉個例子 我今天下午去宜得利 就先想好萬一有暴徒 我等下可以選擇拿鐵鍋防禦 推一長串的推車撞他 拔起附近的玻璃杯盤砸他 \
+        沒有帶武器時 一個人去壓制暴徒是很危險的 可是如果在群眾裡 大家有志一同全部抄起手邊能用的器具一起攻擊暴徒 打到他頭破血流失去行動能力 這才是最美的風景 \
+        赤手空拳的就快遠離 負責疏散 大喊跟報警 不能有害人之心但要有防人之心 出外轉換場所都要設想好當下遇到危難 該逃哪還是可以防禦都要想好 \
+        法律跟警力都有限制 只有人人都像身體內的白細胞 看到病毒就集合猛攻 而身為檢察官法官應該有良心義務赦免這些人 \
+        面對惡徒的暴力 人民應該用更暴力更大的拳頭讓他倒下 才能減少他持續傷害無辜的受害者 台灣的治安才能更好" },
+      { type: "link", content: "https://photos.app.goo.gl/aCiPV9aVhMwGqKjr7", label: "2025年12月21日 對 但是他在眾目睽睽跑進誠品時 群眾真的可以從各處拿東西砸他 然後拿長棒物戳他 如果不是他跑到樓頂要跳 他當下也可能在各樓層躲藏殺人 人人預設最壞狀況隨時做好準備遠比一團亂還更好" },
+      { type: "link", content: "https://photos.app.goo.gl/ghimYkfcn669JNVK6", label: "2025年12月21日 甜湯圓只加花生才是最好吃的" },
+      { type: "link", content: "https://photos.app.goo.gl/Jyz2ztkA3xKeB7sh7", label: "2025年12月21日 不行" },
+      { type: "link", content: "https://photos.app.goo.gl/Qk3AVHUAqw9U7T5c6", label: "2025年12月21日 內科醫師來打卡" },
+      { type: "link", content: "https://photos.app.goo.gl/QM86yYAqv4pc4tqZ7", label: "2025年12月21日 可是這樣會感情不好" },
       { type: "link", content: "https://photos.app.goo.gl/kRjm7tJcjVxz65zV8", label: "2024年12月21日 呵 難怪某週刊永遠都在替民進黨教訓別人" },
       { type: "link", content: "https://photos.app.goo.gl/C82ajVSkx8cfvMmX6", label: "2024年12月21日 這些北京人都長得像低能兒 難怪會信台灣是中國領土這套" },
       { type: "link", content: "https://photos.app.goo.gl/PDGg1h9DMgx89Ro46", label: "2024年12月21日 這種社會底層猴不直接槍斃台灣不會好" },
