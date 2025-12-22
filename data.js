@@ -4068,7 +4068,36 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/rAmHBKTv8wecbkKf9", label: "2017年12月21日 他x的這真的是內湖附近最難走 最難找 最噁心的拍攝點 沒有之一 不要一個人來" },
       { type: "link", content: "https://photos.app.goo.gl/9Rccfv5YYf8bSLkG7", label: "2017年12月21日 Hey Check my new pic I use new size of pics now 本日成果 歡迎發摟" }
     ],
-    "22": [],
+    "22": [
+      { type: "link", content: "https://photos.app.goo.gl/gNvtvyPhNmFdPPWt6", label: "2025年12月22日 感謝黃國昌委員 不對的事情就是不對 現在的政治就是人治的 根本不完全是依據法律的公平正義 轉發一篇非常清楚的文章" },
+      { type: "link", content: "https://photos.app.goo.gl/viAUMfXoCpyFkQFA9", label: "2025年12月22日 ?" },
+      { type: "link", content: "https://photos.app.goo.gl/vbwCTwepwCp19EYy5", label: "2025年12月22日 超好喝 ㄔㄠㄌㄜㄏㄜ" },
+      { type: "link", content: "https://photos.app.goo.gl/sSrhqNc9bGdLEskg8", label: "2025年12月22日 好der" },
+      { type: "link", content: "https://photos.app.goo.gl/h1qccYX1w2FPV6789", label: "2025年12月22日 可以趁這bug刷世界紀錄欸" },
+      { type: "link", content: "https://photos.app.goo.gl/qmqNP5H5GuHwe7ZS6", label: "2024年12月22日 有大大知道MAC M1要怎麼把硬碟移除後會一直跳的這個通知刪除取消嗎 試了很多方式都沒辦法 看了真的很煩" },
+      { type: "link", content: "https://photos.app.goo.gl/8hySBHGV4QMU1dfk9", label: "2024年12月22日 沒想到冬天也可以拍出這樣的效果" },
+      { type: "link", content: "https://photos.app.goo.gl/xkQ9PLdWPQVJEf3B8", label: "2024年12月22日 他已經被嚇到呆掉了" },
+      { type: "link", content: "https://photos.app.goo.gl/P8rECZETNPyy9rRaA", label: "2024年12月22日 可惡 我看到桂冠也以為是湯圓" },
+      { type: "link", content: "https://photos.app.goo.gl/KHYXcSWJgL2Vyehr7", label: "2023年12月22日 0900-1400 double lumen*2 Cvc*1 Lumbar puncture*1 接急診病人*1 安寧撤管*1 Sheath移除*1 病房交班*1 應該是今年最充實的一天 感謝俊麟學弟 護理師跟NP在旁幫忙 運氣好都一針" },
+      { type: "link", content: "https://photos.app.goo.gl/1iaLjaNUHa48QHHE9", label: "2022年12月22日 \
+        超級好吃 宜蘭 羅東 冬山金珠蔥油餅 羅東店 羅東最好吃的蔥油餅之一 特點是外皮非常酥脆 內層Q彈 配上甜辣醬 蔥跟蛋 真的是超級罪惡的組合 也讓我越吃越餓 \
+        另外紅茶超級好喝 很傳統味 茶味 只是很快就賣光了 未必每次買都有 這家無可挑剔 口感紮實 價格便宜 加蛋加蔥才40元 有來羅東務必買來爽吃一下" },
+      { type: "link", content: "https://photos.app.goo.gl/5EuGeZ8BY8cs3Avt5", label: "2022年12月22日 \
+        又發現一家三顆星的超好吃燒烤 真心不騙 宜蘭路邊烤肉wildbbq羅東店 這是羅東最好吃的串燒店嗎 不只 他可以說是台灣前三名好吃的串燒店了 \
+        實惠的價格 超多種類的燒烤與多樣化的調味 出餐速度也滿快 真的超級好吃 雖然拿了很多支但完全沒意會到自己已經嗑光光 \
+        特別的是 我們還有點梅酒 乾拌麵及蛤蜊湯 梅酒很配 乾拌麵45元份量跟嚼勁都一流的 蛤蜊湯配合九層塔 有別於一般的薑絲風味 都非常非常搭配燒烤 \
+        這樣不會太甜太燒焦的燒烤 入口難停 也很推薦大家來品嚐" },
+      { type: "link", content: "https://photos.app.goo.gl/3oJ6FriChsLtF9vS6", label: "2022年12月22日 之前去賊仔澳一直在找這個角度 網路圖片她站的地方 但每次都失敗 有朋友知道怎麼去嗎 跪謝 南方澳豆腐岬" },
+      { type: "link", content: "https://photos.app.goo.gl/ZEDjUy66sBAX1k9VA", label: "2020年12月22日 醫學之母內科真的是大海 做了50頁報告還只是書上幾小段的內容 光消化道出血章節就看不完 被教科書知識淹死" },
+      { type: "link", content: "https://photos.app.goo.gl/KKC9Qrge25KDdBnJ9", label: "2020年12月22日 \
+        求眾cv高手請益 Ekg old infarction跟new MI應該怎麼分呢 這個病人有COPD 20年前做過心臟導管放支架 之後沒有再心肌梗塞 \
+        今晚HR快 80-90變140但之後自己恢復 我做了這張心電圖 沒有更之前的可以比較 想知道 Old infarction在心電圖上是呈現ST depression 對嗎 \
+        沒有任何症狀的心跳突然快 基本上我都觀察而已 面對家屬的話 大家都怎麼解釋 虎爛 過去 所以我有問症狀 目前是都沒症狀 先觀察" },
+      { type: "link", content: "https://photos.app.goo.gl/juyyZsj9uKK3XoLy6", label: "2018年12月22日 海軍體育服好醜 原來這就是認真的 跟狹小的軍艦醫務室" },
+      { type: "link", content: "https://photos.app.goo.gl/xfJH85bShBH9jUHW6", label: "2017年12月22日 再次六天連假來讀書 國立暨南國際大學圖書館NCNULIBRARY" },
+      { type: "link", content: "https://photos.app.goo.gl/MNoFWgNVDEcWtipC8", label: "2017年12月22日 來當衣架" },
+      { type: "link", content: "https://photos.app.goo.gl/t4Le3cpSR3XphBKF8", label: "2017年12月22日 2.7k Thank you all I will keep on photography" }
+    ],
     "23": [
       { type: "link", content: "https://photos.app.goo.gl/iyivEdMvJiDJx9Jk8", label: "2016年12月23日 久違的婚攝 這次代表南下拍攝 謝謝夥伴於政的火力支援 也謝謝學長姐邀請拍攝 一個熱血沸騰囉 南下出發" }
     ],
