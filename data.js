@@ -4069,11 +4069,13 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/9Rccfv5YYf8bSLkG7", label: "2017年12月21日 Hey Check my new pic I use new size of pics now 本日成果 歡迎發摟" }
     ],
     "22": [
-      { type: "link", content: "https://photos.app.goo.gl/gNvtvyPhNmFdPPWt6", label: "2025年12月22日 感謝黃國昌委員 不對的事情就是不對 現在的政治就是人治的 根本不完全是依據法律的公平正義 轉發一篇非常清楚的文章" },
+      { type: "link", content: "https://photos.app.goo.gl/L1Juvr7msJRkd8Jv5", label: "2025年12月22日 感謝黃國昌委員 不對的事情就是不對 現在的政治就是人治的 根本不完全是依據法律的公平正義 轉發一篇非常清楚的文章" },
       { type: "link", content: "https://photos.app.goo.gl/viAUMfXoCpyFkQFA9", label: "2025年12月22日 ?" },
       { type: "link", content: "https://photos.app.goo.gl/vbwCTwepwCp19EYy5", label: "2025年12月22日 超好喝 ㄔㄠㄌㄜㄏㄜ" },
       { type: "link", content: "https://photos.app.goo.gl/sSrhqNc9bGdLEskg8", label: "2025年12月22日 好der" },
       { type: "link", content: "https://photos.app.goo.gl/h1qccYX1w2FPV6789", label: "2025年12月22日 可以趁這bug刷世界紀錄欸" },
+      { type: "link", content: "https://photos.app.goo.gl/YSTE434vPYxKrpxZ6", label: "2025年12月22日 雖然這是學日本的影片但很好笑哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/pHtYRnBzQCbLQyyX9", label: "2025年12月22日 我們房間也是" },
       { type: "link", content: "https://photos.app.goo.gl/qmqNP5H5GuHwe7ZS6", label: "2024年12月22日 有大大知道MAC M1要怎麼把硬碟移除後會一直跳的這個通知刪除取消嗎 試了很多方式都沒辦法 看了真的很煩" },
       { type: "link", content: "https://photos.app.goo.gl/8hySBHGV4QMU1dfk9", label: "2024年12月22日 沒想到冬天也可以拍出這樣的效果" },
       { type: "link", content: "https://photos.app.goo.gl/xkQ9PLdWPQVJEf3B8", label: "2024年12月22日 他已經被嚇到呆掉了" },
@@ -4099,6 +4101,49 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/t4Le3cpSR3XphBKF8", label: "2017年12月22日 2.7k Thank you all I will keep on photography" }
     ],
     "23": [
+      { type: "link", content: "https://photos.app.goo.gl/rafzxG636Gv3RixE7", label: "2025年12月23日 沒錯 這種連帶動氣氛都不會的藝人封殺剛好而已" },
+      { type: "link", content: "https://photos.app.goo.gl/YBtijp9VvGFoEPaQ6", label: "2025年12月23日 他媽垃圾司法 未成年人犯重罪就算有教化可能 如果都殺人了也不能給他們教化 法律一樣要殺了他們才是公平正義" },
+      { type: "link", content: "https://photos.app.goo.gl/LAtW3kGZBG3rJa4s8", label: "2025年12月23日 當然不方便表示意見啊 因為如果憑良心講話就會違背黨意啊" },
+      { type: "link", content: "https://photos.app.goo.gl/NiGwekKvvhFWwn217", label: "2025年12月23日 這是真的嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/sLaZt6tBZRtd9PLy5", label: "2025年12月23日 該買起來了" },
+      { type: "link", content: "https://photos.app.goo.gl/eaUzQgYJ9o3oPYCX6", label: "2024年12月23日 你的腦子看起來也可能是腫瘤 建議直接切除 以免流出繁殖" },
+      { type: "link", content: "https://photos.app.goo.gl/k35GR2btEBnusLah8", label: "2024年12月23日 台灣沒有對你們這些成天造謠 講錯誤醫學資訊的人開罰 真是天大的仁慈" },
+      { type: "link", content: "https://photos.app.goo.gl/axHSqRirVt4HmThq9", label: "2024年12月23日 你這種害人的言論還肖想自由哦 呵呵 等著報應吧" },
+      { type: "link", content: "https://photos.app.goo.gl/ty6Zfrf8Zf4ytB2v9", label: "2024年12月23日 值班完休息了一下 完成每個禮拜最低限度的有氧 以前都能4分速初頭 現在五分速才覺得舒服" },
+      { type: "link", content: "https://photos.app.goo.gl/XtVH3AVKKJJfZBDMA", label: "2024年12月23日 醫師多數也是1-2.5個月而已 醫師比工程師累多了 更不平衡" },
+      { type: "link", content: "https://photos.app.goo.gl/E3cXqfqGyzYLuKUv6", label: "2024年12月23日 跟小葵一樣哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/6iyQnCUsgEcGqn4o7", label: "2024年12月23日 他在想自己是不是做錯事" },
+      { type: "link", content: "https://photos.app.goo.gl/fYUeDUVzLgZNbMxw7", label: "2024年12月23日 暈什麼暈 那個那麼簡單 而且平常我也會幫你抬槓" },
+      { type: "link", content: "https://photos.app.goo.gl/qrViEAcSFtayVfep7", label: "2024年12月23日 冬天的溫暖一角" },
+      { type: "link", content: "https://photos.app.goo.gl/Hr5HpQMBCBM1LXbg9", label: "2024年12月23日 我也要這個教練哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/f17QC3tHMwyZEYoV8", label: "2024年12月23日 對啊" },
+      { type: "link", content: "https://photos.app.goo.gl/GKkLtSNb6pNmEhen9", label: "2024年12月23日 這是什麼梗 原來如此 囧了 謝謝學長QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/5xUpo7DwpLHzSr2q7", label: "2024年12月23日 好可愛的超級小老鼠" },
+      { type: "link", content: "https://photos.app.goo.gl/hPDcFeKumkSpUJy87", label: "2023年12月23日 謝謝老師紀錄哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/W2ParcXhwNCJSpUQA", label: "2022年12月23日 \
+        宜蘭 究醬石頭火鍋 冬天吃到這麼特別的石頭火鍋 平價但不馬虎真的很暖心 很推 \
+        隱藏在羅東的非連鎖石頭火鍋 一試成主顧 我們點了梅花豬及培根牛 肉品都是先炒香後才送來 菜料也很豐富 \
+        重點是鍋物煮完都有淡淡的碳燒味 非常特別 寬敞乾淨的用餐環境 不收服務費但服務態度十足 價格便宜但給料不馬虎 真的該推" },
+      { type: "link", content: "https://photos.app.goo.gl/LyQxkV2CXegGnNE39", label: "2022年12月23日 拍照拍到大雲海 不過只能用看的哈哈 太平山見晴懷古步道" },
+      { type: "link", content: "https://photos.app.goo.gl/ARmT16ok33Ynw4386", label: "2022年12月23日 終於發文了 最後一張好看" },
+      { type: "link", content: "https://photos.app.goo.gl/AvnYPaixPxFoHjYWA", label: "2020年12月23日 \
+        在美國住呼吸照護加護病房醫療費需幾百萬 在台灣住半個月只要70萬 萬一健保不給付 病人出院又賴皮不付錢拖欠 \
+        醫院虧損會很大 也會間接從醫護人員的薪水獎金扣除 目前看起來是這樣 如果說錯了請告訴我 這樣的事情我猜每天都在發生 \
+        希望推崇看病先付錢制度 醫療不是服務業 生病大多是很可憐很無辜的 但每天賣命賺錢的醫護人員更無辜 我們也是養家餬口很辛苦的生活 聽到太多病人活蹦亂跳後賴皮不付錢的情況了" },
+      { type: "link", content: "https://photos.app.goo.gl/gm95W49bTHVEgies5", label: "2020年12月23日 三個禮拜沒跑室外 可惡的台北下雨天 前天買了300元的迪卡儂跑步保暖上衣 今天出門跑 邊跑邊閃水坑 但開箱覺得很實用 便宜好穿保暖" },
+      { type: "link", content: "https://photos.app.goo.gl/ULE5eR8CYtp4LJ6m7", label: "2019年12月23日 \
+        2019年尾 少了衝勁跟自我 多了反省跟責任感 \
+        比起學校生活 踏入相對辛苦的基層部隊 一切從頭開始學習 多了很多的拘束與規範 也多了更多的自我要求 \
+        首先是領導職的不容易 為了上面長官要求 必須要讓下面的人願意跟你一起付出 \
+        另一方面得體的說話 應對都再一次地有所學習 從同學身上 看到他們的成熟與得體 同儕相處如同機器的齒輪 \
+        謙卑與大器的心態則是潤滑 要讓自己也能如此成長才是 正因為無法離群索居 正因為求之於人之前得先付出 \
+        所以如何處事與溝通 調適壓力格外重要 才能在職場這危險的森林中有一塊棲地 也謝謝女友 不管再怎麼難聽都願意對我講真話 讓我可以即時的改正自己 \
+        2020不求一丁點絢麗奪目 只求工作與感情平穩健康 平順低調完成幾個人生決定就好 苗栗鯉魚潭水庫" },
+      { type: "link", content: "https://photos.app.goo.gl/gcgzbQP2JmLjuTEH7", label: "2017年12月23日 燈燈燈 我先偷發如果晚點刪除表示我被她殺惹 還好還活著以後繼續發醜照" },
+      { type: "link", content: "https://photos.app.goo.gl/fm8QgEF68vWmMV42A", label: "2017年12月23日 年末最開心的一餐 成功被店員馬力歐完敗 黑白切 屋馬" },
+      { type: "link", content: "https://photos.app.goo.gl/7mmac56CMhG1Lzar6", label: "2017年12月23日 請問有朋友知道 台中哪裡有像這樣一整面的紅燈籠可以拍嗎 小弟跪謝" },
+      { type: "link", content: "https://photos.app.goo.gl/kLQP2PX9wY6phFWb6", label: "2017年12月23日 每次都退燒了我才來拍 柳川藍帶水岸" },
+      { type: "link", content: "https://photos.app.goo.gl/Tb52XGU62mTWGqYw9", label: "2017年12月23日 I got fire from the sky 如果說台灣離島的最後一塊淨土 那一定要算蘭嶼一份 由衷希望他的自然與美能被保存 永不犧牲在商業利益之下 無論任何理由" },
       { type: "link", content: "https://photos.app.goo.gl/iyivEdMvJiDJx9Jk8", label: "2016年12月23日 久違的婚攝 這次代表南下拍攝 謝謝夥伴於政的火力支援 也謝謝學長姐邀請拍攝 一個熱血沸騰囉 南下出發" }
     ],
     "24": [],
