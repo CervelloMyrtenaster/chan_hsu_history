@@ -4101,11 +4101,15 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/t4Le3cpSR3XphBKF8", label: "2017年12月22日 2.7k Thank you all I will keep on photography" }
     ],
     "23": [
+      { type: "link", content: "https://photos.app.goo.gl/eWh6MT4rCsQvn19o8", label: "2025年12月23日 如果今天柯文哲跟支持者說你開刀兩小時開到三小時 讓家屬都願意支持他為止 網路風向又會如何呢><" },
+      { type: "link", content: "https://photos.app.goo.gl/iQUJZ19KKySifg5M8", label: "2025年12月23日 王ㄟ登這個完全沒聽過的藝人難怪完全沒聽過 會紅的都比他會臨場發揮XD" },
+      { type: "link", content: "https://photos.app.goo.gl/i3xckiWWP6XaofPHA", label: "2025年12月23日 Rotate完就沒有PM這事情 每天睡不到五小時好幾年" },
       { type: "link", content: "https://photos.app.goo.gl/rafzxG636Gv3RixE7", label: "2025年12月23日 沒錯 這種連帶動氣氛都不會的藝人封殺剛好而已" },
       { type: "link", content: "https://photos.app.goo.gl/YBtijp9VvGFoEPaQ6", label: "2025年12月23日 他媽垃圾司法 未成年人犯重罪就算有教化可能 如果都殺人了也不能給他們教化 法律一樣要殺了他們才是公平正義" },
       { type: "link", content: "https://photos.app.goo.gl/LAtW3kGZBG3rJa4s8", label: "2025年12月23日 當然不方便表示意見啊 因為如果憑良心講話就會違背黨意啊" },
       { type: "link", content: "https://photos.app.goo.gl/NiGwekKvvhFWwn217", label: "2025年12月23日 這是真的嗎" },
       { type: "link", content: "https://photos.app.goo.gl/sLaZt6tBZRtd9PLy5", label: "2025年12月23日 該買起來了" },
+      { type: "link", content: "https://photos.app.goo.gl/SXguARuEqeba7ZJT9", label: "2025年12月23日 好可愛的互動 果然家裡要有小蟑螂才會增加歡樂" },
       { type: "link", content: "https://photos.app.goo.gl/eaUzQgYJ9o3oPYCX6", label: "2024年12月23日 你的腦子看起來也可能是腫瘤 建議直接切除 以免流出繁殖" },
       { type: "link", content: "https://photos.app.goo.gl/k35GR2btEBnusLah8", label: "2024年12月23日 台灣沒有對你們這些成天造謠 講錯誤醫學資訊的人開罰 真是天大的仁慈" },
       { type: "link", content: "https://photos.app.goo.gl/axHSqRirVt4HmThq9", label: "2024年12月23日 你這種害人的言論還肖想自由哦 呵呵 等著報應吧" },
@@ -4119,7 +4123,6 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/f17QC3tHMwyZEYoV8", label: "2024年12月23日 對啊" },
       { type: "link", content: "https://photos.app.goo.gl/GKkLtSNb6pNmEhen9", label: "2024年12月23日 這是什麼梗 原來如此 囧了 謝謝學長QQ" },
       { type: "link", content: "https://photos.app.goo.gl/5xUpo7DwpLHzSr2q7", label: "2024年12月23日 好可愛的超級小老鼠" },
-      { type: "link", content: "https://photos.app.goo.gl/hPDcFeKumkSpUJy87", label: "2023年12月23日 謝謝老師紀錄哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/W2ParcXhwNCJSpUQA", label: "2022年12月23日 \
         宜蘭 究醬石頭火鍋 冬天吃到這麼特別的石頭火鍋 平價但不馬虎真的很暖心 很推 \
         隱藏在羅東的非連鎖石頭火鍋 一試成主顧 我們點了梅花豬及培根牛 肉品都是先炒香後才送來 菜料也很豐富 \
@@ -4131,7 +4134,7 @@ const records = {
         醫院虧損會很大 也會間接從醫護人員的薪水獎金扣除 目前看起來是這樣 如果說錯了請告訴我 這樣的事情我猜每天都在發生 \
         希望推崇看病先付錢制度 醫療不是服務業 生病大多是很可憐很無辜的 但每天賣命賺錢的醫護人員更無辜 我們也是養家餬口很辛苦的生活 聽到太多病人活蹦亂跳後賴皮不付錢的情況了" },
       { type: "link", content: "https://photos.app.goo.gl/gm95W49bTHVEgies5", label: "2020年12月23日 三個禮拜沒跑室外 可惡的台北下雨天 前天買了300元的迪卡儂跑步保暖上衣 今天出門跑 邊跑邊閃水坑 但開箱覺得很實用 便宜好穿保暖" },
-      { type: "link", content: "https://photos.app.goo.gl/ULE5eR8CYtp4LJ6m7", label: "2019年12月23日 \
+      { type: "link", content: "https://photos.app.goo.gl/RWAo88NPmCb9WPzZ6", label: "2019年12月23日 \
         2019年尾 少了衝勁跟自我 多了反省跟責任感 \
         比起學校生活 踏入相對辛苦的基層部隊 一切從頭開始學習 多了很多的拘束與規範 也多了更多的自我要求 \
         首先是領導職的不容易 為了上面長官要求 必須要讓下面的人願意跟你一起付出 \
@@ -4146,8 +4149,73 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/Tb52XGU62mTWGqYw9", label: "2017年12月23日 I got fire from the sky 如果說台灣離島的最後一塊淨土 那一定要算蘭嶼一份 由衷希望他的自然與美能被保存 永不犧牲在商業利益之下 無論任何理由" },
       { type: "link", content: "https://photos.app.goo.gl/iyivEdMvJiDJx9Jk8", label: "2016年12月23日 久違的婚攝 這次代表南下拍攝 謝謝夥伴於政的火力支援 也謝謝學長姐邀請拍攝 一個熱血沸騰囉 南下出發" }
     ],
-    "24": [],
-    "25": [],
+    "24": [
+      { type: "link", content: "https://photos.app.goo.gl/2Aqrz5fRGtojWG6T7", label: "2025年12月24日 他忘了每阻一個免死的死刑犯 就多製造一個以上冤死的被害人 廢死真是智障無誤" },
+      { type: "link", content: "https://photos.app.goo.gl/8FnEWvxnaFLcFZ266", label: "2025年12月24日 就是因為年初到現在才執行一次 顯然完全不夠啊XD" },
+      { type: "link", content: "https://photos.app.goo.gl/T69gYpV8qpUdboM57", label: "2025年12月24日 他把自己佈置成聖誕樹底下的禮物" },
+      { type: "link", content: "https://photos.app.goo.gl/e4F6VsNq8FD9rPAx9", label: "2025年12月24日 聖誕節當天不就要帶你去吃了嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/iYgniF9wLKaydnmh8", label: "2024年12月24日 根本少之又少 多數醫師月收入15-25之間而已" },
+      { type: "link", content: "https://photos.app.goo.gl/eB2Zm3hmsj17YRjo7", label: "2024年12月24日 以醫師這個職業取得的難度跟工作本身救命的貢獻 根本太少了" },
+      { type: "link", content: "https://photos.app.goo.gl/tbeVGPd23VgPP77A8", label: "2024年12月24日 好文大推 希望優秀的高中生清醒一點" },
+      { type: "link", content: "https://photos.app.goo.gl/WGBtpQjicBAGwNXL7", label: "2024年12月24日 做效果而已還真有人會信 這種事只有chatgpt做得到好嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/vS3SLFhmBbNfCRUf7", label: "2024年12月24日 太強 我沒辦法" },
+      { type: "link", content: "https://photos.app.goo.gl/82PVtmPWYDBeDhKT8", label: "2024年12月24日 算起來醫療業真的很可悲 唉" },
+      { type: "link", content: "https://photos.app.goo.gl/2fs8QpVj5zEVrGzz9", label: "2024年12月24日 我已經拿回宿舍放了" },
+      { type: "link", content: "https://photos.app.goo.gl/wsJZRJjzUqYneCpM6", label: "2023年12月24日 美到有扯 帶攝影團到世界各地拍風景真是最幸福的職業" },
+      { type: "link", content: "https://photos.app.goo.gl/HufPnzJkFe9LXqrJ6", label: "2023年12月24日 如果已經過了十年 我依舊喜歡這個工作 那代表有機會堅持一輩子吧 婚攝很累 但還不錯" },
+      { type: "link", content: "https://photos.app.goo.gl/47HipU85e9rgK1Xm6", label: "2023年12月24日 謝謝老師紀錄哈哈 太難為情了" },
+      { type: "link", content: "https://photos.app.goo.gl/VAsQRxy1DzFKr9Xq8", label: "2023年12月24日 今天又是婚攝日 擔任小小助手" },
+      { type: "link", content: "https://photos.app.goo.gl/KrKXvF2GkmmKx9h17", label: "2023年12月24日 謝謝TAIPEITRAVELS分享及邀請協同作者" },
+      { type: "link", content: "https://photos.app.goo.gl/z1jhijYBbSXTXyeB6", label: "2022年12月24日 \
+        宜蘭 正好鮮肉小籠包 五結店 這家我們整整等了40分鐘 幸好旁邊有專屬停車位 可以讓我們安心等 \
+        10顆90元相對台北是很便宜的 但比大多小籠包還大一點 皮超薄肉超多 重點有三個 \
+        第一 沒肥肉 第二 三星蔥非常香 第三 皮薄但居然不隨便破掉 完美的把肉蔥跟美味的湯汁送入口中 \
+        最後 奶茶跟酸辣湯都很讚 如果你是願意等的人 就很推薦來吃看看" },
+      { type: "link", content: "https://photos.app.goo.gl/Re7kwUayRQAxHZAn6", label: "2022年12月24日 準備收假 居然有聖誕禮物 掃掉又要回去醫院上班的爛心情了" },
+      { type: "link", content: "https://photos.app.goo.gl/wWDJBk8VkWJVQedX6", label: "2021年12月24日 \
+        值班的時候一個印尼看護很緊張的跑來叫我 嘴裡一直唸阿公 眼睛 張開 很嚴重 怎麼辦 \
+        聽都聽不懂 跟著跑過去看 原來是阿公床頭上面的燈太亮了無法調小啊" },
+      { type: "link", content: "https://photos.app.goo.gl/FT5P3qb1xJgfc3368", label: "2019年12月24日 太好了你終於又亮晶晶" },
+      { type: "link", content: "https://photos.app.goo.gl/ocengVBZnhB42rDh8", label: "2018年12月24日 好棒啊 能參加這活動羨慕了 等下中午就要出海了 明年有時間可以參加看看" },
+      { type: "link", content: "https://photos.app.goo.gl/dB9NB5TKMEUkgfpv8", label: "2018年12月24日 安安醫務士想爽跨年請假又不說 今天我才知道跨年沒人值班 結果催他快一天了還不跟我討論怎麼排假 該怎麼辦 爛" },
+      { type: "link", content: "https://photos.app.goo.gl/cFpShojNqEx5fcyc8", label: "2018年12月24日 培養應酬文化" },
+      { type: "link", content: "https://photos.app.goo.gl/X1w4gephQnyUaNFk6", label: "2018年12月24日 \
+        聖誕快樂 不意外的今年無法一起慶祝聖誕跟平安夜 所以拿去年的照片充數 也因此我們提早交換禮物 卡片就不說了畢竟有人懶得寫 \
+        謝謝你的圍巾 謝謝我們能走過一年多然後充滿自信的往下走 在部隊的一切 副長曾說還沒戰爭以前我們都不算軍人 只是來工作的 \
+        因為是工作 最重要的是營造好的工作環境 當然感謝老天給我一個充滿好長官的環境 讓我能接受許多好的教誨 改變對工作的態度 培養負責的心態 這是老天爺的聖誕禮物吧 \
+        最後希望能撐過辛苦的專題跟報告 一起好好成長 也希望自己未來多點能耐 不被艱困的工作打敗 才是對不公平生活的最大報復 祝大家聖誕快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/NajCaFsRtSqwYxSY9", label: "2018年12月24日 Merry Christmas to my dear and all my friends:)" }
+    ],
+    "25": [
+      { type: "link", content: "https://photos.app.goo.gl/DPDqKTh1qRGYmyhV6", label: "2025年12月25日 說得對極了 不要去當勇者 每個人顧好自己就好 能跑就跑 但準備武器如果危及性命跑不了至少也能自救 謝謝台灣的法律給我們上一課" },
+      { type: "link", content: "https://photos.app.goo.gl/PPKiFcLNaXLmSvJb7", label: "2025年12月25日 你可以不要住院啊 誰強迫你住院了" },
+      { type: "link", content: "https://photos.app.goo.gl/VqZ3cDkvfQiA6oPy8", label: "2025年12月25日 好熱鬧的鐵板燒開場 充滿聖誕節的鐵板燒" },
+      { type: "link", content: "https://photos.app.goo.gl/PRYK5NyG6EgQxFBb9", label: "2025年12月25日 他有他的優點 我也有我的優點他無法做到的~" },
+      { type: "link", content: "https://photos.app.goo.gl/KzQkvBUMR7CFLH6D6", label: "2023年12月25日 \
+        徵求攝影師有付費 三總腎臟內科徵求113/1/21週日 有基礎攝影能力的學弟妹一名 有自己相機 拍攝JPG檔即可 \
+        內容餐會紀錄 一樣會供餐給你 待遇會有數千塊台幣 聯可自行聯絡腎臟內科秘書或私訊我 當天交通可自行前往或聯絡秘書共乘 \
+        目前有一名學弟幫忙了 後面還有需求會一一回覆已私訊我的學弟" },
+      { type: "link", content: "https://photos.app.goo.gl/nxiBbTS2Hrej5Y4Z6", label: "2023年12月25日 \
+        這個月mi2真的好苦 病人進出超快超多 病情各種多樣化 從外科到neu到hem到ria到met到cv到GI爆血到ARDS都可以遇到 \
+        procedure每個禮拜都可以複習到cvc double lumen lumbar puncture 困難a line連發 sono找不到a跟皮超腫的 沒有摸到pulse好幾個 也很多個 \
+        各種洗腎洗PE 各種意識不清找不到原因 本科病人可以從0800看到凌晨看不完 然後人力不足跟好幾次檢查 分好幾次胸水CSF" },
+      { type: "link", content: "https://photos.app.goo.gl/f8suKSkMsQa8NUox5", label: "2023年12月25日 真的很厲害 每天上班值班唯一的小確幸" },
+      { type: "link", content: "https://photos.app.goo.gl/AjDoRLtna7XKQJNA8", label: "2022年12月25日 \
+        大自然的愛心之眼 大自然的愛心 也太可愛 愛心之眼 聖誕節 也是一個感恩的節日 \
+        謝謝陪我走過許多困難的時候 雖然我常自我懷疑 為何身不由己的日子總是多過能喘口氣的日子 但正因為妳的包容 才能承受我內心的負面漩渦 \
+        超過五個年頭 說長也不長 但能安於打拼工作的日常 身為全靠彼此努力工作來支撐自己的我們也是不容易 \
+        這是我第一個發現的愛心之眼 在森林深處 被愛心型樹枝圍繞著 超級特別 今天我想表達感恩 也祝福各位朋友們 聖誕佳節愉快 平安健康" },
+      { type: "link", content: "https://photos.app.goo.gl/c7oXMiNTDeAJtvCj9", label: "2022年12月25日 \
+        今年的聖誕節 我們自己亂搞一通 當自創料理大廚 我負責當車手 洗碗跟巔峰賽爬分選手 \
+        我們買ezmeat的牛鴨羊排 costco的生食級干貝 carrefourtaiwan的紅酒 pxmart的一堆配菜跟調味 85cafe的奶茶 聽pezcrown_taiwan音響的聖誕歌 真是太好玩了" },
+      { type: "link", content: "https://photos.app.goo.gl/RATkgTfC7HJtFHEd9", label: "2021年12月25日 開始吃鍋 明天又要值班 這禮拜醒著的時候幾乎在醫院 神來一鍋精緻鴛鴦火鍋" },
+      { type: "link", content: "https://photos.app.goo.gl/3rV4BkMoHNtf49Ey6", label: "2021年12月25日 祝大家聖誕節快樂 12月是我目前為止最累的一個月 幾乎清醒的時候都在醫院工作 每天睡四個小時的生活大概四個月了 希望明年能有點時間更新作品" },
+      { type: "link", content: "https://photos.app.goo.gl/1fDQ6ikz8DRW14ba7", label: "2020年12月25日 來開一下眼界 有錢人真的很有錢 真的 只是二樓廚房在床旁邊超怪xd" },
+      { type: "link", content: "https://photos.app.goo.gl/WcsigQXAJYDrZisv6", label: "2020年12月25日 聖誕節隔天值班 跨年前後各一天都要值班的可憐人就是我啦 第一次水煮蛋 應該照字面意思直接丟進去水煮就好吧" },
+      { type: "link", content: "https://photos.app.goo.gl/2ck8ovJNvaLicPkq7", label: "2019年12月25日 聖誕快樂 畢業快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/uQgh1w5kp1CSdgPv6", label: "2018年12月25日 聖誕流星雨 預祝大家新年快樂 今年結束以前大概把舊照發光了 但也沒有新照片 真是新作品拍不進來 舊作品一直出去 粉專照片荒QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/cdmy3DXUoEXx98k78", label: "2017年12月25日 聖誕快樂 妳是我2017年最大的幸運 不管現在或未來 感謝妳 現在或即將XD 包容我很多 希望未來繼續努力 一起加油" }
+    ],
     "26": [],
     "27": [],
     "28": [],
