@@ -4187,6 +4187,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/NajCaFsRtSqwYxSY9", label: "2018年12月24日 Merry Christmas to my dear and all my friends:)" }
     ],
     "25": [
+      { type: "link", content: "https://photos.app.goo.gl/bDWpCUxSWinNuP247", label: "2025年12月25日 光是不願意三讀為軍人加薪 就根本足見不是真心愛台灣" },
       { type: "link", content: "https://photos.app.goo.gl/DPDqKTh1qRGYmyhV6", label: "2025年12月25日 說得對極了 不要去當勇者 每個人顧好自己就好 能跑就跑 但準備武器如果危及性命跑不了至少也能自救 謝謝台灣的法律給我們上一課" },
       { type: "link", content: "https://photos.app.goo.gl/PPKiFcLNaXLmSvJb7", label: "2025年12月25日 你可以不要住院啊 誰強迫你住院了" },
       { type: "link", content: "https://photos.app.goo.gl/VqZ3cDkvfQiA6oPy8", label: "2025年12月25日 好熱鬧的鐵板燒開場 充滿聖誕節的鐵板燒" },
@@ -4205,7 +4206,7 @@ const records = {
         謝謝陪我走過許多困難的時候 雖然我常自我懷疑 為何身不由己的日子總是多過能喘口氣的日子 但正因為妳的包容 才能承受我內心的負面漩渦 \
         超過五個年頭 說長也不長 但能安於打拼工作的日常 身為全靠彼此努力工作來支撐自己的我們也是不容易 \
         這是我第一個發現的愛心之眼 在森林深處 被愛心型樹枝圍繞著 超級特別 今天我想表達感恩 也祝福各位朋友們 聖誕佳節愉快 平安健康" },
-      { type: "link", content: "https://photos.app.goo.gl/c7oXMiNTDeAJtvCj9", label: "2022年12月25日 \
+      { type: "link", content: "https://photos.app.goo.gl/fQbBuWuokwvwUGDT6", label: "2022年12月25日 \
         今年的聖誕節 我們自己亂搞一通 當自創料理大廚 我負責當車手 洗碗跟巔峰賽爬分選手 \
         我們買ezmeat的牛鴨羊排 costco的生食級干貝 carrefourtaiwan的紅酒 pxmart的一堆配菜跟調味 85cafe的奶茶 聽pezcrown_taiwan音響的聖誕歌 真是太好玩了" },
       { type: "link", content: "https://photos.app.goo.gl/RATkgTfC7HJtFHEd9", label: "2021年12月25日 開始吃鍋 明天又要值班 這禮拜醒著的時候幾乎在醫院 神來一鍋精緻鴛鴦火鍋" },
@@ -4216,8 +4217,60 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/uQgh1w5kp1CSdgPv6", label: "2018年12月25日 聖誕流星雨 預祝大家新年快樂 今年結束以前大概把舊照發光了 但也沒有新照片 真是新作品拍不進來 舊作品一直出去 粉專照片荒QQ" },
       { type: "link", content: "https://photos.app.goo.gl/cdmy3DXUoEXx98k78", label: "2017年12月25日 聖誕快樂 妳是我2017年最大的幸運 不管現在或未來 感謝妳 現在或即將XD 包容我很多 希望未來繼續努力 一起加油" }
     ],
-    "26": [],
-    "27": [],
+    "26": [      
+      { type: "link", content: "https://photos.app.goo.gl/ZR5YwsajJFoHG7FJA", label: "2025年12月26日 芯向祖國沒錯啊 我們雖然都討厭民進黨 但我們祖國都是中華民國啊" },
+      { type: "link", content: "https://photos.app.goo.gl/6uWvNGc7ymiZzvud6", label: "2025年12月26日 全力支持 超讚的示範 身為父母親的人在小孩遇害後 司法無法給予正義時都應該這樣做" },
+      { type: "link", content: "https://photos.app.goo.gl/DQDZLuprY2GCb73t8", label: "2025年12月26日 我覺得他說歸說 能做到多少很難說 我滿討厭講的很漂亮但實際上做不到的人XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/BoYTVFr2aGZCk1au9", label: "2025年12月26日 30歲經歷風霜跟辛苦 終於下定決定全額貸款拿下Urus SE 的合照" },
+      { type: "link", content: "https://photos.app.goo.gl/bijnaLoYGNAdf2qW7", label: "2025年12月26日 雖然很貴但大推這間鐵板燒 表演很用心 料理很用心 和牛真的很好吃" },
+      { type: "link", content: "https://photos.app.goo.gl/6NRh5sGMj7mGF8Vj8", label: "2025年12月26日 3萬多台幣終身網路10TB划算嗎 算起來很多方案都是每年 2-3000元 聽起來終身方案10T好像不錯 可以存照片跟醫學檔案什麼的 想問問大家的經驗或有沒有終身方案的推薦 希望是不會倒閉的大公司" },
+      { type: "link", content: "https://photos.app.goo.gl/hN2EfNpfW3QqCquc8", label: "2025年12月26日 一個讓人很安心的值班夜" },
+      { type: "link", content: "https://photos.app.goo.gl/FHt4aNGKrRfCUg7J9", label: "2025年12月26日 太會拍了" },      
+      { type: "link", content: "https://photos.app.goo.gl/4P72sQuRtTkhsuYD7", label: "2025年12月26日 超好吃 好開心" },
+      { type: "link", content: "https://photos.app.goo.gl/QHX38qZ5gDwUYaDJ6", label: "2025年12月26日 平常應該留一個貓貓洞口讓他們逃生" },
+      { type: "link", content: "https://photos.app.goo.gl/KCUNdiD8Ak8vKogU9", label: "2025年12月26日 哈哈哈超紓壓 我一定跟他一起跳" },
+      { type: "link", content: "https://photos.app.goo.gl/SXE9hCqsoARnd255A", label: "2025年12月26日 屁啦跟我比較好 好" },
+      { type: "link", content: "https://photos.app.goo.gl/4f9f1xf8mBGR1XMa6", label: "2025年12月26日 贏了" },
+      { type: "link", content: "https://photos.app.goo.gl/YcdkDnBppcrCbVuv9", label: "2025年12月26日 真的欸" },
+      { type: "link", content: "https://photos.app.goo.gl/rMeiPTDCYDnUCpcJ8", label: "2022年12月26日 這個縫隙太剛好 大自然太神奇" },
+      { type: "link", content: "https://photos.app.goo.gl/iVK9MNHbYySJAtir7", label: "2021年12月26日 好猛 一拳超人的樂高 好想要" },
+      { type: "link", content: "https://photos.app.goo.gl/hxnAzVe2rq3MRhiQ8", label: "2021年12月26日 TRUE" },
+      { type: "link", content: "https://photos.app.goo.gl/pyLw3nvFXooAegUW8", label: "2020年12月26日 真是適合值班的好天氣" },
+      { type: "link", content: "https://photos.app.goo.gl/QQBagNeLkRVLJ1Gh8", label: "2020年12月26日 願股息能Cover我的365天" },
+      { type: "link", content: "https://photos.app.goo.gl/TVoi5j1DY6WYy5WZ6", label: "2017年12月26日 雖然平常認可他說的道理 但聽完他對柯P的評論 -毫無建設性毫無思考的發言 保證他當台北市長馬上換腦袋 這是我第一次不認同他 但看來不會只有一次 為了選舉 錫錕也開始作秀了zzzz" },
+      { type: "link", content: "https://photos.app.goo.gl/11nfTbkZMvcbssMw5", label: "2017年12月26日 不要因為被網友造神 就以為自己得道升天了 講話開始狂妄 繼續下去你會倒是遲早" },
+      { type: "link", content: "https://photos.app.goo.gl/RmSSAP2bF5e9tm6PA", label: "2017年12月26日 夜深了 已累 台中太美 可惜拍不完 嘗試新風格新尺寸我又撞牆期了 拍不好修不好請見諒" },
+      { type: "link", content: "https://photos.app.goo.gl/EckL4pgBmqUmCcma9", label: "2017年12月26日 謝謝學妹 我現在試試看" }
+    ],
+    "27": [
+      { type: "link", content: "https://photos.app.goo.gl/6Bf8fiGTG19AesgG8", label: "2025年12月27日 太巨了哈哈哈 好" },
+      { type: "link", content: "https://photos.app.goo.gl/zjfDtaMBeqAJuT2W7", label: "2025年12月27日 好看我也一直看ㄟ" },
+      { type: "link", content: "https://photos.app.goo.gl/kFez3Rz6waKkfvFm9", label: "2025年12月27日 真好看" },
+      { type: "link", content: "https://photos.app.goo.gl/8doSZTPJWAbrGxQd7", label: "2024年12月27日 你這個框框綠色的 顏色正確了 無罪啦沒事" },
+      { type: "link", content: "https://photos.app.goo.gl/CXucqXVEkMKMaX2L8", label: "2024年12月27日 台灣笑死 台灣是犧牲多少醫護來達成這個成就的啊 全世界的醫護都是被壓榨的 但台灣醫護被壓榨程度也可以算第一名了" },
+      { type: "link", content: "https://photos.app.goo.gl/16FeUZsfdYeDGwcn9", label: "2024年12月27日 又一個在唬爛的了" },
+      { type: "link", content: "https://photos.app.goo.gl/hGzjTQEZf1M1JXU36", label: "2024年12月27日 真的超可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/YrRfUqxmG69Xm7it7", label: "2024年12月27日 超噁" },
+      { type: "link", content: "https://photos.app.goo.gl/9MY2Lsn3TwfooKT49", label: "2024年12月27日 欸不是 玩都不給玩" },
+      { type: "link", content: "https://photos.app.goo.gl/zFnvmc1AVSVsyfTPA", label: "2024年12月27日 好可愛 但我買的聖誕樹 都還沒到" },
+      { type: "link", content: "https://photos.app.goo.gl/seDkjygbj72hFHUK7", label: "2024年12月27日 我會一起喝 開心" },
+      { type: "link", content: "https://photos.app.goo.gl/VmwvP16LgD97XHN67", label: "2024年12月27日 我也會這樣啊" },
+      { type: "link", content: "https://photos.app.goo.gl/uej1w3GZ1J5c56u37", label: "2024年12月27日 怎麼那麼可愛 都知道哪個比較讚 哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/zn1T5qC4S4x5jryQ7", label: "2024年12月27日 太美了 聖誕快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/ejYmddLCUFXZgDUk9", label: "2024年12月27日 哪會" },
+      { type: "link", content: "https://photos.app.goo.gl/puE6QpeGbDpDaUpr7", label: "2024年12月27日 可愛的沙啞" },
+      { type: "link", content: "https://photos.app.goo.gl/YGpreEQ5UnFyPS8c7", label: "2021年12月27日 能夠用這輩子 親自體驗登山的痛苦 並看到世界風景之美 感受當下的溫度及空氣 遠比賺多少錢更幸福 這也是我賺錢的理由之一" },
+      { type: "link", content: "https://photos.app.goo.gl/Fq6yMU2Y32idzjc4A", label: "2021年12月27日 羨慕的年終回顧 好多精彩照片" },
+      { type: "link", content: "https://photos.app.goo.gl/8YXT2HENxuwPx7jm6", label: "2021年12月27日 終於可以冬至快樂囉" },
+      { type: "link", content: "https://photos.app.goo.gl/558fHkEcwsKokyv46", label: "2018年12月27日 短暫的放風時間 除了手機以外什麼電子產品都沒有 只剩下讀書排解壓力了" },
+      { type: "link", content: "https://photos.app.goo.gl/qzmNEHS5bfHDkbq58", label: "2017年12月27日 \
+        Urban exploring 腦袋裡有一連串的煙火 接收太多攝影資訊的衝擊 千千萬萬的想法爆發而出 不論是更高層度的後製 或者有別以往的創意想法 \
+        靈感從底片到街拍到空拍到rooftop到人像光影魔術到風景銀河極光都滿到溢出 人脈技術靈感都有了 可惜 時間真的不夠 想法空轉卻無法立即付諸行動 \
+        我可能需要好幾年來慢慢琢磨 變形需要修正嗎 保留變形 甚至加重變形 會讓城市更加龐大 讓自己在照片裡的定位更微小" },
+      { type: "link", content: "https://photos.app.goo.gl/fMUJ65KEedkX26bM9", label: "2017年12月27日 鏡頭手術成功 保險不理賠 這是他壞掉的頸部檢體。" },
+      { type: "link", content: "https://photos.app.goo.gl/VMtYNxGYg6g68cs49", label: "2017年12月27日 修理相機店隔壁 煩悶只有暫時拋開熟悉的周遭 才能一個人慢慢消化" },
+      { type: "link", content: "https://photos.app.goo.gl/UMDfxA9DEyrf5E8v8", label: "2017年12月27日 金狗毛???!" }
+    ],
     "28": [],
     "29": [],
     "30": [],
