@@ -4243,6 +4243,9 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/EckL4pgBmqUmCcma9", label: "2017年12月26日 謝謝學妹 我現在試試看" }
     ],
     "27": [
+      { type: "link", content: "https://photos.app.goo.gl/EEw2eUgUk3Lb5h9w9", label: "2025年12月27日 神奇欸 我也學到了 但他的照片影片應該是ai" },
+      { type: "link", content: "https://photos.app.goo.gl/wgzwgx5No5Jyq8YK7", label: "2025年12月27日 難怪右邊的你很像我" },
+      { type: "link", content: "https://photos.app.goo.gl/tbYiSVEJeujU1Bjc9", label: "2025年12月27日 健身" },
       { type: "link", content: "https://photos.app.goo.gl/6Bf8fiGTG19AesgG8", label: "2025年12月27日 太巨了哈哈哈 好" },
       { type: "link", content: "https://photos.app.goo.gl/zjfDtaMBeqAJuT2W7", label: "2025年12月27日 好看我也一直看ㄟ" },
       { type: "link", content: "https://photos.app.goo.gl/kFez3Rz6waKkfvFm9", label: "2025年12月27日 真好看" },
@@ -4271,8 +4274,85 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/VMtYNxGYg6g68cs49", label: "2017年12月27日 修理相機店隔壁 煩悶只有暫時拋開熟悉的周遭 才能一個人慢慢消化" },
       { type: "link", content: "https://photos.app.goo.gl/UMDfxA9DEyrf5E8v8", label: "2017年12月27日 金狗毛???!" }
     ],
-    "28": [],
-    "29": [],
+    "28": [
+      { type: "link", content: "https://photos.app.goo.gl/ZdYT9hN6muN7XZCz7", label: "2025年12月28日 以前最害怕理學檢查 如果沒有老師有空好好說明 看書根本看不懂這些機車的心音怎麼來的 有AI之後 能夠好好的說明為何產生心音真的很棒 AI是第四波人類的工業革命" },
+      { type: "link", content: "https://photos.app.goo.gl/tvyhkJ2dRenHDzr19", label: "2025年12月28日 完全看不出來蔡醫師的想法有什麼錯欸呵呵" },
+      { type: "link", content: "https://photos.app.goo.gl/JFmzPBVJWukTCFWF7", label: "2025年12月28日 \
+        從Lexus看台灣風景 這次接到了Lexus公司雜誌的邀約試乘 由我來當駕駛跟攝影真的太有趣了 雖然不能跟一樣拍跑車 \
+        但我本身是很喜歡休旅車的人 剛好被分配到RX500h 龐大的車身搭配寬廣的車內空間 原本以為會很笨重 \
+        但踩油門下發現啟動速度很快 行駛平穩又輕盈 要不是錢不夠不然真的想換車了 開著他繞去台中很多的景點 \
+        還意外解鎖幾個很厲害的貨櫃屋拍點 收穫滿滿 分享幾張我蠻喜歡的照片 也很感謝lexus_taiwan的肯定" },
+      { type: "link", content: "https://photos.app.goo.gl/suu7ZRjWJRHSE4XG9", label: "2025年12月28日 已經那麼厲害ㄌ" },
+      { type: "link", content: "https://photos.app.goo.gl/pKv3zZ9DZHnwyJ1M8", label: "2025年12月28日 先知...." },
+      { type: "link", content: "https://photos.app.goo.gl/8Ghuqy3tHRhf2D5x9", label: "2025年12月28日 你也很厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/NnNUt6qPKycY7dtz8", label: "2024年12月28日 保健食品是什麼垃圾東西能跟降血脂藥物比較 別搞笑了 實證唯一吃降血脂藥物 傻子才吃保健食品 當韭菜還傷害健康" },
+      { type: "link", content: "https://photos.app.goo.gl/NiGHShMfNNQkoD7n6", label: "2023年12月28日 \
+        主旨 病歷獎金系統能否饒過可憐住院醫師 \
+        反映意見 內科住院醫師薪水相對外院住院醫師少很多 病歷獎金是少數彌補來源 但好不容易周末可以放兩天假 週六出院的病人 \
+        若週日沒有結案就就沒有獎金 我週日沒上班 難道要回醫院補初院結案病歷嗎 \
+        請問工程師能不能設定成超過兩日以上的病歷 本科上班日第一天結案能算數啊 你設定成24小時內那我們連假好不容易可以陪家人 \
+        卻還要回來醫院趕著24小時結案 搞醫師嗎 想害我家破人亡 婚姻失和嗎 可否人性化 別逼死我" },
+      { type: "link", content: "https://photos.app.goo.gl/GiqaqLNiNv3X4FFr6", label: "2023年12月28日 \
+        垃圾國軍 憑什麼規定國軍人員出國要旅行社正本公文 憑什麼強迫我們跟團 國防部跟旅行社官商勾結 \
+        正事不做 專門搞基層 看了真的很生氣 政府真的很棒 原本就已經夠痛恨這個體制 現在只是更失望 當軍人欠這個國家沒底線是不是啊" },
+      { type: "link", content: "https://photos.app.goo.gl/AoZ9BF6QxLGRELuR6", label: "2023年12月28日 \
+        除非畢業即失業 沒有任何專長也沒有祖產爸媽養 否則真的努力一點 不要去從軍 \
+        從砍年金開始 到賠款3610萬 到強迫退宿 到現在弄到你出國一堆手續還要強迫旅行社正本 \
+        國軍會從生活大小事去擊垮你 用盡全力讓你共體時艱 所有的好處都是福利 都是你欠的 沒有進去的千萬別來 \
+        弄我出國就是我的底線 我就具名告訴大家 國軍這種調性 薪水也沒很高 也沒在尊重你的 這我忍不了" },
+      { type: "link", content: "https://photos.app.goo.gl/6gQVHguPa7QQzdJt6", label: "2023年12月28日 \
+        最近被殺害的國中生 是因為他詢問圖中這位非同班的學生為何在教室 結果這位89妹就叫另一位男同學幫他出氣 \
+        那位同學因此殺了當事人 原來間接殺了一個人先擔心的是零用錢被斷 實在震驚的價值觀 不說我以為在拍戲" },
+      { type: "link", content: "https://photos.app.goo.gl/YXVFDgbtGX3pDUzNA", label: "2022年12月28日 離開國軍的人生是彩色 好羡慕QAQ" },
+      { type: "link", content: "https://photos.app.goo.gl/vaHFiArPYmEurwtY9", label: "2021年12月28日 謝謝大家支持我們的桌曆 還可以買唷 在我的首頁連結 我們也捐助一點錢給狗狗貓貓等流浪動物們" },
+      { type: "link", content: "https://photos.app.goo.gl/eYEUsUenkuA6o4Yy9", label: "2020年12月28日 \
+        放眼全台灣的醫學中心 除了三軍總醫院敢叫內科住院醫師 不準pm 也沒人力cover以外 還有其他醫院敢這樣對待內科住院醫師嗎 \
+        沒有要批評 認真想知道在這個day off趨勢的時代 還有哪個醫院能獨有這種爛風氣 謝謝:)" },
+      { type: "link", content: "https://photos.app.goo.gl/APE9bSbzFnfA5zHYA", label: "2020年12月28日 這個時間才下班 感覺過一下又明天上班了" },
+      { type: "link", content: "https://photos.app.goo.gl/W1HeRtebvygUUz637", label: "2018年12月28日 孝死XDDDDDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/ffsanYEdHtZ1aMsZA", label: "2017年12月28日 \
+        Blue Hour was coming Taipei 101 攝影的主觀性很強 所以必須把目標定位在國際神人的最高標準 不斷審視自己與別人的作品 \
+        正因為目標太過困難 雖然一輩子達不到 卻也一輩子都在精進 滿足於自己 不願意交流 不願意否定自己 那麼藝術只淪為討讚跟取暖 如同讚多與作品水準無關一樣" }
+    ],
+    "29": [
+      { type: "link", content: "https://photos.app.goo.gl/dfPiRnSj5Mkcd6UGA", label: "2025年12月29日 我又不是台獨" },
+      { type: "link", content: "https://photos.app.goo.gl/U6AdpecEfykePbxt6", label: "2025年12月29日 \
+        台獨是會走上街頭 到處跟別人講我是台獨的怪胎 我不是台獨 是因為我認為台灣本來就獨立不用到處宣傳 也不需要討論 \
+        這是完全不同的 如果仔細觀察政治群眾 會有那一小部分的人做很怪的事情 例如硬要把護照換成台灣國害自己被海關滯留 \
+        硬要在生活中強調什麼用詞是支語 任何意外都要懷疑第五縱隊 符合這些特徵才叫台獨 \
+        正常人都應該是知道自己是台灣人 國籍是中華民國 這種事不需要爭論也不用特別說出來 所以我不是台獨" },
+      { type: "link", content: "https://photos.app.goo.gl/QSyfQuchBqGxQpi26", label: "2025年12月29日 四天菲律賓 五天泰國 每年沒有出國六次以上都不能稱為有生活品質" },
+      { type: "link", content: "https://photos.app.goo.gl/nNzjfbX35DAtSWse9", label: "2025年12月29日 照片被taiwanyahoonews分享" },
+      { type: "link", content: "https://photos.app.goo.gl/QXvSynf1K9LNdZ7d7", label: "2025年12月29日 是說新聞小編分享的這幾個地點 應該是為了發而發 因為這些早就不是私房景點 去年這些點也都要提早幾個小時就開始卡位了 現在要拍完美的101煙火 只能在信義區買一棟視野廣闊高度夠高的大樓了" },
+      { type: "link", content: "https://photos.app.goo.gl/i9U26quy1SLvyxcW9", label: "2024年12月29日 怎麼沒有穿綠色衣服" },
+      { type: "link", content: "https://photos.app.goo.gl/fGwzZfiSSbX5Mfxu7", label: "2024年12月29日 背後靈堅持要入鏡" },
+      { type: "link", content: "https://photos.app.goo.gl/7nRWNLqtoLxhF4br7", label: "2023年12月29日 反映意見 問題編號112111506跟問題編號112111505何時回覆" },
+      { type: "link", content: "https://photos.app.goo.gl/NiHMJuGfrgV73ZHK6", label: "2022年12月29日 痛苦的一晚 完全沒睡" },
+      { type: "link", content: "https://photos.app.goo.gl/ayVEn2Tp7n1dNY4Q6", label: "2022年12月29日 應該都不是 感覺是缺氧" },
+      { type: "link", content: "https://photos.app.goo.gl/V4rsquFS7vjjD4pv8", label: "2022年12月29日 去年拍的照片 被高雄市政府拿來用了" },
+      { type: "link", content: "https://photos.app.goo.gl/BeXNmQXPBPzo24Q57", label: "2021年12月29日 \
+        大過年回來台灣的這群XX到底在想什麼 平常在國外吃好住好過的開開心心 每年過年回台灣續用健保資格 \
+        繳那個少到不行又完全不會到醫護身上的費用 帶著開心的新冠病毒 讓我們一線醫護必須無薪加班 多了好幾班值班 我們就不是人嗎 \
+        醫護人員不能出國 醫師更沒有放假排休的權利 也換不到等價的薪水 只能說需要人力就拼命加值班到我們身上 \
+        看著科技業爆肝換來爆多的年終 看著各行各業要求勞工應有的加班費用及休假 再回頭看看我們醫護 真的非常諷刺" },
+      { type: "link", content: "https://photos.app.goo.gl/7fACkoacBmdfAH3c7", label: "2020年12月29日 \
+        類固醇可以殺血癌 請問機轉是什麼 真的差不到 求內科高手指點 \
+        我找到一篇2002指出類固醇利用細胞凋亡機制殺死某些血癌 但我有疑問 為何只會殺死血癌不會殺死正常細胞 為何癌症只有某些血癌有效 \
+        樓上好像有道理 所以跟細胞凋亡無關對嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/uiK5Yae4vvVjWdYA7", label: "2020年12月29日 遠遠這坨 是整個台北大雲海中 陽明山上可以看到 寒流來之前很容易有這美景 現在在台北的你各位都在雲海中 可惜沒那個拍照命" },
+      { type: "link", content: "https://photos.app.goo.gl/qQQQF6yiG3mhUy8VA", label: "2020年12月29日 出現了 是目前世界上最貴最強的馬拉松跑鞋 Nike Alphafly" },
+      { type: "link", content: "https://photos.app.goo.gl/GDk8ASVezTSX2RPh9", label: "2020年12月29日 \
+        上面是今天 一開始就盡量hold住 龜一點不要衝 沒有掉速平穩跑完 下面是12/23跑 壞習慣 一開始就順著感覺加速 \
+        結果中間沒力掉速 結果證明長跑還是穩定配速最快 龜一點不要太衝 七字口訣適用在長距離跑" },
+      { type: "link", content: "https://photos.app.goo.gl/k1qPcFqH4TWXYi7n7", label: "2020年12月29日 每次送我東西都一臉氣噗噗 到底 不過真皮識別證真的太猛 還有刻字" },
+      { type: "link", content: "https://photos.app.goo.gl/35XyAYYx76Zw7JNNA", label: "2018年12月29日 \
+        富士山銀河下的獨白 今年最後一張作品 也希望是最後一張三年前的作品 \
+        2018是我重要的一年 出社會踏入職場 對於自己的工作與未來規劃負責 再也不是嘴巴掛著夢想而已 但這並不代表變成了無聊的大人 而是更了解人生的變化與責任的沈重 當然也是為了更遠大的夢想而努力 \
+        2018也遇到很多重要的人 甚至是職場上每個人的言行 都讓我反思 變成警惕或榜樣 \
+        2018的最後 也要感謝將陪我一起度過 對我來說感情就是小小的犧牲換來彼此的幸福 男人的肩膀就該擔起應該的責任 讓自己有能力照顧別人 說的出口做得到 \
+        夢想與虛言是養不活任何人的 只有吃得苦捨得放下自我 才能成就兩個人的世界 \
+        2018是充滿荊棘的一年 未來也將更不輕鬆 不要空口說白話 而是扎扎實實的培養自己 與大家共勉 先預祝大家新年快樂 工作順利 身體健康 發大財" }
+    ],
     "30": [],
     "31": []
   }
