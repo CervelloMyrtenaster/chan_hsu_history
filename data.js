@@ -4324,6 +4324,12 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/QSyfQuchBqGxQpi26", label: "2025年12月29日 四天菲律賓 五天泰國 每年沒有出國六次以上都不能稱為有生活品質" },
       { type: "link", content: "https://photos.app.goo.gl/nNzjfbX35DAtSWse9", label: "2025年12月29日 照片被taiwanyahoonews分享" },
       { type: "link", content: "https://photos.app.goo.gl/QXvSynf1K9LNdZ7d7", label: "2025年12月29日 是說新聞小編分享的這幾個地點 應該是為了發而發 因為這些早就不是私房景點 去年這些點也都要提早幾個小時就開始卡位了 現在要拍完美的101煙火 只能在信義區買一棟視野廣闊高度夠高的大樓了" },
+      { type: "link", content: "https://photos.app.goo.gl/GvDN6dZgFFkgX479A", label: "2025年12月29日 他跟我小時候完全一樣都很愛拿槍 該簽下去了" },
+      { type: "link", content: "https://photos.app.goo.gl/6NL6VzDn4VLtbtuF9", label: "2025年12月29日 雖然成績很爛 但也只有提供攝影作品的機會才有小獎狀" },
+      { type: "link", content: "https://photos.app.goo.gl/Hi6FHWtMozPZo72HA", label: "2025年12月29日 筆記筆記 幫你買" },
+      { type: "link", content: "https://photos.app.goo.gl/yVWqUUhsfrGMWkWy7", label: "2025年12月29日 為什麼他們的韓國比較好玩" },
+      { type: "link", content: "https://photos.app.goo.gl/3Lc9J67mS1gesNRb7", label: "2025年12月29日 好可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/ZR4ThcuKuFcMkLCY7", label: "2025年12月29日 載妳去嚕" },
       { type: "link", content: "https://photos.app.goo.gl/i9U26quy1SLvyxcW9", label: "2024年12月29日 怎麼沒有穿綠色衣服" },
       { type: "link", content: "https://photos.app.goo.gl/fGwzZfiSSbX5Mfxu7", label: "2024年12月29日 背後靈堅持要入鏡" },
       { type: "link", content: "https://photos.app.goo.gl/7nRWNLqtoLxhF4br7", label: "2023年12月29日 反映意見 問題編號112111506跟問題編號112111505何時回覆" },
@@ -4353,7 +4359,42 @@ const records = {
         夢想與虛言是養不活任何人的 只有吃得苦捨得放下自我 才能成就兩個人的世界 \
         2018是充滿荊棘的一年 未來也將更不輕鬆 不要空口說白話 而是扎扎實實的培養自己 與大家共勉 先預祝大家新年快樂 工作順利 身體健康 發大財" }
     ],
-    "30": [],
+    "30": [
+      { type: "link", content: "https://photos.app.goo.gl/dQKgfkkY4u2W7cBF6", label: "2025年12月30日 \
+        這幾天很紅的視角 剛好跟全世界介紹 這是台灣 謝謝 \
+        這是台灣 這幾天碧山巖的景色紅了 紅到兩岸的人民都看見了 身為攝影師的我們 一看就知道這是我們的國家 台灣的碧山巖景色 新聞連結底下 很多攝影朋友第一時間也指出這是碧山巖的視角 \
+        實際上我們也常接觸空拍 那樣的畫質跟視角高度 大機率就不可能是對岸的空拍機飛過來 先不論這幾天的風速 氣溫跟可見度 以這個拍攝高度能看到的構圖 就能知道那畫面是抄來的 \
+        現今大疆Mavic 4pro的長焦越來越強大 但那個焦段也根本不可能從近海拍得到 我是沒有特定政治立場的人 我認為現在政府是誰執政就應該檢討誰 但我們都是台灣人民 \
+        台灣是唯一的國家 唯一的根 雖然政府做的不好但終究那還是台灣的政權 面對對岸的武力逼迫跟這個造假的畫面 要保持腦袋清楚 最重要的 是支持國軍 鼓勵國軍 \
+        執政黨做的再差我們都能再下一次政黨輪替 但被統治了那就再別民主了 我不討厭大陸同胞 但對於想要以武力侵犯別人的政權深覺噁心 \
+        如果有這種企圖我們就應當讓他們付出代價 所謂正義使命 用的是虛偽的名稱來掩飾內心邪惡的企圖 減少罪惡感罷了 這很華人心態 我們都懂 台灣挺住 國軍加油" },
+      { type: "link", content: "https://photos.app.goo.gl/8QanDpTZ3RBLopWB9", label: "2025年12月30日 這就是台灣軍人的悲哀 這種要打仗的國家 志願役沒有一個月十萬起跳真的是國家對不起軍人" },
+      { type: "link", content: "https://photos.app.goo.gl/nAbzPwkpDTH5Qcuv6", label: "2025年12月30日 那給在打仗時要付死的志願役加薪呢 還是加一咪咪也是加" },
+      { type: "link", content: "https://photos.app.goo.gl/Jr96CS4z3rHAoWT76", label: "2025年12月30日 認真說 媒體跟民眾現在拍完直接在網路曝光國軍部署的都是智障" },
+      { type: "link", content: "https://photos.app.goo.gl/5uPhW1w1x7PfxeDs8", label: "2025年12月30日 沒錯 大部分我都認同的 很多人都說等功成名就再來享受 根本大錯特錯 等等到了功成名就你也只剩下上車睡覺下車尿尿的年紀" },
+      { type: "link", content: "https://photos.app.goo.gl/2j1eVz6Th5mZ9yj66", label: "2025年12月30日 可惜我們沒辦法玩這個 因為我都直接不理這種訊息" },
+      { type: "link", content: "https://photos.app.goo.gl/vZhCkS7xJvmgWoc67", label: "2025年12月30日 但我原本就有一點底子 像是煮荷包蛋我本身就會了" },
+      { type: "link", content: "https://photos.app.goo.gl/swniGCHGv9VPnx2DA", label: "2025年12月30日 台北的夕陽" },
+      { type: "link", content: "https://photos.app.goo.gl/sMKUPrBrJdPeCzxa6", label: "2025年12月30日 這也太可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/GmQPhBG9WD5vQu7Q7", label: "2024年12月30日 \
+        雖然我非常討厭現在衛福部剝削醫師的健保制度 但堅決反對老福法我是一萬%認同 政府實際上並沒有足夠的經費支撐 若該法通過 \
+        不只讓醫護原本已經很少的薪水下降 更會排擠原本已經不夠的健保支出 支持該法的政治人物 都是無知且愚蠢的 \
+        會害慘未來我們健康的 身為醫療人員 我希望這個惡法不要通過" },
+      { type: "link", content: "https://photos.app.goo.gl/DFFTSYxJEgy4SrNd9", label: "2024年12月30日 哈哈哈哈對啊" },
+      { type: "link", content: "https://photos.app.goo.gl/THFnUDaVyo1pM3Tm7", label: "2024年12月30日 學長太強了" },
+      { type: "link", content: "https://photos.app.goo.gl/tN6rJZjjWpqF477k8", label: "2024年12月30日 以德服人 德是指身上的蛋白質總量" },
+      { type: "link", content: "https://photos.app.goo.gl/f9fE8Hy71KaZUwQy7", label: "2024年12月30日 哈哈哈好可愛 摸別人頭才有的吃" },
+      { type: "link", content: "https://photos.app.goo.gl/N8WwZYGVEB6BQQNz8", label: "2024年12月30日 這小孩是天才 絕對是天才" },
+      { type: "link", content: "https://photos.app.goo.gl/m1vjDu45J854se8U6", label: "2023年12月30日 昨天在台北發現超讚攝影的角度" },
+      { type: "link", content: "https://photos.app.goo.gl/hdvdbkR8LwS5g6i5A", label: "2022年12月30日 照片被高雄市政府拿來用了" },
+      { type: "link", content: "https://photos.app.goo.gl/eBE2aCKfEY51whXT6", label: "2021年12月30日 京東燒肉專門店 松江 歲末吃大餐任務完成" },
+      { type: "link", content: "https://photos.app.goo.gl/KoH5v7CeZwYtmes17", label: "2018年12月30日 \
+        我自己的拍攝經驗 覺得能分享給大家 你去外面旅館的時候 浴帽一定要拿 如果小雨的情況 真的非常輕便好用 直接套在相機上就好 \
+        拍攝煙火就腳架 快門線 M或B模式 小光圈 查好煙火大小跟拍攝位置 曝一張地景先 拍的時候一定別被撞到" },
+      { type: "link", content: "https://photos.app.goo.gl/xfnSdsGdaocdxLNt7", label: "2018年12月30日 謝謝長官的好心 連續上了半個月的班終於能放假啦" },
+      { type: "link", content: "https://photos.app.goo.gl/ia9m4pRzFVLtma3y6", label: "2018年12月30日 約東出口碰面但要到西出口找 正常 板橋車站" },
+      { type: "link", content: "https://photos.app.goo.gl/Yp4KkodBM5HoZMYBA", label: "2018年12月30日 結果我自己還沒看過 在市政府站的地下道唷" }
+    ],
     "31": []
   }
 
