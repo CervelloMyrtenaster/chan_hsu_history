@@ -3,11 +3,75 @@ const records = {
   
   "1": {
     "1": [
+      { type: "link", content: "https://photos.app.goo.gl/wAQKtW49pm8zX6zx5", label: "2026年1月1日 \
+        2026新年快樂 祝大家 新年快樂 每一年台北幾乎都在風雨中度過跨年 這也跟每一年生活在台北的體驗一樣 幾乎都是在疲累跟風雨中努力著 \
+        去年2024/12/31是近幾年唯一無風雨乾淨的跨年夜 幸好當時有跟一起拍攝 不管在何處的台北漂泊 社會的大小角落裡都有人努力的生活 \
+        新的一年 這些努力都會有所收穫 除了祝福各位更加順利 也希望社會上更加平安" },
+      { type: "link", content: "https://photos.app.goo.gl/HVCihQN1BX8BwVk99", label: "2025年1月1日 \
+        新年快樂 今年101的煙火太猛了 今年101的煙火太狠了 天氣到位 煙火時間也到位 很讚XDDD \
+        2025新年快樂 回頭看看前幾年的跨年 今天台北的天氣可以給他90分了 第一次沒有大量低雲跟雨霧的台北 實在太棒了 \
+        祝福大家新的一年也能繼續加油 繼續成長 新年快樂 粉絲及朋友們都萬事平安順利" },
+      { type: "link", content: "https://photos.app.goo.gl/fMg213hTvxGXSNfP7", label: "2025年1月1日 \
+        2024年的最後一天 差點因為交管沒有趕上臨時約成的拍點 多虧臨機一動我們轉成Ubike 解鎖了我第一次在台北騎ubike \
+        第一次騎著ubike跨越整個信義精華地段 一路上我們跟兩津送貨飆車一樣XD 也很開心一起度過了這個跨年 \
+        這個跨年是近年天氣最好的一次 煙火也是最漂亮的一次 最後久違的準備解散1/1準時上班 得來睡了 真的好累啊" },
+      { type: "link", content: "https://photos.app.goo.gl/bmK81tHzcfLJ8eYZ7", label: "2025年1月1日 \
+        2025台北101跨年煙火 今年的跨年煙火 101實在表現得太好了 沒有下雨跟霧霾的天氣也來神助攻 煙火時間跟豐富度都很足夠 \
+        2024是充滿挫折 但完成許多人生重要里程碑的一年 誠心地感謝幫助我的同學跟學長姐 若沒有得到大量的包容跟幫忙 我肯定是一事無成 \
+        相信2025年我也會充滿挫折 但一定要繼續堅持住 最後選了一張比較少被PO到的煙火型態 昨晚速修完 把文章先打好了 祝大家新年快樂 事事如意" },
+      { type: "link", content: "https://photos.app.goo.gl/hQuvatZSuGZdVV21A", label: "2025年1月1日 越來越進步 反觀我" },
+      { type: "link", content: "https://photos.app.goo.gl/R2bnJDxzcunivGv97", label: "2025年1月1日 幫推一下自家的蜂蜜爆米花跟禮盒 我試吃過後就直接訂了 好吃又適合送禮 可以直接私訊他 應該可以比較優惠哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/SP8oTPG5FDu6RctJ8", label: "2025年1月1日 就說不要喝酒" },
+      { type: "link", content: "https://photos.app.goo.gl/rKUBBqRzuKZFdWpq5", label: "2025年1月1日 好看" },
+      { type: "link", content: "https://photos.app.goo.gl/t3QfkPve33TGYW3T9", label: "2025年1月1日 我以後一定要搭一次回到過去的班機" },
+      { type: "link", content: "https://photos.app.goo.gl/vVBk3FRToas5jbv59", label: "2025年1月1日 哈哈哈哈還有我咧" },
+      { type: "link", content: "https://photos.app.goo.gl/Fn1SgZzSEwEUUr5U8", label: "2025年1月1日 真好玩" },
+      { type: "link", content: "https://photos.app.goo.gl/h4i96YNJghRGa5ZJ8", label: "2025年1月1日 這個比台中更瘋哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/43ssBmS5Wswgr4Mm8", label: "2025年1月1日 好羨慕 他們的煙火比較好玩" },
+      { type: "link", content: "https://photos.app.goo.gl/RvARy6CSq4SeJHGu6", label: "2025年1月1日 太厲害了" },
+      { type: "link", content: "https://photos.app.goo.gl/twukYFGjE2HVfqX76", label: "2024年1月1日 \
+        2024第一小時 就遇到人生第一次爆胎 快十次101跨年煙火 今天是第一次坐捷運回家 \
+        非常誇張的是跨年散場 所有周邊捷運站都要排隊進場 進場刷卡後 要排隊上捷運 然後每廂捷運都滿滿人上不了 \
+        想要叫車 完全叫不到 路上計程車不是滿座就是空車要去載人 根本也無法叫車 跨年沒有自己的交通工具有夠瞎的" },
+      { type: "link", content: "https://photos.app.goo.gl/KfrGYK7S6qgnNGjo9", label: "2024年1月1日 看起來是有點慘XDD 不管了新年快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/Xo3aeUbvuKMe2udg9", label: "2024年1月1日 2024第一天從人生第一次爆胎開始" },
+      { type: "link", content: "https://photos.app.goo.gl/NPKURnHBG4wWB6VMA", label: "2024年1月1日 影片比我照片成功哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/kjVzwmycGmigzjQn9", label: "2024年1月1日 1/1機車爆胎附近機車行全部沒開到底怎麼辦" },
+      { type: "link", content: "https://photos.app.goo.gl/vS8VQv8yV96UDNu18", label: "2024年1月1日 昨天信義區爆胎 沒有經驗 今晚才想到趕快叫道路救援 因為店家都沒開 平日根本沒空處理 因為道路救援費用也很嚇人 一次噴3500塊 希望新年第一天所有雖事就到此 拜託老天讓我幸運一點" },
+      { type: "link", content: "https://photos.app.goo.gl/tYoKQMM46vXzAnnj9", label: "2024年1月1日 \
+        2024跨年煙火 要的越多 得到的就越少 這是2023年的體驗 \
+        坦白說去年狀況並不好 工作跟健康都不是很順利 用盡了力氣去達成平衡 這些挑戰並不會在2024結束 \
+        我相信各位也是一樣 多數的生活都是非常不容易 因此不要去過度追求 例如別人的眼光 社會的地位 感情的強求及金錢的渴望等等 \
+        珍惜身邊能走在一起的人 別為了別人犧牲自己的夢想才是真理 2023的結束 感謝有陪伴 還有在最後幾小時一起度過的 \
+        2024的開始 雖然就碰到爆胎 但相信這是擋了煞 能在今年通過考試 並維持生活的平衡 \
+        PS這個點沒有想象中好拍 主要是位於下風處 第一張以後基本上都看不到101本體了" },
+      { type: "link", content: "https://photos.app.goo.gl/g1fSd1Aqw532diqS9", label: "2023年1月1日 2023新年快樂 新的一年將以值班開啟 希望2023疫情退散 戰爭退散 熊市退散 也希望自己更堅強 挺過這個階段 找攝影與工作的平衡 盡力了這兩年台北101煙火都是霧QAQ" },
+      { type: "link", content: "https://photos.app.goo.gl/Yjnomzgw6bXbemWR6", label: "2023年1月1日 超克難倒數" },
+      { type: "link", content: "https://photos.app.goo.gl/BLf8jBQSM4K72MQy9", label: "2023年1月1日 2023新年快樂 第二次在雨中近距離拍101煙火 距離上次拍陶朱隱園煙火已經三年了 明天依然有整天值班等我 先來睡了 大家新年快樂 新的一年 疫情退散 戰爭退散" },
+      { type: "link", content: "https://photos.app.goo.gl/rPF1YmQ2LU8tQsKu9", label: "2022年1月1日 今年煙火什麼意思" },
+      { type: "link", content: "https://photos.app.goo.gl/kDWR2aqZgtpzSL7u6", label: "2022年1月1日 今年好像在路邊拍的煙火比卡位好太多" },
+      { type: "link", content: "https://photos.app.goo.gl/4uN6JcSndVHRV2uMA", label: "2022年1月1日 \
+        今年拍到的煙火太慘了 不過還是要祝大家新年快樂 \
+        2022新年快樂 生活分享No.8 2022年的第一件事 居然是猶豫很久到底要不要發101煙火 但今年實在太慘不忍睹 請見第二張不忍直視XD \
+        只好放上正常版的101 祝福大家新年事事順利 工作跟健康都能步上軌道 股市也能蒸蒸日上 突破兩萬點" },
+      { type: "link", content: "https://photos.app.goo.gl/BbVNruPcjThH7F19A", label: "2021年1月1日 新年快樂 2021好運旺旺來" },
+      { type: "link", content: "https://photos.app.goo.gl/ar5TPAA3Us6i5btP8", label: "2020年1月1日 新年快樂 標註一下照片拍攝者會比較好xd" },
+      { type: "link", content: "https://photos.app.goo.gl/BjfBG3V3EjTvEaR58", label: "2020年1月1日 新年快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/a8kR9rBqucQnmdcE8", label: "2019年1月1日 新年快樂 謝謝陪我一起倒數還幫我撐傘 豪港動" },
+      { type: "link", content: "https://photos.app.goo.gl/r8etMYTwbArMPWHf7", label: "2019年1月1日 新年快樂ㄛ 今年想用馬桶刷假扮101的朋友要失敗囉" },
+      { type: "link", content: "https://photos.app.goo.gl/VWjqeSaP49yVUWTn8", label: "2019年1月1日 今年二創的作品看來不會太成功 不過我得後天才有電腦修 希望有還能看的結果哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/RiQYcWCZKuSSt1RW7", label: "2019年1月1日 新年第一餐 大師兄銷魂麵舖忠孝店 女神最愛的辣味 我快不行了" },
       { type: "link", content: "https://photos.app.goo.gl/LDhToHb7f5jmSCG76", label: "2018年1月1日 \
         不好意思忘記跟你們 說我爸媽禮拜六臨時要來台北 所以我還去取消南下高鐵 造成你們觀感不佳 非常抱歉 \
         我不會也不敢想凹你們 三天連假我值兩天也沒關係 真的不是故意搞你們 \
         不是 我這禮拜是真的原本要回家 不是騙你啊 爸媽說要上來 改行程啊 \
         我今天盡量提早回去 五點半以前應該沒問題 拍謝啦 三天連假我幾乎值兩天 留一天過年應該不過分吧" },
+      { type: "link", content: "https://photos.app.goo.gl/8aVmrdCi7jT5LF33A", label: "2018年1月1日 現場拍現場修 果然工作效率一流" },
+      { type: "link", content: "https://photos.app.goo.gl/98AazjqSD2nkz7UF7", label: "2018年1月1日 局部美到翻 敬請期待1/1相機出圖" },
+      { type: "link", content: "https://photos.app.goo.gl/1qoMgXnrLpK1V1qX6", label: "2018年1月1日 \
+        新年快樂 Five fireworks of Taipei 101 煙火五連發gotcha 感謝臨時揪成團的各位 不嫌棄我講話老是亂扯 又有一堆奇怪的攝影想法 \
+        一起完成去年就想完成的構圖 意外發現今年多很多拍局部的煙火 明年來完成福田氏煙火如何 有人也想一起喇賽聊天等煙火嗎 \
+        網頁銳利方法很猛 各位很明顯發現這次照片特別銳利 想變強的各位可以去報名他的後製課程" },      
       { type: "link", content: "https://photos.app.goo.gl/RTELjgbrZ2q4LUvBA", label: "2017年1月1日 \
         這個跨年自己一個人過掉了 2016的上半年過得很美好 兩次一生難忘的海外旅行 與我最好的朋友和曾經至愛的人 \
         2016的下半年過得行屍走肉 進入臨床實習的轟炸 面對學業與人際溝通的考驗 上天安排了每個月給我跟最辛苦的主治醫生 \
@@ -4413,6 +4477,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/vHQ4rZWmHpRXCJpN7", label: "2025年12月31日 謝謝 新年快樂" },
       { type: "link", content: "https://photos.app.goo.gl/v9maaFoh3WzuU4mM8", label: "2025年12月31日 讚的啦 超跑超厲害" },
       { type: "link", content: "https://photos.app.goo.gl/rFH1gA8LQoUonAbJ8", label: "2025年12月31日 破脆爛脆 氣氣氣氣氣" },
+      { type: "link", content: "https://photos.app.goo.gl/wtRL1Biq9f1kXexAA", label: "2025年12月31日 靠杯了啦" },
       { type: "link", content: "https://photos.app.goo.gl/DDD5FVpHskmDXowB9", label: "2024年12月31日 \
         我覺得唯一的bug只有男主如果要拯救所有人 在第三場遊戲結束後 當時剩下100人 表明自己有剩下 推估劇中鈔票畫面$約快300億韓元 \
         只要投票X的人 他都無條件資助還款即可 可惜他沒這麼做 現實中如果有個真正覺得這些錢不是他的 而想用這些錢拯救大家的人都應該會嘗試提出這個想法 來拉攏選的那方 \
@@ -4452,6 +4517,7 @@ const records = {
         清潔組的棉棒能吸乾縫隙進水 衛生棉則能有強力吸水作用 我會用在電池槽等重要部位 輕便 很好壓縮收藏 使用一次即丟不佔空間 \
         除了清理相撞 在外若需要也可自用 雖然有點寒酸 但實在非常方便而且多功能 零成本又不會浪費 畢竟很多人去飯店也不會用這些附贈品" },
       { type: "link", content: "https://photos.app.goo.gl/GEHmYVYksiBNVZR89", label: "2017年12月31日 但是31有事情 恩恩問一下總醫生31我們都不行怎麼辦 不再台北@@ 家裏有事情 認真@@" },
+      { type: "link", content: "https://photos.app.goo.gl/accTGGVcR5ZRA6ic8", label: "2017年12月31日 窩喔喔喔喔喔喔 今年要拍全新煙火構圖 敬請期待" },
       { type: "link", content: "https://photos.app.goo.gl/Z2gUbM37c8Lxnsfh6", label: "2017年12月31日 Hope go up to 2800 before 2018" },
       { type: "link", content: "https://photos.app.goo.gl/9FRS1kupdi18JirR7", label: "2017年12月31日 2017最後一修 電腦ps銀河有個優點跟缺點 優點能製造城市對天空光害感覺 也能保存原圖的色溫 自然很多甚至以假亂真 缺點費工花時間 需足夠後製才能避免奇怪的痕跡 交界處" }
     ]
