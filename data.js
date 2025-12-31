@@ -4360,6 +4360,11 @@ const records = {
         2018是充滿荊棘的一年 未來也將更不輕鬆 不要空口說白話 而是扎扎實實的培養自己 與大家共勉 先預祝大家新年快樂 工作順利 身體健康 發大財" }
     ],
     "30": [
+      { type: "link", content: "https://photos.app.goo.gl/mJuKEqSpvBmSDHUu8", label: "2025年12月30日 問一下鍾佳濱 他為國服務也是不談薪水的嗎 他真是可悲的人 別人命最賤 就應該去送死" },
+      { type: "link", content: "https://photos.app.goo.gl/RpNeVvKHu7tZdUtZ7", label: "2025年12月30日 軍人如果不看錢不然看你嗎 你怎麼不來當軍人 還是你也沒愛國心也是只看錢" },
+      { type: "link", content: "https://photos.app.goo.gl/8QanDpTZ3RBLopWB9", label: "2025年12月30日 這就是台灣軍人的悲哀 這種要打仗的國家 志願役沒有一個月十萬起跳真的是國家對不起軍人" },
+      { type: "link", content: "https://photos.app.goo.gl/nAbzPwkpDTH5Qcuv6", label: "2025年12月30日 那給在打仗時要付死的志願役加薪呢 還是加一咪咪也是加" },
+      { type: "link", content: "https://photos.app.goo.gl/Jr96CS4z3rHAoWT76", label: "2025年12月30日 認真說 媒體跟民眾現在拍完直接在網路曝光國軍部署的都是智障" },
       { type: "link", content: "https://photos.app.goo.gl/dQKgfkkY4u2W7cBF6", label: "2025年12月30日 \
         這幾天很紅的視角 剛好跟全世界介紹 這是台灣 謝謝 \
         這是台灣 這幾天碧山巖的景色紅了 紅到兩岸的人民都看見了 身為攝影師的我們 一看就知道這是我們的國家 台灣的碧山巖景色 新聞連結底下 很多攝影朋友第一時間也指出這是碧山巖的視角 \
@@ -4368,14 +4373,12 @@ const records = {
         台灣是唯一的國家 唯一的根 雖然政府做的不好但終究那還是台灣的政權 面對對岸的武力逼迫跟這個造假的畫面 要保持腦袋清楚 最重要的 是支持國軍 鼓勵國軍 \
         執政黨做的再差我們都能再下一次政黨輪替 但被統治了那就再別民主了 我不討厭大陸同胞 但對於想要以武力侵犯別人的政權深覺噁心 \
         如果有這種企圖我們就應當讓他們付出代價 所謂正義使命 用的是虛偽的名稱來掩飾內心邪惡的企圖 減少罪惡感罷了 這很華人心態 我們都懂 台灣挺住 國軍加油" },
-      { type: "link", content: "https://photos.app.goo.gl/8QanDpTZ3RBLopWB9", label: "2025年12月30日 這就是台灣軍人的悲哀 這種要打仗的國家 志願役沒有一個月十萬起跳真的是國家對不起軍人" },
-      { type: "link", content: "https://photos.app.goo.gl/nAbzPwkpDTH5Qcuv6", label: "2025年12月30日 那給在打仗時要付死的志願役加薪呢 還是加一咪咪也是加" },
-      { type: "link", content: "https://photos.app.goo.gl/Jr96CS4z3rHAoWT76", label: "2025年12月30日 認真說 媒體跟民眾現在拍完直接在網路曝光國軍部署的都是智障" },
       { type: "link", content: "https://photos.app.goo.gl/5uPhW1w1x7PfxeDs8", label: "2025年12月30日 沒錯 大部分我都認同的 很多人都說等功成名就再來享受 根本大錯特錯 等等到了功成名就你也只剩下上車睡覺下車尿尿的年紀" },
       { type: "link", content: "https://photos.app.goo.gl/2j1eVz6Th5mZ9yj66", label: "2025年12月30日 可惜我們沒辦法玩這個 因為我都直接不理這種訊息" },
       { type: "link", content: "https://photos.app.goo.gl/vZhCkS7xJvmgWoc67", label: "2025年12月30日 但我原本就有一點底子 像是煮荷包蛋我本身就會了" },
       { type: "link", content: "https://photos.app.goo.gl/swniGCHGv9VPnx2DA", label: "2025年12月30日 台北的夕陽" },
       { type: "link", content: "https://photos.app.goo.gl/sMKUPrBrJdPeCzxa6", label: "2025年12月30日 這也太可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/XsAfMhLH6jCuekhQ7", label: "2025年12月30日 沒錯" },
       { type: "link", content: "https://photos.app.goo.gl/GmQPhBG9WD5vQu7Q7", label: "2024年12月30日 \
         雖然我非常討厭現在衛福部剝削醫師的健保制度 但堅決反對老福法我是一萬%認同 政府實際上並沒有足夠的經費支撐 若該法通過 \
         不只讓醫護原本已經很少的薪水下降 更會排擠原本已經不夠的健保支出 支持該法的政治人物 都是無知且愚蠢的 \
@@ -4395,7 +4398,63 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/ia9m4pRzFVLtma3y6", label: "2018年12月30日 約東出口碰面但要到西出口找 正常 板橋車站" },
       { type: "link", content: "https://photos.app.goo.gl/Yp4KkodBM5HoZMYBA", label: "2018年12月30日 結果我自己還沒看過 在市政府站的地下道唷" }
     ],
-    "31": []
+    "31": [
+      { type: "link", content: "https://photos.app.goo.gl/aWox2CTQkpxtxbF26", label: "2025年12月31日 多是多多少 美國這種常常在戰爭的志願役一個月薪水多少 台灣都快打起來了加這一點屁喔 你最珍貴 別人就該領低薪然後去送死 也難怪現在志願役都要用騙的才有人要簽" },
+      { type: "link", content: "https://photos.app.goo.gl/Tc3uyjTQncXL1yNX6", label: "2025年12月31日 你好可憐 只是說空拍畫面是假的就被說顛倒是非 同情你唷" },
+      { type: "link", content: "https://photos.app.goo.gl/CVNEeCCYsGGFu9vs6", label: "2025年12月31日 一起拍照一起開車很有趣 感謝lexus_taiwan公司雜誌邀約 讓我們參與拍攝 2025年劃下完美的句點" },
+      { type: "link", content: "https://photos.app.goo.gl/3KeA9XQRGdgrRNYWA", label: "2025年12月31日 如果美國是外部勢力 那代表你認為台灣是屬於中國對吧 如果台灣是國家 那台灣想跟哪個國家親近不是由全體人民投票當選的執政黨的決定嗎 請問你是指哪個" },
+      { type: "link", content: "https://photos.app.goo.gl/89agYWfXNgb9LNZr6", label: "2025年12月31日 你知道把你的圖8放進nano banana就可以產生圖7嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/58C5qNeLD2Nb7mqj6", label: "2025年12月31日 我選擇放棄跟你溝通 浪費生命 你打那麼多字 我看兩行就想吐了XD" },
+      { type: "link", content: "https://photos.app.goo.gl/wVAxVvJQ2aTVCFpf7", label: "2025年12月31日 這阿姨有夠厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/xNjs5VLQ3yT4cmDY8", label: "2025年12月31日 雖然這是個有點失望的小島 但因為跟一起所以格外喜歡" },
+      { type: "link", content: "https://photos.app.goo.gl/yiE68v4raCRhyUoE9", label: "2025年12月31日 太美了請問這個位置拍攝需要先申請嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/Fp7b3MkPB8EeEktQ7", label: "2025年12月31日 以前在這裡拍過但聽說後來警衛會趕人 方便請教有什麼方式登記拍攝嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/Hm16R677pWaNwGyT8", label: "2025年12月31日 新年快樂 你這張超美" },
+      { type: "link", content: "https://photos.app.goo.gl/vHQ4rZWmHpRXCJpN7", label: "2025年12月31日 謝謝 新年快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/v9maaFoh3WzuU4mM8", label: "2025年12月31日 讚的啦 超跑超厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/rFH1gA8LQoUonAbJ8", label: "2025年12月31日 破脆爛脆 氣氣氣氣氣" },
+      { type: "link", content: "https://photos.app.goo.gl/DDD5FVpHskmDXowB9", label: "2024年12月31日 \
+        我覺得唯一的bug只有男主如果要拯救所有人 在第三場遊戲結束後 當時剩下100人 表明自己有剩下 推估劇中鈔票畫面$約快300億韓元 \
+        只要投票X的人 他都無條件資助還款即可 可惜他沒這麼做 現實中如果有個真正覺得這些錢不是他的 而想用這些錢拯救大家的人都應該會嘗試提出這個想法 來拉攏選的那方 \
+        嗯嗯 但這是我覺得唯一現實應該發生 但劇中沒有發生的事情" },
+      { type: "link", content: "https://photos.app.goo.gl/Wh6q75uJFp9jF29p6", label: "2024年12月31日 哈哈哈哈哈以後都報別人的ig" },
+      { type: "link", content: "https://photos.app.goo.gl/a8DHZWDtzH8vWB8e8", label: "2024年12月31日 2025第一天居然就要值班 先提前祝大家新年快樂 晚點拍完煙火只能先趕快回家睡覺了 新年新希望 一樣是早點退伍還我自由的願望" },
+      { type: "link", content: "https://photos.app.goo.gl/QZ4TnXFtvKyfe6448", label: "2024年12月31日 德朗火鍋信義店 用火鍋一起迎接2025" },
+      { type: "link", content: "https://photos.app.goo.gl/adLTgd12kpn1VC88A", label: "2023年12月31日 \
+        今年最好吃的韓國料理 大推 超推的韓式料理 台北Meat Love橡木炭火韓國烤肉 \
+        雖然韓式料理經驗值還沒有很多 但這間目前是心中第一名 開胃小菜的部分 芥末黃瓜跟米粉足以用驚為天人來形容 \
+        那個米粉嚼勁完全不是台灣米粉比得上 而芥末黃瓜根本小菜界的天菜 實在爆幹好吃 我連吃三盤 要不是為了塞肉 我可以至少吃個十盤吧 \
+        蝦餅跟炸雞也是超級無敵 蝦餅是用炸蕃薯條的方式混著蝦米 薄薄一片卻超脆超香 他的蝦餅比泰式蝦餅更令人回味 \
+        而炸雞表現也非常出色 完全不會乾澀跟硬柴的口感 愛不釋口啊 最後主餐的牛排跟豬五花 豬五花我個人不愛 中規中矩也沒有不好吃 \
+        而烤牛排則亦是極品 下次真的想直接點兩份 整體而言下次會再去 適合約會跟聚餐 上面說的料理我已經迫不及待再去吃了" },
+      { type: "link", content: "https://photos.app.goo.gl/4KRuCvXc9B1LziGd8", label: "2023年12月31日 原本有個厲害的煙火計畫被迫取消 但能跟一起度過就是滿足" },
+      { type: "link", content: "https://photos.app.goo.gl/soLn5jLLphxwYzNz6", label: "2023年12月31日 跟我等煙火等到太無聊 前面又一堆排公共廁所的人 於是開始亂發 只有一位青蛙回我們 還祝新年快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/A9LubyxXUBmERntd9", label: "2022年12月31日 可憐啊 象山遮掉半根了 跟去年一樣囉" },
+      { type: "link", content: "https://photos.app.goo.gl/YAR299D3ncvrcB3RA", label: "2022年12月31日 \
+        今年最後一張 祝大家新年快樂 2022回顧 生活分享No.25 先祝大家 新年快樂 \
+        2022年的最後一張照片 是一起到黑漆漆的不厭亭拍銀河 不過當天角度不對 我把正上方的銀河稍微往下調整了 \
+        2020回到醫院後 身份轉為住院醫師 生活型態大大改變 因為畸形體制 我沒有年假 沒有補假 沒有離職權利 沒有值班後應有的休息 \
+        拍照的時間當然也幾乎沒有 將心力轉移到醫學上 見識了老病死 也體悟到人類面對疾病的渺小 \
+        最大的願望 是希望能早日離開目前的工作環境 對我來說只有賺錢卻沒有品質 無法常出國拍照的人生 等於死亡 \
+        期望2023更為堅強 除了努力於工作 也保持對於生活及攝影的熱情 繼續創作攝影 也希望之前一起拍照的朋友們 能再一起拍照 願2023世界更善良 美好 健康" },
+      { type: "link", content: "https://photos.app.goo.gl/pfP5CeNmMbMvqkAY9", label: "2021年12月31日 拍煙火前補個體力 太幸福了吧 太豐盛了 厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/vy16tYeMxci74Fv86", label: "2021年12月31日 整個看不到101 慘" },
+      { type: "link", content: "https://photos.app.goo.gl/1pgnvGyi65T55Mge9", label: "2020年12月31日 去年進浴室吹頭髮 一直吹到今年還沒出來 是發生什麼事情 廁所跨年浴室倒數" },
+      { type: "link", content: "https://photos.app.goo.gl/ZZg17RmuAbgHeqH78", label: "2020年12月31日 跨年前吃飽再回家取暖 今天在醫院結束最後一次值班 緊接著1/1明年第一天也是值班 這94醫屍日常 但願明年平安順遂 不求發大財但身體健康 也先預祝大家新年快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/R18CGtSgMfZf3KQF9", label: "2020年12月31日 跌跌撞撞度過以為會很好的2020 部隊與醫院的工作轉換 還有與經歷的許多不容易 終於快邁入2021 今年的最後一天在值班後倒數結束 明年的第一天也從值班開始 就不外出跨年了" },
+      { type: "link", content: "https://photos.app.goo.gl/xXWsg3bFRG9DbhSD7", label: "2018年12月31日 艱困跨年 停車一小時 吃飯五分鐘" },
+      { type: "link", content: "https://photos.app.goo.gl/hJ6kKySMAaiW3d5t5", label: "2018年12月31日 \
+        馬辣頂級麻辣鴛鴦火鍋 吃馬辣為晚上跨年儲存體力 年終大請客 慰勞包容我一年多 謝謝你體諒我當海軍的無奈跟常常消失 希望我們新的一年更堅強:) \
+        一早就這麼養生 剛要丟衛生紙手滑丟進奶茶裡" },
+      { type: "link", content: "https://photos.app.goo.gl/eBTP1EuoGoyksuby6", label: "2018年12月31日 \
+        保持相機防水與清潔的簡單省錢方法 近日台北有雨 潮濕的天氣分享我自己保養的方式 我會在飯店領取每一個浴帽 清潔組 上方為浴帽下方清潔包 \
+        清理相機有以下優點 清潔組棉棒及簡易衛生棉衛生紙是吸水好幫手 省錢無成本 正式的清潔用品很貴 免費的浴帽可以在毛毛雨的情況下包覆相機 \
+        清潔組的棉棒能吸乾縫隙進水 衛生棉則能有強力吸水作用 我會用在電池槽等重要部位 輕便 很好壓縮收藏 使用一次即丟不佔空間 \
+        除了清理相撞 在外若需要也可自用 雖然有點寒酸 但實在非常方便而且多功能 零成本又不會浪費 畢竟很多人去飯店也不會用這些附贈品" },
+      { type: "link", content: "https://photos.app.goo.gl/GEHmYVYksiBNVZR89", label: "2017年12月31日 但是31有事情 恩恩問一下總醫生31我們都不行怎麼辦 不再台北@@ 家裏有事情 認真@@" },
+      { type: "link", content: "https://photos.app.goo.gl/Z2gUbM37c8Lxnsfh6", label: "2017年12月31日 Hope go up to 2800 before 2018" },
+      { type: "link", content: "https://photos.app.goo.gl/9FRS1kupdi18JirR7", label: "2017年12月31日 2017最後一修 電腦ps銀河有個優點跟缺點 優點能製造城市對天空光害感覺 也能保存原圖的色溫 自然很多甚至以假亂真 缺點費工花時間 需足夠後製才能避免奇怪的痕跡 交界處" }
+    ]
   }
 
 };
