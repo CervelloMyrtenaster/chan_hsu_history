@@ -7,6 +7,11 @@ const records = {
         2026新年快樂 祝大家 新年快樂 每一年台北幾乎都在風雨中度過跨年 這也跟每一年生活在台北的體驗一樣 幾乎都是在疲累跟風雨中努力著 \
         去年2024/12/31是近幾年唯一無風雨乾淨的跨年夜 幸好當時有跟一起拍攝 不管在何處的台北漂泊 社會的大小角落裡都有人努力的生活 \
         新的一年 這些努力都會有所收穫 除了祝福各位更加順利 也希望社會上更加平安" },
+      { type: "link", content: "https://photos.app.goo.gl/NiRsUEKFMiLZt8wn9", label: "2026年1月1日 祝大家新年快樂 根據我的觀察 平均五年只有一年的101跨年能看到高清煙火 住院醫師時期倒數了 也要迎接最難最恐怖的考試 祝福大家 醫療人員都能上班平安 考試all pass唷" },
+      { type: "link", content: "https://photos.app.goo.gl/UC8bUc2oqonzuonh9", label: "2026年1月1日 基本上提前一天最保險" },
+      { type: "link", content: "https://photos.app.goo.gl/sYod1sgdF9tLxJyK7", label: "2026年1月1日 好吃" },
+      { type: "link", content: "https://photos.app.goo.gl/nPV3mi7ibwT9RnqNA", label: "2026年1月1日 學長新年快樂喔" },
+      { type: "link", content: "https://photos.app.goo.gl/3G6rndkXpbxGfMw37", label: "2026年1月1日 新年快樂" },
       { type: "link", content: "https://photos.app.goo.gl/HVCihQN1BX8BwVk99", label: "2025年1月1日 \
         新年快樂 今年101的煙火太猛了 今年101的煙火太狠了 天氣到位 煙火時間也到位 很讚XDDD \
         2025新年快樂 回頭看看前幾年的跨年 今天台北的天氣可以給他90分了 第一次沒有大量低雲跟雨霧的台北 實在太棒了 \
@@ -80,7 +85,43 @@ const records = {
         我會用更謙卑的心態面對接下來的學習 也會用更真誠的心面對相處的每個人 2017年 我會專注的 慢慢的 找回因為犯錯而失去的每個東西 \
         這個新年快樂不起來 我需要時間消化連日累積的衝擊 但是 加油just do it 共勉 祝大家新年快樂 新的一年從值班開始" }
     ],
-    "2": [],
+    "2": [
+      { type: "link", content: "https://photos.app.goo.gl/1W6NUuH3tJANeHgq6", label: "2025年1月2日 \
+        好久沒認真分享攝影的內容 不敢說教學 剛好有點靈感 趕快寫起來的 \
+        祝大家新年快樂 想賺錢的都能賺到錢 想休假的都能排到假 要考試的都能高分過 要上班的病人都平安 希望台灣的醫療環境越來越好 越來越有善 \
+        2025台北跨年煙火 元旦以值班開啟今年第一天 下班後頂住睡意 認真的打開PS CC 已經很久沒有仔細的修圖了 對於今年的作品還算滿意 \
+        分享一下處理思維 我好久沒認真經營攝影的內容 已經入夜的城市少了自然光來凸顯立體感 因此我利用城市光的差異來製作前中後的漸層 \
+        前景偏向山區 光線薄弱 直接暗調處理 中景才是重點 剛好吃到信義區的燈光 除了需要打亮以外也特別加上濛霧感 在許多電影及動畫裡 如cyberpunk 會利用朦朧的燈光製作都市的神秘感 \
+        煙火本身跟天空 主要是刷掉原本單調的黑色 稍微改成漸層藍調 我很喜歡深藍色的天空搭配橘黃帶一點點紫的地景 這是我覺得最完美的夜景搭配色 \
+        很久沒有這種滿足的感覺 花了一個多小時 該來面對本業了" },
+      { type: "link", content: "https://photos.app.goo.gl/MTUHHVNkjXKR71gN9", label: "2025年1月2日 \
+        比白痴更白痴的是 花6-700萬租房這6-700萬直接打水漂 花1-2000萬買房還有機會3000萬賣掉 居然有人還想不透 \
+        愛租房就去租 誰當盤子誰去租 我預料有人會說剩下的錢拿來投資 問題是6-700萬就是鐵錚錚的打水漂" },
+      { type: "link", content: "https://photos.app.goo.gl/rgARx6euQSFwpqYE7", label: "2025年1月2日 傻子才花錢在台服 同造型越南服至少便宜三倍" },
+      { type: "link", content: "https://photos.app.goo.gl/Hw7MggwdhCMKWB2TA", label: "2025年1月2日 歡迎喲 追蹤攝影作品 IG搜尋omg_taiwan" },
+      { type: "link", content: "https://photos.app.goo.gl/Cj4WtMeEqU9U4AAP9", label: "2025年1月2日 他看起來好招財哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/m49guDbxXA2AMyhF6", label: "2025年1月2日 你是在妄想嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/Wye5x9XciQCh5Lcf8", label: "2024年1月2日 新年快樂 這三個月都在ICU 比較沒有空發文 待有空再來分享 祝所有好友 值班上班都平安 檢查治療手術計畫都順利進行唷" },
+      { type: "link", content: "https://photos.app.goo.gl/qaAXbtvjVzLBibMy8", label: "2021年1月2日 這是我看過最適合放在電影結尾的道具 尤其配上完全沒有背景音 畫面舊青色的鬼片" },
+      { type: "link", content: "https://photos.app.goo.gl/3mw2VaE6VLn1DttX9", label: "2019年1月2日 \
+        大家新年快樂 Hi Happy new year:) 2019 Crazy New Year 兩分半簡易後製本作品的方法 追蹤omg.wp 分享本文至現時動態並tag我即可 \
+        瘋狂的2018歷經生命許多轉折 失望的慶幸的喜悅的悲傷的過程交雜 最後第一次在大雨中倒數 最後感謝突然的二創靈感 祝福大家2019新年新希望 順利一整年" },
+      { type: "link", content: "https://photos.app.goo.gl/d5DQNHYqswb2PCu2A", label: "2019年1月2日 棒棒恭喜 一年只能拍到一次的特別角度" },
+      { type: "link", content: "https://photos.app.goo.gl/NpaX5aCrSXV4eg67A", label: "2019年1月2日 許多網友問我怎麼做出這樣的照片 這並不是我發明的創意 但其實很簡單 我可以提供簡單的兩分半即可完成的後製方式 大家不妨玩玩看 有準備word檔+影片+我的照片 一看就懂 取得方式如後" },
+      { type: "link", content: "https://photos.app.goo.gl/Eh96nvy1noDzVDcp6", label: "2019年1月2日 \
+        追蹤omg.wp 分享本貼文至即時動態 並tag我 一天後我會用私訊傳送兩個網址 一個是word教學檔案含兩分半教學影片 \
+        一個是我拍攝的原檔您可以直接使用練習 應該不用十分鐘就會了 當然很多人都會了這只是增加互動的小活動 開心就好XD \
+        再次聲明此非我發明的構圖視角 單純模仿並加上自己的想法 對於原創意respect 而初學者也能從我這裡學到簡單方法唷" },
+      { type: "link", content: "https://photos.app.goo.gl/UrT1GP8h7nSh8R238", label: "2018年1月2日 隨便寫寫 樂趣居多大家笑笑就好 因為今年大家都會拍XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/zxeE8YnVnCd8CDz19", label: "2018年1月2日 \
+        1/1-1/15可約攝影後製教學的時間 平日台北晚上18:30之後內湖為佳 假日台北1/6中午到1/7 假日台中1/11晚上或1/14 \
+        假日台南高雄1/11-1/14 詳情可見下頁或私訊 謝謝 本月大多大學考試 考試加油" },
+      { type: "link", content: "https://photos.app.goo.gl/pooQKw9yy52RkTj4A", label: "2018年1月2日 \
+        攝影家教簡章 教學內 會先了解您目前程度作調整 但基本會有 基礎講解 構圖光線等想法 包含晨昏高反差 銀河 \
+        氣象判讀 後製步驟 完整圖層遮色片 延伸 若已經熟悉遮色片 可利用時間多教亮度蒙版 須自己有亮蒙軟體 \
+        費用/時間 一人兩小時2000 兩人兩小時1800一人 三人兩個半小時1600一人 已繳費確定上課者 時間允許可提前帶拍不多收費 \
+        注意事項 地點可約自宅 速食店 咖啡廳等有插座與桌子處 超時問問題不多收費用 ppt無法copy給予 也無法錄影 但有重點整理給您 一對一限男性" }
+    ],
     "3": [],
     "4": [],
     "5": [],
