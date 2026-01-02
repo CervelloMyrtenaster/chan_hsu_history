@@ -8,6 +8,9 @@ const records = {
         去年2024/12/31是近幾年唯一無風雨乾淨的跨年夜 幸好當時有跟一起拍攝 不管在何處的台北漂泊 社會的大小角落裡都有人努力的生活 \
         新的一年 這些努力都會有所收穫 除了祝福各位更加順利 也希望社會上更加平安" },
       { type: "link", content: "https://photos.app.goo.gl/NiRsUEKFMiLZt8wn9", label: "2026年1月1日 祝大家新年快樂 根據我的觀察 平均五年只有一年的101跨年能看到高清煙火 住院醫師時期倒數了 也要迎接最難最恐怖的考試 祝福大家 醫療人員都能上班平安 考試all pass唷" },
+      { type: "link", content: "https://photos.app.goo.gl/t6VeUfCfQbqtpFaB6", label: "2026年1月1日 看到版上前輩的煙火照覺得還是蠻厲害的 我大概有個心得 台北如果最後一天還是下雨而且時不時101低雲罩頂 就拍特寫  如果最後一天放晴 101視野很清楚 再去高樓拍" },
+      { type: "link", content: "https://photos.app.goo.gl/SmnJvEAR26ymaoiP9", label: "2026年1月1日 你不用化妝就好看才是厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/diTnB6qWyrs6PNuL8", label: "2026年1月1日 怎麼有辦法做瑜伽做到這個動作的" },
       { type: "link", content: "https://photos.app.goo.gl/UC8bUc2oqonzuonh9", label: "2026年1月1日 基本上提前一天最保險" },
       { type: "link", content: "https://photos.app.goo.gl/sYod1sgdF9tLxJyK7", label: "2026年1月1日 好吃" },
       { type: "link", content: "https://photos.app.goo.gl/nPV3mi7ibwT9RnqNA", label: "2026年1月1日 學長新年快樂喔" },
@@ -86,6 +89,26 @@ const records = {
         這個新年快樂不起來 我需要時間消化連日累積的衝擊 但是 加油just do it 共勉 祝大家新年快樂 新的一年從值班開始" }
     ],
     "2": [
+      { type: "link", content: "https://photos.app.goo.gl/RpxVYpNWPKLh4yrJ9", label: "2026年1月2日 \
+        回顧2025 2025是很重要的過度 介於2024年內專通過及2026必須要面對這輩子最大的坎 心專考試的一年 \
+        檢討起來 真的浪費很多時間在手遊跟不務正業 隨著2026/1/1的到來 時間流逝之快令心驚膽跳 \
+        但也是2025年有很多喘息空間 去了菲律賓跟泰國 也跟許多攝影朋友 高中同學 部隊兄弟碰面與吃飯 有人退伍了 有人結婚生小孩了 \
+        也有幾位學長成為了主治醫師或是在外面開診所當老闆等等 這些好事真的很恭喜他們 也全心祝福成功 當然也有遺憾的一直沒有約吃飯相聚的朋友 \
+        在工作上 受到許多同仁 同學 學長姐的幫忙 真的欠下很多人情債 也被師長提點了很多次 足見自己程度之不足 \
+        不過懊悔的心情必須很快收拾 感謝願意罵我 提攜我並指出我錯誤的人 讓我在還有機會犯錯時 能得到糾正 \
+        雖然一直無法跟上優秀的同學們 但他們的努力跟資質 也不斷鞭打著我的懶散 提醒我不能一直駐足不前 \
+        去年最後一天 謝謝準備的豐盛跨年晚餐 牛排鮭魚蔬菜跟湯 這一年她很厲害 各種習得超強料理的能力我十分驚艷 \
+        而我的功能只剩下乖乖掏出錢包 但一切非常值得 感恩珍惜 有妳真好 \
+        從小我就在父母與老師的要求下 不斷讀書考試 從10幾歲進入美術班被矯正成願意讀書的乖學生 到了30歲了還要面對讀書考試 \
+        下班也常不是我要的時間 要準備報告讀書等等 求學過程從沒有人在乎我喜歡什麼 想過什麼樣的人生 想成為什麼樣的人亦或是我的興趣是什麼 \
+        但 我現在非常知道自己要怎樣的人生了 今年心專將是考試的大魔王 有種打超級瑪莉一路終於打到boss關卡的感覺 但也名副其實是這輩子最難的考試 \
+        在這之前實在沒有想過為了考試而讀書的人生何時能停止 如果運氣好能當次或一兩次的重考就通過 將是最大的解脫 我也終於有點自由能做自己想做的事情 \
+        2026的開始 總結就是感謝大於一切 感謝我還有機會能夠努力 感謝犯錯了還有人願意指正 感謝再怎麼忙碌還有相伴 \
+        人生永遠不是一個人能擔得起來 新年快樂 祝福朋友家人們都健康平安 馬到成功 馬上賺錢 瑪莎拉蒂" },
+      { type: "link", content: "https://photos.app.goo.gl/8dTXa4xeXSVVEFAA7", label: "2026年1月2日 這根本不需要教化 而是需要同理跟諒解他 誰要花51年照顧兒子 五年都不要了" },
+      { type: "link", content: "https://photos.app.goo.gl/bHiiUj1J9WK4sfVs9", label: "2026年1月2日 應該又是爸媽要求要傳宗接代" },
+      { type: "link", content: "https://photos.app.goo.gl/qjg1d2evocwqR6fBA", label: "2026年1月2日 這真的很強 才學兩年" },
+      { type: "link", content: "https://photos.app.goo.gl/6CCp9DK7LpVjrNcX7", label: "2026年1月2日 超級熱心哥" },
       { type: "link", content: "https://photos.app.goo.gl/1W6NUuH3tJANeHgq6", label: "2025年1月2日 \
         好久沒認真分享攝影的內容 不敢說教學 剛好有點靈感 趕快寫起來的 \
         祝大家新年快樂 想賺錢的都能賺到錢 想休假的都能排到假 要考試的都能高分過 要上班的病人都平安 希望台灣的醫療環境越來越好 越來越有善 \
@@ -122,7 +145,45 @@ const records = {
         費用/時間 一人兩小時2000 兩人兩小時1800一人 三人兩個半小時1600一人 已繳費確定上課者 時間允許可提前帶拍不多收費 \
         注意事項 地點可約自宅 速食店 咖啡廳等有插座與桌子處 超時問問題不多收費用 ppt無法copy給予 也無法錄影 但有重點整理給您 一對一限男性" }
     ],
-    "3": [],
+    "3": [
+      { type: "link", content: "https://photos.app.goo.gl/UFGAifFiZr2RZUqY8", label: "2025年1月3日 這個提案的前半部跟後半部彼此沒有關聯 提案人是不是有點失智了 前面說很多醫美診所沒有專業訓練麻醉 後面說重症麻醉沒有專業訓練" },
+      { type: "link", content: "https://photos.app.goo.gl/hr1mNjhmAXAZVos19", label: "2025年1月3日 這是什麼白痴又可悲的社團 最不負責任的就是你們這些刁民病人 滾出醫院 不要來看 沒有醫護欠你們" },
+      { type: "link", content: "https://photos.app.goo.gl/YURXWMKHt4QJJ2vGA", label: "2025年1月3日 買黑柔濾鏡 不只市價最低 對 真的低到無法想像 網路商店搭配各種優惠都還貴很多XD 而且直接寄兩種類型給我試用 買攝影器材推台南德寶 找他真的就對了" },
+      { type: "link", content: "https://photos.app.goo.gl/WPETcEfdnT4Hkkpv9", label: "2025年1月3日 好爽 我以前就想要這樣吃了哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/9AiMtqGzZnrnKjrK9", label: "2025年1月3日 我之前有分享過陰天光線的處理方式 還有一些風景攝影的基礎概念 有問題可以私訊討論 另外等等都很不錯" },
+      { type: "link", content: "https://photos.app.goo.gl/vaT3WLPdjQNYPrpZ9", label: "2025年1月3日 他還忘記把左眼打開哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/R2Tj1QWHtNuTCKmm7", label: "2025年1月3日 太強了醫師" },
+      { type: "link", content: "https://photos.app.goo.gl/ztzLSuJVpUwJsQNV6", label: "2025年1月3日 兩個我都覺得超好看" },
+      { type: "link", content: "https://photos.app.goo.gl/gtcJqi6Z8bfmcTT87", label: "2025年1月3日 這個沒辦法忍住啦" },
+      { type: "link", content: "https://photos.app.goo.gl/CEP9EztPoeTbfj7q8", label: "2022年1月3日 \
+        終於能回顧一下2021 很像從工作海裡探出頭換氣 但馬上又要潛入一樣緊湊 \
+        2021上半年 都在疫情中度過 雖然某部分能用舒適形容 卻也哪裡都不能去 回想起來有點一事無成 只記得PGY最後一個月 在精神科值了很多班 \
+        八月是住院醫師的新身份 在51病房能有些空閒看看書 能從血腫開始真是不錯 九月是精神上被緊盯著 每天小心翼翼 隨時意識到自己知識匱乏的胸腔科 \
+        也在離開後 差點被主任的腳踏車衝撞 有驚無險 十月是第一個極度繁忙的月份 從早上坐下到傍晚下班沒有喘口氣 真是可怕的病房 \
+        幸好在腸胃內科 遇到非常非常之棒的主治 簡直令我心存感激 即使登上當月出最多病人之冠 也不覺得累 \
+        十一月是令人迷茫的感染科 發完會診單後卻無法真正解決問題 只能靠自己病解跟處置 最難過的是好不容易度過難關的病人 居然在別人的值班時間走掉 \
+        十二月又回到血腫 有別八月的清閒 這個月天天都在戰場廝殺 除了病人入院跟出院的海嘯襲來 還有許多新診斷跟神奇的case 能比十月更忙實在意外 \
+        經手的病人人次破百 主要還是磨練自己的細心跟耐心 除了對病人 也得更了解每位主治的特性 \
+        2022第一個月 來到令我最不熟悉的心臟科 知識的需求肯定更多 但我已慢慢疲憊了 要如何在每個月高壓的內科裡面保持對知識的熱忱 實在太難了 \
+        祈禱今年能更從容 上班的脾氣更修煉 也感謝每位同仁及同學的不吝嗇相助 最後也感謝一起在年尾度過許多重要的日子 陪我到深山裡拍照等景 也唯有如此才能稍減壓力 \
+        我曉得未來工作肯定佔更多寶貴的生命時光 雖然不願意 也只能盡力做好 但願老天也能助一臂之力加油了" },
+      { type: "link", content: "https://photos.app.goo.gl/8qLrUZLDEjyNJmnq6", label: "2021年1月3日 兒童風的新拖鞋好保暖" },
+      { type: "link", content: "https://photos.app.goo.gl/gfP3j1FkibxAKM9TA", label: "2020年1月3日 常常聽別人說股票或ETF比定存好 覺得很有趣 所以來計算一下" },
+      { type: "link", content: "https://photos.app.goo.gl/eTxSLvAjx21T1jYb8", label: "2020年1月3日 \
+        以合庫金為例 假設買在今天的20.85元 運氣很好賣在去年最高的21.25元 再假設買了三張3000股 且去年21.25到今年20.85 大概過了半年 \
+        那花費包含手續25元 新光證券 總共花62575元 而賣出後獲得64050元 因此賺 扣兩次手續跟交易稅 64050-62550-219-25=1256元 也就是六個月只賺1256元" },
+      { type: "link", content: "https://photos.app.goo.gl/f26Y33Udk1A2wn1s9", label: "2020年1月3日 \
+        如果以2020年定存6個月利率來說 最高的遠東銀行存跟上則花費一樣62575元 則半年後解除多賺了500.6元 \
+        當然股票有賺有賠不能放著不管 但似乎不是沒根據的謠言了" },
+      { type: "link", content: "https://photos.app.goo.gl/2pHJbNjvXpDNUffX6", label: "2018年1月3日 一群主治醫師跟住院醫師在看實習醫生鬥格 劇本居然還是85期學長寫的 一直說亂演不符合醫療常規XD" },
+      { type: "link", content: "https://photos.app.goo.gl/SPWHS87L3E8HKGgF7", label: "2018年1月3日 \
+        I just canceled many following of rootop photographers who do not follow me too. \
+        Because they are good at rooftoping but failing to process good pics. \
+        Now I follow the rooftop who follow me too or they are goot at rooftoping also processing good quality of pics. \
+        Brave to judge pics Not be a blind followers" },
+      { type: "link", content: "https://photos.app.goo.gl/pt3WcfgMKdwuE9MJ6", label: "2018年1月3日 皮膚科真好 今天第二杯咖啡了 感恩學長姊" },
+      { type: "link", content: "https://photos.app.goo.gl/ntkZCH3ZN3bacHgL6", label: "2018年1月3日 城市魔法師許願 新的一年 大景出滿滿 歡迎大家光臨他的辦公室 合歡山" }
+    ],
     "4": [],
     "5": [],
     "6": [],
