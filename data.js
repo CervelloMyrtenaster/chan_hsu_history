@@ -146,6 +146,14 @@ const records = {
         注意事項 地點可約自宅 速食店 咖啡廳等有插座與桌子處 超時問問題不多收費用 ppt無法copy給予 也無法錄影 但有重點整理給您 一對一限男性" }
     ],
     "3": [
+      { type: "link", content: "https://photos.app.goo.gl/JiV2wwB1Hub481XK8", label: "2026年1月3日 國軍都愛錢 就你最不愛錢 你當政治人物怎麼不直接領22k為人民服務 可悲的人" },
+      { type: "link", content: "https://photos.app.goo.gl/2PenHfroKaCSCNqq7", label: "2026年1月3日 \
+        今天下午要找資料 gpt open evidence跟gemini都說SCAD不適合cutting 結果點進去他們給的文獻資料裡面全部都沒有寫跟AI提到一樣的內容 \
+        問AI問題他會回答 結果他的答案回朔去找資料來源卻完全沒有AI提到的答案 AI真是讓人摸不透 有時覺得他很聰明但有時超級白癡" },
+      { type: "link", content: "https://photos.app.goo.gl/ZkyaMnFiwdnPZRZa6", label: "2026年1月3日 你看 很正常" },
+      { type: "link", content: "https://photos.app.goo.gl/EHmXWYz5yuwiq8NK9", label: "2026年1月3日 是一起練" },
+      { type: "link", content: "https://photos.app.goo.gl/xuEYk9TvnjciX2Hh9", label: "2026年1月3日 可愛又懂事" },
+      { type: "link", content: "https://photos.app.goo.gl/WLPX7mYaM2Gg9K969", label: "2026年1月3日 剛出新手村就遇到薇拉" },
       { type: "link", content: "https://photos.app.goo.gl/UFGAifFiZr2RZUqY8", label: "2025年1月3日 這個提案的前半部跟後半部彼此沒有關聯 提案人是不是有點失智了 前面說很多醫美診所沒有專業訓練麻醉 後面說重症麻醉沒有專業訓練" },
       { type: "link", content: "https://photos.app.goo.gl/hr1mNjhmAXAZVos19", label: "2025年1月3日 這是什麼白痴又可悲的社團 最不負責任的就是你們這些刁民病人 滾出醫院 不要來看 沒有醫護欠你們" },
       { type: "link", content: "https://photos.app.goo.gl/YURXWMKHt4QJJ2vGA", label: "2025年1月3日 買黑柔濾鏡 不只市價最低 對 真的低到無法想像 網路商店搭配各種優惠都還貴很多XD 而且直接寄兩種類型給我試用 買攝影器材推台南德寶 找他真的就對了" },
@@ -184,7 +192,31 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/pt3WcfgMKdwuE9MJ6", label: "2018年1月3日 皮膚科真好 今天第二杯咖啡了 感恩學長姊" },
       { type: "link", content: "https://photos.app.goo.gl/ntkZCH3ZN3bacHgL6", label: "2018年1月3日 城市魔法師許願 新的一年 大景出滿滿 歡迎大家光臨他的辦公室 合歡山" }
     ],
-    "4": [],
+    "4": [
+      { type: "link", content: "https://photos.app.goo.gl/BqyKxoxjUEUepDou8", label: "2026年1月4日 我建議做一組喝一罐台啤 量肌肉也練酒量" },
+      { type: "link", content: "https://photos.app.goo.gl/RaCkKwGPG1cyd2oo8", label: "2026年1月4日 吉度不爽" },
+      { type: "link", content: "https://photos.app.goo.gl/watguaDqjqFh6eXp7", label: "2026年1月4日 好啊" },
+      { type: "link", content: "https://photos.app.goo.gl/RBWub2EQDZv5gbsg8", label: "2025年1月4日 假日進修 老師說最大的問題是台下都沒問題 啊都還聽不懂怎麼能問問題" },
+      { type: "link", content: "https://photos.app.goo.gl/vu1LkvRtW9TE7zZM9", label: "2025年1月4日 哈哈哈哈哈畫超像 有我也看爆" },
+      { type: "link", content: "https://photos.app.goo.gl/K8PmJSbyX7NSk7fj9", label: "2025年1月4日 送去軍校改造一下了" },
+      { type: "link", content: "https://photos.app.goo.gl/JWqWcnvKdo7cVCmX8", label: "2025年1月4日 可愛的大布偶 不知道能不能騎著他走路" },
+      { type: "link", content: "https://photos.app.goo.gl/85zph7hLjbv7BMCP9", label: "2025年1月4日 我也一直聽XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/ckdhwYjNENDB2qYJ8", label: "2024年1月4日 拍的真好 要風景有風景 要民主有風景" },
+      { type: "link", content: "https://photos.app.goo.gl/hACi6y65KGhGU9eT8", label: "2024年1月4日 作惡多端繼續執政的民進黨" },
+      { type: "link", content: "https://photos.app.goo.gl/d2cM6FsWm2ok1rsq6", label: "2024年1月4日 2024年 決定把我們一起拍過的婚禮等作品整理起來 她當這個studio老闆 而我是無薪小弟 也歡迎朋友追蹤支持 這是我們最近一次拍的作品" },
+      { type: "link", content: "https://photos.app.goo.gl/LgvZNdHndXExG1A78", label: "2024年1月4日 除了風景 一直以來我們也有在拍其他主題 其中以婚禮為多 2024我們決定把這些作品整理成HANHSU STUDIO 若有興趣很歡迎追蹤 有需求的朋友也可直接私訊詢問唷 我是無薪助手小弟" },
+      { type: "link", content: "https://photos.app.goo.gl/L39BRw2xgDTr3tmP9", label: "2024年1月4日 笑死" },
+      { type: "link", content: "https://photos.app.goo.gl/rEuzPr9shW1LrExx7", label: "2022年1月4日 車輛違規通知單 精神大樓 阻礙動線 未停放於車格內" },
+      { type: "link", content: "https://photos.app.goo.gl/FSFtQa7rWiMvpXrR8", label: "2022年1月4日 趁過年的時候開放境外回台 好累死全台醫護人員 沒有獎金補助也沒有補假給醫護 難道又要發一張獎狀打發 這種政府" },
+      { type: "link", content: "https://photos.app.goo.gl/XqgpzuBHH7vesHSm6", label: "2022年1月4日 早就一堆醫師因為這樣 被迫增加值班數了" },
+      { type: "link", content: "https://photos.app.goo.gl/zLQKH6TRSFb9b8SX9", label: "2022年1月4日 新年煙火 生活分享No.9 局部特寫的煙火 技術上簡單很多 但第一個這樣拍的大師創意無限 火光在黑夜中 就像是無數小精靈墜落 也像是讓人們許願的人造流星" },
+      { type: "link", content: "https://photos.app.goo.gl/Ydadj64Y1epW83uh7", label: "2020年1月4日 第一次吃鴕鳥肉 但其實滿好吃 肉質接近牛肉但沒什麼味道" },
+      { type: "link", content: "https://photos.app.goo.gl/Ys5bTBGbxUJAsE8Z8", label: "2020年1月4日 好可憐 不知道是什麼動物被關在大庭廣眾 應該出現自閉症狀了" },
+      { type: "link", content: "https://photos.app.goo.gl/a4xyYfxtfEkg3xUq8", label: "2018年1月4日 \
+        後製家教資訊 內容會多價錢不會多 1/4 1/7 1/8 1/10 1/14上半月五天昨天已預訂 這已經是一個月的上限 \
+        下半月班表出來還是會釋出一點時間 非常感謝支持 小弟會努力精進後製 後製教學預計最多到四月 \
+        三月小弟都在台中 以台中朋友為主 五月以後要專心準備醫師國考 以上 希望不吝賜教" }
+    ],
     "5": [],
     "6": [],
     "7": [],
@@ -812,7 +844,7 @@ const records = {
     "11": [
       { type: "link", content: "https://photos.app.goo.gl/wqJbksTETbutRL8BA", label: "2017年8月11日 \
         風景攝影經驗分享會 攝影小撇步 不解釋了 有興趣歡迎來內湖三總參加 詳細地點待公布 若剛好校方有事情需要改期也會通知 報名請直接私我或臉書搜尋la vision team photography 謝謝 龍洞合成銀河" },
-      { type: "link", content: "https://photos.app.goo.gl/uWJ4b3NosNxoTzxy6", label: "2025年8月11日 直行車佔用轉彎專用車道" },
+      { type: "link", content: "https://photos.app.goo.gl/uWJ4b3NosNxoTzxy6", label: "2025年8月11日 違規事由 直行車佔用轉彎專用車道" },
       { type: "link", content: "https://photos.app.goo.gl/a1LrepZJREGDXndZ6", label: "2016年8月11日 \
         經過同學的告知 我想告訴所有之前在ig 看過我衝動po文的朋友 不用再私下猜跟謠傳了 我現在就說真相 \
         實際的狀況就是 分手後與前女友的談論過程中 我把自己對前女友的想法加已揣測 加上偏差主觀 並且衝動發文 事後冷靜發現 跟本天差地遠 任何文章所提事情只是當下情緒爆發的猜測 \
@@ -896,7 +928,7 @@ const records = {
         感情與工作都是如此 看透了黑暗面 也要收起玻璃心 生命會為自己找到出路 環境再坎坷 也不能失去自己的積極與誠心" }
     ],
     "27": [
-      { type: "link", content: "https://photos.app.goo.gl/Dien47o2pDWhSRaf9", label: "2025年8月27日 不緊靠道路右側停車" }
+      { type: "link", content: "https://photos.app.goo.gl/Dien47o2pDWhSRaf9", label: "2025年8月27日 違規事由 不緊靠道路右側停車" }
     ],
     "28": [
       { type: "link", content: "https://photos.app.goo.gl/NzQYbKHtUorutaMh9", label: "2017年8月28日 \
