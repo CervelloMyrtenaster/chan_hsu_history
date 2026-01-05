@@ -217,7 +217,46 @@ const records = {
         下半月班表出來還是會釋出一點時間 非常感謝支持 小弟會努力精進後製 後製教學預計最多到四月 \
         三月小弟都在台中 以台中朋友為主 五月以後要專心準備醫師國考 以上 希望不吝賜教" }
     ],
-    "5": [],
+    "5": [
+      { type: "link", content: "https://photos.app.goo.gl/ZsvEAJTEB4BkZ4539", label: "2026年1月5日 覺得87分很高很好的 你要不來醫院看看 87分是壓榨多少醫護來的 自以為87分世界第一 其實是世界第一87 最該移居的是讓醫護人員陪葬在這個醫療體系還沾沾自喜的你" },
+      { type: "link", content: "https://photos.app.goo.gl/k76KsNWhA3Wd8QQXA", label: "2026年1月5日 支持版主 內科就該死 低薪還要幫其他科背鍋嗎 要馬付錢 要馬醫院自己看著辦 上層有這種觀念難怪大家都要去醫美" },
+      { type: "link", content: "https://photos.app.goo.gl/zJV5cCDi34WV1uZDA", label: "2025年1月5日 我個人是沒有任何黨派傾向的 從來一毛錢都不捐給任何政黨 所以我是就事論事 白色現在的路線我也是看不下去 但沒辦法 黨只要變大就是人變多 人多必有白癡" },
+      { type: "link", content: "https://photos.app.goo.gl/cerKE43SxHXAQBi2A", label: "2025年1月5日 黃國昌質詢是真的很認真 好好去看一次他的質詢內容 才知道原來國家這樣亂花我的納稅錢" },
+      { type: "link", content: "https://photos.app.goo.gl/qm8pb6z7HW482CAk8", label: "2025年1月5日 這些底層為什麼也配活著" },
+      { type: "link", content: "https://photos.app.goo.gl/Vf5arx4pRaY81o4t8", label: "2025年1月5日 太廢了 考慮換卡了" },
+      { type: "link", content: "https://photos.app.goo.gl/GTaepS4mFPGWUs1R6", label: "2025年1月5日 路是你記者家開的喔?" },
+      { type: "link", content: "https://photos.app.goo.gl/iNsKCTD2tjcggyobA", label: "2025年1月5日 想請問為何前面的RCA血管太大會導致後面PDA需要microcatheter 血管大又沒有很多stenosis不是正常都可以過嗎 謝謝QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/pybT9RS6E9zMEMtJ8", label: "2025年1月5日 對啊" },
+      { type: "link", content: "https://photos.app.goo.gl/XUn4tCziPeTJGbfE6", label: "2025年1月5日 好可愛捏" },
+      { type: "link", content: "https://photos.app.goo.gl/zz4uhuJcGtspr63C7", label: "2025年1月5日 mike1357935問了我十年終於第一次來他家XD" },
+      { type: "link", content: "https://photos.app.goo.gl/erZjoyguzWq6ciRY7", label: "2025年1月5日 mike1357935家的快樂農場" },
+      { type: "link", content: "https://photos.app.goo.gl/uJvmwzJ1djuTno8r7", label: "2024年1月5日 好想出國啊" },
+      { type: "link", content: "https://photos.app.goo.gl/BEKFPKCrU9VtL4Rq5", label: "2024年1月5日 抹茶吃抹茶" },
+      { type: "link", content: "https://photos.app.goo.gl/iRZw5QSiENEMSrGv5", label: "2022年1月5日 小笨貓上新聞了 居然上新聞了XD" },
+      { type: "link", content: "https://photos.app.goo.gl/qfVRyGC3jyZdg2Fu9", label: "2021年1月5日 業務員身份XD 至少六年沒來了哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/SmMy1a1R5LDwxEvg7", label: "2019年1月5日 \
+        醫生說的很好啊 人本來就要自己負責 只有月領三萬不吃不喝賠17年 怎麼不簽個自願役海軍吃住不用錢月薪也有五六萬以上 \
+        其實賠得起的合法方法很多 只是敢不敢吃苦 記者不用寫的他很可憐一樣 沒有負債但工作比他辛苦的多的是 \
+        我說的薪水是當月扣完吃住之後實領的 其實沒有錯" },
+      { type: "link", content: "https://photos.app.goo.gl/hFnPnvY7wz3NN9hF6", label: "2019年1月5日 繽紛饒河 新的一年 我們準備開吃 她是我唯一的麻豆啦" },
+      { type: "link", content: "https://photos.app.goo.gl/28VZ9UjeXgRyYotD6", label: "2019年1月5日 我跟女友畫的同一隻狗請問哪邊是神作" },
+      { type: "link", content: "https://photos.app.goo.gl/9LgtdnKhvAPjfjmt6", label: "2019年1月5日 \
+        最近豬瘟事件蔓延 這比什麼八卦政治重要多了 也算我的專業 下一頁簡單介紹 都是可信的正確資料 \
+        正確名稱 非洲豬瘟病毒 雙鏈DNA 歷史1921非洲首次發現 持續往東蔓延 2018/8/5中國爆發 \
+        傳染 豬肉 蜱 廚餘 工人衣物等都會傳染 病毒存活 冷凍豬肉活1000天 火腿140天 加熱到70度或罐頭只是不活化 \
+        豬的症狀 高燒 皮膚紅斑 厭食 死產 死亡等 只會感染豬 不會感染人體 對人類無威脅 卻會造成經濟損失 歡迎標註出處分享" },
+      { type: "link", content: "https://photos.app.goo.gl/5kj7FKGbKwVPufyn7", label: "2019年1月5日 這是po完之後最多人問我的 這是第二多人問的 豬瘟跟口蹄疫完全不同歐" },
+      { type: "link", content: "https://photos.app.goo.gl/C74jYVhat4c3t4on7", label: "2019年1月5日 理論上是可以吃的 但就是要杜絕感染台灣的豬 因為傳染快死亡率高 很快台灣會沒豬豬啊" },
+      { type: "link", content: "https://photos.app.goo.gl/CWNiSyEpdDqo25iQ9", label: "2018年1月5日 今天兩小時的課 講了快四小時 補充了太多教學內容 喉嚨都啞了 但能稍微嚐到夢想的邊緣也是值得 回來繼續讀書吧" },
+      { type: "link", content: "https://photos.app.goo.gl/QLwpodE8w65UBrv97", label: "2018年1月5日 \
+        赫然想起實作國考在四月 攝影後製家教課程主要剩下 一月下到二月台北 三月台中而已 若想學的好友歡迎詢問唷 LR+PS都會教 \
+        Ps有許多人問沒有電腦可以嗎 可以用我筆電操作但既然花錢學習 而且內容很多 還是希望能自備筆電 或回去有桌電能夠實際操作唷" },
+      { type: "link", content: "https://photos.app.goo.gl/PaE3o6Xx19BGAfj88", label: "2018年1月5日 \
+        攝影家教簡章 教學內容 會先了解您目前程度作調整 但基本會有 基礎講解 構圖光線等想法 包含晨昏高反差 銀河 \
+        氣象判讀 後製步驟 完整圖層遮色片 延伸 若已經熟悉遮色片 可利用時間多教亮度蒙版 須自己有亮蒙軟體 \
+        費用/時間 一人兩小時2000 兩人兩小時1800一人 三人兩個半小時1600一人 已繳費確定上課者 時間允許可提前帶拍不多收費 \
+        注意事項 超時問問題不多收費用 ppt無法copy給予 也無法錄音錄影 但可當場做筆記紀錄 一對一限男性" }
+    ],
     "6": [],
     "7": [],
     "8": [],
