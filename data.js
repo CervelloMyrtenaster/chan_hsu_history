@@ -220,6 +220,12 @@ const records = {
     "5": [
       { type: "link", content: "https://photos.app.goo.gl/ZsvEAJTEB4BkZ4539", label: "2026年1月5日 覺得87分很高很好的 你要不來醫院看看 87分是壓榨多少醫護來的 自以為87分世界第一 其實是世界第一87 最該移居的是讓醫護人員陪葬在這個醫療體系還沾沾自喜的你" },
       { type: "link", content: "https://photos.app.goo.gl/k76KsNWhA3Wd8QQXA", label: "2026年1月5日 支持版主 內科就該死 低薪還要幫其他科背鍋嗎 要馬付錢 要馬醫院自己看著辦 上層有這種觀念難怪大家都要去醫美" },
+      { type: "link", content: "https://photos.app.goo.gl/G5uay7aNoyCDr3Vu6", label: "2026年1月5日 這要給服務費讓他多送幾次" },
+      { type: "link", content: "https://photos.app.goo.gl/CTcfGTNjVEJQLUUw8", label: "2026年1月5日 哪有 有錢啦" },
+      { type: "link", content: "https://photos.app.goo.gl/Mgqu5MeHtR43SvVM6", label: "2026年1月5日 是人好看為主" },
+      { type: "link", content: "https://photos.app.goo.gl/gwuMS26JD1T4GsUG6", label: "2026年1月5日 \
+        日本真的很美 2023年一起去的勝尾寺 當時還很少遊客 我們一早開車到了幾乎沒有遊客 只有敲鐘的聲音迴盪 \
+        逛到一半飄來一點雪真是美極了 這樣美麗的地方固然很值得分享 但想到充滿遊客的場面就很擔心未來這裡變成菜市場 " },
       { type: "link", content: "https://photos.app.goo.gl/zJV5cCDi34WV1uZDA", label: "2025年1月5日 我個人是沒有任何黨派傾向的 從來一毛錢都不捐給任何政黨 所以我是就事論事 白色現在的路線我也是看不下去 但沒辦法 黨只要變大就是人變多 人多必有白癡" },
       { type: "link", content: "https://photos.app.goo.gl/cerKE43SxHXAQBi2A", label: "2025年1月5日 黃國昌質詢是真的很認真 好好去看一次他的質詢內容 才知道原來國家這樣亂花我的納稅錢" },
       { type: "link", content: "https://photos.app.goo.gl/qm8pb6z7HW482CAk8", label: "2025年1月5日 這些底層為什麼也配活著" },
@@ -257,7 +263,57 @@ const records = {
         費用/時間 一人兩小時2000 兩人兩小時1800一人 三人兩個半小時1600一人 已繳費確定上課者 時間允許可提前帶拍不多收費 \
         注意事項 超時問問題不多收費用 ppt無法copy給予 也無法錄音錄影 但可當場做筆記紀錄 一對一限男性" }
     ],
-    "6": [],
+    "6": [
+      { type: "link", content: "https://photos.app.goo.gl/9VEoasUuaXycE5bP7", label: "2026年1月6日 如果有考過心專還能留第三年 那我就要全包 手頭有點緊 但考試最重要QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/QwDEBDVaiLYk6cCa9", label: "2026年1月6日 \
+        看到以前追蹤的一個Fb粉專 峰言峰語 過去他對於台灣的一些社會環境評價還算寫實 雖然有時不知他說的數據或根據在哪 \
+        但今天看到這篇文章真的嚇死 這妄想般的胡扯把在台灣第一線努力的醫師 護理師跟醫療體系傷害的體無完膚 \
+        隨便講一點就好 有在內科待過幾個月的一定見過那種腎功能爆掉 可能因長期腎功能差又在仿間亂吃止痛藥 或者腎功能差加上心臟等功能不好導致惡性循環 \
+        又或者已經末期腎病變很長時間但拒絕洗腎等 常合併高血鉀或是尿毒症導致的各種併發症 又喘又腫來急診 再不洗腎準備回老家了 \
+        我倒是請這位峰言峰語來醫療現場勸病人不要接受治療啊 病人接受治療 醫師要承擔治療效果跟副作用等風險 病人不治療死了 後續醫師也要承擔家屬可能的提告或是上爆料社團詆毀我們 \
+        醫師都在難做了 還可以有這種粉專挾著自己的影響力胡說八道 在留言後立即被封鎖 正好也不想再看這種粉專 \
+        不過說來還是很悲哀 當第一線醫護努力救人放假還要讀書考試時 卻有粉專能用一知半解的謬論來詆毀我們這些人的努力 \
+        或許當我們遇到一些奧客病人時 甚至是看過這種亂七八糟的貼文才來為難醫療人員呢" },
+      { type: "link", content: "https://photos.app.goo.gl/eQqnqMmBRmvbUEUP7", label: "2026年1月6日 所以最壞的永遠是人心啊 不知寫這種文居心為何" },
+      { type: "link", content: "https://photos.app.goo.gl/4xZbN3CeChP48pE16", label: "2026年1月6日 可憐 看不出來AI只是在安慰你 讓你有點自信心而已嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/fpTrTYRntW86qrsy6", label: "2026年1月6日 他生了一種心理不舒服就必須大掃除的疾病 無法藥物治療 建議可以來我們家裡進去多次大掃除達到減敏療法" },
+      { type: "link", content: "https://photos.app.goo.gl/HrTnm3DQfAQBoumy6", label: "2026年1月6日 笑死 買個衛生紙超有儀式感哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/HaV5QuUKkztEjutp9", label: "2026年1月6日 小啾超愛箱子" },
+      { type: "link", content: "https://photos.app.goo.gl/Sj3ymZ8BGo5YGN8V7", label: "2026年1月6日 整個人活像個剪刀" },
+      { type: "link", content: "https://photos.app.goo.gl/oisUffQZMXw4rkaa7", label: "2026年1月6日 這種漂亮的文章要早點跟我分享啊 好吧" },
+      { type: "link", content: "https://photos.app.goo.gl/y3GgmMuCSfRGB2p96", label: "2025年1月6日 哪個 具體分享幾個" },
+      { type: "link", content: "https://photos.app.goo.gl/KufZkxwXHacLraZF9", label: "2025年1月6日 根本東倒西歪欸哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/AgvWV9uoFaEJC5K29", label: "2025年1月6日 仔細看才發現原來是3小隧道入口" },
+      { type: "link", content: "https://photos.app.goo.gl/wfFxPBVdA5o9hrR69", label: "2025年1月6日 這個時代想要健康及快樂 就真的很不容易了" },
+      { type: "link", content: "https://photos.app.goo.gl/5JBKEQL8NSpNCPK46", label: "2023年1月6日 每天都期待的晚餐 結果不見了" },
+      { type: "link", content: "https://photos.app.goo.gl/1PnHu9RM6PEB3NR3A", label: "2022年1月6日 不斷疲勞轟炸下 體能越來越衰退 前天下值班跑步, 天值班大腿還在微酸" },
+      { type: "link", content: "https://photos.app.goo.gl/uuVntSEYVMYwznkB8", label: "2022年1月6日 好難抽中QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/CXqSHLYBScrLyRje6", label: "2022年1月6日 怎麼那麼厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/vSV3HD2YfAmqoBfv8", label: "2021年1月6日 \
+        僅此紀念一下 無意間5公里在20分鐘內跑完了哈 19:55 但真是意外中的意外 每次都當健康運動而已 \
+        對很多人來說很簡單 對我來說卻是國中畢業中斷了超過十年 再次開啟跑步的動力哈 Anyway之後決定吃好料慶祝" },
+      { type: "link", content: "https://photos.app.goo.gl/gqMe1VCWC5oRpBiD7", label: "2019年1月6日 時間咻一下短短的輪休就過了 突然還能一起跨年倒數看煙火真幸運XD 希望今年能事事順利 別再跟2018一樣經歷許多坡折 也祝朋友新年快樂 萬事如意啦" },
+      { type: "link", content: "https://photos.app.goo.gl/t2CGB387gS7ENHHD7", label: "2019年1月6日 這是你想要的生活嗎?" },
+      { type: "link", content: "https://photos.app.goo.gl/FbpbPY4z4vGAc5hz6", label: "2018年1月6日 \
+        DK大神用來修星芒的方式真的很強 這方法不簡單也不好記 但後製痕跡完美消除 讚嘆一下 \
+        接圖的邊邊缺角無論多大都被修復了 陽光照射的透視感+朦朧光暈感 原來是這樣弄的 \
+        DK顛覆了我的修圖方式 完全砍掉重練 以前仰賴筆刷現在完全曲線調整 後製更自然但觀念更複雜 好像學成了好幾套武林功夫 尚須時間結合運用 融會貫通XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/jrf6UMj6kSyNZS6G9", label: "2018年1月6日 一月下半後製家教可先預訂 除了1/20 1/21 1/24-1/28無法 平日晚上18:00後可 地點台北" },
+      { type: "link", content: "https://photos.app.goo.gl/eJPwiTqZbZZ1wrkM8", label: "2018年1月6日 我把DK全英文沒字幕的課程分主題編成教學ppt 也把重點翻譯成中文做整理 呃會有人想上嗎 內容從基礎到極難都有 非常完整 他課程十多小時我只完成十分之一" },
+      { type: "link", content: "https://photos.app.goo.gl/LtHtRgbTCrpc89n56", label: "2018年1月6日 LM的進階大概念分成低中高光 色彩等調整 做群組負片 然後漸層調出要的部分 聽得懂的高手應該可以自己研究出來惹 頭暈眼花 歡迎邀請對後製有興趣的朋友追蹤我 不定期放上教學資訊 一些基本後製概念" },
+      { type: "link", content: "https://photos.app.goo.gl/ZVVTdnT2paFz9HSz7", label: "2018年1月6日 交個作業 燒腦袋燒一下午 休息一下ㄌ 訊息晚點回覆抱歉" },
+      { type: "link", content: "https://photos.app.goo.gl/WBRBiNnN3m8yFcNc9", label: "2018年1月6日 今天一月家教第二堂 還收到台東伴手禮也太甘心XD" },
+      { type: "link", content: "https://photos.app.goo.gl/CiZ3N2hRyyK3CnmP6", label: "2018年1月6日 \
+        這張照片是Daniel Kordan付費教學課程的練習原檔 所以不是我拍的 我按著其中兩章教學影片後製 也是今天家教親自示範的照片之一 \
+        因為學生電腦不好無法使用HDR 所以唯一敗筆在還是用自己的遮色片疊圖 只能說Kordan的教材裡十幾個小時影片 每集都是九陽真經 易筋經 孤獨九劍等的高深學問 \
+        由淺入深 並顛覆四年來自己所學的後製 就是砍掉重練啦哈哈 目前只看了十分之一 學會自製luminosity mask LM的進階應用 HDR加光加色的漸層運用 修復接圖等等技巧 完全不留任何痕跡 \
+        由於是全英文沒有字幕的影片 幾乎每集我都自己翻譯並消化成自己的內容 做成中文的教學ppt檔 但還沒使用 所以一小時的課程我可能兩個多小時學習跟紀錄 \
+        如果有朋友對風景後製教學有興趣 歡迎私訊或到我的instagram 我會內化並融合成自己的東西來教學 我想這些東西 在台灣是幾乎看不到的XDD \
+        台北課程只到二月 台中課程三月 之後要全心準備考試跟畢業就不再教學了 謝謝 IG搜尋OMG-W 不是我拍的 我修圖而已 \
+        附上分別為40多頁跟10多頁自己編輯的後製ppt 我真的瘋了XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/i7ZTcytG3ttFYeFH7", label: "2018年1月6日 原圖 不要再說我是修圖王不是攝影師 乾我根本沒時間衝景好嗎 有時間衝景我就不會在這發廢文了" }
+
+    ],
     "7": [],
     "8": [],
     "9": [
