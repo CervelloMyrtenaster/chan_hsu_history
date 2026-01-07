@@ -265,6 +265,14 @@ const records = {
     ],
     "6": [
       { type: "link", content: "https://photos.app.goo.gl/9VEoasUuaXycE5bP7", label: "2026年1月6日 如果有考過心專還能留第三年 那我就要全包 手頭有點緊 但考試最重要QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/npbk849NcK7E5fVb8", label: "2026年1月6日 \
+        這樣犧牲奉獻的軍人 一個月加薪3萬原來不合法ㄛ 這樣的高風險的台海危機 軍人終生俸領到當初國家答應的金額也是不行的ㄛ \
+        william_chingte你好棒喔 軍人出事了發文就好真輕鬆 你帶領的三軍真應該犧牲奉獻 不可以爭取低薪跟低退俸 不然就是掏空國庫不合憲法" },
+      { type: "link", content: "https://photos.app.goo.gl/auaq6BWvgPotHxgN8", label: "2026年1月6日 加你媽的 台海都可能要打起來一個月加幾千我們是什麼很賤的人嗎 可悲喔你覺得很高你來簽下去啦幹" },
+      { type: "link", content: "https://photos.app.goo.gl/CchzGEWJBTuoFaDW9", label: "2026年1月6日 TOP4是軍人才對 戰爭時軍人是TOP1 然後明星藝人危險個屁 會危險都是為了做效果去冒險能怪誰" },
+      { type: "link", content: "https://photos.app.goo.gl/wTbFPUGiGx91PHdX9", label: "2026年1月6日 \
+        看完sunny_08957的道歉影片後 除了對他的態度感到欽佩 更讓我嚇到是他們家居然是我夢寐以求的101夜景視野 \
+        一查才發現是台北之星鑽石塔 一戶四億 如果有生之年中樂透絕對先買這裡 能夠在自家一邊拍101夜景一邊喝紅酒真是太羨慕了" },
       { type: "link", content: "https://photos.app.goo.gl/QwDEBDVaiLYk6cCa9", label: "2026年1月6日 \
         看到以前追蹤的一個Fb粉專 峰言峰語 過去他對於台灣的一些社會環境評價還算寫實 雖然有時不知他說的數據或根據在哪 \
         但今天看到這篇文章真的嚇死 這妄想般的胡扯把在台灣第一線努力的醫師 護理師跟醫療體系傷害的體無完膚 \
@@ -312,9 +320,51 @@ const records = {
         台北課程只到二月 台中課程三月 之後要全心準備考試跟畢業就不再教學了 謝謝 IG搜尋OMG-W 不是我拍的 我修圖而已 \
         附上分別為40多頁跟10多頁自己編輯的後製ppt 我真的瘋了XDD" },
       { type: "link", content: "https://photos.app.goo.gl/i7ZTcytG3ttFYeFH7", label: "2018年1月6日 原圖 不要再說我是修圖王不是攝影師 乾我根本沒時間衝景好嗎 有時間衝景我就不會在這發廢文了" }
-
     ],
-    "7": [],
+    "7": [
+      { type: "link", content: "https://photos.app.goo.gl/eY1ZWFHVELtT5mgc8", label: "2026年1月7日 \
+        我覺得台灣很多人欠缺同理心 一個月才多少錢就要志願役去送命 真的想得美 愛國大家都會說 但當需要犧牲自己利益時就惦惦 \
+        給軍人加薪給退伍老兵該給的退休俸 就一堆人的噁心嘴臉現形 看了誰要為國家拼命啊" },
+      { type: "link", content: "https://photos.app.goo.gl/F3AzfKwq7zxLf2dL7", label: "2026年1月7日 明明是我去付錢ㄉ" },
+      { type: "link", content: "https://photos.app.goo.gl/N5uNZWKSGg2zqBbq5", label: "2026年1月7日 支持國軍加薪 擋國軍加薪的說愛國一律當放屁" },
+      { type: "link", content: "https://photos.app.goo.gl/1x7d4skLoUiFG6GH8", label: "2026年1月7日 集氣 拜託他平安生還" },
+      { type: "link", content: "https://photos.app.goo.gl/5Ui1BuX96WfMmDmN7", label: "2025年1月7日 還記得去年剛開始第一天就機車爆胎 結果今年剛開始第一個禮拜就汽車 說不定是一種累積好運的辦法" },
+      { type: "link", content: "https://photos.app.goo.gl/aLGi8qvHB4gAobaY9", label: "2025年1月7日 重點是他們都比你爛" },
+      { type: "link", content: "https://photos.app.goo.gl/AEgqP3R95ikebDs68", label: "2024年1月7日 這些貓也太好笑" },
+      { type: "link", content: "https://photos.app.goo.gl/z1JXc5WD3sDGdfQa7", label: "2024年1月7日 來日本mofu_sand原創來台的商品搭配日本人也在這裡逛 一瞬間以為自己又在日本了" },
+      { type: "link", content: "https://photos.app.goo.gl/8nxKRd9JXJvWy2wa6", label: "2024年1月7日 通過內專就好" },
+      { type: "link", content: "https://photos.app.goo.gl/gx43dzL2d7V29TzF7", label: "2024年1月7日 恭喜 今天值班只能遠遠祝福" },
+      { type: "link", content: "https://photos.app.goo.gl/ZVueq7MYh5GrnVKS7", label: "2024年1月7日 今天的晚餐也太幸福了吧 而且手速超快" },
+      { type: "link", content: "https://photos.app.goo.gl/gZcqULMiASPQCTdi9", label: "2023年1月7日 \
+        ICU泡製藥物濃度換算 這裡用簡單的換算概念 不需複雜的公式 就可以把給藥建議的濃度換成pump機器需要的濃度唷 \
+        完全不用額外背誦任何公式 以下內文稍嫌字多 但閱讀理解後 就可以在白紙上用簡單的兩三個算式算出答案 \
+        因此重點在於理解這個邏輯 本文最下方仍附上無腦公式一枚 使用時注意單位即可 \
+        以前都背公式 感謝學長指導有方 突然就頓悟 趕緊寫下來 忽然就頓悟 發現泡製藥物換算其實很簡單 以前到底怕什麼 一定是脫離國中數學太久" },
+      { type: "link", content: "https://photos.app.goo.gl/CQWejvWb57PYwToK8", label: "2022年1月7日 路過才發現竟然抓到野生捷運看板 好羡慕我也要拍" },
+      { type: "link", content: "https://photos.app.goo.gl/V72R4MM3z8UeJYPc8", label: "2019年1月7日 憑什麼要拿我辛苦賺的錢給別人花 月薪只有三萬不會簽自願役嗎 又有錢又有吃住又可以補充國軍人力又可以身體力行愛國的表現 不懂zzzz" },
+      { type: "link", content: "https://photos.app.goo.gl/zhPvDcyxwTrc5gZG9", label: "2019年1月7日 第一次來未來要上班到退休的地方 進門到出門肉眼可見的不超過五個病人 這種現象我從來沒看過 國軍花蓮805總醫院" },
+      { type: "link", content: "https://photos.app.goo.gl/kasmucXYFaWUZZrv7", label: "2019年1月7日 本日唯一心得 希望這十年花蓮發達一點 地震少一點 讓我十年後能好好享受生活" },
+      { type: "link", content: "https://photos.app.goo.gl/pedj4um4exD5hiVk9", label: "2019年1月7日 \
+        時隔近兩年 終於整理出大部分的楓葉照片 當下在拍的時候 心裡告訴自己一定要再來 後來在修圖的時候 又告訴自己一定要再來 \
+        但最後關掉電腦時 發現腦海裡還有千百處人生清單的風景 頓時覺得不再去也罷 所以說 追尋美麗的風景時必須豪不保留 \
+        把它當作最後一次拍攝 因為世界太大要去的地方太多 很大機會真的是最後一次拍攝" },
+      { type: "link", content: "https://photos.app.goo.gl/6mgB4DyDnyUSX45R9", label: "2019年1月7日 \
+        新的一年還請大家支持 我會永遠堅持這份拍攝的熱情 雨澆不熄的跨年熱情 攝於2018/12/31 \
+        新的一年 越來越少的拍攝機會 但我給自己一個2019的新目標 定位自己的風格 \
+        我不是很肯定在沒有提示時 各位能否在許多照片裡知道這是omg拍的 但攝影的靈魂撇除求技術的爐火純青 剩下的很多必須是自己的個性與思考在作品裡 \
+        那是可貴的標記 被人記得的特徵 我必須有自己穩定的風格 This year I have a new goal that I pursue my own style of works \
+        The specific style is important because it represents your think and personality \
+        And your pics would be remembered by people because of your own style but others" },
+      { type: "link", content: "https://photos.app.goo.gl/JwgtZcs2MvUjhvYv7", label: "2019年1月7日 上拉連結有國外網站選取的台灣top4煙火照" },
+      { type: "link", content: "https://photos.app.goo.gl/QqbZSXdBHxTN1P8QA", label: "2018年1月7日 \
+        This pic was shooted from Daniel Kordan and I got the DNG file from his tutorial \
+        After watching his vedio I processed this beautiful scenery His technique changed my methods before a lot \
+        From the LR and CC combining HDR Luminosity curve and many other techniques are using very gentlely Thanks a lot for the master \
+        這張照片是我從DK教學檔裡面得到 並照他教學方式後製的 裡面的方法顛覆從前我修圖的方式 剩下的我想將自己的方法也融會貫通 做出自己一套方式 \
+        對於修圖後製 針對風景 想學的朋友 目前剩下到二月之前的課程 或者三月台中 之後要全心準備畢業的考試了 歡迎私訊 謝謝 並非我拍攝的照片 嚴禁轉載 有原圖與後製比較" },
+      { type: "link", content: "https://photos.app.goo.gl/9hBfQ5DDjQh9RNmr5", label: "2018年1月7日 該換電腦了 換絕招教你XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/yBqnJBGRaRhbpWjL7", label: "2018年1月7日 下課 有點累 " }
+    ],
     "8": [],
     "9": [
       { type: "link", content: "https://photos.app.goo.gl/34AV7GNxDgV4ERFTA", label: "2017年1月9日 \
@@ -4515,7 +4565,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/6uWvNGc7ymiZzvud6", label: "2025年12月26日 全力支持 超讚的示範 身為父母親的人在小孩遇害後 司法無法給予正義時都應該這樣做" },
       { type: "link", content: "https://photos.app.goo.gl/DQDZLuprY2GCb73t8", label: "2025年12月26日 我覺得他說歸說 能做到多少很難說 我滿討厭講的很漂亮但實際上做不到的人XDDD" },
       { type: "link", content: "https://photos.app.goo.gl/BoYTVFr2aGZCk1au9", label: "2025年12月26日 30歲經歷風霜跟辛苦 終於下定決定全額貸款拿下Urus SE 的合照" },
-      { type: "link", content: "https://photos.app.goo.gl/bijnaLoYGNAdf2qW7", label: "2025年12月26日 雖然很貴但大推這間鐵板燒 表演很用心 料理很用心 和牛真的很好吃" },
+      { type: "link", content: "https://photos.app.goo.gl/bijnaLoYGNAdf2qW7", label: "2025年12月26日 Kamekona Hawaii鐵板燒 雖然很貴但大推這間鐵板燒 表演很用心 料理很用心 和牛真的很好吃" },
       { type: "link", content: "https://photos.app.goo.gl/6NRh5sGMj7mGF8Vj8", label: "2025年12月26日 3萬多台幣終身網路10TB划算嗎 算起來很多方案都是每年 2-3000元 聽起來終身方案10T好像不錯 可以存照片跟醫學檔案什麼的 想問問大家的經驗或有沒有終身方案的推薦 希望是不會倒閉的大公司" },
       { type: "link", content: "https://photos.app.goo.gl/hN2EfNpfW3QqCquc8", label: "2025年12月26日 一個讓人很安心的值班夜" },
       { type: "link", content: "https://photos.app.goo.gl/FHt4aNGKrRfCUg7J9", label: "2025年12月26日 太會拍了" },      
