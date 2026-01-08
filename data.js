@@ -365,7 +365,52 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/9hBfQ5DDjQh9RNmr5", label: "2018年1月7日 該換電腦了 換絕招教你XDDD" },
       { type: "link", content: "https://photos.app.goo.gl/yBqnJBGRaRhbpWjL7", label: "2018年1月7日 下課 有點累 " }
     ],
-    "8": [],
+    "8": [
+      { type: "link", content: "https://photos.app.goo.gl/hMp1MDfoVyDKAunJA", label: "2026年1月8日 這莫拉預判躲招已經很秀了但還是被奶綠秀爛欸 超扯要看到最後" },
+      { type: "link", content: "https://photos.app.goo.gl/DxJ5tBCFt4gxoJUeA", label: "2026年1月8日 真的可愛捏" },
+      { type: "link", content: "https://photos.app.goo.gl/PYCHVNx9fpdfTkiY9", label: "2025年1月8日 \
+        今天心導管PUNCTURE時第一次遇到一件怪事 最後失敗 沮喪不已外 下午到回家都在檢討原因 後來終於想通了 \
+        事情是硬針打進去後會回血 噴流不到很強 送WIRE進去都很順 只有最後一截有點阻力 於是我照FLOW GUIDE看到WIRE完全走在正常的路徑上 完全沒有摺痕或捲曲 病人也不痛 \
+        奇怪的事情來了 SHEATH送進去後完全無法反抽 最後取出SHEATH看到頭的部分有一點疑似內膜的組織塞住洞口" },
+      { type: "link", content: "https://photos.app.goo.gl/269qSZrUeMTuLSwz6", label: "2025年1月8日 \
+        自我檢討後 應該是硬針部分在管腔內而已 這可以解釋為何動脈噴流沒有到很強 \
+        WIRE剛好進入到內膜跟中膜之間 因此完全走在血管壁 可能病人組織剛好比較鬆散所以送的過程非常平順 甚至FLOW看WIRE位置還是正確的 \
+        這裡自我檢討一個最大的錯誤就是FLOW看起來正常就以為沒事 其實一開始噴流沒有很強及送到最後反而有點阻力 應該都暗示不是走在TRUE LUMEN" },
+      { type: "link", content: "https://photos.app.goo.gl/r5PQtC8CjaBYc4ZK9", label: "2025年1月8日 \
+        SHEATH也因為送進血管壁 所以解釋了無法回抽 幸好沒有硬拉 及拔除後有一點內膜組織 \
+        想了很久還是紀錄下來 這是第一次也是最後一次 以後不能再發生這樣的誤判" },
+      { type: "link", content: "https://photos.app.goo.gl/PLhJXUvkk2wHuFLw9", label: "2025年1月8日 之前在當醫官時 還是傳統的三項居多 一樣拿過300 不過為了練體測不小心得到一輩子的傷害 對的" },
+      { type: "link", content: "https://photos.app.goo.gl/a1g1AixhdKepyBwS7", label: "2025年1月8日 我還真的看不懂怎麼玩捏" },
+      { type: "link", content: "https://photos.app.goo.gl/yBwS3WUrWFv46Cim6", label: "2025年1月8日 好可愛怎麼沒看清除嗚嗚嗚" },
+      { type: "link", content: "https://photos.app.goo.gl/4ybgC8jP7DgTqXtj6", label: "2024年1月8日 \
+        2024跨年煙火藍調 不是很滿意上一張的跨年煙火 又抓了幾張來修 結果還是碰到了一些後製的瓶頸 尤其是一根根金屬間的空隙 \
+        不過有了藍調跟處理好周圍金屬光澤 就比較像原本要的樣子 總的來說下次再拍跨年煙火 這個位置沒有很考慮了" },
+      { type: "link", content: "https://photos.app.goo.gl/1zwyTPz8ecMKq3Gx5", label: "2024年1月8日 年紀三開頭 身體狀況變差而且工作繁重 配速不再追求三開頭了 一個月大概跑2-4次 能在五分速內跑完已經是感恩" },
+      { type: "link", content: "https://photos.app.goo.gl/bkooa6spBGCFPNcAA", label: "2024年1月8日 2024第一跑 一樣是過了一個月沒跑的復健" },
+      { type: "link", content: "https://photos.app.goo.gl/tHvyKVbS5Rk9JPmj7", label: "2024年1月8日 困難梭狀桿菌感染 CDI" },
+      { type: "link", content: "https://photos.app.goo.gl/p6pCQ8XVpk9wsTE18", label: "2023年1月8日 下值班 睡一小時 再來拍攝任務 真的累" },
+      { type: "link", content: "https://photos.app.goo.gl/AoUZRf6iupm9W9aE7", label: "2023年1月8日 這個版本好厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/D8uABUih8Pdp8NYK8", label: "2023年1月8日 這次被優秀的同學分享作品 太開心了" },
+      { type: "link", content: "https://photos.app.goo.gl/NHg2RQVCnjhc3GBq6", label: "2023年1月8日 看著以前的作品 記得那份衝景的熱血 卻怎麼也無法從目前的上班值班跟準備考試的模式中抽身 再次體會那種感覺" },
+      { type: "link", content: "https://photos.app.goo.gl/RyApiMTWYpmrpP8c8", label: "2022年1月8日 來看台灣雕民 沒付服務費 以為醫護人員需要處理家屬的情緒 還敢公審 版主 醫師都戴著口罩怎麼看得出是不是在笑啊XD" },
+      { type: "link", content: "https://photos.app.goo.gl/67ToYiRTLUACuCoT8", label: "2022年1月8日 美好的早午餐" },
+      { type: "link", content: "https://photos.app.goo.gl/ktnxpo7yGTZQvWdz9", label: "2022年1月8日 沒有薯餅 我應該不會去麥當勞吃早餐了" },
+      { type: "link", content: "https://photos.app.goo.gl/8PPEWPA6tAKKkf6v8", label: "2022年1月8日 很愜意 但被風吹的亂七八糟" },
+      { type: "link", content: "https://photos.app.goo.gl/4Y3VR8yRxxjpbCmY8", label: "2022年1月8日 也未免太豐富了吧" },
+      { type: "link", content: "https://photos.app.goo.gl/gTJTgJmtgWieqL8c9", label: "2022年1月8日 \
+        台北蔬鍋藝火鍋鶯歌店 位於鶯歌火車站旁邊的連鎖火鍋店 好訂位又好停車 位置也很寬敞 \
+        最讓我們尬意的是價格合理 但份量特多 料理也很豐富 打卡也會再送肉 這次點豬肉跟牛腱 再搭配加點的海鮮盤 真的吃很飽 \
+        附餐區有甜度剛好的爆米花 明治冰淇淋 各種熱飲及氣泡飲 還有紅豆湯 整體而言料很新鮮 菜類也給很多 海鮮更是好吃 很舒適開心的用餐體驗啊" },
+      { type: "link", content: "https://photos.app.goo.gl/1DMPbeD5ho93Hxp88", label: "2020年1月8日 真是有夠中肯 民主就是有容易被操控的風險" },
+      { type: "link", content: "https://photos.app.goo.gl/JT6auyiG5FQ4SqfM8", label: "2019年1月8日 很普通竟然可以做一篇文章 比他獨特有意義的攝影師很多 他拍這樣的人太多了 把他們作品擺在一起其實看不出來哪張是誰拍的 互相模仿居多 想必撰文的小編照片看得太少" },
+      { type: "link", content: "https://photos.app.goo.gl/wLAJegUEpzrnxevK7", label: "2019年1月8日 以前我在教圖層的時候有特別說過這個 也是很多人問我的 雖然在風景後製這兩種筆刷差無幾 但去過背的圖層則有差異 也是一個很好的區分功能 文中圖片見下頁" },
+      { type: "link", content: "https://photos.app.goo.gl/yKn7m82UUGpqdThf7", label: "2019年1月8日 持續分享攝影後製知識 有幫助到各位嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/Q1FTMEy3ZpSgeExp7", label: "2019年1月8日 太神太勝利了QQ 我只能在船上隔著手機螢幕看你們噓捧跟出國 真心酸" },
+      { type: "link", content: "https://photos.app.goo.gl/m6twtgKwthSEaLCW7", label: "2018年1月8日 忘記合照了哈哈 謝謝各位參加後製家教 記得 記得 記得 回家一定要練習 內容很多 熟能生巧唷" },
+      { type: "link", content: "https://photos.app.goo.gl/6C5qrdhRBkeu15BX7", label: "2018年1月8日 3k後開始回覆小盒子 上過後製歡迎寫缺點及我需要改進的點唷 其餘問題也歡迎詢問 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/rTVoagoPpXYXHgbo9", label: "2018年1月8日 3K Free to say anything" },
+      { type: "link", content: "https://photos.app.goo.gl/N3tNNSZbYfxmrfY49", label: "2018年1月8日 1月22日晚上台北 剩最後一位一月的家教名額 這天已經有一位同學想預訂 可以一起兩人優惠 詳情請私唷 謝謝" }
+    ],
     "9": [
       { type: "link", content: "https://photos.app.goo.gl/34AV7GNxDgV4ERFTA", label: "2017年1月9日 \
         透早上刀就是劈頭一個振奮人心 學弟 這台你來開 於是乎 雖然只是簡單的清創 但卻是第一台自己上的刀 \
