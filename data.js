@@ -366,6 +366,11 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/yBqnJBGRaRhbpWjL7", label: "2018年1月7日 下課 有點累 " }
     ],
     "8": [
+      { type: "link", content: "https://photos.app.goo.gl/69w4JAvwzEYYAk4FA", label: "2026年1月8日 台灣連多給志願役三萬都不願意了 完全不期待強度能夠跟美軍看齊" },
+      { type: "link", content: "https://photos.app.goo.gl/DfwXTZXPGfGCkNnQ9", label: "2026年1月8日 最好我都很認真拍還用相機 但我們排的行程太多 才會沒辦法在每個地點慢慢拍" },
+      { type: "link", content: "https://photos.app.goo.gl/3s2y6Qt55CP8v7f96", label: "2026年1月8日 我願意這樣被警察廣播" },
+      { type: "link", content: "https://photos.app.goo.gl/HkUc6ytUeJnsFY3r5", label: "2026年1月8日 是無尾熊貓貓欸" },
+      { type: "link", content: "https://photos.app.goo.gl/GwrjVjBjuwUrDYvF6", label: "2026年1月8日 但我也很體貼 只是我很爛QQ" },
       { type: "link", content: "https://photos.app.goo.gl/hMp1MDfoVyDKAunJA", label: "2026年1月8日 這莫拉預判躲招已經很秀了但還是被奶綠秀爛欸 超扯要看到最後" },
       { type: "link", content: "https://photos.app.goo.gl/DxJ5tBCFt4gxoJUeA", label: "2026年1月8日 真的可愛捏" },
       { type: "link", content: "https://photos.app.goo.gl/PYCHVNx9fpdfTkiY9", label: "2025年1月8日 \
@@ -412,6 +417,87 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/N3tNNSZbYfxmrfY49", label: "2018年1月8日 1月22日晚上台北 剩最後一位一月的家教名額 這天已經有一位同學想預訂 可以一起兩人優惠 詳情請私唷 謝謝" }
     ],
     "9": [
+      { type: "link", content: "https://photos.app.goo.gl/xTSfwGtknzZWjkew8", label: "2026年1月9日 支持制裁這種人 言論自由不是這樣用的" },
+      { type: "link", content: "https://photos.app.goo.gl/326bM9xRa5w3sxaTA", label: "2026年1月9日 好可憐 我們不會排擠他嗚嗚" },
+      { type: "link", content: "https://photos.app.goo.gl/uj41Dfr5C2YF2J9CA", label: "2026年1月9日 直接被巨大屁屁撞倒欸哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/d77K5BsjBu4NQ9xn7", label: "2026年1月9日 我以後也會帶你去" },
+      { type: "link", content: "https://photos.app.goo.gl/5ZTnZZsVERn7vnCe8", label: "2025年1月9日 \
+        以台灣而言 重症科住院醫師起薪20萬 重症科主治起薪起薪40萬 第一線護理師起薪10萬 消防員起薪15萬 \
+        我覺得這樣才符合比例 但要加上酒駕跟詐騙等等視嚴重度死刑跟罰到一輩子破產 補充國家財政 國家再來補足醫護跟軍警消的薪水" },
+      { type: "link", content: "https://photos.app.goo.gl/2SWdGijziV1v3mMJ8", label: "2025年1月9日 好笑 標準身在福中不知福" },
+      { type: "link", content: "https://photos.app.goo.gl/uKUEZunHWtUgqfGE8", label: "2025年1月9日 傻子才付錢給台服傳說 越南服造型都台服五折起跳 而且超多台服無法直接購買的造型越南服都能低價直接買" },
+      { type: "link", content: "https://photos.app.goo.gl/RZJbiNj6ocVRjybn8", label: "2025年1月9日 \
+        真的很好笑 一般來說感冒你不用藥躺著3-5天也可能自己好 症狀藥物給你讓你好好休息 加速你痊癒的時間 你是嫌三小 \
+        你想要完整的檢查也可以啊 一天醫師只能看十幾個病人 你感冒直接預約三個禮拜後才看得到你要 \
+        媽的看得慢也要被嫌 看得快也要被嫌 民眾是付幾個錢就想得到多好的醫療品質啊 醫師欠你啊 \
+        不要只會講幹話 好好思考一下為何台灣醫療環境變這樣才能真的知道問題點" },
+      { type: "link", content: "https://photos.app.goo.gl/k9Uma8fvNWhiwYSY7", label: "2025年1月9日 學長才是榜樣" },
+      { type: "link", content: "https://photos.app.goo.gl/vvTT7Z8ZCYCGuxis7", label: "2025年1月9日 你誰啊zzzzzz 滾一邊去吃草" },
+      { type: "link", content: "https://photos.app.goo.gl/h1tFuLp1EwT7cXbUA", label: "2025年1月9日 你就算不練也不用洗碗ㄚ 我洗就好" },
+      { type: "link", content: "https://photos.app.goo.gl/sWRPsmu9MhXcQM9B6", label: "2025年1月9日 好可憐 需要收養" },
+      { type: "link", content: "https://photos.app.goo.gl/3wVqKWcyL83YZz2f6", label: "2024年1月9日 確定是衛星 不是飛彈" },
+      { type: "link", content: "https://photos.app.goo.gl/M5G39qENbR3zQzE1A", label: "2024年1月9日 \
+        主旨 ICCA系統應讓住院醫師可複製文字\
+        反映意見 加護病房護理師的ICCA系統醫師登入只能看 只有護理師可修改內容 \
+        我了解護理師基於職責及法律層面無法開放醫師修改 但是住院醫師常常需做患者資料彙整 是否可開放複製文字的功能就好 \
+        讓我們住院醫師可以複製文字 把患者筆記做好 能更有效率的照護患者 也能減輕臨床壓力 希望請資管部工程師幫忙 \
+        雖不能修改文字 但可以複製文字 否則ICCA只能看也太不方便 最後強調 我們醫師連病歷都沒時間打了 \
+        絕對部會想要修改ICCA內容 儒有這種疑慮大可放心 若無法只複裂文字就麻煩幫忙打開醫師可以修改ICCA的權限吧 \
+        反正我想複製內容 完全不會去動護理師的紀錄" },
+      { type: "link", content: "https://photos.app.goo.gl/EN9dUznRmJjNRYct8", label: "2024年1月9日 這才是我要的影片 這才是真實" },
+      { type: "link", content: "https://photos.app.goo.gl/gRLVQ6ryK1mi3WXa6", label: "2023年1月9日 貓也會可愛貓" },
+      { type: "link", content: "https://photos.app.goo.gl/HxB3CoJdfbY3DSCf8", label: "2022年1月9日 我遇到兩次了 丟在草稿太久的文章 就會在發出去的時候遇到失敗 原本打好的內容也完全看不到了 因為在草稿區消失 到底放多久會這樣" },
+      { type: "link", content: "https://photos.app.goo.gl/oFLtSsn5mB5q5ENL7", label: "2022年1月9日 也太好吃了QAQ" },
+      { type: "link", content: "https://photos.app.goo.gl/35AyA4hidQ7cF6X17", label: "2021年1月9日 永遠沒有正常下班 工時超過24小時是常態" },
+      { type: "link", content: "https://photos.app.goo.gl/9DauBL9McdK9d4uU6", label: "2019年1月9日 \
+        這是軍校喔 無知高中生千萬別聽信父母或誰的讒言傻傻簽下去 自己打聽清楚再決定要不要 到時候怨嘆沒人對你負責 \
+        簽了要走賠3000萬等於出不去 簽了大半輩子收入固定但都沒自由" },
+      { type: "link", content: "https://photos.app.goo.gl/bUTYcjYn2ghU8X8y7", label: "2019年1月9日 \
+        遺憾的是 不管哪間醫學院 只要拿到執照而且願意努力 一定能找到訓練的醫院 但軍費只能在三總喔 \
+        補充 外面很多醫學生畢業是故意gap一年 趁年輕環遊世界或診所打工 享受人生或短暫喘息 軍費生可是直接分發部隊兩年呢 即使未來會先訓完pgy \
+        軍費生第一名不要說耳鼻喉 眼科皮膚家醫等等 都有機會選不到 因為醫院沒開缺 而外面的醫學生至少可以避開不喜歡的科 \
+        在國防只要成績差 就會直接丟剩下的科呢 這點外面醫學系大勝 補充 這種影響一輩子的事情務必跟高中生說 但從來沒有人敢說 \
+        知道的怕公開說被黑 不知道的繼續以為軍費畢業就沒選科壓力 出國讀書實際上根本不划算 除非很想去或家裡很有錢 因為現在幾乎沒有補助了 \
+        等讀完回來可能好幾年都賺不回在國外唸書的錢 何況不想出國讀書 只想做個單純的醫師賺基本的錢 有自由能規劃本業以外的生活 還是佔不少數 \
+        這些人被軍費綁住可是痛苦半輩子 很多都是沒職缺被出國讀書 其實我真的不想回這些 就怕有當年跟我一樣從小被逼著讀書沒見過世面的高中生因為聽了樓上的話 \
+        抱著希望進來結果發現 但當初我進來就是沒有學長分析這些給我聽 憑良心講軍費生還是有很多優點但絕對不是樓上那些" },
+      { type: "link", content: "https://photos.app.goo.gl/PHVneav8pojR7rNy5", label: "2019年1月9日 看到這個大神的相簿真的很感動 後面分享幾張他的照片 說明為什麼我這麼推崇這位風景攝影師 看完真心覺得自己要砍掉重練了" },
+      { type: "link", content: "https://photos.app.goo.gl/mPYWqibGZZ2VrZw39", label: "2019年1月9日 \
+        首先是他處理建築物 這方面紋理跟質感最重要 讓觀看者彷彿當下雙手真的觸摸到照片的建築一樣 \
+        那是因為他後製處理的太好了 太過於真實 再來是光影跟細節 光影可以從筆刷慢慢做 讓建築物有立體感 \
+        然後是細節 他能造就紋理 也能凸顯該建築要表達的文化裝飾 所以尤其街拍建築 不要放進電腦就是拉亮跟套風格檔 \
+        而是拍攝時注意建築吸引人的紋路跟當下光線 並在後製時凸顯他們 讓觀看者感受到作品的深度 否則只是流水跟模仿而已" },
+      { type: "link", content: "https://photos.app.goo.gl/cbgKADfCmyR9qaCq6", label: "2019年1月9日 \
+        第二張是晨昏 作者刻意在中遠景做了濛化 因為當下情境是有水氣霧氣的 然後相同的 做出一排排茶園的光影變化 不然原圖一定只是一堆綠色很無聊 \
+        這個光影變化需要筆刷慢慢刷 符合光線方向 還有顏色的調配 綠色帶出陽光和煦的橘黃 看了非常舒服 \
+        所以不要再說後製失去原味 以上說的都是肉眼當下看得到 但原檔照片無法呈現的 後製反而凸顯出上面說的那些特點 讓觀看者能置身當下環境 感受環境 \
+        這是爐火純青的後製帶來的效果 所以拍完風景不要整張拉得藍藍綠綠的 一張照片一定有不同顏色分佈的區塊 \
+        好好思考如何讓每個顏色和諧共存在照片裡 好比每個原料一起煮成一道頂級料理 可以讓人流連忘返" },
+      { type: "link", content: "https://photos.app.goo.gl/u6SgX9Jj6P5sDnKa7", label: "2019年1月9日 \
+        最後一張是夜拍 先不論如何讓畫面這麼純粹乾淨銳利 還有特殊的星軌 這些我還做不到所以欣賞就好 \
+        但重點是構圖的延伸感與平衡 作者刻意把兩邊的樹叢叢比例抓到很接近 因為主題在中間 能避免畫面不平衡 \
+        還有除了中間建築之外 可以觀察到其餘地景是偏暗的 目光一下就能聚焦在建築與星空 不會有雜亂的感覺 而且偏暗能避免很多雜訊被看見 \
+        結論上來說 每張照片都打進我的心坎 真的很佩服後製如此細膩 卻又能適當表現該有的效果 \
+        強大的後製 我想就是讓觀看者 能舒適的融入妳的風景裡 能彷彿看見真實的東西在你身邊 風景攝影不是我喜歡就好 而是追求深度跟質感 共勉之" },
+      { type: "link", content: "https://photos.app.goo.gl/yHneMJBdfkNa7b4D9", label: "2018年1月9日 Who and I Special mission this noon" },
+      { type: "link", content: "https://photos.app.goo.gl/ub6jWGViyRWzvLd17", label: "2018年1月9日 回覆我這篇貼文 我會在你版面選一張照片放在我的動態 限時到今天我下班為止" },
+      { type: "link", content: "https://photos.app.goo.gl/TBnjhGmFMx7hSPy77", label: "2018年1月9日 我女友每張照片都很有個人風格 傳達她對生活周遭人景的細膩視角 不過即使她如此厲害的照片 還是敗給了這張自拍照 因為太可愛惹" },
+      { type: "link", content: "https://photos.app.goo.gl/2ShApuHdz4Sk3ZoV9", label: "2018年1月9日 \
+        回覆我之前的那張照片 例如你覺得我照片如何 喜歡哪張 有什麼要改進的 \
+        不要一兩個字 不要只有+1或哈囉 也不要只有符號 否則只能不算了 也在動態提及我 下班後我會選擇照片並且同樣用心回覆哦 \
+        我也會為你的照片寫一句話 因此希望您不要只傳心情唷 16:00截止" },
+      { type: "link", content: "https://photos.app.goo.gl/YExtd6pDgxA2gV8c6", label: "2018年1月9日 喝了這杯咖啡才發現有第三代antihistamines 我該檢討自己了" },
+      { type: "link", content: "https://photos.app.goo.gl/j4kAjDgvhXF4ZtfE8", label: "2018年1月9日 \
+        今晚會繼續一個一個回覆 也會用心看您的照片 但記得要tag我在限時 並且幫我選最喜歡的照片或給我意見 我才會tag您唷 \
+        一種彼此幫忙的概念 這種活動一次就好 可是卻能方便大家交流 也不失一個好方法 很高興跟大家聊天" },
+      { type: "link", content: "https://photos.app.goo.gl/vYwhCB7cFKXaFjQd8", label: "2018年1月9日 下不了班 就到18:00吧 回覆我的限時 我會選擇您的一張照片並tag您在限時上唷 規則請看上一頁" },
+      { type: "link", content: "https://photos.app.goo.gl/Hct9PPK5qdNZwtNf8", label: "2018年1月9日 終於下班 我要開始回覆各位了" },
+      { type: "link", content: "https://photos.app.goo.gl/bPXUS4RJBTmEQyHV9", label: "2018年1月9日 \
+        這張照片讓我感觸好深好深 巧合的是我既有醫生也有軍人的雙重身分 他們的照片給了我很大的信心 \
+        在每個角落 總是有一些的職業被賦予極大的責任與壓力 當然更沒有勞基法的保障 加油啊" },
+      { type: "link", content: "https://photos.app.goo.gl/ct4rWvV7eQM7FqfT7", label: "2018年1月9日 \
+        大一的時候 半夜所有同學在西門町國軍英雄館集合 一起去總統府等日出升旗 \
+        還記得馬英九總統從我旁邊走過去真的很高大 對了 軍長服一點都不保暖 大家都塞暖暖包XD" },
       { type: "link", content: "https://photos.app.goo.gl/34AV7GNxDgV4ERFTA", label: "2017年1月9日 \
         透早上刀就是劈頭一個振奮人心 學弟 這台你來開 於是乎 雖然只是簡單的清創 但卻是第一台自己上的刀 \
         意義上 很棒的成就感 不選外科的心志被動搖了" }
