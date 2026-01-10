@@ -421,6 +421,9 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/326bM9xRa5w3sxaTA", label: "2026年1月9日 好可憐 我們不會排擠他嗚嗚" },
       { type: "link", content: "https://photos.app.goo.gl/uj41Dfr5C2YF2J9CA", label: "2026年1月9日 直接被巨大屁屁撞倒欸哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/d77K5BsjBu4NQ9xn7", label: "2026年1月9日 我以後也會帶你去" },
+      { type: "link", content: "https://photos.app.goo.gl/5dttg7XjiV2FgPAQA", label: "2026年1月9日 \
+        我真的是嚇到 無聊試試把ppt直接丟進chatgpt請他當評審 看看可能會問什麼問題 \
+        結果他第一個問題 居然跟今天中午紐西蘭教授跟主任聽完我的報告一樣的問題 完了已經沒有時間改了 如果明天真的被問 就只能用兩分鐘充滿感謝的台詞帶過去" },
       { type: "link", content: "https://photos.app.goo.gl/5ZTnZZsVERn7vnCe8", label: "2025年1月9日 \
         以台灣而言 重症科住院醫師起薪20萬 重症科主治起薪起薪40萬 第一線護理師起薪10萬 消防員起薪15萬 \
         我覺得這樣才符合比例 但要加上酒駕跟詐騙等等視嚴重度死刑跟罰到一輩子破產 補充國家財政 國家再來補足醫護跟軍警消的薪水" },
@@ -502,7 +505,44 @@ const records = {
         透早上刀就是劈頭一個振奮人心 學弟 這台你來開 於是乎 雖然只是簡單的清創 但卻是第一台自己上的刀 \
         意義上 很棒的成就感 不選外科的心志被動搖了" }
     ],
-    "10": [],
+    "10": [
+      { type: "link", content: "https://photos.app.goo.gl/T4QYmaGzqMcgpnMu9", label: "2026年1月10日 \
+        記錄解鎖第一次在學會報告 很感謝琰璉學長的case 很幸運能在2026 TTT case competition裡面有報告的機會 \
+        如果沒有學長這麼拼命的拯救病人跟無私的分享 我是不可能有機會能報告 總共六位名額裡只有我不是主治醫師 看起來是陪比的 \
+        在準備的過程有找琰璉學長 甚至前一天還跟大師級人物紐西蘭心導管教授Prof. Scott Harding當面報告了一次 \
+        結果被說診斷上沒有很精確 但只剩一天根本改不了哈哈 只能硬著頭皮報 幸好報告過程是很順利 但QA環節就直接被三振 所以決定把這些經驗記錄起來 \
+        Case competition過程中是9分鐘的英文報告 3分鐘QA 如果現場沒有外國人 評審會直接用中文問答 \
+        我前一天準備了一堆英文廢話台詞 想胡說八道帶過去結果完全用不到 評審的問題很著重strategy的決定 包含每個步驟之後怎麼選擇下一個步驟 \
+        如再看一次IVI or架stent 或者為什麼選擇DES而不要DCB等等 最後還有CAG過程中的每個event no-reflow或影像有什麼dynamic change的原因都會問 \
+        說真的不是operater我根本無法回答 能想像學長在台下聽我瞎掰有多不好意思 因為很意外的被通知錄取 雖知道不會得名但還是很想把握這個練習機會 \
+        很感謝寶哥 barry2684500大哥 喬翔學長 琰璉學長跟許主任來現場聽我班門弄斧 非常感動 \
+        另外我還因此錯過兄弟的日本婚禮 希望我不計犧牲機票的費用也要飛去日本能讓drccy能感受到我的誠意 \
+        最後很感謝包容我為了醫學成為一個很無聊的人 回家不是累到睡死就是弄醫院的東西 這幾年真是人生重大的關卡 今年更是直接打Boss級大魔王心專 \
+        但願這一切搞定後 我們能過上有品質 有均衡的生活" },
+      { type: "link", content: "https://photos.app.goo.gl/pr5xkGG5TZZATYe58", label: "2026年1月10日 台大醫院國際會議中心 其他參賽者都是Vs的樣子 好緊張" },
+      { type: "link", content: "https://photos.app.goo.gl/EJqidyYnyfqR2G338", label: "2026年1月10日 台大國際會議中心 成功報完了 最大心得是 提問階段都亂回答 主治應該在台下聽到汗顏 謝謝barry2684500大哥遠端記錄" },
+      { type: "link", content: "https://photos.app.goo.gl/bPRY5Gc8hKiAtkCw9", label: "2026年1月10日 贈品獵人出動 一攤不放過" },
+      { type: "link", content: "https://photos.app.goo.gl/s147Bs4kgzjvDZgi9", label: "2026年1月10日 今日不當攝影評審 回歸正業好好做醫學報告" },
+      { type: "link", content: "https://photos.app.goo.gl/ACWTyazQvB2KEKhR9", label: "2026年1月10日 你怎麼隨身備有這種照片XD 對啊哈哈哈 你要多跟我分享可愛的照片ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/eRDzyRYbEeyc1iZd8", label: "2026年1月10日 太扯 我們這種電腦小白要更小心" },
+      { type: "link", content: "https://photos.app.goo.gl/Q3WXQiGd58zMF3437", label: "2025年1月10日 呵呵 當了官之後壞了腦 典型可悲政客嘴臉" },
+      { type: "link", content: "https://photos.app.goo.gl/ChLaaGBZD6LHramq7", label: "2025年1月10日 說的也是 畢竟第一線的醫護就是最軟的一塊 可以盡情踐踏" },
+      { type: "link", content: "https://photos.app.goo.gl/7dMRgFock5k8U2LE8", label: "2025年1月10日 你有用腦好好思考過自己講的話嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/GoZYCVjtopXqb8YAA", label: "2025年1月10日 至少比台灣好" },
+      { type: "link", content: "https://photos.app.goo.gl/6AgXwGPafByB4GZK9", label: "2025年1月10日 誰跟你洗碗 我還要掃地跟倒垃圾 不准妳跟我搶 你給我去沙發躺著" },
+      { type: "link", content: "https://photos.app.goo.gl/6L7quc6qEzhGXeg86", label: "2024年1月10日 不用啊 上次民進黨就沒通報導彈飛越台灣 民進黨支持者都是這種水準嗎 自家人打自家嘴巴xddd" },
+      { type: "link", content: "https://photos.app.goo.gl/A3rrwbbhLCPyYhgj6", label: "2023年1月10日 \
+        3度AVB患者的A line wave form 一位Complete AV block患者的Arterial line waveform \
+        學長表示AVB的患者 常會有又尖 高低差異又大的waveform 第一次聽說 網路也查不到詳細資料 因此做個紀錄 希望專業的前輩分享" },
+      { type: "link", content: "https://photos.app.goo.gl/LDcKkYTx7v3Ath137", label: "2022年1月10日 一位雪中送炭 又指導我病歷寫作的趙老師 三總有您真好" },
+      { type: "link", content: "https://photos.app.goo.gl/P531DKhXnDJWBXWB6", label: "2021年1月10日 哈囉 今晚加菜鴨肉" },
+      { type: "link", content: "https://photos.app.goo.gl/x7UHEv7HgFiLUmMT9", label: "2021年1月10日 \
+        自我檢討 以前塞太多雜亂的文字 因為緊張忘記內容在說什麼 結果就草率帶過一堆文字 這次增加多一點圖表 盡量只留重點的字 \
+        我覺得ppt的意義有兩個 一個是自我學習 一個是讓別人覺得有價值 能具象化的吸收到知識" },
+      { type: "link", content: "https://photos.app.goo.gl/mBPbNcZu89qAEwmZA", label: "2019年1月10日 阿伯真的ㄅㄧㄤˋㄅㄧㄤˋ的" },
+      { type: "link", content: "https://photos.app.goo.gl/DY2yhPLjfJbL53DMA", label: "2019年1月10日 謝謝Taiwan1" },
+      { type: "link", content: "https://photos.app.goo.gl/4ExUAbBiRVyWxLqWA", label: "2018年1月10日 留言追蹤抽明信片" }
+    ],
     "11": [],
     "12": [],
     "13": [],
