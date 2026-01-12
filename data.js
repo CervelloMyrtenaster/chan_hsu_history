@@ -525,6 +525,9 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/s147Bs4kgzjvDZgi9", label: "2026年1月10日 今日不當攝影評審 回歸正業好好做醫學報告" },
       { type: "link", content: "https://photos.app.goo.gl/ACWTyazQvB2KEKhR9", label: "2026年1月10日 你怎麼隨身備有這種照片XD 對啊哈哈哈 你要多跟我分享可愛的照片ㄚ" },
       { type: "link", content: "https://photos.app.goo.gl/eRDzyRYbEeyc1iZd8", label: "2026年1月10日 太扯 我們這種電腦小白要更小心" },
+      { type: "link", content: "https://photos.app.goo.gl/yrYeycutXA54QV4F7", label: "2026年1月10日 這說不定是他自己要付的年終" },
+      { type: "link", content: "https://photos.app.goo.gl/CSkFpxuLwY8LDmCQ7", label: "2026年1月10日 線條明明就還在" },
+      { type: "link", content: "https://photos.app.goo.gl/7VrpX7VvhXEBD25a7", label: "2026年1月10日 他不喜歡短髮也不喜歡長髮 我只喜歡你而且我也只對你大方ㄚ" },
       { type: "link", content: "https://photos.app.goo.gl/Q3WXQiGd58zMF3437", label: "2025年1月10日 呵呵 當了官之後壞了腦 典型可悲政客嘴臉" },
       { type: "link", content: "https://photos.app.goo.gl/ChLaaGBZD6LHramq7", label: "2025年1月10日 說的也是 畢竟第一線的醫護就是最軟的一塊 可以盡情踐踏" },
       { type: "link", content: "https://photos.app.goo.gl/7dMRgFock5k8U2LE8", label: "2025年1月10日 你有用腦好好思考過自己講的話嗎" },
@@ -543,8 +546,89 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/DY2yhPLjfJbL53DMA", label: "2019年1月10日 謝謝Taiwan1" },
       { type: "link", content: "https://photos.app.goo.gl/4ExUAbBiRVyWxLqWA", label: "2018年1月10日 留言追蹤抽明信片" }
     ],
-    "11": [],
-    "12": [],
+    "11": [
+      { type: "link", content: "https://photos.app.goo.gl/4j6HwXXti6v37QFGA", label: "2026年1月11日 畫面裡這幾個只敢敲蔣公石頭 遇到解放軍只剩下尿褲子的功能" },
+      { type: "link", content: "https://photos.app.goo.gl/nhvKa12uyYTZkc6w6", label: "2026年1月11日 高中這樣蠻強的" },
+      { type: "link", content: "https://photos.app.goo.gl/2BXQ2wTkoQdG7iTg6", label: "2026年1月11日 也可以叫我打給你就好" },
+      { type: "link", content: "https://photos.app.goo.gl/gxJRzUbFfsEync6W7", label: "2026年1月11日 直接崩潰欸OAO" },
+      { type: "link", content: "https://photos.app.goo.gl/QT3mspb7VnUgZA4v6", label: "2026年1月11日 這感覺很久以前的欸" },
+      { type: "link", content: "https://photos.app.goo.gl/DW5sPZguVkjD2P2QA", label: "2026年1月11日 佐原水郷地区 再次應證只要沒有一起出門的旅行 天氣都不好 沒有陽光啊" },
+      { type: "link", content: "https://photos.app.goo.gl/HpxycuZjzAfZFpA3A", label: "2026年1月11日 跟台北比的話 東京沒有比較冷欸 台北真的更冷一點 東京只要出太陽 大約兩件長袖就夠室外行走了 蠻舒服的 附上一個神奇的室外烤燈 在旁邊很溫暖 放在台灣的話會聚集一堆貓咪吧xd" },
+      { type: "link", content: "https://photos.app.goo.gl/6PxqwrDTmBecpEjV6", label: "2026年1月11日 這次趁著大學室友跟日本人結婚 安排東京三日快閃 除了吃飯睡覺我全部塞滿攝影行程 從日出拍到天黑 這應該是今年最後一次攝影訓練馬拉松 接下來要收心準備考試 不過太久沒拍照 我發現自己的靈感跟抓拍都退步很多" },
+      { type: "link", content: "https://photos.app.goo.gl/1rff2Dtbu2a2uonV9", label: "2026年1月11日 解鎖明信片功能 我會用了" },
+      { type: "link", content: "https://photos.app.goo.gl/36ZWdFfitccrjG6v8", label: "2026年1月11日 搭JR經過西日暮裡滿滿的回憶 以前在東京醫科齒科大學實習時住這裡 當時為了省錢每天騎腳踏車三公里多上下班 腳踏車還一度被拖吊" },
+      { type: "link", content: "https://photos.app.goo.gl/sZZmMxgwGhjTYcYu8", label: "2026年1月11日 在台灣的愛店 到日本路過直接朝聖" },
+      { type: "link", content: "https://photos.app.goo.gl/seXFUSNtTobwmb1PA", label: "2026年1月11日 一心たん助 旦 有楽町店" },
+      { type: "link", content: "https://photos.app.goo.gl/Z5dr91iFLqPNqWas5", label: "2026年1月11日 訂對旅館了 我完全都是衝著景色在訂旅館 結果被同行的mike1357935抱怨離捷運站太遠 我也拖著行李在4度的東京街頭冒汗才到旅館 但值得 可以拍晴空塔跟淺草寺" },
+      { type: "link", content: "https://photos.app.goo.gl/qMWTqTmt1MxLQXtJ6", label: "2025年1月11日 傅人傳我連第一頁都不看" },
+      { type: "link", content: "https://photos.app.goo.gl/RajbjjfEbnm4BHv67", label: "2025年1月11日 醫療人員真可悲 每個醫護賣命救人 每條命至少都值數百萬以上 完全沒這種福氣 最需要領百萬年終的是醫護吧zzzz" },
+      { type: "link", content: "https://photos.app.goo.gl/Sre48y2tUgnkTqM5A", label: "2025年1月11日 超可愛 真希望每天都能回家不要值班" },
+      { type: "link", content: "https://photos.app.goo.gl/C1HmXDMXBSFJYqzm8", label: "2025年1月11日 你已經很棒了" },
+      { type: "link", content: "https://photos.app.goo.gl/axSYx7bY4ZzzhfUJA", label: "2025年1月11日 好想被踏踏" },
+      { type: "link", content: "https://photos.app.goo.gl/yUxnW8mPjSyx2Jeg6", label: "2025年1月11日 左邊大胖橘獲勝欸" },
+      { type: "link", content: "https://photos.app.goo.gl/JGnr4FoMBDsMgscr8", label: "2025年1月11日 怎麼那麼厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/BBehyrM3AS9rYyBG7", label: "2025年1月11日 2025唯一回覆金馬獎得主" },
+      { type: "link", content: "https://photos.app.goo.gl/Whi3nCr8CmJ8mf3p7", label: "2025年1月11日 這是一輛黑貓啦" },
+      { type: "link", content: "https://photos.app.goo.gl/AmJT9qDbZXgUTH777", label: "2025年1月11日 好強" },
+      { type: "link", content: "https://photos.app.goo.gl/pwLhjvbjH94RosBr9", label: "2025年1月11日 怎麼那麼像哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/UgFEQsP6sPoZ4Q1t7", label: "2025年1月11日 直接牽去菜市場哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/xUrMsd4bAT7AXxra9", label: "2025年1月11日 石撈麻辣鴛鴦鍋 這家真的大推 台北沒幾家好定位 超高品質又價格合理的吃到飽火鍋 謝謝你包容我必須花費大量下班時間在工作的事情上" },
+      { type: "link", content: "https://photos.app.goo.gl/cXfB45K34dQsaJiZA", label: "2024年1月11日 跟我現在的血壓一樣衝破天際 每天忙到快爆炸 病解無數次 跟檢查無數次 各種分胸水 各種打困難管路 然後考試擺在那邊快完蛋" },
+      { type: "link", content: "https://photos.app.goo.gl/y6fVhxiMujNgwfF9A", label: "2024年1月11日 這個角度不錯 昨天趁去上課順便拍" },
+      { type: "link", content: "https://photos.app.goo.gl/ChRf3oMwhvJhacrk8", label: "2023年1月11日 很久不見的各位 難得又再台北找到時間聚餐 幸好當時的隊長很棒 帶給單位很幸福的一段時間" },
+      { type: "link", content: "https://photos.app.goo.gl/tiqTyzAHtf6hsJnS9", label: "2022年1月11日 \
+        如圖是一個賣偏方的範例 這幾天才剛收一個病人 堅持吃偏方川心蓮 搞到已經心肌梗塞又需要洗腎 卻完全不接受治療想出院 \
+        奉勸如圖中這種詐騙粉專 真的不能相信 看過許多真實案例 最後慘兮兮的來住院 真的很可憐 而他們卻繼續攻擊中西醫 \
+        賣著偏方賺大錢 為了朋友家人親戚健康著想 真心不希望再有人受害" },
+      { type: "link", content: "https://photos.app.goo.gl/ToA9ChPjx4NMsV5P7", label: "2021年1月11日 頂紅風味小火鍋 每天都在找我吃小火鍋 害我的伙食預算變兩倍開銷" },
+      { type: "link", content: "https://photos.app.goo.gl/hu6v1dd32ZfFwbpe9", label: "2021年1月11日 修蛋幾類樹 真是聰明的網友" },
+      { type: "link", content: "https://photos.app.goo.gl/VbwSnT33F7vcwJer8", label: "2020年1月11日 投完惹人超多" },
+      { type: "link", content: "https://photos.app.goo.gl/TedWAnbAB2b1WYF66", label: "2020年1月11日 投個票也能一路塞到爆 半小時車程硬是變兩小時 還有前面一輛垃圾車居然在塞車停下來時 駕駛居然給我走下車" },
+      { type: "link", content: "https://photos.app.goo.gl/ziMcEXkyWPgvwPdg9", label: "2019年1月11日 \
+        好像快邁入存房貸的年紀了 台北的房子看起來像黃金鑽石一樣閃亮 價格也很像 \
+        如此閃閃發亮的城市 雖然不是真的用黃金跟鑽石打造的 但房子價格的確跟黃金鑽石一樣 買不起" },
+      { type: "link", content: "https://photos.app.goo.gl/oBDYwoxduYzFR1Va8", label: "2018年1月11日 \
+        Jennifer是一位外表看似12歲 內心卻住著30歲熟女的可愛女朋友 善於捕捉可愛與獨特的視角 特別是老婆婆與小孩子常是鏡頭常客 \
+        當然風景也很漂亮 加上很好的文筆 讓她的發文有時充滿厭世卻不失討喜的感覺呢 文章看了常會心一笑 讓她追蹤3000吧 對了只準follow她 不準騷擾她" }
+    ],
+    "12": [
+      { type: "link", content: "https://photos.app.goo.gl/TdiiNHPxCQjxbVs89", label: "2026年1月12日 是該開箱某間醫院位在二樓一次要睡十個人的內科值班室了吧" },
+      { type: "link", content: "https://photos.app.goo.gl/uMvFTGXc1D2A1ku79", label: "2026年1月12日 超級支持 路邊本來就不應該抽煙 自己開心然後禍害別人" },
+      { type: "link", content: "https://photos.app.goo.gl/P9VAuAacFocRtRcw6", label: "2026年1月12日 哪有的事情 這是我今年最後一個攝影訓練為主的旅遊計劃了" },
+      { type: "link", content: "https://photos.app.goo.gl/G8AVGsnwTJx7pZHR6", label: "2026年1月12日 謝謝 我要回去面對了" },
+      { type: "link", content: "https://photos.app.goo.gl/VLcDBbZmryoDBxHc6", label: "2026年1月12日 來日本接受drccy考日本醫師國考題 這題有鑑別度來作答看看 晚點公布答案 圖片在下頁 選擇題A-D E一定錯就不列上去了" },
+      { type: "link", content: "https://photos.app.goo.gl/jE5TTysQrEdbUwqTA", label: "2026年1月12日 答案A CXR有PA鼓脹 PE雙側頸靜脈鼓脹 EKG RV strain pattern" },
+      { type: "link", content: "https://photos.app.goo.gl/ce3frBiXqVK4DvC86", label: "2026年1月12日 兄弟張哥drccy過的很不錯 羨慕也祝福他順利" },
+      { type: "link", content: "https://photos.app.goo.gl/8LyTaX4oGEu5dMuK8", label: "2026年1月12日 跟老友聊的太開心忘記時間 結果來不及 選搭計程車衝景拍夕陽" },
+      { type: "link", content: "https://photos.app.goo.gl/v2DgDRBDeWpdUymQ9", label: "2026年1月12日 獲得了高清高解析度的完美東京鐵塔藍調電腦桌面了" },
+      { type: "link", content: "https://photos.app.goo.gl/S3haeE4sWLef2v8j6", label: "2026年1月12日 Montbell攝影人有需要的好東西 一堆大陸人也來掃貨嗚嗚" },
+      { type: "link", content: "https://photos.app.goo.gl/Jb31nTZYZFDTWtcf6", label: "2026年1月12日 早點名" },
+      { type: "link", content: "https://photos.app.goo.gl/eCnwrFczx1pS7C3z8", label: "2025年1月12日 傅人傳這種東西不是看yt就有了嗎 居然有人為了垃圾續集崩潰 你就活在那個世界好了" },
+      { type: "link", content: "https://photos.app.goo.gl/WRtwu8avN1euCyrZA", label: "2025年1月12日 直接演老了 都不用上妝" },
+      { type: "link", content: "https://photos.app.goo.gl/xU1BjGnhVjeN81sXA", label: "2025年1月12日 醫師月薪請改成15-25 30萬是工程師跟機師 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/XR5oi69yDmvx9nrr9", label: "2025年1月12日 咦 少了一間醫院欸" },
+      { type: "link", content: "https://photos.app.goo.gl/cheqm85x8PKU5g5a8", label: "2025年1月12日 這樣才是對的啊哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/tqP5GyUGLhuFGC1W9", label: "2024年1月12日 \
+        投票的原則很簡單 什麼缺電缺蛋 什麼中共同路人 什麼官商勾結 什麼常常講錯話 什麼九二共識 這些都不管 反正也是個人角度 但是 \
+        從不關心醫護 不了解醫護問題的 不投 Covid疫情後 以及各種治療後 對於醫護獎金錙銖必較 甚至秋後算帳 苛扣醫護人員獎金的 \
+        不會照顧醫護的政府 不投 政策裡從沒提到要幫健保點值補充到一點一元的 不投 僅此而已 等一個願意大方善待醫護人員的政府" },
+      { type: "link", content: "https://photos.app.goo.gl/5Qcfo7QnzMEPzbWS6", label: "2024年1月12日 \
+        職業沒有分貴賤 但醫療業絕對是國家最重要的職業 為什麼 沒有健康的身體 高水準的醫療 台積電的高科技人員如何發揮 巷口的牛肉麵老闆如何營業 軍人警察消防如何打擊犯罪跟救人 \
+        所有職業的核心就是人 而人的核心就是健康 一個真正為台灣著想的候選人 第一應該先關心醫療現況跟醫護待遇 醫護人員強大 台灣醫療照護水準提高 才能帶動百工欣欣向榮 好好拼經濟 \
+        所以明天投票很簡單 什麼事情都不用吵來吵去 我只看兩個客觀事實 從來不關心醫護人員 沒有深入分析醫療窘況的候選人 不投 \
+        沒有提到健保點值一點一元 護理人員加薪 醫療業GDP目標8%的 不投 上述問題已經是這十年來台灣醫療業媒體跟醫護一直呼籲的問題 連這個都不知道 實在不敢想像" },
+      { type: "link", content: "https://photos.app.goo.gl/KaLBTRJrTABb4QrW9", label: "2024年1月12日 我也是啊 每天都背日" },
+      { type: "link", content: "https://photos.app.goo.gl/rTEwodHkhYCCuTgv8", label: "2022年1月12日 去年說的國泰60 富邦80目標已到 基本上大到不能倒的金融股無法爆賺一波卻可以穩定的預測未來 除非意外但都是暫時異動 這就是我討厭股市明牌跟爆賺股 只愛穩健可以不用操心看盤的金融股的原因 飆股可以放棄 大型金融股不可不抱" },
+      { type: "link", content: "https://photos.app.goo.gl/y5SAVcrKNhpAGhcM8", label: "2022年1月12日 繼上次說的 當時買入國泰富邦的 現在也都短期獲利囉 到達當時預測的 今年有60跟80元價位 就算套牢也可以傻領現金 就算台股崩盤加碼就對了" },
+      { type: "link", content: "https://photos.app.goo.gl/nzwQcu7yTYqeBHBm8", label: "2022年1月12日 在外面的世界都可以學習新知QQ 有個不務正業才是開心的人生啊XD" },
+      { type: "link", content: "https://photos.app.goo.gl/RNixuuCP8kZZ2oTt6", label: "2021年1月12日 新增神奇的換腸造口技能" },
+      { type: "link", content: "https://photos.app.goo.gl/irkQi7AazAJWU5P3A", label: "2021年1月12日 第一次在冷凍庫跑步 跑完頭快炸裂 冷空氣吸太多了 不過好像越冷越快 六公里快接近三分速了" },
+      { type: "link", content: "https://photos.app.goo.gl/S1PQrd1d1FUxYpsb8", label: "2019年1月12日 現在放假能拍多少大景已經不重要 提醒 這兩天台北盆地大雲海 而是能陪著像家人的女友多久" },
+      { type: "link", content: "https://photos.app.goo.gl/AMvrhTxFnKWXKfMc9", label: "2019年1月12日 新年剛過10天我就要被她k死了" },
+      { type: "link", content: "https://photos.app.goo.gl/id8mpUkuRVUGqJTK7", label: "2018年1月12日 我家旁邊的醫院 好想去奇美實習哦" },
+      { type: "link", content: "https://photos.app.goo.gl/frMmN1HN63LUCmm4A", label: "2018年1月12日 Back to Tainan" },
+      { type: "link", content: "https://photos.app.goo.gl/zPXSgPj6bBqwVY5n8", label: "2018年1月12日 Sunset of Taipei city" }
+    ],
     "13": [],
     "14": [],
     "15": [],
