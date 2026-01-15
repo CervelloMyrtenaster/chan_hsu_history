@@ -743,6 +743,22 @@ const records = {
     "14": [
       { type: "link", content: "https://photos.app.goo.gl/bqSHMAQ1GX6zCpUP6", label: "2026年1月14日 任何遵循不合理的古老傳統而不思考對錯的人 都跟某些國家會榮譽處決自己女兒的一樣 腦袋不只停止思考 更是退化" },
       { type: "link", content: "https://photos.app.goo.gl/szAAcxwfo26oMJf16", label: "2026年1月14日 理論上要 但我在部隊即使只是上士我都會積極回禮而且私下用恭敬的態度跟他們相處 畢竟階級只是虛假的 他們在部隊歷練的人脈跟處事方式 有太多值得我們學習" },
+      { type: "link", content: "https://photos.app.goo.gl/2TLriRUkMujfJdHx5", label: "2026年1月14日 \
+        這次行程最滿意的部分 你有看過這樣的東京鐵塔嗎 \
+        來過日本無數次 每次到東京都到處找尋最美的東京鐵塔的角度 近幾年許多的咖啡廳或觀景台出現 但都必須隔著玻璃甚至要預約 只有某個時段能盡情的欣賞 \
+        對於攝影重度中毒的我 不能使用腳架更是硬傷 我也查過許多日本爬樓攝影師的景點 但大樓管理森嚴 日本又是重視隱私的國家 這也是不可行的 \
+        但就在放棄之際 我找到了這樣的地方 能夠從早到晚獨享東京夜景 視野又遼闊 也不用隔著玻璃 分享給大家這樣的東京鐵塔 \
+        Have you ever seen Tokyo Tower like this I've been to Japan countless times and every visit to Tokyo I search for the most beautiful angle of Tokyo Tower \
+        In recent years many cafés and observation decks have appeared-but most are behind glass, require reservations, or only allow viewing at specific times \
+        For someone deeply devoted to photography not being able to use a tripod is an even bigger compromise \
+        I've also researched many locations used by Japanese urban photographers but strict building management and Japan's strong respect for privacy make those options unrealistic \
+        Just as I was about to give up I found a place like this-where you can enjoy Tokyo's night view from morning until night with an open unobstructed view and no glass in between \
+        I'd like to share this view of Tokyo Tower with you" },
+      { type: "link", content: "https://photos.app.goo.gl/AZxbAzhCVcabDjxP7", label: "2026年1月14日 \
+        東京鐵塔 藍調演奏 倉促的東京三日 終於收集到夢寐以求的東京鐵塔夜景 \
+        每個人的旅行都有不同的到此一遊打卡方式 對我來說拍攝完美的地標性建築是最棒的選擇 \
+        除了拍攝當下感受城市的脈動與車流的喧囂 更重要的是作品的呈現不只能給自己回憶 更可以將感受具象化傳給他人 \
+        最近也慢慢嘗試一些短影片 但影片世界又更大更廣 未來再投入更多心力學習吧" },
       { type: "link", content: "https://photos.app.goo.gl/bfxSP4NygTivmfsK6", label: "2026年1月14日 \
         你有看過這樣的東京鐵塔嗎 來過日本無數次 每次到東京都到處找尋最美的東京鐵塔的角度 近幾年許多的咖啡廳或觀景台出現 \
         但都必須隔著玻璃甚至要預約 只有某個時段能盡情的欣賞 對於攝影重度中毒的我 不能使用腳架更是硬傷 \
@@ -814,7 +830,68 @@ const records = {
         雖然聽不太懂 但我會選全幅35鏡頭 因為篇幅能當50用 未來升全幅又有35能用" },
       { type: "link", content: "https://photos.app.goo.gl/7CHvNbxYBWzmkTde6", label: "2018年1月14日 教學完隨性拍拍XDD" }
     ],
-    "15": [],
+    "15": [
+      { type: "link", content: "https://photos.app.goo.gl/qmgmdxvAKZy3PSsh6", label: "2026年1月15日 台灣不值得這種房價啦 景跟日本比輸成這樣還敢開這種價格" },
+      { type: "link", content: "https://photos.app.goo.gl/Tv3wcCGpVgqCHjM26", label: "2026年1月15日 超實用哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/wCj2NgWHn9sCwPzr7", label: "2026年1月15日 如果直接看結尾 可能會以為駕駛直接撞路人" },
+      { type: "link", content: "https://photos.app.goo.gl/LtCrnZfZoxbpDDab7", label: "2025年1月15日 哈哈哈哈好可愛哦 以後我們也買" },
+      { type: "link", content: "https://photos.app.goo.gl/YD3QLy5DWwQdozte9", label: "2025年1月15日 手很快" },
+      { type: "link", content: "https://photos.app.goo.gl/K2d7aRzxgv9EG16WA", label: "2025年1月15日 對咩" },
+      { type: "link", content: "https://photos.app.goo.gl/oXqbe78HrtC9KzYJ7", label: "2024年1月15日 明水三井 沒頭沒腦的參加聚餐 沒想到滿高級的 而且還是COPD的課" },
+      { type: "link", content: "https://photos.app.goo.gl/BoRBGo7jZ1eXEMva7", label: "2022年1月15日 這家超級泰 泰國路邊小吃 泰國新聞 泰國店員 泰國海報 泰國價位 泰國路邊那種簡單隨便的擺飾 真是一秒到泰國" },
+      { type: "link", content: "https://photos.app.goo.gl/DHgzbj5T8o2nF6cs5", label: "2021年1月15日 抱著準備下班的心情 赫然發現新的值班表2.0 瞬間升級值班" },
+      { type: "link", content: "https://photos.app.goo.gl/L4ZFhPpttGcBG8CN8", label: "2019年1月15日 \
+        可以問 因為我很晚才用哀居 那時已經很多人用tw 抱歉這兩管我都沒用過 有大大推薦嗎 \
+        很多人都說考上醫生之後很苦 其實考上之前也很苦 國中被丟到資優班級 每天少考幾分就被打被罰站 \
+        到了高中病態的強迫自己讀書三年 不社交也不出遊 同學約會的約會 看電影的看電影 各種相約我總是躲起來讀書 \
+        我升旗也翹掉 演講翹掉 任何非考試科目的課程都翹掉躲起來讀書 除了很熱心教同學功課沒有其他嗜好了 \
+        下課跟回家休息都以算數學物理化學為樂 為什麼說這些 因為很多人說你聰明才考得上啊 我要反駁 \
+        我自己跟普通人一樣真的沒特別聰明 而是靠著痛苦讀書拼上去的 副作用倒是很明顯 大學幾乎都在玩攝影 \
+        總之不要羨慕醫學高薪 除非你願意從13-15歲開始沒童年" },
+      { type: "link", content: "https://photos.app.goo.gl/DqhnrHypcJw51sX8A", label: "2019年1月15日 \
+        上一頁是考上前 考上後跟大家一樣 需要唸書的時候很拼 平常努力休息陪女友 真的是哈哈 抱歉傳錯張\
+        目前沒有可能 目前自己的工作太繁忙 以後有機會規劃" },
+      { type: "link", content: "https://photos.app.goo.gl/FCtr8UynzguDq2JRA", label: "2019年1月15日 \
+        第一個問題請求診皮膚科醫師 因為我不是那個領域的 Snapseed Ircc手機下載這兩個玩玩看 \
+        我會很自私的說有錢就買全幅35 1.4吧 sigma不錯 因為我個人喜歡定焦的散景跟銳利 而且能訓練構圖能力" },
+      { type: "link", content: "https://photos.app.goo.gl/9jTv8cyZ7YSVo28F9", label: "2019年1月15日 \
+        外部我會用一塊專門的眼鏡布擦拭 內部我都請幫忙整理 先說我絕不是業配 我跟他認識很久 他收費合理而且真的很用心在照顧器材喔 \
+        真的很有心也真的很誤會 有必要再開一篇 當然只代表本人立場" },
+      { type: "link", content: "https://photos.app.goo.gl/65DrVE41mQ4brymbA", label: "2019年1月15日 \
+        第一我非常肯定護理師的辛苦 實習的時候我不像別人會投訴護理師 而是學習他們在臨床的經驗 而前面所言 照顧病人本來就應該依照soap了解狀況 \
+        主治醫師的存在 本來就是決定醫療團隊的方針 然後跟病人家屬其他醫療人員討論 正因為利用專業決定病人身體狀況 所以我說是照顧病人 \
+        但我了解你所謂照顧是無微不至的在床邊 重點是 醫師跟護理師照顧病人的方式本來就不同 各司其職 你不可能要求醫師一整天待在病人旁邊 不用去開會不用去看論文不用看會診吧 \
+        第二 依照order下去執行 也是護理師的職責 然而護理師的確接觸病人的時間最長 最能了解病人當下情況 有時候比醫師更快知道病人實況很正常 \
+        我真的聽過看過太多護理師抱怨醫師不了解病人卻硬要執行醫療處置 但恕我經驗不夠老道 無法評斷每一個情況的是非對錯 \
+        前面回答醫師的辛苦 並不是跟醫院任何人比較出來的 就像我不會說護理師上班八小時加班兩小時下班 比醫師一天至少12小時上班輕鬆 \
+        這樣說很不合理 護理師醫師藥師甚至清潔阿姨本來就不同體系 各有各的辛苦啊 重點是大家都說醫師很忙很累 而我只是如實回答為何大家這麼說而已 \
+        當然你也因為想強調護理師的辛苦才回應我 沒錯我完全認同 除了計程車公車應該很少職業會一直UTI泌尿道感染 也很少職業沒有權利要求正常上下班甚至罷工 \
+        護理人員太多心酸了我說不完 也趁這機會希望大家在醫院多配合 你我任何人這輩子 一定會當病人這角色 疾病是痛苦的 請給予一同與疾病奮鬥的人一個體貼與掌聲吧" },
+      { type: "link", content: "https://photos.app.goo.gl/sK8Z1zc7W9bcCjRcA", label: "2019年1月15日 很開心聽到大家意見 但彼此尊重與合作 互補不足的地方才能造福病患 母湯戰 最重要是兩者都很辛苦 也很需要合作" },
+      { type: "link", content: "https://photos.app.goo.gl/aC8xBAyNF3vih7bd7", label: "2019年1月15日 \
+        如果不怕重量 我最推小黑三耶 高三考過 說出來會被笑 860而已== 寫到頭昏 大學同學隨便都比我高 \
+        第一次大四考生化分生藥理等等基礎 第二次畢業時考內外婦兒四個科 內科外科又分很細 總之絕對唸不完" },
+      { type: "link", content: "https://photos.app.goo.gl/rhwnGqwopVDjAqmN9", label: "2019年1月15日 可是不能 嗚嗚" },
+      { type: "link", content: "https://photos.app.goo.gl/jfRtbzgQXWd2vVoZ7", label: "2018年1月15日 \
+        結束半月的皮膚科 每天都能用力的讀書跟學習 也能正常的放假跟生活 這才像是一個正常人 突然真的好後悔選擇軍費牲這個身份 在茫茫的未來裡被剝奪選擇權 \
+        但是 人生沒有如果 嗯 三總的窗光真美 窗光真美 稍微解解悶 沒什麼修" },
+      { type: "link", content: "https://photos.app.goo.gl/1keaKP1kwQr9KD4q6", label: "2018年1月15日 \
+        七股 夕 這個月攝影家教有點接到過頭 從台北教到台南 台南教到高雄 高雄教到台中 不過也告一段落 謝謝各位不嫌棄 認識你們也很開心 \
+        如果說有甚麼心得 就是越來越覺得自己也不過會一點點雞毛 離國外大神真的天差地遠 但更無奈時間也越來越少了 \
+        總之 三月台中場可以事先跟我預定平日晚上的時間 之後閉關讀書 教學就不一定再有機會 之後我會推薦至少三位很厲害 人也很好的朋友 上他們的攝影教學必能收穫滿滿" },
+      { type: "link", content: "https://photos.app.goo.gl/35Bry5C4xB7Xwd6A8", label: "2018年1月15日 預訂二月居然要跟我的偶像 台灣龍頭啊 分享修圖心得 莫大光榮 希望能真的分享成功" },
+      { type: "link", content: "https://photos.app.goo.gl/psLG4h8A9wMahgPPA", label: "2018年1月15日 如果有一億台幣給我 我會灌注一輩子的生命在風景攝影 精進自己成為最頂的攝影師唉 白日夢XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/aXvmFYwN258PdEXy5", label: "2018年1月15日 \
+        恭喜中獎 請在1/17晚上24:00前私訊寄件地址+想要哪張照片唷 逾時未聯絡就會再另外抽出得獎者謝謝 \
+        由於太巧兩位較熟的朋友居然中獎 我決定在多洗明信片下次送出" },
+      { type: "link", content: "https://photos.app.goo.gl/cGhMrov77WCbLxr87", label: "2018年1月15日 \
+        2018後製最後預約時間 台北一月22晚上20晚上 二月14下午或晚上 台中三月平日晚上18:00-20:00 \
+        三月後結束 詳情歡迎私訊 若時間無法配合 下頁推薦超優質家教朋友給各位" },
+      { type: "link", content: "https://photos.app.goo.gl/HFYvmQE3RAGKvdQx8", label: "2018年1月15日 \
+        各種拍攝工作經驗 使用過個家相機 買相機清理相機找他準沒錯 人超級好 工作關係南北跑 各縣市想學攝影都可聯絡他 當然商業攝影學士服婚禮也可以 \
+        若修圖想學到神的境界與國際接軌 首推大景哥 他的教學包含家教也有小班 會針對你個人問題做講解 非常有系統的教學 西半部為主 \
+        你一定聽過的輝哥 不遺餘力紀錄台灣風景與夜景 滿腔熱血具有豐富拍攝經驗 主要活動在台中偶爾北上 台中朋友歡迎洽詢他攝影家教" }
+    ],
     "16": [
       { type: "link", content: "https://photos.app.goo.gl/qYVvh7xKbFkcQ1A16", label: "2017年1月16日 缺三小家聚 歡迎我們的新秀卷哥唐化 有啊約吃黑輪超讚der 約吃宵高雄好推ㄘ的" }
     ],
