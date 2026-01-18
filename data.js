@@ -831,6 +831,10 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/7CHvNbxYBWzmkTde6", label: "2018年1月14日 教學完隨性拍拍XDD" }
     ],
     "15": [
+      { type: "link", content: "https://photos.app.goo.gl/9UHuwb5yyX94a4ZB7", label: "2026年1月15日 你這講出來的話能信 不如說屎可以照三餐吃" },
+      { type: "link", content: "https://photos.app.goo.gl/rJoXsTr3ib17GGZc7", label: "2026年1月15日 超推 我個人支持護理師待遇提升 但很多過於極端的少數護理族群 居然會覺得醫生已經賺很多 甚至把醫生當作加害者 真的是腦洞很大" },
+      { type: "link", content: "https://photos.app.goo.gl/BF1J8UizvhLc3vzD6", label: "2026年1月15日 超級認同" },
+      { type: "link", content: "https://photos.app.goo.gl/asXBXeqKbSCnYN4D6", label: "2026年1月15日 東京王子飯店唷" },
       { type: "link", content: "https://photos.app.goo.gl/qmgmdxvAKZy3PSsh6", label: "2026年1月15日 台灣不值得這種房價啦 景跟日本比輸成這樣還敢開這種價格" },
       { type: "link", content: "https://photos.app.goo.gl/Tv3wcCGpVgqCHjM26", label: "2026年1月15日 超實用哈哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/wCj2NgWHn9sCwPzr7", label: "2026年1月15日 如果直接看結尾 可能會以為駕駛直接撞路人" },
@@ -893,16 +897,263 @@ const records = {
         你一定聽過的輝哥 不遺餘力紀錄台灣風景與夜景 滿腔熱血具有豐富拍攝經驗 主要活動在台中偶爾北上 台中朋友歡迎洽詢他攝影家教" }
     ],
     "16": [
+      { type: "link", content: "https://photos.app.goo.gl/AHbjriS8H7dCEfbPA", label: "2026年1月16日 怎麼會有這種地標型紅線" },
+      { type: "link", content: "https://photos.app.goo.gl/FyESgKevRrwq52jH6", label: "2026年1月16日 哈哈哈哈真的ㄟ" },
+      { type: "link", content: "https://photos.app.goo.gl/bGqi1vFTRwfNNAg8A", label: "2025年1月16日 廢死就是腦殘 這是不變的真理 可以有多一萬種方式來讓社會變得更好 但其中死刑是必要之一" },
+      { type: "link", content: "https://photos.app.goo.gl/kA9AqWKoCda4YDdg9", label: "2025年1月16日 問問健保局啊 系統超級爛 每家醫院的電腦也超爛 先問問國家願不願意花錢優化跟統合醫療業的資訊系統吧" },
+      { type: "link", content: "https://photos.app.goo.gl/tyXMrgxWhbRfE9iK7", label: "2025年1月16日 聽過大佬頻道的 都知道這是長年陋習 很多日本航空公司機長開飛機之前都喝酒甚至人都還沒完全清醒 然後互相酒測放水放飛才會這樣" },
+      { type: "link", content: "https://photos.app.goo.gl/hff7JjxmYjp1zeYq9", label: "2025年1月16日 我好想拯救他" },
+      { type: "link", content: "https://photos.app.goo.gl/M39gRY1n7Mt59Ek29", label: "2025年1月16日 看到這個要趕快回國陪她了qq" },
+      { type: "link", content: "https://photos.app.goo.gl/cAn8EK6cxhi9pzip9", label: "2025年1月16日 這隻熊貓好可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/fg495fpNsyhcsyZc9", label: "2025年1月16日 這可以玩魷魚遊戲 誰害嬰兒醒來就掰掰" },
+      { type: "link", content: "https://photos.app.goo.gl/FBANRtiF2Cujp49e9", label: "2025年1月16日 太可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/mDeTcvxSjKHix8Ee6", label: "2025年1月16日 靠北 我服了XDDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/r5TSs7DtwwT6d8BVA", label: "2024年1月16日 今年開始將是極其痛苦的考生生活 還不一定今年就要結束也許明年要重考" },
+      { type: "link", content: "https://photos.app.goo.gl/v8DCLh67tLnHAKqR6", label: "2024年1月16日 \
+        太離譜了 真是太離譜了 自從去年去河內買了五包這個芒果糖 就完全愛上 世界最好吃的芒果糖 每天只敢吃一顆 因為不知道何時能再買到 \
+        蝦皮沒有 代購沒有 只有TS這間當地小工廠的官網 都是越南文根本不知如何訂 結果一位網路上的楊大哥 專跑醫療器材的業務 常去越南 看到我的貼文幫我代購 太感動了 這真是太好吃了嗚嗚" },
+      { type: "link", content: "https://photos.app.goo.gl/XXrXXcjeEgmQJwx17", label: "2023年1月16日 現在國小手機打開 全部都是支那中國的節目 為啥中國在YT跟FB跟IG可以有這麼多節目 未來跟不上抖音跟中國短片的 都是老頭了吧" },
+      { type: "link", content: "https://photos.app.goo.gl/8qfrAC3B17Hkc1zT7", label: "2023年1月16日 \
+        台北El Sabroso Mexican Food墨西哥 比台灣春捲更大捲的墨西哥卷 老闆也是道地的墨西哥人 \
+        這次點牛肉捲餅 超爆滿牛肉及墨西哥飯 一捲就完全抵一餐 加上鳳梨香辣莎莎醬 甜甜的清爽味很搭 \
+        飲料點了歐洽塔冰茶 灑上一點肉桂粉 是非常解膩的選擇 不過用餐環境並沒有很好 騎樓都有一點水溝味 內用位置又只有5-6人 還是比較推薦外帶唷" },
+      { type: "link", content: "https://photos.app.goo.gl/gz48NL4bULj4uoXq8", label: "2019年1月16日 我有看到後來賠3萬 這就是對車子不了解還自以為懂" },
+      { type: "link", content: "https://photos.app.goo.gl/HbJfpW4B9shZQBqUA", label: "2019年1月16日 \
+        月薪約四萬上下吧 可以問huang924比較清楚 下頁回覆 任何語言都是大量且持續的閱讀 使用 才會融會貫通 沒有捷徑 \
+        我會交換使用唷 至於推薦的風景後製 請看我的後製現時精選嘿 \
+        我相信發問者本人一定被困擾了很久才發問 所以我並不怪他們唷 我之所以無法肯定給予答覆有兩個原因 \
+        第一個是法律問題 因為我沒有實際看到病人故無法有關醫療行為 第二是我目前能力不足 如果給了錯誤建議恐怕延誤病情" },
+      { type: "link", content: "https://photos.app.goo.gl/2LAs8VjLP1xMcFtj7", label: "2019年1月16日 \
+        台大醫院是不是最好的醫院 首先無庸置疑的是台大醫學系學生都是天才 甚至是物理數學地科等其他科鬼才 他們不是用功就好 本身智商真的高加上可能考運剛好很好 \
+        我自己很崇拜他們 以前不敢奢望沾到他們邊 我室友竹科實驗數資畢業 他班上有神人是當年十科指考榜首 讀台大醫 也就是每個領域的頂級人才都到台大醫學系 \
+        所以不要覺得自己在某系很屌 因為當年那個系最屌的人可能在台大醫 回歸正題 我舉個例子你就懂 \
+        大家都會說建中是最好的高中 但他們只是平均比較好 意思就是 全台縣市的明星高中 他們前段的學生其實都一樣強 例如台南一中第一名的不見得輸建中 \
+        那建中會比較強的原因 是因為強的學生又比其他學校多些 而明星學校後段的其實也都一樣成績爛 甚至考不上大學 無關成就 \
+        所以 其實每個醫院都有非常多優秀的醫師 也許台大厲害的醫師比較多 但還是很多醫院某些科比台大強多了 \
+        例如小兒科你會想到馬偕而非台大 講了半天你這問題其實沒有意義 醫師都是獨立個體\
+        每個科別最優秀的那幾個醫師都是分佈在各家醫院 而不是台大 所以別用醫院的名聲定義好壞了吧" },
+      { type: "link", content: "https://photos.app.goo.gl/TpvPp1ZN2XHdHVNf9", label: "2019年1月16日 \
+        高中的我快樂 因為我封閉了自己只知道讀書 每天讀書從成績獲得成就 現在的我社會化了 稱不上快樂 但是滿足 雖然很辛苦犧牲了一切自由 \
+        卻能照顧自己照顧另一半 而且上大學後不再讓家裡花錢 第一志願是精神科但選不到 應該內科吧 去賣命 我會拍星空 所以當然14-24光圈比較夠用 \
+        如果自詡為職業 請對客人負責 砸錢也要給自己有品質的工具為客人服務 Dell" },
+      { type: "link", content: "https://photos.app.goo.gl/4LAp6HiV8xckhEGv7", label: "2019年1月16日 當然要啊 外出我讓揹到器材我會很自責自己沒用 不然就是女友幫你揹 這種問題幹嘛問三次" },
+      { type: "link", content: "https://photos.app.goo.gl/xmoZa9xpPgp4ukv18", label: "2019年1月16日 \
+        真的很少很少很少 會騙你亂買民間治療的直銷神棍 奇怪親戚 遠遠多的是 這才是你要擔心的 \
+        這個時代資訊爆發 醫師真的人人自危 甚至連用正確療法都怕被健保踢退要罰錢 沒在開玩笑 \
+        醫師錢賺在哪裡 賺在合法的自費項目 還有賣命爆量的門診手術 住院點數而已 最重要的是 醫師的收入只是穩定中上 \
+        要賺錢的人拜託不要當醫生 賠的更多 更不快樂 真正的億萬富翁很多是商人跟投資客 \
+        硬要說當然真的有 之前有個黃達夫就很可惡 但也就只有聽過這個例子" },
+      { type: "link", content: "https://photos.app.goo.gl/XvVfMD8HzMH7PyFZ6", label: "2019年1月16日 \
+        謝謝大家這幾天積極發問 我也很開心能解答很多大家問不到的領域 也讓我重新思考很多盲點 \
+        但打算開放到這週五結束 再來又更忙了 有想問的請把握 我都會認真詳細的回覆 \
+        當然也請支持我的粉專 讓更多人追蹤 看見不同風格的台灣作品 上拉也有匿名網址" },
+      { type: "link", content: "https://photos.app.goo.gl/VocwQwY5hL7nXYoc9", label: "2019年1月16日 \
+        我都背最新貼文那個 但前一個包包我也很喜歡 見下下頁 通常一機一超廣 配50定焦 \
+        啊八年前了 維持穩定作息 穩定思緒 讀自己的進度就好 不要管別人討論什麼題目之類的 \
+        要問andonios 我覺得喜歡攝影不要讀攝影相關 越早開始累積拍攝經驗越好 讀攝影相關沒啥幫助 \
+        最好選一個未來至少能養活自己的科系留後路 然後大學時拼命家教打工買相機 多利用大學時間自學奠下拍照基礎 \
+        這個很多人問耶 請看下頁" },
+      { type: "link", content: "https://photos.app.goo.gl/eBZauieXUVYEBDWY7", label: "2019年1月16日 這款cp值很高喔 如果不是極端的大浪或大風基本上都可以 也順便建議買L快拆板更便宜 但我自己也用馬瑟士的碳纖 比這個貴兩倍多" },
+      { type: "link", content: "https://photos.app.goo.gl/KHqDadDxKidpHMLdA", label: "2019年1月16日 這是我之前用的攝影背包 特別喜歡他內附防水袋保護背包 防濕效果卓越 好幾次在蘇澳大雨中騎了15公里 背包依然沒啥濕 很有保護效果" },
+      { type: "link", content: "https://photos.app.goo.gl/gAyZpugJwhh5cbwA8", label: "2019年1月16日 \
+        大概兩個禮拜見一次 而且我必須走過半個台灣找到他 我覺得無法為了工作忍受遠距離的人 心理不夠成熟 無法成為好的對象 四歲\
+        我覺得碰觸政治領域的人 有個習慣我很不能接受 就是常常激烈的希望短時間社會改變成你內心的理想 \
+        但事實上每個人都是獨立個體 相反立場的人未必是錯的 因而你們會很失望很無奈 社會本來就不可能按照你的想法走 \
+        每個人各有目的及利益 所以社會結構才如此複雜 我建議說服自己社會本來就不會因你而變 但你只要為了自己的熱情與理想持續努力就好 \
+        不要預設有所回饋而讓自己沮喪難過 例如我們都明白 為什麼藍綠不惜砸百萬千萬選上立委或輔選 因為選上一貪都是幾千萬幾億耶 \
+        選上收受土地工程一次就三輩子不愁吃穿 大家當然工於心計啊" },
+      { type: "link", content: "https://photos.app.goo.gl/x9RWCzzR8R3vVmxM6", label: "2019年1月16日 感謝網友發現盜我圖的 盜我的圖很不智 因為台灣沒多少人拍fine art的風景攝影 一看就知道" },
+      { type: "link", content: "https://photos.app.goo.gl/EQk1K8DUjPVHyHU4A", label: "2019年1月16日 被盜圖其實我不會生氣 補個我哀居連結來源就好 但說是自己拍的我會很不爽" },
+      { type: "link", content: "https://photos.app.goo.gl/ASkkTbaTNe3DtuDw7", label: "2019年1月16日 蘇澳真是ㄉ 每次都讓我淋大雨騎15公里" },
+      { type: "link", content: "https://photos.app.goo.gl/yrCmGjGsqSCTitKa7", label: "2019年1月16日 十年前十年後" },
+      { type: "link", content: "https://photos.app.goo.gl/wmovHBCDgkr4v1Zx9", label: "2018年1月16日 病棟的美麗光影" },
+      { type: "link", content: "https://photos.app.goo.gl/gYUw3xYxW5oTqf4N6", label: "2018年1月16日 高科技產物好方便啊" },
+      { type: "link", content: "https://photos.app.goo.gl/NJJGSE5Ve58tF45W6", label: "2018年1月16日 二月預約已滿 一月剩1/22晚上 有兩人優惠 三月剩下兩組名額 謝謝" },
       { type: "link", content: "https://photos.app.goo.gl/qYVvh7xKbFkcQ1A16", label: "2017年1月16日 缺三小家聚 歡迎我們的新秀卷哥唐化 有啊約吃黑輪超讚der 約吃宵高雄好推ㄘ的" }
     ],
-    "17": [],
-    "18": [],
+    "17": [
+      { type: "link", content: "https://photos.app.goo.gl/jBC3SDtG5pxXymHE6", label: "2026年1月17日 \
+        說來慚愧 都考完內專多久了 我才知道MVP具體到底是什麼 以前甚至以為MVP跟MR不同 超瞎 \
+        其實MVP就是type2 MR最常見的一種 具體定義就是收縮末期時 二尖瓣應該要閉緊時 二尖瓣位移超過二尖瓣環大於2mm 就稱為prolapse" },
+      { type: "link", content: "https://photos.app.goo.gl/zx413yoCGrxQ9t6FA", label: "2026年1月17日 網路上看到有人問GPT這個問題結果被畫了一張超壓榨的圖 幸好我試試自己的AI 沒有那麼壓榨 但我很擔心他給我亂湊資料 真的反覆叫他recheck很多" },
+      { type: "link", content: "https://photos.app.goo.gl/fZdeSfhUQQodmwXY7", label: "2026年1月17日 \
+        東京御茶之水站 我們一大早出發前往御茶之水站拍攝早上的晨光 地點就在聖橋上 焦距大約70-100mm間 大清早就已經熙來攘往的上班族 \
+        也勾起我的回憶 將近十年前我曾在東京醫科齒科大學實習 當時的每日通勤都會經過御茶之水站 在這裡看到很多日本與台灣不同的醫療制度與文化 \
+        在日本六年級的實習醫生其實蠻自由的 有些下班要去打工 有些要提早長途通勤回家 有些則參加社團活動 其中也有很多同學選擇國外長期交換 \
+        對比於自己生長的封閉體系 真的很羨慕如此多元的環境 紅色的是都營地鐵丸之內線 黃色的是JR中央總武線 橘色的可能是JR中央線 \
+        我們在這裡等十幾分鐘就分別拍到了五輛不同向的列車 滿意的結束東京快閃 曾經在這裡待上一個月卻不曾拍過御茶之水站" },
+      { type: "link", content: "https://photos.app.goo.gl/uDhJ8PQMScT5kJUe6", label: "2026年1月17日 好扯喔真的很高哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/SVSPhv8zbFu2ZtQF7", label: "2026年1月17日 我也覺得+1" },
+      { type: "link", content: "https://photos.app.goo.gl/kKQjzYRm47npadEV9", label: "2025年1月17日 工程師年終少個百位十位數都比你醫師多 甚至年終直接屌打住院醫師年薪 台灣的醫師就是這樣悲哀 每個當初都考得到頂大以上電機 卻傻傻去醫院被奴役領個破年終" },
+      { type: "link", content: "https://photos.app.goo.gl/ETQguwfbSYaYsygM9", label: "2025年1月17日 是沒錯 但也比外面醫院多3-5萬而已 這些根本就是工程師的零頭不夠塞牙縫" },
+      { type: "link", content: "https://photos.app.goo.gl/U8SWgF3RR8w9xUiQ6", label: "2025年1月17日 主治醫生年終也差不多低啊 醫師在台灣就是被健保迫害的職業 待遇工時跟風險都遠輸給工程師" },
+      { type: "link", content: "https://photos.app.goo.gl/8Wn8Vu5QiUg4hspEA", label: "2025年1月17日 少的你要補上嗎 造謠也要有限度" },
+      { type: "link", content: "https://photos.app.goo.gl/HHQm3ydBspzwsebh9", label: "2025年1月17日 你就是說錯了 醫師也是低薪族群 沒有拿到應有薪資就是低薪 你觀念有問題 或著你故意想想把砲火指向醫師" },
+      { type: "link", content: "https://photos.app.goo.gl/dqNMLQCiDaJQcANz6", label: "2025年1月17日 那是因為你單純用薪水比 那你加入值班辛苦程度 藥師值班跟醫師值班會一樣強度哦 所有醫療人員都是受害者 少拿醫師出來當砲火" },
+      { type: "link", content: "https://photos.app.goo.gl/X41zUyfYeMKu6uHR7", label: "2025年1月17日 沒錯 藥師醫師都是受害者 醫師本身就高門檻高風險工作 相對高薪本就合理 但問題原因在於 醫師藥師護理師等醫護人員都沒有領到應得的薪水 而不是 醫療業只有醫師待遇合理 這個藥師沒搞清楚問題 製造對立 這真的應該正視聽" },
+      { type: "link", content: "https://photos.app.goo.gl/P7W8qN5q3PzFz7V17", label: "2025年1月17日 只能說這種氣溫出門跑步考驗的是意志力 但最近腰痛增加 應該不是痛而是怪怪的感覺 真希望能好好休養 身體健康是再多錢都換不回來的" },
+      { type: "link", content: "https://photos.app.goo.gl/LgwFSWdmugkBHj9i6", label: "2025年1月17日 看到家門口五個POPO心情就很好" },
+      { type: "link", content: "https://photos.app.goo.gl/ho6BtNJFcMWQYhc67", label: "2024年1月17日 我不會出現在任何酒局 除非陪" },
+      { type: "link", content: "https://photos.app.goo.gl/XDVKP834cGFWXA2d9", label: "2022年1月17日 幹根本超可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/xxufGG7ypqN9d46G7", label: "2022年1月17日 我要效法威哥來努力" },
+      { type: "link", content: "https://photos.app.goo.gl/iD85E1xnUXC257baA", label: "2022年1月17日 是不是右邊那個" },
+      { type: "link", content: "https://photos.app.goo.gl/uJESSvH34mka8S8F6", label: "2021年1月17日 這就是醫療實況 一堆不是醫療專業 嘴巴掛著SOP就以為萬無缺失真是噁心" },
+      { type: "link", content: "https://photos.app.goo.gl/fH9okgaDPjHwSg1w6", label: "2021年1月17日 這次行程超愜意 外科值班已無力" },
+      { type: "link", content: "https://photos.app.goo.gl/KpYnLg6R9Xov9yNdA", label: "2021年1月17日 碧湖山觀光茶園 放鬆的早晨" },
+      { type: "link", content: "https://photos.app.goo.gl/gWS4ZccdnRCGGUPdA", label: "2021年1月17日 超愛老街小巷" },
+      { type: "link", content: "https://photos.app.goo.gl/H2KsrchyreX6qCoP6", label: "2019年1月17日 謝謝stanley_pic分享 明天揭曉哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/UGDt6x3bGamVsqYp6", label: "2019年1月17日 \
+        就是說 經得起距離跟時間的考驗 才是能走得長久的保障 我們是以這樣的目標努力 \
+        第一我推薦nisi 第二72-82mm都有減光鏡 能用減光鏡就不要用支架 除非你不怕花大錢 而且帶出去麻煩 \
+        這樣問好怪 我自己推薦用小小白 多看好的作品 多追蹤大神 後面我會說 不只賞心悅目好心情 也讓自己對美更敏感 修圖才有方向" },
+      { type: "link", content: "https://photos.app.goo.gl/Wg1BBVzp6wvDeX5s5", label: "2019年1月17日 \
+        我沒有偏見 事實是西醫治療範圍廣而且有根據 嚴重創傷休克癌症急性病症只有西醫能處理 中醫多是調養吧 我不是中醫因此只是主觀經驗 \
+        因為我跟他都在同社團 被他盜圖哈哈 我前面回答不只一次了 未來有時間規劃會宣布唷 對不起我發現前面放錯隻了 正確請看後面" },
+      { type: "link", content: "https://photos.app.goo.gl/W61rN74tK689rj5b9", label: "2019年1月17日 \
+        後面給你看圖就懂 第一個 合適啊 我第一台跟你一樣 但勸你升級全幅趕快跳家吧 n or s都可 \
+        很難生存 多跟著婚紗婚攝前輩努力吧 最重要是負責任 然後除了後製 學閃燈 買頂規機身鏡頭也很重要" },
+      { type: "link", content: "https://photos.app.goo.gl/GF5LD2AeqgdYuX1z6", label: "2019年1月17日 \
+        為什麼要看國外大神的照片 左邊是很推的一位大神 右邊是我隨機找的台灣風景 沒有針對哪位攝影師 可以直接搜尋他們看個別大圖" },
+      { type: "link", content: "https://photos.app.goo.gl/ycU26632sfcj78ef7", label: "2019年1月17日 \
+        台灣與國外的景本身不同就不去討論 第一點 台灣的作品多數缺少光影變化 例如陰影跟亮部如何拿捏 才有氛圍 \
+        因為很多不是壓很暗 就是整張拉亮好像文青 因為作法很簡單大家一直模仿 但我覺得這樣的畫面並不會讓你感受到風景的立體感 \
+        第二點 台灣很多風景並不在乎質感 爆量的對比或飽和 讓眼睛很不舒服 同樣的我們會在大神作品看到高飽和 可是多見於畫面局部重點而已 不會讓畫面很雜亂擁擠 \
+        第三點 構圖差太多 台灣很多作品只為了拍火燒雲或銀河而拍 但沒有構圖概念 地景整個被嚴重忽略 幾乎是直接對天空拍 \
+        觀察一下國外大神 石頭的稜角 影子的方向 水流雲流的方向 樹枝房子的位置等 都會引導你往畫面最美的地方看 \
+        第四點 後製 並不是用高超技巧就是厲害 而是用細膩的後製讓畫面增添立體感 協調性 例如用筆刷使明暗更加明顯 例如合理的霧化跟過曝, 久了就知道藏了很多心思 \
+        這篇回答真的很無聊啦 總之我並非腦挺國外大神 同樣他們的照片 我可以從作品裡看到太多太多他們下的功夫 看到他們特別針對哪些區塊做後製 \
+        所以我始終如一 要拍攝台灣不同的頂級風景 即便不符合台灣多數粉專的口味 也要堅持自己的理想" },
+      { type: "link", content: "https://photos.app.goo.gl/D2wneZNm98Bf6yuZ9", label: "2019年1月17日 \
+        腳架嗎 小相機的話我是用八瓜魚 但是是2000多那種穩固的 我會直接買小小白全幅 因為遲早會升級何必花兩次錢 \
+        A7r3我非常需要輕便性 傳統全幅有反的都不要 目前以本業為主 未來如有時間會嘗試:)" },
+      { type: "link", content: "https://photos.app.goo.gl/QLehNaY5Gr2PiQnf7", label: "2019年1月17日 \
+        可以啊 實體店面 不要拍了吧 區段比較重要 拍照是一輩子的興趣 不應該急於一時 反而犧牲了本業技能跟感情等等 會讓你更後悔喔 \
+        主要是處理色調跟多加上陰影 我是不會遇到這問題 但如果是我當然選科優於選醫院 只要在那科好好表現被注意 遠比靠本身醫院的名氣好 \
+        而即使是local還是能積極找機會去center上課跟看很難見的case" },
+      { type: "link", content: "https://photos.app.goo.gl/iVuBNhhymjnfJM468", label: "2019年1月17日 \
+        至少2.8光圈的鏡頭 我推薦小白兔 有錢的話 然後你相機本身iso+連拍能力要夠 孔尼吉娃 \
+        下頁 對比跟霧化是兩個不同回事的步驟 對比我會拉高 但主要是拉低陰影 拉高亮部來增加對比" },
+      { type: "link", content: "https://photos.app.goo.gl/TeUG6y7xExnu7GX5A", label: "2019年1月17日 還有很多可以直接去我的追蹤名單看 不只這些" },
+      { type: "link", content: "https://photos.app.goo.gl/Tx9VGiAT1zuVWAb27", label: "2019年1月17日 \
+        當然是泥坑的相機啊 我家用四年多了完全失望不推 我沒用過欸 我用marumi的比較便宜 有錢可以買BMW的當然最好 \
+        這是商業機密了 如果未來規劃教學 就會放進教材 Canon70-200mm f4 is" },
+      { type: "link", content: "https://photos.app.goo.gl/KVSbDyZ2x4i5VCnv6", label: "2019年1月17日 \
+        幫她買飲料但不要給她吸管 給湯匙 如果是工作的話 私下跟女友或朋友抱怨就好 \
+        其實工作壓力每個人面對的不一樣 有時就當作人生經歷去承受吧" },
+      { type: "link", content: "https://photos.app.goo.gl/k5B48uZhYyi3dQiy9", label: "2018年1月17日 \
+        報告完後有了卻一事的感覺 東京33天我會永遠記得 這輩子應該很難在出國唸書了XD \
+        謝謝myrten_aster專業紀錄 也感謝那段時間 兩位資深宅室友跟日本的朋友們" },
+      { type: "link", content: "https://photos.app.goo.gl/QpHEkvQ5u6Qpb6Jo9", label: "2018年1月17日 製作高品質明信片中 敬請期待 AVOCADO數位微噴輸出 真的很賣 超過三個便當的錢" },
+      { type: "link", content: "https://photos.app.goo.gl/acJe8p7NFk9UZKdg8", label: "2018年1月17日 捨命陪學長 我瘋了 畢業前最後一次" },
+      { type: "link", content: "https://photos.app.goo.gl/QSqrVNFgyMf5abRf9", label: "2018年1月17日 想什麼 把棉被踢開 穿上外套戴上相機快過來吧 晚點白牆 大屯山助航站 標高1976M 半夜跟學長值班好suffer 一個急摳被學長把去大屯助航站" },
+      { type: "link", content: "https://photos.app.goo.gl/chtHMRgdq5eKriC98", label: "2018年1月17日 大屯山台灣第一達人兼醫師教學時間+實戰驗證 累 半夜給學長teaching 陽明山國家公園" }
+    ],
+    "18": [
+      { type: "link", content: "https://photos.app.goo.gl/Dx5th8Uv3EKmvNVP8", label: "2026年1月18日 真的 這國家太爛 " },
+      { type: "link", content: "https://photos.app.goo.gl/5Pft4HeiEbr4WN6t9", label: "2026年1月18日 超可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/J6tusbHWHZ9saEAq7", label: "2026年1月18日 大開眼界哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/z6NixEa9q7ShSEeZ8", label: "2026年1月18日 他看起來準備調皮XD" },
+      { type: "link", content: "https://photos.app.goo.gl/dKJtcPHF3A6oXAjk9", label: "2026年1月18日 那是誰啊" },
+      { type: "link", content: "https://photos.app.goo.gl/i2vy4SCxQU6dwcPq8", label: "2025年1月18日 你這種人才是罪魁禍首吧 還是考不上醫學系然後眼紅你的內心假想 真的很可笑 我有很多藥師好朋友好兄弟 但沒有一個人跟你一樣的 真是萬幸" },
+      { type: "link", content: "https://photos.app.goo.gl/Qg5hgxEgyBFteGmK9", label: "2025年1月18日 這跟你貼文有什麼關聯 還有報導你就信你有去查證哦 不三不四的訊息就想亂洗風向 我最看不慣你這種打著自己職業身分 去污識其他職業的人 我個人非常尊敬藥師 但實在很難尊稱你藥師 因為你連基本的識別跟邏輯能力都有問題 你就繼續大放厥詞吧" },
+      { type: "link", content: "https://photos.app.goo.gl/8nMXUURt2QZ94dLj6", label: "2025年1月18日 嘻嘻 急了 繼續保持崩潰 然後不要刪文 我要還要值班上班 沒辦法一直跟你這種時間多到上網帶風向的人攪和" },
+      { type: "link", content: "https://photos.app.goo.gl/Dv4iadW15gwZw6ASA", label: "2025年1月18日 即使是免費的 CHATGPT已經比GOOGLE好用百倍 似乎不用GOOGLE再慢慢找資料了還要過濾一堆根本毫無關聯的內容" },
+      { type: "link", content: "https://photos.app.goo.gl/5S7sxQqd6fAEVvKQ9", label: "2025年1月18日 醫療業 醫師1.5個月" },
+      { type: "link", content: "https://photos.app.goo.gl/QGujwMXoN24whXkC8", label: "2025年1月18日 那是因為我還沒幫你換手機 螢幕大一點就比較舒服了" },
+      { type: "link", content: "https://photos.app.goo.gl/E2dfDmytTCmqduaK6", label: "2025年1月18日 很讚啊" },
+      { type: "link", content: "https://photos.app.goo.gl/JPmpXAmEVk5AsMZ77", label: "2025年1月18日 +1不用 那個不是抖音歌" },
+      { type: "link", content: "https://photos.app.goo.gl/K2N8FrAFfHUz3hap9", label: "2025年1月18日 大推" },
+      { type: "link", content: "https://photos.app.goo.gl/BGctV8dz4T1BB3yM9", label: "2025年1月18日 貓貓覺得主人起床想游泳 真可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/4TFrBBX4BTGvtmu86", label: "2022年1月18日 雜談筆記系列-statin 臨床意外的心不餘 力也不足 因此偶爾把當天零星的筆記做整理的系列 內容不會太多 也可能會有誤解 希望不吝賜教" },
+      { type: "link", content: "https://photos.app.goo.gl/JjDVRxdE1ka6gFxn6", label: "2021年1月18日 今天偷放假不在醫院 媽媽來找卻撲空 展旭媽說歡迎展旭同學可以揪團來台南玩" },
+      { type: "link", content: "https://photos.app.goo.gl/TPJ58bT7giKqivKFA", label: "2019年1月18日 \
+        謝謝stanley_pic 喜歡的朋友可以分享我作品 讓台灣不同的美景重現 \
+        旅記 識 肆柒 畢業於國防醫學院 目前下部隊擔任軍醫 為什麼喜歡上拍照 剛入大學時 攝影還不是我第一個培養的興趣 而是籃球 當時我除了讀書 佔最多時間就是運動了 \
+        後來因為身邊的朋友開始接觸攝影 從中向他們借相機來玩玩 接著是學長婚禮 婚紗攝影的邀約 過程中也非常感謝學長不吝嗇地分享攝影的技巧 讓我能夠熟知基本的操作和簡單的美感 \
+        目前遇到的難題 到了大二大三 越來越覺得一天24小時不夠用 學校的課業和報告越來越重 只好退而求其次 選擇一個最自由最彈性的攝影主題 風景 \
+        不過老實說 因為我對於照片的堅持非常高 追求風景作品的細節 一幅作品後製到三更半夜常常有 因此我必須犧牲睡眠時間 去換取唸書的時間 \
+        攝影能夠幫助自己甚麼 雖說攝影不是我未來生財的工具 但他給我很大的幫助是 讓我有個自在的方式 藉由和他人彼此的交流 認識不同領域的朋友 \
+        像是我也是透過攝影 才有辦法吸收到該領域的相關知識 在IG帳號上與人互動 諮詢並解惑相同也是熱愛攝影人的問題 儘管畢業後工作再忙 攝影是我願意花僅存的時間 用心經營 直到永遠" },
+      { type: "link", content: "https://photos.app.goo.gl/hQxCpiRULr8z4oKUA", label: "2019年1月18日 最後一天匿名提問唷" },
+      { type: "link", content: "https://photos.app.goo.gl/XV3PKWEd8bazXdZj9", label: "2019年1月18日 年初還請朋友繼續支持我的粉專 然後限時一天可以匿名跟我說任何事情 問任何事情" },
+      { type: "link", content: "https://photos.app.goo.gl/aC6JtkeE9V2jceABA", label: "2019年1月18日 \
+        人跟地景分開拍 再疊圖 眼明手快 快速架好快速拍攝 不超過一分鐘基本上沒問題 當然治安不好的地區不要拍了 \
+        先說有錢人如何複製 例如醫生小孩不會讀書成績普普 但只要砸錢讓她去國外讀醫 門檻遠比台灣容易 之後回國直接接家業診所 繼續賺錢即可 \
+        可以啊 讀書吧 而且要讀的很強 選法律電機 醫學牙醫等熱門科系 抱歉別說我古板 因為畢業之後的收入會讓你很有感 \
+        如果讀書不行 就一定要有特殊專長 不只要台灣前幾強 而且 量有不可取代性 才能賺錢翻身 \
+        Sony家我只用過a72 a73 a7r2 a7r3 所以其他 無法給你太多建議 不過如果預算有限你的選擇應該不錯 不要買canon就對了 原因我的後製精選現時有" },
+      { type: "link", content: "https://photos.app.goo.gl/PQQUdd9vvgAT7sHQ6", label: "2019年1月18日 \
+        呃 我其實不侷限主題 但對網紅景點沒興趣 大景哥則是非大山大海大星空不拍 我下頁分享 \
+        不行 要塗成小小黑 防毛毛雨可以 但大雨的話 我會用前一個背包附贈的背包袋 才能真的有效防水 \
+        加了背包袋 15公里騎機車 約30分鐘車程 大雨 背包還是不會濕喔" },
+      { type: "link", content: "https://photos.app.goo.gl/PLfTEEt9vuB9LJQZ7", label: "2019年1月18日 \
+        IPHONEX使用臉部辨識使用心得 以下狀況無法辨識 擤鼻涕 沒戴眼鏡 對比原本有戴 全罩安全帽 口罩面具 當手機藏在口袋或桌子裡 萬聖節拌鬼 \
+        左邊很多情況都常遇到 而且指紋辨識在那些情況 相對方便 以下狀況可以辨識 距離30-50公分吧 黑暗中 可以設定成女友跟自己的臉都辨識 \
+        我覺得指紋跟臉部各有優缺 大家喜好 臉部 指紋" },
+      { type: "link", content: "https://photos.app.goo.gl/rsC1J7cZ696LZQdQA", label: "2019年1月18日 \
+        這樣的問法很籠統 總之小白基本上比小小白好 如果有防手震避免晃動就又更好 給自己設定一個期限內要完成什麼事情 內心不斷責罵苛責自己 給自己壓カ \
+        我覺得考上不是問題 而是考上之後有沒有體力過上五六年的住院生活 因為很多人都30幾了精神跟身體壓力都非常大 不是常人能承受的 \
+        如果您評估未來體力 家庭婚姻等還能負荷 就去吧 我前面推薦那隻 不然建議帶八抓魚或後面那隻我看過最猛碳纖小腳架" },
+      { type: "link", content: "https://photos.app.goo.gl/SpoZe2J9amdXkX7k6", label: "2019年1月18日 \
+        這隻全展64cm 碳纖 還能直接塞口袋 不過價格相當高 本人是沒有錢不然很想買 真的有意願買自己私圖中朋友 記得說我推薦的" },
+      { type: "link", content: "https://photos.app.goo.gl/2JKHCATfmSBFQYfi7", label: "2019年1月18日 \
+        沒有 幾乎沒空準備比賽 誤 我會重新修照片 符合標準才送件 是真的吧 他們某方面比較優秀也是真的 但我覺得不能說台大就比較自傲 因為各種領域都有這樣的人 \
+        這個問題好難回答啊 因為在我內心只有分及格跟不及格的作品 第一因為這是我花很多苦心學來的 沒辦法白白教別人 第二即使要教 只用文字無法很快理解 需要實際操作" },
+      { type: "link", content: "https://photos.app.goo.gl/6AJccDhxj7W3nm7a6", label: "2019年1月18日 \
+        我一直都是靠自己賺錢玩攝影 所以經濟狀況都直接買二手或水貨 當然如果你經濟能力可以 機身建議公司貨 鏡頭則沒什麼差 \
+        第一多拍幾張不同曝光 第二合成時注意色溫曝光 第三用筆刷慢慢補邊界 善用移除污點跟圖章 商業機密啦哈哈 會啊可是我沒有十年前的照片" },
+      { type: "link", content: "https://photos.app.goo.gl/VzhdQ8LHzjk3K2Jv9", label: "2019年1月18日 \
+        推啊 其餘大砲沒研究 因為小朋友快不夠了 以前說過了 用衛星雲圖 看頭上高雲跟入射角有無低雲 最後能見度 \
+        學長需要先上公文給女友批可 才能在僅存的假日出來 會啊 除了追焦跟動物類 我幾乎都拍 \
+        糖水照跟芭樂點是讓你練習跟殺時間的 我會去拍但我一定會強迫加上自己的創意 就是儘量不跟別人一樣 如果技術到了當然要求自己拍自己的構圖" },
+      { type: "link", content: "https://photos.app.goo.gl/JrzitHGME3bvHEKMA", label: "2019年1月18日 \
+        不能 我會先溝通觀感問題 不行就分手 因為感情是價值觀問題 無法自行做好跟異性保持距離 閨蜜都算 難保不會哪天越線 這是我的原則 當然彼此如果能接受就沒話說 \
+        那就不要拉這麼高 調整局部就好了 那要買定焦啦 而且長焦定焦比較好 光圈開最大就是 當然景深形狀每個鏡頭不同 \
+        哈哈哈謝謝支持 我希望回答能確實而且有用 雅然多數人不會看 但有看的有收穫啦" },
+      { type: "link", content: "https://photos.app.goo.gl/kBPRPsxrmU2s56KD6", label: "2019年1月18日 \
+        可以看wilhelmchangphotography他之前有一個教學短片很不錯 她高中 我大二下 你的預算+拍攝主題呢 \
+        Dorge and burn luminosity太多了說不完 三格+2-3張 當然要看氛圍適不適合 例如大太陽下沒有構圖的作品就不適合" },
+      { type: "link", content: "https://photos.app.goo.gl/qqp5vnydSGuZTKU1A", label: "2019年1月18日 五年前我的照片 看到限時突然想到以前自己拍過不少奇怪的點 真的好想再去拍夜市啊" },
+      { type: "link", content: "https://photos.app.goo.gl/c1VB8HRFyb9tYHds6", label: "2019年1月18日 \
+        我理科比較強 只能說我都用理解的 高中數學公式記不到十幾個 但比過好幾個競賽 物理也沒記公式但有通過奧林匹亞初賽跟南區科學競賽第六名 \
+        課本上每一個物理數學公式 我都會自己推導一遍完整證明 所以不用記可以自己變化 再來就是狂算題目 增加速度跟熟悉感 我只有辦法教你理科 因為國文社會我很普 \
+        手機真的會自己學習嗎 我以為是固定掃描欸 這個完全問錯人因為我沒有錢+工作關係四處移動 我只用普通筆電修圖 \
+        然後傳哀鳳看顏色有沒有跑掉 我建議桌電+蘋果或dell 如果四處旅行當然是筆電 我都沒用過可以私10.tti" },
+      { type: "link", content: "https://photos.app.goo.gl/xngmazHKSdNQVtUX9", label: "2019年1月18日 \
+        重點 逆光但不要讓太陽出現在畫面裡 請把他藏在畫面旁邊才不會造成難修圖 光圈看你 我依照實際情況開光圈 \
+        聽唔 我會先丟小帳號檢查有沒有怪怪 會這麼問表示你不缺資金吧 那就直接三啊 都一樣貴一樣好用 \
+        我是你的話會買小小黑 讓廣中遠兼具 尤其旅遊也需要輕巧長焦 真的要選我建議24-120 但光圈比較小喔" },
+      { type: "link", content: "https://photos.app.goo.gl/YQQr9Jz6btEfUpNN6", label: "2019年1月18日 \
+        下一頁 N贏在鏡頭選擇多 而且不貴 所以怕貴+不怕重就850 如果很有錢+需要輕巧方便卻強大機身 選a7r3 \
+        基本上這兩台如果會影響你作品好壞 那絕對是自己的後製技術問題了 D750吧 現在二手三萬有找 不看價錢a73吧" },
+      { type: "link", content: "https://photos.app.goo.gl/hZAehve5v86Xy4iQA", label: "2019年1月18日 \
+        僅主觀意見只能參考 我覺得門當戶對根本他媽一點狗屁都不重要 重要的是對方有沒有劈腿過 有沒有前科 個性價值觀能不能合 對方家庭背景交友圈正不正常 \
+        再來男方絕對是妳跟爸媽最關鍵的橋樑 妳男友100%挺你是絕對必要 沒有就不要結婚虐待自己 對我來說 我完全站在我女友那裡 即使我家人父母親戚兄弟都一樣 \
+        畢竟她陪妳一輩子時間比誰都長 對馬子狗我驕傲 所以我只要求彼此忠於感情 其餘沒有任何要求 \
+        再來重點是 妳自己的態度 妳自己多有價值是取決你願不願意付出 即使沒有高學歷 但能把家裡帶好小孩照顧好 不也是醫生最強大後盾嗎 \
+        沒有你付出 男友如何日夜照顧別人 如何週末參加開會 如何回家專心寫論文 準備專科考試呢 \
+        如果你男友爸媽要門當戶對 可以啊例如你也是醫生 然後你們都不用照顧家裡了各自拼事業 最後失和 我身邊有真實例子 \
+        最後千萬不要寄託父母會在結婚幫忙帶小孩什麼的 一切都要以最壞打算 結論 跟男友溝通好未來婚前婚後的相處及分工模式最重要 \
+        然後你男友也有一定責任面對他父母 跟他父母溝通 這才是有肩膀 畢竟時代不同觀念不同 父母很可能很傳統守舊 \
+        要走一輩子就要一起吃苦 一起面對困難 不然不用再浪費彼此時間" },
+      { type: "link", content: "https://photos.app.goo.gl/2bSMch8am6f8DfYW8", label: "2019年1月18日 近期喝過最奇怪的飲料 但跟一般拿鐵差無幾 多一點酒的酸甜味而已" },
+      { type: "link", content: "https://photos.app.goo.gl/MbJHLsNnpogrAhvU7", label: "2019年1月18日 蘇澳終於出太陽 但要回去了" },
+      { type: "link", content: "https://photos.app.goo.gl/Ri3KJbwwdfAZVtjp9", label: "2019年1月18日 \
+        台南 水晶教堂 天空劃出兩道翅膀 好想插在自己背上 飛回這純樸的家鄉 \
+        想到台南 就會聯想到接下來的重頭戲 鹿耳門煙火 也許今年會第一次去一睹風采 歡迎註明出處分享" },
+      { type: "link", content: "https://photos.app.goo.gl/99QeRqfPp5wyzNcn8", label: "2018年1月18日 \
+        台北 焚 由於小弟真的非常喜歡拍+研究後製城市夜景 不想私爬 所以若有朋友是高樓住戶 管理員或者揪拍特別的高樓視角 希望也能帶上我一起 \
+        我願付出微薄的後製技術或者清潔費交換 特別是地標 101大樓 85大樓 車軌周圍XD 攝影家教一二月滿 最後剩下三月台中平日晚上場預約 歡迎參考作品互相交流" },
+      { type: "link", content: "https://photos.app.goo.gl/QuxntQw7xxtFE2yR9", label: "2018年1月18日 新の照片 蘭嶼氣象站 仙境傳說 加碼明信片抽獎將在下禮拜之後找時間再辦 高質感明信片只能送不能賣 成本太貴了" },
+      { type: "link", content: "https://photos.app.goo.gl/UB6TfBzVFWdB1EzZA", label: "2018年1月18日 親自手工裁切 邊緣無法完美請見諒 上次中獎者今日會寄出 高質感看起來心情真好 下次計畫至少抽五位 敬請期待" },
+      { type: "link", content: "https://photos.app.goo.gl/jA3uamQQVo6wj36m9", label: "2018年1月18日 大屯山助航站" }
+    ],
     "19": [
       { type: "link", content: "https://photos.app.goo.gl/WA7DPH5sFnbueMZZ7", label: "2017年1月19日 \
         songshanairport 久違的出圖&GS weekly summary 一般外科的生活接近尾聲了 每天每天都讓自己燃燒殆盡 沒有想過多一點的休息跟偷懶 \
         踢群能學就學 上刀能刷就刷 病人能接就接 昨天下班之後整個頭暈大概發燒了 繼np姐姐跟鵝學長 拜託不要換我中標 \
         這個月真的好充實 遇到一起並肩作戰的夥伴同學們 幸好有你們一起分擔 也感謝學長在我犯錯後一直提醒我 教我 \
-        沒什麼好抱怨的 好累好盡興 套句有人說的, 當作是在玩或許會開心一點 不過已經夠開心了哈哈 感謝你的出現跟幫忙 要繼續努力下去 讓自己更值得依靠 liverteam" }
+        沒什麼好抱怨的 好累好盡興 套句有人說的 當作是在玩或許會開心一點 不過已經夠開心了哈哈 感謝你的出現跟幫忙 要繼續努力下去 讓自己更值得依靠 liverteam" }
       ],
     "20": [
       { type: "link", content: "https://photos.app.goo.gl/zhq5XMWB2NbB6yqy8", label: "2017年1月20日 \
