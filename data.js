@@ -1149,6 +1149,71 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/jA3uamQQVo6wj36m9", label: "2018年1月18日 大屯山助航站" }
     ],
     "19": [
+      { type: "link", content: "https://photos.app.goo.gl/u7R7sSm9ifLso7uH9", label: "2026年1月19日 今天當考官 有學弟一進門湊超近 指著安妮假人的鼻子問 你是不是黃先生 差點以為這關要考如何討債" },
+      { type: "link", content: "https://photos.app.goo.gl/UwgwfE2nenvPRykC9", label: "2026年1月19日 非尼克如果預判比洛爾要開刷的點把大招繳在那裏 比洛爾刷進來就會直接吃大招 後續非尼克二技能滾出去讓比洛爾沒辦法黏上就打贏了" },
+      { type: "link", content: "https://photos.app.goo.gl/35seoDTjwaACD9DU9", label: "2026年1月19日 日本看醫生 實用推" },
+      { type: "link", content: "https://photos.app.goo.gl/9wG6r5DHZNwcJ9g19", label: "2026年1月19日 真好看" },
+      { type: "link", content: "https://photos.app.goo.gl/RNeB85UPZZQCKmba7", label: "2026年1月19日 失焦超有feel" },
+      { type: "link", content: "https://photos.app.goo.gl/uJwmcydz27SBcxUg6", label: "2026年1月19日 好想跟" },
+      { type: "link", content: "https://photos.app.goo.gl/nsstLmvuqwUsK8Sp8", label: "2025年1月19日 超讚 從被判決死刑犯那刻起就不能把它們當成人來看了 畢竟他們也是鐵錚錚沒把被害者當人看 這才是公平正義" },
+      { type: "link", content: "https://photos.app.goo.gl/qA1RJynNRFiCeCGD6", label: "2025年1月19日 好好做醫美 賺到的錢投資大盤 25歲做到50歲基本上就能財富自由了 是有被虐傾向才會做到60歲好嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/4rqeAArxZzZttLYf8", label: "2025年1月19日 \
+        我計算了一下 還不只自己財富自由 這個錢應該足夠兩個人財富自由了吧 \
+        設定2010-2025做醫美15年 0本金 每個月很可悲這15年都固定20萬月薪且沒有年終 每個月花費12萬 固定無腦存8萬 \
+        一年投入0050總共96萬 每次股利都投入 每次都最倒霉買在最高點 15年後這位醫美仔的0050總資產將達到4400萬 \
+        這樣哪個傻醫美仔還要繼續做下去啊呵呵 40歲在醫中可能還是young V繼續當狗在值班" },
+      { type: "link", content: "https://photos.app.goo.gl/TB7ktXDu3EDvUoaU9", label: "2025年1月19日 沒錯 從剛交往出去玩一兩天 到可以一起出國旅遊 再到要每天相處 會有越來越多要互相磨合跟包容的地方 我覺得這才是考驗是不是真感情的三個階段" },
+      { type: "link", content: "https://photos.app.goo.gl/d5PzJ9uWBzKDJDrB8", label: "2025年1月19日 從很久之前開始經營攝影instagram就開始拍5:4的裁切比例 也是從接觸ig開始從橫幅踏入直幅的拍攝習慣 現在版面照片看了更舒服" },
+      { type: "link", content: "https://photos.app.goo.gl/rZG25B9mkCRxALnK6", label: "2025年1月19日 學長的作品也是大師級的 看完一遍如同出國環遊一圈" },
+      { type: "link", content: "https://photos.app.goo.gl/BLTPvjAnJexuY2jz9", label: "2025年1月19日 謝謝~" },
+      { type: "link", content: "https://photos.app.goo.gl/Bihm4Pc8GHwcNUka8", label: "2025年1月19日 台北多了很多神奇的地方" },
+      { type: "link", content: "https://photos.app.goo.gl/j4s9sM1v22Tza8RU8", label: "2025年1月19日 沒錯沒錯" },
+      { type: "link", content: "https://photos.app.goo.gl/cFonvgeVLQWsjyfT6", label: "2024年1月19日 他媽的拿我納稅錢補助你 你去感謝民進黨 是賴清德還菜英文自掏腰包補助你嗎 台灣就是有這種單純天真還自以為很懂的人" },
+      { type: "link", content: "https://photos.app.goo.gl/rmr6V4j4HceK1mp76", label: "2024年1月19日 \
+        自從開始追蹤股市肥羊 已經無數次 基本上100% 他買完金融股不久就直接漲 這位急診醫師是真的很會看金融股 \
+        不過金融股就是大資金賺小錢 賠錢就放著當長期也不怕 很適合我這種無敵保守派 \
+        這張圖是他昨天買進 然後今天就漲 類似的事情上個月也是 好幾次了" },
+      { type: "link", content: "https://photos.app.goo.gl/KetFQuAyDxXBptSN6", label: "2022年1月19日 \
+        這種東西真的是滿可笑的 市場上的錢不會憑空多出來 今天有人賺到暴富 就代表有人賠到脫褲子 \
+        賺錢的背後是有人賠錢給你 不然錢哪來 而無腦跟風的下場就是當那個賠錢的 眼睜睜看著賺錢的分享經驗 要錢還是老實點好好工作賺吧zzz" },
+      { type: "link", content: "https://photos.app.goo.gl/wV89QMN4e9tVyNf57", label: "2022年1月19日 這是很棒的觀念" },
+      { type: "link", content: "https://photos.app.goo.gl/hw3dToGqDR9Gccn28", label: "2022年1月19日 衛勤中隊 待了兩年 也離開快兩年了 收到隊上幫忙訂制的隊服 讓我看到許多回憶一起被寄過來 海軍陸戰隊 戰鬥支援大隊 衛勤中隊" },
+      { type: "link", content: "https://photos.app.goo.gl/1KkKgRqAxdLi8cxy8", label: "2021年1月19日 已經好久 至少超過一年了 生活被壓力跟無奈轟炸 沒有拍照自己真正喜歡的照片 這次托之福 終於又感受到完成攝影作品的喜悅" },
+      { type: "link", content: "https://photos.app.goo.gl/QonDUGeVhXzhDRYw7", label: "2019年1月19日 \
+        南港往基隆省道 一輛白休旅車從我左後非常快的貼進來 擦撞了我 幸好我閃的快只有擦撞 人跟機車沒啥事 \
+        倒是那個力道不小 他車身絕對有刮痕 還把女友給我的手提撞壞 但某種意義上感謝女友家送的提袋啦 \
+        只能說台灣對機車很不友善 機車要嘛不要碰 要嘛騎多一點累積經驗才能很快的反射 保護自己" },
+      { type: "link", content: "https://photos.app.goo.gl/2YiMWt938WLDT9eY6", label: "2019年1月19日 \
+        分類分類分類 先記分類 有些同樣機轉卻用在不同分類 機轉真的最難記 我也無法 我考試都靠著大方向概念 用刪去法 \
+        我以前教過了 用飯店免費浴帽哈哈 會啊 注意架腳架會頭重腳輕 正是instagram呢 沒有刻意下意外認識 我推薦八抓魚 1-2千左右的 輕巧適應地形" },
+      { type: "link", content: "https://photos.app.goo.gl/6gcNSYdzga8Ujz1m9", label: "2019年1月19日 \
+        語言只有一招 超大量閱讀 狂看文章 狂看就對了 我看不太懂 如果問為何不直出 我已經回答為何要後製的原因有100萬次了 \
+        會找一份正業+兼職攝影 必須肯定告訴各位 只有拍照真的會餓死 你必須要有另一個工作撐起攝影設備的開銷 \
+        錯誤 平均護理師最多只有1/4跟醫生在一起 多數我看到的是警察老師富二代 沒用過 用LR吧" },
+      { type: "link", content: "https://photos.app.goo.gl/MipKQrCFas9Bch866", label: "2019年1月19日 \
+        A模式 靜音連拍 快門抓比1/100快的 工作關係沒空處理 已口頭警告他 也感謝大家幫我檢舉他哈哈 \
+        你放心 你這輩子都會遇到請 學著長大 學著接受人生本來就不公平 學著專注在自己的目標 學著堅定自己卻又不會難相處 \
+        我後者 快又準 沒有欸 這個時代人人都可以是攝影師 試問為什麼非得選你當攝影 你有非常特殊不可取代的優勢嗎 \
+        可以有一個基本穩定工作 在順便玩攝影提高名氣看創客源" },
+      { type: "link", content: "https://photos.app.goo.gl/TtVvg77rSscr4BjN8", label: "2019年1月19日 F11-16 基本上我都是在臉書二手社團買的 DC VIEW也有二手專屬拍賣區 可能比臉書有保障一些 臉書資訊要小心過濾這樣" },
+      { type: "link", content: "https://photos.app.goo.gl/h5AC5TijL7ri9yE27", label: "2019年1月19日 哈哈哈哈 沒有 超級推啊 尤其沒啥錢又需要好的機子 昨天太累整個忘記 匿名提問就到今天中午 1200準時結束囉" }, 
+      { type: "link", content: "https://photos.app.goo.gl/NEWsHoxMLJ3Qc4kc6", label: "2019年1月19日 \
+        完全不在意也覺得可有可無 這是習慣問題而已 但我覺得螢幕檢視照片能觸控縮放就很方便 \
+        當然後者 畢竟你花的不是自己賺的錢 還是要學習克制 既然年輕多背一點重量也可行的哈哈 而且後者很夠了 \
+        台南東旭或高雄德堡 前女友絕對封鎖+刪除+永不聯絡 這是我自己對下一任女友的尊重 有買國外的攝影教學" },
+      { type: "link", content: "https://photos.app.goo.gl/mymFb7JyFH1ARPTh9", label: "2019年1月19日 匿名提問到此結束囉 如果真的真的很想再問的 可以私訊我啦哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/Bc9KryhfvxBjy4i59", label: "2019年1月19日 \
+        興趣跟感情本來就無法齊全 要嘛選擇單身愛怎麼拍就怎麼拍 要嘛選擇感情放棄那些大景 否則未來如果要照顧小孩照顧家裡卻又想衝景 會更嚴重喔 \
+        畫質沒有特別高 是使用不同技巧的銳利化 當然16-35 因為我喜歡拍大景 喜歡走拍才選24-105 \
+        100-400我只用過佳能的 無法推薦太多欸 每個月320一整套adobe都能用 繁體" },
+      { type: "link", content: "https://photos.app.goo.gl/nTT31momGzuLqSLAA", label: "2019年1月19日 又到了奇怪case的時間 20/男/無特殊病史 Chest x ray正常 昨天發燒到今早38.6 全身無力外 無其他明顯症狀 抽血只有CRP高其他正常 等等切CT排除abcess" },
+      { type: "link", content: "https://photos.app.goo.gl/nDezm2vV9gz6XrG78", label: "2019年1月19日 女友是小聰明 沒有一場贏他" },
+      { type: "link", content: "https://photos.app.goo.gl/DZwtKiBohZZddKpq8", label: "2018年1月19日 這是我紀錄台灣之美的instagram 歡迎追蹤omg.wp" },
+      { type: "link", content: "https://photos.app.goo.gl/UYcNEfvkHfnYEsAy8", label: "2018年1月19日 攝影家教預約已滿 六月底國考 開始閉關 暫時少衝景 若有交流教學需求可以私訊 我會推薦 預祝新年快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/L1wAvhqULpqrmwXg9", label: "2018年1月19日 \
+        Ps一般來說低雲都是不會燒的唷 結成一塊的不容易 但像今天這樣分散成線狀的有機會 我在家教教學有分享過低雲燒的案例哈哈 \
+        以今天夕陽為例 幾乎都是低雲 由於對岸透光的比例很多所以中南部低雲還是燒了 但低雲燒的時間比較短 後續色溫也不會持續很久 \
+        另外就是要排除降雨的地區 像是台北 就絕對沒有景" },
       { type: "link", content: "https://photos.app.goo.gl/WA7DPH5sFnbueMZZ7", label: "2017年1月19日 \
         songshanairport 久違的出圖&GS weekly summary 一般外科的生活接近尾聲了 每天每天都讓自己燃燒殆盡 沒有想過多一點的休息跟偷懶 \
         踢群能學就學 上刀能刷就刷 病人能接就接 昨天下班之後整個頭暈大概發燒了 繼np姐姐跟鵝學長 拜託不要換我中標 \
