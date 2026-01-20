@@ -1221,6 +1221,40 @@ const records = {
         沒什麼好抱怨的 好累好盡興 套句有人說的 當作是在玩或許會開心一點 不過已經夠開心了哈哈 感謝你的出現跟幫忙 要繼續努力下去 讓自己更值得依靠 liverteam" }
       ],
     "20": [
+      { type: "link", content: "https://photos.app.goo.gl/GSUfsyN88WZGUxG48", label: "2026年1月20日 連這都可以無限上綱 要不要接受去敏治療啊" },
+      { type: "link", content: "https://photos.app.goo.gl/ZCEuSB1mAuoiPHHZ6", label: "2026年1月20日 這太猛了吧 會不會原本朋友可以坐輪椅 弄不好朋友變成只能躺床XD" },
+      { type: "link", content: "https://photos.app.goo.gl/ZwS7f7SuJxY4mpbq9", label: "2026年1月20日 好啊" },
+      { type: "link", content: "https://photos.app.goo.gl/y6EnJxgc43uArMc69", label: "2026年1月20日 這是我會喜歡的褲子欸" },
+      { type: "link", content: "https://photos.app.goo.gl/pBmiZoCBYiAb92FJ8", label: "2026年1月20日 需要爸爸制裁" },
+      { type: "link", content: "https://photos.app.goo.gl/EThr4PTn22ytcfPQ8", label: "2026年1月20日 超不想上班" },
+      { type: "link", content: "https://photos.app.goo.gl/5vnFVoHxo7tSKZZx7", label: "2026年1月20日 我也要看這個ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/d1xgSdpEb9gdKhQy7", label: "2026年1月20日 小時候超調皮 長大超帥" },
+      { type: "link", content: "https://photos.app.goo.gl/kbK63fkYyhiA1gwz9", label: "2025年1月20日 傻子 平常怎麼不去衛福部抗議醫療待遇差導致醫護離職 造成沒有病床 兇手就是衛福部你還看不出來啊" },
+      { type: "link", content: "https://photos.app.goo.gl/vh78UN3bfGg9Uvyw9", label: "2025年1月20日 幹好扯 這會不死也半殘欸== 無法反駁欸" },
+      { type: "link", content: "https://photos.app.goo.gl/3EVcMehetjEnsY6Q8", label: "2025年1月20日 這以後一定會去信義區或西門町中間表演椅子倒立 太強了" },
+      { type: "link", content: "https://photos.app.goo.gl/hJY66CzsKW6s1v1g8", label: "2025年1月20日 +1 版面比之前更好看" },
+      { type: "link", content: "https://photos.app.goo.gl/ZKMzWhFL7dPwB5iJ7", label: "2023年1月10日 病人不乖 可以物理打昏" },
+      { type: "link", content: "https://photos.app.goo.gl/rhJWbaLHzJUrbCH16", label: "2023年1月10日 終於放假了嗚嗚 大家新年快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/rb2kauYHFhqDqxh58", label: "2022年1月20日 好痛苦 就算找資料也完全看不懂PAOD到底哪條血管塞" },
+      { type: "link", content: "https://photos.app.goo.gl/XyhMq7Km8k8TKsZ78", label: "2022年1月20日 \
+        台北 哈哈羅55泰式船麵 信義店 非常道地的泰式 就是直接把泰國的路邊攤搬來台灣一樣 \
+        播報著泰國新聞 店內除了菜單都是泰文 員工也幾乎都泰國人 價格也很泰國 泰爆了 \
+        不過缺點則是品項很少 份量也很單薄 當作一餐是不夠的 但是吃個嘴饞很適合" },
+      { type: "link", content: "https://photos.app.goo.gl/Ajn3EQCEuo7eHap46", label: "2021年1月20日 \
+        這完全沒有甚麼問題啊= = 台積電本身就是台股裡面的最強勢股 本來占比就相對大 若有一天他表現不強勢了 鴕鳥蛋自然變斑鳩蛋了 \
+        會有覺得0050的台積電占比太多的人 根本連ETF是甚麼意思都不懂吧" },
+      { type: "link", content: "https://photos.app.goo.gl/od9kRQEm4JvvXmY99", label: "2021年1月20日 補習班老師&開業藥師 醫師這職業瞬間 淬義PIZZERIA&TRATTORIA TRE" },
+      { type: "link", content: "https://photos.app.goo.gl/ftXdmLVnqcV6vHG88", label: "2020年1月20日 今年的大掃除 應該是最後一年留在家裡最久的一年 清理出很多奇怪的東西 其他太奇怪的東西 實在不敢分享" },
+      { type: "link", content: "https://photos.app.goo.gl/hDiqigJfnpcXVuiv6", label: "2020年1月20日 東飄 南迴" },
+      { type: "link", content: "https://photos.app.goo.gl/zH9atJqhFufBxF6y5", label: "2019年1月20日 蘭嶼的New Post 蘭嶼 秘境 極度想度假中" },
+      { type: "link", content: "https://photos.app.goo.gl/Qp5GQEbC6mWTuHqm9", label: "2018年1月20日 \
+        為了選舉開始幹話講不停真的很難在支持下去 什麼叫做醫生隨心所欲 我倒希望可以真的隨心所欲的治好病人 \
+        醫療法是沒有醫生敢隨心所欲好嗎 醫學就是一直再犯錯一直再修正的艱難科學 醫療法是用來保障醫生不被濫訴 \
+        想想因為濫訴不是害醫生賠錢就是害他跑官司 完全出自於家屬自私的心態 還有不要把工時過長跟醫療法混在一起 \
+        你根本沒有搞清楚工時過長是一個問題 醫療法又是另一個問題 需要保障醫生的工作時數跟休假 但往往沒辦法治療做一半就下班 \
+        但也不算加班 這是一個待商榷的難題 醫療法是保障醫生不被濫訴的 不因為濫訴而浪費醫療資源 時間跟金錢 \
+        你說矯枉過正 大概是用0.1%的錯誤套在99.9%的醫生身上 說99.9%醫生都會隨心所欲" },
+      { type: "link", content: "https://photos.app.goo.gl/BKWNJ5xFmT1AyChUA", label: "2018年1月20日 三總麻醉科旺年會 休假日還是工作了半天累死奄" },
       { type: "link", content: "https://photos.app.goo.gl/zhq5XMWB2NbB6yqy8", label: "2017年1月20日 \
         一個下刀做完查房資料 直接飛奔外科部忘年會 合照紀念一下carry的R跟強大的漂亮np姐姐 \
         上一科在CVS連續兩天上刀換心case 今天上刀換肝case 究竟下一科GU會遇到什麼大刀呢 frustrated burnout 一臉疲憊蠢貌" }
