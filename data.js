@@ -1222,6 +1222,7 @@ const records = {
       ],
     "20": [
       { type: "link", content: "https://photos.app.goo.gl/GSUfsyN88WZGUxG48", label: "2026年1月20日 連這都可以無限上綱 要不要接受去敏治療啊" },
+      { type: "link", content: "https://photos.app.goo.gl/6MqVSw54pwVe5LLz9", label: "2026年1月20日 沒錯 尿量才是關鍵之一 不是一直看data" },
       { type: "link", content: "https://photos.app.goo.gl/ZCEuSB1mAuoiPHHZ6", label: "2026年1月20日 這太猛了吧 會不會原本朋友可以坐輪椅 弄不好朋友變成只能躺床XD" },
       { type: "link", content: "https://photos.app.goo.gl/ZwS7f7SuJxY4mpbq9", label: "2026年1月20日 好啊" },
       { type: "link", content: "https://photos.app.goo.gl/y6EnJxgc43uArMc69", label: "2026年1月20日 這是我會喜歡的褲子欸" },
@@ -1259,8 +1260,57 @@ const records = {
         一個下刀做完查房資料 直接飛奔外科部忘年會 合照紀念一下carry的R跟強大的漂亮np姐姐 \
         上一科在CVS連續兩天上刀換心case 今天上刀換肝case 究竟下一科GU會遇到什麼大刀呢 frustrated burnout 一臉疲憊蠢貌" }
     ],
-    "21": [],
-    "22": [],
+    "21": [
+      { type: "link", content: "https://photos.app.goo.gl/yWV1cdWcpBLrWSkv8", label: "2026年1月21日 為什麼病人已經這麼可憐了 這種貼文底下還有這種想害死人的留言啊 不怕下地獄嗎XD" },
+      { type: "link", content: "https://photos.app.goo.gl/aufsyBzTdzDANiFt6", label: "2026年1月21日 可是我不會說你又怎麼了 因為我都知道你怎麼了 只是我覺得應該不到需要賣我的程度啊 好吧" },
+      { type: "link", content: "https://photos.app.goo.gl/hGAgC7nvesD6UHHF6", label: "2025年1月21日 被臉書推播大阪透天 查了一下位置居然是精華地段 完全在市區裡面 逛街都能用走的到 天啊好想移民去日本QQQQQ 台北房價什麼牛鬼蛇神啊 日本就算加上持有成本也不會比同等級的台北透天貴啊啊啊" },
+      { type: "link", content: "https://photos.app.goo.gl/deyBzP1CfBtgcs1k8", label: "2025年1月21日 來得及我一定馬上把妳抱出去" },
+      { type: "link", content: "https://photos.app.goo.gl/zFk7xud1hrGuiM2X7", label: "2025年1月21日 他根本大狀" },
+      { type: "link", content: "https://photos.app.goo.gl/FLQpXhtxVa7x6sZu6", label: "2025年1月21日 真是可愛的地震鸚鵡" },
+      { type: "link", content: "https://photos.app.goo.gl/6UMNZ5Gz2w92UUme7", label: "2025年1月21日 貓貓也懂感恩 好感動" },
+      { type: "link", content: "https://photos.app.goo.gl/izxo9sTguDrVcgTD9", label: "2024年1月21日 Mac也不管我願不願意 同不同意 突然螢幕全暗開始更新 這麼霸道是可以的 MAC都這樣嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/YZ4cPv94hRgznS9C7", label: "2024年1月21日 目前最屌的slipback 第二種變化根本月步" },
+      { type: "link", content: "https://photos.app.goo.gl/gbgat35KZzeuz4nQ8", label: "2024年1月21日 運氣那麼好 一個禮拜遇到兩個IE 血中都GPC" },
+      { type: "link", content: "https://photos.app.goo.gl/zcLXwAdiwpjMzE1z5", label: "2024年1月21日 退伍軍人菌Legionella spp. 內專筆記" },
+      { type: "link", content: "https://photos.app.goo.gl/jJVd8XpLXs8uM6Er5", label: "2023年1月21日 太扯吧 一樣是醫師我只能出50" },
+      { type: "link", content: "https://photos.app.goo.gl/cGRar1aWHNXmzsDMA", label: "2023年1月21日 我也要" },
+      { type: "link", content: "https://photos.app.goo.gl/S4iAQMk2YqsvLFye6", label: "2023年1月21日 行程需加上先吃allegra十顆再開始" },
+      { type: "link", content: "https://photos.app.goo.gl/JorRzZDg77bTEJ4s9", label: "2022年1月21日 送的無家日能量飲很符合 今晚要值班無家可歸" },
+      { type: "link", content: "https://photos.app.goo.gl/xSS9BvNfs2QR3z9N6", label: "2019年1月21日 終於贏了" }
+    ],
+    "22": [
+      { type: "link", content: "https://photos.app.goo.gl/iHmkCdx8Yzq1b44x6", label: "2026年1月22日 完全有感 剛發生過 吵架吵不贏某個外科學長 被強迫安排病人做導管 硬要讓病人冒著出血風險做還沒輸到血 幸好做完不用PCI 以後要磨練吵架技術zz" },
+      { type: "link", content: "https://photos.app.goo.gl/a4duWTXKNQP9rFU79", label: "2026年1月22日 \
+        有夠噁心航騙的嘴臉 軍費跟公費就是台灣合法的詐騙集團 最可惡的地方在於 當初 簽約時不在白紙黑字裡的要求 及 簽約時沒有說的延長賠償年限跟金額 \
+        都可以後續無條件加上去甚至溯及既往 根本不公平不正義卻可以操作成合法 簽約內容只有我們要遵守 政府不用遵守 請問還有哪種契約可以合法這樣玩的 \
+        如果成年人能對自己負責 那你政府為什麼沒能力對變差的醫療環境負責 幫醫護加薪這麼簡單做不到 健保點值一點一元做不到 只能用更垃圾的公費軍費制度來綁人 \
+        最不負責的就是這個制度了好嗎 任何幫軍公費制度護航的人都是自私的幫兇 祝你子孫孫子都是軍公費" },
+      { type: "link", content: "https://photos.app.goo.gl/BA3qC6E9ixx41ZoZ7", label: "2026年1月22日 超有良心" },
+      { type: "link", content: "https://photos.app.goo.gl/NS6HPudsXRnh2oQj9", label: "2026年1月22日 這樣他們才不會壞掉ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/6kKTwYxuEznh2XUw9", label: "2026年1月22日 我要收養他QQQ 真的啦" },
+      { type: "link", content: "https://photos.app.goo.gl/jJirMujBhxaUriq1A", label: "2026年1月22日 小小經營的攝影帳號 希望能拍遍全世界的美景 太不務正業了 你也讚讚的XD" },
+      { type: "link", content: "https://photos.app.goo.gl/qEzMr2xiwghopfHh9", label: "2026年1月22日 帥" },
+      { type: "link", content: "https://photos.app.goo.gl/CXNbw3XtS2UeY4217", label: "2025年1月22日 這養爆 事世界可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/tEnWXUMJ6XHaKNvH6", label: "2024年1月22日 貼膜專業大師 好厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/BSCU2RTQrSVbro1v7", label: "2023年1月22日 \
+        迷霧中相遇 生活分享No.26 這三年越來越緊湊的工作步調 輪迴的值班常讓我們無法好好放鬆 放假 薪水跟年終也大輸輪班星人 \
+        唯一期盼的 是希望健康跟體態別再變差 雖然是一段辛苦的路程 卻讓我格外體會到彼此陪伴的幸福 \
+        再多的名聲地位工作 都遠不及平凡簡單的日子 目標是能年年出國 繼續利用放假拍攝風景 紀錄世界的美好 \
+        2023祝福大家都能朝自己的目標前進 少點工作的禁錮 多點時間留給生活 謝謝分享 新年快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/xNmWefCzZ1VoHJvu9", label: "2021年1月22日 \
+        記錄一下主治team的病人來到我遇過的最高數字27位 基本上已經變成看到病人名字會有種非常熟悉的感覺 \
+        但沒辦法馬上想起做過哪些檢查跟診斷 必須要想一些方法讓自己能快速記憶了" },
+      { type: "link", content: "https://photos.app.goo.gl/oTVyvbLfaTwirMr49", label: "2019年1月22日 中士>>>>>中尉" },
+      { type: "link", content: "https://photos.app.goo.gl/YDVRRcE3FDVHyMRv5", label: "2018年1月22日 \
+        想問大家 室友之類的如果 大便完直接在沖澡區沖洗屁股 尿完在洗手台沖洗自己的x \
+        反正就是不用我提供的免費衛生紙 請問各位能接受嗎 我怕是自己有潔癖不能接受 問問大家 1+2同時發生的話 接受啊很健康 幹我想搬走" },
+      { type: "link", content: "https://photos.app.goo.gl/59Q6PakAVQRd62sN7", label: "2018年1月22日 請大家給我意見參考 我怕是自己太龜毛或潔癖 其實大家都不用衛生紙是我很奇怪之類的 那我就不應該怪別人" },
+      { type: "link", content: "https://photos.app.goo.gl/KFh3YFMiJgevn1N27", label: "2018年1月22日 \
+        誰給我投很健康的 給我想像大便粒子因為沖水 飄散在空氣中 甚至流到地板卡住每次洗澡都浮起來跟你親親 \
+        廁所裡開口閉口都是大便跟尿素分子 你受得了 衛生紙擦完丟馬桶沖不是很乾淨嗎 衛生紙買水溶的 無鹽" },
+      { type: "link", content: "https://photos.app.goo.gl/Ne6XoTC5jeyxc3RR9", label: "2018年1月22日 My new pic Welcome follow" },
+      { type: "link", content: "https://photos.app.goo.gl/EFRNN3j86tffQAUN7", label: "2018年1月22日 一月最後一堂 三個半小時好累 謝謝各位" }
+    ],
     "23": [],
     "24": [
       { type: "link", content: "https://photos.app.goo.gl/r66SNfdmHjnorKf98", label: "2017年1月24日 當病人體驗醫病關係 銅鋰鋅+10 thanks for professional help Traditional treatment" },
