@@ -1279,6 +1279,9 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/xSS9BvNfs2QR3z9N6", label: "2019年1月21日 終於贏了" }
     ],
     "22": [
+      { type: "link", content: "https://photos.app.goo.gl/AqisXjVBKvryn6pb8", label: "2026年1月22日 楊斯年你錯了 軍醫更久 你以為軍醫只要賠14年 錯 裡面一堆外加的規定讓你賠到20年都很常見" },
+      { type: "link", content: "https://photos.app.goo.gl/jrBgb37NoGTgoTnD8", label: "2026年1月22日 這種人就是要大聲跟他吵 讓他知道自己有多丟臉" },
+      { type: "link", content: "https://photos.app.goo.gl/iLw6wH12ahpGwMMx6", label: "2026年1月22日 這種患者非常可怕 治好了怪你賺他錢 治不好怪你騙他錢" },
       { type: "link", content: "https://photos.app.goo.gl/iHmkCdx8Yzq1b44x6", label: "2026年1月22日 完全有感 剛發生過 吵架吵不贏某個外科學長 被強迫安排病人做導管 硬要讓病人冒著出血風險做還沒輸到血 幸好做完不用PCI 以後要磨練吵架技術zz" },
       { type: "link", content: "https://photos.app.goo.gl/a4duWTXKNQP9rFU79", label: "2026年1月22日 \
         有夠噁心航騙的嘴臉 軍費跟公費就是台灣合法的詐騙集團 最可惡的地方在於 當初 簽約時不在白紙黑字裡的要求 及 簽約時沒有說的延長賠償年限跟金額 \
@@ -1291,7 +1294,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/jJirMujBhxaUriq1A", label: "2026年1月22日 小小經營的攝影帳號 希望能拍遍全世界的美景 太不務正業了 你也讚讚的XD" },
       { type: "link", content: "https://photos.app.goo.gl/qEzMr2xiwghopfHh9", label: "2026年1月22日 帥" },
       { type: "link", content: "https://photos.app.goo.gl/CXNbw3XtS2UeY4217", label: "2025年1月22日 這養爆 事世界可愛" },
-      { type: "link", content: "https://photos.app.goo.gl/tEnWXUMJ6XHaKNvH6", label: "2024年1月22日 貼膜專業大師 好厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/bmdRq1aGGkTvijic7", label: "2024年1月22日 貼膜專業大師 好厲害" },
       { type: "link", content: "https://photos.app.goo.gl/BSCU2RTQrSVbro1v7", label: "2023年1月22日 \
         迷霧中相遇 生活分享No.26 這三年越來越緊湊的工作步調 輪迴的值班常讓我們無法好好放鬆 放假 薪水跟年終也大輸輪班星人 \
         唯一期盼的 是希望健康跟體態別再變差 雖然是一段辛苦的路程 卻讓我格外體會到彼此陪伴的幸福 \
@@ -1311,8 +1314,70 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/Ne6XoTC5jeyxc3RR9", label: "2018年1月22日 My new pic Welcome follow" },
       { type: "link", content: "https://photos.app.goo.gl/EFRNN3j86tffQAUN7", label: "2018年1月22日 一月最後一堂 三個半小時好累 謝謝各位" }
     ],
-    "23": [],
+    "23": [
+      { type: "link", content: "https://photos.app.goo.gl/pQ8REErEFNFLFEav8", label: "2026年1月23日 民進黨是多怕幫軍人加薪 是多怕退伍軍人領到當初簽約答應的退休俸?" },
+      { type: "link", content: "https://photos.app.goo.gl/7afCrUMHpye9B1Fd8", label: "2026年1月23日 你給我去考指考 重考三年也可以" },
+      { type: "link", content: "https://photos.app.goo.gl/Q8QLzdbTAnKVSequ6", label: "2026年1月23日 任何人出自個人意願想送死都不甘你的事情 還堅決反對" },
+      { type: "link", content: "https://photos.app.goo.gl/AEGrUqBPVkkowZrS9", label: "2026年1月23日 你沒有畫我也喜歡" },
+      { type: "link", content: "https://photos.app.goo.gl/aJRXWPJxHG2sANts6", label: "2026年1月23日 怎麼畫那麼好" },
+      { type: "link", content: "https://photos.app.goo.gl/AuhyUHw5n5BtWe178", label: "2026年1月23日 \
+        沒錯 我已經在峇里島摔掉一台Mavic3 又在越南下龍灣迫降一台Mavic3造成部分損毀了 \
+        他的避障跟回程定位真的有問題 我要好好存錢 希望長大能買Mavic4pro" },
+      { type: "link", content: "https://photos.app.goo.gl/7ojEWYWRSEKk9xK56", label: "2025年1月23日 是職災沒錯 跟我申請職災補貼了嗚嗚" },
+      { type: "link", content: "https://photos.app.goo.gl/N8cXapKZzGAHc7W76", label: "2024年1月23日 幹嘛浪費力氣說這些 那些喜歡打柯的綠粉 除了腦袋壞掉以外 良心也丟掉了才能說出這些話 講也沒用的" },
+      { type: "link", content: "https://photos.app.goo.gl/3kWYRRMvqYyLWcr97", label: "2024年1月23日 今年要考試了 結果聽一場MDS的演講 還是有一半都不太懂 慘了 新的定義是分類變了嗎 治療是放寬了嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/uHbct7RoYXdTfbyJ8", label: "2024年1月23日 \
+        請教一下內科大神 本院收到一位之前在馬偕醫院住院的患者40歲男性 是很罕見的kimura disease \
+        不過目前eosinophil 2%而且感覺沒有復發 但2016 B/R正常 今年入院卻一直bicytopenia hb跟plt都低 \
+        查過pubmed但沒有文獻特別說kimura跟血癌有相關 想問各位大大 有遇過這樣的病人 容易併發血癌嗎 \
+        不然實在沒辦法完美解釋bicytopenia 雖然他正在GPC菌血症感染" },
+      { type: "link", content: "https://photos.app.goo.gl/rgdameNumohVhg879", label: "2024年1月23日 病人狀況越來越複雜 搭配便當才不會讓記憶體短路" },
+      { type: "link", content: "https://photos.app.goo.gl/E9P2MDqeUi8PMByP8", label: "2024年1月23日 \
+        101六芒星視角 偶然經過的小角落 抬頭卻發現特別的視角 這裡的101稍微有點移花接木 但其實也在旁邊而已 \
+        2024開始 要面臨好幾個人生重大關卡 一個比一個困難 能夠衝景的機會暫時沒有了 只能從意外發現的街拍視角找回熱情" },
+      { type: "link", content: "https://photos.app.goo.gl/4jUZJpu2YUcX63mi7", label: "2022年1月23日 你的年終比八成以上的醫師跟護理師好很多了 我們醫師幾乎全年無休 承擔責任更大平時月薪不多 年終還比你更少" },
+      { type: "link", content: "https://photos.app.goo.gl/8EEuS6nfbGYc4odr6", label: "2022年1月23日 這需要很多錢錢 我也想要這種房子" },
+      { type: "link", content: "https://photos.app.goo.gl/b5NNAXPwRAE7soD17", label: "2022年1月23日 為什麼有人會喜歡玩這種失敗一次這輩子就直接再見的跑酷 他們是不是沒看過醫院裡那些不分年齡 躺著插著氣切的病人 所以才以為失敗只有死亡這個比較輕鬆的選項" },
+      { type: "link", content: "https://photos.app.goo.gl/6PDyjJJKuoVDm3x6A", label: "2021年1月23日 目前最愛的第一名 Porsche Taycan 兼具跑車的暴力美學跟電車的紳士優雅 希望遙遠的某天買得起 QQQQ" },
+      { type: "link", content: "https://photos.app.goo.gl/YyXQRAYYMdqC3r5J8", label: "2021年1月23日 另外未來的電車幾乎全面板控制 我認真覺得車商沒想過一個很大的缺點 就是行駛時視野通常專注前方 傳統的控制鈕才能靠觸摸直覺去按 如果用面板真的很容易分心 在台灣這種交通複雜道路狹窄的地方很重要" },
+      { type: "link", content: "https://photos.app.goo.gl/rkcSxyTLXjvXan2r8", label: "2020年1月23日 辛苦了 想必走回服務台是條艱辛的路程 " },
+      { type: "link", content: "https://photos.app.goo.gl/9JEz6v7PytwSLU2r7", label: "2020年1月23日 沒想到現在會有把車停在未來要住的官舍前的一天" },
+      { type: "link", content: "https://photos.app.goo.gl/K9XEZ9du9h8cxDng6", label: "2019年1月23日 傻眼 突然說20分鐘後出航 20分鐘 20分鐘 20分鐘 還全船不知道出去幾天" },
+      { type: "link", content: "https://photos.app.goo.gl/trazDnDFYq5TWjbt8", label: "2019年1月23日 一定是我抽到 請問要加入粉絲團才能抽獎嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/7wt5b7QHwXvbfFWd7", label: "2018年1月23日 自我的instagram 看廢文不如花十秒看看美麗的台灣風景" },
+      { type: "link", content: "https://photos.app.goo.gl/CMTBY2HYYkbWZQy38", label: "2018年1月23日 最美大湖日出 注意 下一篇為個人明信片抽獎文 預計抽十位送出 敬請期待 如果喜歡也歡迎幫我分享" }
+    ],
     "24": [
+      { type: "link", content: "https://photos.app.goo.gl/S3zNwF5QuwUiaLsf9", label: "2026年1月24日 果然是個讓人無心奉獻的地方@@" },
+      { type: "link", content: "https://photos.app.goo.gl/g2NfVaoDc7fnaKAW9", label: "2026年1月24日 以為fellow快結束了可以不用表演, 果還是得上台" },
+      { type: "link", content: "https://photos.app.goo.gl/3SnYG4ckGHMgDx6u6", label: "2026年1月24日 十二年後終於有怒可以按==" },
+      { type: "link", content: "https://photos.app.goo.gl/LPjNPydJTPqWbFCT7", label: "2026年1月24日 軍沒什麼被加薪到" },
+      { type: "link", content: "https://photos.app.goo.gl/VrgQLztzUBSchqBg8", label: "2025年1月24日 \
+        身為台灣人超愛蚵仔煎 從小吃到大 今天吃到連鎖店享之饌的蚵仔煎驚為天人 \
+        因為我從來沒吃過可以把皮煎得脆脆的蚵仔煎 還富有彈性 價格又合理 衛生度當然也是大勝 \
+        必須推 有什麼推薦的蚵仔煎可以來挑戰的嗎 太好吃完全來不及拍照當下咻咻咻吃完了" },
+      { type: "link", content: "https://photos.app.goo.gl/ofQtwh4yTTQiN1N48", label: "2025年1月24日 從小培養台北個性XD" },
+      { type: "link", content: "https://photos.app.goo.gl/T35hg64NDE6W3mpp7", label: "2025年1月24日 想當年我大二還不會攝影的時候喵哥就已經開始拍照 這次收到喵哥的明信片讓我燃起撐下去的希望 不過美中不足的是明信片不是喵哥親手所拍 真希望珍藏喵哥同學的照片放在家裡啊" },
+      { type: "link", content: "https://photos.app.goo.gl/ikZPaDBYzNgu8TVMA", label: "2025年1月24日 I can't decide which photo is the best because I love them all" },
+      { type: "link", content: "https://photos.app.goo.gl/Gkxdd34fg3kwaiGaA", label: "2023年1月24日 這次新作品 教耶穌光的製作技巧 很久沒有認真寫攝影教學 有興趣的朋友可以看看 有收穫的話也幫我分享作品囉 新年快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/tJBaAmSKatdswv397", label: "2023年1月24日 魔法森林耶穌光 很久沒有認真寫篇攝影教學了 這張作品因為加上耶穌光有畫龍點睛的效果 如果想學習簡單三步驟後製耶穌光 可以點粉專連結 最新貼文裡面有唷" },
+      { type: "link", content: "https://photos.app.goo.gl/9dZn7RPYfku4M2Mj8", label: "2023年1月24日 \
+        魔法森林耶穌之光 攝影分享No.18 好久沒有認真經營攝影 上次跟大家拜個年 這次分享如何加上斜射光 \
+        如果我的教學對你有幫助 請幫我分享作品讓更多朋友追蹤我唷人 步驟一 打開Ps 使用顏色範圍 朦朧10-12 範圍200左右視需要的大小而定 \
+        下方預視選黑色邊緣調和 接著確定 確定後複製新的圖層一次 步驟二 選擇濾鏡裡面的模糊功能 用放射狀模糊 總量100 方式選縮放 \
+        先用草稿來調整中心位置 之後選擇最佳品質 到這裡已經成功八成囉 步驟三 依照需要的光線強度 可以複製3-4次耶穌光的圖層 種類底下建議是濾色會比較自然 \
+        最後把他們一起放在新的資料夾 選遮色片 把不需要耶穌光的部分擦掉 步驟四 上述三個步驟已經算是大功告成 若需要調整光線顏色 可以建立新圖層 選純色 \
+        之後圖層右鍵檢色器找到你想要的顏色 按住option選擇健 把純色圖層拖進耶穌光圖層即可 這個耶穌光的製作效果不錯 也只需簡單的三步驟 大家不妨試試囉" },
+      { type: "link", content: "https://photos.app.goo.gl/HYJKkvcXKkh1Zvco9", label: "2022年1月24日 \
+        阿公的蛋很多捏 醫涯分享No.5 今天下班經過病房 阿公你的蛋很多捏 作麼拿麼多蛋捏阿貢 \
+        我停下腳步 思索著阿公蛋很多是怎麼回事 感覺也不是在聊天或開玩笑 該不會怎麼了吧 於是往來源好奇瞄了一眼 \
+        阿公蛋痰出來了 一個印尼看護邊用心的抽痰 邊對著臥床的阿公說到 原來是痰啊 想想如果是蛋很多應該會是很好笑的畫面 我太認真了 於是愉快的下班去" },
+      { type: "link", content: "https://photos.app.goo.gl/tJGnKDUKTHfGmqhF7", label: "2020年1月24日 幸好我選花蓮 退休休起來" },
+      { type: "link", content: "https://photos.app.goo.gl/pViYiQLoiKsEXCgg6", label: "2020年1月24日 內心惶恐" },
+      { type: "link", content: "https://photos.app.goo.gl/k8zof7V4qz3yM9Up9", label: "2020年1月24日 過年洗個車 一個位置都沒" },
+      { type: "link", content: "https://photos.app.goo.gl/3TJd1Y7oCCcZLX3R7", label: "2020年1月24日 現在重訓很有壓力 有好有壞 練不練的起來關係到最後的四個月有沒有外宿 有時真的很想跟神奇寶貝或賽亞人一樣 逼到一個程度就能進化 可惜現實只是凡人 只能認命的練 以微小的幅度進步 正手單槓爆難" },
+      { type: "link", content: "https://photos.app.goo.gl/NFwUXymeLuDQTdnA7", label: "2020年1月24日 去年五月離開了這裡 今年回醫院前 最後看一次最克難收放假的地方 每次總是淋大雨騎機車 海軍艦艇" },
+      { type: "link", content: "https://photos.app.goo.gl/WPdXF7jxuNmNQ5FK6", label: "2019年1月24日 不可以跟我搶" },
       { type: "link", content: "https://photos.app.goo.gl/r66SNfdmHjnorKf98", label: "2017年1月24日 當病人體驗醫病關係 銅鋰鋅+10 thanks for professional help Traditional treatment" },
       { type: "link", content: "https://photos.app.goo.gl/QvfLkY8beP3CEoas9", label: "2017年1月24日 滿滿的大漢堡 第一次去吃 頗厲害的" }
     ],
