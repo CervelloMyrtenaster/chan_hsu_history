@@ -1349,13 +1349,12 @@ const records = {
     ],
     "24": [
       { type: "link", content: "https://photos.app.goo.gl/S3zNwF5QuwUiaLsf9", label: "2026年1月24日 果然是個讓人無心奉獻的地方@@" },
-      { type: "link", content: "https://photos.app.goo.gl/g2NfVaoDc7fnaKAW9", label: "2026年1月24日 以為fellow快結束了可以不用表演, 果還是得上台" },
+      { type: "link", content: "https://photos.app.goo.gl/ejnhPwFuvtW9qSyR7", label: "2026年1月24日 以為fellow快結束了可以不用表演, 果還是得上台" },
       { type: "link", content: "https://photos.app.goo.gl/3SnYG4ckGHMgDx6u6", label: "2026年1月24日 十二年後終於有怒可以按==" },
       { type: "link", content: "https://photos.app.goo.gl/LPjNPydJTPqWbFCT7", label: "2026年1月24日 軍沒什麼被加薪到" },
       { type: "link", content: "https://photos.app.goo.gl/VrgQLztzUBSchqBg8", label: "2025年1月24日 \
-        身為台灣人超愛蚵仔煎 從小吃到大 今天吃到連鎖店享之饌的蚵仔煎驚為天人 \
-        因為我從來沒吃過可以把皮煎得脆脆的蚵仔煎 還富有彈性 價格又合理 衛生度當然也是大勝 \
-        必須推 有什麼推薦的蚵仔煎可以來挑戰的嗎 太好吃完全來不及拍照當下咻咻咻吃完了" },
+        身為台灣人超愛蚵仔煎 從小吃到大 今天吃到連鎖店享之饌的蚵仔煎驚為天人 因為我從來沒吃過可以把皮煎得脆脆的蚵仔煎 \
+        還富有彈性 價格又合理 衛生度當然也是大勝 必須推 有什麼推薦的蚵仔煎可以來挑戰的嗎 太好吃完全來不及拍照當下咻咻咻吃完了" },
       { type: "link", content: "https://photos.app.goo.gl/ofQtwh4yTTQiN1N48", label: "2025年1月24日 從小培養台北個性XD" },
       { type: "link", content: "https://photos.app.goo.gl/T35hg64NDE6W3mpp7", label: "2025年1月24日 想當年我大二還不會攝影的時候喵哥就已經開始拍照 這次收到喵哥的明信片讓我燃起撐下去的希望 不過美中不足的是明信片不是喵哥親手所拍 真希望珍藏喵哥同學的照片放在家裡啊" },
       { type: "link", content: "https://photos.app.goo.gl/ikZPaDBYzNgu8TVMA", label: "2025年1月24日 I can't decide which photo is the best because I love them all" },
@@ -1382,10 +1381,53 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/QvfLkY8beP3CEoas9", label: "2017年1月24日 滿滿的大漢堡 第一次去吃 頗厲害的" }
     ],
     "25": [
-      { type: "link", content: "https://photos.app.goo.gl/6bbaXddLUHpvCjPa8", label: "2017年1月25日 \
-        拙劣的日常 連假前夕 悶 popping 這禮拜病人相對較少啦 晚上才有一點點時間 沒學欸當運動 學成這樣就太慘ㄖ" }
+      { type: "link", content: "https://photos.app.goo.gl/5VTyVX28BktNMXUP9", label: "2025年1月25日 華航貴賓室China Airlines Boarding Lounge 解鎖人生第一次貴賓室" },
+      { type: "link", content: "https://photos.app.goo.gl/XFuakMfWT3YFpRYBA", label: "2025年1月25日 體驗飛行中的WIFI 商務艙WIFI小心得 蠻特別的 但訊息強度僅止於發送訊息跟限動 沒辦法看YT 會很卡 沒辦法打傳說 根本無法登入 但勉強可以一邊看著底下的山脈 一邊對照GOOGLE MAP看自己的位置" },
+      { type: "link", content: "https://photos.app.goo.gl/7Tv6M972aZzLVG3o7", label: "2025年1月25日 人生三十而立才體驗到搭機第一次可以把腳伸直" },
+      { type: "link", content: "https://photos.app.goo.gl/xiEhe2TBPeXVEhPi9", label: "2025年1月25日 再解鎖人生第一次飛機上WIFI 好特別的體驗" },
+      { type: "link", content: "https://photos.app.goo.gl/DqfP82MkHrHbehaYA", label: "2025年1月25日 拉普拉普市" },
+      { type: "link", content: "https://photos.app.goo.gl/HamcucKQa7tebNdN7", label: "2025年1月25日 遙遠的車程 為了看見最美的沙灘 不過一睜眼 怎發好像在台東" },
+      { type: "link", content: "https://photos.app.goo.gl/UL6SytkaffFSFris8", label: "2025年1月25日 出海囉 看著船尾浪花想起以前在海軍 一級艦服役過 出港也是聞著船漆味看著浪花" },
+      { type: "link", content: "https://photos.app.goo.gl/1utKbKn7C9mW6Gmz7", label: "2025年1月25日 搭超巨大渡輪 第一次體驗可以邊躺著邊吹海風 還有背包當枕頭簡直完美 但堅持不上來享受一下嗚嗚嗚" },
+      { type: "link", content: "https://photos.app.goo.gl/z3ZhcTf6SHhnf9dt5", label: "2025年1月25日 他應該要搭垃圾車的吧" },
+      { type: "link", content: "https://photos.app.goo.gl/cYZsWF5UkQRtAHQp8", label: "2025年1月25日 海島上的小瘦貓" },
+      { type: "link", content: "https://photos.app.goo.gl/qPbZX2ykuUhyDtFJA", label: "2022年1月25日 \
+        何德何能 只是去年十月在腸胃內科 進出60多位的病人而已 主治學長就這麼好 特別準備tiffany葡萄酒 讓我痛哭流涕的感動 \
+        加上當月病人家屬的感謝蛋糕 這些讓我從臨床壓力累積的負面黑暗脫離了些 感謝上天 在醫院中仍能遇到這些好人們 是我被幫助了 GI" },
+      { type: "link", content: "https://photos.app.goo.gl/fdRX8bcJ8eXt4htPA", label: "2022年1月25日 大力推薦 精品茶店跟全家合作 推出 奶香濃厚啊 謝謝趙神賞賜" },
+      { type: "link", content: "https://photos.app.goo.gl/hSvtf5GBNzk6gbmF6", label: "2020年1月25日 兩組用電腦隨機快選出來" },
+      { type: "link", content: "https://photos.app.goo.gl/tkCR7QNSMVcZ2jGH6", label: "2020年1月25日 另外兩組自己選 第一組我們參考2020開出最多的前六個號碼 全押 第二組選擇2020完全沒開過的號碼裡選六個 " },
+      { type: "link", content: "https://photos.app.goo.gl/D8K1UbqqdqromBaE6", label: "2020年1月25日 電腦隨機vs中獎次數最多號碼vs完全還沒中獎號碼 今晚開出結果 究竟誰最可能中獎 沒人想知道" },
+      { type: "link", content: "https://photos.app.goo.gl/DmhStUZZcfomxi186", label: "2020年1月25日 有人看過嗎 聽說這很珍貴" },
+      { type: "link", content: "https://photos.app.goo.gl/cCoaseBZnpGJzrRP7", label: "2020年1月25日 有好朋友就直接不理我" },
+      { type: "link", content: "https://photos.app.goo.gl/jrEeMjVvxfHEnwFb9", label: "2018年1月25日 茄萣幸福海岸線" },
+      { type: "link", content: "https://photos.app.goo.gl/6bbaXddLUHpvCjPa8", label: "2017年1月25日 拙劣的日常 連假前夕 悶 popping 這禮拜病人相對較少啦 晚上才有一點點時間 沒學欸當運動 學成這樣就太慘ㄖ" }
     ],
-    "26": [],
+    "26": [
+      { type: "link", content: "https://photos.app.goo.gl/uaxoFHjt3YyceARbA", label: "2025年1月26日 欸不是 大疆無人機未來可以搭載步槍進行射擊" },
+      { type: "link", content: "https://photos.app.goo.gl/QmcdzMKqZXxxGVAw6", label: "2025年1月26日 MAVIC 3C沒辦法直接錄影直的 也沒長焦真不方便" },
+      { type: "link", content: "https://photos.app.goo.gl/sEy592esQ2Y24xTU7", label: "2025年1月26日 創作作品的特質就是要思想跳脫常人 要能夠勇於嘗試跟接受失敗 真希望我有更多的時間能創作攝影作品" },
+      { type: "link", content: "https://photos.app.goo.gl/jLcRDLYsyBZUsa2C6", label: "2025年1月26日 經過漫長的交通來到宿霧北方的一個小島 先說結論 這次是有點失望了 原本想拍出目前IG上幾乎沒有人拍的景 但無奈沒有預期的大景 這裡的風景跟觀光還是輸給峇里島 不過既來之則安之 拍到什麼算什麼 Bantayan Island Cebu" },
+      { type: "link", content: "https://photos.app.goo.gl/cesh933bXfxQLsp98", label: "2025年1月26日 真可愛 生兒當生這種" },
+      { type: "link", content: "https://photos.app.goo.gl/BFNEYR73ZfTgMtoc7", label: "2025年1月26日 這種怎麼那麼可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/gwxgLnmzMr9FNK138", label: "2023年1月26日 今年發票沒半張中 刮刮樂沒半張中 大樂透也沒有 希望運氣都點在健康跟平安" },
+      { type: "link", content: "https://photos.app.goo.gl/HV9G9uMaQUgWjpYX6", label: "2023年1月26日 謝謝分享" },
+      { type: "link", content: "https://photos.app.goo.gl/8ta81zisQRng3vV39", label: "2022年1月26日 工作超過30個小時 睡三個小時而已 急救了一次 各種大大小小的事情 有好事也有鳥事跟鳥人 看著剛下班的夕陽 內心無限惆悵 這樣的工作方式還有好多年" },
+      { type: "link", content: "https://photos.app.goo.gl/3TK8P4MEa9n2iLdBA", label: "2022年1月26日 myrten_aster為了達成最速解daily word game的五字關卡 居然用excel製造可以篩選跟查詢 甚至統計哪個位置哪個字出現最多次的功能 提示第一個字猜stare最優" },
+      { type: "link", content: "https://photos.app.goo.gl/hVZJGrkvGakj7rHd7", label: "2022年1月26日 第一天戰績" },
+      { type: "link", content: "https://photos.app.goo.gl/davq6YtBqd6bkZan9", label: "2022年1月26日 第二天慘敗 最後一次解出來" },
+      { type: "link", content: "https://photos.app.goo.gl/T7nqF8jCUJv1y5gj8", label: "2021年1月26日 每個禮拜抽一天慢慢跑 維持好的心肺功能= 了咳痰能力強 肺擴張功能強 不容易得肺炎 才怪 希望快七年的住院醫師階段趕快過完" },
+      { type: "link", content: "https://photos.app.goo.gl/vRmiQsGrZGANKJyy9", label: "2021年1月26日 晚上讀不下書 自己亂弄一頓 再收拾乾淨很舒壓 暫時忘記醫院的壓力QQ 感謝日式碗盤跟料理支援" },
+      { type: "link", content: "https://photos.app.goo.gl/xxwgQUEyJeG5hj6z6", label: "2020年1月26日 結果完全沒中 開獎號碼是由一到兩個出現最多的數字 配合四個沒出現過的哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/YtzDuCB6mgHJzqcT8", label: "2020年1月26日 兩個禮拜沒跑了 剛外面超級冷 輕鬆跑一下就好 以前 我怎麼那麼慢 不能再快點嗎 瑞什麼喘 這樣體測會沒過會被笑 這樣算陸戰隊嗎 現在 我就爛" },
+      { type: "link", content: "https://photos.app.goo.gl/dFKQiNJTSruJoJDw9", label: "2019年1月26日 \
+        我的想法啦分享給大家思考 時代不同 很多觀念跟考量都必須與時俱進 而不是故步自封 \
+        上不上全幅跟技術不直接相關 而是你有沒有需要而已 尤其現在時代不同了 全幅很多價格跟技術下放 會讓你更有空間創作作品 \
+        以前的年代 5-6年前 我玩攝影時會覺得要先從片幅練習 因為當時全幅很貴深怕陷入器材迷失 然後如今資訊發達 技術下放 \
+        應該考慮的是自己適合哪種等級的相機 有沒有需要 多聽多看這樣 因此真要我說可以試試D750或輕便的無反 當然 如果不是三分鐘熱度 直上全幅還能省一章換機費用" },
+      { type: "link", content: "https://photos.app.goo.gl/aaWzXVN7eubEUHPh7", label: "2018年1月26日 兩個月 謝謝妳的照顧跟包容 有妳真好 請妳吃台南最好吃的鰻魚飯答謝 未來繼續一起努力 最好吃的鰻魚飯 戳鼻孔" },
+      { type: "link", content: "https://photos.app.goo.gl/tS4Yj9Rg8yGLgicF7", label: "2018年1月26日 茶工業現萃茶飲咖啡" }
+    ],
     "27": [],
     "28": [
       { type: "link", content: "https://photos.app.goo.gl/1MXfrcd9szquo89g8", label: "2017年1月28日 \
