@@ -1428,8 +1428,89 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/aaWzXVN7eubEUHPh7", label: "2018年1月26日 兩個月 謝謝妳的照顧跟包容 有妳真好 請妳吃台南最好吃的鰻魚飯答謝 未來繼續一起努力 最好吃的鰻魚飯 戳鼻孔" },
       { type: "link", content: "https://photos.app.goo.gl/tS4Yj9Rg8yGLgicF7", label: "2018年1月26日 茶工業現萃茶飲咖啡" }
     ],
-    "27": [],
+    "27": [
+      { type: "link", content: "https://photos.app.goo.gl/VN9NpMuzFj7wQpdx6", label: "2026年1月27日 \
+        讀書常常會因為後頸酸痛必須休息 真的超怕頸椎出問題 預算不要太誇張就好 有推薦的護頸座椅嗎 \
+        希望到貨時間短 有扶手 不要太難搬上樓或困難組裝 求推薦 不然有天頸椎要出事了" },
+      { type: "link", content: "https://photos.app.goo.gl/9kKGsvyBLxF9bgxe9", label: "2026年1月27日 八年前我跟mike1357935去富士山" },
+      { type: "link", content: "https://photos.app.goo.gl/M95SLEdfjvfjpTAeA", label: "2025年1月27日 \
+        在菲律賓爆買芒果乾 買完各拆一包吃 選出來的最好吃跟最難吃的跟大家分享 \
+        超好吃得獎主 嚼勁跟口味都很讚 第一口覺得有點硬 但越吃越喜歡 \
+        超難吃得獎主 第一口就不行 整體偏軟濕 多吃幾口一樣不行 也不是想像中的芒果乾口感 千萬別買" },
+      { type: "link", content: "https://photos.app.goo.gl/L5NJ4fs7ju68DMwi8", label: "2025年1月27日 解鎖JOLLIBEE炸雞 強迫一定要配白飯 旁邊那坨 吃起來脆脆香香 在地人都用手吃 肉質也不錯 不過我比較喜歡台灣麥當勞的炸雞 炸的更脆" },
+      { type: "link", content: "https://photos.app.goo.gl/pAPK6ryYGkRZJCMdA", label: "2025年1月27日 菲律賓的伙食吃不習慣 但找到這家都是韓國人來吃的韓式料理 超級讚 大推一個 4.15Korean BBQ" },
+      { type: "link", content: "https://photos.app.goo.gl/z5Y8yZNRDieNuwYM8", label: "2025年1月27日 怎麼那麼小就那麼兇" },
+      { type: "link", content: "https://photos.app.goo.gl/oGMhhnNNDeRQuqbZ6", label: "2025年1月27日 教授上課走路都一辦一辦的嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/qG1A2xDVcahBVhZJ8", label: "2025年1月27日 好險我們買商務艙" },
+      { type: "link", content: "https://photos.app.goo.gl/fpxBntxeFvNLS9RbA", label: "2024年1月27日 人生第一次露營" },
+      { type: "link", content: "https://photos.app.goo.gl/QHm6QbR8yjSZniG2A", label: "2024年1月27日 耍廢的耍廢 煮飯的耍廢 這才是我要的露營" },
+      { type: "link", content: "https://photos.app.goo.gl/ffgQifd5zLLTEzYg9", label: "2024年1月27日 笑死中文博大淵深" },
+      { type: "link", content: "https://photos.app.goo.gl/PDFPTyHiEh6PhbyT8", label: "2023年1月27日 有大大知道用KLOCK買ICOCA能在台灣先領取嗎 還是只能在關西機場或大阪領取 他寫大阪領取 這樣是預定之後一定要去大阪領嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/zUUwKCLvDEWSotQi8", label: "2021年1月27日 今天又自己搞 以為麵小小一包而已還特別再加一包王子麵充份量 誰知道煮完直接變五倍大 精華的雞湯都被倒掉大半 干貝還有點點沒熟 最後整個超飽" },
+      { type: "link", content: "https://photos.app.goo.gl/KERtysSftmpQ1MYMA", label: "2020年1月27日 完全無法相信 今年的直升機又出事 又是這麼大條的新聞 唉 RIP" },
+      { type: "link", content: "https://photos.app.goo.gl/DpER4tgMgz1yJm8r6", label: "2020年1月27日 \
+        基本上不管好看不好看 為了學日文我都會看完 但這部真的很難看 上一部寒蟬也只比他好看一點點 也是不好看 \
+        未來日記鋪陳跟情感太跳痛 各種情感安排在完全不適當的時機 該嚴肅該殺氣該愛情浪漫全部亂安插 \
+        各種角色思考無智商跟邏輯還 充滿各種撒狗血的宅男劇情 就不說主角威能胡亂展現 真的不推" },
+      { type: "link", content: "https://photos.app.goo.gl/guKQ2HbWhHS9CRL77", label: "2019年1月27日 \
+        考慮了一個禮拜 新的一年決定改變粉專的運作模式 朝增加良性互動的方式開始 \
+        接下來一個月內 我會慢慢unfollow一些朋友 主要是從來沒有在愛心 訊息跟互動的 我也會開始愛心版面作品 只要我看到Xdd \
+        然而 我也會利用更多時間 回覆問題 主動看粉絲作品 並追蹤更多拍的好的粉絲 \
+        新的一年 希望粉專能是正向的開始 而不是衝粉機器人 也不是高攀不起的大師 \
+        當然因為努力工作賺錢中 難免會比較忙 私訊比較晚 回覆也在此先抱歉唷 承上頁的公告 歡迎任何建議跟指教:)" },
+      { type: "link", content: "https://photos.app.goo.gl/f8t2QXhBqjPvTgu69", label: "2019年1月27日 \
+        謝謝 三Q的啦 我會努力 現在實在沒時間一直拍照 預算+拍攝主題 你也很強了 希望增加互動啦哈哈 \
+        有大家的包容跟支持 才是最重要滴 是大神 其實隨著時間很多事都會改變 自己也得時刻進步哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/zu97zwWusEd1hZin8", label: "2019年1月27日 \
+        哈您誤會了 大家都有自己的工作 我也並非專職在攝影 因此我是指已經追蹤超過半年 卻幾乎沒有互動的folloers唷 \
+        至少去年五六月到今天所有作品都沒有愛心過的 不希望自己是只追蹤數千或數萬followers的網紅但卻忽略了想交流 \
+        並且拍的更好的朋友們 希望讓自己多看看粉絲作品 並且與想交流與支持我的粉絲 有更多交流囉:)" },
+      { type: "link", content: "https://photos.app.goo.gl/Puz926XFAJS5GayE8", label: "2019年1月27日 \
+        謝謝支持 謝謝 我會繼續思考可以改進的地方:) 我也是平民百姓 不是大師 \
+        當然不是用愛心或追蹤來判斷是否互動 這只是我講出的客觀標準 但我為此問題思考良久 請相信我完全認同您說的 \
+        是否互動絕非如此刻板 而且最終是希望增加與你們的互動 別怕別怕 有時間都會回覆唷 \
+        會努力 其實這牽扯許多層面的問題 包含保護市場等 我會拿捏好尺度在提供教學:) \
+        目前有工作 無法抽身 沒錯 這正是我的想法 希望大家別誤會我的意思" },
+      { type: "link", content: "https://photos.app.goo.gl/WhX2ECgGooHiptkA7", label: "2019年1月27日 \
+        NOCAMERALIFE 充滿過敏與感冒的週末 久違的發文 在海上飄的日子暫時告一小小段落 因為老船要住院全身健檢啦 \
+        這半年的海上生活 我們船是同型艦裡飄最多天的 除了兩次的緊急召回出航 還有前幾天的20分鐘內出航讓我永生難忘 \
+        在不知道幾天能回港的海上 稍稍體會先烈打仗時的無奈 這幾個月 感謝畢業的爛成績卻能遇到好長官 艦長與副艦長讓我打從心裡尊重他們的人 而非肩膀上的梅花 \
+        如果我願意為了國家而犧牲自己利益 絕對不是因為我欠國家 而是好的長官讓我深深尊敬與效仿 是他們培養我職場負責與沈穩的態度 \
+        最後謝謝我的好女友 雖然我越發自己的缺點與不足 但有你的提醒讓我進步 我只是平凡的男友 但我會腳踏實地的工作跟自我充實 \
+        隨著時間過去 期許自己能紮實的規劃人生 讓你更放心 勉強打了很多冗言 無非紀錄自己的心境變化 大概4這樣了 希望過年的假趕快開始放" },
+      { type: "link", content: "https://photos.app.goo.gl/gHjLeS8Qif4yH6aW6", label: "2018年1月27日 Fly with balloons" }
+    ],
     "28": [
+      { type: "link", content: "https://photos.app.goo.gl/euXyrP8ZfTTDWMjD8", label: "2026年1月28日 這樓說的真是太好 流量會讓你當下很爽 但你會越來越不滿足 攝影會讓你當下很滿足 而且越單純內心越平靜" },
+      { type: "link", content: "https://photos.app.goo.gl/P4p5Km83bibkq5SL9", label: "2025年1月28日 現在在脆上秀智商下限的文章也越來越多了" },
+      { type: "link", content: "https://photos.app.goo.gl/JaYgcBhJxPKHiRRP9", label: "2025年1月28日 是我我就直接吵架了 什麼叫做媳婦應有的作為 結婚相處只有尊重跟包容 沒有誰應該要做什麼事" },
+      { type: "link", content: "https://photos.app.goo.gl/3xzkLYaLBriboM6u5", label: "2025年1月28日 \
+        宿霧的CARBON MARKET非常適合拍攝人文及在地文化 即使早上1000就得到機場 我還是6點多撐著爬起來 坐計程車去市場拍了40幾分鐘 \
+        這個市場很適合捕捉人文 但買紀念品跟純觀光實在不適合 攝影沒有捷徑 就是拿起相機去拍 \
+        拍個幾千幾萬張 好好思考自己要的感覺跟實際拍攝遇到的問題 如此就學會攝影" },
+      { type: "link", content: "https://photos.app.goo.gl/PD34GNs9FkMPJkxX6", label: "2025年1月28日 把切碎的芒果乾加入原味或芒果口味的優格 真的蠻好吃的" },
+      { type: "link", content: "https://photos.app.goo.gl/gyT4Ae4FqphWTm2U6", label: "2025年1月28日 這個烤香蕉有夠好吃 到底怎麼煮出來的 回台灣就吃不到了QQQQQ" },
+      { type: "link", content: "https://photos.app.goo.gl/zq8S3QUYM1YTPqK78", label: "2025年1月28日 要啊哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/Ef3svmrUPh4SbPyq9", label: "2024年1月28日 \
+        河內市景 越南的街頭有很多當地文化的商品 最特別之一是五顏六色的線香 \
+        都市與偏鄉也有差別 都市有不輸給台灣的車水馬龍 還穿插著人力車 偏鄉則是幽靜輕鬆 時不時迎面而來的當地放學孩童 \
+        還有偏鄉的街道其實很乾淨 有別於過去的印象 我真的很喜歡越南 相對來安全 便宜 文化多樣 我還要去多走走幾次" },
+      { type: "link", content: "https://photos.app.goo.gl/E9Zrg8Q4VnQHyaAe8", label: "2024年1月28日 \
+        很開心的週末 終於能有脫離醫院的感覺 內心巨大的壓力舒緩了 每次碰面都會很後悔自己選擇的職業 原來世界那麼大 不傻傻選擇失去自由的工作 \
+        反而生活足夠但能有假期出國拍照 而我卻完全無法 如果再讓我選擇一次 我一定要先搞清楚自己所愛 搞清楚自己需要自由 \
+        需要能夠讓我喘口氣的生活平衡 我真的好想離開目前的工作環境 願下次再聚 小日子露營區" },
+      { type: "link", content: "https://photos.app.goo.gl/jKBfgdY3K2FPEkrR7", label: "2024年1月28日 超美超想拍 可是在緬甸 聽說以前會綁架觀光客真的抓去賣" },
+      { type: "link", content: "https://photos.app.goo.gl/FzD56Q3bFBVkfh298", label: "2022年1月28日 \
+        因為疫情 隔離病房在偉大的政府一聲令下只能收新冠病人 疑似 或根本就是 肺結核的病人都直接收到普通病房 \
+        我們醫護只能照單全收 風險我們自己扛 同樣我們家人也要扛風險 請問偉大的台灣政府又能為一線醫護做什麼" },
+      { type: "link", content: "https://photos.app.goo.gl/meuYBLmRfBKdZnU87", label: "2019年1月28日 \
+        好的 希望等我工作穩定些哈 我會努力的*2 我會努力的 謝謝支持 感恩在心 \
+        回覆囉 但我初階機已經很久沒使用 所以還請多參考其他意見哩 我自己用sigma14-24 便宜可以用t15-30 以上都很重 建議光圈至少2.8的" },
+      { type: "link", content: "https://photos.app.goo.gl/Ut3rYBqV6sjv6YMP9", label: "2019年1月28日 \
+        加油好 好享受攝影帶來的互動跟樂趣 也找到志同道合的朋友唷 如果沒預算上限 首推a73 然後絕對不要6D2 真的超廢 不騙 \
+        加油 台灣很美 值得你多探索:) 大師母湯 今年三四月以後我工作穩定些一定約起來 當然可 但這部分會花我一點時間 所以無法即時回覆唷 \
+        曾經多少都有遊走法律邊緣 不過早已沒有了 那種裝逼照大家都拍的出來 只是有沒有重視自己的命而已 另外違法空拍的那些 還會被大肆分享 認真覺得很好笑" },
+      { type: "link", content: "https://photos.app.goo.gl/yPUCUBP9UknHVFFG6", label: "2019年1月28日 女友自己調整的風格檔 很適合帶有暖色的日系" },
       { type: "link", content: "https://photos.app.goo.gl/1MXfrcd9szquo89g8", label: "2017年1月28日 \
         晚點刪文 明天凌晨突然想拍台南北門水晶教堂日出+銀河 天氣無雲的話 有人也想拍嗎 我開車接送 私我即可 \
         因為我看衛星雲圖沒啥雲 請問你有推薦其他拍攝點嗎 哈哈" }
