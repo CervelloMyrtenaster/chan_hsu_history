@@ -1481,6 +1481,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/gHjLeS8Qif4yH6aW6", label: "2018年1月27日 Fly with balloons" }
     ],
     "28": [
+      { type: "link", content: "https://photos.app.goo.gl/oQp3pssCGUuXg8xL9", label: "2026年1月28日 我覺得這很困難 如果遇到不確定是末期疾病導致還是急性疾病導致 但又很緊急的狀況怎麼辦" },
       { type: "link", content: "https://photos.app.goo.gl/euXyrP8ZfTTDWMjD8", label: "2026年1月28日 這樓說的真是太好 流量會讓你當下很爽 但你會越來越不滿足 攝影會讓你當下很滿足 而且越單純內心越平靜" },
       { type: "link", content: "https://photos.app.goo.gl/P4p5Km83bibkq5SL9", label: "2025年1月28日 現在在脆上秀智商下限的文章也越來越多了" },
       { type: "link", content: "https://photos.app.goo.gl/JaYgcBhJxPKHiRRP9", label: "2025年1月28日 是我我就直接吵架了 什麼叫做媳婦應有的作為 結婚相處只有尊重跟包容 沒有誰應該要做什麼事" },
@@ -1515,7 +1516,47 @@ const records = {
         晚點刪文 明天凌晨突然想拍台南北門水晶教堂日出+銀河 天氣無雲的話 有人也想拍嗎 我開車接送 私我即可 \
         因為我看衛星雲圖沒啥雲 請問你有推薦其他拍攝點嗎 哈哈" }
     ],
-    "29": [],
+    "29": [
+      { type: "link", content: "https://photos.app.goo.gl/hfH7mR8uMeEVFett9", label: "2026年1月29日 30歲無任何慢性病 之前驗到LDL101我就立馬開始吃很低劑量的statin 年輕人與其花錢吃一堆87保養品 不如實在一點控制血脂 搭配運動跟飲食 與其無風險時吃藥沒壓力 也不要變成老了生病了 次級預防時才用藥" },
+      { type: "link", content: "https://photos.app.goo.gl/NWFoEWnNpCX3WRNU6", label: "2026年1月29日 對於年輕無慢性病的群眾 除了飲食跟運動 還有把LDL控制下來很有幫助 雖然為了工作壓力大到很不健康 但至少這段期間必須把血脂控制好 避免長期的血管傷害" },
+      { type: "link", content: "https://photos.app.goo.gl/jCydZvn1nxyYcChh9", label: "2025年1月29日 只要是中國製造出來的東西 使用都要三思 因為他們的政權是垃圾中的垃圾共產黨 因此沒有真正的言論自由跟隱私 所以千萬別用" },
+      { type: "link", content: "https://photos.app.goo.gl/qXht2f7sPysJERt87", label: "2025年1月29日 不是很想面對現實 一年放三次年假比較符合人性吧" },
+      { type: "link", content: "https://photos.app.goo.gl/VSsZG7fxKgdeK3rh6", label: "2025年1月29日 他為了這個練習多久了哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/cTC1tC9emPDVqzhu5", label: "2025年1月29日 但也躲不了你的一拳ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/f5KVxxwmDfBBTioG8", label: "2025年1月29日 這隻怎麼很像小狐狸超可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/xUQ3VxkdruXYoPBT8", label: "2025年1月29日 我哪有 我都會先做正事" },
+      { type: "link", content: "https://photos.app.goo.gl/Qa4gz26Wjvmji9Y56", label: "2024年1月29日 \
+        遇到遲遲無解的問題 正版的2024PS 如果從LR將照片直接開啟到PS PS畫面的這個 延伸功能舊版 都會自動消失 \
+        而原本已拉到右手邊的外掛軟體也會全部消失 每次都要重新開照片才會出現延伸功能 請問有沒有大神知道延伸功能為何會自己消失 拜託惹" },
+      { type: "link", content: "https://photos.app.goo.gl/uhDpJZdPWdv5MDGH8", label: "2022年1月29日 \
+        一位半夜低血糖住院的阿伯 初次見面彷彿臉上洋溢著他很健康的表情 阿伯你有抽菸喝酒吃檳榔嗎 沒有咧 \
+        那你以前都沒有抽菸嗎 戒很久了咧 那你已經戒多久了 五天了咧" },
+      { type: "link", content: "https://photos.app.goo.gl/w4f44sLEievXM5Rc9", label: "2021年1月29日 也太溫馨了胸外" },
+      { type: "link", content: "https://photos.app.goo.gl/oyW4Z22DiA36A7eN6", label: "2019年1月29日 不想領22k怎麼不去簽志願役 多數人想領高薪又想爽而已啦" },
+      { type: "link", content: "https://photos.app.goo.gl/c8FTY4EbKs8d7tgs5", label: "2018年1月29日 很多最近感言 委婉的寫在這篇貼文裡 重點 下一篇為加碼抽獎明信片囉 也是年中之前最後一個活動 懇請支持啦" },
+      { type: "link", content: "https://photos.app.goo.gl/hTSKU1iDyf1v5MN19", label: "2018年1月29日 \
+        龍井麗水漁港 有人說 對的人該選喜歡的還是適合的 三生有幸 我能遇上喜歡又適合的妳 是上天眷顧別無所求 \
+        所以謝謝妳 陪我拼湊世界各角落的風景 未來一起加油 跟粉絲抱歉 原訂這禮拜的明信片抽獎 因為莫名黑特事件 \
+        讓我決定沈寂自己版面幾天 沒有發文 不過大家放心我很好 小弟從不虧欠任何人 得理而饒人 以和為貴 這件事就不再追究 \
+        為了彌補粉絲 下一篇即是抽獎文 決定從抽10張變成抽15張免費送出 也會配合po出讓大家驚奇的光繪作品 敬請期待 \
+        當然 這也是小弟六月國考前最後活動 還麻煩大家用力支持 分享下去 最後謝謝台南高雄各位朋友 拍照認出我的朋友 來日再一起拍攝" },
+      { type: "link", content: "https://photos.app.goo.gl/fN2jYuyVKRjzp1cU8", label: "2018年1月29日 \
+        鋼與火之歌 附instagram小抽獎 從超不愛拍直幅到現在每張都拍直幅 ig這個坑大了 \
+        這禮拜隨意辦了亂七八糟的明信片抽獎 有興趣的再麻煩ig走走逛逛囉 辦法就在ig同一張照片的po文裡面XD \
+        感謝劉昱賢 劉光毅兩位大師教我拍攝光繪 真的美到哭又不多人拍 還有最辛苦的趙婕涵陪我吹風 到處去拍照:D \
+        辦法大guy4醬 instagram追蹤omg.wp 截止之前在您的ig限時動態tag omg.wp ig文章留言處tag一位好友 隨意留言即可 例如+1 \
+        僅限一次 fb沒有抽獎活動 都在ig唷哈哈 風景後製技巧也能應用在各種拍攝啦 鋼絲絨很安全請放心 拍攝點旁邊只有大水溝" },
+      { type: "link", content: "https://photos.app.goo.gl/FP5gXtgS2tpCdg777", label: "2018年1月29日 本篇抽獎文唷 限時這禮拜結束 之後沒有活動啦 還麻煩客官點進去走走看看 感謝stevenliu_adventuretime跟他家人提供拍攝素材" },
+      { type: "link", content: "https://photos.app.goo.gl/KyoDeRo4VE2MxcMa9", label: "2018年1月29日 \
+        限時本週免費抽明信片囉 辦法 完成以下三步驟驗 總共抽出15位朋友唷 \
+        追蹤omg.wp 截止之前在您的限時動態tag omg.wp 誠摯感謝您的推薦 留言處tag一位好友 之後隨意即可 例如+1 僅限一次 \
+        不論是攝影教學或追蹤按愛心 這半年多以來的支持 真的感激在心 除了與有心的朋友交流 我也不斷宣傳一個概念 \
+        後製的精細度決定攝影作品的程度 因此不計時間成本的教學 分享 也很開心與各位成為好友 \
+        這是七月以前最後一次活動 再來小弟要準備考試閉關了 有機會期待跟各位在拍攝點相遇 打招呼與聊天 還請各位大力支持抽獎活動 \
+        詳情 截止時間 2018/02/04晚間24:00 也就是到本周日啦 每張明信片成本約30塊台幣 由南港avocado印刷 大家可以查查 \
+        印刷品質顏色100%還原 還能保存超過30年不退色 很爽眼的品質 這不是葉配XD 截止後直播隨機抽獎 可以跟我面交拿取 \
+        也可以私我地址 免費寄送唷 明信片只是小小心意 等考試完 會再辦桌曆或更好的獎品 再來抽一波吧" }
+    ],
     "30": [],
     "31": [
       { type: "link", content: "https://photos.app.goo.gl/yQJG51L9B5njiycm8", label: "2017年1月31日 \
