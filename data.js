@@ -1557,7 +1557,32 @@ const records = {
         印刷品質顏色100%還原 還能保存超過30年不退色 很爽眼的品質 這不是葉配XD 截止後直播隨機抽獎 可以跟我面交拿取 \
         也可以私我地址 免費寄送唷 明信片只是小小心意 等考試完 會再辦桌曆或更好的獎品 再來抽一波吧" }
     ],
-    "30": [],
+    "30": [
+      { type: "link", content: "https://photos.app.goo.gl/KTm6VDxvwbevYinT6", label: "2026年1月30日 是因為V2-3最靠近胸前心電圖貼片 所以呈現的振幅會最大而且最敏感 因此要特別提高標準下降偽陽性嗎 根據年紀性別區分標準不曉得是否也因同原因" },
+      { type: "link", content: "https://photos.app.goo.gl/yk5Wq3vPp5C98Tn28", label: "2025年1月30日 買青菜沙拉忘記拿醬 太麻煩了直接啃 好像兔子吃草" },
+      { type: "link", content: "https://photos.app.goo.gl/MbRgpkUmBsD1smjp9", label: "2025年1月30日 看夜景只是路過 吃雞排才是要認真的地方" },
+      { type: "link", content: "https://photos.app.goo.gl/qNmkpy6P6zvZcYBr6", label: "2024年1月30日 \
+        主旨 請求三總系統之進步 \
+        反映意見 我有三點建議 請三總幫忙 國軍松山分院會診系統可一鍵帶入患者當天抽血資料 但三總無法 \
+        那套系統應該非常簡單 希望能會請工程師幫忙 可在會診單發布頁面 執行 一鍵帶入最近一次的抽血資料 尤其以肝腎功能+B/R+CRP/PCT+pt/aptt+culture最為重要 \
+        幾乎所有老師及住院醫師都超愛progress noted的 器官移植檢驗報告 因為他能一頁面秀出病人全部重要data 而且馬上知道趨勢 \
+        對比現在的住院檢驗更不需浪費時間等待 希望院方加強 器官移植檢驗報告 尤其事額外加上crp/pct/esr 以及最近一次CULTURE結果 \
+        我認為 以三總的高度 不應將此功能限制於器官移植 而是應擴展為新系統 讓器官移植評估或平常查房都能使用 快速查閱 \
+        HIS的住院系統 檢驗報告裡面CULTURE結果常常不顯示檢體 希望能自動秀出檢體 例如ASPERGILLUS 自動寫清楚痰或血 或Strep. pneumoniae Ag自動寫清楚尿 \
+        三總想成為軍民首選 打廣告跟心戰喊話是沒有效果 而是把醫師平常查房的方便性建立起來 例如上述我提的資訊改進 因而帶動病人更全面有效率的照護 才會成為軍民首選 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/JTFkocpD6apiC5Di8", label: "2022年1月30日 這是一位先完成我夢想的男人 太羨慕了 我也好想拍樹" },
+      { type: "link", content: "https://photos.app.goo.gl/MEF7jqraNPSdB25b6", label: "2022年1月30日 可能兇手是外國人 兇XD" },
+      { type: "link", content: "https://photos.app.goo.gl/nTLBaVQgNvQ5M1Cg9", label: "2022年1月30日 第一次輸掉 太扯" },
+      { type: "link", content: "https://photos.app.goo.gl/4tnBVLkNTFJhrtRQ8", label: "2019年1月30日 謝謝最可愛女友" },
+      { type: "link", content: "https://photos.app.goo.gl/j3G3KbXXTFYHBiht9", label: "2019年1月30日 就算從鼻孔灌進去我也不會分給其他人" },
+      { type: "link", content: "https://photos.app.goo.gl/DvX185uDZuf7ZLw69", label: "2019年1月30日 冬天的陽光 夏天的味道" },
+      { type: "link", content: "https://photos.app.goo.gl/DUQUkW6tkiwdtrci8", label: "2018年1月30日 \
+        感謝網友提出疑問更新抽獎辦法唷 限時本週免費抽明信片囉 辦法 完成以下三步驟 總共抽出15位朋友唷 \
+        追蹤omg.wp 截止之前在您的限時動態tag omg.wp 誠摯感謝你的推薦 留言處tag一位好友 之後隨意即可 例如+1 \
+        可重複tag不同人增加中獎機率 但每人限中一次唷 重複會重抽^^" },
+      { type: "link", content: "https://photos.app.goo.gl/gtZUiQAEodRRcRCLA", label: "2018年1月30日 光繪 千年輪之戀 omg 最近被很厲害的超神網友毒到 想一賭光繪的朋友可以去dcard看看 沒什麼時間修圖先放幾張而已" },
+      { type: "link", content: "https://photos.app.goo.gl/kJoRG6UaYPftYti29", label: "2018年1月30日 搜尋omg.wp 欸都 鋼絲絨這篇貼文 有我限時一個禮拜的抽獎活動 詳情可以去看看哈哈哈 辦完就暫時閉關了" }
+    ],
     "31": [
       { type: "link", content: "https://photos.app.goo.gl/yQJG51L9B5njiycm8", label: "2017年1月31日 \
         Happy ending of vacation 北上收假 明天值班 超短假期 一日司機 太保花海" }
