@@ -1558,6 +1558,9 @@ const records = {
         也可以私我地址 免費寄送唷 明信片只是小小心意 等考試完 會再辦桌曆或更好的獎品 再來抽一波吧" }
     ],
     "30": [
+      { type: "link", content: "https://photos.app.goo.gl/9hEZUSxPNAz88UPr6", label: "2026年1月30日 不可以幫這種啦" },
+      { type: "link", content: "https://photos.app.goo.gl/uTc68UEZUEnpdNS19", label: "2026年1月30日 好 我來問看看 請問這個五寸貝殼絨毛149元還能加購嗎 閉嘴優先 但奶奶也可以 只要有都好 萬分感謝 有 感謝您" },
+      { type: "link", content: "https://photos.app.goo.gl/TeM6Y6d6w7f4xqw39", label: "2026年1月30日 他好漂亮" },
       { type: "link", content: "https://photos.app.goo.gl/KTm6VDxvwbevYinT6", label: "2026年1月30日 是因為V2-3最靠近胸前心電圖貼片 所以呈現的振幅會最大而且最敏感 因此要特別提高標準下降偽陽性嗎 根據年紀性別區分標準不曉得是否也因同原因" },
       { type: "link", content: "https://photos.app.goo.gl/yk5Wq3vPp5C98Tn28", label: "2025年1月30日 買青菜沙拉忘記拿醬 太麻煩了直接啃 好像兔子吃草" },
       { type: "link", content: "https://photos.app.goo.gl/MbRgpkUmBsD1smjp9", label: "2025年1月30日 看夜景只是路過 吃雞排才是要認真的地方" },
@@ -1584,13 +1587,89 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/kJoRG6UaYPftYti29", label: "2018年1月30日 搜尋omg.wp 欸都 鋼絲絨這篇貼文 有我限時一個禮拜的抽獎活動 詳情可以去看看哈哈哈 辦完就暫時閉關了" }
     ],
     "31": [
+      { type: "link", content: "https://photos.app.goo.gl/8JkrWZrXdZxkyoLD6", label: "2026年1月31日 聽琰神一席話如讀萬卷書 臺北市立萬芳醫院" },
+      { type: "link", content: "https://photos.app.goo.gl/At5PGgVmQeXEWzQCA", label: "2026年1月31日 超爆可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/poUJKqykguyGpwt29", label: "2026年1月31日 吃到誠實豆沙包" },
+      { type: "link", content: "https://photos.app.goo.gl/NuTQRVRCYYDzw3fd6", label: "2026年1月31日 並不是 是第一張雪景街景太美" },
+      { type: "link", content: "https://photos.app.goo.gl/JegLMJErnf37fMY18", label: "2026年1月31日 你是10分女捏" },
+      { type: "link", content: "https://photos.app.goo.gl/U38EjPG4YZx4stqV7", label: "2025年1月31日 2025年度第一則笑話 我向來覺得護理師薪水應該要至少目前的兩倍 但醫師也是 沒想到還有山頂洞人的思維覺得醫師薪水太高 真的可笑至極" },
+      { type: "link", content: "https://photos.app.goo.gl/8uwGhrUAnfnp39iY6", label: "2025年1月31日 發這種文的人腦袋有可能考上醫學系嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/fCERYMG4VVMSLpcy8", label: "2025年1月31日 中國也不是一個國家吧 應該算是一個蟑螂屋 老是跑出一堆腦袋已經被黏在外面的蟑螂" },
+      { type: "link", content: "https://photos.app.goo.gl/VVh24PSZp5FBtVk26", label: "2025年1月31日 我從以前就在說了 醫師就是用自己的健康跟命來換別人的健康跟命 重點是薪水還很低" },
+      { type: "link", content: "https://photos.app.goo.gl/G6k3uMZPBgxeGqas9", label: "2025年1月31日 \
+        Bantayan island 因為被白色的沙灘跟椰子樹燒到 今年特別選了Bantayan島 位於宿霧北方的小島 \
+        交通的方式 從機場包車開到北方hagnaya port要花3小時 單趟約1500台幣 再坐船70分鐘抵達Santa fe port 後續由飯店人員接送 \
+        我們也順便租了機車 一天約100出頭台幣 完全不看國際駕照 fb聯絡好就來送車 意外的車況很不錯 但少一格油收20台幣XD \
+        這是一個很意外的小島 水龍頭打開水是鹹的 甚至會有海菜飄出來 原本預期會有大片白色的沙灘 椰子樹 又很少人拍 \
+        但到了當地才發現遊客還是很多 超過一半為菲律賓人 另一半多為歐美跟韓國 我們沒有遇到任何台灣人 \
+        他是一個原始的小島但充滿人類開發的痕跡 硬要說只比墾丁好一點 沙灘上充滿遊客 到處有烤香腸的煙 蓋一半的大飯店 吵雜的卡拉ok \
+        選了Kota beach及Sugar beach都讓人失望 最後在旅館的私人沙灘才拍到這張沒有遊客的景 如果不是為了看沙丁魚或參加水上活動 不建議舟車勞頓到這裡 \
+        如果想要便宜又漂亮的風景 印尼還有峇里島更好 之後再來慢慢分享 還是有些傳統人文非常記得紀錄" },
+      { type: "link", content: "https://photos.app.goo.gl/okjMheq8StT4Jihs9", label: "2025年1月31日 加油" },
+      { type: "link", content: "https://photos.app.goo.gl/rwDeXUsXhhqn67TD9", label: "2025年1月31日 對啊哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/MCguzPStSv2i2XFo6", label: "2025年1月31日 期待期待 超好看" },
+      { type: "link", content: "https://photos.app.goo.gl/Uz99iqeNZMpUGX7WA", label: "2022年1月31日 \
+        過年無聊可以來解解看x角度多少 距離高三已經11年 期間完全沒碰三角函數 這題起初用幾何解不出來 後來畫輔助線+三角函數查表 \
+        兩分鐘可得到答案 有興趣的朋友可私訊正解XDD 只是沒想到數學荼毒我太深 11年沒用三角函數 用的時候憑直覺就會了 原來這就是為何大家都要學三角函數的原因" },
+      { type: "link", content: "https://photos.app.goo.gl/UWDtQxMxt92Jo2NS6", label: "2022年1月31日 自我懷疑の貓貓" },
+      { type: "link", content: "https://photos.app.goo.gl/GexkqyU97TaASwVj8", label: "2022年1月31日 \
+        2022台灣大順遂 生活分享No.10 歷經兩天的醫院值班 發現過年病人的心態大大大轉變 \
+        以往很多病人都賴著不出院 尤其是家中阿公阿嬤 很喜歡把病房當安養中心 \
+        不過過年可不一樣 不只巴不得自己趕快出院 治療還沒結束就想後續門診追蹤 也巴不得把阿公阿嬤接回家過年 人情冷暖啊 \
+        不過 還是祝福所有人 不過是不是過年都能夠團員 台灣能夠勇敢挺過疫情 股市衝破2萬點囉" },
+      { type: "link", content: "https://photos.app.goo.gl/fJ3j3EWzseb45e4u5", label: "2021年1月31日 病人CPR急救就算了 沒想到現在凌晨0點臨時被通知上刀 不知道要上到幾點 我以為上次是人生最後一次上刀 果然最後一個月外科就是大魔王 昏" },
+      { type: "link", content: "https://photos.app.goo.gl/kpZVtvnSzpRPMSZy7", label: "2021年1月31日 夾魚刺結束 接著follow一台VATS" },
+      { type: "link", content: "https://photos.app.goo.gl/ykRpT1fpFhAYamsy7", label: "2021年1月31日 準備看日出 除了睡十分鐘跟吃晚餐 完整24小時 超過 都在工作沒有停 沒有停 沒有停" },
+      { type: "link", content: "https://photos.app.goo.gl/z7yWSjeUA5aWGc258", label: "2021年1月31日 SUNRISE 三軍總醫院" },
+      { type: "link", content: "https://photos.app.goo.gl/jmcXVAwwYqWgpHv37", label: "2019年1月31日 哈哈哈哈 如果拿步槍感覺更適合" },
+      { type: "link", content: "https://photos.app.goo.gl/wacJL3FLDVNsuSgp9", label: "2019年1月31日 \
+        現在一個月用不到兩次電腦 但常常在腦海模擬修圖 職業病 最近把模擬已久的一個簡單風景後製方法付諸實際了 \
+        只要曲線我就可以處理整張照片 並且分割出遠景近景的光線層次 會找時間直播薩的法全程後製 免費讓大家參考" },
+      { type: "link", content: "https://photos.app.goo.gl/Zz9ofBT5nhBkZh6y5", label: "2019年1月31日 國軍花蓮總醫院 未來工作的地方 拜碼頭先" },
+      { type: "link", content: "https://photos.app.goo.gl/WnvBsAUA3nwQrLdh9", label: "2019年1月31日 恭喜全體通過一階 好久不見夥伴" },
+      { type: "link", content: "https://photos.app.goo.gl/JhSD9jiwRLYCYN3h8", label: "2019年1月31日 晚安" },
+      { type: "link", content: "https://photos.app.goo.gl/j7NT7qk8rCtNXEFbA", label: "2018年1月31日 \
+        看著攝影朋友一個一個拍大景看的心好癢 如果是我拍到修出來一定屌翻天 唉唉只剩下在醫院實習跟肯書的份 \
+        沒事 發發牢騷 可以追蹤這個帳號omg.wp 正在辦抽明信片唷 對 謝謝提醒" },
+      { type: "link", content: "https://photos.app.goo.gl/WubeqoS2ghe6sX2R9", label: "2018年1月31日 台南孔廟商圈 Light wings 星空之翼 我都亂標的 都在台南就是了XD" },
+      { type: "link", content: "https://photos.app.goo.gl/3PGuQdEr349SMPW56", label: "2018年1月31日 \
+        鋼絲絨那篇 抽明信片倒數五天 完成以下三步驟 總共抽出15位朋友唷 追蹤omg.wp 新年之前在您的限時動態tag omg.wp 誠摯感謝您的推薦 \
+        留言處tag一位好友 之後隨意即可 例如+1 可重複tag增加中獎機率 但每人限中一次唷 重複會重抽^^" },
       { type: "link", content: "https://photos.app.goo.gl/yQJG51L9B5njiycm8", label: "2017年1月31日 \
         Happy ending of vacation 北上收假 明天值班 超短假期 一日司機 太保花海" }
     ]
   },
 
   "2": {
-    "1": [],
+    "1": [
+      { type: "link", content: "https://photos.app.goo.gl/MM42NMLRL5sM4TV96", label: "2026年2月1日 香香小角落" },
+      { type: "link", content: "https://photos.app.goo.gl/SZ2cqxLqUjLwyNKc8", label: "2026年2月1日 又有這種可愛的東西了" },
+      { type: "link", content: "https://photos.app.goo.gl/rdx8DF7DuLNxhCzV9", label: "2026年2月1日 又得去泰國了" },
+      { type: "link", content: "https://photos.app.goo.gl/WHXDKRspSednG6N7A", label: "2026年2月1日 真可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/SzaRtw6v8SUfVnyE9", label: "2025年2月1日 不要 感覺好難看 以為是妳說的哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/FNmtd7kUK3Try2q77", label: "2024年2月1日 謝謝民進黨當選 讓我們買房不擔心跌價 建商繼續炒 藍綠繼續貪 台灣發大財 只是不是民眾發大財" },
+      { type: "link", content: "https://photos.app.goo.gl/RmYjK1hFGvXb2ycj9", label: "2024年2月1日 笑死 我是不是要存錢預先立個內專不合格的石碑了" },
+      { type: "link", content: "https://photos.app.goo.gl/STs4DmMqnZY4QVk88", label: "2024年2月1日 \
+        一月份的小幸運 這是我的第一次露營 也是我的第一次露營 安排的難度直接為0 這就像大學迎新的宿營而已XD \
+        這次也順便帶上Sudio旗艦版藍芽耳機E3來用看看 之前都是用AirPods2 順便來做個開箱 \
+        過去我也曾用舊版的Sudio耳機 這次E3的聲音更為立體 且隔音的效果比AirPods2還好 以兩天一夜的旅行來說電量也充足不用充電 \
+        不過偷偷說 duncanhuangphoto也有帶一個Sudio藍芽音響讓我印象更深刻 聽了一整個晚上 至少三小時以上 都還電量充足 \
+        音質也是不錯 Sudio品質越來越好了 對了如果想跟我一樣買高CP值的E3 可以使用折扣碼OMGE3 有額外15%的優惠唷" },
+      { type: "link", content: "https://photos.app.goo.gl/rPuNiGqGVWCFfyvEA", label: "2020年2月1日 \
+        從來沒想過會來陸戰當排長 也從來沒想過被迫練健身練體能 我還以為調陸能換來早八晚五的公務員生活QQ \
+        雖然軍中一直給我不同挑戰 但謝謝妳一直帶來能量跟驚喜 我沒想過情人節禮物會在眼睛打開後出現 而且還是健身品牌myprotein 一切真的太神奇了哈哈 \
+        謝謝妳訂購了我需要的東西 也感謝妳讓我看見生活中不同的可能 這倒數半年我會穿著他們好好訓練的 謝謝妳的情人節快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/EgXR9Jo8oMvHZixU8", label: "2019年2月1日 明明不是醫生也不是教授 卻欺騙大眾 台灣人真的很需要智慧呢" },
+      { type: "link", content: "https://photos.app.goo.gl/BqWqLF7q96qKdSE76", label: "2018年2月1日 \
+        我們是國防醫學院自行成立的攝影團隊 接校內外拍攝case 無奈進入臨床醫療工作 熱情也被現實阻礙 \
+        但我們仍不忘喜愛攝影的初衷 我們是實習醫學生 也是熱愛攝影專研打光跟後製的團隊" },
+      { type: "link", content: "https://photos.app.goo.gl/836ymxxKMDgWqRAk7", label: "2018年2月1日 \
+        King of Animals 山羊之王 這裡可以說是蘭嶼的秘境之一了吧 每天晨起都有一隻不同的山羊站在頂峰 像極了守衛羊群的王者 \
+        拍攝時這些石頭也很不好爬 容易受傷也容易掉進小坑裡 更不說無數的羊屎 幸運的是還現場看到羊在鬥角 \
+        蘭嶼真的很美 修圖時很痛心的去除一些垃圾 何時我們才能存欣賞而不破壞環境 歡迎分享我的作品和ig 也提醒守護自然的重要性" },
+      { type: "link", content: "https://photos.app.goo.gl/KL2WBkLtunYVXLvv5", label: "2018年2月1日 大家記得tag朋友去鋼絲絨那篇抽免費明信片唷 倒數四天" },
+      { type: "link", content: "https://photos.app.goo.gl/T6Ccg1XA9DDktjko6", label: "2018年2月1日 朋友提供形象棚拍房間不收場地費 市政府捷運站" },
+    ],
     "2": [],
     "3": [],
     "4": [],
