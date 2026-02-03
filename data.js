@@ -1668,10 +1668,76 @@ const records = {
         拍攝時這些石頭也很不好爬 容易受傷也容易掉進小坑裡 更不說無數的羊屎 幸運的是還現場看到羊在鬥角 \
         蘭嶼真的很美 修圖時很痛心的去除一些垃圾 何時我們才能存欣賞而不破壞環境 歡迎分享我的作品和ig 也提醒守護自然的重要性" },
       { type: "link", content: "https://photos.app.goo.gl/KL2WBkLtunYVXLvv5", label: "2018年2月1日 大家記得tag朋友去鋼絲絨那篇抽免費明信片唷 倒數四天" },
-      { type: "link", content: "https://photos.app.goo.gl/T6Ccg1XA9DDktjko6", label: "2018年2月1日 朋友提供形象棚拍房間不收場地費 市政府捷運站" },
+      { type: "link", content: "https://photos.app.goo.gl/T6Ccg1XA9DDktjko6", label: "2018年2月1日 朋友提供形象棚拍房間不收場地費 市政府捷運站" }
     ],
-    "2": [],
-    "3": [],
+    "2": [
+      { type: "link", content: "https://photos.app.goo.gl/xJHNn8w1JYZvkvZj6", label: "2025年2月2日 如何分辨詐騙還是真醫師 看這篇文章就知道了 只有假的醫師會有優越感 真正的醫師都知道在台灣根本被當賤命一條" },
+      { type: "link", content: "https://photos.app.goo.gl/cjpio953Ajug9JVR8", label: "2024年2月2日 \
+        民進黨炒房 事實擺在眼前 什麼青安貸款都是騙人的笑話 現實中政策只是讓建商房子賣更多 銀行利息收更多而已 \
+        已經事實擺在眼前 大家歡迎繼續支持民進黨 民進黨發大財 高官小孩都出國留學玩樂 回家繼承房產再出來選下一屆 \
+        然後你沒黨證沒祖產的貧民 繼續瞎操心抗中保台投民進黨 繼續每天辛苦工作納稅給國家亂花 怪自己可憐吧XD 台灣蠢民真是藍綠發財永動機" },
+      { type: "link", content: "https://photos.app.goo.gl/5QJfxyHrcYKrTihn6", label: "2024年2月2日 對了這只是政府檯面上統計的 檯面下十倍不止呵呵 沒有20億選什麼總統啊 20億哪裡來 當然是建商" },
+      { type: "link", content: "https://photos.app.goo.gl/zPHjPu8WoQVQVjcs6", label: "2024年2月2日 抽我 我私下會回包給你20萬" },
+      { type: "link", content: "https://photos.app.goo.gl/V727ftJM4cdmNfgg6", label: "2023年2月2日 \
+        2023天元宮櫻花 醫涯分享No.9 再幾個月就滿30歲 在臨床工作的時間雖然只有四五年 但遇過臥床 慢性病的患者不下少數 \
+        人生的下半輩子在病床與醫院度過實在很不值得 撇除意外緣故 我覺得有一件事非常重要 \
+        身心健康永遠比工作成就重要 須謹記在心 再多的錢 如果只能臥在病榻 也只是給子孫玩樂花費 健康就像投資 30歲開始只是剛剛好 \
+        然而30歲卻是事業黃金時期 很多的成就都是從這裡開始 也因此多數人都已經忘記為何而工作 一頭栽入無法自拔 甚至被公司逼迫 \
+        到頭來白髮蒼蒼 無福享受人生 更無福追求工作以外的成就 但公司永遠不缺你一個 你倒了一定很多人能代替你 厚起臉皮只做該做的事情 但對於自身健康不能馬虎 \
+        因此我給自己即將滿30歲的目標 不是工作的期許 而是健康管理 重訓跟有氧 是我的目標 \
+        重訓能有效預防肌少症 搭配飲食 能增加肌肉量 很多70-80以上的人容易跌倒 一個骨折便長期臥床 \
+        從年輕培養重訓 不需要大肌肌 只要控制體重跟稍有線條就好了 讓肌肉保護骨骼 也讓自己有力量抵禦突發狀況 \
+        有氧則比較困難 需要的恆心更大 我不是馬拉松愛好者 但要求自己老到跑不動的那天前 我的人生必須維持能順順跑8-10公里的能耐 \
+        跑步能增進心肺功能 控制血壓血脂 這個習慣維持到老 也能避免心臟跟肺臟功能過度退化 \
+        另外很多人怕運動過度 實際上多數人都是運動不足 我建議要求自己過度運動 反正一定達不到 可能還剛好符合該有的運動量 \
+        至於到底應該運動多少量 建議參考美國心臟病學會建議 網路上都有 最近也有許多醫師提到 控制或避免高血壓 防止心血管疾病外 \
+        最重要的是預防中風 中風才是讓人生一輩子毀滅 臥病在床的原因之一 奉獻一生不如好好先投資健康 工作適當就好 沒有富有命至少保持健康 \
+        雖然很多藥物能改善體質 但我認為大自然法則不變 從根本運動做起 才是全面的 希望大家都能為了自己健康動起來 盡量準時下班 \
+        保留體力運動 我也常遇到下班就已經累得半死 甚至值班跟加班 都是長期累積身體傷害 我常告訴自己只是醫院的小螺絲 \
+        何必為了長官要求傷害自己 壞了身體跟心理健康 期許自己 不要太在意工作表現 多在意身體健康才是人生真正的勝利" },
+      { type: "link", content: "https://photos.app.goo.gl/hu9G2o3o2xL7RpKg9", label: "2023年2月2日 吃嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/UUDUooFmLFcqhgEP6", label: "2022年2月2日 \
+        今天在彩卷店親眼目睹 2000元彩卷中100萬的人選 總共650萬張 只有650張100萬 等於100萬分之一的中獎 \
+        看著藍花花的鈔票一疊一疊現鈔 太震撼了 100萬中出一個 等於看到霸王色霸氣的擁有者啊" },
+      { type: "link", content: "https://photos.app.goo.gl/64cgYpiMkuHTKU5X9", label: "2022年2月2日 今天謝謝財神爺請客" },
+      { type: "link", content: "https://photos.app.goo.gl/aGZ6GFN5VQ9qLyuN6", label: "2022年2月2日 這種動畫裡面才有的超美畫面 現實中也有 祝大家新年快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/GPeDMHEnCYiYtFut5", label: "2020年2月2日 HECHO做咖啡 然後她趁我停車的時候把帳結完了 不準這樣喔" },
+      { type: "link", content: "https://photos.app.goo.gl/qNqRgdqwxYtrz1tv8", label: "2020年2月2日 找不到停車位 所幸直接來洗車打蠟" },
+      { type: "link", content: "https://photos.app.goo.gl/t5imdCZNcxtMNY989", label: "2019年2月2日 警消海巡比照軍人是很好的作法 但請問為何費用是榮總跟軍總自行吸收呢 到底是國家照顧他們還是醫院照顧 立意良好但請編列預算" },
+      { type: "link", content: "https://photos.app.goo.gl/Dk25vroB96NiMrou7", label: "2019年2月2日 成就一張讓自己流連很久的照片 不只需要對的拍攝技巧與對的後製 也要對的運氣 目前最喜歡的日出色調 喜歡的日出" },
+      { type: "link", content: "https://photos.app.goo.gl/sz6qmW7bDmAPakC59", label: "2018年2月2日 我已經不知道該怎麼說了 一台CVVHD要搞到整晚都不能睡 明天照樣上班 工時直接突破30小時嗎 貴院zzz" }
+    ],
+    "3": [
+      { type: "link", content: "https://photos.app.goo.gl/thbFX3eo8nxYoHn9A", label: "2026年2月3日 當醫生 你就可以享受邊工作還要邊讀書的痛苦唷" },
+      { type: "link", content: "https://photos.app.goo.gl/3u7eJxpDidHKw9qA6", label: "2026年2月3日 對啊 每天都在跟老師們學習這東東 我有次不小心在體外就直接把支架打開 就是跟這個一樣" },
+      { type: "link", content: "https://photos.app.goo.gl/miU78q3r9C1TqRjd9", label: "2026年2月3日 您好 我要cepo問題請教 有加您好友 謝謝您" },
+      { type: "link", content: "https://photos.app.goo.gl/RjkVNsVAW9AvPeBy8", label: "2026年2月3日 感謝lexus_taiwan分享 謝謝帶我一起完成這個拍攝" },
+      { type: "link", content: "https://photos.app.goo.gl/szzjub8vk4tV19Zu8", label: "2026年2月3日 這個為啥要罵哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/9MH7jfN6HK7xgz4CA", label: "2026年2月3日 有夠好聽 有夠喜歡 好希望捷運站放這種" },
+      { type: "link", content: "https://photos.app.goo.gl/mq92PYwdGswo7C597", label: "2025年2月3日 大推" },
+      { type: "link", content: "https://photos.app.goo.gl/FEYogVa5HxA4iYdJ8", label: "2025年2月3日 真的很難過" },
+      { type: "link", content: "https://photos.app.goo.gl/8mTnCJYCdRvaNxrN7", label: "2025年2月3日 I am from Taiwan這樣是對的嗎XD" },
+      { type: "link", content: "https://photos.app.goo.gl/xenEc8tqs8MFDYji8", label: "2025年2月3日 直接抱回家" },
+      { type: "link", content: "https://photos.app.goo.gl/iSJBW1v5XGJAxJCL7", label: "2024年2月3日 小時候努力讀書跟考試 結果長大換來更多讀書跟考試的工作 喔不對 還有值班zzzzzz" },
+      { type: "link", content: "https://photos.app.goo.gl/1FZQh3aDp9aiQTvT9", label: "2024年2月3日 家裡怎麼有個孫悟空" },
+      { type: "link", content: "https://photos.app.goo.gl/aG8Stb53gwFLGx4t8", label: "2024年2月3日 融合 資深悟空迷才知道的細節耳環" },
+      { type: "link", content: "https://photos.app.goo.gl/6AhnyTGMAVTBjeoR9", label: "2023年2月3日 這次難得準備出國 也收集好幾個拍照景點 希望體力還行的時候 能用畢生之力 把世界的美景拍入口袋 這才是人生目標" },
+      { type: "link", content: "https://photos.app.goo.gl/2GLMq9RUW7MrXY9K7", label: "2023年2月3日 兄弟買了空拍機 我也好想買 但根本沒啥時間練習飛跟拍XD" },
+      { type: "link", content: "https://photos.app.goo.gl/48s3jWrz5rkSs99d7", label: "2020年2月3日 \
+        以前新聞畫面都會有一堆伯伯嬸嬸阿嬤阿公坐在一堆股票電視機前不知道幹嘛 看著曲線一直跑來跑去 \
+        我小時候都覺得他們是不是吃飽太閒去坐著睡覺的 但現在我知道為什麼了" },
+      { type: "link", content: "https://photos.app.goo.gl/PHqorCEki2vGG3Cz6", label: "2020年2月3日 這是喝完一杯珍奶的MRI耶" },
+      { type: "link", content: "https://photos.app.goo.gl/NjuAEyegeegSQ6qVA", label: "2019年2月3日 台南奇美博物館日出 新的一年 雖然還在留守 但先預祝好友新年快樂^^ 追蹤攝影作品 IG搜尋omg.wp" },
+      { type: "link", content: "https://photos.app.goo.gl/NWsSHb7zi68WTsys5", label: "2019年2月3日 我喜歡台灣 因此努力拍攝紀錄:)" },
+      { type: "link", content: "https://photos.app.goo.gl/1oevH7sMbzBYLepW9", label: "2018年2月3日 誰會獲勝 白又高的JHAN 醜又肥的我" },
+      { type: "link", content: "https://photos.app.goo.gl/SasrREjGKgcsC2Vt6", label: "2018年2月3日 下注下注 誰會贏的勝利呢 賭贏的這個月30號我請您吃西提牛排 邪惡勢力婕涵 正義屎者展旭 他說他老了 上一場不算 這場認真挑籃球" },
+      { type: "link", content: "https://photos.app.goo.gl/H3H2aGgqTfF8NnMUA", label: "2018年2月3日 乾正義屎者輸了 邪惡勢力要統治世界了啊啊啊啊啊啊 啊啊啊啊啊哦啊啊啊" },
+      { type: "link", content: "https://photos.app.goo.gl/c5UTprAYmKnm5Tvq6", label: "2018年2月3日 \
+        超適合當手機桌面 Anyone wants this? 奥入瀬渓流 おいらせけいりゅう \
+        鋼絲絨那篇有明信片抽獎 倒數兩天趕快去看看唷 拍攝瀑布時 除了前置注意快門速度製造不同水流感 後製用曲線調整體氛圍 \
+        還要注意加強光源還有製造水流撞擊的雲霧感 有人對這樣的後製方式有興趣嗎 先說 就跟上過我攝影教學朋友的心得一樣 \
+        步驟有點多 不過好的後製像魔法一樣 讓照片死而復活 " }
+    ],
     "4": [],
     "5": [],
     "6": [],
