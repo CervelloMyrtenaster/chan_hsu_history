@@ -1738,8 +1738,91 @@ const records = {
         還要注意加強光源還有製造水流撞擊的雲霧感 有人對這樣的後製方式有興趣嗎 先說 就跟上過我攝影教學朋友的心得一樣 \
         步驟有點多 不過好的後製像魔法一樣 讓照片死而復活 " }
     ],
-    "4": [],
-    "5": [],
+    "4": [
+      { type: "link", content: "https://photos.app.goo.gl/McMn9yx7DfRbJfhe6", label: "2026年2月4日 身為醫師強烈建議跟身體健康的事情 都去西醫院找合格的醫師護理師跟營養師唷" },
+      { type: "link", content: "https://photos.app.goo.gl/saqvWSeDdoW21A7p6", label: "2026年2月4日 他離開之後還有回頭望一下" },
+      { type: "link", content: "https://photos.app.goo.gl/NLDY3hJi5vTXvb396", label: "2025年2月4日 沒用啦 這種都自以為自己經驗比醫師厲害 第一次她家人能馬上做ct應該是怕被她亂告吧呵呵" },
+      { type: "link", content: "https://photos.app.goo.gl/HdcLrVjBVC3ZqhHy8", label: "2025年2月4日 我都沒有" },
+      { type: "link", content: "https://photos.app.goo.gl/to93wEBoZV7LJXQi9", label: "2023年2月4日 今天發現的厲害攝影師 街拍構圖跟色調都超有料" },
+      { type: "link", content: "https://photos.app.goo.gl/ch3KxAccoSUTHJ5S7", label: "2022年2月4日 眼科大大 這張太美了" },
+      { type: "link", content: "https://photos.app.goo.gl/z3zC4dT8ACsUDyGt7", label: "2022年2月4日 \
+        人性vs邏輯的選擇 生活分享No.11 這幾天被傳染 開始看殭屍校園 不得不說 韓國在殭屍這種老梗的主題 還是能拍出驚奇不斷的劇情跟不同層面的思考 \
+        尤其是鋪陳的細節跟人性的探討 有個很有趣的點是他們的高中生演員看起來就是真的高中生 演技說話跟反應很到位 反觀台灣很多劇的高中生 看起來完全就3-40歲年齡層 \
+        即便打鬧跟台詞都沒有青澀的感覺 不過畢竟資源有差 只是覺得可惜了 雖然還沒看完 但第五集有一小段說到 或許邏輯是很重要 但災難來臨時 人性才是更重要的 \
+        說實話我不完全認同 災難來臨時顧及人性會失去更多 甚至也不能保證人性的決定是好是壞 好比說決定是否營救幫了大家很多的夥伴 卻反而讓大家身歷更大的風險 \
+        抑或是應該沒被感染的人們 想到隔壁市避難卻被當地居民丟雞蛋驅趕 在人性的一面雙方或許都有理 但正因為災難來的又快 情況又不明朗 \
+        正確邏輯的判斷 在事後想起來還是比人性有幫助的多 不過基於劇情鋪陳 我相信人性為重還是更好的 而在大難來時 保有人性才能讓合作跟信任更順遂 \
+        一切就很像目前的疫情 政策如何兼顧人性與邏輯 才是最大的考驗 希望政府在調整救災資源 尤其醫療人力 能考慮到人性 醫護也有家人 也需要放假跟合理的獎金 \
+        及邏輯 人力不足 就應該限制入境 避免更多的外來確診壓垮專責病房 才是真正對人民好" },
+      { type: "link", content: "https://photos.app.goo.gl/Mhkw4vJPC6EmD1FG6", label: "2021年2月4日 真的是太幸福了 家醫科這才是合理的工作品質啊 有學習有休息 至於內外科QQ 三軍總醫院" },
+      { type: "link", content: "https://photos.app.goo.gl/LF1A24UgpGNEnpvL8", label: "2021年2月4日 家醫科連報告都充滿愛與和平 報告前主治先期許世界和平 疫情快過 病人健康 大家安樂 跟內外科肅殺的氣氛真的不同" },
+      { type: "link", content: "https://photos.app.goo.gl/3eGWqMgC3WBY84926", label: "2021年2月4日 那個男生該不會是 應該不可能 是他嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/PXPvgmQmJqZGeEsh9", label: "2021年2月4日 今天天氣很涼 也有太陽 適合跑步 八公里也比上次進步了 終於在35分鐘內完成" },
+      { type: "link", content: "https://photos.app.goo.gl/h3vdvsU2FzMFeHoQ6", label: "2020年2月4日 前少將院長 大師出手了" },
+      { type: "link", content: "https://photos.app.goo.gl/bfot4TLSrWLsnE95A", label: "2019年2月4日 我們的春水堂 沒關係但我有錢能多買幾杯 喝啊 消脹氣藥吃起來囉 kascoal" },
+      { type: "link", content: "https://photos.app.goo.gl/v3iaEXotjL2XmPX26", label: "2018年2月4日 \
+        我知道粉絲有些追了又退 這是正常 不過就僅此一次 我想分享兩個想法給你們知道 針對我對追蹤與按讚這兩個動作的想法 \
+        第一篇是為何我需要衝粉絲 第二篇是對於追蹤跟按讚的想法 字多 懶得看可以跳過" },
+      { type: "link", content: "https://photos.app.goo.gl/A9szSsvZfsGCLmLn8", label: "2018年2月4日 \
+        去年中初辦ig 在版上瀏覽到很多台灣厲害的年輕攝影人 有自然風景 爬樓的 國外作品等等 你們的創意讓我耳目一新 \
+        因此我想找機會跟你們交流 無奈我在ig沒有名氣 幾次私訊碰壁都沒有回應 不是沒看到就是我不夠有名沒有人想理我 我當然是不甘心 \
+        苦練後製又拍了四年多經驗不會輸你們 我希望自己能被重視 並因此能跟有特殊創意的你們交流 所以我開始衝人氣 \
+        只有當站上鎂光燈之下 讓更多人看見自己的成果 交流的機會才因此而來 我必須要說 自己真的很討厭衝人氣這種欠別人的作為 \
+        但人氣粉絲其實是潛力 他會帶來一些效益 而我需要跟一些大神交流的機會就是靠衝人氣而來 \
+        我本業非攝影並不需要搞人氣 但熱情所在 我想跟更多大師交流 所以對於我的粉絲 真心謝謝你們 是你們願意支持我的作品 也是我繼續拍出水準之上的動力之一 \
+        名利於我如浮雲 我也不需要靠這賺錢 但沒有足夠的粉絲量 不只粉專不太注意你 因為他們很多沒有辨識作品好壞的能力 常常特地選某些單純高人氣的作品po \
+        一些大師也不會帶你一起拍照 跟你交流 還有很重要一點 在推崇自己作品時要捏著良心 絕對要要求自己 下足功夫 苦練攝影 \
+        一定要給追蹤我的朋友 看到最好的成果 沒有功夫卻不斷衝粉絲的人 我覺得才是為了名利 總之 曝光自己是為了得到更多的交流機會 \
+        也為了讓自己後製的理念被重視 這是近期積極經營的原因 而這些也是回答先前黑特我的那幾位朋友們 \
+        抱歉金錢跟名利我真的不需要靠攝影得到 而我對攝影的理念跟堅持不會讓粉絲失望 謝謝你們看完又臭又長的真心話 這個版我只想表達對攝影的熱忱跟功夫 一起努力吧" },
+      { type: "link", content: "https://photos.app.goo.gl/dS3aPyz72HKHkYCU6", label: "2018年2月4日 \
+        最早我追蹤了很多台灣年輕攝影網友們 但應該有些人記得我又po過一則限時 是我刪除了那些追蹤 \
+        追蹤你 於我有兩種意思 第一 單純我想跟你交流 第二 你很強 我佩服所以你的作品是我的模範 \
+        第一種 在我追蹤你之後 我會觀察你是不是反過來追蹤我 如果沒有 代表你不認同或是我的作品不夠好 不足以讓你注意 \
+        這樣的網友是我退追的對象 我敢說在台灣後製程度 真的沒有多少人下我這樣的功夫 當然 比我強的大有人在 像大景哥真的很厲害XD \
+        所以退追其實很公平 你對我作品沒興趣 而我也不需要看你作品 因為你作品不值得我參考學習 退追單純是知道你沒有要跟我互動 交流而已 \
+        第二種 是因為你真的很強 所以單向追蹤你 大多數是國外攝影師 但誰說台灣沒有 除了大景哥 台灣光影魔術師steven哥就讓我崇拜不已 \
+        更不要說至少十來個人像拍的好的 或婚紗拍的美的 東法 鯊魚等 對於攝影 我堅持針對作品而不是針對人 我也會用同樣嚴格的標準審視自己的作品 \
+        再來對於我追蹤的朋友 剛開始我一定不吝嗇愛心給你們 但有些加久了 或許是覺得我囂張 或許是覺得我拍的不好所以不再給我愛心 \
+        我對愛心其實不執著 但之於公平 我也不會在看也不會在給你的作品愛心 我講這些話某些人一定很不屑 但抱歉 這些很赤裸裸的話正是現實 我只是白目戳破他 \
+        我是很討厭戴著面具說謊的人 作品好或壞請有自知之明 我知道自己有基本的國際水準了 但跟那些大神相比 我大概還有八輩子要努力 \
+        謝謝那些私我告訴支持我的粉絲 我想說謝謝之外 我真的不是大師 ig太多神猛作品 我看到直接收藏當成模範來學習 \
+        有些人會覺得我自大 所以我打這些話來告訴你們我在想什麼 最後對於看完造成你心裡不快的人 我只能說聲抱歉 我的風景跟人像從來不是套風格檔或LR修完就交差 \
+        每張都是非常努力至少花半小時以上修圖 你可以說拍照開心就好為啥要扯後製 我告訴你 因為肩上扛攝影師這個名字 就該嚴厲審視自己 否則只是攝影玩家" },
+      { type: "link", content: "https://photos.app.goo.gl/9sYjR37Ldeu6QDF28", label: "2018年2月4日 \
+        完畢 你有什麼想法僅管私我 我不匿名黑特 我具名說實話 或許我真的很偏激 但都是真心誠意\
+        我不只愛攝影 更是虐待自己下功夫 不需要一味認同我 只要您覺得我哪裡錯誤 歡迎批評指教 小弟願意耐心受教" },
+      { type: "link", content: "https://photos.app.goo.gl/98E2QMsk85LK6edc9", label: "2018年2月4日 Ps 可以問我見過我本人的朋友 我本人沒那麼猖狂 保證超級親切啦哈哈哈 不要誤會了" },
+      { type: "link", content: "https://photos.app.goo.gl/Cfcw7wmt2UiqCeC79", label: "2018年2月4日 最難得的是兩三個禮拜一次短暫的相聚 前十分鐘我沒開火想說怎麼沒有煮的感覺" },
+      { type: "link", content: "https://photos.app.goo.gl/XiAMebfYZYzGhn2i7", label: "2018年2月4日 第一次吃輕井澤" },
+      { type: "link", content: "https://photos.app.goo.gl/jYHsu6sizSJegSPQ8", label: "2018年2月4日 老子吃火鍋 shadowkuo_photography吃火鍋底料" },
+      { type: "link", content: "https://photos.app.goo.gl/LJSdrudvz6ys9VBt7", label: "2018年2月4日 Alive Taipei 明信片抽獎今晚24:00截止 大家請加快腳步吧 留言越多中獎機率越大唷 見鋼絲絨那篇貼文" },
+      { type: "link", content: "https://photos.app.goo.gl/18sA8g49R5Ciefhn8", label: "2018年2月4日 \
+        今晚24:00截止唷 趕快到我這篇貼文參加抽獎喔 辦法 完成以下三步驟 總共抽出15位朋友唷 \
+        追蹤omg.wp 截止之前在您的限時動態tag omg.wp 誠摯感謝您的推薦 留言處tag一位好友 之後隨意即可 \
+        例如+1 可重複tag增加中獎機率 但每人限中一次唷 重複會重抽^^" }
+    ],
+    "5": [
+      { type: "link", content: "https://photos.app.goo.gl/ukW3n8NjYicDhPvY7", label: "2026年2月5日 終於只差最後幾步路 許多同學們簡單的幾步 我卻要走很久 如果不是有老師們提供資源與教導 我還真不知道這輩子何時有機會開始" },
+      { type: "link", content: "https://photos.app.goo.gl/nG8cUJ69JBErH2rm9", label: "2026年2月5日 還問什麼護理師 連我醫師年終都比你少了 唉" },
+      { type: "link", content: "https://photos.app.goo.gl/TZSnBWumYHRqsZrH9", label: "2025年2月5日 所以我一直說底層89憑什麼活著 應該要肅清這些社會癌細胞" },
+      { type: "link", content: "https://photos.app.goo.gl/umxkjhWUvAG1uRgR8", label: "2025年2月5日 真的很令人難過 醫院總是無上限壓榨醫師 少數邏輯有病的醫事人員還要靠北醫師害他們低薪 醫師不認真會被民眾告 醫師太認真檢查也會被核刪 好好善待自己比較重要 為醫療奉獻最後收到的回饋遠不及傷害多 唉可悲台灣" },
+      { type: "link", content: "https://photos.app.goo.gl/rDWMCS3V5Xh7rGca6", label: "2025年2月5日 完全支持 而且還收太少 建議全台灣醫院跟進 民眾要插隊或加掛就把錢拿出來 給辛苦的護理師跟醫生 這才是公平正義 衛生局是在靠北三小 核刪才是巧立名目吧好笑" },
+      { type: "link", content: "https://photos.app.goo.gl/mzVhPeKF4XgUVsWWA", label: "2025年2月5日 完全不會自我檢討錯誤 建議你以後生病都求神拜佛就好 不然哪家醫院倒霉遇到你呵呵" },
+      { type: "link", content: "https://photos.app.goo.gl/KgCLiDnPFnsG7y7s8", label: "2025年2月5日 第一次跟這次狀況是完全一樣喔 真好笑 依照專業判斷要做 被你無限上崗成每次都要做" },
+      { type: "link", content: "https://photos.app.goo.gl/mWeMeuqQsDTvKWhu7", label: "2025年2月5日 沒有CHATGPT的但又要考試的朋友 真的應該花錢買起來 我猜未來在家自學的趨勢會上升 CHATGPT已經可以幾乎正確且詳細有耐心的解釋各種深奧難懂的知識 現在讀書都是一直跟CHATGPT聊天" },
+      { type: "link", content: "https://photos.app.goo.gl/XaKGSkVWgubGpCyk8", label: "2025年2月5日 這種天氣要離開被窩都需要勇氣何況昨天剛值班 一定要堅持下去 投資自己的健康比什麼都值得" },
+      { type: "link", content: "https://photos.app.goo.gl/6RBNH7PWrnniEL7e7", label: "2024年2月5日 這種猴子該直接丟到動物園吧" },
+      { type: "link", content: "https://photos.app.goo.gl/i7ZeLqHvaxi6LrN36", label: "2024年2月5日 院內感染內專考題 寫了近幾年的內專 發現考這個超無聊超幼稚 彷彿要你背誦評鑑條文 實際臨床上卻並非如此 總之我覺得把這三點背起來應該能應付內專考這個主題" },
+      { type: "link", content: "https://photos.app.goo.gl/yMFUGENiQHs5VyeUA", label: "2023年2月5日 今天值班從早上07:50忙到現在除了喝水廁所吃飯什麼都做不了 不過看到這個好開心 大家有看到都歡迎傳給我 我會分享並整理在精選 也希望多幫我分享啦" },
+      { type: "link", content: "https://photos.app.goo.gl/Ju2XAEKZDgNSfndq9", label: "2018年2月5日 第一輪不重複得獎者十二位 麻煩主動私我地址或面交方式 限台北內湖 期限為2/7之前 感恩你們" },
+      { type: "link", content: "https://photos.app.goo.gl/KbTgiFHvsKFyiR2k7", label: "2018年2月5日 第二輪重抽三位不重複得獎者 麻煩在2/7晚上之前私我寄送地址唷 恭喜" },
+      { type: "link", content: "https://photos.app.goo.gl/KmBLLEgTNNX77EZNA", label: "2018年2月5日 \
+        謝謝每位熱心追蹤參與的朋友 私訊得獎者寄送地址時會看您之前有沒有tag我在限時 也感謝各位回覆我的負能量 我都有看 \
+        也都會陸續回覆 之後至少到年中預計不會有任何活動 會收心閉關 謝謝 真的誠摯感謝支持 小弟仍會不定期po美圖 原諒我笨拙的抽獎方式" },
+      { type: "link", content: "https://photos.app.goo.gl/BmhrMirE77kJNppi9", label: "2018年2月5日 昨日中獎朋友 小弟會一個一個看留言登記唷 因為怕會漏掉所以還沒登記到的故意不讀 以免自己忽略忘記 這兩個禮拜內會處理完畢" },
+      { type: "link", content: "https://photos.app.goo.gl/H4MhiRDgPZPLwTTe7", label: "2018年2月5日 就最近有人問我用什麼相機 什麼數據 什麼鏡頭 地點在哪 能參考的小弟整理在這了" }
+    ],
     "6": [],
     "7": [
       { type: "link", content: "https://photos.app.goo.gl/92b1cTpeCLtbzZ3C9", label: "2017年2月7日 \
