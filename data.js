@@ -1823,7 +1823,47 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/BmhrMirE77kJNppi9", label: "2018年2月5日 昨日中獎朋友 小弟會一個一個看留言登記唷 因為怕會漏掉所以還沒登記到的故意不讀 以免自己忽略忘記 這兩個禮拜內會處理完畢" },
       { type: "link", content: "https://photos.app.goo.gl/H4MhiRDgPZPLwTTe7", label: "2018年2月5日 就最近有人問我用什麼相機 什麼數據 什麼鏡頭 地點在哪 能參考的小弟整理在這了" }
     ],
-    "6": [],
+    "6": [
+      { type: "link", content: "https://photos.app.goo.gl/CgmBWk9CD4cepioY7", label: "2026年2月6日 討論低薪卻拿醫師開刀的護理師一向就是欠嗆 我就問講這種話的護理師 那你又憑什麼領比清潔人員高薪 清潔人員沒專業 不辛苦" },
+      { type: "link", content: "https://photos.app.goo.gl/roXtzuGbJXPVRiJ96", label: "2026年2月6日 \
+        那一樣的道理 醫療事件被告 永遠都是醫師扛最多責任賠最多錢 那你憑什麼說醫生賺比較多 \
+        醫師今天領比其他職類薪水更多錢他媽超合理 從國中開始就沒有童年一路考試還要考到前1%以上 \
+        到了住院醫師主治醫師要持續考專科次專科 做報告 寫文章升等 假日跟晚上無條件責任制加班看病人打病歷 對病人負最高責任 \
+        要比知識深度 加班時數 辛苦程度 責任程度哪一點輸護理師 哪一點需要被你拿來比薪水 \
+        告訴你們這些民智只開一半的 我支持護理師加薪 我也認為護理師月薪10萬在台灣才合理 但是醫師也是受害者 \
+        五大科住院醫師月薪20萬起 主治醫生40萬起 我覺得才合理 \
+        醫師也是低薪又過勞 同樣受害者在伸張自己的正義時 卻要打壓體制內的另一個受害者??" },
+      { type: "link", content: "https://photos.app.goo.gl/XyFkZ4zoTn1rD3eVA", label: "2026年2月6日 學長辛苦了 你們重症單位更應該加薪 只是我很討厭體制內受害者 還要攻擊其他受害者的行為" },
+      { type: "link", content: "https://photos.app.goo.gl/fKgBx6JRvhiGHgV69", label: "2026年2月6日 喔喔 所以你選也要考國考的公務人員郵差跟你比嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/pmVgzWoND9nmDSJ4A", label: "2026年2月6日 在心臟科業界問一圈就知道 她是很厲害的年輕醫師 我們這些後輩出去上課她都是老師之一" },
+      { type: "link", content: "https://photos.app.goo.gl/t2QL8Mfr7w6geCWQ7", label: "2026年2月6日 米蟲姐姐" },
+      { type: "link", content: "https://photos.app.goo.gl/2XNgmETPzj5GGGrH9", label: "2026年2月6日 推 超好吃" },
+      { type: "link", content: "https://photos.app.goo.gl/iqPB9Bg2bByS2bzE8", label: "2026年2月6日 我們也要開一家貓貓青旅" },
+      { type: "link", content: "https://photos.app.goo.gl/sS3APLJeq7PvNcEr5", label: "2026年2月6日 真聰明" },
+      { type: "link", content: "https://photos.app.goo.gl/fiVY54qbXQGRQfgr8", label: "2026年2月6日 居然有北榮狗狗" },
+      { type: "link", content: "https://photos.app.goo.gl/M8Tjt3VA25xg8YvE9", label: "2026年2月6日 好圓好可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/7LWX84CEoJZkKgtX6", label: "2026年2月6日 小豬豬也要請求集合XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/uFEiYUWD8hFfa2ny5", label: "2026年2月6日 我去打他" },
+      { type: "link", content: "https://photos.app.goo.gl/HYh8qkYzsDGiJ9DcA", label: "2025年2月6日 其實不是只有護理師 第一線重症的醫師也是低薪" },
+      { type: "link", content: "https://photos.app.goo.gl/anm32s3HPG7o243T6", label: "2025年2月6日 蘇蘇感冒藥" },
+      { type: "link", content: "https://photos.app.goo.gl/e9Ypk8EaKLaAeGM36", label: "2025年2月6日 這個口吻也太像小林了ㄅ" },
+      { type: "link", content: "https://photos.app.goo.gl/154U7HWWE3c5Ec1Y9", label: "2024年2月6日 怎麼那麼厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/wkdB9Tp8wKffLLSn9", label: "2023年2月6日 \
+        台北卡拉拉日式涮涮鍋 這家內湖的刷刷鍋非常神奇 因為著名的竟然是銅板烤肉 而且沒有訂位真的排隊很久 \
+        我們大概平日晚上排了半小時才有位置 在非吃到飽的韓式烤肉裡算價格實惠 而且吃得飽 我點烤牛肉290元 肉質甜美多汁 \
+        另外加了高麗菜跟蛤蜊 蛤蜊也超大顆 很快就煮熟 整體而言一個人約300多 不過對於大食量又喜歡刷烤韓式牛肉 我還是建議韓江 CP值更高" },
+      { type: "link", content: "https://photos.app.goo.gl/HHtjm979GrMLyXrP8", label: "2023年2月6日 \
+        台中慕泥灰咖啡文創店 文青的早餐店 用料非常飽滿 會讓我喜歡的原因 是因為有兩個很特別的小東西 就是炸饅頭跟焦糖柳橙 \
+        柳橙多汁配上酥脆的焦糖 可惜每一個份量太少了 炸饅頭就非常厲害 口感類似銀絲卷 但外皮比銀絲卷更脆 還有起司非常搭配 \
+        整體而言不太貴 小缺點是蔥油餅很乾 這道不推 其他都很好吃唷" },
+      { type: "link", content: "https://photos.app.goo.gl/SJzrg4qQ9KHjADN67", label: "2022年2月6日 這一系列拍的很好 超愛 好想過著只要拍照的生活 工作真的心好累" },
+      { type: "link", content: "https://photos.app.goo.gl/isEA4qkjQW7rKnkYA", label: "2020年2月6日 這才是好長官" },
+      { type: "link", content: "https://photos.app.goo.gl/npL2qa3XjYNh2Cbo6", label: "2019年2月6日 這份職業 能回到家真的很好 終於回家了" },
+      { type: "link", content: "https://photos.app.goo.gl/jDhh9LsZRqqt18JK7", label: "2019年2月6日 乘風破浪" },
+      { type: "link", content: "https://photos.app.goo.gl/Ci12pFzETg23RAie9", label: "2018年2月6日 我在加護病房上班 無法請假 無法消失 無法耍馬 就這樣眼睜睜看著雪景錯過 這輩子何其幸運才能看到樹全白的合歡 工作與夢想孰輕孰重 職責罷了 唉 痛心啊 如果可以上去絕對能拍出完美神作" },
+      { type: "link", content: "https://photos.app.goo.gl/mNgeD9a1nQdsXY1k7", label: "2018年2月6日 想知道我原檔與後製之後差多少的朋友 歡迎把握時間去dcard攝影版第一篇看看唷XD 希望能靠自己的努力 將正確的 學習到的後製觀念 傳播出去" },
+      { type: "link", content: "https://photos.app.goo.gl/eAtUmSBPdU5tSnDm8", label: "2018年2月6日 城市の銀河の火燒の合成の技術精進 Taiwanese photographer 歡迎私訊合作&約拍&後製教學" }
+    ],
     "7": [
       { type: "link", content: "https://photos.app.goo.gl/92b1cTpeCLtbzZ3C9", label: "2017年2月7日 \
         控制裡男角是精神解離患者 但他說的很對 痛苦才會造就進化 才會使人純淨 曾經的單純天真固然可貴 \
