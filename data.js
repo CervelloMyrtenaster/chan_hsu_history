@@ -1844,6 +1844,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/M8Tjt3VA25xg8YvE9", label: "2026年2月6日 好圓好可愛" },
       { type: "link", content: "https://photos.app.goo.gl/7LWX84CEoJZkKgtX6", label: "2026年2月6日 小豬豬也要請求集合XDDD" },
       { type: "link", content: "https://photos.app.goo.gl/uFEiYUWD8hFfa2ny5", label: "2026年2月6日 我去打他" },
+      { type: "link", content: "https://photos.app.goo.gl/FqAMD2kT9JBQnksm7", label: "2026年2月6日 哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/HYh8qkYzsDGiJ9DcA", label: "2025年2月6日 其實不是只有護理師 第一線重症的醫師也是低薪" },
       { type: "link", content: "https://photos.app.goo.gl/anm32s3HPG7o243T6", label: "2025年2月6日 蘇蘇感冒藥" },
       { type: "link", content: "https://photos.app.goo.gl/e9Ypk8EaKLaAeGM36", label: "2025年2月6日 這個口吻也太像小林了ㄅ" },
@@ -1865,6 +1866,51 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/eAtUmSBPdU5tSnDm8", label: "2018年2月6日 城市の銀河の火燒の合成の技術精進 Taiwanese photographer 歡迎私訊合作&約拍&後製教學" }
     ],
     "7": [
+      { type: "link", content: "https://photos.app.goo.gl/jcvAwuLyggzX4iJy8", label: "2026年2月7日 路上就是有這張咖小 自己送頭還可能拖別人下水" },
+      { type: "link", content: "https://photos.app.goo.gl/egDJgtA15DRVYE9E6", label: "2026年2月7日 沒錯 就是這麼簡單" },
+      { type: "link", content: "https://photos.app.goo.gl/xZmKfgtk8XTaZ9GR6", label: "2026年2月7日 不知道真的假的 但未來如果沒有心臟科跟神經內科 有些有救的急性重症 沒人救會瞬間變成絕症而死" },
+      { type: "link", content: "https://photos.app.goo.gl/kdUwuR6cZLjS8vZHA", label: "2026年2月7日 小紅狗" },
+      { type: "link", content: "https://photos.app.goo.gl/bQ3LvqVVdiAGxfTk7", label: "2026年2月7日 這張" },
+      { type: "link", content: "https://photos.app.goo.gl/AMegXnTTtcFjhprr5", label: "2025年2月7日 台灣的人民醒醒吧" },
+      { type: "link", content: "https://photos.app.goo.gl/7JN67eRhnX29qRVM8", label: "2025年2月7日 都2025了教育對你這種民眾還是非常不友善 想必這種震驚是來自於無知跟自以為是" },
+      { type: "link", content: "https://photos.app.goo.gl/xxYFSfivByZD8RoP6", label: "2025年2月7日 這種仇醫仔思想真的很可憐 標準自己可憐還想拖別人下水的人" },
+      { type: "link", content: "https://photos.app.goo.gl/GRhetApfsATLM73F8", label: "2025年2月7日 你的醫師救了你一輩子 你真的不懂 認真不是玩笑" },
+      { type: "link", content: "https://photos.app.goo.gl/iQ6jVisnY7qomWft8", label: "2025年2月7日 前幾天看的急診CASE 當時覺得這個人病史怎麼問都怪怪的 沒想到是真的人" },
+      { type: "link", content: "https://photos.app.goo.gl/8QUruNT9gPkD1BJc9", label: "2025年2月7日 對的 很多行業都年薪百萬 而且回家後能真正把工作放下QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/uWnoL8gH3ZQQEBty8", label: "2025年2月7日 不能這麼說吧 醫師要進貨衛材跟藥品 也要好好評估是否幫助到病人 帶來更好的治療效果 外行人說是看臉色 內行人才知道是幫病人把關" },
+      { type: "link", content: "https://photos.app.goo.gl/vGhMkqSEJk6jE7j28", label: "2025年2月7日 追蹤了蝦皮購物" },
+      { type: "link", content: "https://photos.app.goo.gl/3dPkATM7zEoy4PfSA", label: "2025年2月7日 怎麼那麼可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/T1CLVeN8qfVveJzb8", label: "2024年2月7日 \
+        主旨 請資訊組解釋一下謝謝 \
+        反映意見 已經太多次了 HIS開完order之後 常常會按下存檔瞬間直接當掉 而且你們工程師也無法馬上到場 \
+        我們常常需要重開重新輸入醫囑 你們慢慢過來護理站時已經恢復 所以這次我特別截圖給你們看 請你們具體解釋或提出改善方式 \
+        每次開一堆order之後當掉 有沒有回復機制 類似progress note當機還原 請別再用爛系統浪費臨床醫師的時間" },
+      { type: "link", content: "https://photos.app.goo.gl/PHGju78YVKudKSU5A", label: "2023年2月7日 醫生為了能夠出那張嘴 從國高中開始就不知付出多少心力 犧牲了無數自由 把人生賠進去才有資格出那張嘴 說真的 應該講醫生護理師都值得比現在至少高兩倍的薪水吧" },
+      { type: "link", content: "https://photos.app.goo.gl/sF7BnwR6zLTmA5mL8", label: "2023年2月7日 \
+        祈禱傷者康復 死者安息 不過話說 紀實攝影有些人真的很厲害 總能在混亂中抓到對的構圖 \
+        光影跟表情 除了風景我也很愛紀實攝影 希望以後有機會像記者一樣 紀錄每個大事件裡不同的視角" },
+      { type: "link", content: "https://photos.app.goo.gl/UbTyKa9ZWyNKGKfg7", label: "2023年2月7日 車輛違規通知單 樹人大道 禁停紅線上停車" },
+      { type: "link", content: "https://photos.app.goo.gl/7R1oVTGWXEwLqNUL9", label: "2021年2月7日 是手機地震還是地殼地震" },
+      { type: "link", content: "https://photos.app.goo.gl/UZcm6X5p4q6LpEUe6", label: "2021年2月7日 美好的假日 有一半的時間花在看職業醫學會上課影片跟做報告" },
+      { type: "link", content: "https://photos.app.goo.gl/SQRbZjz5X29Kegwc9", label: "2021年2月7日 神奇寶貝二人組" },
+      { type: "link", content: "https://photos.app.goo.gl/4dE3b3qdb2feeTVD8", label: "2021年2月7日 請問家醫科有職醫專業的大大 塵肺症有分良性 中間型跟纖維型嗎 為了做報告查資料 但完全看不懂這麼分的原因 是因為檢查或治療會不同 還是他根本亂寫XD" },
+      { type: "link", content: "https://photos.app.goo.gl/rSmB3dYZp5jD27ym8", label: "2021年2月7日 新光&三總幫" },
+      { type: "link", content: "https://photos.app.goo.gl/9dbN3sPKsnRtReX27", label: "2021年2月7日 \
+        政府鼓勵大家去破壞環境 又醜又扯 台灣公家機關真的有八成都很爛 \
+        我說句實話 喜歡看山看海 本來就應該冒著不方便跟危險 這是應該的 大自然沒有欠人類什麼 想看美景本就應該有難度才有收穫 \
+        非常不認同政府開採跟破壞大自然 只為了讓大家方便 非常不認同" },
+      { type: "link", content: "https://photos.app.goo.gl/B8pYXHoMMog628Wk9", label: "2021年2月7日 人類想看大自然 應該去迎合大自然的樣貌 而不是改變大自然的樣貌 來迎合人類" },
+      { type: "link", content: "https://photos.app.goo.gl/SQvbAioMJbLYK9UY8", label: "2021年2月7日 想買" },
+      { type: "link", content: "https://photos.app.goo.gl/5KFAX1k98uH4gFBLA", label: "2020年2月7日 \
+        什麼叫做穿什麼衣服不要緊 就算你血氧血壓掉 意識昏迷 我也照樣要好好穿齊防護裝備 \
+        林重威醫師為了救人 沒有著保護裝備 雖然當時還不知道是SARS 結果他被傳染死了 病人家屬也沒有再來感謝弔祭過他 \
+        家屬知道林醫師是為了救你們而死的嗎 病人再重要 絕對比不上家人老婆小孩重要 這輩子要切記 好醫師有很多個 但好爸爸好老公只有一個" },
+      { type: "link", content: "https://photos.app.goo.gl/EfpGYHgm2ZYVa2K5A", label: "2019年2月7日 先來第一張 第一刮就回本 唉" },
+      { type: "link", content: "https://photos.app.goo.gl/dNBawR4i1JiNiGsV7", label: "2019年2月7日 下次刮刮樂沒錢再把你賣掉" },
+      { type: "link", content: "https://photos.app.goo.gl/e4DqqwELuVdqCAAd6", label: "2019年2月7日 小雞以後會長大變雞腿" },
+      { type: "link", content: "https://photos.app.goo.gl/ySXh74E196TvSJoo9", label: "2018年2月7日 為什麼送胸水這麼多眉眉角角 連續送胸水送到焦躁 結果就被送恆極度焦躁 值班" },
+      { type: "link", content: "https://photos.app.goo.gl/kTLFu57kM1M3vmDW9", label: "2018年2月7日 有興趣捐款可以私我 有發票 PRAYFORTAIWAN" },
+      { type: "link", content: "https://photos.app.goo.gl/v2nBTBheG4p2nNHE8", label: "2018年2月7日 願 台灣平安" },
       { type: "link", content: "https://photos.app.goo.gl/92b1cTpeCLtbzZ3C9", label: "2017年2月7日 \
         控制裡男角是精神解離患者 但他說的很對 痛苦才會造就進化 才會使人純淨 曾經的單純天真固然可貴 \
         長大後不能祈求別人真心回報 所以承受痛苦 然後走過這些必經之路 不再回頭" }
