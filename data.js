@@ -1869,6 +1869,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/jcvAwuLyggzX4iJy8", label: "2026年2月7日 路上就是有這張咖小 自己送頭還可能拖別人下水" },
       { type: "link", content: "https://photos.app.goo.gl/egDJgtA15DRVYE9E6", label: "2026年2月7日 沒錯 就是這麼簡單" },
       { type: "link", content: "https://photos.app.goo.gl/xZmKfgtk8XTaZ9GR6", label: "2026年2月7日 不知道真的假的 但未來如果沒有心臟科跟神經內科 有些有救的急性重症 沒人救會瞬間變成絕症而死" },
+      { type: "link", content: "https://photos.app.goo.gl/TFMkrPikWyzRERnQ9", label: "2026年2月7日 今晚變冷跟寒風 差點放棄跑步" },
       { type: "link", content: "https://photos.app.goo.gl/kdUwuR6cZLjS8vZHA", label: "2026年2月7日 小紅狗" },
       { type: "link", content: "https://photos.app.goo.gl/bQ3LvqVVdiAGxfTk7", label: "2026年2月7日 這張" },
       { type: "link", content: "https://photos.app.goo.gl/AMegXnTTtcFjhprr5", label: "2025年2月7日 台灣的人民醒醒吧" },
@@ -1916,6 +1917,49 @@ const records = {
         長大後不能祈求別人真心回報 所以承受痛苦 然後走過這些必經之路 不再回頭" }
     ],
     "8": [
+      { type: "link", content: "https://photos.app.goo.gl/6HL8UY4SYihcHrMq8", label: "2026年2月8日 懂個皮毛就出來說三道四 沒看過幾個病人就高談闊論 我們醫師談的是良心跟知識 你談的是搶不搶飯碗 高下立見 我們最怕的不是人蠢 而是人蠢而不自知 " },
+      { type: "link", content: "https://photos.app.goo.gl/UjtuQ1gLgjyzBJXLA", label: "2026年2月8日 不行欸 一群票那麼少的免洗筷幹嘛重視" },
+      { type: "link", content: "https://photos.app.goo.gl/ui12zmPwdYYiPbMB7", label: "2026年2月8日 感謝奶綠 選愛麗絲來玩的都底層 洗自己數據 送隊友人頭" },
+      { type: "link", content: "", label: "2026年2月8日 認真覺得如果要唸 就直接看他的圖表 有圖表代表重要的 但絕對唸不完的 不如直接去寫題目之類的 遇到不會的回頭讀那個單元 丟gpt翻譯最快" },
+      { type: "link", content: "https://photos.app.goo.gl/tshd1gmuN6usJfUK8", label: "2026年2月8日 住院醫師 月薪十萬初頭 去日本住膠囊旅館省錢 超省錢" },
+      { type: "link", content: "https://photos.app.goo.gl/vDZpf9CWWcGY93TD7", label: "2026年2月8日 對不起嘛 以後不敢了" },
+      { type: "link", content: "https://photos.app.goo.gl/TkyX8ujZr1cqiprd9", label: "2026年2月8日 感謝常常分享友善時光給我們 我們值班一天100元 光吃個晚餐值班就虧到吃自己 還有有您拯救窮苦的醫師" },
+      { type: "link", content: "https://photos.app.goo.gl/unHva6sKRKzEnXCN6", label: "2026年2月8日 \
+        陪一起 看完陽光女子合唱團 真的是難得很棒的台灣電影 超推 我也順便回頭去看了翻拍的原片 美麗的聲音 \
+        我只能說如果看完陽光合唱團會哭的 千萬別去看美麗的聲音 原片不只情節更順暢合理 結尾遠比台灣改版的更虐心 \
+        大概會被眼淚淹死的程度 韓國電影到底為啥這麼強 這種寫實題材可以拍到好成這樣" },
+      { type: "link", content: "https://photos.app.goo.gl/L662b3vLyztgnXer6", label: "2026年2月8日 今日東區小戰利品" },
+      { type: "link", content: "https://photos.app.goo.gl/KoXtPTEJTVEwyJyY6", label: "2026年2月8日 回家整理了一下我跟的部分小收藏" },
+      { type: "link", content: "https://photos.app.goo.gl/abDZfUhtfENW26256", label: "2026年2月8日 我喜歡閃電俠這版本" },
+      { type: "link", content: "https://photos.app.goo.gl/jP1mx8xVhbi2dX778", label: "2026年2月8日 從小就可以當醫師了" },
+      { type: "link", content: "https://photos.app.goo.gl/oVyZPBbUn2HboWYN7", label: "2026年2月8日 我會記得" },
+      { type: "link", content: "https://photos.app.goo.gl/3NmDakpwj1BQqmRy7", label: "2026年2月8日 傻眼 居然還有這種事情= =" },
+      { type: "link", content: "https://photos.app.goo.gl/2BpDzAvmdoyReUhM7", label: "2025年2月8日 這個心臟科醫師很厲害但很可憐 故事有點難過 希望不要為了工作迷失自己" },
+      { type: "link", content: "https://photos.app.goo.gl/MhjE2Z1qYfUHktKY8", label: "2025年2月8日 還好" },
+      { type: "link", content: "https://photos.app.goo.gl/iAoxoD6y5be5ubXq6", label: "2025年2月8日 看他們穿的像是水中溫度-10度哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/GqjghcSb5aohwhRbA", label: "2024年2月8日 過年買年貨巧遇霸道總柴的財經筆記 仰慕許久的操盤手之一 但我心臟太小只敢all in 0050跟金融股 現在慢慢學習他們的筆記應該還不晚吧" },
+      { type: "link", content: "https://photos.app.goo.gl/kgJ29fY5A6qHJKGaA", label: "2024年2月8日 \
+        第一次的懶人露營 這一年會非常辛苦 但也會決定許多人生的大事 感謝身邊的朋友 及她的家人給我的支持 \
+        不求大富大貴 只希望身體能健康 能好好運動跟上班就好 新年快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/RC7cPmWRiW44uAxm7", label: "2024年2月8日 \
+        平等院的寧靜 2023年是幸福的一年 跟tw.jhan_1107一起去了日本 印尼跟越南 而平等院跟勝尾寺 是我記憶中最美的兩個地方 \
+        而背景的這首歌 也是我們當時意外找到最搭配 最喜歡的歌 出國旅遊對大家來說可能是每年習以為常的行程 但我的工作在多數時間卻不允許 \
+        所以顯得格外珍惜 2024祝福大家 新年快樂 新春如意 龍心大悅" },
+      { type: "link", content: "https://photos.app.goo.gl/no15GV2kSLYV7VbR9", label: "2022年2月8日 本月任務 前線病毒篩檢員" },
+      { type: "link", content: "https://photos.app.goo.gl/b4uVWfacSt9dE8pe8", label: "2022年2月8日 這我買過最小的腳架 比想像小太多" },
+      { type: "link", content: "https://photos.app.goo.gl/fRFVvCVpd9jutCfG9", label: "2020年2月8日 回醫院前來拍個照紀念" },
+      { type: "link", content: "https://photos.app.goo.gl/6SNq4fQmuQdBLprQ7", label: "2020年2月8日 拍起來 找朋友拍照就是不會尷尬" },
+      { type: "link", content: "https://photos.app.goo.gl/QCB9HeN9RNRcVKrt9", label: "2020年2月8日 鹿耳門煙火真的是讚讚" },
+      { type: "link", content: "https://photos.app.goo.gl/ffcH9pHXMQUyWPHk8", label: "2018年2月8日 棒棒的 上課時間到還是得擠Ambu 等MRI" },
+      { type: "link", content: "https://photos.app.goo.gl/1ivrvysJzvNuBgS76", label: "2018年2月8日 順利下課囉 擠擠擠擠擠樂" },
+      { type: "link", content: "https://photos.app.goo.gl/AYzDQAjUDK1pGoNu8", label: "2018年2月8日 AVOCADO數位微噴輸出 明信片製作ing 不會讓各位失望的品質 歡迎邀請想看世界各地風景夜景的朋友追蹤我 每張都是我嘔心瀝血 Po圖作品絕不馬虎XD 未來也會持續有明信片等其他獎品抽獎" },
+      { type: "link", content: "https://photos.app.goo.gl/VJnh1Dk3ZPjH1bdA8", label: "2018年2月8日 開始人工裁切" },
+      { type: "link", content: "https://photos.app.goo.gl/gmVXmhLasJnzEygBA", label: "2018年2月8日 呼 無論後製或者輸出 都要給到最好 敬請期待 有種生出自己小孩的愉悅感" },
+      { type: "link", content: "https://photos.app.goo.gl/2Y4WcZiw82Fp3uKy5", label: "2018年2月8日 哪種憑感覺比較喜歡 歡迎告訴我理由唷 我自己也不知道哪種好 黑白 彩色" },
+      { type: "link", content: "https://photos.app.goo.gl/uKPqtT9ZJz198BR46", label: "2018年2月8日 \
+        完工 明天寄出 有特別要求的也沒有忘記 來說說為何我選成本這麼貴的avocado好了 因為他們最大的特色不只印刷質感好 \
+        顏色表現搶眼才是主因 基本上近100%還原你照片的顏色 沒有色偏更完全沒有畫質降低 當然因為貴 我不好意思賣 一張成本約30台幣 \
+        所以就只能送囉 其中有位vip拿四張 就不說誰了哈哈 不在本次抽獎參與者裡面" },
       { type: "link", content: "https://photos.app.goo.gl/Hw9Txqg8smsSeBga6", label: "2017年2月8日 外科の日常" }
     ],
     "9": [],
