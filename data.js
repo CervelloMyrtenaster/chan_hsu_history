@@ -1934,6 +1934,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/jP1mx8xVhbi2dX778", label: "2026年2月8日 從小就可以當醫師了" },
       { type: "link", content: "https://photos.app.goo.gl/oVyZPBbUn2HboWYN7", label: "2026年2月8日 我會記得" },
       { type: "link", content: "https://photos.app.goo.gl/3NmDakpwj1BQqmRy7", label: "2026年2月8日 傻眼 居然還有這種事情= =" },
+      { type: "link", content: "https://photos.app.goo.gl/bdqLfg5cGKd2eUSr9", label: "2026年2月8日 寫的很好欸" },
       { type: "link", content: "https://photos.app.goo.gl/2BpDzAvmdoyReUhM7", label: "2025年2月8日 這個心臟科醫師很厲害但很可憐 故事有點難過 希望不要為了工作迷失自己" },
       { type: "link", content: "https://photos.app.goo.gl/MhjE2Z1qYfUHktKY8", label: "2025年2月8日 還好" },
       { type: "link", content: "https://photos.app.goo.gl/iAoxoD6y5be5ubXq6", label: "2025年2月8日 看他們穿的像是水中溫度-10度哈哈哈" },
@@ -1962,8 +1963,89 @@ const records = {
         所以就只能送囉 其中有位vip拿四張 就不說誰了哈哈 不在本次抽獎參與者裡面" },
       { type: "link", content: "https://photos.app.goo.gl/Hw9Txqg8smsSeBga6", label: "2017年2月8日 外科の日常" }
     ],
-    "9": [],
-    "10": [],
+    "9": [
+      { type: "link", content: "https://photos.app.goo.gl/pJM4ozywZ3LFsC717", label: "2026年2月9日 這個社團太厲害了又學到一課 新的RBBB產生跟LAD堵塞有關 如果是ACS的狀況 剛剛查了paper真的有寫到" },
+      { type: "link", content: "https://photos.app.goo.gl/QjQX3gFtFhYzYNGn9", label: "2026年2月9日 叫阿布的都超可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/NwxX7mdWCcRkBzdZ6", label: "2025年2月9日 我會留下最後一張不會用完啦" },
+      { type: "link", content: "https://photos.app.goo.gl/U3sViGrt7v3ADgf9A", label: "2025年2月9日 超噁" },
+      { type: "link", content: "https://photos.app.goo.gl/VkgHXM4QF4rhafay8", label: "2025年2月9日 這個劇情進展終於有點來到尾聲的感覺了" },
+      { type: "link", content: "https://photos.app.goo.gl/61XmV3CRmnCMtpTMA", label: "2025年2月9日 四點半做完導管 早上睡了一下 一定要起來參加CHENPOHUANG的世紀大婚禮 民診計畫大成功" },
+      { type: "link", content: "https://photos.app.goo.gl/eN9oxzoHHHwcoB7H9", label: "2025年2月9日 他一定罵了髒話哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/NReyLZrKGvG5jxL57", label: "2023年2月9日 台中的狗狗加油" },
+      { type: "link", content: "https://photos.app.goo.gl/LebyDrmmfMV3PMzA7", label: "2023年2月9日 面對住院醫師 creatinine多少 好好好那meropem 1G Q12H" },
+      { type: "link", content: "https://photos.app.goo.gl/o1HLaTeqJAmXmNk68", label: "2022年2月9日 \
+        十八歲成年的話 我希望能在高中三年級的課程裡加上一些 成年人必備社會常識課程 譬如怎麼租房買房 怎麼開銀行帳戶 \
+        貸款是怎麼回事 信用卡該怎麼使用 納稅養老金社會保險 行政服務辦理等等 這樣每周上兩次課 教六個月還差不多 \
+        身為一個畢業後經濟完全獨立 白手奮鬥的人 認真贊同 這個時代沒有上一輩的祖產 根本買不起房 \
+        除了期待通膨下少到不行的薪水 更需要知道社會如何運作 才不會剛出社會就被殺爆 學社會經歷比背文言文跟數學少見公式重要多了" },
+      { type: "link", content: "https://photos.app.goo.gl/UTCRyLRAQ6Ji4GBC6", label: "2021年2月9日 這次沒簡訊" },
+      { type: "link", content: "https://photos.app.goo.gl/fHerdALEsPxH5aB96", label: "2019年2月9日 \
+        茶六燒肉堂 茶六真的太誇張了 已經不是大勝屋馬跟紅曹而是根本不同層次 屋馬跟紅曹的鴨胸跟松阪豬硬到嫑嫑的 \
+        茶六是我第一間吃到會融化在口中 差太多了 以後非茶六不選 好吃程度驚為天人 勝紅曹跟屋馬" },
+      { type: "link", content: "https://photos.app.goo.gl/7g3Jb2TKU5Rx11Lm6", label: "2019年2月9日 再來 又打平" },
+      { type: "link", content: "https://photos.app.goo.gl/HZaaek5rr4k65DYL6", label: "2018年2月9日 感謝各位對我作品的支持 已全數寄出 預計下禮拜一到三之間收到" },
+      { type: "link", content: "https://photos.app.goo.gl/iU7S6dYLduxiNJUa6", label: "2018年2月9日 \
+        昨天各位踴躍投票 黑白以26%佔下風 經過跟許多網友討論想法 我來分享自己的看法吧 \
+        我覺得黑白照片最重要的是光影跟線條 這張我刻意讓天空稍微過曝 可以凸顯照片主角 我自己 \
+        在利用LM製造地景光影 不過敗在天空雲彩並沒有好的線條 假如雲能長曝成一絲一絲 \
+        左下往右上延伸就完美了 因此我自己還是投彩色一票" },
+      { type: "link", content: "https://photos.app.goo.gl/ELD2CXT8Sw2PCERc7", label: "2018年2月9日 \
+        汐止區綜合運動場 3樓遊戲場 Colorful Taipei 我很難想像 半年後即將無法每天發照片的日子 \
+        甚至平均一個禮拜只能一張 有時候你很後悔為什麼身在沒有自由的環境 有時候你會思考當初為甚麼下這個決定 \
+        沒有為什麼 當年太淺了 只有走過時間才知道什麼是代價 什麼是收穫 我從不相信來生 只有這輩子活得好才是自己的 \
+        而這個好 每個人追求的不同 對於金錢與名利我沒半點興趣 只有能用雙腳跟相機 走遍世界的美景我才甘心 \
+        於是面對未知的未來 就是逆來順受 尋找上天為我開的小小窗口 期待在解脫束縛的過程 能有享受生命真諦的機會" }
+    ],
+    "10": [
+      { type: "link", content: "https://photos.app.goo.gl/jycF7xQZVoCjC43w6", label: "2026年2月10日 看起來可能又是精神病" },
+      { type: "link", content: "https://photos.app.goo.gl/chsT5NYRjpL1WSqeA", label: "2026年2月10日 可愛小白鹿" },
+      { type: "link", content: "https://photos.app.goo.gl/6NFHQNTZKXbUxCmaA", label: "2025年2月10日 幸好我們從來不會吵架~" },
+      { type: "link", content: "https://photos.app.goo.gl/HbVBQkbxmqGoswNQ6", label: "2025年2月10日 真的是模範爸爸" },
+      { type: "link", content: "https://photos.app.goo.gl/NnGNbGgrt2u5rPrRA", label: "2025年2月10日 好辛苦 之前我背過好幾次99一二線都沒響過" },
+      { type: "link", content: "https://photos.app.goo.gl/PAJ44RoJjDRN7jor7", label: "2025年2月10日 哈哈哈 可以啦 但男生很常沒聽過" },
+      { type: "link", content: "https://photos.app.goo.gl/eSg2fEH4EcFfJ6GZ6", label: "2025年2月10日 這樣好痛苦其實XD" },
+      { type: "link", content: "https://photos.app.goo.gl/QibdTpZKEjaJwuts9", label: "2025年2月10日 超美" },
+      { type: "link", content: "https://photos.app.goo.gl/4BWWQeeABwemKhTH8", label: "2025年2月10日 請指導" },
+      { type: "link", content: "https://photos.app.goo.gl/6A1RGBHGQhgHcjVq6", label: "2025年2月10日 沒必要為了工作這樣犧牲 支持護理師反抗醫院 也支持台灣醫師站出來反抗" },
+      { type: "link", content: "https://photos.app.goo.gl/p62p6g33T75jABCUA", label: "2025年2月10日 支持+1" },
+      { type: "link", content: "https://photos.app.goo.gl/aV7rW5px1oF84w1k8", label: "2023年2月10日 徵14-30 有大大願意割愛私我 盒單齊全 公水不拘 不可有損壞跟入塵 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/q77pSFnZpU1uAMMY7", label: "2022年2月10日 第一次兩次直接猜中" },
+      { type: "link", content: "https://photos.app.goo.gl/YjVFAFkXcDdizBvS7", label: "2020年2月10日 出一張嘴 死的都是醫護人員 如果你不懂保護台灣珍貴的醫療資源 就滾出台灣" },
+      { type: "link", content: "https://photos.app.goo.gl/BGrWUXT5PPyKTqi19", label: "2020年2月10日 這波冷氣團真的冷 跑舒服的速度最快就這樣 再快就會開始喉嚨不舒服喘" },
+      { type: "link", content: "https://photos.app.goo.gl/V7xusugUKNvqb9Er8", label: "2019年2月10日 以同價位來說 茶六在台灣真的沒對手 原因我詳述在貼文了 真心大推 其他家燒肉自此不再是選擇 茶六真的是極品中的極品啊" },
+      { type: "link", content: "https://photos.app.goo.gl/CZgd3U6gWZYB4FGj7", label: "2019年2月10日 \
+        真心好奇 自己吃過乾杯屋馬紅曹不只一次 鴨胸肉跟松阪豬真的硬到不行 一直咬都沒味道 最後都丟掉 但茶六在這兩項真的完勝 \
+        我覺得最難處理的肉品才能顯示該餐廳的厲害之處 所以才第一次就愛上茶六 有推薦比茶六更好的燒肉店嗎 同價位" },
+      { type: "link", content: "https://photos.app.goo.gl/iovoHkT9fg5xhom17", label: "2019年2月10日 \
+        謝謝大家厚愛 我稍微說明一下 這個專頁是因為我常常忘記自己吃了什麼好料 每當別人問起總是連店名都忘記 \
+        所以善用哀居功能幫助自己記憶啦 是有多老 我也發現很少有美食粉專用精選分類 加上他們長篇大論看了很煩 \
+        也不知道哪幾篇是業配不是真的好吃 所以決定自己走訪自己紀錄 這裡不會有任何業配跟盈利 單純簡潔明瞭的紀錄 \
+        而且主觀的把店家分等級做比較 也歡迎大家告訴我哪裡好吃好喝的讓我紀錄囉" },
+      { type: "link", content: "https://photos.app.goo.gl/rArRY3PBDeS8oQz97", label: "2019年2月10日 雖然不想承認但真的我常常忘記人名 店名 品牌名這類東西 但是科學類的我就忘不掉 像是垮克有上下魅奇頂底六種 請忽略錯字" },
+      { type: "link", content: "https://photos.app.goo.gl/kfVaaJGQbLX5Estm6", label: "2019年2月10日 其實肉眼常常看不到五彩繽紛的星空 靠著後製強調遠方的光害 才有辦法拍出這樣的星空" },
+      { type: "link", content: "https://photos.app.goo.gl/6ss7vCzDsMR3b9To6", label: "2019年2月10日 拍攝時 我不會用黑卡跟縫卡 包圍曝光能讓我更精準的控制曝光" },
+      { type: "link", content: "https://photos.app.goo.gl/DqFKvTxfxF42CTYG7", label: "2018年2月10日 \
+        下個月俺在台中實習 請問有朋友願意開車載我去金龍拍日出嗎 夢想出景但每次都龜 願意分油錢 也願意用小小後製技巧交換 \
+        想拍中部名單 金龍雲海日出 日月潭銀河 合歡山銀河 九份二山 或者推薦台中風景點" },
+      { type: "link", content: "https://photos.app.goo.gl/u97kr9HXHP5q1Fhs8", label: "2018年2月10日 我放棄說服別人了 搞得自己傷痕累累 我把想法整理在動態 無論您認同我的雞掰我的 都歡迎去看看 沒有什麼情緒字眼 也沒有技術教學 只有我想好的比喻哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/Ti3VzLj3WuCWr7Na9", label: "2018年2月10日 我曾經以為後製就像化妝 在照片上塗塗抹抹 刪除甚至合成東西上去 不過 這不對的哈 我這麼說吧" },
+      { type: "link", content: "https://photos.app.goo.gl/8BKzzenEZxBPmU1y9", label: "2018年2月10日 \
+        後製主要把照片本該有的東西表現出來而已 例如肉眼看很清楚的斜射光 相機拍出來卻不明顯 所以我們拉細節把光線呈現出來 \
+        後製像是雕刻一塊木 在心中該對這塊木先有想法 例如同一塊長木 有人想雕人臉上去 有人想調狗臉上去 \
+        同樣拍攝之前你也會有想法 你預期這裡該是陰天色調 你預期這裡該是充滿陽光 你預期這裡該是霧氣瀰濛 你預期照片該是憂鬱或炸裂 \
+        但原本不存在的你拉不出來 原本不適合的加上去會衝突 所以後製考驗你的功力 功力好的人 代表你看的照片多 熟最重要是有能力表現想法在畫面 \
+        但別忘了 前置拍攝也很重要 後製只能改變光線 卻無法改變構圖 而你沒拍到就是沒有 別用照片是主觀的美來阻止了自己不下功夫學習 \
+        也別只靠朋友分享衝追蹤數 而是努力學習 用照片的真功夫 給追蹤者最用心最完美的作品來增加自己的人氣吧 共勉之" },
+      { type: "link", content: "https://photos.app.goo.gl/ZeqUJHjZ3EVoHiMfA", label: "2018年2月10日 \
+        現實狀況是 相機拍不出該地的真實 所以我們需要後製 我會告訴我的朋友 你去到該地遇到天氣極好 也許你能看到比相片美的地方 \
+        如果天氣不好 也許什麼都看不到 再說我的相片只是強調我認為的美 去那個目的不只是看風景 更是享受旅途的一切過程 如路程風景美食陪伴的人等 \
+        到某目的只為了看跟我相片一樣景的朋友 我會勸他別去 沒有景會一樣 都是獨一無二 創作美麗畫面個人有個人喜好 我也會畫畫 \
+        但我就喜歡用相機用後製去製作 沒有為什麼 吃白果很正常 我接受吃白果 多次白果後的美景 當下的感動也是我追求的 我的想法啦哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/Qr2CLNn8ZHN7dYFm9", label: "2018年2月10日 \
+        我覺得追求後製還是要很明白一件事情 就是自己心目中在拍攝該地前 就要有構想畫面 而達成這個構想 或者捕獲沒想到的景 \
+        這個成就感是我學習後製的動力 喔喔 懂意思哈哈哈 我覺得你講的點很好 介意我截圖放限時給大家看嗎 tag你" },
+      { type: "link", content: "https://photos.app.goo.gl/Vo44piRK7gNk7dzF8", label: "2018年2月10日 各位想試試我的照片富手機桌布嗎 來我用 去不要" }
+    ],
     "11": [],
     "12": [
       { type: "link", content: "https://photos.app.goo.gl/VuwqUMG4uRyF5hAr7", label: "2017年2月12日 來教會活動 first time" }
