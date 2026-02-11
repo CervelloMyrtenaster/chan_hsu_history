@@ -2046,7 +2046,62 @@ const records = {
         這個成就感是我學習後製的動力 喔喔 懂意思哈哈哈 我覺得你講的點很好 介意我截圖放限時給大家看嗎 tag你" },
       { type: "link", content: "https://photos.app.goo.gl/Vo44piRK7gNk7dzF8", label: "2018年2月10日 各位想試試我的照片富手機桌布嗎 來我用 去不要" }
     ],
-    "11": [],
+    "11": [
+      { type: "link", content: "https://photos.app.goo.gl/mgT3MZnNJnNoGA8Y8", label: "2026年2月11日 bkz199309早上好心幫我架腳架 結果不知怎用到解體了QQ 有生之年我真的沒想過這麼粗勇的腳架可以解體 都陪我征戰十年沒壞過了 過年前直接破費買新腳架了XD" },
+      { type: "link", content: "https://photos.app.goo.gl/GZwBigd9LnLsg9KM7", label: "2026年2月11日 直接買了新一代的 看起來還不錯 希望他更粗勇" },
+      { type: "link", content: "https://photos.app.goo.gl/9Y2NukY4C237RKRr5", label: "2026年2月11日 好可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/inzF68bYhQomYC8H8", label: "2026年2月11日 這個報導是誇大騙人的 一律只信FDA的消息" },
+      { type: "link", content: "https://photos.app.goo.gl/cEA9aFTWZE6PjHiG6", label: "2026年2月11日 哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/qGYeQTQmMNw4Z59q6", label: "2025年2月11日 心靈課程就是垃圾啊 裡面一堆自己心靈也不健全的騙子 把他們那些老師丟進蛙人訓看有幾個人撐得過三天" },
+      { type: "link", content: "https://photos.app.goo.gl/WHKeQr52y29w7ZBRA", label: "2025年2月11日 \
+        加油 心臟內科真的是超級高難度的科 不只訓練辛苦考試還超難 要有內科的頭腦 還要有外科的手巧 \
+        更要有一直接受會診 急救 急導管等各種考驗耐心體力的活 真心祝福您先生康復 造福更多病患" },
+      { type: "link", content: "https://photos.app.goo.gl/cuUrF8t1C6ryM62h7", label: "2025年2月11日 \
+        內湖金面山 只要天氣好 台北有很多地方能看漂亮的101風景 至少超過十個地點的夕陽跟夜景都不錯 \
+        這次推一下內湖金面山 騎車或捷運交通方便 也能有氧健走跟小攀岩訓練心肺 能見度好的時候 \
+        還能看到松山機場起飛的飛機 沒有後製 就真的看得很清楚XD" },
+      { type: "link", content: "https://photos.app.goo.gl/Sk1VFxKFQwJv3W3a6", label: "2025年2月11日 賺錢啊不然你請我們吃飯哦" },
+      { type: "link", content: "https://photos.app.goo.gl/ymZC8sm172QJNMwM8", label: "2025年2月11日 \
+        鹿耳門煙火 我想 我還需要多一點的時間 陪你上山下海走到世界的每個鏡頭 鹿耳門 鹿耳門聖母廟 鹿耳門煙火 鹿耳門高空煙火\
+        如果一定要選一個台灣最美的煙火 那應該就是正統鹿耳門了 鹿耳門煙火很適合人像搭配" },
+      { type: "link", content: "https://photos.app.goo.gl/pVELjdPX5jwGfJ5J8", label: "2025年2月11日 人比智齒正" },
+      { type: "link", content: "https://photos.app.goo.gl/xPatybUHcSCU8ern6", label: "2025年2月11日 可惡我明明認真追完只有拿40分 裡面還有陷阱題要小心啊" },
+      { type: "link", content: "https://photos.app.goo.gl/uPJ7WTi3onPvhy9M7", label: "2025年2月11日 對 我沒睡飽的話在心導管中也會飄起來 主治會傻眼" },
+      { type: "link", content: "https://photos.app.goo.gl/mSgr5qF3VGgoSvov9", label: "2025年2月11日 超好抗" },
+      { type: "link", content: "https://photos.app.goo.gl/umhZ55af8yd8JMRM9", label: "2025年2月11日 原來如此" },
+      { type: "link", content: "https://photos.app.goo.gl/23gJZySs8JERdQacA", label: "2024年2月11日 我也很棒嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/D6mdUDkbaQhRUdc9A", label: "2023年2月11日 因決定將兩人系統都更換為純Z系列 故出售很少用的nikon鏡頭 粉絲朋友三樣一起帶10000元 如果有需要或覺得價格有問題可私我" },
+      { type: "link", content: "https://photos.app.goo.gl/GusKLS7wuPULvsxV8", label: "2023年2月11日 請問有大大願意割愛的嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/MdQF4msxBpVcanH79", label: "2023年2月11日 想對別人的車幹嘛" },
+      { type: "link", content: "https://photos.app.goo.gl/BdkyTsjQKoKEnzEm8", label: "2022年2月11日 \
+        疫情以來 規定版本一直變 各種類似名詞交替出現跟消失 甚至新聞還報導台北市跟中央有不同 \
+        真的很害怕跟民眾傳遞錯誤訊息 會影響工作跟生活 花了一些時間研究 什麼時候科技可以進步到 即時統一跟扼要的把最新最正確的資訊傳達給全民" },
+      { type: "link", content: "https://photos.app.goo.gl/UHUmgWv5HEBHSzcA9", label: "2022年2月11日 必看XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/HLL1KnoZZQuksQtN6", label: "2021年2月11日 原來日本的布丁下面有開關 打開之後布丁才會掉下來 去那麼多次日本都沒發現" },
+      { type: "link", content: "https://photos.app.goo.gl/nmpkiqeq7xCysyp16", label: "2021年2月11日 \
+        新年快樂 還請多支持 新年快樂之天元宮殘櫻 沒跟上今年的花季 希望以後還有機會 \
+        新的一年 即將進入黃金賣肝十年 但工作即使再忙 也要把還沒燃盡的熱情點燃攝影的心 \
+        即使慢慢的出圖 也要帶動每一位粉絲朋友對攝影的喜歡 最後祝大家 牛年快樂 股市薪水齊漲 身體越來越健康囉" },
+      { type: "link", content: "https://photos.app.goo.gl/1Gr5NeEaM7qSQhe26", label: "2020年2月11日 明明我是來用抽到的一個月免費會員 卻一直問我要不要請教練 感覺非常差" },
+      { type: "link", content: "https://photos.app.goo.gl/P5MtLmLSeY55xhqu6", label: "2020年2月11日 我沒有那麼憤怒過 晚點再分享 好不容易吵到今晚免費使用 不會再來了 然後我一定會客訴你們 world gym 太誇張到不行 威脅 利誘 逼迫樣樣都來 當我第一天出社會" },
+      { type: "link", content: "https://photos.app.goo.gl/LcVtVDfNvmgDqc1f6", label: "2020年2月11日 我就是為了這台機器過來的 也是為了通過正手單槓四下" },
+      { type: "link", content: "https://photos.app.goo.gl/ixDzbvuPMXrbTFa29", label: "2020年2月11日 默默1.4萬了 對攝影人來說 粉絲增加的目的 是為了讓自己作品的意念能傳達給更多的人 也是為了將想法拋磚引玉 啟發更多的創作者" },
+      { type: "link", content: "https://photos.app.goo.gl/K2GNXzmFcrkrDHSi9", label: "2019年2月11日 護理師醫生比他們更血汗 也應該罷工" },
+      { type: "link", content: "https://photos.app.goo.gl/2pEdX9t7hXmNnQJT6", label: "2019年2月11日 有人猜的到這個古董是做什麼用的嗎 大概50歲以上的父母輩才知道" },
+      { type: "link", content: "https://photos.app.goo.gl/UvcJE3EA97VbD4uaA", label: "2019年2月11日 答案是削鉛筆刀 我還問了該不會那時候小學生人手一支吧 結果居然是的 大家也可以問問爸媽那是什麼" },
+      { type: "link", content: "https://photos.app.goo.gl/ToMoCi72eD6didSx5", label: "2019年2月11日 這位朋友 不要這樣喔" },
+      { type: "link", content: "https://photos.app.goo.gl/FFAe2owUPLLkR5Bm7", label: "2019年2月11日 被整理之後版面乾淨很多" },
+      { type: "link", content: "https://photos.app.goo.gl/E1ST1xiRfKdQSFmU7", label: "2019年2月11日 月世界地景公園 這裡真的是能好好開發 不論是夕陽還是日出 都能有獨特的作品 不過我是沒有時間了 有興趣的朋友可以來拍看看 " },
+      { type: "link", content: "https://photos.app.goo.gl/pChQxetaNdVj2YNX6", label: "2019年2月11日 隙頂二延平步道 少了雲海但也少了許多卡位的腳架 也罷 寧願沒有太多人複製當天自己所見 即使沒有完美大景 也要用自己的觀察與後製 拍攝不同層次的風景" },
+      { type: "link", content: "https://photos.app.goo.gl/AJuuSVaxZLKCXpmM7", label: "2018年2月11日 \
+        里程碑的紀錄 還記得兩三年多以前 自己沈迷婚禮拍攝 跟陳奕宏花錢去聽香港CM Leung的講座 然後視keda.z為偶像 \
+        然後有林於政David Mee Da Yuan Zheng的加入一起研究 拍攝各種活動 什麼婚禮婚紗學校活動還有抓朋友妹子來拍照 \
+        當然donfer也是那時我們的偶像 雖說過了很久 已經不在狂熱婚紗攝影 但Donfer Lu一直是我自己婚紗的首選攝影師 \
+        更完全沒想過有天被他邀請分享 東法老師不只親切而且謙虛 更是大師風範 可以說是人生值得紀念的事情 也不枉自己不斷研究後製了XD \
+        在多數的人生中 夢想會因為工作與環境壓力而被消滅 而這輩子只走一遭 我希望自己不被現實所敗 仍能慢慢完成攝影的夢想" },
+      { type: "link", content: "https://photos.app.goo.gl/BB78kj72XEYRkS769", label: "2018年2月11日 神屌 今天有個大任務" },
+      { type: "link", content: "https://photos.app.goo.gl/CHkN7Yw9VRVmNTtC7", label: "2018年2月11日 能夠被台灣燈神邀請 分享 聊後製 這大概是我入生的里程碑吧 東法人真的很好又謙虛 超推他的海外婚紗哈哈 未來我的婚禮跟婚紗拍攝就交給您了" }
+    ],
     "12": [
       { type: "link", content: "https://photos.app.goo.gl/VuwqUMG4uRyF5hAr7", label: "2017年2月12日 來教會活動 first time" }
     ],
@@ -2209,8 +2264,7 @@ const records = {
     ],
     "17": [
       { type: "link", content: "https://photos.app.goo.gl/gbnhvhtg9vdduPoU6", label: "2017年4月17日 國防醫學院 醫學系 攝影街舞是我的生活 做人不要靠嘴 也不要用嘴巴認識人 做自己 活得開心 不斷求進步" },
-      { type: "link", content: "https://photos.app.goo.gl/1oBmNre3VExprDdd7", label: "2017年4月17日 愛玩就爛一輩子活該 當然不可接受" },
-      { type: "link", content: "https://photos.app.goo.gl/piYWLwCRQufqTx3B8", label: "2016年4月17日 搭公車前往謝師宴" }
+      { type: "link", content: "https://photos.app.goo.gl/1oBmNre3VExprDdd7", label: "2017年4月17日 愛玩就爛一輩子活該 當然不可接受" }
     ],
     "18": [],
     "19": [],
