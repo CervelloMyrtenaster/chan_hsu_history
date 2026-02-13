@@ -2103,6 +2103,12 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/CHkN7Yw9VRVmNTtC7", label: "2018年2月11日 能夠被台灣燈神邀請 分享 聊後製 這大概是我入生的里程碑吧 東法人真的很好又謙虛 超推他的海外婚紗哈哈 未來我的婚禮跟婚紗拍攝就交給您了" }
     ],
     "12": [
+      { type: "link", content: "https://photos.app.goo.gl/7ExMQTU9WpK6mNZd9", label: "2026年2月12日 第一線重症科別的醫療人員才值得這種年終 可惜永遠不會有" },
+      { type: "link", content: "https://photos.app.goo.gl/jSAtkj3LBYc2UCyZ7", label: "2026年2月12日 心臟專科考試 還沒考就已經感受到極端痛苦跟無望感" },
+      { type: "link", content: "https://photos.app.goo.gl/HRLSP7idEHBKTffu9", label: "2026年2月12日 怎麼那麼厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/cu54MeMPs5AihvsZ8", label: "2026年2月12日 超可愛 跟粽子一樣綁再一起欸" },
+      { type: "link", content: "https://photos.app.goo.gl/gNXQTJCzKL24yryp6", label: "2026年2月12日 從小就見識到大人的世界XD" },
+      { type: "link", content: "https://photos.app.goo.gl/r83N31mPaykBL6XD7", label: "2026年2月12日 好笑嗎Chatgpt5.2 居然叫我去肉身去停車場卡位排隊 還用掩飾尷尬" },
       { type: "link", content: "https://photos.app.goo.gl/Nzq6pBrZBvrdpunV7", label: "2026年2月12日 太可愛了 那就只好先幫他把這個職缺保留好" },
       { type: "link", content: "https://photos.app.goo.gl/9b5bL4muYpgxeSSU8", label: "2026年2月12日 怎麼跟妳側臉這麼像" },
       { type: "link", content: "https://photos.app.goo.gl/n4X3jG5jDbazoC7v9", label: "2024年2月12日 居然在過年就收到兩個月後的生日禮物 實在又驚訝又開心" },
@@ -2155,6 +2161,10 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/VuwqUMG4uRyF5hAr7", label: "2017年2月12日 來教會活動 first time" }
     ],
     "13": [
+      { type: "link", content: "https://photos.app.goo.gl/6ivXTN9zW211aeZg9", label: "2026年2月13日 Clerk才有時間整天打扮自己下班把妹 真正在臨床上救人的一線醫師根本連睡覺吃飯都快顧不了" },
+      { type: "link", content: "https://photos.app.goo.gl/NKXVJzqNBHKafsR89", label: "2026年2月13日 如果這樣做就會有洗分工作室在隊裡排一個扣星帳號 如果贏不了就故意掛機讓要上分的帳號扣不到星" },
+      { type: "link", content: "https://photos.app.goo.gl/UZBBosM7qkfsJQg27", label: "2026年2月13日 笑死 嗆爛" },
+      { type: "link", content: "https://photos.app.goo.gl/bBMGebaT6ZeiNRmMA", label: "2026年2月13日 太扯了" },      
       { type: "link", content: "https://photos.app.goo.gl/cpSNA9GXcbJFZJ9bA", label: "2025年2月13日 幹 這種中配的都丟進台灣海峽讓他們游回中國看病好嗎 外國人憑什麼用台灣醫療資源啊" },
       { type: "link", content: "https://photos.app.goo.gl/z3BsGFitLasxodwt8", label: "2025年2月13日 孫生什麼咖小 自己圈子亂以為全天下跟他一樣喔 幸好從來不會追蹤跟風這種網紅" },
       { type: "link", content: "https://photos.app.goo.gl/o7GuMpxCnd7u1mcR7", label: "2025年2月13日 Steam Pop SP 感謝老師安排及廠商示範 紀錄一下心臟電生理過程中會出現的steam pop現象 圖中使用豬心 不斷加熱後發生氣爆 模擬電生理治療過程中發生steam pop" },
