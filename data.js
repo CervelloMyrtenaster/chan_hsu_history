@@ -2162,6 +2162,8 @@ const records = {
     ],
     "13": [
       { type: "link", content: "https://photos.app.goo.gl/6ivXTN9zW211aeZg9", label: "2026年2月13日 Clerk才有時間整天打扮自己下班把妹 真正在臨床上救人的一線醫師根本連睡覺吃飯都快顧不了" },
+      { type: "link", content: "https://photos.app.goo.gl/9CEXeDv4cXSSjjh48", label: "2026年2月13日 Brockenbrough-Braunwald-Morrow sign" },
+      { type: "link", content: "https://photos.app.goo.gl/S5N45UjyjvsUSZgs6", label: "2026年2月13日 我正在看第六次" },
       { type: "link", content: "https://photos.app.goo.gl/NKXVJzqNBHKafsR89", label: "2026年2月13日 如果這樣做就會有洗分工作室在隊裡排一個扣星帳號 如果贏不了就故意掛機讓要上分的帳號扣不到星" },
       { type: "link", content: "https://photos.app.goo.gl/UZBBosM7qkfsJQg27", label: "2026年2月13日 笑死 嗆爛" },
       { type: "link", content: "https://photos.app.goo.gl/bBMGebaT6ZeiNRmMA", label: "2026年2月13日 太扯了" },      
@@ -2192,7 +2194,10 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/vcDNXAvdQRzQwzyD6", label: "2018年2月13日 跑車什麼時候來經過 恥力全開拍攝中" },
       { type: "link", content: "https://photos.app.goo.gl/JTXasYXMtsg7coo99", label: "2017年2月13日 路上興起說要跳 就直接在路上跳 狂狂 謝謝兩位帥哥大大一起pop 熱血沸騰就不會冷" }
     ],
-    "14": [
+    "14": [      
+      { type: "link", content: "https://photos.app.goo.gl/KKMccAg6F9me4qES7", label: "2026年2月14日 最重15年就判15年 並且不得假釋" },
+      { type: "link", content: "https://photos.app.goo.gl/1AtU7CtuNewc6ZUq9", label: "2026年2月14日 明年過年我要認養十隻" },
+      { type: "link", content: "https://photos.app.goo.gl/Q9LMVRk2eKrcQPzu5", label: "2026年2月14日 怎麼那麼漂亮又早起" },
       { type: "link", content: "https://photos.app.goo.gl/KXRAdPPq6dJnBBxR9", label: "2025年2月14日 這什麼狗屁發文跟言論 那麼會講這種屁話你直接生病不要來醫院就好 自己幫自己看病不好嗎" },
       { type: "link", content: "https://photos.app.goo.gl/x14A8R7iBFUnZpGp7", label: "2025年2月14日 有讀過書的都知道 多數對盤尼西林過敏並不是直接對這個藥產生過敏 更不一定是真的" },
       { type: "link", content: "https://photos.app.goo.gl/Zd4Hoh6uUJj58EEb7", label: "2025年2月14日 \
@@ -2253,6 +2258,24 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/p6YpHJuMD1N1hSrM8", label: "2017年2月14日 情人節一個人走走即可 感恩每一位朋友家人學長學姊 遇見你們我很幸運 願自已變得更好遇上對的妳" }
     ],
     "15": [
+      { type: "link", content: "https://photos.app.goo.gl/qUDMyAjatqzPxr1M8", label: "2026年2月15日 我被下不能一直亂留言的封口令XD" },
+      { type: "link", content: "https://photos.app.goo.gl/UfPqHuzbE1XuuGdr5", label: "2026年2月15日 感謝你 希望社會有黑道能幫忙收了這兩個ㄗㄓ" },
+      { type: "link", content: "https://photos.app.goo.gl/uLy2pLwUB7rS8FBe6", label: "2026年2月15日 這些可惡的法官 坐在法庭裡假裝好心 把悲劇跟痛苦留給受害者家屬 有種把這些犯罪的帶回家裡養 至於有自以為很懂法律的嘴砲不然怎麼判 很簡單 這種案子一律能多重判多重很難嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/pGHDtUDKrVUftu4y5", label: "2026年2月15日 這就是我的想法 老一點公寓沒關係 但要裝修成要的樣子 而且空間要夠大 房間要多" },
+      { type: "link", content: "https://photos.app.goo.gl/ZD8DEtVmpikYqTAz5", label: "2026年2月15日 我覺得可以最後要算算成本跟完成的模樣是不是真的喜歡 如果空間感很夠 因為新建案很多格局都窄窄的 在考慮" },
+      { type: "link", content: "https://photos.app.goo.gl/AHocR4wzZLC1Uzv27", label: "2026年2月15日 因為健身跟跑步要均衡 是說體脂超低也很適合跑步" },
+      { type: "link", content: "https://photos.app.goo.gl/RJtA14tr1dviTo8d8", label: "2026年2月15日 有朋友幫她理毛了" },
+      { type: "link", content: "https://photos.app.goo.gl/w7R4kzfLiMZPbyfF8", label: "2026年2月15日 你從以前就好看 健身更好看" },
+      { type: "link", content: "https://photos.app.goo.gl/AvKGGWW6xUQVy6E17", label: "2026年2月15日 怎麼有辦法這麼會拍" },
+      { type: "link", content: "https://photos.app.goo.gl/k4hfch77XARWmavu5", label: "2026年2月15日 我現在也一直看到這隻 還是下禮拜去看他" },
+      { type: "link", content: "https://photos.app.goo.gl/JCWGYdKkGq263Ukr6", label: "2026年2月15日 好美" },
+      { type: "link", content: "https://photos.app.goo.gl/oRk9L2TKGeimiS5f8", label: "2026年2月15日 好 之後比較有時間我也來學" },
+      { type: "link", content: "https://photos.app.goo.gl/heN9Tbpnyz7f81N79", label: "2026年2月15日 好像小無尾熊" },
+      { type: "link", content: "https://photos.app.goo.gl/pCbU8VKqN5QGCfSG6", label: "2026年2月15日 可以完全放空很棒哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/JzFjptyhMr9bdCnr8", label: "2026年2月15日 你本來就瘦了啊 哪需要顯瘦" },
+      { type: "link", content: "https://photos.app.goo.gl/qxxYFq2wvNS61p337", label: "2026年2月15日 連看都不要看他" },
+      { type: "link", content: "https://photos.app.goo.gl/heEMrrwfBVy9qGAr9", label: "2026年2月15日 以後養ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/zu2jff4wXmA4T7Z4A", label: "2026年2月15日 幸好他有一個動物園避風港 不是在野外" },
       { type: "link", content: "https://photos.app.goo.gl/YkE6MHk4XEBSEHvu9", label: "2025年2月15日 學長果然內行" },
       { type: "link", content: "https://photos.app.goo.gl/uVkVd512f9aN1urT9", label: "2025年2月15日 猜猜看畫面中誰被炸豆腐燙到了呢 輸入ABCD其中一個" },
       { type: "link", content: "https://photos.app.goo.gl/o1FiTXRZAtn3MWS2A", label: "2025年2月15日 暨大攝影社" },
@@ -2305,6 +2328,16 @@ const records = {
         謝謝老闆 但可以的話 我願意付錶框的錢印作品哈哈哈 豆漿暗爽" }
     ],
     "16": [
+      { type: "link", content: "https://photos.app.goo.gl/2M1yLMNsCMRikHXj9", label: "2026年2月16日 過年放假你的大腦也放假了嗎 陽光合唱團他們多數會被關是什麼原因 割頸案判12年大家覺得太輕是什麼原因 還是你根本沒看過電影吧" },
+      { type: "link", content: "https://photos.app.goo.gl/C9DZiy8ayir4wB9Y6", label: "2026年2月16日 我不敢再負面了" },
+      { type: "link", content: "https://photos.app.goo.gl/gqb9ejAM9cdunCRX9", label: "2026年2月16日 \
+        EP的報告真的很絕望 過年前臨時被通知 過年第一天週五就值班 休息半天又連值一天半 結束後不到一天就要出國 回來就過完年了 也就剩兩天要報告 \
+        到現在還是連一半都無法理解透徹 原本要趁值班做報告 但第一台導管從半夜兩點開始做到早上五點多 到現在要接第四台導管 做完應該晚上了 真的很煎熬" },
+      { type: "link", content: "https://photos.app.goo.gl/xeYpSThHxKxTqoof7", label: "2026年2月16日 這樣到底要怎麼做報告 都快睡著了" },
+      { type: "link", content: "https://photos.app.goo.gl/Yg84veiCP8oZu6gu6", label: "2026年2月16日 不過有林院長的紅包 至少比兩天的值班費多了" },
+      { type: "link", content: "https://photos.app.goo.gl/7wpZhWdHnqtaTBii6", label: "2026年2月16日 超帥" },
+      { type: "link", content: "https://photos.app.goo.gl/L7gUU74o1U1JaMvH8", label: "2026年2月16日 而且我發現他頭超圓 好好笑XD" },
+      { type: "link", content: "https://photos.app.goo.gl/jqwhFL1EGfXqnnXf9", label: "2026年2月16日 早上打開脆 第一貼文就先看到panchi" },
       { type: "link", content: "https://photos.app.goo.gl/QC8oXiShNZsC1fxL7", label: "2025年2月16日 大家都在拍雲海 只有我們在偷懶 近期最後一次露營了" },
       { type: "link", content: "https://photos.app.goo.gl/oc8BstNLoCDGNWyB7", label: "2025年2月16日 好滋味餡餅早餐 全台灣最好吃的豬肉餡餅 雖然今天放比較久才吃糖汁被吸收掉 但之前趁熱吃直接爆汁超香超脆 大推必吃早餐 另外清寶鹹油條也是五星極品啊 超讚超好吃" },
       { type: "link", content: "https://photos.app.goo.gl/TgEg4TnRNMt7GEF46", label: "2025年2月16日 他真的笑了哈哈哈" },
@@ -2351,7 +2384,16 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/5cpzvNeXqubheJwg8", label: "2018年2月16日 為了超級小紅包還是排的很開心" },
       { type: "link", content: "https://photos.app.goo.gl/saysLHrPYFvNkAVQA", label: "2018年2月16日 窩 拿糖果還有陷阱 芒果" }
     ],
-    "17": [
+    "17": [      
+      { type: "link", content: "https://photos.app.goo.gl/5fToQjdGL7uuDAxt9", label: "2026年2月17日 好想參加但8888元好像不夠多不夠吸引人XD" },
+      { type: "link", content: "https://photos.app.goo.gl/i8ZqkeHYoEhRrBKg9", label: "2026年2月17日 因為一直收到長輩朋友們的新年貼圖 決定自製一個RICK AND MORTY的新年快樂反擊" },
+      { type: "link", content: "https://photos.app.goo.gl/A64pMZPfFy4hV6Q67", label: "2026年2月17日 第二張表情完全一樣哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/DmmnWEGp3vTHURmK7", label: "2026年2月17日 真可愛 我們也要一幅" },
+      { type: "link", content: "https://photos.app.goo.gl/vWP4LyFrzpWR9qtX9", label: "2026年2月17日 貓視眈眈" },
+      { type: "link", content: "https://photos.app.goo.gl/sp4D57SuaKdiSq2B9", label: "2026年2月17日 \
+        用晴空塔祝大家新年快樂 Rondo晴空塔 終於結束過年值班啦 即使是除夕夜病患仍沒有停止過 體會了日夜都在工作的日子 \
+        平常真的要顧健康 不要在團聚的節日還生病了 在這裡選一張紅通通的作品 祝福大家2026馬上發財 馬上健康 馬上煩惱都不見唷" },
+      { type: "link", content: "https://photos.app.goo.gl/idqMq3UdLJsNsyTk6", label: "2026年2月17日 這首是專屬" },
       { type: "link", content: "https://photos.app.goo.gl/vwnZfxe4Ki7UEWGZ8", label: "2025年2月17日 這不只超北爛 抽菸這種事就是欠教訓 害人害己又浪費醫療資源 他的女兒真可憐 投胎來要救爸爸的命結果自己的糖果餅乾被丟掉" },
       { type: "link", content: "https://photos.app.goo.gl/pGULUMaVMB2H2zEM8", label: "2025年2月17日 好可愛 好想再吃麵包欸" },
       { type: "link", content: "https://photos.app.goo.gl/qEizjtshkJBp6sicA", label: "2025年2月17日 叫台灣年輕人去戰場送死 自己去大陸開心 超讚的台灣價值" },
@@ -2393,6 +2435,12 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/7KHgKDXQG9vxPDaX9", label: "2017年2月17日 刮風的時候 你總要學會一個人顫抖 而不是奢望誰的手 三樣嘢" }
     ],
     "18": [
+      { type: "link", content: "https://photos.app.goo.gl/ackPKe7UK6cxmxdk9", label: "2026年2月18日 最享受躲在日本鄉下吃和牛涮 終於能好好休息 這是今年人生大考前最後一次出國玩了" },
+      { type: "link", content: "https://photos.app.goo.gl/BzH1TuATYeHgbJXZ8", label: "2026年2月18日 冬天就是要泡溫泉跟吃和牛涮ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/M422gvzU4RT3BmZr8", label: "2026年2月18日 傻眼 金色hello kitty撲克牌" },
+      { type: "link", content: "https://photos.app.goo.gl/nwmkt7SC2SwnVmHv6", label: "2026年2月18日 開車去由布院的路上 順便場勘一個由布院之森的拍點 真的很好到 但車子很難等 旅行的時間不多 沒辦法慢慢等車 先把這個遺憾留起來 以後再來回來這裡拍火車" },
+      { type: "link", content: "https://photos.app.goo.gl/jeCyRstXm6R1HMv58", label: "2026年2月18日 怎麼存那麼多哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/ggp3k6Cs4dp6f3g89", label: "2026年2月18日 右駕方向燈一直打成雨刷" },
       { type: "link", content: "https://photos.app.goo.gl/y8qZrJDJdSpSVoce8", label: "2025年2月18日 還好而已" },
       { type: "link", content: "https://photos.app.goo.gl/796u8TWQVKxzH9gm7", label: "2025年2月18日 賺到超多好照片 謝啦" },
       { type: "link", content: "https://photos.app.goo.gl/p3Sv8nRdJwjtnNYXA", label: "2023年2月18日 售這顆鏡頭" },
@@ -2418,6 +2466,13 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/n7MwEe7QmRQFZ79h9", label: "2018年2月18日 刮刮樂虧1100 沒錢 來水簾洞散心" }
     ],
     "19": [
+      { type: "link", content: "https://photos.app.goo.gl/Kytr9wdTzNHaQeii7", label: "2026年2月19日 敘敘苑燒肉不來台灣開分店真是犯罪了吧 也太好吃了 牛五花快跟和牛一樣好吃 和牛除了入口即化還有嚼勁 怎麼做到的 KITTE博多" },
+      { type: "link", content: "https://photos.app.goo.gl/XMPvq1kizMJUNNNeA", label: "2026年2月19日 無法抗拒的和牛五花 牛五花" },
+      { type: "link", content: "https://photos.app.goo.gl/6UGsM4E9aNzkVM579", label: "2026年2月19日 青眼白龍+混沌騎士+惡魔果實+一堆正版神奇寶貝公仔才900台幣 台灣百貨公司一隻青眼白龍少說500台幣吧" },
+      { type: "link", content: "https://photos.app.goo.gl/GgtMSUQY1QK414US8", label: "2026年2月19日 這樣才900台幣 還沒退稅的價格 因為快關門才買沒辦法退稅了" },
+      { type: "link", content: "https://photos.app.goo.gl/mNmLWS6w7ZsJvytA8", label: "2026年2月19日 這一隻才200台幣初頭 未扣稅價格 我明天手刀衝去百貨把真紅眼黑龍也收下" },
+      { type: "link", content: "https://photos.app.goo.gl/Arf5otoigQU6yNWu5", label: "2026年2月19日 真會拍 豪漂亮 噢" },
+      { type: "link", content: "https://photos.app.goo.gl/5NgY2Lod33brGBAP7", label: "2026年2月19日 帥爛 果然學霸歐陽" },
       { type: "link", content: "https://photos.app.goo.gl/6AKGG29L4DTwJJNo8", label: "2025年2月19日 \
         政策白話文 醫師門診看超過病人數 就看一個賠一個 啊請問是醫師強迫病人來看診嗎 根本沒有門診衝量問題而是民眾隨便就跑來醫學中心掛號號 \
         當台灣醫師努力的看診跟治療病人 台灣的政府就會想方設法懲罰跟剝削醫師 明明是民眾自己愛來大醫院逛街看診 政策面卻是懲罰醫師 \
@@ -2458,6 +2513,41 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/c14d6sYLKLJhAqXb9", label: "2018年2月19日 IKEA宜家家居台中店" }
     ],
     "20": [
+      { type: "link", content: "https://photos.app.goo.gl/Vab9FMcx9UVQAGtr8", label: "2026年2月20日 來看某些不應該讓他活到成年的屁孩" },
+      { type: "link", content: "https://photos.app.goo.gl/iVGG6g5nxSASv9Tt7", label: "2026年2月20日 之前在台灣被吵到高價 在日本賣1800日幣" },
+      { type: "link", content: "https://photos.app.goo.gl/C2NkuVjjkbQnnMpD9", label: "2026年2月20日 找了幾個網站 基本上都售完了 而且還比較貴" },
+      { type: "link", content: "https://photos.app.goo.gl/xM197ryR6KFJzwnU7", label: "2026年2月20日 可愛小猴越多越好" },
+      { type: "link", content: "https://photos.app.goo.gl/7LoUxRA8ckU2Cw5Z8", label: "2025年2月20日 \
+        歲月重溫 因為攝影而認識 卻不只因攝影而同行 這次重溫埔里的街道與樹林 過去的回憶沖成一杯午後咖啡 這個年紀還能一起打桌遊跟爆吃一頓實在很開心 \
+        清寶鹹油條 好滋味餡餅 津好吃雞排及王記蚵仔煎 不只是埔里四大美食 也幾乎是台灣之冠 漂亮的營地 優惠的價格 乾淨的浴室跟溫暖的空調 沒有來錯地方 \
+        最後真的很喜歡暨南大學 我還有許多預想的光影及畫面沒有拍到 這裏充滿許多想不到的唯美角落 我相信還會有更多驚艷的校園風景" },
+      { type: "link", content: "https://photos.app.goo.gl/2zNi5AECgiWHuCci8", label: "2025年2月20日 手掌跟臉都紅紅的欸哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/nm4c2FUb8w95tYrH7", label: "2025年2月20日 這樣超級不行" },
+      { type: "link", content: "https://photos.app.goo.gl/d9z7Hpx88W2zpfKh8", label: "2024年2月20日 \
+        要學會自私 要學會自保 把命留給摯愛的家人 把時間留給旅行跟休息 長官想噴我罵我 給我爛成績都無所謂 留的健康才是真的 \
+        這些道理不要等當了vs才懂 失去的歲月是回不來的 我們工作只是賺錢 賺錢只是為了好過跟享受 沒有好日子沒有享受 那又何必賺錢 共勉之" },
+      { type: "link", content: "https://photos.app.goo.gl/9adp9up74aVZ9tMQ8", label: "2024年2月20日 沒事啦 跟你保證很缺人 一定能上啦 但至於後續好不好過就不敢說了 過來人不能講太多 只能說加油 軍費生以外的話就很爽不用擔心了" },
+      { type: "link", content: "https://photos.app.goo.gl/pjyZzjaUPg8SJHra6", label: "2024年2月20日 看了留言 發現大家都很聰明 如果是軍費 奉勸你三思 真的很不推 國家吃人夠夠 除非你畢業成績全校前三名 不然未來很慘很慘的" },
+      { type: "link", content: "https://photos.app.goo.gl/X1PB8GQFes5zN3mBA", label: "2024年2月20日 這週末有朋友要去鹿耳門煙火拍照的嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/GHWjLRdyrTQ5Vmgt5", label: "2024年2月20日 直接當國際翻譯員幫忙店員翻譯菜單 好強喔" },
+      { type: "link", content: "https://photos.app.goo.gl/TusVE1ssejo6dFXw5", label: "2024年2月20日 \
+        寫到這題真的很氣 內專很喜歡玩文字遊戲 腫瘤不等於瘤癌 腫瘤可能惡性或良性 瘤=癌=惡性 \
+        也就是腎上腺皮質腫瘤 不等於腎上腺皮質瘤或腎上腺皮質癌 這樣才能選出答案 無聊到底 正常考讓有稍微讀書就能過難道不好嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/7so56vNcrf71TqQn6", label: "2024年2月20日 但是腎上腺偶見瘤 又不是癌了 我不是癌 我又是癌了 我又不是癌了 我又是癌了 怎麼樣 打我啊" },
+      { type: "link", content: "https://photos.app.goo.gl/zDFsRMGuhq8yr9cQ6", label: "2024年2月20日 可愛小憨狗" },
+      { type: "link", content: "https://photos.app.goo.gl/3BA4d4LmaWP4rf3h7", label: "2024年2月20日 小白也很可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/KDepuLB8qd7dTpgB8", label: "2023年2月20日 生日快樂 同學的榜樣" },
+      { type: "link", content: "https://photos.app.goo.gl/fVHSMFnsZDHrMLsDA", label: "2022年2月20日 CV裡面的EP man真的是超偉大 這些複雜的東西跟術式到底怎麼弄懂的" },
+      { type: "link", content: "https://photos.app.goo.gl/4gdJEGFZQeffnjTq7", label: "2022年2月20日 謝謝分享" },
+      { type: "link", content: "https://photos.app.goo.gl/PuTmRu89gFKgmTsi6", label: "2022年2月20日 雖然常常一直分享照片打擾大家 但真的是很喜歡世界上的美景" },
+      { type: "link", content: "https://photos.app.goo.gl/5Xt4cgoPZaoud32e7", label: "2021年2月20日 有一種即將火燒雲的感覺 可惜打球注定錯過哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/49wyGuDAtapioCWt5", label: "2020年2月20日 關於第一點 之前看感染科醫學會第一位醫師的報告 Sars病毒對ACE2的親和力比COVID19高" },
+      { type: "link", content: "https://photos.app.goo.gl/x74F86EeNgS9UYiJ8", label: "2019年2月20日 雖然開了很久很久 用了兩倍時間 但還是平安到學校了 表示還是安全駕駛的" },
+      { type: "link", content: "https://photos.app.goo.gl/6WJQGHNyk8CL9DdG8", label: "2019年2月20日 停車也難不倒" },
+      { type: "link", content: "https://photos.app.goo.gl/5fYzCBuT4yt7kKRYA", label: "2019年2月20日 放假還是在工作" },
+      { type: "link", content: "https://photos.app.goo.gl/8DD5emEtec5zQfZ66", label: "2019年2月20日 第一次自己煮湯圓 好厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/XycCpkBKT4smBDcn7", label: "2019年2月20日 很神的雲海摩天輪 分享給大家也順便學知識 希望有天自己能駕駛空拍機拍神圖" },
+      { type: "link", content: "https://photos.app.goo.gl/uiTWzQJdG98eGMbS8", label: "2018年2月20日 I am legend" },
       { type: "link", content: "https://photos.app.goo.gl/ydUeCxvj2Q5DENdu9", label: "2017年2月20日 GU值班 凌晨三點下班 明天六點上班 當醫生前先當鐵人" },
       { type: "link", content: "https://photos.app.goo.gl/hz3MLHRo6H4DnyJT6", label: "2017年2月20日 夜跑with old classmate" },
       { type: "link", content: "https://photos.app.goo.gl/xFv4RcQfY24qLpcJA", label: "2017年2月20日 五km超前 跑起來很舒服" }
