@@ -2517,6 +2517,10 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/iVGG6g5nxSASv9Tt7", label: "2026年2月20日 之前在台灣被吵到高價 在日本賣1800日幣" },
       { type: "link", content: "https://photos.app.goo.gl/C2NkuVjjkbQnnMpD9", label: "2026年2月20日 找了幾個網站 基本上都售完了 而且還比較貴" },
       { type: "link", content: "https://photos.app.goo.gl/xM197ryR6KFJzwnU7", label: "2026年2月20日 可愛小猴越多越好" },
+      { type: "link", content: "https://photos.app.goo.gl/X3YqxyXga372PhDA6", label: "2026年2月20日 終於見識到道地的拉麵餃子 超級超級好吃 小小一顆 飽滿的肉汁跟酥脆的表皮 配上白飯真的絕" },
+      { type: "link", content: "https://photos.app.goo.gl/yuhf9fBBKa5rNhko6", label: "2026年2月20日 好啊" },
+      { type: "link", content: "https://photos.app.goo.gl/eBvS1AFF7j16a5LM8", label: "2026年2月20日 好漂亮捏" },
+      { type: "link", content: "https://photos.app.goo.gl/i6o3tJvFdqrCSvR56", label: "2026年2月20日 挖蚵仔ㄟ郎" },
       { type: "link", content: "https://photos.app.goo.gl/7LoUxRA8ckU2Cw5Z8", label: "2025年2月20日 \
         歲月重溫 因為攝影而認識 卻不只因攝影而同行 這次重溫埔里的街道與樹林 過去的回憶沖成一杯午後咖啡 這個年紀還能一起打桌遊跟爆吃一頓實在很開心 \
         清寶鹹油條 好滋味餡餅 津好吃雞排及王記蚵仔煎 不只是埔里四大美食 也幾乎是台灣之冠 漂亮的營地 優惠的價格 乾淨的浴室跟溫暖的空調 沒有來錯地方 \
@@ -2553,6 +2557,39 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/xFv4RcQfY24qLpcJA", label: "2017年2月20日 五km超前 跑起來很舒服" }
     ],
     "21": [
+      { type: "link", content: "https://photos.app.goo.gl/EMyU5eZMX1CsW6xX6", label: "2026年2月21日 雖然只考32級分但想像力還不錯嘛" },
+      { type: "link", content: "https://photos.app.goo.gl/RUdLbb1LuqHBes2m8", label: "2026年2月21日 逼波逼波 豬菲力好吃到升天居然沒有來台灣開分店 真的是犯罪 兩個套餐+炸牡蠣 居然台幣1100元 日本不要這麼厲害好嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/S3GmpJ3zzxmeuM2K8", label: "2026年2月21日 超犯罪的菲力炸豬排 為啥不開來台灣 とんかつ勝烈亭" },
+      { type: "link", content: "https://photos.app.goo.gl/k5q6o4AvM6mJv6S16", label: "2026年2月21日 我們去台版壽島的超級放大版" },
+      { type: "link", content: "https://photos.app.goo.gl/6NkYKhzqJrsFwaqn6", label: "2026年2月21日 我當時真的害怕極了 妳快要往山壁撞下去了R" },
+      { type: "link", content: "https://photos.app.goo.gl/M9SWz36oz9YWVWT76", label: "2025年2月21日 根本是當盤子 內文說的用途基本上無法只靠血液淨化處理" },
+      { type: "link", content: "https://photos.app.goo.gl/wZ5yuFxhpy2o6H8DA", label: "2025年2月21日 真正當兵的人說愛國才是真愛國 該當兵但沒有當兵的說愛國都是屁 Respect版主" },
+      { type: "link", content: "https://photos.app.goo.gl/1sexdoFRJF35ju167", label: "2025年2月21日 這禮拜日去松山文創買爆" },
+      { type: "link", content: "https://photos.app.goo.gl/wr5xAFcDVMxVJfKq7", label: "2025年2月21日 我現在也越來越認同 每次都吃到很不舒服其實並沒有比較快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/LjYthuHX6KYJkLkj6", label: "2025年2月21日 原來這張是故意的啊我當時還在想是不是血輪眼哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/m1VL2GFNEvttZ4E36", label: "2024年2月21日 嗜鉻細胞瘤5P症狀記憶 醫護人員白白被浪費的血汗真心痛 血汗白心痛 血血壓高 汗冒汗 白蒼白 心心悸 痛頭痛胸痛" },
+      { type: "link", content: "https://photos.app.goo.gl/qickSiEUJKKMfVWE6", label: "2024年2月21日 考到稀巴考到爛 記憶 黃媽媽水 懷孕不打疫苗 黃yellow fever 媽媽MMR 水水痘帶狀疱疹" },
+      { type: "link", content: "https://photos.app.goo.gl/mPTTRhrhKEvD3bjM9", label: "2024年2月21日 請問這篇貼文是智商反串還是良心反串 真的很好笑" },
+      { type: "link", content: "https://photos.app.goo.gl/ybJQygnx88M9341e6", label: "2023年2月21日 原本買來想爬山 結果只去兩次就塵封 目前也沒時間再爬山所以售出 之前使用後均有清洗 但有些微使用痕跡 無損壞或缺陷 內裏也都完整乾淨 可以配合醫院面交可再議價" },
+      { type: "link", content: "https://photos.app.goo.gl/ozZrbXpUreBYV8b67", label: "2023年2月21日 謝謝分享 今年是第12年 喜歡風景攝影的朋友請多指教囉" },
+      { type: "link", content: "https://photos.app.goo.gl/yqGh86qv7eVjXGt78", label: "2023年2月21日 \
+        看到這個真好笑 我自己買大型金控也套牢幾隻但完全不在乎 越低越買 航空公司倒了 有其他家會取代他 \
+        但富邦國泰中信倒看看 一倒連沒有實他們股票的民眾跟政府都會跟著倒 所以他們幾乎不可能倒 因此不怕套牢 越低越買等待爆發的一天 \
+        買股票就是這麼簡單 不要跟風 而是好好工作賺錢 資產分配恰當 長期投資才能睡好" },
+      { type: "link", content: "https://photos.app.goo.gl/qctL6AnENkPuEALM6", label: "2023年2月21日 這次身兼品牌試用" },
+      { type: "link", content: "https://photos.app.goo.gl/LfQhNvfzyTZM1iBz9", label: "2023年2月21日 馬桶堵塞2天未處理 12776" },
+      { type: "link", content: "https://photos.app.goo.gl/4LpkMsJK3CGWpKQt7", label: "2021年2月21日 切菜戳到手 幸好馬上加壓止血 傷口也不大不用縫 好想發明一種廚房笨蛋指套 可以保護手指上半截" },
+      { type: "link", content: "https://photos.app.goo.gl/UwswVSukM4nKS4WJ9", label: "2021年2月21日 \
+        圓覺寺暖陽下的櫻花隧道 明天是回醫院正式工作後 第一次的攝影課 已經少拍很久的我 不敢大言不慚稱教學 只是這次花了很多時間 \
+        整理了近幾年的基本攝影資訊跟趨勢 還有基本修圖分享 最後 還整理了內湖及大台北的拍點 特別送給明天參加的學弟妹們 \
+        花了快十年探索過很多風景地點 做完之後還算有成就感XD 希望有來的學弟妹能有收穫 追蹤攝影作品 IG搜尋omg.wp \
+        時間1830~2030 地點暫定29教室 內容 Basic 器材介紹&選取 風景攝影概論 Level Up 後製概念 實際拍攝經驗 問題與解答 Location 拍攝地點大公開" },
+      { type: "link", content: "https://photos.app.goo.gl/u5q2ACqoGZQKzaUz8", label: "2019年2月21日 本日作品原檔與素材 接下來還有兩張最美暨南大學唷 感謝帶我拍拍拍" },
+      { type: "link", content: "https://photos.app.goo.gl/G8Q6LTZkAYvALMt17", label: "2019年2月21日 增設一個教學分享區 不論自己或別人同意的簡單攝影分享 都會放這裡喔 未來持續整理更多攝影相關專區 請多多支持分享追蹤了" },
+      { type: "link", content: "https://photos.app.goo.gl/Ti5XSJEq3AVcoUAF6", label: "2019年2月21日 最美的校園小角落 omg校園探索4 國立暨南國際大學 生活越單純越好 收假後要繼續嗡嗡工作去了" },
+      { type: "link", content: "https://photos.app.goo.gl/feL3P8YrMiUpr6Zv7", label: "2019年2月21日 ALANWALKERMUSIC年度最愛歌手" },
+      { type: "link", content: "https://photos.app.goo.gl/cafCYKvyW7h2ubco6", label: "2018年2月21日 羨慕 我還要搞實習 suffer" },
+      { type: "link", content: "https://photos.app.goo.gl/pv5Xi9wEgsBvTpAG9", label: "2018年2月21日 歡迎邀請朋友追蹤 情侶拍攝或者自拍技巧 後製技巧不私藏" },
       { type: "link", content: "https://photos.app.goo.gl/iFVjHWgRKWYtwcPF8", label: "2017年2月21日 出刀房後的陽光 是最美的陽光 廢文" }
     ],
     "22": [
