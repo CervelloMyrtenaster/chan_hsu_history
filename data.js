@@ -2558,6 +2558,7 @@ const records = {
     ],
     "21": [
       { type: "link", content: "https://photos.app.goo.gl/EMyU5eZMX1CsW6xX6", label: "2026年2月21日 雖然只考32級分但想像力還不錯嘛" },
+      { type: "link", content: "https://photos.app.goo.gl/bMgwo2HAJ7M6wtxQ9", label: "2026年2月21日 逛唐吉柯德 說再15分鐘好就是再15分鐘好 不要每半個小時催一次" },
       { type: "link", content: "https://photos.app.goo.gl/RUdLbb1LuqHBes2m8", label: "2026年2月21日 逼波逼波 豬菲力好吃到升天居然沒有來台灣開分店 真的是犯罪 兩個套餐+炸牡蠣 居然台幣1100元 日本不要這麼厲害好嗎" },
       { type: "link", content: "https://photos.app.goo.gl/S3GmpJ3zzxmeuM2K8", label: "2026年2月21日 超犯罪的菲力炸豬排 為啥不開來台灣 とんかつ勝烈亭" },
       { type: "link", content: "https://photos.app.goo.gl/k5q6o4AvM6mJv6S16", label: "2026年2月21日 我們去台版壽島的超級放大版" },
@@ -2593,6 +2594,30 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/iFVjHWgRKWYtwcPF8", label: "2017年2月21日 出刀房後的陽光 是最美的陽光 廢文" }
     ],
     "22": [
+      { type: "link", content: "https://photos.app.goo.gl/w8rTNqWaoHHPQL6e7", label: "2026年2月22日 人體長癌細胞大家都知道要打化療除掉 社會長這種底層癌細胞 卻沒法律能直接把他們除掉 真的是zz" },
+      { type: "link", content: "https://photos.app.goo.gl/PuHKEjTvcgqtBwrv9", label: "2026年2月22日 \
+        大松鼠成功攜帶回國 這次買到破產 戶頭清空 又變回三級貧戶要重新開始存錢了 \
+        同時也預告人生最重大最難的考試倒數開始 直到考過為止沒有任何娛樂活動 是說西村裕二的周邊難買到爆 這次瘋狂搜尋百貨公司好幾間 全部只買到這隻大松鼠" },
+      { type: "link", content: "https://photos.app.goo.gl/894PAkhP2YCcSX8d6", label: "2026年2月22日 如果有朋友跟我一樣 預算不多但又很喜歡公仔 大推博多這間KITTE 直接去七樓就可以看到 有兩間 超大推" },
+      { type: "link", content: "https://photos.app.goo.gl/fjeXZcg9QZR5ebAC7", label: "2026年2月22日 日本風景就是讚" },
+      { type: "link", content: "https://photos.app.goo.gl/NJsrzWvnixPaekgf8", label: "2026年2月22日 超大推這位德寶兄弟 我設備也全部跟他買的 全台灣買相機認真都要找他 踏實誠信拍照又好看 啊 需要男朋友也可以找他" },
+      { type: "link", content: "https://photos.app.goo.gl/oJsbJBuQqurGN8zG7", label: "2025年2月22日 這個請到818入伍報到" },
+      { type: "link", content: "https://photos.app.goo.gl/z2WaukunudmTqWc87", label: "2025年2月22日 值班隔天來上課 被心電圖虐爛 根本聽不懂教授在說什麼QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/MSkhdj8R5LgQZ9CSA", label: "2025年2月22日 \
+        大學以前學習都很被動 反正不會就補習就好了 講義跟教科書一大堆 但工作之後完全沒有人能固定花大量時間教你 \
+        領域也非常專業 必須要把握假日的機會上課 不然實在跟不上學習進度 真的感恩這些在醫學專業領域上願意持續教學的大前輩" },
+      { type: "link", content: "https://photos.app.goo.gl/pnkUehfQt3dyrNCu8", label: "2025年2月22日 CHATGPT簡直跟鬼一樣 這樣拍題目給他都能答對" },
+      { type: "link", content: "https://photos.app.goo.gl/EmtMG16ZzB3yWcPk8", label: "2025年2月22日 AI又答對了" },      
+      { type: "link", content: "https://photos.app.goo.gl/je9D6aFCFHQHGMGa8", label: "2025年2月22日 心導管狂站士" },
+      { type: "link", content: "https://photos.app.goo.gl/2zdb3LdDpPs8PvPM7", label: "2023年2月22日 不能摔碗 但可以丟路人" },
+      { type: "link", content: "https://photos.app.goo.gl/tMnSGhQpJDbgFEuF6", label: "2022年2月22日 車輛違規通知單 醫護宿舍 黃網線上停車 阻礙動線" },
+      { type: "link", content: "https://photos.app.goo.gl/dvZpHcaoMBKnrVRC6", label: "2022年2月22日 如果是真的山老鼠 那死好 對於一個風景攝影師 不管雇人還是受僱 我完全無法接受這種破壞山林的敗類 拍照時看著被砍斷的樹幹真的很心痛 希望大自然永遠都在" },
+      { type: "link", content: "https://photos.app.goo.gl/ysjjWJrLWQZbgEUCA", label: "2022年2月22日 為什麼童綜合的nurse比較聰明會抽gas" },
+      { type: "link", content: "https://photos.app.goo.gl/yeod2emwWunHLFNh6", label: "2020年2月22日 日本人講話的文法 可以說我給別人東西 可以說別人給我東西 可以我從別人那裡拿到東西 但是 沒有別人從我這裡拿到東西 的說法跟句型 真神奇的民族" },
+      { type: "link", content: "https://photos.app.goo.gl/ZhBLeunZDut5re5c7", label: "2019年2月22日 開始練續留守超過一個禮拜不能下船的班了 收假 羅東轉運站" },
+      { type: "link", content: "https://photos.app.goo.gl/LcUvxbQxiGFoEwyW6", label: "2019年2月22日 誰再繼續在我時報動態貼廢文我就揍誰 結果誰都不敢揍" },
+      { type: "link", content: "https://photos.app.goo.gl/4EDrGgyJ5tkQeb5C9", label: "2018年2月22日 我要印罰款出來做啥啊啊啊 啊啊啊啊 請mike1357935幫印國考繳款證明結果他給我印我的機車罰款 很棒的小幫手" },
+      { type: "link", content: "https://photos.app.goo.gl/ixAiBizxRR9gFCQF8", label: "2018年2月22日 直播Ir基礎教學有人想學嗎 10分鐘簡單 分區調整 考慮示範單張或多重曝光版 看都看 我已經會了 當然需要條件的可能是FOLLOWERS破多少之後" },
       { type: "link", content: "https://photos.app.goo.gl/LLWo5tFpqudbKafVA", label: "2017年2月22日 病人如果不要遲到準時來罐藥 我就不用一飯三吐哺了" }
     ],
     "23": [
