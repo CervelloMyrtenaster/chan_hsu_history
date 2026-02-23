@@ -2601,6 +2601,14 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/894PAkhP2YCcSX8d6", label: "2026年2月22日 如果有朋友跟我一樣 預算不多但又很喜歡公仔 大推博多這間KITTE 直接去七樓就可以看到 有兩間 超大推" },
       { type: "link", content: "https://photos.app.goo.gl/fjeXZcg9QZR5ebAC7", label: "2026年2月22日 日本風景就是讚" },
       { type: "link", content: "https://photos.app.goo.gl/NJsrzWvnixPaekgf8", label: "2026年2月22日 超大推這位德寶兄弟 我設備也全部跟他買的 全台灣買相機認真都要找他 踏實誠信拍照又好看 啊 需要男朋友也可以找他" },
+      { type: "link", content: "https://photos.app.goo.gl/MDpcnEf9tDQmLaq38", label: "2026年2月22日 \
+        熊本 勝烈亭豬排 如果不想大排長龍但對豬排飯情有獨鍾 我大力薦勝烈亭 新市街本店 \
+        逛完百貨後我們早早六點就來 等不到十分鐘就有位置 晚上過七點後排隊人潮就來了 但因為翻桌率快也不會等到太久 \
+        而且在店家提早關門的日本 他還開到晚上11點呢 上餐前先自己搗碎芝麻 陣陣香味勾起食慾 接著我點的菲力豬排套餐 ひれかつ膳 來了 \
+        完全沒有肥肉 紮實的肉感跟酥脆的外皮 居然三兩下配完一整碗飯 點的是里肌豬排套餐 ロースかつ膳 厚度更厚口感也更有嚼勁 \
+        但我們都是不愛肥肉的 所以還是推薦菲力豬排才是完美的選擇 我們還加點三大顆炸牡蠣 只要80台幣真的划算又好吃 \
+        兩個人吃了兩份套餐跟單點炸牡蠣 台幣居然才1000台幣出頭 這麼頂級的炸豬排肯定是要推薦的 如果還有推薦的日本在地豬排飯 也歡迎留言分享唷 \
+        收假了 推薦超好吃豬排給以後要去熊本的朋友 之後有空來分享日本自駕" },
       { type: "link", content: "https://photos.app.goo.gl/oJsbJBuQqurGN8zG7", label: "2025年2月22日 這個請到818入伍報到" },
       { type: "link", content: "https://photos.app.goo.gl/z2WaukunudmTqWc87", label: "2025年2月22日 值班隔天來上課 被心電圖虐爛 根本聽不懂教授在說什麼QQ" },
       { type: "link", content: "https://photos.app.goo.gl/MSkhdj8R5LgQZ9CSA", label: "2025年2月22日 \
@@ -2621,6 +2629,38 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/LLWo5tFpqudbKafVA", label: "2017年2月22日 病人如果不要遲到準時來罐藥 我就不用一飯三吐哺了" }
     ],
     "23": [
+      { type: "link", content: "https://photos.app.goo.gl/wAmLZderjTNWXcCx7", label: "2026年2月23日 \
+        2000塊要專科 至少內專 以上的醫師真的很廉價 但看看值班費100塊突然好像覺得還不錯 \
+        PS你請律師寫一份訴狀起碼5000塊起跳 比法律系難考又影響生命的醫師居然只有2000塊價值嘻嘻" },
+      { type: "link", content: "https://photos.app.goo.gl/JYGRoiicjipq7hSS7", label: "2026年2月23日 感恩惜福金融股 不過沒賣等於沒賺" },
+      { type: "link", content: "https://photos.app.goo.gl/sToTd5hp1dZU8V2V6", label: "2026年2月23日 看到麻將我就知道是星宇" },
+      { type: "link", content: "https://photos.app.goo.gl/a2qE4SCmD5d6LUyRA", label: "2025年2月23日 好厲害哈哈哈我我下次想要種雞蛋" },
+      { type: "link", content: "https://photos.app.goo.gl/JbLGooZZVhBngdE88", label: "2025年2月23日 千萬不要開車去 會排隊停車排超久QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/59TRXNuWBczVrZoEA", label: "2023年2月23日 外面的醫院牛肉端好端滿 還可以挑食愛吃不吃" },
+      { type: "link", content: "https://photos.app.goo.gl/SMcbwCdtQiYVZMcH6", label: "2023年2月23日 政府百業都不敢欺負 唯獨欺負醫療人員特別爽快 用力" },
+      { type: "link", content: "https://photos.app.goo.gl/ftYXPDnWkHzumPSS8", label: "2023年2月23日 桃園國際機場第一航廈" },
+      { type: "link", content: "https://photos.app.goo.gl/CrXTeUdeFP1a6Lmu6", label: "2023年2月23日 只有在拍照的當下 我才感覺自己真正的活著 這才是我想做的職志 如果財富偏自由 我想做旅行攝影師 平等院BYODOIN TEMPLE 廟方人員特別同意在腹地大的石地架腳架 合法的唷" },
+      { type: "link", content: "https://photos.app.goo.gl/Wzx4zk89QAnzJiDs5", label: "2023年2月23日 兩位火力支援超帥鼠包跟神秘濾鏡" },
+      { type: "link", content: "https://photos.app.goo.gl/7agodGsH5y9hcku68", label: "2023年2月23日 \
+        我原本沒有期望第一天趕上宇治 但沒想到飛機延誤一點卻反而更早到 我原本沒有期望宇治會比京都好拍 但沒想到人沒很多而且超好拍 \
+        大推宇治 大家來日本玩一定要花半天來走走 然後晚餐KOKORA超道地超好吃 台灣根本沒吃過的日本料理 根本剪片天才" },
+      { type: "link", content: "https://photos.app.goo.gl/1rDzZ6PCW2c1Htag6", label: "2023年2月23日 剛來吃這家 因為太渴了 我們拿著這個杯子跟店員說我們要米茲 みず=水 店員笑得超開心 我們還以為發音不準逗他笑 結果這個杯子是用來裝筷子跟竹籤的" },
+      { type: "link", content: "https://photos.app.goo.gl/eo3CxhvKo5xmGDLJ9", label: "2022年2月23日 請問開發金沒有進入全台最強五家金控嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/1KK3cJKXsxaNcMYi9", label: "2021年2月23日 昨天幫學弟妹 上完完整的基礎攝影實務經驗 這份講義是我這個月新編的 也放上大台北公開跟秘密拍點 希望有機會能再分享" },
+      { type: "link", content: "https://photos.app.goo.gl/Px9A8zjVJ396X5uh8", label: "2021年2月23日 \
+        學校攝影社社課用坪林茶園來當範例 坪林南山寺 仙公廟 坪林茶園晨光 拍攝晨光這種主題的時候 後製時務必保留地景偏暗 \
+        重點在於把被晨光照射到的部分拉出正常亮度 正常就好 不要修的太亮 整張照片必須把最亮的部分留給太陽即將露頭的位置 而暖色調最多的部分也是 \
+        其餘就是分離出前景及中遠景 前景清楚偏暗 中遠景朦朧偏亮即可 \
+        當你們看到我貼文寫一些攝影觀念的時候 代表我真的不知道要打什麼貼文 真的不夠文青 其實我幾乎沒有靈感 就不要硬要打了哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/xmupABhtgzmLcPeA6", label: "2021年2月23日 心血來潮 決定來整理台灣攝影景點 包含一些秘境跟個人拍點 但真的太花時間了 大概需要數年完成這個大工程" },
+      { type: "link", content: "https://photos.app.goo.gl/7QfA3v3Xc5vDuGUx9", label: "2020年2月23日 \
+        沒錯 長期買進壓低成本後 對存股族來說除息後價格甚至可能比成本高 等於瞬間填習 \
+        加上如果填習又創高等於收穫更多 那如果除息後又遇上大跌呢 那就加碼大量買進啊 持續進攻才是最佳防守" },
+      { type: "link", content: "https://photos.app.goo.gl/5YWcGWoibb4JErUJ9", label: "2020年2月23日 誠心希望下跌 崩盤最好" },
+      { type: "link", content: "https://photos.app.goo.gl/VnAVMfrJo8rGRhU66", label: "2019年2月23日 士兵左腳腳踝骨折 無移位 醫務士只用彈性繃帶繞完綁起來表示已固定" },
+      { type: "link", content: "https://photos.app.goo.gl/Tx8mVm5ufVWMFxNX8", label: "2019年2月23日 感謝canon_taiwan分享 我其實想表達 好的後製讓攝影器材無法拘束你 拍風景的朋友要好好學習後製啦" },
+      { type: "link", content: "https://photos.app.goo.gl/Y95dPac7YUnFyNTUA", label: "2019年2月23日 我時空錯亂了" },
+      { type: "link", content: "https://photos.app.goo.gl/XCKXTnQp7Ljt9Kqv8", label: "2019年2月23日 這是我目前全亞洲最最最最最最想去的地方" },
       { type: "link", content: "https://photos.app.goo.gl/tQRte6zJpxhHFE4W9", label: "2017年2月23日 保暖" }
     ],
     "24": [
