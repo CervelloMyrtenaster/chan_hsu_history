@@ -2663,16 +2663,93 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/XCKXTnQp7Ljt9Kqv8", label: "2019年2月23日 這是我目前全亞洲最最最最最最想去的地方" },
       { type: "link", content: "https://photos.app.goo.gl/tQRte6zJpxhHFE4W9", label: "2017年2月23日 保暖" }
     ],
-    "24": [
+    "24": [      
+      { type: "link", content: "https://photos.app.goo.gl/TeVtGrmZJ6usSWx76", label: "2026年2月24日 一天後要報告的內容已經做了五十幾頁還沒做完 這樣真的沒問題嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/KC1kU9n9MDCwPpQg9", label: "2026年2月24日 跟我一樣" },
+      { type: "link", content: "https://photos.app.goo.gl/PnLVeKXVJ1jaiNwX6", label: "2026年2月24日 要人多勢眾一起圍毆嫌犯才安全" },
+      { type: "link", content: "https://photos.app.goo.gl/ZwQ729PRueMsYi5K7", label: "2026年2月24日 我也第一次看到哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/9Ko5tqfAi466mEYEA", label: "2026年2月24日 不會 如果你會在家我開爆" },
+      { type: "link", content: "https://photos.app.goo.gl/5z5EfnmySrLwLL2m7", label: "2025年2月24日 合理猜測是他的豆漿又喝了別人的豆漿 才導致一夜之間長高那麼多" },
+      { type: "link", content: "https://photos.app.goo.gl/xvWmU8atj3bJKsSN8", label: "2024年2月24日 明天去鹿耳門複習一下煙火 但佛系拍攝哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/RQLYPSUpMMBf7uY6A", label: "2024年2月24日 從在地居民變成觀光客心態 蜷尾家甘味処 散步甜食" },
+      { type: "link", content: "https://photos.app.goo.gl/ExES9wJVwVxxtjs17", label: "2024年2月24日 拍煙火 感謝新朋友的善心位置" },
+      { type: "link", content: "https://photos.app.goo.gl/eWr3stNzpBp6yM2v9", label: "2024年2月24日 只想吃甜食 鹹食吃一點就說不要吃了" },
+      { type: "link", content: "https://photos.app.goo.gl/9Vvc9JyyqhmJPg2e8", label: "2024年2月24日 \
+        2024鹿耳門煙火 這次第三場高空煙火一定要分享給大家 實在太震撼了 時隔多年 我們又回來這裡拍煙火 \
+        空前的卡位跟車陣遠遠比過去厲害 可能某部分因為不能在殿內卡位 最後不得不說 今年煙火超有誠意 高空大煙火沒在手軟 超 級 猛" },
+      { type: "link", content: "https://photos.app.goo.gl/PdzGjLeTH5xBDDFCA", label: "2024年2月24日 今年鹿耳門煙火大讚" },
+      { type: "link", content: "https://photos.app.goo.gl/fCNL8NxRFSfsKQF87", label: "2023年2月24日 假期不夠 沒有像工程師一樣幸福" },
+      { type: "link", content: "https://photos.app.goo.gl/buocWDC2TQvKUKQw5", label: "2023年2月24日 謝謝學長主動教我升壓劑計算 真的太踢群" },
+      { type: "link", content: "https://photos.app.goo.gl/zbnBS3cnXQ3bMGqG7", label: "2023年2月24日 這次來日本發生一件超氣但好笑的事 不知道去哪攤買東西 找錢居然給我不知哪國的貨幣魚目混珠 貌似印尼幣 等我發現已經太晚了 真的要小心啊 好可惡 不知哪國貨幣" },
+      { type: "link", content: "https://photos.app.goo.gl/idBDdhp85SssgD5L9", label: "2023年2月24日 回台灣再好好介紹新的磁吸式濾鏡" },
+      { type: "link", content: "https://photos.app.goo.gl/18TTgaFeYkdCEEsS9", label: "2023年2月24日 剪片小天才欸" },
+      { type: "link", content: "https://photos.app.goo.gl/RBPRP3YbH69orwgb9", label: "2022年2月24日 \
+        歷史上沒有哪次戰爭或金融風暴沒有迎來大漲的 金融股頂多套牢幾年 買大盤回本更快 \
+        除非你覺得大陸要打過來了再停損出場 否則熔斷 崩盤跟大跌就是大買 不要傻傻跟風其他股市老師亂做 自以為懂股市 股市 只有歷史懂" },
+      { type: "link", content: "https://photos.app.goo.gl/T2rYucWbxedF6W6B7", label: "2022年2月24日 \
+        股票我不打嘴砲的 我自己敢買才會分享推薦 但因為連買好幾天 有點噴太多錢 \
+        你也可以買 這種跌1-2%以上都值得進場 尤其0050 趁一堆笨蛋在這種時候亂賣 大進場持有好公司長期才會賺啊XD" },
+      { type: "link", content: "https://photos.app.goo.gl/kcA3cscZy39ZUBDp8", label: "2021年2月24日 今在學院 不是醫院 遺失錢的師生 麻煩聯絡我 謝謝 分機12776" },
+      { type: "link", content: "https://photos.app.goo.gl/5MXCxvG6UtN4e4Y5A", label: "2021年2月24日 長焦拍起來感覺很美" },
+      { type: "link", content: "https://photos.app.goo.gl/BE5HVjxsbyeS8Pjr7", label: "2021年2月24日 淡江大學 今天來醫務所工作" },
+      { type: "link", content: "https://photos.app.goo.gl/vrimVPKcGt9kz6Rf9", label: "2019年2月24日 omg校園探索5 國立暨南國際大學 完全不能小看暨南大學呢 特別等到日落在正中心時拍攝 一樹居然還有一樹美 而妳也來自最美的這裡" },
+      { type: "link", content: "https://photos.app.goo.gl/yAoMviQzLCbc4LKZ8", label: "2018年2月24日 \
+        根本殺人兇手 就是有這種網路上話唬爛 還自稱老師的 當醫生們念那麼多書都傻 隨便講講沒有科學根據 \
+        賺黑心錢就算了 你還會害死一堆病人 大家請抵制 家裡長輩誤信偏方也請適時提醒 在醫院看到太多受害的病人" },
+      { type: "link", content: "https://photos.app.goo.gl/qEvSP8rCQkJQGLKn7", label: "2018年2月24日 這是2017/08/15的作品 這兩天會出2018/02/22修的類似作品 比較一下半年後自己進步了多少 敬請期待" },
+      { type: "link", content: "https://photos.app.goo.gl/pKyQoPdAYBwYT8gX7", label: "2018年2月24日 \
+        若您喜歡我的作品 並且想當成桌布 歡迎經由底下步驟 我將從私訊傳照片給您 追蹤omg.wp並愛心此貼文 \
+        限時截圖任何一張你喜歡的照片並且標記我即可 之前限時所提的 半年的精進後製 希望能讓作品更上層樓 這次的合成作品還算勉強及格了" },
+      { type: "link", content: "https://photos.app.goo.gl/ECTHH6RAvhwpU8uY9", label: "2018年2月24日 \
+        To see is to believe 若您喜歡我的作品 並且想當成桌布 歡迎經由底下步驟 我將從私訊傳照片給您 \
+        追蹤omg.wp並愛心此貼文 限時截圖任何一張你喜歡的照片並且標記我即可 時間到下禮拜二2/27晚上24:00止 怕洗版 \
+        一張為限 私密帳號的朋友請傳限時截圖給我 若朋友較多我可能回比較慢請見諒" },
       { type: "link", content: "https://photos.app.goo.gl/MRMrKGZvqJfCeG6p8", label: "2017年2月24日 \
         迎接連假前的最後值班 跟醫師國考泌尿外科用書作者宏睿學長合照 書編的很用心 也在刀房踢群我很多 \
         GU是很棒的一科因為有很棒的學長姐 希望自己能更成長 泌尿外科 充滿GG的一個月" }
     ],
     "25": [
+      { type: "link", content: "https://photos.app.goo.gl/SsWwL1FJ6vPLjKho7", label: "2026年2月25日 照你邏輯 吸煙區太遠所以會造成不便 那小便憋不住 也是因為廁所太遠 可以直接就地尿就好 不要羞辱你身上的主治醫師白袍好嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/gEjombnBeHgvXhQo9", label: "2026年2月25日 我覺得這個留言要做成課文 給每個父母熟讀一次" },
+      { type: "link", content: "https://photos.app.goo.gl/rYt5TKcBfCYTVDeg8", label: "2025年2月25日 感覺他在笑納智捷" },
+      { type: "link", content: "https://photos.app.goo.gl/8d4fT7yNRSy15jny9", label: "2025年2月25日 我也是" },
+      { type: "link", content: "https://photos.app.goo.gl/Snx88kDoxPqr3dLUA", label: "2025年2月25日 真可愛哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/hgfoQxS4P1pdYmzQ8", label: "2024年2月25日 台南就是要半夜吃牛肉湯阿" },
+      { type: "link", content: "https://photos.app.goo.gl/YWoPMTcT73dt7pxTA", label: "2024年2月25日 我必須承認 台灣少數跟國外一樣美的街道 可惜一堆人壞了景緻" },
+      { type: "link", content: "https://photos.app.goo.gl/4Fw1ZuQtVnxviw4g9", label: "2024年2月25日 大家有推薦的手機編輯影片的軟體嗎 總覺得影片顏色飽和都很素 編輯一下再上傳感覺更好" },
+      { type: "link", content: "https://photos.app.goo.gl/SLBMSVJyYkzevSSE9", label: "2024年2月25日 這應該是今年最後一次開心的旅行了 之後要被考試跟fellow生活淹沒" },
+      { type: "link", content: "https://photos.app.goo.gl/eQNJ9jusmcL1Ze98A", label: "2024年2月25日 台南超認真推薦美食 宣福居奶茶 鬍鬚忠牛肉湯 爆炸頂的 好味道小籠包" },
+      { type: "link", content: "https://photos.app.goo.gl/4aqkiZbqJSN4xpBh6", label: "2024年2月25日 分享一下大手筆的鹿耳門煙火 這是全台灣最厲害的煙火 不論規模跟施放時間都是 當然散場也堪比跨年 連騎機車都會塞車啊" },
+      { type: "link", content: "https://photos.app.goo.gl/zEKrS95WLmD6xXCt5", label: "2024年2月25日 高中的時候 補習都會順便來走這條買漫畫 現在台南 已經沒有記憶中的南方公園了 這條街也關了許多的店 果然記憶才是最美好的吧" },
+      { type: "link", content: "https://photos.app.goo.gl/MMiBFgdtLRmA7FaC7", label: "2024年2月25日 好啊" },
+      { type: "link", content: "https://photos.app.goo.gl/WERFV1Dk9r1rL4nZ7", label: "2023年2月25日 厭倦工作 有點累了" },
+      { type: "link", content: "https://photos.app.goo.gl/LEHxjdrytX6ngqEE9", label: "2023年2月25日 芥末牛肋扇 完全征服味蕾的神物" },
+      { type: "link", content: "https://photos.app.goo.gl/6bxhd3qLMPLd4d1SA", label: "2023年2月25日 謝謝分享 好五彩繽紛" },
+      { type: "link", content: "https://photos.app.goo.gl/d2ZedjYUjL4TGRtg6", label: "2023年2月25日 嵐山竹林之道 在嵐山 用velium velium_tw長曝 把遊客蹤跡洗掉 兩大優點 不用帶14-24的超大遮光罩 旁邊可以直接轉CPL轉環 不容易晃到" },
+      { type: "link", content: "https://photos.app.goo.gl/RYkXMBivvdJEAspS6", label: "2023年2月25日 原檔長這樣 完全不用修圖了欸" },
+      { type: "link", content: "https://photos.app.goo.gl/JtVaMhhRe6cD5qpH8", label: "2023年2月25日 感謝今天導遊兼司機兼超專業攝影師lian_yujie 日本京都婚紗和服可以找他拍 價格實惠" },
+      { type: "link", content: "https://photos.app.goo.gl/aYDoU2Yvyv2wx6xz8", label: "2023年2月25日 震撼" },
+      { type: "link", content: "https://photos.app.goo.gl/aUQ4uP5FP3S5ibRs9", label: "2022年2月25日 \
+        我知道講愛國很簡單 但真的打起來敢上戰場沒多少人 真的不要打嘴砲說愛國有很多種方式不一定要當兵 \
+        這就是幹話 我最不屑不敢當兵卻說自己多愛國的人 所謂愛國體現在戰爭時 因為沒有人可以選擇要不要當兵 全部都得在國土上你死我活" },
+      { type: "link", content: "https://photos.app.goo.gl/eoDS73JUjJpiittX6", label: "2022年2月25日 感謝粉絲提醒有幾部很像遊戲模擬畫面 但我也看到有些新聞分享這些畫面 有人有這些偽造畫面的證據或來源嗎 能提供的話萬分感謝 分別避免誤導" },
+      { type: "link", content: "https://photos.app.goo.gl/X7XwZ7EigXZCN8Q77", label: "2022年2月25日 果然粉絲各方專業 直接找到資料 一定要分享以免繼續誤導 再次感謝人" },
+      { type: "link", content: "https://photos.app.goo.gl/SHxofqR1b3hG8RJU9", label: "2022年2月25日 資訊戰 網路流傳這些應該是為了打擊烏克蘭信心 放出的假影片" },
+      { type: "link", content: "https://photos.app.goo.gl/VFj1D5obVi8nDxdM8", label: "2021年2月25日 是我太孤陋寡聞嗎 看過醫師可以當作家 市長 婚攝 律師 會計師 原來還可以當大立光執行長" },
+      { type: "link", content: "https://photos.app.goo.gl/HnfrVnxJFaDfaxdy8", label: "2021年2月25日 希望台灣經濟快起飛 然後醫護人員薪水待遇合理一點" },
+      { type: "link", content: "https://photos.app.goo.gl/c2puE7M3B1ALznSk8", label: "2019年2月25日 \
+        看來這可能是新型詐騙式 藉由抽獎讓你提供個資 然後藉此得手 請大家小心為上 注意這個粉專只有這一則貼文不覺得很奇怪嗎 \
+        我剛剛留言提醒別被詐騙 一分鐘而已就被禁了 總共七則留言 大家可以挑戰看看 被禁留言前可以留多少則 誤" },
+      { type: "link", content: "https://photos.app.goo.gl/qPhGSpoFbUMHs5dg8", label: "2018年2月25日 希望林其廷就像這樣漂走 幸好我改掉刪文的壞習慣ㄌ" },
+      { type: "link", content: "https://photos.app.goo.gl/EJp1NXfpZghydmkY6", label: "2018年2月25日 \
+        若您喜歡我的作品 並且想當成桌布 歡迎經由底下步驟 我將從私訊傳照片給您 追蹤omg.wp並愛心此貼文 \
+        限時截圖任何一張你喜歡的照片並且標記我即可 時間到下禮拜二2/27晚上24:00止 怕洗版 一張為限 私密帳號的朋友請傳限時截圖給我 若朋友較多我可能回比較慢請見諒" },
       { type: "link", content: "https://photos.app.goo.gl/bHK4W3A3GAmTRDcP8", label: "2017年2月25日 台中" },
       { type: "link", content: "https://photos.app.goo.gl/cqFDbKkhPCQBLsi5A", label: "2017年2月25日 連假前 三總明天掰" }
     ],
     "26": [
+      { type: "link", content: "https://photos.app.goo.gl/Mv1CbedVqSqujpV2A", label: "2025年2月26日 笑死 等你簽進來才知道什麼叫哭出來 呵呵" },
+
       { type: "link", content: "https://photos.app.goo.gl/hDwDUfMXm4DeBGqv9", label: "2017年2月26日 \
         很喜歡GU 有每天帶我查房找我討論的主治曹伯伯 也有對吃很研究 對教學很樂於分享的蕎青學長 有45護理師們各種分享iv經驗 \
         記得最後一次病房 在實習護生跟clerk目視下成功一針on上老人 大概是上天有保佑吧哈哈 GU其他學長姐也都很樂意教學跟灌溉知識 \
