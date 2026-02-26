@@ -2711,6 +2711,7 @@ const records = {
     "25": [
       { type: "link", content: "https://photos.app.goo.gl/SsWwL1FJ6vPLjKho7", label: "2026年2月25日 照你邏輯 吸煙區太遠所以會造成不便 那小便憋不住 也是因為廁所太遠 可以直接就地尿就好 不要羞辱你身上的主治醫師白袍好嗎" },
       { type: "link", content: "https://photos.app.goo.gl/gEjombnBeHgvXhQo9", label: "2026年2月25日 我覺得這個留言要做成課文 給每個父母熟讀一次" },
+      { type: "link", content: "https://photos.app.goo.gl/Q3rVUkiDfuNyEm1NA", label: "2026年2月25日 我還沒遇過這麼可愛的病人XD" },
       { type: "link", content: "https://photos.app.goo.gl/rYt5TKcBfCYTVDeg8", label: "2025年2月25日 感覺他在笑納智捷" },
       { type: "link", content: "https://photos.app.goo.gl/8d4fT7yNRSy15jny9", label: "2025年2月25日 我也是" },
       { type: "link", content: "https://photos.app.goo.gl/Snx88kDoxPqr3dLUA", label: "2025年2月25日 真可愛哈哈哈哈" },
@@ -2748,8 +2749,50 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/cqFDbKkhPCQBLsi5A", label: "2017年2月25日 連假前 三總明天掰" }
     ],
     "26": [
+      { type: "link", content: "https://photos.app.goo.gl/Cjscuje4et29cA1Z8", label: "2026年2月26日 \
+        訓練體能沒什麼用 你不如提早開始訓練心裡建設 建立抗壓性比較實在 \
+        未來當你外面同學在診所當主治爽賺的時候你卻在內外科繼續當住院醫師 你需要的只有抗壓性" },
+      { type: "link", content: "https://photos.app.goo.gl/u9HAuGv4nXGsv3mz5", label: "2026年2月26日 沒辦法 他還能忍耐五天 你不在五分鐘我就感到孤獨了" },
+      { type: "link", content: "https://photos.app.goo.gl/oKrzisEsbXqxPqCu6", label: "2026年2月26日 真可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/38dooQbVcJ39zxF38", label: "2026年2月26日 怎麼漂亮成這樣" },
       { type: "link", content: "https://photos.app.goo.gl/Mv1CbedVqSqujpV2A", label: "2025年2月26日 笑死 等你簽進來才知道什麼叫哭出來 呵呵" },
-
+      { type: "link", content: "https://photos.app.goo.gl/FSxYfBUF3PaPjwSs5", label: "2025年2月26日 如果你因為我的嘲笑決定不選軍費生 那我就是救了你一輩子 如果你還是看不懂那妳就去選軍費生吧 入學十年後你再回來看我留言你就會懂了 你涉世未深 沒有看懂我真正要表達的意思" },
+      { type: "link", content: "https://photos.app.goo.gl/XpBbnnB2uzKRTBGv9", label: "2025年2月26日 如果選了軍費生 那妳貼文不要刪 說了再多也沒用 數學爆了沒考上軍費生是老天爺給你的福報 未來自己體會吧" },
+      { type: "link", content: "https://photos.app.goo.gl/8muu4xp6vgGwZYfq8", label: "2025年2月26日 醫院居然有自己版本的CHATGPT 第一個問題問他院長是誰 居然還可以答錯" },
+      { type: "link", content: "https://photos.app.goo.gl/aYLSgLPwSXoDE3UQ7", label: "2024年2月26日 村老 我們拍完出來人潮已經半夜了 下次我會專程南下找你" },
+      { type: "link", content: "https://photos.app.goo.gl/qzDsH2xEVR1hFRfS8", label: "2024年2月26日 有推薦的月亮椅品牌嗎 機車爬山可攜帶 輕便兼顧的" },
+      { type: "link", content: "https://photos.app.goo.gl/bFkuMEz7HxcWfbUh8", label: "2024年2月26日 \
+        新作品分享 2024鹿耳門煙火 鹿耳門煙火是我認為台灣第一名的煙火 遠遠勝過跨年煙火或其他地方 高空的連續巨響伴隨火光 我用相機烙印這個當下 \
+        而回到故鄉台南 在曾經補習班的路途往返 慢慢想起當初的片段青澀 而熟悉的南方公園消失了 又還有多少過去的我保留呢 \
+        最後跟大家推薦台南保證不能錯過的美食 我們這次自己去吃的 鬍鬚忠牛肉湯 高麗菜牛肉跟蒜頭牛肉 好味道上海小籠湯包 宣福居奶茶 \
+        都可能要排隊10-30分鐘 雖然我很討厭排隊 但絕對值得你排隊" },
+      { type: "link", content: "https://photos.app.goo.gl/2PQ2HTM8gVKW35Jh7", label: "2023年2月26日 \
+        日本早午餐 價格換成台幣跟台北差不多 可是別人的大學生起薪是22萬日幣 五萬多台幣 我們台灣呢 \
+        那個房價跟那個薪水 連醫師都買不起房 台灣現在還物價齊漲 還一堆奇妙粉專繼續幫政府洗地 說台灣多幸福 \
+        我也很愛台灣 希望台灣多加油 別騙自己人民 好好讓台灣人民生活更有水準好嗎 出國看看才知道事實 MICASADECO&CAFE" },
+      { type: "link", content: "https://photos.app.goo.gl/aUVJM2sZ9Rvtxjwt7", label: "2023年2月26日 航海王跟兩津 日本版還超級新只要一百日幣 好便宜喔喔喔喔喔 遊戲王" },
+      { type: "link", content: "https://photos.app.goo.gl/ogE6K5Bis5ZK9xLP6", label: "2023年2月26日 大雄 真拿你沒辦法" },
+      { type: "link", content: "https://photos.app.goo.gl/vDBJYqqjw1hSFweA6", label: "2023年2月26日 使用Velium拍攝夕陽前的通天閣 但整修中不會亮燈 通天閣" },
+      { type: "link", content: "https://photos.app.goo.gl/xqT4Z1A3BG5doKNa9", label: "2022年2月26日 台灣的樹很雜很難處理 這張可以當樹的教科書之一 讚" },
+      { type: "link", content: "https://photos.app.goo.gl/zD93NYMsdjJP914D6", label: "2022年2月26日 感謝分享" },
+      { type: "link", content: "https://photos.app.goo.gl/3midhym1t7UesXQ19", label: "2022年2月26日 No WAR 或許什麼都做不了 但也不能真的什麼都不做 堅定立場 表達支持" },
+      { type: "link", content: "https://photos.app.goo.gl/zNpqbAzS2SZwPQdo7", label: "2022年2月26日 這是巧合嗎 不知不覺每三次一次高塔照XDDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/WHFVEbArtfH583Jr7", label: "2021年2月26日 真的好好吃 大家有推薦基隆美食嗎 下雨無法拍照來吃飽飽 VIVAIO PASTA苗圃義大利餐廳 XO醬干貝好好吃" },
+      { type: "link", content: "https://photos.app.goo.gl/bCyERAY141ZBevdA6", label: "2021年2月26日 上次是後製分享 這次來分享南山寺茶園最好的拍點" },
+      { type: "link", content: "https://photos.app.goo.gl/aYbUYWtrHBp4oqch7", label: "2021年2月26日 自然生態攝影師" },
+      { type: "link", content: "https://photos.app.goo.gl/xXWkQDosU5anqXiP7", label: "2019年2月26日 \
+        還記得2017跨年很悲慘的在外科加護病房值班 有一對國外夫妻在台灣遇到嚴重車禍 \
+        那時候他們因為看不到原本行程的101跟我要了照片電子檔 現在居然要到台灣來說謝謝 \
+        我看到郵件第一眼還以為詐騙 只能說很感動 希望自己繼續努力 未來持續助人" },
+      { type: "link", content: "https://photos.app.goo.gl/wLy8j8pPx9XEnbGx8", label: "2018年2月26日 \
+        狂 吃魚頭補甲狀腺 高調 黑心陷害無知民眾 最近網路出現這樣一位自稱老師的 宣傳自己的飲食療法能根治慢性病 \
+        我告訴各位 這是假的 錯誤的 因為她可能會危害到你身邊的長輩 所以請高調分享 拜託上新聞 慢性病就是難根治才叫慢性病 \
+        打著根治慢性病這種超騙的口號無非想出書賺錢 以下是她的粉專大家歡迎進去看看 朝聖 但不要按讚 也請有追蹤的長輩退讚 \
+        這是除了法律途徑 我們可以抵制她的方式" },
+      { type: "link", content: "https://photos.app.goo.gl/PUTk3RRyryc7W9KGA", label: "2018年2月26日 \
+        這是一個本科系心理諮商 卻連心裡諮商證照都沒有的混蛋 躲在國外不斷宣傳飲食療法 結果多次害糖尿病病人酮酸中毒入院 \
+        現在宣傳吃砂鍋魚頭治療甲狀腺 或許我做不了什麼 但你的家人親人好友都可能會是受害者 她犧牲著無知民眾然後大賺黑心錢 \
+        我能做的只有這樣了 沒時間吃飽整天看她唬爛 如果對整件事情想了解 歡迎到dcard有趣版 找我這篇文章" },
       { type: "link", content: "https://photos.app.goo.gl/hDwDUfMXm4DeBGqv9", label: "2017年2月26日 \
         很喜歡GU 有每天帶我查房找我討論的主治曹伯伯 也有對吃很研究 對教學很樂於分享的蕎青學長 有45護理師們各種分享iv經驗 \
         記得最後一次病房 在實習護生跟clerk目視下成功一針on上老人 大概是上天有保佑吧哈哈 GU其他學長姐也都很樂意教學跟灌溉知識 \
