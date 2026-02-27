@@ -2799,13 +2799,121 @@ const records = {
         還有對院長們的風範跟氣度也印象深刻 開始愛上外科應該不意外 自認離開外科還有200%的進步空間 少抱怨多學習 希望漸漸不會再這麼嫩了" }
     ],
     "27": [
+      { type: "link", content: "https://photos.app.goo.gl/sx7uFo343kNk4ALr9", label: "2026年2月27日 不侵犯病人隱私跟不造成病人傷害是早在醫學生就絕對不能容許的事情" },
+      { type: "link", content: "https://photos.app.goo.gl/4qzPX7Z2Eo1VnYAF6", label: "2026年2月27日 你居然是結婚前才發現這件事 我以為正常來說結婚之前就要先有公平的標準看待雙方" },
+      { type: "link", content: "https://photos.app.goo.gl/4vzdGjH9jCmWWGNw8", label: "2026年2月27日 運氣超好的遇到大雲海" },
+      { type: "link", content: "https://photos.app.goo.gl/PvQVtWVmFTPeZVMS8", label: "2026年2月27日 這裡真的很漂亮 建議自駕並且一大早到" },
+      { type: "link", content: "https://photos.app.goo.gl/HoFwqejvNEQatqaq5", label: "2025年2月27日 說的非常好 我挺護理師 我也認為護理師是低薪血汗 但我看不起少數貶低醫生還大言不慚說醫師高薪 來搞分裂的護理師 因為講這種言語顯然是無知自卑的廢物" },
+      { type: "link", content: "https://photos.app.goo.gl/XESk9ThZnDcfBc3A7", label: "2025年2月27日 Tread應該針對這種可悲的貼文處以罰鍰才對 因為笨並不可惡 可惡的是笨還自以為是" },
+      { type: "link", content: "https://photos.app.goo.gl/hdfS6HzZsEG8CHa26", label: "2025年2月27日 原來如此" },
+      { type: "link", content: "https://photos.app.goo.gl/voPd5zAVHWRYzWqf6", label: "2025年2月27日 考慮搬走了嗚嗚" },
+      { type: "link", content: "https://photos.app.goo.gl/epK5y5LGG7ebkBMUA", label: "2024年2月27日 總不會是你這種人出席吧" },
+      { type: "link", content: "https://photos.app.goo.gl/4w65a1Ej7qai5FGa6", label: "2024年2月27日 確定不是猴子嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/34nxL75zgci6Jpzz9", label: "2024年2月27日 學長太帥了" },
+      { type: "link", content: "https://photos.app.goo.gl/psydRMwrSoHPCjmA8", label: "2023年2月27日 \
+        重遊大阪 多數的光景未變 變的是我不再獨自闖蕩 而是跟一起跑點拍照 這幾天為了陪我趕攝影點 錯過很多shopping時間真是對不住 \
+        最後一天再來好好彌補 而大阪 是個不拘小節 生龍活虎的城市 少了京都的莊嚴矜持 各處小巷藏滿載歌載舞 把酒言歡總在深夜後 \
+        我很喜歡日本 因為每個城市總能用力表現自己的特色 缺不像台灣一樣凌亂不堪 日本在文化表現上的團結統一及和諧共處 非常值得台灣學習" },
+      { type: "link", content: "https://photos.app.goo.gl/HaA8pTRwGED8J6CA6", label: "2023年2月27日 非常好運的 完成了嵐山竹林的拍攝 有點可惜的是化野念佛寺超早關門 他周邊的山區道路也超美 下次可以來深度之旅" },
+      { type: "link", content: "https://photos.app.goo.gl/i24erqc5BhSDTYHy9", label: "2023年2月27日 \
+        在臨空港免稅買了一個愛迪達的袋子 換成台幣900多 材質有一點保護功能 一次能塞兩顆鏡頭還有備用電池跟記憶卡 \
+        旅行時我很需要切換鏡頭 我身上至少三顆鏡頭切換 14-24 24-200 50 這個小包包可以讓我直接在胸前換鏡頭超方便 \
+        不用特定開背包 找了很久終於找到 對了 他背帶也有扣環 身上背一堆東西時要拿袋子下來很麻煩 但他可以直接解開扣環 推個" },
+      { type: "link", content: "https://photos.app.goo.gl/qePdTDxg69HJRpU7A", label: "2023年2月27日 逛街買精品比攝影累一萬倍 走大山大海都沒這麼累過 但今天都是的時間XD" },
+      { type: "link", content: "https://photos.app.goo.gl/1JwJURnawPk1SQcR7", label: "2023年2月27日 \
+        今天結束了關西行 充實但很不滿足 多希望能有至少兩個禮拜在日本深度旅遊 \
+        臨空城是我們最後一站 只待了三小時但遠遠不夠 寄放行李可以選擇先出站後 左方有家小商店一次300日圓 比車站一次800日圓便宜很多 還有容量限制 \
+        臨空outlet至少是台中三井兩倍大 不過很多商店優惠沒有很多 只有免稅後能比台灣稍微便宜 其中始祖鳥讓我們最失望 幾乎都潮流取向 沒什麼登山實用取向的商品 \
+        我在Adidas買了一個側包裝鏡頭 還有一雙鞋給 在Logos買了一件防潑襯衫 大概這兩家我比較喜歡 \
+        Coach等精品店 優惠真的很多 有些價差能省1-2萬 不過這不在我們的購買名單 \
+        後續會慢慢整理照片 模擬考試跟報告還在磨刀霍霍 作品中也會分享一些旅行經驗跟資訊 敬請期待囉" },
+      { type: "link", content: "https://photos.app.goo.gl/sVVv84XdLXnHwinA7", label: "2023年2月27日 非常難過的 回台灣面對工作了 這次有拍到許多還滿意的作品 也感謝旅途前 同學 朋友 跟旅途中 朋友 陌生路人 的幫忙 接下來會慢慢整理作品 希望大家喜歡" },
+      { type: "link", content: "https://photos.app.goo.gl/M2Lt9wy7M1wvoakG6", label: "2023年2月27日 \
+        這是本趟旅程最喜歡的一張照片 超美的通天閣 日本好像自套一層風格檔 不用修圖就美到靠北 \
+        很感謝幫忙幫助我的同學學長朋友跟網友 不論是排班或給予旅遊建議 還有借我的攝影裝備 \
+        還有感謝被我催來催去趕行程 等我拍照 結果她來不及買章魚小丸子抱歉QQ 但我們都沒有吵架 和樂融融的旅程XD \
+        要感謝的人很多 那麼就回台灣繼續努力工作吧" },
+      { type: "link", content: "https://photos.app.goo.gl/LZRr7yJJKvURXpwR6", label: "2023年2月27日 幾秒鐘的影片 超有feel 而且裡面有專屬我們才找到的視角" },
+      { type: "link", content: "https://photos.app.goo.gl/HR8pZEPMsNSebZrb6", label: "2022年2月27日 時隔多年 停車小達人再次出動 完美" },
+      { type: "link", content: "https://photos.app.goo.gl/TdpbeE1hN1mNqcp59", label: "2021年2月27日 來自某個臉書限時 4000萬拿去買2891存股 每年起碼200萬股利 扣稅後也比124萬多 結果你每天心臟超大顆沖來沖去一整年才124萬 當沖廣告這樣騙得到人嗎QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/7J7YFSxQzKWEJ7T66", label: "2021年2月27日 感覺很厲害的隱藏拉麵" },
+      { type: "link", content: "https://photos.app.goo.gl/hdZptudhriyTSzd89", label: "2019年2月27日 雖然應該很多人會了 但這是我第一次煮湯圓" },
       { type: "link", content: "https://photos.app.goo.gl/h5UXxEJ6MBuGAnz8A", label: "2017年2月27日 兔子很調皮" },
       { type: "link", content: "https://photos.app.goo.gl/AWVimXHoVDUYmxJp7", label: "2017年2月27日 開車比Ya" }
     ],
     "28": [
+      { type: "link", content: "https://photos.app.goo.gl/Ssibdew7yMnBXDo99", label: "2025年2月28日 這個我看多了 就是每天都在吃屎就會長成這模樣" },
+      { type: "link", content: "https://photos.app.goo.gl/bh5p2iQxPZqDcbjB7", label: "2025年2月28日 Dcard上看到一張蠻中肯的流程圖 自己參考一下" },
+      { type: "link", content: "https://photos.app.goo.gl/yCfDmvdvauGNwaMm8", label: "2025年2月28日 \
+        臨床紀錄 通常來說心導管第一步會用診斷管來找到三條冠狀動脈 而冠狀動脈開口多位於sinuses of valsava \
+        這次紀錄一個比較特別的右冠狀動脈開口異常 看著老師從JR管 AL管 pigtail管用大砲找位置 也沒有明顯找到 \
+        到JL管才意外發現開口位於aorta 比sinuses of valsava位置上面很多 最後用multipurpose管照相" },
+      { type: "link", content: "https://photos.app.goo.gl/PXUAggjD4coS6g3p7", label: "2025年2月28日 偉大的藝術家都會在作品上簽名 就算只是報告單也要有優美的簽名" },
+      { type: "link", content: "https://photos.app.goo.gl/TGCpnG1twQWWNd1c7", label: "2025年2月28日 第一次看到手寫論文跪了" },
+      { type: "link", content: "https://photos.app.goo.gl/CkrMB9v4S9UQuoBn7", label: "2025年2月28日 欸不是 這個人從身材就跟那個model不同款了吧哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/evHFxQSRemoBwa1EA", label: "2025年2月28日 貓貓覺得主人牙刷太髒了 真貼心" },
+      { type: "link", content: "https://photos.app.goo.gl/UUuxfiQG8dgW84nSA", label: "2025年2月28日 只有日本高級生魚片可以生吃 我其他一律都烤熟" },
+      { type: "link", content: "https://photos.app.goo.gl/Qb4ajktNNzJXhUJg9", label: "2025年2月28日 這個是剪接的" },
+      { type: "link", content: "https://photos.app.goo.gl/miXcdoxJg6H9X2QS7", label: "2025年2月28日 幸好有CHATGPT老師 才能做出五顏六色有內容的PPT 不然教科書讀完大概也80好幾歲了" },
+      { type: "link", content: "https://photos.app.goo.gl/oVsoWryRrW6apAJH7", label: "2025年2月28日 CHATGPT真的好聰明噢 課本都不解釋的哈哈" },      
+      { type: "link", content: "https://photos.app.goo.gl/6fLc7Mxqc5iXFoVr7", label: "2024年2月28日 好羨慕 我對未來唯一的期待就是成為林氏璧 能夠走出醫療業 做自己喜歡的事情 去旅遊跟攝影 隨便想在國外待多久都沒關係 現在的生活 唉" },
+      { type: "link", content: "https://photos.app.goo.gl/zen2pvxPDLVDvwzR8", label: "2024年2月28日 電腦MAC M1 出現我從來沒聽過的問題 就是太久沒開機 打開時間整個跑掉 求救大神指導 怎麼把自動時區恢復" },
+      { type: "link", content: "https://photos.app.goo.gl/gg8nRaP4zC7PHfo87", label: "2023年2月28日 \
+        本次濃縮關西嚐鮮的美食 照片也都是定焦拍攝 為顏值最高的一集XD 大阪+京都伙食評分 \
+        Aburiya Plus Semba 本次燒肉大餐 兩人4000多日幣 但肉類多數都吃到飽 輪肉品質 種類 預約難易度 都大勝台灣的茶六跟屋馬 不是同一個程度 \
+        不過就日本而言 他並不是非常高級的店 總之跟台灣比 算是CP值完勝的 其中芥末牛肋排 超級無敵厲害 我必須連吃三盤才能停下 \
+        錦市場 圖三跟四為錦市場的鰻魚串燒跟鯛魚燒 鰻魚串燒算中上 烤的很好但小刺也不少 我比較推便宜好吃的鯛魚燒 \
+        這口感跟紅豆內餡屌打台灣九成鯛魚燒 道道地地 非常值得嘗試 \
+        Micasadeco&Cafe 圖五來到大阪找的早午餐 價位約為台北中上等級 這家主打鬆餅 我點了煙燻鮭魚鬆餅 外酥內軟實在好吃 \
+        口感跟品質稍稍贏過台灣 只可惜這樣的價位內容為稍微偏少 沒有飲料優惠 主餐以外的偏少 不過必點福吉茶拿鐵 大好喝啊 \
+        Hotel it osaka shinmachi 大阪三天的住宿 價格適中但空間非常寬敞 每日都提供新的換洗用品 \
+        我們買了一天早餐 一餐1800多日幣偏貴 原來是貴在早餐有無限供應的煙燻鮭魚啊 不過除此之外頗失望 \
+        其他東西略顯單調 用餐時間只有0700-10000 0930後不再供應新物 \
+        宇治老街 宇治老街環境優美 非常適合一整個下午的慢調 宇治星巴克的抹茶拿鐵跟冰淇淋 抹茶拿鐵真的味道濃厚 茶香是台灣所沒有 \
+        另外有個抹茶醬的小肉丸 味道無法言喻 不難吃 就很特別 覺得好不好吃很主觀 \
+        麺屋しょうじ本店 圖八為這家的招牌 鮭魚拉麵 但這家真正好吃的是鮭魚炒飯 只要點拉麵加套餐就有 另外這家位置特殊 \
+        導航會看到在馬路邊 是在一個類似商辦大樓進入稍微往下走的店家 整體而言鮭魚炒飯值得一吃 但鮭魚拉麵的鮭魚給太少了啦 \
+        地雞家心 日式串燒 圖九是宇治老街難得較晚熄燈的日式料理 價格不便宜 台北價位再稍貴 有必點的開胃菜跟低消兩杯飲料 \
+        不過他們的料理真讓我大開眼界 新鮮 獨特而且吃得飽 其中的美乃滋雞塊 實在太太太好吃 雞肉做到入口即化但滿滿紮實感 從沒體驗過這種感動 值得去吃 \
+        Hotel Keihan Kyoto Ekiminami 圖十為京都住宿 車站走出來不用三分鐘抵達 服務態度好且早餐免費 \
+        唯獨空間偏小 早餐中規中矩 不算差 可以吃得飽也還算蠻多可選 喜歡住京都車站旁邊的朋友我推薦這家" },
+      { type: "link", content: "https://photos.app.goo.gl/1DyWdA5KQnWPpsYv6", label: "2023年2月28日 \
+        夕陽下的通天閣 熙來攘往的通天閣街上 我在人流中拍攝 一位行動遲緩但充滿好奇的北北看了我許久 帶我到附近的公寓 \
+        意思應該是高樓的視野更好 果不其然 我們一起上去後 發現了沒人拍過的通天閣俯視視角 \
+        斜射的夕陽把通天閣照著得通黃 寒冷的冬風雖讓手指顫抖 但也讓所有煩惱消失 真希望這樣一直拍攝美景 \
+        可惜的是因維修中 入夜後並沒有發光 希望未來能拍到藍調配亮麗的通天閣夜景" },
+      { type: "link", content: "https://photos.app.goo.gl/pU4bSmDDcqcCGPEc6", label: "2023年2月28日 \
+        之後總共三篇貼文分享旅行經驗 這一篇主要紀錄旅行前的準備內容 \
+        通天閣 藍天白雲 生活與旅行No.25 久違的日本 也是跟第一次出國 很幸運看到許多美景 體驗這個不需濾鏡就很漂亮的國度 \
+        決定使用三篇篇幅 來紀錄一下這次的準備 第一篇 旅程前 這次的行程包含京都與大阪 只有短短五天且不到一個月才確定能放假 \
+        因此無法買到便宜機票 但早出晚回的時間很完美 機票的部分 去程虎航 回程華航 考慮的是回程需要休息跟更多行李重量 \
+        機場交通的部分 是永豐大戶卡有三次的免費停車場預約 我提前訂好大園停車場 半夜從台北開過去 停車後還有專車接我們到第一航廈 真的很方便 \
+        換匯的部分 利率最好的是華泰跟永豐 華泰地點太少直接不考慮 我本身有永豐卡 又可以線上預約臨櫃 省手續費 \
+        預約兌換金額後到臨櫃換 省時又省成本 網路都推薦24小時外幣ATM 實際上很多根本沒日幣了 而且都用當天結算匯率 不一定比臨櫃便宜 \
+        日本刷卡的選擇 當然也是永豐信用卡 有2%沒上限的回饋 對了別誤會 我不是打廣告 我已經用永豐非常久了 這一年除了活存高利率 還有上面這些優點 \
+        當然網路推薦吉鶴卡 但申辦需要時間 且除了在日消費外沒有任何好處 我想除非每個月都去日本才值得申辦 \
+        抵達日本後的交通 主要搞清楚地鐵 =台灣的捷運 跟JR即可 長途的才會看到XX特急這種車 入口也不一樣 \
+        在日本可使用ICOCA或西瓜卡 兩者都是各處通用別擔心 只要定期加值別變成負的就好 \
+        最重要的 是確定所有行程幾乎都能用google搞定 包含轉乘跟出入櫃檯 google map真的做到精準 完全可以信任 \
+        天氣方面 一二月關西偶爾下雪 氣溫都在1-10度之間 下半身選發熱褲+登山褲 上半身選發熱衣+毛衣+一件防風登山外套或大衣即可 \
+        我覺得日本冷歸冷 但一進去室內 不論何處馬上暖氣伺候 溫差實在很大 洋蔥式才是最佳解XD \
+        行李箱容量 我建議29公升的 雖然偏大 但冬天攜帶衣物跟回程爆買剛好足夠 我們是在熊熊先生 台北公館附近 購買turtle box牌 建議也是四輪的才好 \
+        第二篇將分享這次攜帶的器材 會有旅行的攝影器材建議" },
+      { type: "link", content: "https://photos.app.goo.gl/R4Pa4jyJjJEsfEUCA", label: "2023年2月28日 沒有私心的說 真 手機剪片小天才" },
+      { type: "link", content: "https://photos.app.goo.gl/5xcqkHyQMvGLqjmz7", label: "2023年2月28日 怎那麼可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/3rSuEQaUmruNAmu87", label: "2022年2月28日 \
+        仔細看了普丁的發言似乎不無道理 北約擴張到烏克蘭 身為盟友的美國當然可以提供導彈部署 這直接威脅俄羅斯 \
+        但俄卻沒有在美國周邊國家部署聯盟或導彈 身為一國總統 為俄鋪路避免未來國家被牽制也是合理的 \
+        只能說烏克蘭太無辜 烏國總統應該採取不親近俄國也不加入北約才對 換個位置思考不知道大家想法" },
+      { type: "link", content: "https://photos.app.goo.gl/Li3wPFyAjSi4N5zq7", label: "2021年2月28日 律師賺得比醫師多 又比醫師有生活品質 不用被健保苛扣 更不用因為無過失卻被雕民家屬病人求償百萬千萬賠款 最後用醫德帽子爆扣 相對下是比醫師好很多" },
+      { type: "link", content: "https://photos.app.goo.gl/h53WdQrBo1eMkVN59", label: "2019年2月28日 So weirddddd" },
+      { type: "link", content: "https://photos.app.goo.gl/9TvG1jbydGy95tY79", label: "2018年2月28日 自駕去奧入瀨的路上 偶見一家伐木廠便停下來拍 喜歡走走停停的自助旅行拍攝 隨著靈感起伏 沒有拘束" },
       { type: "link", content: "https://photos.app.goo.gl/XAu8GXgp6yMy11mHA", label: "2017年2月28日 回學校第一件事情 先follow病人狀況" }
     ],
-    "29": []
+    "29": [
+      { type: "link", content: "https://photos.app.goo.gl/bEKkDqo5oUunnjzb6", label: "2020年2月29日 推" },
+      { type: "link", content: "https://photos.app.goo.gl/Uvr9Lo1GNjizgYnr5", label: "2020年2月29日 乙式 好痛QAQQQQ" }
+    ]
   },
 
   "3": {
