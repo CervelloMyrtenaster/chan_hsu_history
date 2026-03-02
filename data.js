@@ -2799,8 +2799,32 @@ const records = {
         還有對院長們的風範跟氣度也印象深刻 開始愛上外科應該不意外 自認離開外科還有200%的進步空間 少抱怨多學習 希望漸漸不會再這麼嫩了" }
     ],
     "27": [
+      { type: "link", content: "https://photos.app.goo.gl/HUkeJ8tn3ZDLNjY97", label: "2026年2月27日 \
+        希望全台醫護人員都硬起來 只要遇到高官vip開始耍特權 全部都給他嗆回去直接按照醫療常規 並且事後大肆宣傳報導 \
+        讓那些白癡知道自己付那點健保費就想要特別待遇是吃屎比較快 再不硬起來 醫護只能繼續被吃豆腐" },
+      { type: "link", content: "https://photos.app.goo.gl/oXLLWmrWBe2LqDvd9", label: "2026年2月27日 對 沒錯 因為就是有你這種自己不當醫生救人還要情緒勒索的人 你不配享受這個醫療資源 真的" },
+      { type: "link", content: "https://photos.app.goo.gl/mqhKRu5cjtbUBreY6", label: "2026年2月27日 你居然是結婚前才發現這件事 我以為正常來說結婚之前就要先有公平的標準看待雙方 如果雙標 那不叫結婚 叫做納妾" },
+      { type: "link", content: "https://photos.app.goo.gl/PeWCHYhjC1mto1MR6", label: "2026年2月27日 \
+        強迫自己放棄風景攝影一陣子了 為了要準備考試跟讀書 說真的 寧願在冰島或哪裡住個一年 把積蓄花光 每天拍攝風景晨昏銀河 \
+        也不想浪費時間讀什麼碩士博士 真的已經把太多的生命花在工作上 真的很羨慕那些把拍攝風景跟旅遊相關當作職業的人" },
+      { type: "link", content: "https://photos.app.goo.gl/Xn95dTvTwUka9fMX8", label: "2026年2月27日 \
+        每次看的AI製作的電影 雖然很厲害很快 但不曉得背後是不是抓全人類現有的電影片段等等學習而來的 \
+        如果是這樣 一但全面AI化而沒有人力真正的創新畫面跟劇情 那未來製造出來的只會是前面一律的東西" },
+      { type: "link", content: "https://photos.app.goo.gl/hNiFru9RhpVNmbdF6", label: "2026年2月27日 \
+        笑死 在內科住院醫生三年考到內專以後 進入心臟科學習 跟著心臟科醫師學習 才知道我根本心電圖白癡 \
+        完全不會的那種白癡 你一個民眾還妄想門診醫師給妳教學 邏輯還好嗎 我現在還一知半解" },
+      { type: "link", content: "https://photos.app.goo.gl/iU591bu1Ar5PxFad8", label: "2026年2月27日 \
+        你在現場 你怎麼知道醫生講這句話是諷刺 再來他看不看得懂心電圖很重要 要不要醫生每個病人都花十分鐘解釋心電圖 \
+        然後後面患者從早上等到晚上才看得到 告知檢查結果+後續治療建議才是重點 而且你又知道醫師沒有跟患者說他可能哪支血管有問題 \
+        光這樣沒有3-5分鐘根本就不夠了 你還想佔用門診多少時間 醫師一天看70-80個你沒有付服務費 奢望什麼 \
+        你根本不了解現在醫療狀況 你才會有這麼單純的思考方式 跟現實脫節" },
+      { type: "link", content: "https://photos.app.goo.gl/J2UnpRmVSWQmqTgr6", label: "2026年2月27日 \
+        你怎麼知道醫師不是笑笑親切的說如果要從頭講起不如去讀醫學院 你怎麼確定不是醫師想緩和病人情緒或是用幽默的方式表達 \
+        你心裡成見就是病人最委屈 醫師都是錯的 少在那邊冠冕堂皇的一派胡言" },
+      { type: "link", content: "https://photos.app.goo.gl/ZtoF8Pe7xqKzGLwG7", label: "2026年2月27日 超多小細節 能通過心專的都是鬼才" },
       { type: "link", content: "https://photos.app.goo.gl/sx7uFo343kNk4ALr9", label: "2026年2月27日 不侵犯病人隱私跟不造成病人傷害是早在醫學生就絕對不能容許的事情" },
-      { type: "link", content: "https://photos.app.goo.gl/4qzPX7Z2Eo1VnYAF6", label: "2026年2月27日 你居然是結婚前才發現這件事 我以為正常來說結婚之前就要先有公平的標準看待雙方" },
+      { type: "link", content: "https://photos.app.goo.gl/qJxkYtS4TUTsXxX7A", label: "2026年2月27日 你有辦法嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/66XKPgFDFFz3YmE17", label: "2026年2月27日 依格利特給阿杜恩也太廢了吧 依據他的攻擊方式 莫拉比較好" },
       { type: "link", content: "https://photos.app.goo.gl/4vzdGjH9jCmWWGNw8", label: "2026年2月27日 運氣超好的遇到大雲海" },
       { type: "link", content: "https://photos.app.goo.gl/PvQVtWVmFTPeZVMS8", label: "2026年2月27日 這裡真的很漂亮 建議自駕並且一大早到" },
       { type: "link", content: "https://photos.app.goo.gl/HoFwqejvNEQatqaq5", label: "2025年2月27日 說的非常好 我挺護理師 我也認為護理師是低薪血汗 但我看不起少數貶低醫生還大言不慚說醫師高薪 來搞分裂的護理師 因為講這種言語顯然是無知自卑的廢物" },
@@ -2842,6 +2866,22 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/AWVimXHoVDUYmxJp7", label: "2017年2月27日 開車比Ya" }
     ],
     "28": [
+      { type: "link", content: "https://photos.app.goo.gl/spQDNp9iteeV12TG6", label: "2026年2月28日 \
+        生平覺得最噁心的 是口口聲聲看到228就對中國多麼痛恨 但問到要不要簽下去當國軍守護台灣的時候 \
+        那個拒絕的理由說的天花亂墜 拿筆覺得自己很偉大 拿槍這種會真的先死的給別人做 噁心" },
+      { type: "link", content: "https://photos.app.goo.gl/QE9M9U2yG28EP2jX6", label: "2026年2月28日 \
+        軍費醫是給有受虐傾向或者極度優秀的人 醫學系可以全系前十那種 去讀的 你沒有很想讀醫學系 \
+        加上大機率會選到你不喜歡的科別跟不喜歡的醫院 看起來未來只會加倍痛苦 怎麼沒有好好跑步" },
+      { type: "link", content: "https://photos.app.goo.gl/3789dm32tQdXDkbt6", label: "2026年2月28日 \
+        古老的神社 距離熊本約一個半小時的車程 超美的神社就位於路旁不起眼的入口 這次為了配合高千穗峽的划船時間 \
+        只好忍痛放棄一大早就來到神社 接近中午時分 偶有一點穿透進來的光線 但已經熙來攘往的人群讓拍攝非常困難 \
+        真的非常喜歡日本的神社 除了隨處可見的販賣機 漂亮的配色加上熱飲讓寒風中也能找到依靠 更喜歡神社帶來的寧靜與莊嚴" },
+      { type: "link", content: "https://photos.app.goo.gl/XgVZb896N3HL22AZA", label: "2026年2月28日 這種病人才會讓醫師願意繼續賣肝奉獻QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/sEny1NTGaAxf8oEe9", label: "2026年2月28日 +1 可惜等不到背後的天空完全乾淨 總是有些雲" },
+      { type: "link", content: "https://photos.app.goo.gl/6SecAhn5zaFmfCPS9", label: "2026年2月28日 這隻是小老虎貓貓嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/FzujBg45PQXDnS85A", label: "2026年2月28日 怎麼那麼可愛 其實就這樣放著也可以哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/sw21HS9oVnKfDq7Q8", label: "2026年2月28日 可以請問是用什麼軟體處理影片的色調嗎 謝謝 原來也是ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/Hn6CVYxAWrcmc5Vh7", label: "2026年2月28日 太扯" },      
       { type: "link", content: "https://photos.app.goo.gl/Ssibdew7yMnBXDo99", label: "2025年2月28日 這個我看多了 就是每天都在吃屎就會長成這模樣" },
       { type: "link", content: "https://photos.app.goo.gl/bh5p2iQxPZqDcbjB7", label: "2025年2月28日 Dcard上看到一張蠻中肯的流程圖 自己參考一下" },
       { type: "link", content: "https://photos.app.goo.gl/yCfDmvdvauGNwaMm8", label: "2025年2月28日 \
@@ -2917,8 +2957,141 @@ const records = {
   },
 
   "3": {
-    "1": [],
-    "2": [],
+    "1": [
+      { type: "link", content: "https://photos.app.goo.gl/YQxabPvVbS1nn6vU6", label: "2026年3月1日 EP三個主題做了72頁 所以我說這樣報得完嗎 但少任何一頁感覺都不行 都是有講到的內容" },
+      { type: "link", content: "https://photos.app.goo.gl/K45yis9Dd4iNVtLJ9", label: "2026年3月1日 很讚 地球上的共產跟獨裁國家本來就應該被消滅" },
+      { type: "link", content: "https://photos.app.goo.gl/Z6HVkLX9wJZNByQs5", label: "2026年3月1日 對 真的比較高尚 抽煙就是會增加心血管疾病跟得癌機率 浪費健保又傷害他人健康 抽煙就是該死 懂" },
+      { type: "link", content: "https://photos.app.goo.gl/wRvNb5Th9i3pjzccA", label: "2026年3月1日 我發現他會可愛還有一個原因是毛色比其他隻漂亮很多 很多隻毛色好像都褪色 不確定是不是因為長大的關係" },
+      { type: "link", content: "https://photos.app.goo.gl/JLN7eVri7ogb8ZUq7", label: "2026年3月1日 真可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/piwTdFUVHX6anNYv5", label: "2026年3月1日 還真的從來沒看過膽小狗英雄爸媽欸" },
+      { type: "link", content: "https://photos.app.goo.gl/H5rWicPfP2K45vL47", label: "2026年3月1日 出門健身的也幫我記錄捷運站的作品" },
+      { type: "link", content: "https://photos.app.goo.gl/E8WdzgygzpHwfuq78", label: "2026年3月1日 建議已經夠好了不用再加強" },
+      { type: "link", content: "https://photos.app.goo.gl/ANkkJvmgWm2HiD9e8", label: "2026年3月1日 好久沒有跑間歇 但用4:00速跑原本要跑十趟 結果沒力先跑八趟 退步一萬年的程度了QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/yFkipy9Wpwc7XwoN8", label: "2026年3月1日 謝謝同學分享" },
+      { type: "link", content: "https://photos.app.goo.gl/VGi74tuvB7wfvuge6", label: "2025年3月1日 \
+        最近到了高中學測完的季節 在thread上看到許多對於未來迷惘的高中生 我當時的年代2011年 軍校的資訊仍非常片面 \
+        但到了現在仍是如此只是有更多管道能看清面貌 這裡分享一下楊醫師在dcard上面的發文 裡面有張是否該選擇軍費生的指引圖 \
+        現在大家都沒時間讀千言萬語跟長篇大論 我推薦用30秒走完這個流程圖 就能知道自己是否適合軍費生 \
+        軍費生幾乎沒有回頭路尤其是畢業後 有別於其他科系這個決定會直接影響終身 沒有第二次後悔機會 \
+        因此務必認真看待這個決定 好好評估自己的真實想法 而不是聽學校老師跟家裡長輩的意見 畢竟 \
+        叫你做決定的人可是永遠沒有辦法分擔你一生的痛苦 更沒有錢能將你贖身 所以 選擇軍費生的前提 務必是完全由自己意志決定且評估過自己適合的人" },
+      { type: "link", content: "https://photos.app.goo.gl/2PRmAx16EqUywgLB9", label: "2025年3月1日 \
+        很久沒打傳說 以前玩到生氣刪遊戲隊友都在搞 這次組五排超強路人 打了三場五打五都贏 \
+        重點是對面也是妖魔鬼怪 第一場對面有77星璀璨兩個 第二場對面90星永恆 第三場對面112星永恆 其他對手都20-30星以上 \
+        也就是對面都有準職業水準的頂級玩家QQ 心得 我五路都打但輔助好像有點料 都第二名 輔到隊友可以打超派 瘋狂輸出對面" },
+      { type: "link", content: "https://photos.app.goo.gl/AZFXUKbxbTm5Pj4KA", label: "2025年3月1日 \
+        Carbon market-1 第一篇宿霧貼文說到不推薦單純為了拍照來宿霧 不過如果有來宿霧 我推薦carbon market \
+        Carbon market是他們很大的傳統市場 分為三大區塊 海鮮 生活雜物跟蔬果 我這次拍攝雜物跟蔬果區 這市場不適合單純觀光 \
+        因為沒辦法買任何零食跟紀念品回去 頂多只適合買一串香蕉回旅館吃 不過如果是人文攝影 就蠻推薦來走一次 \
+        可以從飯店搭Grab計程車 6-7公里約50-70塊台幣而已 越早到市場越好 可以看到人們聚集在傳統早餐跟買貨的畫面 \
+        印象最深刻的是很多貧困家庭沒有電扇冷氣 接直接全家打地舖睡在床上路邊或小卡車上" },
+      { type: "link", content: "https://photos.app.goo.gl/sySy2ScqtfBAyG7G8", label: "2025年3月1日 衣服要穿多一點" },
+      { type: "link", content: "https://photos.app.goo.gl/4f2J45YibVoALJ3g9", label: "2025年3月1日 我也是" },
+      { type: "link", content: "https://photos.app.goo.gl/Zf8szwTQcq2tQj4i6", label: "2025年3月1日 幹超帥 我也要養一隻" },
+      { type: "link", content: "https://photos.app.goo.gl/EM4QnDAAsM17egz57", label: "2025年3月1日 你是最瘦最漂亮的" },
+      { type: "link", content: "https://photos.app.goo.gl/BFKwpzjesXDS1fKM7", label: "2024年3月1日 \
+        醫院的角落常常會有一些身上充滿管路的瘦弱阿公阿嬤 他們站著不斷訴說自己治療的辛苦 詢問治療有沒有希望 \
+        而在他們身邊的常常都是相對比較有時間的clerk跟PGY 聽著他們的內心並給予鼓勵 一樣是白袍 \
+        不一定要從很專業的角度給予幫助 即便只是從穿著白袍的人說出鼓勵的話 站在患者的一面依然很有用 我覺得這就是白袍專屬的一種力量" },
+      { type: "link", content: "https://photos.app.goo.gl/NfuyHDnFrDyPNrZt7", label: "2023年3月1日 \
+        正常下班時間17:00 為了報告 現在時間已22:30還在醫院 中間出去買東西一下 如果台灣更重視醫師 \
+        給予醫師跟工程師同樣有加班費 我想醫師薪水就能符合醫師的時間跟價值了" },
+      { type: "link", content: "https://photos.app.goo.gl/rYXaDiSTPWAQtwUbA", label: "2023年3月1日 五天的旅程美的像泡沫 轉眼消失 但也清掃了龐大的憂鬱跟黑暗 稍微得到一點力量繼續撐下去 加油" },
+      { type: "link", content: "https://photos.app.goo.gl/CBiRMbURbo33hgeS8", label: "2022年3月1日 \
+        從不同角度去看事情 不要被任何媒體牽著走 人民真的是最無辜的 當權者想鞏固政權 人民未必想犧牲自己 如同美政府有當世界爸爸的夢想 但軍隊並不想到處征戰 \
+        2014俄併吞烏南方那座島 那時也是大新聞 我的重點是普丁的談話內容 哪家媒體發的都一樣 重點是我們必須了解侵略者的想法 才能了解為何會有這場不該有的戰爭QQ \
+        我認為是真的有理由 但仍不應該開戰 從俄國角度角度確實如此 但我還是討厭不跟世界同步的共產體制 \
+        烏國總統把中立的角色最好 不加入北約 敷衍俄國 確實可讓人民避免血戰 台灣有種既視感" },
+      { type: "link", content: "https://photos.app.goo.gl/h7AKjaeryrGMFFNp8", label: "2022年3月1日 \
+        懂 意思就是烏國多數仍希望加入北約 遠離俄國的 所以我常會逆向思考 希望粉絲不要覺得我很怪 我本覺得世界所有事件不應該只有一個角度XD \
+        因為他國邦交盟友關係 因此先入侵他 就是不對 我希望不要 共產體制會害死很多人 有些烏國人民可能這樣想 \
+        烏國沒有西方靠山 真的常被俄國威脅 加入西方 俄國又覺得被包圍 鳥真的是很難平衡的一方 \
+        我承認 所以一國總統應該避戰優先 保全人民性命為第一 可是若如此 常會跟國家長遠利益衝突 先打先錯固然不對 但世界真的拿他有辦法嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/tWSn8mvxzMS1X74R8", label: "2022年3月1日 \
+        我若是俄國總統 極具共產野心的情況 也會覺得美國跟西方針對我來的 你說的滿完整的 只是如果烏真的不加入北約 是否未來會被歐洲孤立 是否有可能繼續被俄國牽制呢 \
+        比較像是遙遠的敵人在你家門口放武器 但你卻沒辦法在敵人鄰居放武器 所以從俄國面思考 才有機會找到避免戰爭的方式 了解敵人 才知道怎麼瓦解敵人 \
+        先開戰先錯 當然會被大量撻伐了 發動戰爭的國家 同時也害慘自己人民" },
+      { type: "link", content: "https://photos.app.goo.gl/ZDwNJZ6YGER2fp3M9", label: "2022年3月1日 \
+        感謝撥空回覆的粉絲 不論我們是什麼職業或專業 國際時事都多少會影響我們 所以我才好奇想了解各種層面的想法 \
+        烏國怎麼結盟與交友 都是他的自由 他的權利 俄國也確實感受到美跟西的威脅 但他的處理方式是錯的 打從烏俄近千年的淵源 \
+        彼此消長併吞已經不是第一次 可以到yt看兩國關係的介紹 重點 當前最大的危機仍在 我個人認為 不是天馬行空 俄國人民跟軍隊是這個世界的最大救星 \
+        若俄羅斯人民趁機群起推翻普丁 軍隊不效忠於共產高官 逼得普丁跟共產派倒台 扶植民主新政權 如此是我心中最好 最一勞永逸的發展 \
+        同樣中國人民若能撻伐共產政府 軍隊集體叛變 出現新的民主自由領導人 這真的才是有解 根本的解" },
+      { type: "link", content: "https://photos.app.goo.gl/wb4ZynLZrZ784wUH8", label: "2022年3月1日 各位股票 仗還沒打完不要太激動好嗎 不然很多預測打仗還會再跌想撿便宜的 他們沒預測到價位怎麼辦啊" },
+      { type: "link", content: "https://photos.app.goo.gl/euS52Tmwgs4tFJdF9", label: "2022年3月1日 妥協不會真的換到和平 拳頭大才會 烏克蘭希望能有強硬靠山不被俄國一直侵略 才往西方靠 可惜烏克蘭這次應該很失望 最後還是要靠他們自己QQ 這麼說也是" },
+      { type: "link", content: "https://photos.app.goo.gl/9uDNv5D7HGUHVxaQA", label: "2022年3月1日 \
+        在戰死的俄羅斯士兵上找到的手機 翻譯 母親 Lesha你為甚麼這麼久才回信 你真的在訓練嗎 Lesha 我不在克里米亞訓練了 \
+        母親 那你在哪裡 爸問說可不可以寄包裹給你 Lesha 甚麼包裹 我只想死 母親 你在說甚麼 發生甚麼事情了 \
+        Lesha 媽 我在烏克蘭 這裡真的發生戰爭了 我很害怕 我們對所有人開槍 對市民也開槍 他們軍官說他們會用花束來迎接我們 \
+        但實際上他們用身體擋住了我們的坦克我們動不了 他說我們是法西斯主義 媽我很痛苦 \
+        原PO 聯合國緊急會議 烏克蘭代表唸出來 時間點47:25 英譯是We were told that they will welcome us \
+        And they are falling under our armor vehicles throwing themselves under the wheels and not allowing us to pass \
+        國際情勢的限時就先打住在此 感謝大家的討論 結論就是沒有結論 但是聽到很多不同聲音 \
+        我仍認為共產制度的國家必須轉型 被人民推翻 讓世界各國都朝向民主跟類似的政府制度 才不用激進的用各種手段來孤立跟打仗" },
+      { type: "link", content: "https://photos.app.goo.gl/XfUwmmzJPPUWEbQL8", label: "2022年3月1日 我還是覺得很噁 中國人喜歡什麼都剖開加一堆香料" },
+      { type: "link", content: "https://photos.app.goo.gl/xQn8hGJPwZFzLWXV6", label: "2020年3月1日 感恩美好自製早午餐 趙家好棒" },
+      { type: "link", content: "https://photos.app.goo.gl/W9U8E2sHELm1PhoC8", label: "2019年3月1日 \
+        我自己覺得好的過曝作品 風景類 遠處過曝不只強調當天早上光線的強烈 由於過亮導致飽和跟對比都略為下降 也營造遠處較模糊不清的感覺 要說距離感也可 \
+        中間層次把細節跟光線做出來 因為近暗遠過曝的關係 我們很容易聚焦到這裡 變成了畫面主題 \
+        近的地方拉低亮度 所以不會把目光放這裡 之前在迪卡有人說到過曝的作法 這裡分享我的見解給大家 \
+        大家拍照時要多注意構圖 遠中近分別有什麼 也要多注意光線 好的光線應該在你要表現的主題上" },
+      { type: "link", content: "https://photos.app.goo.gl/HAxCHGVXbZuNWM1e7", label: "2019年3月1日 還沒畢業先退學現賺3000萬欸" },
+      { type: "link", content: "https://photos.app.goo.gl/wKZAniwbTWYthrFb7", label: "2019年3月1日 按讚支持 大家快幫我們按讚 支持我們的企業專題 求你們了 拜託" },
+      { type: "link", content: "https://photos.app.goo.gl/dE8FQ3JaEeFV4xit5", label: "2019年3月1日 \
+        最後一張暨大樹 今天的作品是我的手機桌布 真的非常適合 nikon750原本這種淡淡的 偏黃綠的色調 真的很喜歡 \
+        最好的愛情 不是美麗的承諾 而是有實現承諾的能力 這是最後一張暨大樹了 真的很喜歡這片校園大草原 非常純淨 \
+        很多觀光勝地的經營者不懂 越是單純乾淨 沒有人造景 才是最令人留戀的地方" },
+      { type: "link", content: "https://photos.app.goo.gl/hLnCSqzvqwud11187", label: "2018年3月1日 \
+        日月潭出水口火燒 很難得日月潭出景 不枉我去年五月到這次莫名開車去日月潭很多次XDDD 而且幾乎都不同朋友不同目的XDD \
+        然後遇到瓶頸 現在修圖都不知道風格該怎麼定位 該重還是該輕捉摸不定" },
+      { type: "link", content: "https://photos.app.goo.gl/jdNCG3xr7DH48cdo6", label: "2018年3月1日 如此這般三月都在台中 每個禮拜四下午有朋友願意帶我拍台中日落或夜景嗎 例如今天XD 私我即可 沒有的話上課去了XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/QEavf6oiFSP8YQpq8", label: "2018年3月1日 這種點好難拍 PASS" },
+      { type: "link", content: "https://photos.app.goo.gl/pHv29uWUAADFtsv5A", label: "2018年3月1日 先從推薦先從的東海夜市小確幸奶茶開始 推薦我美食飲料 我找時間幫你們試試雷不雷 會顯示在限時XD 好啊 你吃不到LE" },
+      { type: "link", content: "https://photos.app.goo.gl/Ag2Cbv6PhpdMQWrq9", label: "2018年3月1日 東海小確幸奶茶 喝拎" },
+      { type: "link", content: "https://photos.app.goo.gl/Cact4htKuZ6WtMUn8", label: "2018年3月1日 大景 一個莫名其妙的收穫XDD 因為邊緣沒人約 但還是賺到哈哈哈 Check My Post Amazing sunset" }
+    ],
+    "2": [
+      { type: "link", content: "https://photos.app.goo.gl/xfxvnCRKqqwTUnp59", label: "2026年3月2日 看了很感動趕快去找手機 才發現根本沒辦法放長假去歐洲 唉" },
+      { type: "link", content: "https://photos.app.goo.gl/tqwrp4Mr1QWjHazr9", label: "2026年3月2日 超讚 這世界上就是有癌細胞危害人類的安全跟和平 就是需要被剷除 大力支持 希望北韓 俄國 中共 這三個有天也能被消滅" },
+      { type: "link", content: "https://photos.app.goo.gl/ZSJDCxVYbUPDgedWA", label: "2026年3月2日 這應該抓進動保所關在籠子裡 怎麼還跑進捷運" },
+      { type: "link", content: "https://photos.app.goo.gl/Bfwzhan8cJToroUs6", label: "2026年3月2日 \
+        看到這個消息心又涼了一塊 為了住院醫師訓練 幾年前我放棄跟攝影朋友一起去義大利自駕拍攝多洛米蒂 \
+        結果現在限制越來越多 未來要去更加麻煩 更不用說有些景點還消失當中 當我們讓自己離不開工作 \
+        這世界的美根本不會等我們 你只會在體力精力跟熱忱消退後最後放棄 這樣我會非常不甘心 工作沒有比去看這個世界重要" },
+      { type: "link", content: "https://photos.app.goo.gl/LpyvmvRdpoaGznUe9", label: "2025年3月2日 可悲的思想 這些醫學中心乾脆倒一倒好了 整天欺負醫師跟護理師" },
+      { type: "link", content: "https://photos.app.goo.gl/Gty8D3vkP2FyrAv7A", label: "2025年3月2日 如果當年他留在醫院 曾經的帥只會被折磨到變成腫" },
+      { type: "link", content: "https://photos.app.goo.gl/ymKgbydG18Xthu7P7", label: "2025年3月2日 最近不錯的流程圖給你參考" },
+      { type: "link", content: "https://photos.app.goo.gl/tzj3yYHGcYByvvDq7", label: "2025年3月2日 哪有那麼誇張" },
+      { type: "link", content: "https://photos.app.goo.gl/n6PMRvNodXrAaKaE8", label: "2025年3月2日 哈哈哈買一個了" },
+      { type: "link", content: "https://photos.app.goo.gl/uUH4YD5djtPh8y5HA", label: "2024年3月2日 \
+        決定45歲退伍那年 把這些檢查全部自費做完 在台灣這些檢查全部自費做完應該也不會超過10萬元太多 \
+        與其每年繳一堆保險費用 不如節省部分費用用十萬塊買自己餘生的健康 絕對值得 \
+        光能免除癌症跟心血管疾病痛苦跟療程 這花100萬買命都便宜 台灣人真的要建立正確觀念 \
+        有錢才能買命 買命也要用正確的方式 而不是吃一堆沒用的保健品跟偏方" },
+      { type: "link", content: "https://photos.app.goo.gl/uyRZb4iYezXMTdct6", label: "2024年3月2日 第一次看到練小腿的 好酷XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/QPvA85DNQ6DxNbov5", label: "2024年3月2日 \
+        250元/次但沒有時間限制 價格是很貴 但器材用起來真的比普遍連鎖健身房好太多 就是很順很舒服 \
+        如果一次健個三小時我就覺得很值得 隔壁就是私人停車場每半小時25元 離開台北的生活就是比較舒服 CHILL FIT秋健身" },
+      { type: "link", content: "https://photos.app.goo.gl/kjEKEU3AfEoVYvXE6", label: "2024年3月2日 \
+        剛說器材好的特別就這台 目前用過二頭肌訓練最舒服的 一堆健身房的二頭肌機器超不舒服 臂距長短不一 \
+        會卡住胸部 而且很壓迫 這台機器大小剛好 關節感覺很順 加重量不會有不舒服的感覺" },
+      { type: "link", content: "https://photos.app.goo.gl/PCgvEKJD8AAYSUE66", label: "2023年3月2日 沒看過的通天閣視角" },
+      { type: "link", content: "https://photos.app.goo.gl/vU1pUgaaSvDdBQGD8", label: "2022年3月2日 \
+        兩個不想殺人的俄國士兵 保護烏克蘭的可憐民眾 對同樣俄國士兵喊停手 結果一樣被打死 \
+        國家完整的自由與尊嚴 跟你或你摯愛的死何者為重 避戰是否等於賣國 她的母親在面前被槍打死 \
+        義憤填膺想上戰場的人是否真能承受這一切 想上戰場 真的要做好心理準備 不要輕易的說來打就來打" },
+      { type: "link", content: "https://photos.app.goo.gl/VGEft5fuJy6bwjt98", label: "2022年3月2日 \
+        希望世界和平 國與國都以避戰的談判優先 但如果有哪個元首瘋起來開打 各國應該直接動武讓那位元首垮台 \
+        殺雞儆猴 別讓大家有誰拳頭大就可以開戰的錯覺 那國人民也應該群起反抗政府 建立一個新政府" },
+      { type: "link", content: "https://photos.app.goo.gl/xb2hz2ukGLeUo75e7", label: "2021年3月2日 從六月在部隊到現在醫院外務變多 每月跑步距離越來越少真的母湯 不過單趟都跑大概8-10公里 拉長距離補足" },
+      { type: "link", content: "https://photos.app.goo.gl/huwTtsHMSd8MyNt98", label: "2021年3月2日 大嬸被ban不見了" },
+      { type: "link", content: "https://photos.app.goo.gl/p7evwpsGrCxqJabs7", label: "2020年3月2日 \
+        今天跑了3.7公里配速4:13 不過比較欣慰的是 中間幾段配速終於能破到四分內 開始出現3分多了 繼續朝破12分邁進 \
+        3000公尺訓練還是要吃苦的 NRC在跑完停下用走的時候不能自動感應停止計時 這樣每次都要用按的" },
+      { type: "link", content: "https://photos.app.goo.gl/dR4dhXD9kK2dRPKy8", label: "2019年3月2日 白貓散步輕食館CATTO BIANCO" },
+      { type: "link", content: "https://photos.app.goo.gl/zSEYwKZdLEHoJGYJ6", label: "2019年3月2日 踩 草莓囉 今天要踩很多草莓才行 紅寶石草莓園" },
+      { type: "link", content: "https://photos.app.goo.gl/8QVugbwXfnmw4H4T8", label: "2019年3月2日 shainblumphotography是全球頂尖的風景攝影師 尤其細節跟光影做到無話可說 質感更是神的境界" }
+    ],
     "3": [],
     "4": [
       { type: "link", content: "https://photos.app.goo.gl/TRNxDXrHcrsjVmNY7", label: "2017年3月4日 為我的室友感到幸福 終於可以不要來煩我ㄌ" },
