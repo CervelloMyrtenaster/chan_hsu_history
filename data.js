@@ -3051,13 +3051,16 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/Cact4htKuZ6WtMUn8", label: "2018年3月1日 大景 一個莫名其妙的收穫XDD 因為邊緣沒人約 但還是賺到哈哈哈 Check My Post Amazing sunset" }
     ],
     "2": [
-      { type: "link", content: "https://photos.app.goo.gl/xfxvnCRKqqwTUnp59", label: "2026年3月2日 看了很感動趕快去找手機 才發現根本沒辦法放長假去歐洲 唉" },
       { type: "link", content: "https://photos.app.goo.gl/tqwrp4Mr1QWjHazr9", label: "2026年3月2日 超讚 這世界上就是有癌細胞危害人類的安全跟和平 就是需要被剷除 大力支持 希望北韓 俄國 中共 這三個有天也能被消滅" },
+      { type: "link", content: "https://photos.app.goo.gl/85hgJhUjJbEznsz58", label: "2026年3月3日 這才是合格的美國總統 用武力清楚地球上的癌細胞 台灣如果歸附美國成為一州那就更好了" },
+      { type: "link", content: "https://photos.app.goo.gl/sjuJNFjoomMuZtUw6", label: "2026年3月3日 醫師過夜值班 值班費100塊嘻嘻" },
+      { type: "link", content: "https://photos.app.goo.gl/xfxvnCRKqqwTUnp59", label: "2026年3月2日 看了很感動趕快去找手機 才發現根本沒辦法放長假去歐洲 唉" },      
       { type: "link", content: "https://photos.app.goo.gl/ZSJDCxVYbUPDgedWA", label: "2026年3月2日 這應該抓進動保所關在籠子裡 怎麼還跑進捷運" },
       { type: "link", content: "https://photos.app.goo.gl/Bfwzhan8cJToroUs6", label: "2026年3月2日 \
         看到這個消息心又涼了一塊 為了住院醫師訓練 幾年前我放棄跟攝影朋友一起去義大利自駕拍攝多洛米蒂 \
         結果現在限制越來越多 未來要去更加麻煩 更不用說有些景點還消失當中 當我們讓自己離不開工作 \
         這世界的美根本不會等我們 你只會在體力精力跟熱忱消退後最後放棄 這樣我會非常不甘心 工作沒有比去看這個世界重要" },
+      { type: "link", content: "https://photos.app.goo.gl/WzwZd7pvG4JaXHyk6", label: "2026年3月3日 這樣他長大才越來越會打架XD" },
       { type: "link", content: "https://photos.app.goo.gl/LpyvmvRdpoaGznUe9", label: "2025年3月2日 可悲的思想 這些醫學中心乾脆倒一倒好了 整天欺負醫師跟護理師" },
       { type: "link", content: "https://photos.app.goo.gl/Gty8D3vkP2FyrAv7A", label: "2025年3月2日 如果當年他留在醫院 曾經的帥只會被折磨到變成腫" },
       { type: "link", content: "https://photos.app.goo.gl/ymKgbydG18Xthu7P7", label: "2025年3月2日 最近不錯的流程圖給你參考" },
@@ -3092,7 +3095,40 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/zSEYwKZdLEHoJGYJ6", label: "2019年3月2日 踩 草莓囉 今天要踩很多草莓才行 紅寶石草莓園" },
       { type: "link", content: "https://photos.app.goo.gl/8QVugbwXfnmw4H4T8", label: "2019年3月2日 shainblumphotography是全球頂尖的風景攝影師 尤其細節跟光影做到無話可說 質感更是神的境界" }
     ],
-    "3": [],
+    "3": [
+      { type: "link", content: "https://photos.app.goo.gl/Mah2wc9cpLwQT1ZE9", label: "2026年3月3日 有夠噁心 各種體制內就是有這種專門叼不重要地方的爛官 這種就應該直接讓他失業離開職場 不再迫害職場" },
+      { type: "link", content: "https://photos.app.goo.gl/7jTzPjaLUdKN7a2U6", label: "2026年3月3日 \
+        我是醫師早知道填電機 再不然也牙醫 醫學系考試難的要死 一關考完還有一關 我都30歲了還每天擔心自己次專科被當掉 超級痛苦超級擔心 \
+        錢又少值班又累 用自己的命換病人的命 重點是培育時間還很長 頭洗下去發現不對勁還換不了跑道 我就勇敢具名告訴高中生台 灣健保體制不適合做西醫 你會累死還發不了財" },
+      { type: "link", content: "https://photos.app.goo.gl/MDRyaX7oSgaGENNU9", label: "2026年3月3日 晚上滑個新聞 差點以為自己看錯 郭董有174萬張鴻海 換成市值 每張算20萬就好 有340億 好羨慕 考慮幫台灣的醫護們發年終嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/41Knb4r5kSyWyhxt6", label: "2026年3月3日 高千穗還是必去一次的 不過第一次划船手忙腳亂 花了十幾分鐘才上手XD 現場完全不會有人教學 一開始連滑都滑不出去 工作人員只會在旁邊看" },
+      { type: "link", content: "https://photos.app.goo.gl/bLiBKng1WBw5eEjy6", label: "2026年3月3日 好漂亮" },
+      { type: "link", content: "https://photos.app.goo.gl/Yw8xrwcqm5xeZCDU7", label: "2025年3月3日 反詐大使" },
+      { type: "link", content: "https://photos.app.goo.gl/sbcGB7TMUbq8jTbg9", label: "2024年3月3日 欸幹 是幽浮欸 這個可以養嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/sXrNckiBnM3puYkP7", label: "2024年3月3日 我們指導後表現非凡" },
+      { type: "link", content: "https://photos.app.goo.gl/XPm5HMgYpmzZ9W4h7", label: "2024年3月3日 \
+        這題想請教版上大大 我覺得沒有答案 大家可以先作答在看留言 我超疑惑QQ \
+        答案是D 但其實仔細計算 這題病人tbil升高的比例基本上完全來自於direct bil升高的比例 即indirect是沒有升高的 \
+        所以不是mix type而是很單純的obstructive type 也就是說病人應該是biliary trac obstruction問題 而不是intrahepatic cholestasis問題啊 \
+        這樣D是錯誤的啊 可能有人會問不會完全不可能 我答 這題是110年內專40題 他的上一題題目39題就是病人完全是direct bil上升 \
+        因此選項E的PBC intrahepatic cholestasis路線 是錯的 出題老師也太自我矛盾了吧 這裡附上mix type診斷流程給大家參考 但裡面也把膽道阻塞放進去了" },
+      { type: "link", content: "https://photos.app.goo.gl/2LtFVwjxgMtS4s6P9", label: "2023年3月3日 \
+        身為臨床內科醫師 真心覺得你講的是笑話 就是個典型紙上談兵 以為自己看幾本書就會上場打仗一樣 \
+        臨床每天藥物光是廠牌就換來換去 時不時就缺藥換成分 同一種藥物泡製方式跟複方也不一樣 \
+        不要說資深主治醫師 連藥師都不一定記得起來 缺藥很明顯就是衛福部失職 整天砍藥價 搞核刪讓醫生不敢開好藥 \
+        想開藥還無能為力 真正的問題不去重視 扯什麼醫師不去記藥名 真的幸好你沒當醫生 不過依照這邏輯你想當也考不上吧" },
+      { type: "link", content: "https://photos.app.goo.gl/Z2WyXbu1RkGuC54j8", label: "2023年3月3日 出國區 留在台灣工作區 能在同一個年代遇到志同道合的風景攝影麻吉真幸運 下次揪 還沒跟你們吃到飯 金色三麥信義誠品店" },
+      { type: "link", content: "https://photos.app.goo.gl/gMVyqzd1B7NMGcAs9", label: "2022年3月3日 意外發現 小麻的腸胃科跟腫瘤科 很有默契的都跳過Gastric cancer這個主題欸 整本直接沒有他的專屬單元" },
+      { type: "link", content: "https://photos.app.goo.gl/zK5yxQtoEf7PTNw2A", label: "2022年3月3日 又會打CS 1.6槍戰 又會治療羊水栓塞 實在同學的榜樣" },
+      { type: "link", content: "https://photos.app.goo.gl/x7rdopcibUjkwxUaA", label: "2022年3月3日 \
+        雜談筆記NT-proBNP 心室釋放來應對上升的管壁壓 ProBNP會變有活性的BNP跟沒活性的NT-proBNP 皆由腎代謝 \
+        後者半衰長 濃度較前者高3-5倍 使用ARNI BNP應上升 考試會問到的應該都在這裡了" },
+      { type: "link", content: "https://photos.app.goo.gl/eMXMKzsdfJLa1sL59", label: "2021年3月3日 真的很鳥 台北地小超不好停車 好幾次在被開罰單的前幾秒把車開走 我都停不會有人進出也不會擋路的地方 然後為了確保車位可以停 還特地打去警察局問規定以免被誆" },
+      { type: "link", content: "https://photos.app.goo.gl/RM3T1VBLCL8CbDxA7", label: "2021年3月3日 沒想到家裡也能有這麼厲害的晚餐 可以拍成食記系列了 也只有做得到 我只煮了菠菜跟蔥蛋 連明天的便當都做好了XD 我家晚餐" },
+      { type: "link", content: "https://photos.app.goo.gl/2cCyzoFNooz62qZt5", label: "2021年3月3日 九份雲海黃金城 那晚自己摸黑爬上來 原本還下著毛毛雨 問我怎麼不會怕 但我只要想到美景就在山頭 便奮不顧身" },
+      { type: "link", content: "https://photos.app.goo.gl/vFnBEqLs5VyVgnAN6", label: "2018年3月3日 聖塔山 寒溪呢 好像變老人一樣 假日都不是衝景 都來散心的" },
+      { type: "link", content: "https://photos.app.goo.gl/ec8nMuo6UwTmoa7u7", label: "2018年3月3日 今天用新朋友" }
+    ],
     "4": [
       { type: "link", content: "https://photos.app.goo.gl/TRNxDXrHcrsjVmNY7", label: "2017年3月4日 為我的室友感到幸福 終於可以不要來煩我ㄌ" },
       { type: "link", content: "https://photos.app.goo.gl/c8mb4nuQEgzYWVY88", label: "2017年3月4日 猜猜我要多少錢" }
