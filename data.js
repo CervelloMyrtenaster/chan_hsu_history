@@ -3052,15 +3052,15 @@ const records = {
     ],
     "2": [
       { type: "link", content: "https://photos.app.goo.gl/tqwrp4Mr1QWjHazr9", label: "2026年3月2日 超讚 這世界上就是有癌細胞危害人類的安全跟和平 就是需要被剷除 大力支持 希望北韓 俄國 中共 這三個有天也能被消滅" },
-      { type: "link", content: "https://photos.app.goo.gl/85hgJhUjJbEznsz58", label: "2026年3月3日 這才是合格的美國總統 用武力清楚地球上的癌細胞 台灣如果歸附美國成為一州那就更好了" },
-      { type: "link", content: "https://photos.app.goo.gl/sjuJNFjoomMuZtUw6", label: "2026年3月3日 醫師過夜值班 值班費100塊嘻嘻" },
+      { type: "link", content: "https://photos.app.goo.gl/85hgJhUjJbEznsz58", label: "2026年3月2日 這才是合格的美國總統 用武力清楚地球上的癌細胞 台灣如果歸附美國成為一州那就更好了" },
+      { type: "link", content: "https://photos.app.goo.gl/sjuJNFjoomMuZtUw6", label: "2026年3月2日 醫師過夜值班 值班費100塊嘻嘻" },
       { type: "link", content: "https://photos.app.goo.gl/xfxvnCRKqqwTUnp59", label: "2026年3月2日 看了很感動趕快去找手機 才發現根本沒辦法放長假去歐洲 唉" },      
       { type: "link", content: "https://photos.app.goo.gl/ZSJDCxVYbUPDgedWA", label: "2026年3月2日 這應該抓進動保所關在籠子裡 怎麼還跑進捷運" },
       { type: "link", content: "https://photos.app.goo.gl/Bfwzhan8cJToroUs6", label: "2026年3月2日 \
         看到這個消息心又涼了一塊 為了住院醫師訓練 幾年前我放棄跟攝影朋友一起去義大利自駕拍攝多洛米蒂 \
         結果現在限制越來越多 未來要去更加麻煩 更不用說有些景點還消失當中 當我們讓自己離不開工作 \
         這世界的美根本不會等我們 你只會在體力精力跟熱忱消退後最後放棄 這樣我會非常不甘心 工作沒有比去看這個世界重要" },
-      { type: "link", content: "https://photos.app.goo.gl/WzwZd7pvG4JaXHyk6", label: "2026年3月3日 這樣他長大才越來越會打架XD" },
+      { type: "link", content: "https://photos.app.goo.gl/WzwZd7pvG4JaXHyk6", label: "2026年3月2日 這樣他長大才越來越會打架XD" },
       { type: "link", content: "https://photos.app.goo.gl/LpyvmvRdpoaGznUe9", label: "2025年3月2日 可悲的思想 這些醫學中心乾脆倒一倒好了 整天欺負醫師跟護理師" },
       { type: "link", content: "https://photos.app.goo.gl/Gty8D3vkP2FyrAv7A", label: "2025年3月2日 如果當年他留在醫院 曾經的帥只會被折磨到變成腫" },
       { type: "link", content: "https://photos.app.goo.gl/ymKgbydG18Xthu7P7", label: "2025年3月2日 最近不錯的流程圖給你參考" },
