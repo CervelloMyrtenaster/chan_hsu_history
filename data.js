@@ -3102,7 +3102,9 @@ const records = {
         錢又少值班又累 用自己的命換病人的命 重點是培育時間還很長 頭洗下去發現不對勁還換不了跑道 我就勇敢具名告訴高中生台 灣健保體制不適合做西醫 你會累死還發不了財" },
       { type: "link", content: "https://photos.app.goo.gl/MDRyaX7oSgaGENNU9", label: "2026年3月3日 晚上滑個新聞 差點以為自己看錯 郭董有174萬張鴻海 換成市值 每張算20萬就好 有340億 好羨慕 考慮幫台灣的醫護們發年終嗎" },
       { type: "link", content: "https://photos.app.goo.gl/41Knb4r5kSyWyhxt6", label: "2026年3月3日 高千穗還是必去一次的 不過第一次划船手忙腳亂 花了十幾分鐘才上手XD 現場完全不會有人教學 一開始連滑都滑不出去 工作人員只會在旁邊看" },
+      { type: "link", content: "https://photos.app.goo.gl/ghHPS2XF1XA9Kffd9", label: "2026年3月3日 週日要跑五公里 跑最慢的要請客 趕快臨時抱佛腳QQ" },
       { type: "link", content: "https://photos.app.goo.gl/bLiBKng1WBw5eEjy6", label: "2026年3月3日 好漂亮" },
+      { type: "link", content: "https://photos.app.goo.gl/TsaToeuSGY7u1zdn7", label: "2026年3月3日 真的是毒友" },
       { type: "link", content: "https://photos.app.goo.gl/Yw8xrwcqm5xeZCDU7", label: "2025年3月3日 反詐大使" },
       { type: "link", content: "https://photos.app.goo.gl/sbcGB7TMUbq8jTbg9", label: "2024年3月3日 欸幹 是幽浮欸 這個可以養嗎" },
       { type: "link", content: "https://photos.app.goo.gl/sXrNckiBnM3puYkP7", label: "2024年3月3日 我們指導後表現非凡" },
@@ -3130,6 +3132,47 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/ec8nMuo6UwTmoa7u7", label: "2018年3月3日 今天用新朋友" }
     ],
     "4": [
+      { type: "link", content: "https://photos.app.goo.gl/PqN2twNRrmfVxvUFA", label: "2026年3月4日 \
+        有個脆友在網上勸民眾不要相信醫生的抱怨 理由簡單講就是考不上醫科 吃不到的葡萄是酸的 所以來酸一下醫生 \
+        看到這種無視醫療環境還不夠慘的人 他的建議都要小心看 如果當初他當醫生 大概也會抱怨醫護處境太過惡劣 要大家不要選醫科 \
+        其實他可以直接說考試對他不公平 當初應該讓他當醫生的 因為他的夢裡醫生是最棒的職業" },
+      { type: "link", content: "https://photos.app.goo.gl/ZoHS8WLr3BVoxzi59", label: "2026年3月4日 明天要加嗎再加碼 台股可別讓大家失望 反而還給我漲了ㄛ" },
+      { type: "link", content: "https://photos.app.goo.gl/Gs6uVhAhD8ZNsn8FA", label: "2026年3月4日 不可以 這是不健康的" },
+      { type: "link", content: "https://photos.app.goo.gl/2zi8Z7B7UeEQPhEKA", label: "2025年3月4日 他很認真在看欸哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/yNBQb85AnXdQgR1B9", label: "2025年3月4日 超好看 一看就知道貴族 但很怕被偷走" },
+      { type: "link", content: "https://photos.app.goo.gl/GKxk9rW2ccG8WWbp8", label: "2025年3月4日 這有啥好怕" },
+      { type: "link", content: "https://photos.app.goo.gl/cSQ68nAXzSZtQWjZ6", label: "2025年3月4日 我都沒吃過" },
+      { type: "link", content: "https://photos.app.goo.gl/AAaCLRoDYGZDYngE7", label: "2024年3月4日 \
+        超級不客觀的言論zzz 買股票好還是台積電好根本不一定 但看你進場跟出場那段時間誰漲的兇而已 \
+        今天要是台積電出了什麼困難或市場負消息 剛好房價正值大漲可以說投資房子勝過台積電嗎 \
+        真正的觀念應該是 正確的投資永遠比不投資賺 正確的投資包含股票跟房地產 股票要挑大到不會倒的 房子要挑地段好的 這才是客觀的觀念" },
+      { type: "link", content: "https://photos.app.goo.gl/jVXCU7qufWuHRSU58", label: "2024年3月4日 \
+        CD增加風險的口訣 男生放著CD唱片叼根菸 叫女友吃避孕藥 抽煙會導致CD 避孕藥會增加CD風險 \
+        UC增加保護的口訣 UCCU你看看你抽煙切闌尾 抽菸具保護效果 APPENDECTOMY具保護效果" },
+      { type: "link", content: "https://photos.app.goo.gl/vMowphkaxknNueyh6", label: "2023年3月4日 \
+        勝尾寺 達摩之國 生活與旅行No.26 勝尾寺是我嚮往已久的景點 交通不好抵達 但托旅日攝影師的台灣朋友之福 載我們解鎖勝尾寺 \
+        進入大門後 只能震撼的說不話 整潔的道路 空淨的氣氛混合著誦經樂 稀少的遊客 沒有任何小吃攤跟格格不入的人造景 \
+        走十分鐘後就看到了放置達摩像的木櫃 又讓我再一次啞口無言 這樣的莊嚴跟井然有序 暗自在內心讚嘆 \
+        許多大小達摩像重疊 據說是遊客購買後寫上祈求的願望 並安置在木櫃跟園區 一座勝尾寺 台灣沒有任何一個景點能比擬 \
+        我用公正客觀的標準 是真的沒有 後來空氣中飄盪雪花碎片 藍天白雲中仍有陽光照耀 讓雪片一點一點被照亮 \
+        空氣中瀰漫著安心跟崇敬的氣氛 久久不能自己 總有一天還要再回來 這裡真的太棒了 \
+        這是本次日本行最愛的景點 感謝LIAN YUJIE帶路 超推景點 讓我極度振奮喜歡的景點 推薦給大家" },
+      { type: "link", content: "https://photos.app.goo.gl/Lai9UQb9jrbFmPmt5", label: "2022年3月4日 \
+        2883納入0050去年就說過了 最近還跌到17元 開發金20元以內都可以入手 長期角度 \
+        雖然他也是投資俄國受災 但那點虧損根本算不了什麼 頂多今年獲利差一點 砸錢進去買就對了XD" },
+      { type: "link", content: "https://photos.app.goo.gl/ohxApfVYTttkXdVbA", label: "2021年3月4日 三軍總醫院 讀書會" },
+      { type: "link", content: "https://photos.app.goo.gl/Nayket7nvVmkdNKL7", label: "2021年3月4日 補個今日晚餐" },
+      { type: "link", content: "https://photos.app.goo.gl/dRtaahwb1iyviDB26", label: "2020年3月4日 資訊越來越公開流通 希望能減少受害者" },
+      { type: "link", content: "https://photos.app.goo.gl/MLgmQ5YdvdcbygFN6", label: "2020年3月4日 \
+        2公里跟4公里時換氣最不順 很累的時候尤其容易分心 就會不小心倒吸然後喘不過氣 其實換氣順就能保持節奏 保持節奏就能維持配速 \
+        原本以為中長跑已經很有經驗 但跟幾個三千十分多鐘的蛙人請益後 還有很多很多要練習 學習 希望五個月後的地獄生活 我能繼續保持跑步習慣" },
+      { type: "link", content: "https://photos.app.goo.gl/C76hnxfZrvPfq5ec7", label: "2019年3月4日 帶著幸運女神 終於讓我畢業啦 銀河雲海開胡囉 金龍山日出觀景臺 狼狽" },
+      { type: "link", content: "https://photos.app.goo.gl/HdMDTDouJXWXp7hd9", label: "2019年3月4日 屬於我跟的秘密景點 時尚藍白夾腳拖 阿伯慢跑褲" },
+      { type: "link", content: "https://photos.app.goo.gl/WYFPGHtnNgd54fJP8", label: "2018年3月4日 \
+        爛新聞 為什麼不是該婦產科醫生的值班時間指定那個醫生接生 不能收指定醫師費 \
+        下班就下班 沒有值班還被摳回來接生 醫生當志工 今天發生在我身上 我希望那個醫生下班沒值班還回來接生 一萬我都願意付 \
+        台灣人對專業貪小便宜的心態真的很可惡 不過比起帶風向的爛新聞 醫改會才是老鼠屎" },
+      { type: "link", content: "https://photos.app.goo.gl/nfdECaqkLTDtxTJs7", label: "2018年3月4日 各種行業的專業都被蹂躪 這就是台灣 罪魁禍首就是貪心的雕民檢舉" },
       { type: "link", content: "https://photos.app.goo.gl/TRNxDXrHcrsjVmNY7", label: "2017年3月4日 為我的室友感到幸福 終於可以不要來煩我ㄌ" },
       { type: "link", content: "https://photos.app.goo.gl/c8mb4nuQEgzYWVY88", label: "2017年3月4日 猜猜我要多少錢" }
     ],
