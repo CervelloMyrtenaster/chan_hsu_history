@@ -3137,6 +3137,7 @@ const records = {
         看到這種無視醫療環境還不夠慘的人 他的建議都要小心看 如果當初他當醫生 大概也會抱怨醫護處境太過惡劣 要大家不要選醫科 \
         其實他可以直接說考試對他不公平 當初應該讓他當醫生的 因為他的夢裡醫生是最棒的職業" },
       { type: "link", content: "https://photos.app.goo.gl/ZoHS8WLr3BVoxzi59", label: "2026年3月4日 明天要加嗎再加碼 台股可別讓大家失望 反而還給我漲了ㄛ" },
+      { type: "link", content: "https://photos.app.goo.gl/bypVujAtEFDDTcKx6", label: "2026年3月4日 當年我考上美術班 他就坐在我旁邊" },
       { type: "link", content: "https://photos.app.goo.gl/Gs6uVhAhD8ZNsn8FA", label: "2026年3月4日 不可以 這是不健康的" },
       { type: "link", content: "https://photos.app.goo.gl/2zi8Z7B7UeEQPhEKA", label: "2025年3月4日 他很認真在看欸哈哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/yNBQb85AnXdQgR1B9", label: "2025年3月4日 超好看 一看就知道貴族 但很怕被偷走" },
@@ -3177,6 +3178,20 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/c8mb4nuQEgzYWVY88", label: "2017年3月4日 猜猜我要多少錢" }
     ],
     "5": [
+      { type: "link", content: "https://photos.app.goo.gl/tJ9ibNrxAg6j4Qvp9", label: "2026年3月5日 蛤 網路怎麼有那麼多人多要逃命 逃什麼逃ZZZ 要逃命的股票就是爛股票 真正的好股票就是一直跌一直加碼 除非台灣被滅國" },
+      { type: "link", content: "https://photos.app.goo.gl/hbb6HW1YMZtiBfmc9", label: "2026年3月5日 都很好看 好ㄚ 你剛好是怎麼吃都吃不胖的" },
+      { type: "link", content: "https://photos.app.goo.gl/trWpx6feq8gP2NEj6", label: "2026年3月5日 希望他不是被強迫的 如果被強迫就要抵制這個動物園" },
+      { type: "link", content: "https://photos.app.goo.gl/ckvR3fJKww4Tfe8D6", label: "2026年3月5日 我們以後也要救援可憐的小貓" },
+      { type: "link", content: "https://photos.app.goo.gl/hpCyobs45cv3rYEP7", label: "2024年3月5日 好猛 比什麼盾牌什麼牙醫的還猛 真正強者不需要帶貨的" },
+      { type: "link", content: "https://photos.app.goo.gl/MjT6TQbaieQuwytD9", label: "2024年3月5日 支持 台灣醫生跟護士應該仿照韓國 罷工來懲罰這個國家" },
+      { type: "link", content: "https://photos.app.goo.gl/RxwB7bLFPr8P95f69", label: "2024年3月5日 台灣健保制度就是用來懲罰醫生 讓醫生賠錢看病 再利用新聞洗風向騙民眾醫生賺很多 高中生自己腦袋靈光一點吧" },
+      { type: "link", content: "https://photos.app.goo.gl/CmnZ25P7wNWh8mRp8", label: "2023年3月5日 突然發現為啥肥羊在投資元大金了" },
+      { type: "link", content: "https://photos.app.goo.gl/XVgWJ6j9HExoh6tT8", label: "2021年3月5日 正確觀念+起步早以後一定有錢" },
+      { type: "link", content: "https://photos.app.goo.gl/8Bhui7vRGrby5u3B6", label: "2021年3月5日 真的有一套欸好厲害 可是我在上班吃不到" },
+      { type: "link", content: "https://photos.app.goo.gl/qDd4HHK4PJGymVe46", label: "2019年3月5日 課金絕對後悔一輩子 我曾經課了好幾千塊 一怒之下刪掉手遊了 現在想到那些錢還是心痛" },
+      { type: "link", content: "https://photos.app.goo.gl/wi4o5sWx7gT7mMHC8", label: "2019年3月5日 可憐牙齒 屋漏偏逢連夜雨 該去拜拜求平安了" },
+      { type: "link", content: "https://photos.app.goo.gl/sidb27QLS4rpJGow9", label: "2019年3月5日 阿里山隙頂雲霧 後製時總想起當天晚霞的光線 也想起了每次拍攝時的辛苦與感動 然後變成下一次拍攝的動力 " },
+      { type: "link", content: "https://photos.app.goo.gl/S6AgqUsVr6w5RKHZ9", label: "2018年3月5日 東海大學重訓室 簡陋人多 可用時間少 但是器材充足 這個月就歐餒嘎伊西媽斯了" },
       { type: "link", content: "https://photos.app.goo.gl/MNnFH1NdT3cp8C5B8", label: "2017年3月5日 人不能不信邪 吃了鳳梨喝了芒果 還沒值班 睡到一半電話就來 明天0630準時先去抄data 原本0730才上班啊 我的老天鵝" },
       { type: "link", content: "https://photos.app.goo.gl/HsApxmM4dNSQyvvw7", label: "2017年3月5日 明天值班 先喝個芒果汁 吃個鳳梨酥壓壓驚 ㄏㄏ" }
     ],
