@@ -3178,6 +3178,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/c8mb4nuQEgzYWVY88", label: "2017年3月4日 猜猜我要多少錢" }
     ],
     "5": [
+      { type: "link", content: "https://photos.app.goo.gl/AgG5Y9muN3dQ3vzA7", label: "2026年3月5日 三總的話早餐必推可來富" },
       { type: "link", content: "https://photos.app.goo.gl/tJ9ibNrxAg6j4Qvp9", label: "2026年3月5日 蛤 網路怎麼有那麼多人多要逃命 逃什麼逃ZZZ 要逃命的股票就是爛股票 真正的好股票就是一直跌一直加碼 除非台灣被滅國" },
       { type: "link", content: "https://photos.app.goo.gl/hbb6HW1YMZtiBfmc9", label: "2026年3月5日 都很好看 好ㄚ 你剛好是怎麼吃都吃不胖的" },
       { type: "link", content: "https://photos.app.goo.gl/trWpx6feq8gP2NEj6", label: "2026年3月5日 希望他不是被強迫的 如果被強迫就要抵制這個動物園" },
@@ -3195,8 +3196,116 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/MNnFH1NdT3cp8C5B8", label: "2017年3月5日 人不能不信邪 吃了鳳梨喝了芒果 還沒值班 睡到一半電話就來 明天0630準時先去抄data 原本0730才上班啊 我的老天鵝" },
       { type: "link", content: "https://photos.app.goo.gl/HsApxmM4dNSQyvvw7", label: "2017年3月5日 明天值班 先喝個芒果汁 吃個鳳梨酥壓壓驚 ㄏㄏ" }
     ],
-    "6": [],
-    "7": [],
+    "6": [
+      { type: "link", content: "https://photos.app.goo.gl/ojqGDvQphtEKF2iK6", label: "2026年3月9日 白痴都不想變大陸人 我寧願歸化日本或變成美國人 寧願當初日本繼續統治台灣都更好 大陸除了文化歷史跟自然資源以外沒什麼好羨慕" },
+      { type: "link", content: "https://photos.app.goo.gl/bVTeTPRbjmzKa72E6", label: "2026年3月6日 您這樣是怎麼通過心臟內科這個魔王級別的超難考試的啊 光是生活起居就沒辦法好好讀書 訓練跟值班了吧 辛苦了" },
+      { type: "link", content: "https://photos.app.goo.gl/t6nViknirCX8xNpd9", label: "2026年3月6日 要存起來" },
+      { type: "link", content: "https://photos.app.goo.gl/FbAdT3EAvF6ikJGw7", label: "2026年3月6日 原來是不小心按到了 知道了 雖然你也沒特別說 但我可能以後會不小心買到 但我也沒要用 如果不小心買了就給你用好了" },
+      { type: "link", content: "https://photos.app.goo.gl/7xquDGrG5ZrtfmNP6", label: "2026年3月6日 第一次搭飛機是為了去工作 心情有點不言而喻" },
+      { type: "link", content: "https://photos.app.goo.gl/mYenBAj2Lgf8YEuDA", label: "2026年3月6日 突然發現今年一月到四月 每個月都在搭飛機 這應該是有史以來搭飛機頻率最高的一年 但我還要考試啊啊啊啊啊 我真的需要時間讀書" },
+      { type: "link", content: "https://photos.app.goo.gl/ovuUNJ1NHGfrQBp77", label: "2026年3月6日 澎湖 澎湖三軍總醫院" },
+      { type: "link", content: "https://photos.app.goo.gl/VqsjpunhczG8yYZj8", label: "2026年3月6日 自我檢討懺悔一下 來澎湖之前居然忘記先查美食 只來買了一堆花生酥 這次要查清楚以後來一一攻略" },
+      { type: "link", content: "https://photos.app.goo.gl/EvuucSz8xfitE9Ra7", label: "2025年3月6日 \
+        我獨自升級 好看到爆 他跟一拳超人 路人100 肌肉魔法使是類似類型的漫畫 都很好看 但他不單純主角無腦一路打到爽 \
+        而是穿插許多劇情跟路線 如果要比較這四部 那獨自升級 絕對毫無疑問的第一名 為了看漫畫差點晚上什麼事都沒做QQ 幸好還沒看完 好擔心會看完" },
+      { type: "link", content: "https://photos.app.goo.gl/bHN7iHe2aUM5e8RV6", label: "2024年3月6日 國家虧待醫護 醫護疾呼多年未改善 甚至去年不斷阻擋健保增加預算到合理範圍 不該處罰 醫師護理師沒有欠你民眾啦 不爽不要來看病" },
+      { type: "link", content: "https://photos.app.goo.gl/QMtJXRxWtoSyw4Xw6", label: "2024年3月6日 建議你藥學系吧 畢業有執照 月薪有7-10萬甚至更高 還是鐵飯碗 生活品質比醫師好太多了" },
+      { type: "link", content: "https://photos.app.goo.gl/rQshsnH4MknA5KGQ8", label: "2024年3月6日 你會喜歡醫科 只是因為你還沒當醫師 就像我們當初選醫學系 只是因為分數到了只好放棄自己喜歡的科系" },
+      { type: "link", content: "https://photos.app.goo.gl/Se4B9CTro1nXhLNt7", label: "2024年3月6日 還是很苦 主治醫師算24小時待命 畢竟病人出大事第一時間都要聯絡到主治" },
+      { type: "link", content: "https://photos.app.goo.gl/NFY1X5oKuD3isS7S9", label: "2024年3月6日 \
+        考慮到跟醫療環境是兩回事 就像我們都知道做醫美又爽又賺 那醫師畢業就能去打玻尿酸月收15萬 難道醫師都這樣做 是台灣之福嗎 \
+        我自己醫師也會生病 也希望萬一老了重症科有熱情的醫師拯救我 那講白了就是待遇 錢跟生活品質達成平衡就是對醫師付出的尊重 \
+        所以即使醫師可以走基層 基層現在也很辛苦這個故事太長 民眾也應該要力挺醫護 跟政府爭取合理的醫療環境跟待遇 \
+        不然未來大家生重病就直接等死吧 反正國家這樣苛扣醫護 也沒多少醫師護理師願意看" },
+      { type: "link", content: "https://photos.app.goo.gl/x4dQVYPuhuCMBB3Q7", label: "2024年3月6日 雖然討厭現在的政府 但就事論事 這個政策雙手支持 台灣的醫療太廉價 政府這麼做是對的 給個肯定" },
+      { type: "link", content: "https://photos.app.goo.gl/HmpvEreP6jGG63A4A", label: "2023年3月6日 再加上時不時不會公告的移樹作業 瞬間又被gank掉好幾個員工停車位" },
+      { type: "link", content: "https://photos.app.goo.gl/yioXogAcTDeAUkn69", label: "2023年3月6日 車輛違規通知單 樹人大道 " },
+      { type: "link", content: "https://photos.app.goo.gl/MhPWHTjVA7MuSchN7", label: "2022年3月6日 外木山環海步道" },
+      { type: "link", content: "https://photos.app.goo.gl/XRAcUBRY8uRBA73k6", label: "2020年3月6日 雖然要一直閃狗跟行人 但跑起來都在節奏內 用12分多的速度維持六公里 有點進步了開心" },
+      { type: "link", content: "https://photos.app.goo.gl/YntmeXMfqjyw9kSu8", label: "2020年3月6日 兩萬公里保養 養車好難 錢包好痛 保養+保險 這個月等於沒薪水" },
+      { type: "link", content: "https://photos.app.goo.gl/3H6FGyKiNdNWxM4y6", label: "2020年3月6日 投資投起來" },
+      { type: "link", content: "https://photos.app.goo.gl/Xy2nBrWkFUrPe93GA", label: "2018年3月6日 \
+        有朋友問我相機選購問 題首先必須自己上網做一點功課再發問 統一給您兩件事情思考 \
+        我打算拍什麼主題人像 風景 街拍 動態活動 生活旅行 我有多少預算 先想清楚上面兩個問題再來考慮如何選購 下篇有品牌挑選詳解給大家做參考" },
+      { type: "link", content: "https://photos.app.goo.gl/Saov5FaswKKePSzD7", label: "2018年3月6日 很多人問為什麼不推c 還有目前最適合的廠牌" },
+      { type: "link", content: "https://photos.app.goo.gl/27Mx419mytJCPvjW7", label: "2018年3月6日 然後這是我看過最中肯的一句話 相信大家對相機品牌選擇有底了" },
+      { type: "link", content: "https://photos.app.goo.gl/BC5DXrtjqjZ3Srny8", label: "2018年3月6日 \
+        懶人包 Canon貴 功能又吝嗇 對焦寬容感光都大輸 唯獨二代大三元很猛直比定焦 可惜逆天的貴 \
+        Nikon價格合理 機身強 Cp值高 唯獨跟s比重了些 Sony也偏貴 但是輕巧 機身包覆性稍差之外 其餘多略赢nikon \
+        富士牌問jimmy.chang.09 發色漂亮但現在大家都會後製 時間不多 比較不常回覆私訊了 我自己也在n跟s猶豫中" },
+      { type: "link", content: "https://photos.app.goo.gl/s4PnSN67MeSzC1b6A", label: "2018年3月6日 好的問題分享給大家 這正是nikon最大的好處 若不嫌棄重量 Nikon二手價位真的很便宜" },
+      { type: "link", content: "https://photos.app.goo.gl/CSTk3SzeQJ4X9mqT7", label: "2018年3月6日 \
+        懶人包之二 二手之全片幅需準備價位+堪用超廣加中焦定焦價位 C 40000(5d3-6d2)+40000(t15-30+sig50) \
+        N 35000(d750)+30000(t15-30+n50) S 55000(a7r2-a73)+30000(s16-35/4+s55) 歡迎分享追蹤囉 " },
+      { type: "link", content: "https://photos.app.goo.gl/buJJEump24XGZiWy7", label: "2018年3月6日 有時候一張的dynamic range不夠 甚至得使用五張來彌補 這時機身性能就很重要" },
+      { type: "link", content: "https://photos.app.goo.gl/RbbgyCfqbRBmJnMP7", label: "2018年3月6日 感謝shadowkuo_photography 若要詳細比較各家性能可上dxomark camera database網站 希望趕快破萬粉 未來有資訊網址才能直接貼上 也能把更多攝影觀念 經驗分享給大家" }
+    ],
+    "7": [
+      { type: "link", content: "https://photos.app.goo.gl/oUKWbVTxUR47FjYH7", label: "2026年3月7日 這就是檢察官利用自己的特權在欺壓民眾啊" },
+      { type: "link", content: "https://photos.app.goo.gl/WYuGqHZ4V6qFo1oeA", label: "2026年3月7日 在外科急診多少還是有看過類似的 之前看過精神科老阿公剪自己的" },
+      { type: "link", content: "https://photos.app.goo.gl/hBgw5pbq7MXc9mB79", label: "2026年3月7日 我以前也跑3-4分速 那時候我都會自己繞出去 心裡告訴自己繞的越多今天的訓練長度就越長" },
+      { type: "link", content: "https://photos.app.goo.gl/huhLPcSM7Wtx7ngz9", label: "2026年3月7日 澎湖潘安邦故居 原本要買個咖啡結果咖啡廳幾乎都沒營業" },
+      { type: "link", content: "https://photos.app.goo.gl/q5jfDtibg4f4HKDT7", label: "2026年3月7日 直銷就是垃圾啊" },
+      { type: "link", content: "https://photos.app.goo.gl/59ULiC4N3Qp5bPfA9", label: "2026年3月7日 在開始學習門診代診或急診直接面對病人時 這真的很有感 這部影片很不錯 無論是民眾還是醫師 都有學習的點" },
+      { type: "link", content: "https://photos.app.goo.gl/aeNzuznmJCaxYhjv6", label: "2026年3月7日 \
+        神之谷 高千穗峽 這是個已經躺很久的口袋名單 這次從日文官網預訂非常方便 但要提早兩個禮拜搶票 \
+        一艘船5000日幣 時間抓早上9-10點最美 有機會目睹穿透兩岸樹林的斜射光 訂票時很多資料不必太認真填 訂完後準時取票就能划船 \
+        自駕建議第1第1御塩井駐車場 下車取票超級快 划船完還能順便拍高千穗峽 只是拍點是一個輪流自拍的小平台 無法佔位 旁邊有很小的商店街但偏無聊 \
+        另外這張照片用到新的修圖技法 局部打光 這原本是用在人物攝影的效果 風景上也很實用 \
+        建立空白圖層 用畫筆畫出打光區域 差異在這步驟 因為可以自由的限定出不規則的打光範圍 利用橘色描邊+混合模式+高斯模糊 就能做出非常自然的橘黃色光線 \
+        當然比起人臉 用在風景上的透明度要更低 才不會不自然" },
+      { type: "link", content: "https://photos.app.goo.gl/CJgi5FA8u3DtooMv9", label: "2026年3月7日 今年最滿意的一張風景 使用了一個新的光影技法 感謝日本給我跟一個美好的旅程" },
+      { type: "link", content: "https://photos.app.goo.gl/GfF187a9veKahasd8", label: "2026年3月7日 分享一下高千穗這個絕美景點給大家 資訊在內文" },
+      { type: "link", content: "https://photos.app.goo.gl/rcDYdaXZrFywsNMV6", label: "2026年3月7日 我連出現都沒有了QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/awXuLQjmaGmp9qEy5", label: "2026年3月7日 帥爛" },      
+      { type: "link", content: "https://photos.app.goo.gl/nwkYSnqWhPcBW19r5", label: "2024年3月7日 \
+        IVIG有沒有推薦的快速口訣啊 常常緊張就忘了 瞎掰了一個 有錯請指正 \
+        移免感肌 諧音你免感激 移 移植排斥 免 免疫低下或相關 如ITP 感 感染嚴重 肌 肌肉神經如GB" },
+      { type: "link", content: "https://photos.app.goo.gl/Pq5m2pHsJ9XdW4hz5", label: "2023年3月7日 請問大家遇過 MAC連不上手機熱點 這個問題嗎 為了傳報告連了五分鐘都沒用 就算手機頁面開著熱點也沒用 這到底有沒有解" },
+      { type: "link", content: "https://photos.app.goo.gl/js23fUx1iqqAaXtd6", label: "2023年3月7日 最近比較忙一點 也剛從日本回來 後續會找時間好好整理一些臨床筆記" },
+      { type: "link", content: "https://photos.app.goo.gl/6RF1hsUHXhzXD7Qx9", label: "2023年3月7日 \
+        台中旭暮 隱藏在旅社地下室的早午餐 我們這次點炙燒牛排雙人大早餐 牛排又熱又嫩 搭配酥脆的薯絲餅跟鮭魚是超級大享受 \
+        基本上主餐跟配料都沒的挑剔 用餐環境也很寬敞 唯獨份量中間偏稍小 吃完感覺還能加個下午茶" },
+      { type: "link", content: "https://photos.app.goo.gl/LiXYmb8cAWZKHUVu9", label: "2022年3月7日 \
+        台北 櫻木花道 生活分享No.11 攝影作品都是構圖與光線結合的 構圖來自拍攝前的功課 在內心寫下草稿 預設可能需要的畫面素材 \
+        光線是老天爺看臉色給的 運氣不錯時也會遇到出乎預料的美景 努力衝景不一定會拍到好照片 但沒有衝景就沒有機會遇到好照片 \
+        所以好希望趕快退休 退休後繼續燃燒熱情拍照 不要再重修舊圖了" },
+      { type: "link", content: "https://photos.app.goo.gl/rZ7J8eRXzn8XpWcSA", label: "2021年3月7日 好吃的千層 也很適合坐坐 塔吉特信義人文館" },
+      { type: "link", content: "https://photos.app.goo.gl/MD8nX6sgZgGeANdE7", label: "2020年3月7日 18歲我也在打cso" },
+      { type: "link", content: "https://photos.app.goo.gl/NPgn9nFwThBW2zsi6", label: "2020年3月7日 醫護人員的權益需所有人重視與珍惜" },
+      { type: "link", content: "https://photos.app.goo.gl/np6NqTmZpWnuTngY6", label: "2020年3月7日 醫官生日快樂 可以幫我開轉診單嗎 醫官會扣假嗎 會扣的話我吃止痛藥就好" },
+      { type: "link", content: "https://photos.app.goo.gl/eNAZcDJj99rctevx7", label: "2019年3月7日 帶我入坑 不然這十年手遊我只玩旅遊大亨" },
+      { type: "link", content: "https://photos.app.goo.gl/ybjwo4dAmbQrPxnR6", label: "2019年3月7日 下載好itune 想把電腦影片傳進iphonexr 但一直失敗 請問要如何傳影片進手機 傳進手機後影片會在手機裡的哪裏 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/hCr8sg7GP77Gm7H56", label: "2019年3月7日 手機跟itunes有關的只有這兩個app 但兩個似乎都沒解 另外相簿也沒有看到同步後的影片 不知道怎樣做才算成功同步把影片載到哀鳳裡" },
+      { type: "link", content: "https://photos.app.goo.gl/QsHbm93wSauqZJ2s7", label: "2019年3月7日 謝謝某位網友解答同 步後的影片在這個資料夾 萬分感謝提供解法的所有人 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/xiLbSFKq5dXjcDuq5", label: "2019年3月7日 我知道妳不喜歡辛苦的追景 卻仍陪我跑過很多日出日落銀河" },
+      { type: "link", content: "https://photos.app.goo.gl/sdL8CesJdvEfSQyZ9", label: "2019年3月7日 文章內的spotify試用連結無法顯示 因此我放在這限時的連結 上拉即可唷" },
+      { type: "link", content: "https://photos.app.goo.gl/raRqvD88jMyig8QHA", label: "2019年3月7日 \
+        久違的情侶自拍 紀錄了我在埔里遇到好多的美景與美食 還有最重要的是能跟妳分享這一切 \
+        雖然工作依舊如大浪不斷逼迫與侵蝕 但我會努力的成長 讓說好的未來不是白日 \
+        以下推文開始前 我用自己的良心跟誠意宣示 我是spotify的超級愛用者XD \
+        我的工作常會一連幾十天沒有網路或訊號非常差 因此下載高音質的音樂對我格外重要 \
+        Spotify自從去年我試用後就加入會員 並且用了半年多直到現在 月付一百初而已 因為不多所以沒在注意 \
+        不管修圖還是運動, 用來讓自己更專注 尤其常聽alan walker 如果你有興趣 可以擊點我的連結獲取60天免費試用 \
+        最後spotify很適合喜歡西方音樂的朋友 而且我發誓自己用了很久誠心推囉 因為無法點我放限時" },
+      { type: "link", content: "https://photos.app.goo.gl/iLouLLyEWBaJxzwt9", label: "2018年3月7日 Working as a doctor Passion as a photographer" },
+      { type: "link", content: "https://photos.app.goo.gl/1Cjem2nBMJdX9muF9", label: "2018年3月7日 \
+        似曾相似的情景 其實這就是我們的處境 不過還在醫師訓練階段的我沒有資格放棄 本業依舊第一位 \
+        很多人可能沒想過 為何很多醫生最後會變成其他專業的佼佼者 市長 作家 攝影師 街舞等等 \
+        其實台灣醫生的養成並非在踏入醫學院的那刻 而是在你國中高中開始 你就會被父母冀與希望 若沒有但是你成績不錯 \
+        就會被老師校方甚至同學翼與希望 長久以來在學業的成就感 會讓你慢慢逃脫不了 好像沒有立志當醫生會很對不起自己對不起別人 \
+        可是那年紀的我們沒有去問 當醫生要的是功課好的 還是在了解醫療環境的險惡之後還願意付出熱情的 \
+        我們這群傻傻的高中生 幾乎都是名校的前幾名 我高中一直是全校第一 原先第一志願是台大物理 理所當然的要在醫科榜單上 \
+        可是 我相信絕大多數的我們 都不了解當醫生是怎麼一回事 也一直誤以為可以賺很多錢結果根本還好 \
+        所以你以為醫生辛苦從考上醫學系開始嗎 錯 從年紀十幾歲上國中就開始了 \
+        當醫生最重視的是責任 但沒有熱情何來全心的投入 加上環境惡劣 收入被賤保東砍西砍 \
+        各位記得前幾天我貼的婦產科指定醫生費新聞嗎 有可愛的網友問我醫生能拒絕加班嗎 答案是不行 你看過醫院沒有醫生護理師嗎 \
+        你看過醫生罷工放醫院空城嗎 至少在台灣我們不被允許 這裡就不提常常被奥客病人提告 很多醫生忙都忙死只能選擇付錢妥協 \
+        很多人卻不知道無知的恐龍家屬讓醫院背黑鍋 他們也是殘害醫療制度的兇手 最後重點是 醫生也是人 也需要經營私人感情 \
+        也會有特殊過人的專長 他們不是機器人 為何台灣的環境不能給醫生合理的空間發揮 \
+        最後公職軍職很多兼職並非為了賺錢 只是為了在興趣上投注熱情 但腦殘的官僚只會礙手礙腳把大家都當成他們那種下等人一樣為了錢真的很可笑 \
+        沒有發揮的空間如何調節走在這條路的苦悶 一個國家把人當成機器 有待進步的空間還很多  還有很多敏感話題就不說了 謝謝看完" }
+    ],
     "8": [],
     "9": [
       { type: "link", content: "https://photos.app.goo.gl/ukNHpGmXEUfdgxzD8", label: "2017年3月9日 昨天搖豆漿是因為他結冰惹 超低能ㄉ" },
