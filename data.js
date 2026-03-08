@@ -3306,7 +3306,94 @@ const records = {
         最後公職軍職很多兼職並非為了賺錢 只是為了在興趣上投注熱情 但腦殘的官僚只會礙手礙腳把大家都當成他們那種下等人一樣為了錢真的很可笑 \
         沒有發揮的空間如何調節走在這條路的苦悶 一個國家把人當成機器 有待進步的空間還很多  還有很多敏感話題就不說了 謝謝看完" }
     ],
-    "8": [],
+    "8": [
+      { type: "link", content: "https://photos.app.goo.gl/mwyqvErhdq6M36Gg9", label: "2026年3月8日 \
+        沒有公開評分制度 放屁 我教學總醫師 每個月都在處理醫學生的評分 甚至很多制度都一直在更新跟改進 考試種類也非常多 台灣的醫學系基本上全部都這樣 \
+        你全家才服務業 台灣的病人家屬在病人真的出嚴重問題時 要求的是主治醫師親自來解釋 論是不是值班時間 \
+        我當rotate R時 就有四十幾歲男性爆肝找不到原因 半夜急救 主治醫師請假因為家屬要求 被迫從外縣市趕回來病解 \
+        再說 主治醫師就是完全責任制 很早來醫院查房 忙完都晚上八九點甚至半夜 沒有加班費 \
+        講什麼屁話 自己去查新聞 主治醫師沒有勞基法 醫院說不續聘就不續聘 主治醫師換醫院服務 也要看有沒有開缺 \
+        你去餐廳吃飯也人命關天啊 萬一你噎死了怎麼辦 你去掃廁所也人命關天啊 萬一沒拖乾淨有人滑倒摔死了怎麼辦 \
+        你這就是在滑坡 智商要更低才會信你這鬼扯比喻 整篇比AI寫的廢話還爛 誤導之外還想抹滅醫師的努力 把你臉打的啪啪響剛好而已" },
+      { type: "link", content: "https://photos.app.goo.gl/itpM6zpUoKvx6krR6", label: "2026年3月8日 Fact check是醫院該教的 醫院教的叫做EBM 全世界的醫療業都存在類似問題 不是只有你國家醫師制度跟你說的一樣沒問題" },
+      { type: "link", content: "https://photos.app.goo.gl/vZrTY3yamccHGt2L8", label: "2026年3月8日 你光講醫師是服務業 就值得被嗆爛 沒有醫師應該是服務業" },
+      { type: "link", content: "https://photos.app.goo.gl/2Mcb138f56RuUpBg7", label: "2026年3月8日 果然是個思想偏激而且極度自私的發文" },
+      { type: "link", content: "https://photos.app.goo.gl/Y1db5WkxhK22NLLaA", label: "2026年3月8日 練的有夠好" },
+      { type: "link", content: "https://photos.app.goo.gl/FFo2vFFyoHiJdnbN8", label: "2026年3月8日 他真的是我看過長最可愛的超小猴" },
+      { type: "link", content: "https://photos.app.goo.gl/7X7EMzMCA5EqV7Z2A", label: "2026年3月8日 太讚了" },
+      { type: "link", content: "https://photos.app.goo.gl/kRQs6gaUnZKg9k45A", label: "2026年3月8日 抖抖抖直可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/A3pp3QWTwzR531hh9", label: "2026年3月8日 好的" },
+      { type: "link", content: "https://photos.app.goo.gl/xKMj35GDEWiCvv2UA", label: "2026年3月8日 完賽了" },
+      { type: "link", content: "https://photos.app.goo.gl/wXFPmQZD3T5sz4mG7", label: "2026年3月8日 我一定是瘋了才一大早不拍日出來跑五公里" },
+      { type: "link", content: "https://photos.app.goo.gl/b9svwAaFDkU6TF617", label: "2026年3月8日 大哥交棒給我 是這兩年最大的榮譽 國道一高速公路" },
+      { type: "link", content: "https://photos.app.goo.gl/HVNWFUzFwNubW2HL8", label: "2026年3月8日 解鎖在國道一號跑步" },
+      { type: "link", content: "https://photos.app.goo.gl/GcVgmAGR3bhqGdqT9", label: "2026年3月8日 結果最大的問題是大家回來根本找不到人交棒 笑死" },
+      { type: "link", content: "https://photos.app.goo.gl/TzokmpS846RQkowV8", label: "2026年3月8日 第一棒 全村的希望" },
+      { type: "link", content: "https://photos.app.goo.gl/E7uw34nMeSsdP1cA7", label: "2026年3月8日 敦煌碼頭 TET TEST POSITIVE" },
+      { type: "link", content: "https://photos.app.goo.gl/MQA2gWG9AbhnfFVK6", label: "2025年3月8日 \
+        但願世界上能多點像你這樣聰明有智慧的人 希望您堅持到底絕對不要來西醫被荼毒 \
+        這樣病人才不會一窩蜂都跑來醫院累死醫師護理師 直接在家走的很安詳多好啊" },
+      { type: "link", content: "https://photos.app.goo.gl/KA9aihaEtywSDtde6", label: "2025年3月8日 自虐兩個字真的完美傳達心臟科 真的每天都在自虐挑戰自己的體力 知識跟耐心極限" },
+      { type: "link", content: "https://photos.app.goo.gl/P8Jfzc78YssFWHWr7", label: "2025年3月8日 可以參考一下某位大神的流程圖 知道自己適合不適合國防醫" },
+      { type: "link", content: "https://photos.app.goo.gl/YXYdSUdrUuweWCq69", label: "2025年3月8日 豆豆小籠湯包 找到的 超級超級好吃" },
+      { type: "link", content: "https://photos.app.goo.gl/ABe8gYHRAKcp5wbP9", label: "2025年3月8日 白水湖小島 壽島" },
+      { type: "link", content: "https://photos.app.goo.gl/tq2WzAbasPSSsvuv8", label: "2025年3月8日 真會拍哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/d2xjMtpWJSVrRhxt9", label: "2025年3月8日 哈哈哈哈這樣才有家的感覺ㄚ 都整理很乾淨就很像飯店沒有安全感" },
+      { type: "link", content: "https://photos.app.goo.gl/FMTFnhVQmPT5qnNVA", label: "2025年3月8日 他還知道有夠難吃" },
+      { type: "link", content: "https://photos.app.goo.gl/UFyznfz9fXNkeZDF8", label: "2025年3月8日 真的很可惡的飼主" },
+      { type: "link", content: "https://photos.app.goo.gl/BRA49F1ryfXxnJ2o8", label: "2025年3月8日 哈哈哈這個貼圖超好用" },
+      { type: "link", content: "https://photos.app.goo.gl/MNWXVR1JVev2fEZH7", label: "2025年3月8日 多多也是聰明臉但很兇" },
+      { type: "link", content: "https://photos.app.goo.gl/LcgVKVesQ6scRnc1A", label: "2024年3月8日 歷史的3/8 台股2萬" },
+      { type: "link", content: "https://photos.app.goo.gl/QuyvmsbAcXi9kJ528", label: "2024年3月8日 既蠟筆小新 遊戲王之後 七龍珠也正式完結篇了 童年的回憶一個個凋零 能做的只有未來努力買他們的公仔收藏 藉此回味" },
+      { type: "link", content: "https://photos.app.goo.gl/RC6ujoLAKCN2rHdW8", label: "2024年3月8日 笑死 連說謊都救不了他" },
+      { type: "link", content: "https://photos.app.goo.gl/nVzixBz4pFqJkYZQ8", label: "2024年3月8日 這哪是貧血症狀啊= =" },
+      { type: "link", content: "https://photos.app.goo.gl/ugnp9mdK33z8i7H17", label: "2024年3月8日 哈哈哈超酷" },
+      { type: "link", content: "https://photos.app.goo.gl/6y8v4i6SJszxK4Zr9", label: "2023年3月8日 \
+        我的上一篇貼文 照片其實是LR簡單處理而已 心裡很不滿意好幾次想刪掉 今天趁著下值班後有靈感 重新處理過作品 \
+        光影細節終於滿意 想想還是不要刪那篇 但明天發文來說明一下我如何處理這些可愛達摩的後製方法囉" },
+      { type: "link", content: "https://photos.app.goo.gl/5UGfBySFg5FgmjMSA", label: "2023年3月8日 \
+        看 那個達摩有屁墊 攝影分享No.18 群聚的達摩像 用眼睛看真的震撼感十足 但想把這種畫面修圖還原 還真不容易 \
+        不能修過頭 也不能修不到位 有兩個重點 顏色色溫及光線 顏色色溫等部分 因為紅色佔據多數 太淺會偏橘 太深又會很膩 \
+        因此我先稍微把色溫往冷掉拉 另外加深明暗對比 讓紅色能凸顯卻不會偏差 光線則是最重要的部分 先決定誰是主角 \
+        這張照片是中間這位最爽 有笑屁墊坐的達摩為主角 這個小屁墊要加價購買的XD 因此我想讓光線集中在他身上 \
+        而實際上我主要打周邊加暗及他身邊達摩的陰影處理出來 最後加強主角面光測的亮度 這種場景千萬別用放射濾鏡去拉 \
+        會變成不自然的探照燈 下一篇我要來寫關於旅行拍攝的鏡頭選擇了 同樣也是攝影相關文章 有任何問題歡迎提問唷 感謝lian_yujie載我跟一起去" },
+      { type: "link", content: "https://photos.app.goo.gl/G13hop1S2gWZGvfK7", label: "2023年3月8日 第一次跟健身館吵起來是萵苣 第一次買會員也是萵苣 不過內湖這家新開的跟高雄楠梓那家不同 不會很沒品的照三餐打電話推銷跟不買會員就擺臉色 錢砸下去一定要堅持下去了" },
+      { type: "link", content: "https://photos.app.goo.gl/adbZKNNbVA3CJg6r5", label: "2023年3月8日 \
+        京都平等院夕陽 京都的平等院 是口袋裡放很久的名單 意想不到的是 抵達平等院前的宇治小商圈美得不像話 \
+        很像走進漫畫裡的茶屋商圈 乾淨街道 焙茶的香味跟古色古香的木屋讓人忘卻時間 光是星巴克宇治店的福吉茶拿鐵 \
+        濃烈溫醇的香氣狠甩台灣星巴克任何一種拿鐵 宇治真的寧靜而美好 很推薦但也私心希望不要有太多遊客 \
+        另外平等院是禁止腳架拍攝 但因不是楓葉季 門口管理阿姨特別讓我們使用 搭配第一次幫忙試用的產品Velium濾鏡 \
+        讓我不用帶著Nikon z 14-24mm的大遮光罩 實在太方便了 希望能有更多自由 放下工作 好好拿相機用餘生紀錄世界 \
+        順便推薦一下在日多年當專職攝影師的好友連昱傑 大阪跟京都和服 婚紗都可以找他 費用便宜又水準到位 不會失望的" },
+      { type: "link", content: "https://photos.app.goo.gl/hxj2ViLGRKHrw2DQ8", label: "2021年3月8日 \
+        Window系統輸入網路給的免費金鑰結果右下方一直有啟動失敗字樣 但可以使用 +PS CC2019修圖點沒幾下強制關好幾次 +網路網站帳密登入持續失敗 \
+        可能不是電腦本身問題 +螢幕色溫嚴重偏差 +已經使用四年 我是否該砸錢換電腦了 砸錢換 繼續撐" },
+      { type: "link", content: "https://photos.app.goo.gl/zQaTC2T9PwGrT3uW6", label: "2021年3月8日 奇美醫院王志中副院長 也是74期大學長XD" },
+      { type: "link", content: "https://photos.app.goo.gl/5Eg6nSuK4CmZkdJu6", label: "2021年3月8日 \
+        人少餅大薪水才高 好奇一查發現 原來台灣執業律師比執業醫師少很多 以107年2018來說 西醫師有47471人 律師有17288人 \
+        不過西醫裡還是以住院醫師佔多數吧 主治醫師感覺應該一半左右而已 瞎猜的 冷知識而已沒什麼意義的發文XD" },
+      { type: "link", content: "https://photos.app.goo.gl/qNDWzcqnKcDwKiC49", label: "2021年3月8日 \
+        南山寺 日出雲海 台灣的美景少不了一堆不搭嘎的人造建築跟設備 跟國外純天然的整片大景有落差 \
+        不過也顯示台灣人的韌性 在小小的土地上做最大的利用" },
+      { type: "link", content: "https://photos.app.goo.gl/uybXEP4hywejuvB69", label: "2020年3月8日 開心幸福的晚餐" },
+      { type: "link", content: "https://photos.app.goo.gl/PwS3HHhhUJ91PZ6N6", label: "2020年3月8日 恭喜同學 等下要從台北殺回台南 累一個" },
+      { type: "link", content: "https://photos.app.goo.gl/E3VEHPeQCnNjopSPA", label: "2020年3月8日 拍照找我朋友 他專業 優惠 又細心負責" },
+      { type: "link", content: "https://photos.app.goo.gl/8myVF6WH7vCCHVas6", label: "2019年3月8日 \
+        宜蘭羅東 到奇怪的地方也超過半年了 心態調適了很多很多 但仍然會因為某些人的自私與不尊重而動怒 可能修養還不夠 \
+        但幸好短暫的假期能與妳相會 讓我充電後用正面的能量承受壓力 把憤恨的事情用力壓在內心裡 默默的撒在後腦但不遺忘 \
+        或許多年以後會對現在的種種一笑置之 但經歷的所有事情 都會讓我學習成長 也更看清自己與別人面對意料外的出海 \
+        沒有網路的時候好好充實自己吧 謝謝女友支持鼓勵 妳也加油" },
+      { type: "link", content: "https://photos.app.goo.gl/17HtU4jR3p3ed2pq8", label: "2018年3月8日 我爸媽就是這樣對我的QQ 雖然沒有那些名目但是概念作法幾乎一樣" },
+      { type: "link", content: "https://photos.app.goo.gl/x7ed3L4H7CzRFuqc9", label: "2018年3月8日 快來verotruesocial跟我互加好友吧" },
+      { type: "link", content: "https://photos.app.goo.gl/BEAhYFyZsKHs6kva8", label: "2018年3月8日 敬請期待 目前我吃到全台灣cp最高之拉麵即將出爐" },
+      { type: "link", content: "https://photos.app.goo.gl/NHpW8LV1fUYJkrL26", label: "2018年3月8日 東江風 風風亭拉麵 100元蛋蛋口味 豚骨95元 先來看看這麼大碗的價位 加麵不用錢" },
+      { type: "link", content: "https://photos.app.goo.gl/94q5CqrRh1AVq5K68", label: "2018年3月8日 超推15元小菜玉子蛋 因為他是給你一顆蛋啊啊啊啊而且入味 不推豆乾 不入味不嫩" },
+      { type: "link", content: "https://photos.app.goo.gl/aMnmmboSkGTZGNvN8", label: "2018年3月8日 \
+        總評 東江風 風風亭拉麵 優點 以平均100元的價位吃200元等級的拉麵Cp是全台之冠 湯頭濃郁 麵量足可免費加麵 夠飽 \
+        停車位多 玉子蛋超讚 很推薦來吃不論正餐或嚐鮮 缺點 麵質普通 但以這個價位已經很猛 不Q但有嚼勁 \
+        今平日而且天氣差 開店前就有人在等 想必假日可能得排隊 豆乾不好吃" }
+    ],
     "9": [
       { type: "link", content: "https://photos.app.goo.gl/ukNHpGmXEUfdgxzD8", label: "2017年3月9日 昨天搖豆漿是因為他結冰惹 超低能ㄉ" },
       { type: "link", content: "https://photos.app.goo.gl/3HSgReKURXd4du846", label: "2017年3月9日 每次值班至少兩個new pa 一個lumbar puncture 到底誰說小兒爽的 但學到很多特別的case 非常充實" }
