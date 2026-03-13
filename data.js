@@ -3520,6 +3520,13 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/aerwBhi8TfGNK1nr9", label: "2017年3月11日 打飛機 好涼" }
     ],
     "12": [
+      { type: "link", content: "https://photos.app.goo.gl/emBTM1fWc2vWEXXu9", label: "2026年3月12日 SAH 不然就是AMI 女性症狀可能不典型" },
+      { type: "link", content: "https://photos.app.goo.gl/UnvPkmzuQ7k4KJr1A", label: "2026年3月12日 無違和到差點以為是真的xd" },
+      { type: "link", content: "https://photos.app.goo.gl/sPaJGbABc2y17dZr8", label: "2026年3月12日 我要這種 超愛" },
+      { type: "link", content: "https://photos.app.goo.gl/ZXYVr89MqEpaWdBfA", label: "2026年3月12日 PCB是啥米" },
+      { type: "link", content: "https://photos.app.goo.gl/kASUDD2abAP1Rkco9", label: "2026年3月12日 左邊看了超醜超躁 感覺打開就要一直關廣告 下單就要單靠心買假貨 右邊簡潔有型 感受正常多了" },
+      { type: "link", content: "https://photos.app.goo.gl/atTXFQFhrCyr8QCU7", label: "2026年3月12日 好可愛 如果是明年應該有機會養" },
+      { type: "link", content: "https://photos.app.goo.gl/fT4QPbe3NjGrxzuN9", label: "2026年3月12日 我來幫你一起封鎖這些" },
       { type: "link", content: "https://photos.app.goo.gl/4Mqq5u6XCMenSDX88", label: "2026年3月12日 好可愛 真想排隊去看" },
       { type: "link", content: "https://photos.app.goo.gl/eDtiRUaTT1Nvdmp88", label: "2025年3月12日 以前上課聽到不懂的問題都放在心裡 也不敢問 久了就直接忘記 現在上課遇到問題就馬上問ai 馬上有答案好方便" },
       { type: "link", content: "https://photos.app.goo.gl/v4RMTBbXbE332wUE9", label: "2025年3月12日 贊成" },
@@ -3558,6 +3565,9 @@ const records = {
         蒙懂的高中生時期是否應該讓他們了解未來情況再讓他們做人生選擇" }
     ],
     "13": [
+      { type: "link", content: "https://photos.app.goo.gl/TN3FdWkdivctsKSQ7", label: "2026年3月13日 左謬就是這世界的垃圾 甚至說這些人嚴重智能不足都剛好而已" },
+      { type: "link", content: "https://photos.app.goo.gl/76HMjMUFSjWpaL5u7", label: "2026年3月13日 bkz199309值班發威 一早就來STEMI 血栓一大堆吸不完 一大坨成型的" },
+      { type: "link", content: "https://photos.app.goo.gl/ucpcYrRnBv97FazR9", label: "2026年3月13日 有了這部機器 隨時隨地都可以做心導管" },
       { type: "link", content: "https://photos.app.goo.gl/NdDKyyZBfheVfkcD7", label: "2025年3月13日 為什麼會不小心笑出來呢 因為想到騙了這麼多錢可以自己花誰都無法忍住不笑吧 為什麼會說未來不排除聯絡呢 因為說不定打定男生夠蠢繼續當提款機囉" },
       { type: "link", content: "https://photos.app.goo.gl/FLHNTWf582zA4mfi7", label: "2025年3月13日 都很好看" },
       { type: "link", content: "https://photos.app.goo.gl/xw8gqHFbU6spcn5TA", label: "2025年3月13日 一起收留了" },
