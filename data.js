@@ -3804,7 +3804,12 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/7wGtHq7AVNpVpLcP6", label: "2026年3月17日 想請問目前去首爾 如果攜帶行動電源 有無特別注意的規定 謝謝" },
       { type: "link", content: "https://photos.app.goo.gl/kC14ETPGy8b6GmpX9", label: "2026年3月17日 就說他快要可以讀大學了" },
       { type: "link", content: "https://photos.app.goo.gl/wYGfYY3iFDtgdjtT7", label: "2026年3月17日 他感覺已經補不下去了" },      
-      { type: "link", content: "https://photos.app.goo.gl/HR19XKSdLSDNeXVq8", label: "2026年3月17日 健身超重要" },      
+      { type: "link", content: "https://photos.app.goo.gl/HR19XKSdLSDNeXVq8", label: "2026年3月17日 健身超重要" },
+      { type: "link", content: "https://photos.app.goo.gl/qXf4SB1uf4MWGyu7A", label: "2026年3月17日 好" },
+      { type: "link", content: "https://photos.app.goo.gl/mi9Jb5rxKZe6K2Ex6", label: "2026年3月17日 這小相機哪裡買 我也要買" },
+      { type: "link", content: "https://photos.app.goo.gl/q9b8PrKCnMLU1ccR6", label: "2026年3月17日 真可愛 這樣才有趣" },
+      { type: "link", content: "https://photos.app.goo.gl/pG1jRWSmjpSfTyiAA", label: "2026年3月17日 有韓國通的大大知道這個首爾的樂透世界塔夜景拍點嗎 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/43ibHBRUrS5Ydy5s6", label: "2026年3月17日 夭壽 原來是韓國版硬漢嶺 一定要趁開會完用僅存的體力去走一趟 網路上根本沒多少中文資訊" },
       { type: "link", content: "https://photos.app.goo.gl/yx77UagWicqS5JfZ9", label: "2025年3月17日 嘻嘻 趕快簽下去 國家確實賺到了" },
       { type: "link", content: "https://photos.app.goo.gl/AXBqBMfVTmVJ3sPG8", label: "2025年3月17日 有把資金轉到國外帳戶 而且可以平時就線上申辦跟轉帳的方式嗎 這個年代什麼事情都可能發生 沒有要恐慌但需要自保" },
       { type: "link", content: "https://photos.app.goo.gl/JENNqnPApwJiYVV6A", label: "2025年3月17日 好想去 每次看到都覺得當初自己的選擇蠢到沒極限" },
@@ -3830,12 +3835,124 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/zeoDzc16SpXGuVLh8", label: "2019年3月17日 就算只有半天 要騎車轉車再轉車經過半個台灣 也不能被這爛環境困住 仍然要去找妳" }
     ],
     "18": [
+      { type: "link", content: "https://photos.app.goo.gl/Y3TFqrZMTeBcnXhJ7", label: "2026年3月18日 \
+        這個疾病可能要找內科的醫生看 但說真的這很少見 通常是因為肺癌導致上腔靜脈回流受阻 \
+        我也只看過兩個 不能完全怪醫生 但確實他臉跟脖子腫真的有問題 很怪 如果是我遇到 至少要排檢查 CXR甚至CT等" },
+      { type: "link", content: "https://photos.app.goo.gl/hELtAYhsS3eq849L6", label: "2026年3月18日 敲碗官方繼續出貼圖" },
+      { type: "link", content: "https://photos.app.goo.gl/eyPraVjKFSu12KKE9", label: "2025年3月18日 他們在尬舞 誰轉到誰跳但主人不跳" },
+      { type: "link", content: "https://photos.app.goo.gl/BApivdhtDfgSQAydA", label: "2025年3月18日 超想去" },
+      { type: "link", content: "https://photos.app.goo.gl/9nPCpzCJDx8LbN3n9", label: "2025年3月18日 因為他在拔個鴨鹿" },
+      { type: "link", content: "https://photos.app.goo.gl/UL5Q3bixf3ZBeW3w6", label: "2025年3月18日 這個好可愛 但一定會被咬爛XD" },
+      { type: "link", content: "https://photos.app.goo.gl/5TnBRwkJwTovTupW9", label: "2024年3月18日 \
+        這讓我想到一些事 我從來不會去罵護理師 甚至連醫院掃地的阿嬤我都對他們很尊敬 很禮貌 \
+        但我曾經跟護理師吵架 有次是跟某病房護理長大吵 原因是他不讓醫師使用護理站電腦 理由只是要求把電腦全部讓給護理師打紀錄 非常扯 \
+        但我想說的是 不只有些醫師會罵護理師 有些護理師也會罵醫生或者私下跟主治醫師講壞話 我也曾經因上班需要臨時做治療被靠北過 \
+        最重要的 醫生跟護理師在醫院都是受害者 都是領著不成付出比例的低薪 沒有哪一方比較高貴 也沒有哪一方永遠都是受害者 \
+        這麼差的環境就是互相尊重 互相幫忙 只有互相體諒跟善待 才能在這種職場多撐一天" },
+      { type: "link", content: "https://photos.app.goo.gl/DnwcLGSsCvDXG1sHA", label: "2024年3月18日 \
+        112內專考題 實在搞不懂老師想考什麼貼 我只確定病人不需要馬上洗腎 也應該沒有酸血症不需要捕bica ACE到底該怎麼選 \
+        求內科大神幫忙解答老師題意 答案是A 我選E 正常來說降鉀第一步不是讓心臟細胞膜電位穩定嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/21BMDjmb9tMJknKm8", label: "2024年3月18日 我也要+1" },
+      { type: "link", content: "https://photos.app.goo.gl/11eMYAebJnW7cvBF7", label: "2022年3月18日 \
+        不過不意外 國防就這麼小 就是有些人喜歡據說 把別人黑的一文不值 很棒的校風 \
+        到底哪個病人可以是Vs自己來拔sheath 哪個病人是護理師摳我我沒有去處理的 交班離開前一天我還去找正忠簽診斷證明 \
+        激怒在哪 我怎麼看不出來 其實有種一點請當事人指名哪天哪床病人我沒好好處理 不用躲在暗處造謠我又不會搶科zz \
+        一月有次做完cath 要拔的時間已經17之後 因為我當天值33被摳過去 沒辦法處理 有交班給學弟幫忙 \
+        那天也有學長提醒我這個病人血壓比較低要小心 後來學弟跟我說他要拔的時候遇到正忠來看病人 正忠主任就自己處理掉 \
+        那個病人因為拔完有hematoma 還在出血被轉進ccu觀察一天 我不曉得是不是這件事情 可以求證一下" },
+      { type: "link", content: "https://photos.app.goo.gl/LUJRXmZ8Gd3VR8kKA", label: "2022年3月18日 \
+        那是另一件事情 而且是誤會 有個家屬我壓完20分鐘 也沒有再流血了 我請旁邊女兒幫忙再壓一下 我去護理站拿紙膠\
+        剛好被一個瘦瘦戴眼鏡的護理師看到 直接摳f說我讓家屬自己壓== 然後f找我去心導管室 我解釋之後才解開誤會 \
+        F說不管怎樣不要讓家屬做壓傷口這個動作 以免之後有什麼事他們可以怪罪 就是這麼單純" },
+      { type: "link", content: "https://photos.app.goo.gl/c6QWN4RZ7ixMBptn7", label: "2020年3月18日 0050成份裡佔比最大的金融股" },
+      { type: "link", content: "https://photos.app.goo.gl/TYCcLd8rBJTc29BE9", label: "2020年3月18日 當還有力氣跟興趣訓練的時候 就要撐過想放棄偷懶跟小腿緊酸的疲勞感" },
+      { type: "link", content: "https://photos.app.goo.gl/JmtywtUqmi1CCAhq8", label: "2019年3月18日 今年最好笑的是 高中生吳展旭媽媽透過網路 問吳展旭醫官讀國防醫學院軍費生好不好" },
+      { type: "link", content: "https://photos.app.goo.gl/5EchvKLAQbpYDQsk9", label: "2019年3月18日 \
+        金龍山觀日出平台 最美的時刻永遠是最短暫的 日出前的半小時藍調 肉眼也能看到這樣如夢的大景 \
+        因為親眼看到 才相信藍調時刻眼前就是這麼美QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/9KEuDByxcCza7pse7", label: "2018年3月18日 每次都當衣架跟行李架 阿薩斯雕像" },
       { type: "link", content: "https://photos.app.goo.gl/qETQjsESGicA77S19", label: "2017年3月18日 \
-        推廣 DNR 全拒 最狂icu護理師 為了減輕癌未重症病患的痛苦 靠攝影作品宣傳理念 免除插管急救 超讚的 也是目前在醫療圈看到最強的攝影師了 雖然她說只玩兩年也太謙虛 "},
+        推廣 DNR 全拒 最狂icu護理師 為了減輕癌未重症病患的痛苦 靠攝影作品宣傳理念 \
+        免除插管急救 超讚的 也是目前在醫療圈看到最強的攝影師了 雖然她說只玩兩年也太謙虛 "},
       { type: "link", content: "https://photos.app.goo.gl/Pe3GJcKqTcWC7sNEA", label: "2017年3月18日 潤喉" }
     ],
-    "19": [],
+    "19": [
+      { type: "link", content: "https://photos.app.goo.gl/1yNwxzn4MTjFpmtk7", label: "2026年3月19日 \
+        一堆比妳拼命認真努力工作的人都沒時間或沒錢出門玩了 這還好意思用討的喔 \
+        要捐錢也是捐給醫師跟護理師這種真的幫助社會但低薪的人 不可能捐給你去爽zzz" },
+      { type: "link", content: "https://photos.app.goo.gl/84dctFFcSQABpm4h8", label: "2026年3月19日 軍醫最大的優點就是沒有優點" },
+      { type: "link", content: "https://photos.app.goo.gl/SP9ezkDQfLA3WoHw9", label: "2026年3月19日 根本就同一家人哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/LjtUuAvj49KGsJHr6", label: "2026年3月19日 居然還有triple kill" },
+      { type: "link", content: "https://photos.app.goo.gl/8qZprtNvfq6t8v216", label: "2026年3月19日 但感覺每個後來都長很像捏" },
+      { type: "link", content: "https://photos.app.goo.gl/3ySxjViz65sRETRZ8", label: "2026年3月19日 對面選個牛魔王 匪類 伊格 綺羅 董或小丑 直接輾過去" },
+      { type: "link", content: "https://photos.app.goo.gl/bKVD3ScTZWaazuLYA", label: "2024年3月19日 \
+        急性腹瀉若帶有出血 白血球或裏急後重症狀 就是發炎性腹瀉 實在太難背了內專還硬要考 \
+        沙門自大困曲腸 沙門太自大了 被困在彎曲腸子裡 亂衝找路造成腸出血 \
+        沙門Salmonella 自志賀Shigella 大大腸桿 EHEC不是ETEC 困困梭c difficle 曲曲狀桿Campylo 腸腸炎弧菌Vibrio para" },
+      { type: "link", content: "https://photos.app.goo.gl/3HvEEWjkoyAs1npAA", label: "2024年3月19日 內專的考官真的跟變態一樣 這種題目鬼才會 要把Harrison幾千張圖表全部背起來才會吧= = 見下頁" },
+      { type: "link", content: "https://photos.app.goo.gl/uzmFbAEf5PUVNoCNA", label: "2024年3月19日 就是這張圖表誰知道下次要考致病菌還是抗生素選擇 先用無腦口訣把考過的記起來 真的考試求神佛保佑 類似的圖表少說一千張難道背起來是內科醫師的基本嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/8Ub4ReGEyfd3Srf97", label: "2024年3月19日 \
+        2024基本上一整年 下班回家就是寫考題跟讀書 讀了又忘 讀了又讀不完 今年是人生重要考試的一年 後年還有一次地獄級 \
+        人生最難的一次 有夠虐心 所以完全沒辦法更新作品跟修圖 每個月都繳PS LR的費用 但根本就忘了自己有安裝= = 2024人生最痛苦的其中一年" },
+      { type: "link", content: "https://photos.app.goo.gl/RWBtpGC75eQy3ej18", label: "2024年3月19日 我錄的欸哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/EPJ5nZcwD4NKtL2r5", label: "2024年3月19日 這是真的可以這樣用 只是我不敢用我的聽診器哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/zUxoPhYPqphimQA57", label: "2024年3月19日 已經累到不小心睡著就會起不來" },
+      { type: "link", content: "https://photos.app.goo.gl/VMmkuv4FNKqPTjAg9", label: "2023年3月19日 沒有任何工作的成就 可以取代能在今生去冰島好好拍照一次 唉" },
+      { type: "link", content: "https://photos.app.goo.gl/GyPPXvjVjK8htM948", label: "2023年3月19日 \
+        同學割愛 超佛賣給我這個資深海迷 正版超新的三上將跟克洛克達爾 回家後問他們各自叫什麼 回答如圖 \
+        這是索隆 這是香吉士 口氣非常有自信 很開心 她已經很盡力把聽過的名字都講出來了" },
+      { type: "link", content: "https://photos.app.goo.gl/cwBRvVEdzcJ2P2JCA", label: "2023年3月19日 目前常駐防潮箱 鏡頭超新 有興趣私我喔喔喔" },
+      { type: "link", content: "https://photos.app.goo.gl/XZND5eCrW9oF87BU7", label: "2022年3月19日 原本是滿想買的 不過看到實品之後 還是覺得其他正版2-300元的模型質感比較好XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/FbfHXKVqijuJMccg9", label: "2022年3月19日 台南高雄有機會火燒雲" },
+      { type: "link", content: "https://photos.app.goo.gl/MHT3bo4TME5NH1gf7", label: "2022年3月19日 香港迪士尼樂園翠樂庭餐廳" },
+      { type: "link", content: "https://photos.app.goo.gl/WJHPaP6ZuKqG7h2W6", label: "2021年3月19日 \
+         源於2014年同班機與在杜拜機場的巧遇 結果又在義大利相遇 請我跟同學好吃的手作義大利麵 而認識了這麼可愛又親切的學長姐XD \
+         聊了很多外面醫院的趣事 聽的很過癮 一位復健科一位小兒科真是令人羨慕的組合 先祝福兩位天長地久 幸福美滿 \
+         值班平安及順利通過專科&次專科考試 迎向人生下一階段啦 下個月見 好丘Good Cho's信義店" },
+      { type: "link", content: "https://photos.app.goo.gl/zesxxaB1VK4nHp5S9", label: "2021年3月19日 \
+        隨便一個病人來治療 閒聊就說兒女在華航工作 所以順便在南京東路買一間房 \
+        這真是順便啊 其實現在很多病人都比醫師有錢很多 這個時代 當醫師只求溫飽QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/j9T1k3xA8uJBK7uQ9", label: "2020年3月19日 \
+        2020年從第一天開始就發生了大小不同的震撼事件 不論是影響全球的事情 不論是影響台灣的事情 \
+        不論是我遇到的事情 都是過去十年始料未及 從未發生的 有好也有壞" },
+      { type: "link", content: "https://photos.app.goo.gl/Pie2KSoBWHp2P7Sv6", label: "2019年3月19日 台南市永康區三村國小 畢業13年了" },
+      { type: "link", content: "https://photos.app.goo.gl/JhwYF3fq9mo7cV1YA", label: "2018年3月19日 深度好文 直接貼重點" }
+    ],
     "20": [
+      { type: "link", content: "https://photos.app.goo.gl/gjrwN8HmevmHz4em6", label: "2026年3月20日 那七點起床上班 一路忙到隔天七點還不能睡覺呢 不好意思在這醫界的一線科值班不少見" },
+      { type: "link", content: "https://photos.app.goo.gl/qVe8no7P9X3QsFTo6", label: "2026年3月20日 如果要這樣算 玩攝影的話11萬只能買一台相機跟鏡頭 其他鏡頭 記憶卡 腳架 背包 出門拍照的有錢住宿都遠遠不夠" },
+      { type: "link", content: "https://photos.app.goo.gl/2nEJK3xEEy8P7mr49", label: "2024年3月20日 可惜老天爺把最大獎牙醫留著沒有給你" },
+      { type: "link", content: "https://photos.app.goo.gl/5hjggs6wpY15PwKA7", label: "2024年3月20日 個人覺得史上最好搞孤僻 讀書的音樂 比白噪音跟yt上的都好聽 不會越聽越煩躁 阻礙思考" },
+      { type: "link", content: "https://photos.app.goo.gl/EXHWDA3GUSo1Yefc8", label: "2024年3月20日 \
+        最近thread一堆發文討論要不要選醫學系 這個時代選醫學真的笨 勞心勞力薪水不成正比 還可能被告 \
+        這位主治其實很認真 我之前就被要求下班還要接電話處理病人 都做到如此了還能在網路上被亂罵 實在替學長感到心疼 \
+        出社會工作的應該都能體會一件事 100個人即便有99個人感謝你 只要有一個不知感恩的白痴回頭咬你 就能讓人永遠失去對這份工作的熱忱" },
+      { type: "link", content: "https://photos.app.goo.gl/tB9PSEZXkpScbepH7", label: "2024年3月20日 R3最後一次背題大賽 冠軍獎品CV" },
+      { type: "link", content: "https://photos.app.goo.gl/BDi7DyEci7ohX1Vk7", label: "2024年3月20日 肋膜滲出 漏出液比較少 比較好背 心肝腎血水尿 心心衰竭 肝肝硬化 腎Nephrotic腹膜透析 血血管SVC阻塞 水黏液水腫 尿尿胸" },
+      { type: "link", content: "https://photos.app.goo.gl/id9vbmqMXjz25ajMA", label: "2024年3月20日 \
+        沒錯 臨床上大家確實都會給 但這題5.8只補水 實際上有多少人敢這麼做啊 \
+        就像沒有嚴格的感染證據就不用抗生素 到底有多少人敢直接連口服抗生素都不用Xd 好的 謝謝你" },
+      { type: "link", content: "https://photos.app.goo.gl/7rwqPE3nRbQVyc63A", label: "2024年3月20日 幹笑死xdddd" },
+      { type: "link", content: "https://photos.app.goo.gl/AH5RCamR2CffxLTz9", label: "2023年3月20日 \
+        這是在葡萄牙馬德拉島的final pond 古老的樹木 被這位攝影師拍得跟藝術品一樣 這樣如神的風景作品不分享對不起自己 \
+        很想輸出成大圖掛在家裡 看著就忘記世俗的煩惱 自從認真面對自己後 我必須承認若能再次選擇 想成為風景攝影師 \
+        沒有任何職業比探索大自然更吸引人 權力金錢跟地位 都遠不及能踏遍這世界的每個角落 真的希望有一天 放下一切 \
+        我想用相機親自拍攝這些大自然的瑰麗 我想用自己的作品來描述這世界的偉大" },
+      { type: "link", content: "https://photos.app.goo.gl/9wcqGiVe8jdHH3Yz6", label: "2022年3月20日 \
+        台北十萬夜景 生活分享No.14 經營粉專也好幾年了 發現何德何能 我的粉絲中也有幾位真的有超強才能的人 甚至是其他版的大神 \
+        像是股票 軍事知識 動植物跟歷史等等 有些成就更讓我驚訝到不行 很開心這些粉絲讓我見識到隔行如隔山的專業 能夠認識更是幸運XD \
+        這世界很大 需要學習的事情還很多 繼續努力了 終於找到一個不用卡位的漂亮夜景 101遠看還是很有魅力的" },
+      { type: "link", content: "https://photos.app.goo.gl/LeVbRcZBRpFWuqcN7", label: "2022年3月20日 來基隆必定下雨 只好吃鍋" },
+      { type: "link", content: "https://photos.app.goo.gl/SubSRyQ7mKkKNVvY8", label: "2022年3月20日 大概台灣只有外島能找到這種地景 好美" },
+      { type: "link", content: "https://photos.app.goo.gl/KSjvuR6EVp9QjxPn7", label: "2020年3月20日 \
+        早上研究了石油戰 簡單整理 有錯請指正 前情提要 最初世界石油出口國為伊朗 沙烏地 俄國 \
+        首先是伊朗 在歐巴馬時期用石油換核武 不干預伊朗出口石油賺錢 但伊朗也不能發展核武 \
+        後川普獲得多數美國石油商 應該說是多數中產階級 的選票上任 為了搶石油出口大餅 17年開始動手 讓伊朗石油產量暴跌 正式取代伊朗成為第三大石油出口國 \
+        川普上任後讓美國石油商大舉債生產石油 提示開發技術降低成本 為了打趴沙烏地跟俄國 往歐洲出口石油與天然氣 同時也往東強迫日本與韓國購買石油與天然氣 \
+        這之間川普也退出環保協議 在美國內大舉興建石油管路 降低國內石油運輸成本 \
+        而川普正順利拓展石油版圖時 好死不死遇上新冠病毒 把世界經濟搞的一團亂 最重大的影響是石油需求量瞬間大幅下滑 於是供過於求的市場型態出現了 \
+        另一方面沙烏地與俄國原本石油協議談判破裂 但為了報復美國 兩大石油出產國在供給過剩的情況下 更加大力提高石油產量 反正他們石油跟水一樣要多少有多少 \
+        結果就是油價不斷下跌再下跌 美國石油商也因此大舉負債 收入大量減少 因而動搖美國的全體經濟" },
       { type: "link", content: "https://photos.app.goo.gl/97KYvdHW4QQ1HNdFA", label: "2017年3月20日 早上醫院上班 晚上繼續修圖趕工 錢不好賺" },
       { type: "link", content: "https://photos.app.goo.gl/8n36nd2notxEo9Qd6", label: "2017年3月20日 累癱了 該來的還是要" },
       { type: "link", content: "https://photos.app.goo.gl/GyYgNBb6buFGWyvH6", label: "2017年3月20日 明明run婦產 卻跟GS詹主任的刀一整天 08001800就開一台刀 本日婦產I1都站神" }
