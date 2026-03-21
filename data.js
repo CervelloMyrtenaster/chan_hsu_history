@@ -3919,8 +3919,18 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/JhwYF3fq9mo7cV1YA", label: "2018年3月19日 深度好文 直接貼重點" }
     ],
     "20": [
+      { type: "link", content: "https://photos.app.goo.gl/atozb2UdbaqTSL1x7", label: "2026年3月20日 \
+        最近看到很多AI做的簡報 但AI總是無法完美傳達意思 而且簡報沒辦法統一持續的格式 跟直接轉化成讀書筆記 圖表也不是最原始的 \
+        所以有強迫症還是要自己手動 能夠直接把PPT內文複製成筆記才是我心中完美的PPT" },
       { type: "link", content: "https://photos.app.goo.gl/gjrwN8HmevmHz4em6", label: "2026年3月20日 那七點起床上班 一路忙到隔天七點還不能睡覺呢 不好意思在這醫界的一線科值班不少見" },
+      { type: "link", content: "https://photos.app.goo.gl/2QaScs2VX9rcJKh39", label: "2026年3月20日 繼星巴克 漢堡王 老蔡水煎包之後 三總地下街居然有康是美 這真的是少數有感進步啊" },
       { type: "link", content: "https://photos.app.goo.gl/qVe8no7P9X3QsFTo6", label: "2026年3月20日 如果要這樣算 玩攝影的話11萬只能買一台相機跟鏡頭 其他鏡頭 記憶卡 腳架 背包 出門拍照的有錢住宿都遠遠不夠" },
+      { type: "link", content: "https://photos.app.goo.gl/FZ9ec2n8233gTB5C7", label: "2026年3月20日 熊本路邊找的好吃拉麵" },
+      { type: "link", content: "https://photos.app.goo.gl/dHEVXdx6WEHtaW9x9", label: "2026年3月20日 這是Fine art風格 我超喜歡 KedaZ是這個風格的大師 好想給他拍" },
+      { type: "link", content: "https://photos.app.goo.gl/azUeVuhNzeqkUgHi6", label: "2026年3月20日 好讚好讚" },
+      { type: "link", content: "https://photos.app.goo.gl/hoCVe5WM6Co6Ds3f7", label: "2026年3月20日 趕快教他如果遇到臭老猴 就拿起來丟他們" },
+      { type: "link", content: "https://photos.app.goo.gl/kGrr6QmkSuFiRJrX7", label: "2026年3月20日 黑炭可以嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/EHee6exvHdSVnCCU7", label: "2026年3月20日 陳醫師腦袋真的清楚" },
       { type: "link", content: "https://photos.app.goo.gl/2nEJK3xEEy8P7mr49", label: "2024年3月20日 可惜老天爺把最大獎牙醫留著沒有給你" },
       { type: "link", content: "https://photos.app.goo.gl/5hjggs6wpY15PwKA7", label: "2024年3月20日 個人覺得史上最好搞孤僻 讀書的音樂 比白噪音跟yt上的都好聽 不會越聽越煩躁 阻礙思考" },
       { type: "link", content: "https://photos.app.goo.gl/EXHWDA3GUSo1Yefc8", label: "2024年3月20日 \
@@ -3957,7 +3967,47 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/8n36nd2notxEo9Qd6", label: "2017年3月20日 累癱了 該來的還是要" },
       { type: "link", content: "https://photos.app.goo.gl/GyYgNBb6buFGWyvH6", label: "2017年3月20日 明明run婦產 卻跟GS詹主任的刀一整天 08001800就開一台刀 本日婦產I1都站神" }
     ],
-    "21": [],
+    "21": [
+      { type: "link", content: "https://photos.app.goo.gl/AgS9MqGR3zo7C4GE8", label: "2026年3月21日 從照片足以證明我不是直男 不過他有記錄到自己手指 很細節" },
+      { type: "link", content: "https://photos.app.goo.gl/LXPncAqYG234iWQ48", label: "2026年3月21日 想問如果有台灣專科醫師執照 移民去澳洲有什麼不同方式嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/Wdz66eVDy67Au8p28", label: "2026年3月21日 12等過後還帶冷卻鞋 足見不懂比洛爾" },
+      { type: "link", content: "https://photos.app.goo.gl/KeFHStd266skUCKp7", label: "2026年3月21日 說的太好 這是事實 果然是董事長格局" },
+      { type: "link", content: "https://photos.app.goo.gl/XDZzdgV5ExWdsFZ59", label: "2026年3月21日 怎麼練那麼好" },
+      { type: "link", content: "https://photos.app.goo.gl/1BG97Sy8KxYnez6W6", label: "2026年3月21日 留友看 差點以為他影片是找台灣人配音的" },
+      { type: "link", content: "https://photos.app.goo.gl/813k4WbBTmQXz6mJ7", label: "2026年3月21日 很乖的都市女" },
+      { type: "link", content: "https://photos.app.goo.gl/PVww4zYtS2cMtQKLA", label: "2026年3月21日 跟我一樣都會使命必達ㄟ" },
+      { type: "link", content: "https://photos.app.goo.gl/jiaPzJzze2QiWegN6", label: "2025年3月21日 \
+        斑塔延小島1 Bantayan island是宿霧北方的小島 原本因為被白色一望無際的沙灘跟成群的椰子樹美到決定不辭老遠去一趟 \
+        不過在經歷了三個小時車程與75分鐘搭船後略為失望 他是一個很原始的小島 但環境卻顯髒亂 雖然少外國遊客但很多菲律賓人都去度假 \
+        因此白色的沙灘上仍難掩髒亂 夜晚也有吵到不行的店家音樂 成群的椰子樹也比預期的難構圖 島上沒什麼觀光點 有一個小夜市大約1小時可以逛完 甚至沒什麼紀念品可以買 \
+        比較令人印象深刻的是水龍頭打開就有水草飄出來 感覺是海綿寶寶裡會出現的場景 基本上洗澡洗手的水應該是海水淡化來的 帶有明顯的鹹味 \
+        雖然略為失望 但也算見識了原始的生活環境 還是有很多回憶 不過近期應該不會再去菲律賓了 東南亞還是印尼最高 \
+        小小分享一下沒聽過的BANTAYAN小島 位於宿霧北方的海島" },
+      { type: "link", content: "https://photos.app.goo.gl/mueGyrkfqdqPqaZx9", label: "2025年3月21日 有朋友推薦的機車後車廂跟台北市安裝店面嗎 希望能防雨+後座 能舒適不要被卡到 求推薦 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/RgJFw5WDbcwdKF6U9", label: "2025年3月21日 哈哈哈哈我很需要欸" },
+      { type: "link", content: "https://photos.app.goo.gl/iJTiK1TnXY5aibYT6", label: "2025年3月21日 這張超可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/E1v6wWUKM7sPZbXx5", label: "2025年3月21日 為啥這麼臭" },
+      { type: "link", content: "https://photos.app.goo.gl/G62TeGjfvvcGf4Yz7", label: "2024年3月21日 \
+        因應患者插管後的問題去調整呼吸器完全不會 請問有大神能提點一下怎麼判斷該調哪個選項嗎 \
+        例如這題我直覺就是下調FiO2但答案要上調PEEP 完全不知道為什麼QQ \
+        其實就是做之前考古題 詳解說氧氣給太高不行 要用100-7法則下調 導致我看到85%就想往下調 謝謝 我知道了" },
+      { type: "link", content: "https://photos.app.goo.gl/pEuBQ3A3sfcHHUn96", label: "2023年3月21日 學長現在是自由跟經濟平衡 是我的目標" },
+      { type: "link", content: "https://photos.app.goo.gl/v9cuEo6fMCX5fYEC9", label: "2023年3月21日 種在家裡不會想拍 這個就是要在大草原而且沒有一群觀光客XD" },
+      { type: "link", content: "https://photos.app.goo.gl/wKM2zm5hZpb6EaWR9", label: "2023年3月21日 \
+        台北荷麵亭Hasumentei 是有水準但並非有特色的店家 因此給予兩顆星 \
+        湯頭的濃郁及麵的口感都不錯 適合我這種愛吃硬麵的人 店內的小規定也很多 確保用餐品質 \
+        假日晚上排隊大約10-20分鐘 附近有停車位 值得一提的是酥炸牡蠣跟可樂餅 真的太酥了 推薦給有經過士林但沒有特別規劃又剛好想吃拉麵的朋友 是個好選擇" },
+      { type: "link", content: "https://photos.app.goo.gl/6sqcr3mYMdYaCAA78", label: "2021年3月21日 如果我中大樂透會馬上買一台白色PORSCHE TAYCAN然後請他幫我畫滿整車" },
+      { type: "link", content: "https://photos.app.goo.gl/e5hLe3DK2aruh2Xq8", label: "2020年3月21日 \
+        最近幾個月養成跑tempo run的習慣 除了六日休息 一到五基本都配速四分初跑5k或一次4k間歇 \
+        真的進步得很快 從一開始過程中的忍耐痛苦到享受痛苦 最感謝的還是國中啟蒙了中長距離的田徑比賽 \
+        奠定大學畢業後再次練起來的基礎 跑步真的不無聊 過程中感受步伐及呼吸規律 時間就這樣過了 \
+        LSD長跑很需要時間 回醫院前要來練練 間歇真的跑的生無可戀 為了不掉速 每次都咬緊牙關的撐到終點" },
+      { type: "link", content: "https://photos.app.goo.gl/41RcMaxG1waK1qBM9", label: "2019年3月21日 3/29-30敦睦遠航要來海軍蘇澳港喔喔喔 我會當兩天的支援醫官 歡迎大家來看看大船" },
+      { type: "link", content: "https://photos.app.goo.gl/wT2z2QanT5nJdfxx6", label: "2018年3月21日 \
+        請問有朋友知道台中哪裡可以拍 NTC國家商貿中心 這棟的夜景嗎 長得很像帆船飯店這棟 如果能配合夕陽更好 能拍出國外大廈的感覺XDDD \
+        仰慕很久 拜託了 誰都好帶我拍這棟啊 或有空拍機跟我一起拍 我願意交換條件" }
+    ],
     "22": [],
     "23": [],
     "24": [
