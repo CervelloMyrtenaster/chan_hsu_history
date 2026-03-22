@@ -4008,7 +4008,37 @@ const records = {
         請問有朋友知道台中哪裡可以拍 NTC國家商貿中心 這棟的夜景嗎 長得很像帆船飯店這棟 如果能配合夕陽更好 能拍出國外大廈的感覺XDDD \
         仰慕很久 拜託了 誰都好帶我拍這棟啊 或有空拍機跟我一起拍 我願意交換條件" }
     ],
-    "22": [],
+    "22": [
+      { type: "link", content: "https://photos.app.goo.gl/mUFu82pUFQ98SSow8", label: "2026年3月22日 感謝川普 這種白癡國家可以趕快把他們滅了嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/bxrM8TPm7UdCdQNU7", label: "2026年3月22日 辛苦但幸福的時光" },
+      { type: "link", content: "https://photos.app.goo.gl/RZW8brudKyWvXahC6", label: "2025年3月22日 有推薦的曼谷攝影師朋友嗎 想拍這種水上市集或曼谷都市夜景 也想問問空拍規定 小弟願意請客報答" },
+      { type: "link", content: "https://photos.app.goo.gl/9y9nSELDBS7vFSsR6", label: "2025年3月22日 持續增加中" },
+      { type: "link", content: "https://photos.app.goo.gl/b3y9LTw3VqNCKjZ98", label: "2024年3月22日 \
+        許多人說不要過上安逸的生活 我覺得根本大錯特錯 過上安逸的生活 本身就是非常不容易非常辛苦的 除非你天生富二代又身體健康 \
+        為了過上安逸的生活 必須早出晚歸 賺了錢卻如流水般繳出 操勞之下身體真的很容易出狀況 \
+        如果能過上安逸的生活 想出國就出國 想睡覺就睡覺 想打遊戲就打遊戲 那請務必維持跟珍惜 \
+        安逸的生活才是逃離人間社會這個監獄的最佳狀態 如果可以 我希望活到一百歲每天都很安逸 \
+        所以不要再說生活不要太安逸這種屁話 為了有個安逸的生活 是多麼不容易啊" },
+      { type: "link", content: "https://photos.app.goo.gl/CNTa9XaCxDrBn6g48", label: "2024年3月22日 你確定你喜歡跟病患講話 看來是一位沒看過真正病人的人XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/4uozGXYM6uV6i7zJ6", label: "2024年3月22日 我也要掃" },
+      { type: "link", content: "https://photos.app.goo.gl/tGXkYeVQKAcX7h9m7", label: "2022年3月22日 跟本人見面 看完對帳單跟持股 還曾經買某檔比董事長多 直接買全部股份的1% 真的厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/ZoYxCYWpoucfXDwr5", label: "2022年3月22日 今天很榮幸跟penguin_stock股市大神碰面 從攝影聊到股票 一年從450萬到4500萬資產 辭職工作開始四處培養興趣 親眼見識過真名不虛傳 開心" },
+      { type: "link", content: "https://photos.app.goo.gl/N3rUWYQ2u24jyQ2W8", label: "2022年3月22日 有興趣可以看看他的粉專跟對帳單" },
+      { type: "link", content: "https://photos.app.goo.gl/CC457QCnC8jPRhGr8", label: "2022年3月22日 再推個股市牙醫 能認識這些大神 真的幸運" },
+      { type: "link", content: "https://photos.app.goo.gl/g9iC4pJ2mH3YCSWP6", label: "2022年3月22日 居然有這種高額獎金比賽 重點是很多作品超奇怪XD" },
+      { type: "link", content: "https://photos.app.goo.gl/iDKdwvNxnVoPzeC6A", label: "2021年3月22日 \
+        好公司就像好酒一樣需要醞釀 買股票就是要存股而不是做短線 存股就像每天定期飲小酒有益健康 \
+        不需要時常盯盤跟浪費錢去拜師 短線就像酗酒看似威風八面其實有害健康不常久" },
+      { type: "link", content: "https://photos.app.goo.gl/z2CCYWQaev9c5q8e7", label: "2020年3月22日 背起來了" },
+      { type: "link", content: "https://photos.app.goo.gl/GtsJKf4gZ1kctjSa8", label: "2018年3月22日 \
+        講實際一點 例如英文 我高中都是每天狂看文章 不管什麼文章都看 背單字跟手寫都會進步 \
+        我連學測前都在閱讀短篇文章培養考試感覺 高中學測跟模擬都15 我還是刪個留言好了不然又被優秀的嘉昶嘲笑" },
+      { type: "link", content: "https://photos.app.goo.gl/GqYz62jEFuSiLZQQ6", label: "2018年3月22日 該送他一條銀河嗎 該都送 送油條啦" },
+      { type: "link", content: "https://photos.app.goo.gl/Ri7yYGNnwknzSf6t9", label: "2018年3月22日 \
+        教學室今天表示4/29公假只有給到考試完 而且因為要為臨床著想 給了科部彈性空間 \
+        也就是說還是要值班 17:30考完看休息到幾點然後開始上班 目前我跟總醫師argue的結果 \
+        不管那天早上還下午考 考完休息之後再值班 大概18:00-19:00左右在上工就好 想跟各位討論的是 這個值班要不要算平日值班 大家有什麼意見嗎 " }
+    ],
     "23": [],
     "24": [
       { type: "link", content: "https://photos.app.goo.gl/4JDbkBNivwdJB8Le6", label: "2017年3月24日 Keep on C/S" },
