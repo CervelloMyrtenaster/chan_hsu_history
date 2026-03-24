@@ -4009,6 +4009,9 @@ const records = {
         仰慕很久 拜託了 誰都好帶我拍這棟啊 或有空拍機跟我一起拍 我願意交換條件" }
     ],
     "22": [
+      { type: "link", content: "https://photos.app.goo.gl/dh7tPUcVdFnYN7E16", label: "2026年3月22日 \
+        說好的一週300題 計時到本週12:00結束 剛好只看完100題 要查資料 做筆記 這種速度最好看得完 就算看完最好有時間複習 \
+        原本程度就比同屆考生差很多的我 這樣要怎麼考 焦慮爆棚" },
       { type: "link", content: "https://photos.app.goo.gl/mUFu82pUFQ98SSow8", label: "2026年3月22日 感謝川普 這種白癡國家可以趕快把他們滅了嗎" },
       { type: "link", content: "https://photos.app.goo.gl/bxrM8TPm7UdCdQNU7", label: "2026年3月22日 辛苦但幸福的時光" },
       { type: "link", content: "https://photos.app.goo.gl/RZW8brudKyWvXahC6", label: "2025年3月22日 有推薦的曼谷攝影師朋友嗎 想拍這種水上市集或曼谷都市夜景 也想問問空拍規定 小弟願意請客報答" },
@@ -4039,8 +4042,111 @@ const records = {
         也就是說還是要值班 17:30考完看休息到幾點然後開始上班 目前我跟總醫師argue的結果 \
         不管那天早上還下午考 考完休息之後再值班 大概18:00-19:00左右在上工就好 想跟各位討論的是 這個值班要不要算平日值班 大家有什麼意見嗎 " }
     ],
-    "23": [],
+    "23": [
+      { type: "link", content: "https://photos.app.goo.gl/WtfxUqArwqgHUpAx7", label: "2026年3月23日 \
+        認真覺得醫療這種攸關性命跟健康的 應該在小學開始納入12年國民義務教育 \
+        第一課就要教民眾如何保養健康 運動 拒絕抽煙喝酒 第二課要教區分地下電台跟來路不明的藥物 \
+        第三課教如何基本急救 第四課教如何簡單區分症狀應該去門診還是急診 第五課進階一點教醫療常規會遇到什麼處置 才不會像樓主把理所當然的事情當作新聞 \
+        最後一課教他媽的現在的醫療待遇多破 護理師多勞低薪 醫生被無辜核刪跟台積電認證的台灣最爆肝 教導民眾醫療業多麼血汗跟崩壞 \
+        政府作為不夠 只能靠民眾更加尊重醫護跟了解在台灣醫療多便宜 我不相信數學國文英文比這直接影響健康的事情重要" },
+      { type: "link", content: "https://photos.app.goo.gl/MzRWzHnQuQ84yP3a7", label: "2026年3月23日 心專考這種題目 到底" },
+      { type: "link", content: "https://photos.app.goo.gl/2vtNmb1FgHNgEZHa8", label: "2026年3月23日 未來一週的天氣是心室頻脈" },
+      { type: "link", content: "https://photos.app.goo.gl/YPTcWZD78TdxhtSZ7", label: "2026年3月23日 跟醫院比 小巫見大巫嘻嘻" },
+      { type: "link", content: "https://photos.app.goo.gl/ZAtDj7R33vhT6CbP8", label: "2026年3月23日 我怎麼看不到了QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/GeZjs7aRaEwLUC9eA", label: "2026年3月23日 追蹤起來" },
+      { type: "link", content: "https://photos.app.goo.gl/YrKCQokrfzxjEMwY7", label: "2025年3月23日 與其信教官 不如去看之前網傳的圖" },
+      { type: "link", content: "https://photos.app.goo.gl/ya2fHkWs6YTBeYdL6", label: "2025年3月23日 好可愛哈哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/5Aoai6mBVu2PQd9S7", label: "2024年3月23日 宜蘭回台北的國道五號 隨便排都要一小時起跳 真的至少一小時 排到之後只是到高速公路入口" },
+      { type: "link", content: "https://photos.app.goo.gl/6Zq8wJifV9JPcdGP8", label: "2024年3月23日 路邊隨處吃起小吃 就是幸福的事啦" },
+      { type: "link", content: "https://photos.app.goo.gl/TkoL2j59B4zPCzTG8", label: "2024年3月23日 聖母登山步道通天橋 終於可以出來曬太陽" },
+      { type: "link", content: "https://photos.app.goo.gl/X8T6NdfXbsE89HzM7", label: "2024年3月23日 是同一個人嗎 辛苦了" },
+      { type: "link", content: "https://photos.app.goo.gl/nNy4ApN6DRB1dXcXA", label: "2023年3月23日 都什麼年代了還有人 覺得搶銀行不會被抓到" },
+      { type: "link", content: "https://photos.app.goo.gl/kk25C5neo6A2W6JM7", label: "2023年3月23日 超級認同 尤其大學簽了一個不該簽的契約 才發現自己完全不適合 真的是苦一輩子" },
+      { type: "link", content: "https://photos.app.goo.gl/znwRD3PbC1VTMA5H8", label: "2022年3月23日 戰爭轟炸讓一個無辜小孩被石頭壓死 這個小孩有對不起普丁嗎 請問普丁到底有什麼毛病 各國怎麼還如此溫文儒雅的制裁" },
+      { type: "link", content: "https://photos.app.goo.gl/aoonvBx2t4GAddpdA", label: "2022年3月23日 \
+        台灣登峰石 攝影分享No.14 今天分享拍攝晨昏前 好用的app 簡單而且免費 \
+        雲海人 一群善心攝影同好開發的 起初是為了追蹤雲海 不斷改良後可以預測火燒雲機率 不過僅供輔助 有時不是很準 \
+        但還是感謝有他們一群人的努力 觀天氣 不只能出遊前參考 也能判斷日出日落的最新雲圖資訊 輔以上網搜尋當天太陽入射角及時間 \
+        準確率應該有八成了 路況即時影像 有時拍攝點距離太遠 能夠最直接的判斷當地是否出景 可以觀察現場雲的分佈 光線 甚至雲海概況 \
+        空氣品質監測網 空品決定當天的照片品質 能見度不好其實很難後製修回來 當然很多人會把大霧當成空污 記得要區分 \
+        簡單四個撇步 真的很實用 喜歡的朋友可以收藏跟分享" },
+      { type: "link", content: "https://photos.app.goo.gl/oSZ66XM7H4VjTzDs6", label: "2020年3月23日 明天就要體測 剛試跑2公里配速3:50 結果真的很喘 看來明天3000成績無法達標" },
+      { type: "link", content: "https://photos.app.goo.gl/S2ACLs9gZJupAsej8", label: "2019年3月23日 我的新朋友" },
+      { type: "link", content: "https://photos.app.goo.gl/vVm58FrrTTS36Ni37", label: "2019年3月23日 這必看XDDDDDD 一定要看到最後一秒 妹妹實在後勁太強XDDDD " },
+      { type: "link", content: "https://photos.app.goo.gl/z8fH1au4M43J2Lgs9", label: "2012年3月23日 在Woodstone" }
+    ],
     "24": [
+      { type: "link", content: "https://photos.app.goo.gl/7M8XS7aPixKdTH7w6", label: "2025年3月24日 賴清德他兒子會不會回台灣抗中保台上戰場 只問這句話 不知有沒有人能回答" },
+      { type: "link", content: "https://photos.app.goo.gl/aWiCnpYUH8c8h5iA9", label: "2025年3月24日 嘻嘻 比學歷的時候 自稱3000跑多快 體力有多好 結果來砸場的時候有玻璃娃娃一樣" },
+      { type: "link", content: "https://photos.app.goo.gl/ohjUYXfqyrpuSv4d8", label: "2025年3月24日 對啊" },
+      { type: "link", content: "https://photos.app.goo.gl/e1bgWBN56pzkiKMLA", label: "2025年3月24日 聽起來很值得捏" },
+      { type: "link", content: "https://photos.app.goo.gl/eA3hy46n1xaLdrcw5", label: "2025年3月24日 怎麼那麼可愛 大家都會自動加班了XD" },
+      { type: "link", content: "https://photos.app.goo.gl/FnCPQqaP5aTcMXiWA", label: "2025年3月24日 我找景點 規劃交通 訂機票 刷卡 換匯籌旅費 付錢 找想吃的美食 找喜歡的住宿 我覺得這樣更讚 只要不要被罵都好" },
+      { type: "link", content: "https://photos.app.goo.gl/PgcnWC3cj2kufu4q6", label: "2025年3月24日 已筆記存檔到google map" },
+      { type: "link", content: "https://photos.app.goo.gl/pzFxouF8XFpH8b6s8", label: "2024年3月24日 \
+        人生的工作目標就是升到主治醫師就停止 光是內專我已傷痕累累 幾乎沒在拍照修圖 還不一定能過關 次專要考幾次更是不敢想 \
+        人生該把美好的時間浪費給自己跟所愛的人 從醫一直只是工作 工作只是為了有錢環遊世界跟照顧家庭 沒有再更複雜了 講師助理教授教授跟論文 一點都不想碰" },
+      { type: "link", content: "https://photos.app.goo.gl/JpuBsqm7hMjVWcFUA", label: "2024年3月24日 目標成為診所仔 願望餘生的錢剛好能出國旅遊拍照到老 不要繼續待在醫院勞苦命" },
+      { type: "link", content: "https://photos.app.goo.gl/oZuB1iz1XbAfhTecA", label: "2024年3月24日 \
+        這個時代除非家裡就是醫師世家 否則根本別想有你說的待遇 白手起家的第一代醫師 只能充當薪水高一點的苦命上班族而已 \
+        房貸一樣背到白髮蒼蒼 房子超過3000萬的也買不起 很可憐" },
+      { type: "link", content: "https://photos.app.goo.gl/FDey2XKGcTvipFSW6", label: "2024年3月24日 \
+        有些人IG做大累積很高知名度之後 就會習慣把以前幫助過他的人退追蹤 \
+        這當然是個人自由 不過對我來說這就像是把內心當做朋友的人 變成陌生人而已 關係應該是彼此的 所以這樣的狀況我也會退追他 \
+        追蹤不追蹤 其實就像小朋友的議題 也不會少一塊肉 但也時常在網紅圈看到這樣的問題XD \
+        從一開始經營風景攝影圈 汲汲營營於追蹤數跟互動 甚至會為了能拉近某些攝影師而努力追蹤跟FOLLOW他們動態 \
+        但現在已經完全不可能這樣做 我們都不應該當個跟屁蟲 而是花時間在增進自己的價值跟人脈 \
+        粉絲數只是表面 重要的是能否在現實中不被人詬病跟睡棄 除了攝影我還有醫學的本業 我期許自己能在這兩個本業裡 \
+        繼續幫忙到人 並且繼續投入創造自己的價值 與其追蹤一些表面上看起來很屌的人 我寧願追蹤互相分享攝影樂趣的朋友 共勉之" },
+      { type: "link", content: "https://photos.app.goo.gl/npxNssmm7k1HA7617", label: "2023年3月24日 今天下班前也有同仁問我是不是在捷運站有作品的那位 好感動一抹被延遲下班的怨念 我會再努力拍出更好的作品" },
+      { type: "link", content: "https://photos.app.goo.gl/BdpyzovYaamwx4m47", label: "2023年3月24日 超級厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/QB9NEHchc7kdGHJu9", label: "2022年3月24日 想放下工作 全世界拍照去 這個世界太美了真的" },
+      { type: "link", content: "https://photos.app.goo.gl/A2oAeqkba8WGKcE8A", label: "2022年3月24日 當然台灣的山也好美" },
+      { type: "link", content: "https://photos.app.goo.gl/BLmPituSTvkYQ3An7", label: "2021年3月24日 第一次看到胸大肌斷裂的瞬間 這感覺要開刀修補啊" },
+      { type: "link", content: "https://photos.app.goo.gl/4BPB4SFjx9iJaL2u6", label: "2021年3月24日 \
+        台北 夜光映櫻花 今天來聊粉絲提問 如果前置跟後製都不好 該怎麼開始 首先是哪個先開始 其實 前置跟後製需同時一起學 \
+        前置的部分 最重要的是多看 多看作品 多看作品 大量的看作品 現在網路平台很方便 FB IG等等 選擇喜歡的主題 沒事就多看別人怎拍 \
+        起步時去外面上攝影課或買書買課程 我真心建議先不要 先自己拎著相機 出去走走拍拍 找到真正喜歡拍的主題 也順便測試自己是不是能持續熱忱 \
+        至於前置的學習 在你出門多次拍照後 會先熟悉相機操作 這很重要 才不會數據調整失誤 有時候出去拍照 旁邊都有攝影大哥大姐 \
+        這時也不妨偷聽他們聊攝影 甚至主動打招呼詢問都能聽到很多經驗 但並非都是對的 \
+        後製的部分 可以先下載或購買lightroom 這是一個很方便的軟體 尤其可以一次大量處理跟存檔 youtube也有很多教學 \
+        當後製已經會了一點基礎 可以進階到photoshop並且學習圖層的概念 一樣 網路資源已經無法滿足時,才考慮參加課程或者找攝影家教 \
+        上述前置跟後製都要不斷花時間 累積起來就會越來越好 我以前分享過 最早期的時候一張圖我甚至修4-5小時 一遍一遍重修 \
+        一個景點我甚至去拍十幾遍 一遍一遍拍到要的畫面 大量的花時間去做+遇到問題先找網路或朋友諮詢 最後很了解所缺時再去上課 就會有感進步了 \
+        而個人風格的養成 就是看哪個風格喜歡去模仿 再從模仿找到自己的專屬 個人風格也會隨時間不停變換 \
+        簡單總結 攝影的進步該怎麼開始 繼續拍 到處拍 下載LR嘗試修圖 最後找教學資源 就會慢慢進步" },
+      { type: "link", content: "https://photos.app.goo.gl/wkMBp4RLi51baWno6", label: "2020年3月24日 老實說過來人經驗 學會投資跟你考試考高一樣重要 所以廢課大膽拿來看股票吧" },
+      { type: "link", content: "https://photos.app.goo.gl/wbfY6f9StcyTZXC16", label: "2020年3月24日 回醫院前小小里程碑 終於可以對體測說 不在乎天長地久 只在乎曾經擁有XDD 三百壯士ok 10分俱樂部ok 感謝許多弟兄朋友的勉勵" },
+      { type: "link", content: "https://photos.app.goo.gl/hdJyoPwzFHJxcHNd8", label: "2019年3月24日 \
+        前陣子無良媒體污衊鄉下診所令人憤怒 在台灣醫療業已經比他國更難生存 對於願意給病人方便的偏鄉醫師應該感激再感激 \
+        否則未來醫師都防衛醫療 看看誰得到好處 無良媒體就是鏡週刊" },
+      { type: "link", content: "https://photos.app.goo.gl/SK7M9fTQ8UWaPwu69", label: "2019年3月24日 \
+        最近幫四位即將報考醫學新的朋友看備審資料 有幾個共通缺點 下頁分享一下 當然最好給學界教授或老師批改 \
+        畢竟面試你的也是那個輩份 而我的心得可以參考就好 希望給點小幫助" },
+      { type: "link", content: "https://photos.app.goo.gl/g3qbAwDyuP1xb2gv5", label: "2019年3月24日 \
+        一定要讓學校國文老師修改過 很多備審裡面用詞太過情緒化與青澀 雖然也不必文鄒鄒 但用詞必須要通順而且切中重點 \
+        冗言贅字務必修掉 很喜歡講專業名詞配中文翻譯 也許你覺得醫學很專業 但這並不會讓你加分 甚至沒有搞清楚寫錯更是扣分 \
+        如果想寫可以在必要時提及 然後跟至少醫學生確認正確性 尤其制度與知識方面 千篇一律家人得癌症而想從醫 \
+        我先自首自己當時也是這樣寫 但還是通過面試了表示這不一定影響結果 這點並無不妥 但每個人都提教授醫師會直接忽略 \
+        當醫生最重要的是個人特質 例如人際溝通與負責態度最重要 除了家人生病 也能提及自己有這方面的特質 \
+        參與過任何營隊 與隊友合作跟啟發醫學興趣會更好 當然我們都知道拼上醫生在台灣最終還是為翻轉家境 有更好的收入 \
+        這是正確的 但同時也要顧及專業 做好犧牲自己幫助別人的準備" },
+      { type: "link", content: "https://photos.app.goo.gl/nawY4qkS8VUB81XR6", label: "2019年3月24日 \
+        過度誇大自己的缺點 沒錯 不是誇大自己優點喔 謙虛是好事 但過度描述自己的缺點 要想沒有你這缺點的人還很多 \
+        其他方面卻比你優秀那為何要錄取你 老實說缺點沒關係 但務必潤飾一下 並且把重點放在你如何改進這缺點以及錯誤中學習到什麼道理 而不是一直說自己多爛 \
+        近中遠程讀書計畫很奇怪 很多人會說他會更努力讀書 幫助更多人等等 但如果要實際一點 其實醫學系要讀的書已夠多而且本來就要做到 \
+        這不是你的計畫 而是你的義務 所以計畫應該是偏向不一樣的層面 比方說你爭取出國交流看看國外醫療有何優勢 \
+        與他校醫學生互動 用專業知識外如何助人等等 但我一直覺得醫學系慢慢長 要高中畢業寫這個一點意義也沒有 \
+        興趣方面提到因為升學壓力而放棄 然後從醫 千萬母湯這樣 認真覺得從醫不能抱著這心態 \
+        因為等你實習才知道原來醫生在台灣超級廉價 時薪換算下來可能不到100塊 只是你花的時間太多太多 又太專業才有相對好的收入 \
+        著重在興趣如何與醫學結合 或帶給你生活任何啟發 即使讓你學習調適壓力也很好" },
+      { type: "link", content: "https://photos.app.goo.gl/i81TazoAfuno8xad8", label: "2019年3月24日 \
+        過度著重在努力讀書 並強調面試上後會持續努力 其實努力讀書並沒錯 但要當醫生聰明跟努力並不是全部 更重要的是個人特質 \
+        必須要很能面對人群 與人溝通 這樣才能正確傳達醫療指令與理解病人需求 再進一步說就是同理心的應用 最後則是耐心與責任感QQ \
+        備審裡面還是得審視自己是否有以上特質囉 以上只是個人想法僅供參考 厲害的同學太多了 請每位高中畢業生加油 多問問幾個意見吧 \
+        如果有幫助 也歡迎分享轉貼 有前輩或好心人想補充或更正的歡迎 如果有幫助也可回覆嘿" },
+      { type: "link", content: "https://photos.app.goo.gl/rbFPY3LMFB7rzk15A", label: "2019年3月24日 孫悟賽亞卡丘 各位朋友趕快畫起來不然賽亞卡丘會送你們卡丘氣功波 喔喔喔喔喔喔" },
+      { type: "link", content: "https://photos.app.goo.gl/EnRc7BnhvG344o298", label: "2019年3月24日 不接下去皮卡丘要開轟了ㄛ 我愛AK47" },
       { type: "link", content: "https://photos.app.goo.gl/4JDbkBNivwdJB8Le6", label: "2017年3月24日 Keep on C/S" },
       { type: "link", content: "https://photos.app.goo.gl/w14ijGFXYLuAXYEo8", label: "2017年3月24日 我家門前有小山 Robot開不完" }
     ],
