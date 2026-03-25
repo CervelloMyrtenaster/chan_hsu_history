@@ -4076,6 +4076,11 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/z8fH1au4M43J2Lgs9", label: "2012年3月23日 在Woodstone" }
     ],
     "24": [
+      { type: "link", content: "https://photos.app.goo.gl/ENUgbHiwBKTAP3Bx9", label: "2026年3月24日 第一次看到發票中獎要填複雜的資料 而且我沒有在用台灣大哥大 這是不是新的詐騙手法" },
+      { type: "link", content: "https://photos.app.goo.gl/c1n87xV9XYXK6j5q8", label: "2026年3月24日 \
+        感謝大家分享 真的是詐騙 剛剛看了這手法很多人被騙 分享一下很簡單的判斷方式 除了不會要你輸入信用卡號以外 \
+        還有就是他附上的平台網站 會做的跟真的政府網站一樣 除了輸入信用卡的頁面以外其他按鍵怎麼按都沒用 \
+        我實驗完了 真的怎麼按都不會動 只有輸入信用卡的功能XD" },
       { type: "link", content: "https://photos.app.goo.gl/7M8XS7aPixKdTH7w6", label: "2025年3月24日 賴清德他兒子會不會回台灣抗中保台上戰場 只問這句話 不知有沒有人能回答" },
       { type: "link", content: "https://photos.app.goo.gl/aWiCnpYUH8c8h5iA9", label: "2025年3月24日 嘻嘻 比學歷的時候 自稱3000跑多快 體力有多好 結果來砸場的時候有玻璃娃娃一樣" },
       { type: "link", content: "https://photos.app.goo.gl/ohjUYXfqyrpuSv4d8", label: "2025年3月24日 對啊" },
@@ -4150,7 +4155,78 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/4JDbkBNivwdJB8Le6", label: "2017年3月24日 Keep on C/S" },
       { type: "link", content: "https://photos.app.goo.gl/w14ijGFXYLuAXYEo8", label: "2017年3月24日 我家門前有小山 Robot開不完" }
     ],
-    "25": [],
+    "25": [
+      { type: "link", content: "https://photos.app.goo.gl/LV8t1SXLW87JZmVU8", label: "2026年3月25日 好想吃哦" },
+      { type: "link", content: "https://photos.app.goo.gl/ZqXLARGcWpaeuLUA6", label: "2026年3月25日 \
+        這個小朋友絕對是天才 我還沒三歲以前也會畫有的沒的 國小一年級就可以背青眼白龍跟孫悟空等等 \
+        但多數我們有點天份只能做到小氣候 模仿畫作 但這小朋友已經是 模仿以外有自己的幾何構圖跟風格 了啊啊啊啊 \
+        這已經超過一般的有天份的畫家了 不要讓他被埋沒" },
+      { type: "link", content: "https://photos.app.goo.gl/97S2mMKHst97LEFq5", label: "2026年3月25日 \
+        在我以前年代沒有教那麼多 再說了 不可能有課本敢跟小朋友講 醫療人員的困境 但這是最重要的 \
+        懂困境才懂為什麼醫療不是服務業 才懂為什麼要尊重醫療人員" },
+      { type: "link", content: "https://photos.app.goo.gl/1wMKKLTesE9X2T3K7", label: "2026年3月25日 我第一次看到這種攝影師我 已經不知道怎麼幫他歸類XD" },
+      { type: "link", content: "https://photos.app.goo.gl/oeHptxUXJXZ5vGYn9", label: "2025年3月25日 這是不是沒腦ㄚㄅ" },
+      { type: "link", content: "https://photos.app.goo.gl/uT1hqu3WztafWGZ38", label: "2025年3月25日 我們該去" },
+      { type: "link", content: "https://photos.app.goo.gl/kfamrsfJN8bZwMDD9", label: "2025年3月25日 很漂亮啊" },
+      { type: "link", content: "https://photos.app.goo.gl/fqgX3TuKTwLtrycW8", label: "2025年3月25日 好可愛 家裡要養一隻" },
+      { type: "link", content: "https://photos.app.goo.gl/EcCcEgiMpZyQ5ecDA", label: "2025年3月25日 哈哈哈怎會有這種動物 第一次看到" },
+      { type: "link", content: "https://photos.app.goo.gl/srYLQ9gWfCc49tkm9", label: "2024年3月25日 \
+        事實就是如此 內外科住院醫生苦不堪言 學習很多救人命的技術跟知識又如何 \
+        政府不重視 給付差 救活一個病人耗盡資源但衛福部故意不給錢 等於救一個人就賠一堆錢 醫生護理師都不被尊重 薪水越來越低 \
+        反觀醫美 家醫科 生活品質讚 做的門檻也低 未來這種最難的一線科 有熱情的醫生越來越少 \
+        我們都會老 都會生病 有熱情的醫生沒了 好藥不進口了 到時除了安樂死還有更好的選擇嗎 繼續支持政府跟衛福部的人民 都是台灣醫療敗壞的兇手" },
+      { type: "link", content: "https://photos.app.goo.gl/ZTqKLwPAHYBrvL839", label: "2024年3月25日 之前說過ETF只推大盤 大盤有0050跟006208 看起來006208又優於0050 內扣成本較低的概念 那結論就很簡單 ETF無腦下006208" },
+      { type: "link", content: "https://photos.app.goo.gl/kvkLJcioUHQTtSMV6", label: "2024年3月25日 移民澳洲的話 國防醫學院的學歷有被承認欸" },
+      { type: "link", content: "https://photos.app.goo.gl/v2wWJhS6PmQX6mBx6", label: "2024年3月25日 讚 真正跳脫束縛的強者" },
+      { type: "link", content: "https://photos.app.goo.gl/PPTkL3fa17kJcgKg9", label: "2024年3月25日 \
+        哈哈超過十個人問我澳洲移民 幾乎都醫護 原來大家都快受不了台灣醫療環境了XDD \
+        有興趣yt搜尋這個頻道 我也是昨天突然心血來潮 好奇我的人生還有沒有救 話說移民年齡上限45歲 那終生俸vs澳洲移民很難抉擇啊 \
+        移民最大的好處可以躲戰爭 萬一中共打來就沒退休俸 希望中共真的打來之前 我可以有機會逃離台灣" },
+      { type: "link", content: "https://photos.app.goo.gl/cN23HERrGdbPvG4MA", label: "2024年3月25日 感恩CV 讚嘆CV 賜我吃穿" },
+      { type: "link", content: "https://photos.app.goo.gl/rTsyhAbPYb8BkMkX8", label: "2024年3月25日 SEAFOOD&MEAT波波海鮮市集 這牛排 真的頂 大推這家" },
+      { type: "link", content: "https://photos.app.goo.gl/sbfHuLTJ3FACNnWb9", label: "2023年3月25日 想買空拍機了" },
+      { type: "link", content: "https://photos.app.goo.gl/c17Yiyr5d8tRz3ug8", label: "2023年3月25日 哈哈結果我才遇過自己作品一次" },
+      { type: "link", content: "https://photos.app.goo.gl/HYJA962QEwV4rkyUA", label: "2022年3月25日 \
+        Nocebo effect 反安慰劑效應 病人因為醫師的衛教 藥袋的副作用介紹等等 因為心裏擔心 \
+        反而開始感覺各種副作用發生在身上 但實際上非真實副作用" },
+      { type: "link", content: "https://photos.app.goo.gl/SXbmB3T7RkAQxrSP9", label: "2021年3月25日 \
+        去了解自古以來的傳統背後意義很好 但明知真的殺牛去拔毛一點屁用都沒有 根本不必多做殺生 \
+        連這點都不知變通跟思考 一點智慧也沒有的話就別求了" },
+      { type: "link", content: "https://photos.app.goo.gl/FtXghKJQcgbRF42t6", label: "2021年3月25日 懶惰了一年 把老朋友修圖工具 亮度蒙版下載回來了" },
+      { type: "link", content: "https://photos.app.goo.gl/EJf2xSkdCzipDdnu6", label: "2019年3月25日 \
+        台南普濟寺燈節適合走走但人很多 我很少拍傳統文化的作品 但普濟寺整齊的燈籠配上濛霧的煙很有感覺 \
+        有別於風景的大塊之美 傳統古城的寧靜之美也很值得紀錄 然後這次陪我一起拍 很開心XDD \
+        關於後製 廟宇的雕刻紋路與光影不比風景簡單 後製的難度更高一點 陰影之下保有細節算是比較麻煩處理" },
+      { type: "link", content: "https://photos.app.goo.gl/PQRxwz3atDzqWWXz7", label: "2019年3月25日 從我這屆開始 棚拍醫師袍好像被傳承下去了" },
+      { type: "link", content: "https://photos.app.goo.gl/udhpqnUkai5ZPoTQA", label: "2019年3月25日 身為攝影人 畫自己相機也是合理的吧 最後一畫了 挑戰最難的 自由參迎 歡迎直接截圖自己畫 簡單即可" },
+      { type: "link", content: "https://photos.app.goo.gl/2J5FzK9fhbwgF7iz7", label: "2019年3月25日 台灣拍得比他好的人更多只是你們媒體不報 沒有什麼特別厲害的點 我不懂外國人拍台灣就被捧 台灣人拍國外強的那麼多也沒外國媒體報導" },
+      { type: "link", content: "https://photos.app.goo.gl/oLoLbWMT6p3Esfrt8", label: "2019年3月25日 \
+        小週末 生活中能稍喘息片刻 與美好的人共度了 短暫的休息隨後又要留守好多天 現在的體悟是別想太多 \
+        生活步調時緊時鬆 該怎麼走就怎麼走 然後珍惜身邊的人事物 感謝女友包容 感謝女友家人照顧" },
+      { type: "link", content: "https://photos.app.goo.gl/GQge6L3QLz6FGW5G8", label: "2018年3月25日 \
+        病患的經濟能力一直是個社會問題 許多積欠醫療費而造成的醫院虧損 健保也未必給付 \
+        而讓醫院吸收的下場應該就是犧牲醫護人員的獎金了吧 典型強迫做功德的台灣醫療體系zzzzz" },
+      { type: "link", content: "https://photos.app.goo.gl/8Lp5XECFU5nnsZc18", label: "2018年3月25日 來換個藥就路過劇組拍劇 但我不知是什麼劇" },
+      { type: "link", content: "https://photos.app.goo.gl/oRrJSvZLy7NE6P2C9", label: "2018年3月25日 皮皮值班目前只接五摳還行 還行 感謝爸媽在我值班來找我吃飯 還送我這麼有意義的禮物" },
+      { type: "link", content: "https://photos.app.goo.gl/bAciZiBn2rSTRuBh9", label: "2018年3月25日 \
+        在夜景與天空交界處常會有高反差白邊 可能因為HDR可能因為你疊圖也可能因為你單張拉超出寬容 \
+        這時有些方式能快速但柔和的克服這個問題 在夜景攝影這是我重視的細節之一" },
+      { type: "link", content: "https://photos.app.goo.gl/82NSMqPo9sbs11kr6", label: "2018年3月25日 \
+        再來則是細節的提取 我的方式會用細節來強化光線該走的路徑 這很重要 因為在一大片的夜景裡 \
+        必須要有亮暗的層次才會有遠近的立體感 要注意的是此步驟會造成高反差白邊更明顯 力道要拿捏 \
+        很抱歉不太明顯因為手機錄 電腦很爛oz 但是用ps看差很多" },
+      { type: "link", content: "https://photos.app.goo.gl/iprypxpjjULojAzJ6", label: "2018年3月25日 \
+        接著必須去觀察環境中光線來源並強化他 我常常告訴來參加我攝影分享的朋友 畫面最重要由構圖+光線完成 \
+        後製不能改變構圖 卻可以強化甚至改變光線 這個步驟重視的是合理性 你不能加上與畫面衝突的光線" },
+      { type: "link", content: "https://photos.app.goo.gl/1rX6JFLv3DqdKXfS8", label: "2018年3月25日 \
+        接著是氛圍的營造 氛圍不只代表照片的調調 明亮或憂鬱 他也包含統一整齊整張畫面的光線平衡 \
+        而我也會在稍後調整一點顏色 這是很重要的步驟 他並非加黑邊 而且讓我們視線走向更明確 到這裡已經完成87%" },
+      { type: "link", content: "https://photos.app.goo.gl/Q4hAyvsVgD8GrUn19", label: "2018年3月25日 \
+        最後是除噪跟縮圖瑞化 對比飽和再調整 過去我用錯誤的方法宣揚自己的理念 但即便我用心 錯誤的方式卻造成與更多人的誤會摩擦 \
+        反而離我目標更遠 而我是真心希望 更好的國外後製觀念能被台灣朋友所學 自己也非職業攝影總有一天也會只剩看各位美圖的年紀 \
+        所以從現在開始改變作為 趁現在有餘力拋磚引玉 那麼也無悔 歡迎能帶我拍攝不同視角夜景與自然風景的攝影朋友找我交流 \
+        夠屌的景小弟願意用後製技巧交換 歡迎朋友私問 就這樣啦 更多的後製細節恕無法在私訊解答謝謝 今天的觀念已經分享1/4的重點" }
+    ],
     "26": [
       { type: "link", content: "https://photos.app.goo.gl/73BJVZWCf7vNbXFD6", label: "2017年3月26日 \
         總是這樣 忙碌的生活讓短暫假日只能東奔西跑 其實多想靜下來 讓一杯咖啡就度過一下午 讓一場午覺就度過一天 但腦海中有太多的目標與想法 \
