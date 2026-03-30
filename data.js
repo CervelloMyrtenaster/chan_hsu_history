@@ -4259,6 +4259,20 @@ const records = {
         等著完成 所以疲憊還是要卯起來 不得閒 gogogo 假掰" }
     ],
     "27": [
+      { type: "link", content: "https://photos.app.goo.gl/YxnoFTiiooETPJXA9", label: "2026年3月27日 \
+        這篇貼文立意是好的 但胡言亂語的部分也是有的 35歲男性猝死 通常是因為心肌梗塞或肥厚性心肌病變突發心室心律不整等等 \
+        單純熬夜不是造成猝死的原因 否則你各位壯年都快死光了 當然他有潛在沒發現的上述疾病 熬夜可以說是加重因子 \
+        但熬夜還是不好的 他造成身體慢性發炎導致累積的傷害是會的 但可悲的是 台灣社會上很多工作 \
+        因為惡質的體制或上司 常會害許多人必須熬夜 這真的悲傷但無法改變" },
+      { type: "link", content: "https://photos.app.goo.gl/DeABmTPqU5NQ8s5g7", label: "2026年3月27日 跟我以前一樣 放假的時候也是直接開車去找你 順便載你上課 實習的時候也怕你累 中午開車去陪你 這是應該的" },
+      { type: "link", content: "https://photos.app.goo.gl/NE6RkUfSbJoM5pmT6", label: "2026年3月27日 買一件 順便連後面千萬兩貓貓的抱枕也買" },
+      { type: "link", content: "https://photos.app.goo.gl/t7ZKrphJ8sdUGw9KA", label: "2026年3月27日 看起來就是超接地氣的地方 很讚" },      
+      { type: "link", content: "https://photos.app.goo.gl/9yfJEaYUWo4xg2ZJ6", label: "2026年3月27日 沒事 你滑的方向我會先撞到山壁XD" },
+      { type: "link", content: "https://photos.app.goo.gl/2G6xNprqFzeBiWTR8", label: "2026年3月27日 傻眼" },
+      { type: "link", content: "https://photos.app.goo.gl/Mp4TPNtW3vv94Gtp6", label: "2026年3月27日 \
+        買了MAC幾年後 發現暫存記憶體不夠這問題超嚴重 因為MAC格式所有文件幾乎都一起存在桌面 \
+        很多資料我都必須放在桌面才比較方便 除了重新買一台記憶體更大的MAC以外 這還能怎麼解決嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/dGK8K1GB5vs5NHG29", label: "2026年3月27日 在偏好設定這裡我甚至無法更改暫存的目的 網頁上是說必須至少有100G的空間 真的需要這麼多才行嗎" },
       { type: "link", content: "https://photos.app.goo.gl/qLwvp5FxmQRyDsmz7", label: "2025年3月27日 流量恐怖之鬼 比howhowhasfriends更會置入" },
       { type: "link", content: "https://photos.app.goo.gl/io46CAf6fhLeu24r8", label: "2025年3月27日 不然你負責出錢蓋手術房 付錢給醫師護理師薪水 媽的沒付幾個屁錢是在叫" },
       { type: "link", content: "https://photos.app.goo.gl/8nwFeCHCV551AUfaA", label: "2025年3月27日 推推" },
@@ -4357,6 +4371,16 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/48V9iPeaQrJxS2DB8", label: "2017年3月27日 曾經的溫柔 偶然看見 依然信感痛苦 這就是品嚐人生的感覺吧" }
     ],
     "28": [
+      { type: "link", content: "https://photos.app.goo.gl/oeHQ4b5tSoHBpAYz5", label: "2026年3月28日 \
+        我再說一次 我不是小草 也從來沒自稱過 政治不能單獨狂熱於某黨 三黨都有匪諜 都有白癡 也都有做很好的人 \
+        我從不捐錢給政黨 也從不參加政黨活動 這樣看政治時腦袋才會清楚" },
+      { type: "link", content: "https://photos.app.goo.gl/9vrfSr4tgF8BdmvW9", label: "2026年3月28日 整理2026 ACC/AHA高血脂指引 預計60-70頁 每個建議都不漏掉 但加上2022台灣指引跟2025 ESC指引比較希望不要再次超過100頁" },
+      { type: "link", content: "https://photos.app.goo.gl/1RoEVpPQPNMWcR3B7", label: "2026年3月28日 這禮拜又多學一個局部加亮的技巧 跟之前加光暈不同 好用一直用" },
+      { type: "link", content: "https://photos.app.goo.gl/6efbVj5Ay25LgZmT9", label: "2026年3月28日 我以為是披薩 原來是羽球" },
+      { type: "link", content: "https://photos.app.goo.gl/pTXkXpTKRdbRcUyX6", label: "2026年3月28日 不會啦不要害怕" },
+      { type: "link", content: "https://photos.app.goo.gl/Agaht8Yo7UPAqew1A", label: "2026年3月28日 他可以直接衝進火場把一整個家庭扛出來" },
+      { type: "link", content: "https://photos.app.goo.gl/LUMUTyiFidRBbgwr6", label: "2026年3月28日 最近怎麼都這麼多小畫家 真厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/2koS39CKpsWeT8Zt8", label: "2026年3月28日 我也要吃豆花" },
       { type: "link", content: "https://photos.app.goo.gl/3BEsCqGHTMXSW9zz8", label: "2025年3月28日 他讓台灣體驗共產黨統治 但現在可能體驗即將成真," },
       { type: "link", content: "https://photos.app.goo.gl/V7wtfY4pmU6qeQHJ8", label: "2025年3月28日 請問您拍攝的地點是哪個飯店 感覺夜景很漂亮 謝謝" },
       { type: "link", content: "https://photos.app.goo.gl/7zThqaS2sfoXagG26", label: "2025年3月28日 存起來 我們要去" },
@@ -4390,9 +4414,80 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/qNQ4HfZ3shLzMWhH8", label: "2021年3月28日 說明一下目前的大頭貼是幫我寫生 雖然畫的很像瀏海再長一點就變日本飛機頭不良高中生 如圖示 但還是很喜歡決定用很久變成標誌XD" },
       { type: "link", content: "https://photos.app.goo.gl/mp1Ns7wn73p3H17r9", label: "2021年3月28日 來個沒人試過的角度+路人麻豆" },
       { type: "link", content: "https://photos.app.goo.gl/WG1j7yKjYzQYebuL9", label: "2019年3月28日 隊長加油 會的 謝謝隊長 真的 薪資高 海又藍又大 真的很推薦上船 每個月至少十天的遊艇豪遊 咖勳" },
+      { type: "link", content: "https://photos.app.goo.gl/22K99KS5MM9dZdUb9", label: "2018年3月28日 \
+        我知道長久以來很多人在專注我的限時 而且手拿爆米花 如果你們能把這樣的心力 放在我的照片 我想傳達的攝影經驗就好了 誤XD \
+        今天這篇就是事情的完結篇了 當然如果還有什麼誤解我也會開劇場版XD 首先過去我在迪卡上面 ig上面抨擊的內容 \
+        都是針對事實評論 我不會憑空捏造 而且我一定具名負責 過去我沒有不敢講的話 所以以為有我有小帳的 抱歉本人不浪費時間做這種事 \
+        至於我被黑特的事情 我是沒有打算跟他追究 為了能讓大家好好注意攝影人的心血 這些風雨不應該變成焦點 所以這部分我選擇退一步海闊天空" },
+      { type: "link", content: "https://photos.app.goo.gl/v1nFxTcs1bdURqQKA", label: "2018年3月28日 \
+        再來是重點了 除了我說的事實 我也有不合理 攻擊性的言論 這部分我近日跟幾位當事人道歉了 無論是yh.1102還是eds.jpg \
+        未來我也不會評論任何作品 但歡迎評論我作品 從今以後我只想專注 盡力的拍好照片 然後做好我本身的職業 \
+        我希望一切重新來過 社會上什麼是公平正義 我沒有必要當自己是裁判 我說過的 我應該要更嚴厲的要求自己 讓作品上去 \
+        當然 如果芥蒂隨著時間解開 我也歡迎任何攝影玩家 網友與我交流" },
+      { type: "link", content: "https://photos.app.goo.gl/SDubwqAFW38jxCHm6", label: "2018年3月28日 \
+        最後 謝謝這5000多位的粉絲 雖然經營人氣一直不是我想做的事情 但不得不承認 你們的支持力量 能夠給我繼續教學 分享的動力 \
+        如果喜歡 也請幫我分享 讓我能將作品與心得給更多人知 至始不變的 即使我工作忙碌 未來久久發一次照片 \
+        我也可以跟你們保證我對風景夜景專業的野心只會越來越大 不停鞭策自己進步 謝謝你們的追蹤 我會持續加油 給大家最好的作品 \
+        幹重點是我努力的作品啦 就這樣 沒有掛了" },
+      { type: "link", content: "https://photos.app.goo.gl/2VFJYa1BUcSBmrMT6", label: "2018年3月28日 \
+        補 後面補我跟eds的對話而已 之前影射到Carina他們的也是一樣非常抱歉 對於主觀作品的評論都需要好好尊重 \
+        然後對自己說過的話做過的事情 都是主動負責 我一樣 也希望別人一樣 而前幾天的事情跟我無關 但也藉此機會一併講開 就安捏" },
+      { type: "link", content: "https://photos.app.goo.gl/5XxnKeyDnp9Yux3d6", label: "2018年3月28日 \
+        請問你是指我嗎 我跟大景哥只有我追蹤你 如果是的話 你可能搞錯什麼 這次跟我一點關係都沒有 如果不是指我 那就沒事 謝謝 \
+        不好意思喔 我從來沒有私底下嘴 我都是具名的說 我這個人從來不做偷偷摸摸抹黑別人的事 而且你沒有看到我參加 就代表跟我無關好嗎 \
+        你要是不信 你可以去找輝哥 黃博剛問 這次跟我一點關係都沒有 以前的事實我的確有不尊重你們的地方 你覺得我有錯我也承認 \
+        但是這次不關我事情 也請你把事情分開看 這次我連他們怎麼會吵起來 都是一頭霧水 \
+        這是我對話不是嗎 我沒有嘴你們 我這是講實話吧 我如果都不說理由 直接亂噴 那我也承認自己酸 \
+        再說了 這些我都具名講過 以前就講過 我連在迪卡上都具名講 當然我在公眾版面 的確不應該如此咄咄逼人" },
+      { type: "link", content: "https://photos.app.goo.gl/ZZjbLHRyDGABpbPa6", label: "2018年3月28日 \
+        這也是我有錯的地方 昨天我發一張爬樹的照片 黃博剛也是直接密我說不能這樣 我也不會說他在嘴我 今天我爬樓被大家說話 \
+        我也不會說他們是在嘴我 畢竟這些是事實 因為我以前覺得 你們爬樓也就算 還在禁航飛空拍 還po在整個迪卡讓大家知道 \
+        這樣不是很欠嗆嗎 作品等級這個 就是我不對的地方 我沒有尊重別人的創作 這裡我跟你道歉 你自己也清楚 就好比你tag粉專 \
+        他們根本不會審查 而且他們允許 不代表合法 當然啦 我現在絕對不會在公開說這些事情 \
+        你誤會我意思 我是說 就算粉專選你作品 也不代表合法 我知道" },
+      { type: "link", content: "https://photos.app.goo.gl/ypBEq9YjAbXMvVe18", label: "2018年3月28日 \
+        嗯 你可以有自己的作法 我不會干預 可是我已經收斂好一段時間 我敢做敢當 說過的話不會賴 該道歉的道歉 \
+        但是跟我無關的 我不想被牽扯 那沒問題 我尊重你們 我這樣說吧 以前我的確看的很不爽 因為違規之外又宣傳的大家都知道 \
+        這些都是會妨礙到我的 例如空安 甚至我以後有空拍機 你們要是萬一出事前 法規更嚴 我不是被你們害了嗎 \
+        我跟你直接講明白 我對你們有意見 都是有合理理由 不然我不會亂噴 我知道你沒有 可是作品的效應就是會造成這樣的結果 \
+        然後 現在的我 我先說完吧不好意思 現在的我 我覺得你們要對我有意見 沒關係 將心比心 但如果你是子虛烏有的把我牽扯 像這次 \
+        這就不是我以前對你們做的事情 現在我只想好好拍照 你們的作品如何 怎麼做 會不會違法 \
+        我都不會公開發表意見 也不想妨礙你們 我這說 合情合理吧" },
+      { type: "link", content: "https://photos.app.goo.gl/t67dD56c46AnFz6F6", label: "2018年3月28日 \
+        我沒有說你嘴啊 我說你嘴我 把我牽扯進去 問題是這次跟我無關 你為何要嘴我 你的發文 看起來像是講這次事情 不是 \
+        你如果說 我以前嘴你們 好 ok 但是你昨天那篇 很明顯大家會覺得昨天的事情跟我有關 但明明無關 \
+        你都說就是在說我了 不用這樣啦 大家有話直說 不用躲躲藏藏 對啊 我會密你 是因為你誤會昨天事情跟我有關 我想告訴你的重點 \
+        是昨天不關我事情 你不用說 我做過的事情我都知道 最早是taiwan dream的粉專 後來是迪卡 \
+        我都是針對你們違法還宣傳做出攻擊 我也沒有抹黑 我講的都事實 但個人情緒的言語 的確不尊重 這部分我可以道歉 我上面講的 \
+        有不合理的地方嗎 你出國比賽 那個就是在宣傳 迪卡也是" },
+      { type: "link", content: "https://photos.app.goo.gl/88s4aWPAHhVt6axC6", label: "2018年3月28日 \
+        我先說 個人現在 對那些事情沒有任何意見了 公開宣傳不等於買廣告 我的意思是 今天你要人氣 就得拿出至少不要太明顯違規的東西 \
+        不然不只是我 一堆人都在嘴你們 我只是那個 具名的其中一個 爬85附近的大樓 我理性的說 如果只是po作品 那還好 \
+        可是你們是要代表台灣比賽的 這樣真的有疑慮 對不對 你沒有看我前面說的嗎 我嘴 但是我都講有道理的東西 \
+        沒道理的我道歉 我知道你意思啦 你就是想告訴我 你們沒有惹我 我幹嘛要主動弄你們 我已經不會再搞這些無聊事情 \
+        要不要公審我根本沒差 你直接貼名字 我覺得更好 反正最後我只想說 我已經不想再搞這些543 我也不會再針對你們 \
+        你覺得我該道歉的部分 你就說清楚 我做過的事情 你理性的說也o 但是我沒有做過的 不關我的事情的 \
+        不要牽扯到我 對 等你這句 這樣我應該 很理性的跟你表達了吧" },
+      { type: "link", content: "https://photos.app.goo.gl/iw2hSr4wCbqEVC4R8", label: "2018年3月28日 \
+        Ok 謝謝 我沒有不承認過 我跟你說結論吧 這也是我密你最重要的事情 一碼歸一碼 這次跟我無關 我也不想參加 \
+        你發限時你有自由 但不要誤會這次跟我有關 以前的部分 我嘴的都是事實 我也都會講合理的理由 如果你覺得要公審那是沒問題 \
+        以前另一個部分 我言語上無關事實的攻擊 是我有錯 抱歉 以後的部分 我不想消任何渾水 一切重新來過 \
+        我也完全不干預你們任何創作 甚至你們想要找我交流 我自己都沒問題 大概是這樣 應該很明確表達給你了 謝謝你願意花時間跟我溝通" },
+      { type: "link", content: "https://photos.app.goo.gl/5U9BmBtyGxacd1q88", label: "2018年3月28日 \
+        大坑二號登山步道 裂縫中的陽光 最近的事情大家也看累了 所以在今天和解完 結束了 \
+        未來也不再有這些紛擾 也不要再有揣測與誤傳 每個人對自己的期許與目標不同 但不變的是必須真心熱愛攝影 \
+        這也是最初的目的 謝謝私訊的各位 礙於時間之後會逐一回覆 我在限時分享的技巧 是屬於邏輯觀念 \
+        意思就是我後製的是為什麼要做及做出來要什麼效果 而詳細步驟我只會放在未來的攝影教學 無法透過訊息一步一步教學 但其他疑問請儘管問 \
+        邏輯觀念是我花最久體悟的 這比學習技巧的時間更多 得到了別人的邏輯觀念 你可以嘗試用自己的方式 做出一樣效果 保證會有收穫囉" },
+      { type: "link", content: "https://photos.app.goo.gl/h5dD8gECVTob9AiP9", label: "2018年3月28日 Do more Talk less" }
 
     ],
     "29": [
+      { type: "link", content: "https://photos.app.goo.gl/ipoPh36gKwpBa5M57", label: "2026年3月29日 寫個考古題 幾乎每題都是百萬小學堂 冷知識大猜謎" },
+      { type: "link", content: "https://photos.app.goo.gl/Zyn6ZKNpSU1cA2847", label: "2026年3月29日 以後帶你去買" },
+      { type: "link", content: "https://photos.app.goo.gl/yKgj5JxW4VbEDLi28", label: "2026年3月29日 最喜歡看三眼豆豆ㄌ" },
+      { type: "link", content: "https://photos.app.goo.gl/hW2GD48Sri55o7sQ7", label: "2026年3月29日 怎能胖得這麼可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/68m1QYg59kQpBRyP7", label: "2026年3月29日 當時超圓一顆" },
       { type: "link", content: "https://photos.app.goo.gl/ZUqevTYjZcycUneG6", label: "2025年3月29日 \
         最近111年內科專科題目成為網路討論話題 根據AUA guideline 沒看到要求依據顏色來排除gross hematuria \
         最重要的是評估是否有危險因子 所以問題來了 一位65歲男性 ross hematuria應該如何處置呢 (A)依照AUA guideline \
@@ -4440,9 +4535,16 @@ const records = {
         我前兩年把莒拳 奪刀奪槍跟食鶴拳學的滾瓜爛熟 還曾經全連留下來練到九點只為了給該死的督導官看 \
         原本以為這有點沒用 但我發現我錯了 是他媽的爆幹沒用 我說真的不是鋪梗" },
       { type: "link", content: "https://photos.app.goo.gl/tUEiAs3ZapJrt2Hh8", label: "2019年3月29日 半年了" },
-
+      { type: "link", content: "https://photos.app.goo.gl/HJjYGsp1XJjBaf6Q9", label: "2018年3月29日 日本讓我最欣賞的一點就是 可以很認真 很嚴肅的做一件很智障的事情 讓我們看下去" },
+      { type: "link", content: "https://photos.app.goo.gl/QV5y1u6EG4xA6VV76", label: "2018年3月29日 落羽松秘境 距離上次跟一起來 事隔多年又來散步ㄌ" },
+      { type: "link", content: "https://photos.app.goo.gl/NjzyZgAsh6mV9eKW7", label: "2018年3月29日 這是我第一次體會最快的一個月 真的過的太快 完全快樂的時光總是特別快 比高雄實習還快 比日本實習還快 到底為什麼" }
     ],
     "30": [
+      { type: "link", content: "https://photos.app.goo.gl/sjAK5odChwELA9DC8", label: "2026年3月30日 和牛 干貝 龍蝦 生魚片 烤生蠔 應該是目前吃過品項最齊全的" },
+      { type: "link", content: "https://photos.app.goo.gl/cFJScrVfNVxN4uFj9", label: "2026年3月30日 島語台北漢來店 無限現煎干貝" },
+      { type: "link", content: "https://photos.app.goo.gl/jU1B9VbSyd4hSRjj8", label: "2026年3月30日 忍術無限干貝之術" },
+      { type: "link", content: "https://photos.app.goo.gl/u9Re6eF21hwi9ddu6", label: "2026年3月30日 吃不完 根本吃不完" },
+      { type: "link", content: "https://photos.app.goo.gl/Cts33Tb9eVNKjnRKA", label: "2026年3月30日 為啥都沒有我" },
       { type: "link", content: "https://photos.app.goo.gl/Jh2kgWHooqt3pUV4A", label: "2025年3月30日 好擔心AI會24小時一直跑吉卜力風格負荷不了哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/qNgZ3vYmufVjHki6A", label: "2025年3月30日 \
         真的是被ai驚艷到 不只最近吉卜力風格 水彩畫風格 還看到ai可以自行架設網站 製作簡易的網站後台 \
@@ -4467,7 +4569,8 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/TaT9iXKMKVtqW9246", label: "2020年3月30日 他明明18歲00後有什麼問題嗎 永遠不會ㄛ" },
       { type: "link", content: "https://photos.app.goo.gl/EGDfePDWrg8hcka16", label: "2019年3月30日 你看這種詐騙真的層出不窮" },
       { type: "link", content: "https://photos.app.goo.gl/AtyFJGNBfuvSk7Hz9", label: "2019年3月30日 我在船上教CPR常告訴他們 一輩子只要使用一次就值得了 這也是教我們CPR的醫生說的 木奉木奉白勺" },
-
+      { type: "link", content: "https://photos.app.goo.gl/yqDSJAzM9Wnmpsfz6", label: "2018年3月30日 喔喔喔喔喔喔喔 是雨傘人出沒 走在路上發現原來阿嬤把雨傘用綁帶固定在頭上 好方便喔喔喔喔 我真是跟不上時代了" },
+      { type: "link", content: "https://photos.app.goo.gl/QCRtH5vBnsfNvvrX7", label: "2018年3月30日 科技使人進步 不分年齡 雨傘阿嬤" },
       { type: "link", content: "https://photos.app.goo.gl/ttFD6FomFxrDp79L7", label: "2017年3月30日 好像很久沒走出校園Orz 其實滿安靜滿美der" }
     ],
     "31": [
@@ -4497,7 +4600,12 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/xNtmFSc7d2EVdpm47", label: "2020年3月31日 雖然很想睡了但不能放著女友想破頭不管" },
       { type: "link", content: "https://photos.app.goo.gl/y937Re52jDifcb4H7", label: "2019年3月31日 CP皇后鎮風格聚落藝術市集 說不玩了結果一直踢球的" },
       { type: "link", content: "https://photos.app.goo.gl/DQccZEKUQZCVndadA", label: "2019年3月31日 好喜歡日本風格的東西" },
-
+      { type: "link", content: "https://photos.app.goo.gl/CV8rh82KeDEBVXkr7", label: "2018年3月31日 調整LR時謹記 這張照片要什麼調 光線的重點是哪 哪些地方要留給PS做什麼樣的處理 New Post Please like it" },
+      { type: "link", content: "https://photos.app.goo.gl/4Xm4n1dK5mZdPrco8", label: "2018年3月31日 \
+        台灣最美的檳榔樹林XD 若不是為了民生經濟真不希望他們取代美麗的自然 這是我四年前自己發現的點 \
+        在後製這張時 最困難的是本身沒出景 可見限時 是一張很單調的風景 如果有出景可以看到檳榔樹斜射光 \
+        因此 我拍攝當下希望他是柔和調 並且後製強調檳榔樹的輪廓與光線 讓照片起死回生 迪卡有人說我照片不怎樣 \
+        想想也是齁 每次出去都沒出景 我的確該檢討 不過我比較在乎是跟誰出去而不是能拍到什麼XD 睡覺中的" },
     ]
   },
 
