@@ -4540,6 +4540,18 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/NjzyZgAsh6mV9eKW7", label: "2018年3月29日 這是我第一次體會最快的一個月 真的過的太快 完全快樂的時光總是特別快 比高雄實習還快 比日本實習還快 到底為什麼" }
     ],
     "30": [
+      { type: "link", content: "https://photos.app.goo.gl/uByTMrgjTs1uPfxU9", label: "2026年3月30日 \
+        完全認同 為什麼現在那麼多學弟妹配一千多萬或裝病退伍 就是因為這個體制強迫你成為文中的那種人 \
+        當醫生應該是一條尊重個人的道路 喜歡做研究的讓他做研究 喜歡在醫中衝刺的讓他衝刺 喜歡去診所不值班的就去診所 \
+        喜歡斜槓當半個醫師的就當半個醫師 只要對得起自己良心 不對患者造成傷害 不欺騙患者 不懂的就轉診 就好了 \
+        但有些環境就喜歡強迫每個人長成固定的樣子 當不適合的人被逼迫 終有一天會倒下 難過的只有他的家人朋友 失去的只有他的人生" },
+      { type: "link", content: "https://photos.app.goo.gl/TaZneB3Y5tVx48kb7", label: "2026年3月30日 \
+        如果是真的 那民眾黨真的也是垃圾越來越多 越來越投不下去 以前都是民進黨國民黨的幫派野狗多 唉 \
+        台灣真的應該派軍隊擊斃這些幫派 順便練槍強兵" },
+      { type: "link", content: "https://photos.app.goo.gl/FHT9MWuCoijfMzWi6", label: "2026年3月30日 這個椅子一定要傳給貓貓的子子孫孫" },
+      { type: "link", content: "https://photos.app.goo.gl/MMJ9smYVLjBoeuXi9", label: "2026年3月30日 這個怎麼那麼好笑" },
+      { type: "link", content: "https://photos.app.goo.gl/oLnETdRY9jvLSWyA6", label: "2026年3月30日 好玩一直抽" },
+      { type: "link", content: "https://photos.app.goo.gl/zZZWq3ygovdvPPjJ8", label: "2026年3月30日 蝦皮上買超便宜XD 但松鼠還是比較可愛" },
       { type: "link", content: "https://photos.app.goo.gl/sjAK5odChwELA9DC8", label: "2026年3月30日 和牛 干貝 龍蝦 生魚片 烤生蠔 應該是目前吃過品項最齊全的" },
       { type: "link", content: "https://photos.app.goo.gl/cFJScrVfNVxN4uFj9", label: "2026年3月30日 島語台北漢來店 無限現煎干貝" },
       { type: "link", content: "https://photos.app.goo.gl/jU1B9VbSyd4hSRjj8", label: "2026年3月30日 忍術無限干貝之術" },
@@ -4574,6 +4586,8 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/ttFD6FomFxrDp79L7", label: "2017年3月30日 好像很久沒走出校園Orz 其實滿安靜滿美der" }
     ],
     "31": [
+      { type: "link", content: "https://photos.app.goo.gl/k7GGmbGcb596iTCU6", label: "2026年3月31日 留友看台灣尚有民智未開之現況" },
+      { type: "link", content: "https://photos.app.goo.gl/YzswmS2NrLBzdYLAA", label: "2026年3月31日 柴也要身分證 很合理啊" },
       { type: "link", content: "https://photos.app.goo.gl/3ySQhPvRxpv13fp77", label: "2025年3月31日 \
         我以前也是翹課仔 有次翹掉營養學 老師很生氣 一次當掉很多同學 我們都59.5分 後來有次禮拜五多數同學都下課可以回家了 \
         我們這群被當的翹課仔被集中在院部小教室補考 分數當然也很難看 不過翹課是自找的 成績變爛自食惡果 \
@@ -4605,7 +4619,7 @@ const records = {
         台灣最美的檳榔樹林XD 若不是為了民生經濟真不希望他們取代美麗的自然 這是我四年前自己發現的點 \
         在後製這張時 最困難的是本身沒出景 可見限時 是一張很單調的風景 如果有出景可以看到檳榔樹斜射光 \
         因此 我拍攝當下希望他是柔和調 並且後製強調檳榔樹的輪廓與光線 讓照片起死回生 迪卡有人說我照片不怎樣 \
-        想想也是齁 每次出去都沒出景 我的確該檢討 不過我比較在乎是跟誰出去而不是能拍到什麼XD 睡覺中的" },
+        想想也是齁 每次出去都沒出景 我的確該檢討 不過我比較在乎是跟誰出去而不是能拍到什麼XD 睡覺中的" }
     ]
   },
 
