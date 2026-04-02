@@ -4625,9 +4625,80 @@ const records = {
 
   "4": {
     "1": [
+      { type: "link", content: "https://photos.app.goo.gl/BS2Q8dXNe4LawbCa9", label: "2026年4月1日 感謝AI LQT這個病跟鬼一樣 考題全部寫中文 只有單字看得懂 整句完全看不懂 現在好像有點懂了" },
+      { type: "link", content: "https://photos.app.goo.gl/91kAEMqwvn7JjXyG7", label: "2026年4月1日 支持" },
+      { type: "link", content: "https://photos.app.goo.gl/o2myMaQC14k3u4du6", label: "2025年4月1日 因為沒付錢 chatgpt心想這傢伙是不是要白嫖XD" },
+      { type: "link", content: "https://photos.app.goo.gl/Ec4VrPkcWkPekw7m6", label: "2025年4月1日 我覺得他已經做得很好了甚至預測到是gay的可能性Xd" },
+      { type: "link", content: "https://photos.app.goo.gl/ucdjvGz38GCxsxoV9", label: "2025年4月1日 已經很強了捏" },
+      { type: "link", content: "https://photos.app.goo.gl/GHwpTpoLTgLYaQzt5", label: "2025年4月1日 行情的話好像S以下一顆10元 再上去就往上加錢" },
+      { type: "link", content: "https://photos.app.goo.gl/f64hva61Gq24iYDn8", label: "2025年4月1日 \
+        某些網友開始撻伐AI破壞的宮崎駿老師的心血 結果一查很可能就假新聞 宮崎駿發怒的對象不是AI 時間點更是2016 \
+        打從開始我就認為科技的發展會伴隨著犧牲或淘汰 這樣說是比較直接 就是類似效應 人類不應該害怕或是因此停止科技發展 \
+        如同一開始寫出自成風格的書法家也沒辦法阻止後代接連的模仿跟把他的字型做成電腦文字直接使用" },
+      { type: "link", content: "https://photos.app.goo.gl/fbigYkwMa5kKGG537", label: "2024年4月1日 \
+        我不知道00940以後會不會漲 但高股息代表除息完股價跌的多 要回補必須要這支股票很有潛力才行 \
+        如果比潛力 很多股票都有 但又要有潛力 又要穩定夠大 有什麼比0050 006208好 \
+        當初說00940不優 是有道理的 我個人是不會浪費錢買這種莫名奇妙的ETF 不喜歡0050你還可以買元大啊 \
+        元大收割940韭菜時你也分一杯羹不是嗎 當初來問我 後來沒買的 恭喜你們省一筆學費" },
+      { type: "link", content: "https://photos.app.goo.gl/Wsnf1qBjoMktYJgZ6", label: "2024年4月1日 本來就該這樣" },
+      { type: "link", content: "https://photos.app.goo.gl/NQxU3XjJGQbZPWjm7", label: "2024年4月1日 推薦隨身帶刀 真的" },
+      { type: "link", content: "https://photos.app.goo.gl/zu6gLAn5ktzkPEPw7", label: "2024年4月1日 這便當看了心情都好起來嗚嗚" },
+      { type: "link", content: "https://photos.app.goo.gl/6XvNd3jEkCBJxobVA", label: "2024年4月1日 好羨慕哦會很好笑" },
+      { type: "link", content: "https://photos.app.goo.gl/AgFzf8C3XJ591P1HA", label: "2024年4月1日 好羨慕哦哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/YaVY3XajLXyi8ooF7", label: "2024年4月1日 好厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/RDGxaWEEeMhThjhv7", label: "2022年4月1日 因為小麻沒有完整介紹 想請問什麼情況下會驗IgX全套 他們分別又代表什麼意思呢 希望有內科大大指點迷津" },
+      { type: "link", content: "https://photos.app.goo.gl/v5a42jaNhCQvZ6VCA", label: "2022年4月1日 奇怪人類也是地球害蟲 怎麼不先把社會無法接受的罪犯通通處死 處死動物倒是很輕鬆自在" },
+      { type: "link", content: "https://photos.app.goo.gl/ZnU49rNv3XAZv55r5", label: "2021年4月1日 \
+        針對HFrEF的initial therapy 請教心內大神 在uptodate上面是利尿劑+beta blocker+renin angiotension system inh 如圖一 \
+        但今天jama發表用法是MRA+ARNI+SGLT2 inb+beta blocker 圖二跟三 Ps附上第七版小麻用藥 圖四 感覺好新啊 請問是確定更改了嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/Fvd2mZJqSKbKBbLy6", label: "2019年4月1日 \
+        連世界級婚紗 活動或者風景大神 課程都不用40萬了 請問那位大師你是真的是攝影業 還是詐騙 \
+        身邊朋友要學攝影的 想踏入行業的 歡迎來私我詢問 別再有盤子出現" },
+      { type: "link", content: "https://photos.app.goo.gl/roDb4fpCrfWkTesx7", label: "2019年4月1日 \
+        說真的 我以前看過台灣婚紗婚禮某位大神的發文 他說現在想用攝影當行業 最好自己本身有一個穩定工作 \
+        能讓你有資金投入 否則即使買到最高級器材 沒有最少三年以上的經歷 出去實力絕對被其他人電爆 \
+        誇張 千萬不要 拜託不要 40萬寧願學投資也不要拿去學攝影 我以前沒花多少錢 拜託業界攝影師帶我拍婚禮 拍活動 \
+        只要態度良好 事後懂的感恩 並且回饋恩師 都能有所收穫 你花40萬 我保證一兩年絕對不會回本 別傻傻了 \
+        再說了 如果是婚紗跟 世界龍頭kedaz學 也不用到那麼多錢 就算學成有沒有飯吃都很難說 凡事不要以為砸錢越多就有收穫 \
+        這是不可能 一步一步踏實的學比較好 救救40萬" },
       { type: "link", content: "https://photos.app.goo.gl/WriikydjtfFJhEFRA", label: "2017年4月1日 街頭自拍" }
     ],
     "2": [
+      { type: "link", content: "https://photos.app.goo.gl/ev9aHJuSbLoYsyAG9", label: "2026年4月2日 我自己吃飯都不開心 想要早點下班一起吃" },
+      { type: "link", content: "https://photos.app.goo.gl/tzQow8acTqw2jFdAA", label: "2026年4月2日 真的超可愛療癒" },
+      { type: "link", content: "https://photos.app.goo.gl/nCbtMwyJLKQ3Y4dd8", label: "2026年4月2日 天啊 根本就是幫貓貓設計的" },
+      { type: "link", content: "https://photos.app.goo.gl/WqkLfzqEb6Pp2KRX6", label: "2025年4月2日 之前我也跟楠梓的萵苣吵架過一次 一直湖縐的業務" },
+      { type: "link", content: "https://photos.app.goo.gl/weDXXyDr9FMpm5i86", label: "2025年4月2日 對啊超可憐 真正保衛台灣的就是這樣一群人" },
+      { type: "link", content: "https://photos.app.goo.gl/MPV5p5uEfeAQzvPM6", label: "2025年4月2日 太強了吧" },
+      { type: "link", content: "https://photos.app.goo.gl/DDyLyiwYh8njYPW46", label: "2025年4月2日 可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/mtrEyy5YJdBfuGQKA", label: "2025年4月2日 哈哈哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/1GD92vQaGP9VPzBs5", label: "2025年4月2日 哈哈好我試試看" },
+      { type: "link", content: "https://photos.app.goo.gl/esPEn4XVUxwsstt18", label: "2024年4月2日 \
+        多數洗腎時常見的問題是血壓下降 但幾天前值班卻遇到洗腎中血壓越來越高 病人原本只有吃Nebilet \
+        腎中收縮壓一路上飆到190-200 真的是讓我一頭霧水 NTG pump開到10多滴又吃norvasc也沒效 太奇怪了所以查了資料 但資料真的不多 \
+        仔細回想 可能原因是 或許洗腎脫除水分讓他心臟功能改善 CO變多 Nebilet被洗掉 RAAS被活化 根據查到的資料 \
+        如果下次再遇到 或許會考慮RAASi血壓藥物來降壓 不知道有沒有人願意分享經驗QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/YntwHHJXuf3jw4qM9", label: "2024年4月2日 透析足量最低標準記憶口訣 KTV至少唱到12點 點歌至少唱到60分 Kt/V>1.2 URR>65-70% 口訣記60 但注意實際上65" },
+      { type: "link", content: "https://photos.app.goo.gl/CnPMDuYnPLtn26QEA", label: "2024年4月2日 \
+        隔了一個多月再跑起來 這次真的進入最討厭的夏天 跑沒十分鐘就可以全身爆汗 \
+        自從受傷後 運動強度大減 每公里也整整慢了過去一分鐘 現在只求穩定的復健跟運動 保持身材不要過胖 才不會惡化病情 \
+        看著許多人能嘗試體能的極限 真的很羨慕 現在只能努力維持核心 超慢跑也選擇有上下坡的路段來訓練大腿肌肉了 \
+        生病真的很不得已 只有你自己真正生病受傷 才能體會這種慢性痛苦" },
+      { type: "link", content: "https://photos.app.goo.gl/DnsKoJEwD9MfvFK48", label: "2024年4月2日 對啊" },
+      { type: "link", content: "https://photos.app.goo.gl/uM5hja981gePHwbQ8", label: "2022年4月2日 \
+        被精心策劃 提早慶祝了生日 我居然完全沒發現 好感動 謝謝你們祝福 生日平淡就好 希望身邊的人都健康 \
+        能好好賺錢不要生病就是福氣 接下來要面對突然被通知不到五天能準備的報告 還有硬到爆的內科值班 綿綿無絕期的內科之路頗痛苦 幸好還有這些關心" },
+      { type: "link", content: "https://photos.app.goo.gl/yURmWQsUQufPWTK8A", label: "2021年4月2日 這太強了吧" },
+      { type: "link", content: "https://photos.app.goo.gl/KPiN4qNUSa78NNkm7", label: "2021年4月2日 原來有這麼多身份 借讀不知道什麼鬼" },
+      { type: "link", content: "https://photos.app.goo.gl/UHyby9PsHjkYJwBn9", label: "2021年4月2日 這基本上要單身自己生活才做得到" },
+      { type: "link", content: "https://photos.app.goo.gl/bbfZucHMo4MnjhxL7", label: "2020年4月2日 \
+        想想其實還是滿難過的 真希望政府能重視居住正義 台北光是一坪賣價都是其他縣市精華地段至少三倍以上價格 \
+        如果要在台北生存買房月薪100k才能勉強平衡收支" },
+      { type: "link", content: "https://photos.app.goo.gl/k1uzF8egH2hb4Kgc8", label: "2019年4月2日 果然不意外是這樣 雖然我還是覺得那個男的該死" },
+      { type: "link", content: "https://photos.app.goo.gl/LJeCth8qQwV97QNY9", label: "2019年4月2日 蘭嶼東清灣 很久沒有回去蘭嶼走走了 特殊的文化 優美的自然景觀還有慢步調的生活 金價懷念 代表蘭嶼歡迎你再去一次哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/H8xEewqpUXRto8cTA", label: "2019年4月2日 跟他的夥伴們一起完成 加入註冊或搜尋 有攝影案子需求或想被拍照都點進來吧" },
+      { type: "link", content: "https://photos.app.goo.gl/tLDwiDVGcVbSFt87A", label: "2018年4月2日 終究結束美好時光面對現實" },
+      { type: "link", content: "https://photos.app.goo.gl/d4dWBxmG5MUtb6m77", label: "2018年4月2日 高雄壽山忠烈祠 榕樹之神 樹的拍攝對我有魔力般的強大吸引 遠勝於拍銀河拍夜景" },
       { type: "link", content: "https://photos.app.goo.gl/wLNe3yur31eYaRjx6", label: "2017年4月2日 屎定啊 突然決定要在0度的夫妻樹拍銀河 沒有最狂只有更狂 跟學長一起suffer" },
       { type: "link", content: "https://photos.app.goo.gl/m6QVLzHykjPfR4JN6", label: "2017年4月2日 獲得一個月的喘息機會這樣 最動人的小角落" }
     ],
