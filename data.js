@@ -4664,6 +4664,14 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/WriikydjtfFJhEFRA", label: "2017年4月1日 街頭自拍" }
     ],
     "2": [
+      { type: "link", content: "https://photos.app.goo.gl/wQCYNjmQ2DJ4a5zW9", label: "2026年4月2日 \
+        當年228的時候 也有人認為政府只是在整肅社會秩序 大力支持政府 但現在看來就是可怕的獨裁跟血腥的手法 \
+        現在的京華城案件 其中部分情節也很明顯是被檢調系統強制定罪 同樣的過程在其他都更案是合法的 \
+        落在這裡變成不合法 然後還是有很多人認為這樣的司法完全沒問題 等到數十年後的未來再回頭看 才會覺得怎能如此荒謬 但都來不及了" },
+      { type: "link", content: "https://photos.app.goo.gl/Yrgh71S2SGKaVyEq7", label: "2026年4月2日 在台灣爽用醫療資源久了 好方便好便宜 凹爆台灣醫護 然後以為到國外你還能爽啊 全世界只有台灣才能讓你對醫療資源予取於求" },
+      { type: "link", content: "https://photos.app.goo.gl/9RBXr2vj6zDBmMHi6", label: "2026年4月2日 感恩惜福終於結束一個PART了 在科內得到很多資源跟幫忙 尤其是學長們 才有辦法發SCI ORIGINAL" },
+      { type: "link", content: "https://photos.app.goo.gl/PiNxZL38RZdxXSVKA", label: "2026年4月2日 最近沒回診 又發作了是嗎 記得請你家人關心一下你的身心狀況" },
+      { type: "link", content: "https://photos.app.goo.gl/jRNnMrN8S54Fz54v9", label: "2026年4月2日 越服這隻拉維爾造型更便宜 還不用vip就能買到 我記得是790之類的 換成台幣不到七百塊" },
       { type: "link", content: "https://photos.app.goo.gl/ev9aHJuSbLoYsyAG9", label: "2026年4月2日 我自己吃飯都不開心 想要早點下班一起吃" },
       { type: "link", content: "https://photos.app.goo.gl/tzQow8acTqw2jFdAA", label: "2026年4月2日 真的超可愛療癒" },
       { type: "link", content: "https://photos.app.goo.gl/nCbtMwyJLKQ3Y4dd8", label: "2026年4月2日 天啊 根本就是幫貓貓設計的" },
@@ -4702,7 +4710,50 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/wLNe3yur31eYaRjx6", label: "2017年4月2日 屎定啊 突然決定要在0度的夫妻樹拍銀河 沒有最狂只有更狂 跟學長一起suffer" },
       { type: "link", content: "https://photos.app.goo.gl/m6QVLzHykjPfR4JN6", label: "2017年4月2日 獲得一個月的喘息機會這樣 最動人的小角落" }
     ],
-    "3": [],
+    "3": [
+      { type: "link", content: "https://photos.app.goo.gl/CKvSpGo3WkQg8bZ9A", label: "2026年4月3日 \
+        在準備考試的痛苦之餘 分享一下醫療上震驚三觀的真實案例 沒錯 醫師拼了命的救人跟助人 還是會被被告 \
+        這種案件 沒有人在乎醫師花費的進修跟準備時間 更沒有人在乎醫師的費心換來患者一身的便利跟康復 \
+        看到這種案件內心真的會很冷 我絕對相信人性本惡 善的表現是外在教育跟道德約束換來的 希望這種純粹惡質的病人跟家屬能更少" },
+      { type: "link", content: "https://photos.app.goo.gl/XBBu6FbG6qTAa7FB9", label: "2026年4月3日 成為主治醫師前的最後一哩路 大爆讀上千個心臟科冷知識 真的是冷知識+冷公式一狗票 到底誰臨床會記得這些東西" },
+      { type: "link", content: "https://photos.app.goo.gl/XJhqwPJccpYncSmC8", label: "2026年4月3日 \
+        心專題目有太多很活或很死的 尤其很活的題目非常受用 如果從F1就開始讀 臨床上就能知道很多做法背後的道理 \
+        這真的很重要 才不會臨床上腦袋空空的 好後悔沒有前年就開始讀 現在根本看不完" },
+      { type: "link", content: "https://photos.app.goo.gl/9fMBfXUDjM5JqME76", label: "2026年4月3日 真可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/3YDjodH1MfeyfB1f9", label: "2025年4月3日 看看民進黨對黃國昌叫囂的態度 只換來黃國昌微微一笑就知道這兩黨的支持者 誰是咄咄逼人誰是理性民主了嘻嘻" },
+      { type: "link", content: "https://photos.app.goo.gl/VgHb3kRRUx5f9aDJ7", label: "2025年4月3日 因為顏色正確 在台灣只有非民進黨的政治人物需要檢討 這種道理還不懂嗎= =" },
+      { type: "link", content: "https://photos.app.goo.gl/iso4n6tL1sd1A1A49", label: "2025年4月3日 健保跟醫師護理師的薪水啊 這根本送分題吧" },
+      { type: "link", content: "https://photos.app.goo.gl/dCRyohCMMXU2mWrZ8", label: "2025年4月3日 台灣是一個獨立 你們他媽被洗完腦什麼時候要清醒" },
+      { type: "link", content: "https://photos.app.goo.gl/CPqHWnWfnzUEu3oR7", label: "2025年4月3日 \
+        所有的台灣人 應該都要看過這段影片 至少前半段關於烏俄戰爭要看完 \
+        俄羅斯在攻打烏克蘭之前花了一年做準備 從第一階段的零星演習 到第二階段開始進駐開設站都有意義 \
+        第一階段零星的演習 除了讓俄羅斯自己的兵力提早進入狀況 配合普丁不斷對外宣稱 唬爛 只是演習 來降低烏克蘭的防備心 \
+        同時也在測試北約或其他國家對於進犯的態度跟處理方式 第二階段不斷的設立臨時或永久據點 並且進口戰略物資 \
+        其實意圖已經很明顯但經過多次普丁虛假的保證只是演習 又成功欺騙了烏克蘭的防備心 第三階段的大規模演習 \
+        以及第三階段規模升級的第四階段 早已集結十萬兵力在烏克蘭周圍 不斷的製造開戰理由直到真正開戰 \
+        我們才知道原來戰爭 這麼容易發生 俄羅斯利用一次次的 狼來了 的效應 降低烏克蘭開戰的防備意識 \
+        如果共產黨一次次的演習也是如此 那結果會非常可怕" },
+      { type: "link", content: "https://photos.app.goo.gl/yWyk4SMDtgNsEViQA", label: "2025年4月3日 \
+        心臟超音波舒張功能之評估 網路上找不到詳細的心超舒張功能評估之中文說明 我參考ASE TSOC及教科書後簡易整理重點 \
+        第一張圖是心超評估舒張功能的五大class I indication要測量的值 內容都是取自上述來源可放心服用 \
+        關於超音波舒張功能之評估 我把重點整理成一張表格 高清大圖" },
+      { type: "link", content: "https://photos.app.goo.gl/uWVEvjPnAvRUPYx59", label: "2025年4月3日 超讚 線條越來越明顯" },
+      { type: "link", content: "https://photos.app.goo.gl/kXTfW23QdCpscC5X7", label: "2025年4月3日 好想養" },
+      { type: "link", content: "https://photos.app.goo.gl/izAvoPijQStUAa7w9", label: "2025年4月3日 收藏哈哈哈 我們只缺出去玩的時間了" },
+      { type: "link", content: "https://photos.app.goo.gl/T5WwYWLzkNBb26cN7", label: "2025年4月3日 收藏收藏 我們該去高雄玩了" },
+      { type: "link", content: "https://photos.app.goo.gl/ZWMndQSEufqvKjwv8", label: "2024年4月3日 怎麼會有這個XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/CvK8QtoLVGmndpoJ8", label: "2024年4月3日 這個月要教學有教學 要看書有看書 要便當有牛肉 實在太幸福惹 可惜是最後一個R3輪訓 下個月要開始最地獄最辛苦的兩年" },
+      { type: "link", content: "https://photos.app.goo.gl/nhWcyVDDshZ2jiFZ9", label: "2024年4月3日 饅頭聰明到爆" },
+      { type: "link", content: "https://photos.app.goo.gl/xfNDY3R4aKb5cQXKA", label: "2024年4月3日 哈哈哈哈超可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/dJaKMWZRFKsDrvHS8", label: "2024年4月3日 這樣實在太嚴重了" },
+      { type: "link", content: "https://photos.app.goo.gl/xViS48KkedYawSXs8", label: "2019年4月3日 今年西醫一階段通過分數 嗯不論哪間最多不能掉超過一級分" },
+      { type: "link", content: "https://photos.app.goo.gl/JNh1pcSWs9HnNsMT7", label: "2018年4月3日 \
+        這是近期最後一次作品+景點分享+微教學+免費手機桌布的分享 之後會暫時閉關 刪除迪卡 \
+        若我的經驗分享或桌布能讓你喜歡 還麻煩幫我在限時宣傳或愛心一下 連結也放首頁了 \
+        最後祝各位清明節愉快 假期開心囉 後製魔術師 台灣風景夜景紀錄 免費桌布取用 圖多資訊多" },
+      { type: "link", content: "https://photos.app.goo.gl/TazQkqT3ja6QfMju7", label: "2018年4月3日 整理到頭昏" },
+      { type: "link", content: "https://photos.app.goo.gl/7fY69NS9RG9B5mSP8", label: "2018年4月3日 Wallpaper下載連結在首頁或者至Dcard攝影版 後製魔術師 那篇裡面可下載" }
+    ],
     "4": [],
     "5": [],
     "6": [],
