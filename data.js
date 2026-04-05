@@ -4711,6 +4711,8 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/m6QVLzHykjPfR4JN6", label: "2017年4月2日 獲得一個月的喘息機會這樣 最動人的小角落" }
     ],
     "3": [
+      { type: "link", content: "https://photos.app.goo.gl/GbYdPRB18QhY5CJKA", label: "2026年4月3日 從以前看到現在很久了 應該是心理疾病" },
+      { type: "link", content: "https://photos.app.goo.gl/ma8JzWHdnpvSBw1CA", label: "2026年4月3日 難怪他的名字被去掉 變成合法配偶" },
       { type: "link", content: "https://photos.app.goo.gl/CKvSpGo3WkQg8bZ9A", label: "2026年4月3日 \
         在準備考試的痛苦之餘 分享一下醫療上震驚三觀的真實案例 沒錯 醫師拼了命的救人跟助人 還是會被被告 \
         這種案件 沒有人在乎醫師花費的進修跟準備時間 更沒有人在乎醫師的費心換來患者一身的便利跟康復 \
@@ -4720,6 +4722,7 @@ const records = {
         心專題目有太多很活或很死的 尤其很活的題目非常受用 如果從F1就開始讀 臨床上就能知道很多做法背後的道理 \
         這真的很重要 才不會臨床上腦袋空空的 好後悔沒有前年就開始讀 現在根本看不完" },
       { type: "link", content: "https://photos.app.goo.gl/9fMBfXUDjM5JqME76", label: "2026年4月3日 真可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/puXD66F9VHALM2297", label: "2025年4月3日 沒有美編圖片 實用跟正確比較重要 臨床紀錄 醫學筆記 特殊案例 Ref.教科書pubmed文章及uptodate 分享無需事先同意 附上來源即可自行 台灣內科專科" },
       { type: "link", content: "https://photos.app.goo.gl/3YDjodH1MfeyfB1f9", label: "2025年4月3日 看看民進黨對黃國昌叫囂的態度 只換來黃國昌微微一笑就知道這兩黨的支持者 誰是咄咄逼人誰是理性民主了嘻嘻" },
       { type: "link", content: "https://photos.app.goo.gl/VgHb3kRRUx5f9aDJ7", label: "2025年4月3日 因為顏色正確 在台灣只有非民進黨的政治人物需要檢討 這種道理還不懂嗎= =" },
       { type: "link", content: "https://photos.app.goo.gl/iso4n6tL1sd1A1A49", label: "2025年4月3日 健保跟醫師護理師的薪水啊 這根本送分題吧" },
@@ -4754,9 +4757,141 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/TazQkqT3ja6QfMju7", label: "2018年4月3日 整理到頭昏" },
       { type: "link", content: "https://photos.app.goo.gl/7fY69NS9RG9B5mSP8", label: "2018年4月3日 Wallpaper下載連結在首頁或者至Dcard攝影版 後製魔術師 那篇裡面可下載" }
     ],
-    "4": [],
-    "5": [],
-    "6": [],
+    "4": [
+      { type: "link", content: "https://photos.app.goo.gl/FS1qMs498akzRnwr9", label: "2026年4月4日 他根本不懂看 你要不要信隨便" },
+      { type: "link", content: "https://photos.app.goo.gl/VZtLzhjYZqJrQaaq7", label: "2026年4月4日 不行這樣啦" },
+      { type: "link", content: "https://photos.app.goo.gl/UwHEFvoHiFgLYJYS6", label: "2026年4月4日 這個好猛 我以為是AI" },
+      { type: "link", content: "https://photos.app.goo.gl/BUu9dgZDW8wFNvv2A", label: "2025年4月4日 \
+        沒錯 台灣不是一直大聲叫就能贏 台灣確實是獨立 但獨立要有實力不然只會換來血流不止 \
+        所以我們需要的政府是能夠跟中共周旋 暫時彎下身子不要引戰跟挑釁 同時間用力發展經濟 國防跟科技等產業 \
+        讓國力強大以至於國際不能失去我們 讓我們話語權更加強大 趨時我們講話才能大聲 離被多數國家承認的獨立才能更進一步 \
+        現在執政黨最大的問題不是宣傳台灣獨立 而是宣傳的同時卻縱容自己黨內很多立委在掏空台灣 \
+        配合各種政策來成立空殼公司拿走人民的血汗錢 這樣台灣真的會強大吧 想想實在很擔心很難過" },
+      { type: "link", content: "https://photos.app.goo.gl/GmGHTkkWJSKW7TvG7", label: "2025年4月4日 \
+        國民黨確實很低能沒錯 我不認同他們刪掉某些預算甚至理由是很北七的 \
+        國民黨甚至有直接說兩岸應該統一的 這就是我從來不投國民黨的原因 軍購潛艦這件事我100%認同你說的 \
+        但我也不認同民進黨無差別把藍白打成一家甚至中共同路人 很多預算例如體育補助根本沒刪 \
+        民進黨媒體當初造謠被刪除是什麼意思 台電綠能被綠色權貴搬空好幾億不討回來結果現在賴清德說補助被刪是藍白害的 \
+        不應該先把被虧損的錢討回來 民進黨抗中我認同 但保台不應該是讓立委配合權貴跟司法來掏空台灣 再回頭勒索更多的補助金跟納稅錢來用 \
+        我希望民進黨讓我看到整肅內部貪腐的作為 我才有辦法相信是真的在為台灣做改變 至於白色則是前陣子接受陸配來台用健保我也超不認同 \
+        所以不管哪個顏色的黨都有廢物垃圾 但也都有真心愛台灣的人 我想表達的是台灣最大的問題是政黨族群撕裂 \
+        大家不應該看顏色而是看那個人說的話及做的事情 所以如果為了台灣好 有危機意識 應該不是看到顏色就高潮 \
+        而是用腦思考台灣的問題該怎樣解決 該交給誰解決" },
+      { type: "link", content: "https://photos.app.goo.gl/LMaQeXVBKz3cieDFA", label: "2025年4月4日 說的具體一點" },
+      { type: "link", content: "https://photos.app.goo.gl/QNh9bPdAt4kFpxBJ9", label: "2025年4月4日 \
+        跟烏克蘭不同的包圍方式是 台灣四面環海更難包圍 但不是做不到 \
+        底下還有一堆網民說絕對不會打 剛好稱了中共的意 我在準備而你毫不在意 台灣人如果繼續內耗後果會非常危險 這是我想傳達的" },
+      { type: "link", content: "https://photos.app.goo.gl/zugmF5vYyC8BZwKz9", label: "2025年4月4日 不爽就滾 越遠越好" },
+      { type: "link", content: "https://photos.app.goo.gl/qG5XvL6Zeeo5TRRQ6", label: "2025年4月4日 \
+        應該說世界上沒有不可能發生的事情 一百年一千年沒發生過不等於下一秒不會發生 \
+        台灣還在搞內耗 我認同不能縱容支持武力統一的那些人 但對於掏空國家的卻被某些族群輕輕放下 \
+        這是非常可怕的後果 代表政治人物只要能表面打著抗中 就能背地裡做很多無良傷害台灣的事 \
+        最後的結果是這些內耗讓我們沒辦法全心防備對岸 然後順其自然被瓦解及統一" },
+      { type: "link", content: "https://photos.app.goo.gl/bLgNu255kyNWdeKk6", label: "2025年4月4日 對沒錯 所以我支持把台灣裡任何外配或本國人 只要支持武統就應該定罪或驅離" },
+      { type: "link", content: "https://photos.app.goo.gl/UfFcBYyYLmxJqRoa7", label: "2025年4月4日 \
+        你前面說的有道理 但最後一段就是陷入顏色的盲目 告訴你每一個黨都要賣國的垃圾跟掏空台灣的垃圾 \
+        看看現在民進黨助理怎麼把國家機密賣給中共然後被偵查起訴的 一但你眼裡只有藍白是壞蛋 那你就是還沒清醒 \
+        壞的不是政黨跟他的支持者 而是背地裡真實幹壞事的那些人 那些人在每個政黨都有 如果為了台灣好 \
+        應該不分黨派全部抓出來 搞雙標只是在撕裂台灣社會而已" },
+      { type: "link", content: "https://photos.app.goo.gl/FMUtFSYLGuTd5QVp9", label: "2025年4月4日 \
+        又來一個了 如果你確定國民黨民主黨會開門讓中共進來 台灣檢察官怎麼不趕快用叛國罪把它們抓起來 \
+        少講一堆你根本沒證據甚至帶偏剖的訊息 你怎麼不說民進黨也有中共滲透的助理 怎麼不是民進黨開門讓共軍侵犯台灣 \
+        台灣人現在最蠢的一件事就是用政黨來劃分族群 也是我說的內耗的最大原因 可悲到極致 \
+        我再說一次 任何政黨都有可能藏著賣國賊 任何政黨也都有真心愛台灣的人 真心愛台灣眼睛就不應該被顏色蒙蔽 \
+        我們應該做的是把有實質傷害台灣的人驅逐或下架 而不是用顏色來無差別攻擊" },
+      { type: "link", content: "https://photos.app.goo.gl/S1PFSZbgeLPihidr9", label: "2025年4月4日 不夠 我要20次出國旅行" },
+      { type: "link", content: "https://photos.app.goo.gl/bHF5He8kt3AeWeAp6", label: "2025年4月4日 \
+        Chatgpt真的很可愛 以前畫圖都亂編亂畫根本看不懂 但現在進步很多了 至少畫出來沒有天馬星空的幻想 \
+        不過雖然他很努力的畫 也再三保證這會讓我更清楚 但實際上我還是看不懂 他應該還是亂畫的XDDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/nstPtRorVEWsX7mA8", label: "2025年4月4日 哈哈哈 走我們去" },
+      { type: "link", content: "https://photos.app.goo.gl/mkkM5g6fYRKeHeMNA", label: "2025年4月4日 很厲害欸哈哈哈 但台灣醫師一天要面對100個寶寶可能沒辦法哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/MywkA7jtbBUY5A9i9", label: "2025年4月4日 不會 我抓住你就不會被吹走ㄌ" },
+      { type: "link", content: "https://photos.app.goo.gl/h2tv8rDg2yya6KYA7", label: "2025年4月4日 看到這種簡體字 就是詐騙沒錯" },
+      { type: "link", content: "https://photos.app.goo.gl/uxabC8bebXoHs6LE6", label: "2025年4月4日 多多都沒刁給我" },
+      { type: "link", content: "https://photos.app.goo.gl/Lkz5S9V7BEgcMbgj7", label: "2025年4月4日 感謝chatgpt跟butter_crab_學長的講義 沒有這些我可能不是一小時 而是要花一整天才有辦法理解這些鬼東西" },
+      { type: "link", content: "https://photos.app.goo.gl/cEL9FoHM48qaYTXJ9", label: "2025年4月4日 用力祝福這樣一位辛苦又強大的醫生治療順利" },
+      { type: "link", content: "https://photos.app.goo.gl/su6wn2C6DwMZsvP28", label: "2024年4月4日 凌晨五點在國道停車場■" },
+      { type: "link", content: "https://photos.app.goo.gl/jrVGX2sW11MzMLneA", label: "2024年4月4日 凌晨兩點開到凌晨五點多才到台中 每個休息站都大排長龍塞車 我猜是去花蓮的人通通都被取消只能在西部了吧" },
+      { type: "link", content: "https://photos.app.goo.gl/wUHXsEUsZr3WLs2y8", label: "2024年4月4日 跟大家說 這個點已經永久作廢囉 聽說沿路都是拒馬鐵網 還有監視器 連當事大樹都被綁上軍方營區的告示牌 也就是千辛萬苦到那裏也沒辦法拍了 真的很可惜的景點 台灣的作法真的很讚ZZ" },
+      { type: "link", content: "https://photos.app.goo.gl/ETZFAWPPTDTzFEL18", label: "2024年4月4日 台中天氣94讚 台北一下下雨一下出太陽 Nice view" },
+      { type: "link", content: "https://photos.app.goo.gl/taTo9CrxSc9Cq9YYA", label: "2024年4月4日 有人要拍值班醫師的Vogue嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/QikLtCrgYZU5easv6", label: "2020年4月4日 709寢聚 致敬新人生勝利王" },
+      { type: "link", content: "https://photos.app.goo.gl/6iNqA8waNUQRPgWG8", label: "2018年4月4日 拜託各位幫頂啦哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/vXvKsMhC1cboC8HY8", label: "2018年4月4日 難得發文 送個桌布 有空可以幫愛心" }
+    ],
+    "5": [
+      { type: "link", content: "https://photos.app.goo.gl/PeG5qNfYfQn6P6m77", label: "2026年4月5日 我一定看好看滿再幫你拍攝各種角度ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/KnQwx6uDNXQzgbCeA", label: "2026年4月5日 每一個小單元中的小單元 都至少要背1-3個試驗的內容 名稱+主要終點+次要終點 更沒品的是會考收案條點 但考試有幾百個小單元欸 要背到死嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/4g7Ai3psc3SYT6z37", label: "2026年4月5日 繼續開始瞎掰口訣大作戰" },
+      { type: "link", content: "https://photos.app.goo.gl/XaoYNsM6wksYwLR37", label: "2026年4月5日 真可愛哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/HbzMuWitaANvw56S7", label: "2026年4月5日 感覺很久沒出國了" },
+      { type: "link", content: "https://photos.app.goo.gl/xdBFy7dEZy9MyBYKA", label: "2026年4月5日 哈哈哈哈哈哈 真好養 而且貴的不吃賺爛了" },
+      { type: "link", content: "https://photos.app.goo.gl/SKAEbfFm5N1561CQ6", label: "2026年4月5日 他越來越懂事 還會幫忙把風" },
+      { type: "link", content: "https://photos.app.goo.gl/WyDX99cqdGq9b2BK8", label: "2025年4月5日 最好是 這個是我最在行的 但不要用手機拍 手機很難用 相機絕對拍到好 但要稍微配合我靈感創作 要有耐心我就能好好拍 沒有 我要用相機才行" },
+      { type: "link", content: "https://photos.app.goo.gl/wP99dC8NTUXy7GwP6", label: "2025年4月5日 超多人去聽的誤" },
+      { type: "link", content: "https://photos.app.goo.gl/RdsbwzQtZW27zRhn6", label: "2025年4月5日 我覺得很讚" },
+      { type: "link", content: "https://photos.app.goo.gl/utGG5RibvdoZBkLSA", label: "2025年4月5日 學長我覺得升上主治醫師的時候就得買了QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/5c1HL2QL1MGNxQ1y6", label: "2025年4月5日 那被告的時候誰要跟醫師一起被告上法庭 咦 怎麼突然安靜了" },
+      { type: "link", content: "https://photos.app.goo.gl/VEu14gV7YX7mqiEB8", label: "2025年4月5日 剛剛把這個片段聽了三次ㄟ" },
+      { type: "link", content: "https://photos.app.goo.gl/g9zjc21fHD2LygLQ8", label: "2025年4月5日 幸好有趕上 錯過就可惜了" },
+      { type: "link", content: "https://photos.app.goo.gl/tEAfPtqLxrjtmcNt7", label: "2024年4月5日 寧願穿西裝 也不要軍裝" },
+      { type: "link", content: "https://photos.app.goo.gl/wQDneLGddqggp7Kw8", label: "2024年4月5日 以前高中生資訊不發達不知道當醫生多可悲 現在資訊發達這麼多人勸他 他還偏往虎山行 以後後悔只能怪他自己xd" },
+      { type: "link", content: "https://photos.app.goo.gl/7sSp5BE7QAZq9zEb8", label: "2024年4月5日 \
+        外婆去世跟你當醫生有什麼關係啊 每個畢業生都用這種爛理由 不過我當年好像也是 \
+        等你真正當醫生 就會知道該過世的就是讓他過世 你也救不回來 救回來可能才是害他" },
+      { type: "link", content: "https://photos.app.goo.gl/zUN1ef92TbTtXxWV9", label: "2024年4月5日 \
+        泰滾Rolling Thai南京店 非常好吃的泰式火鍋 酸辣鍋的酸辣程度剛剛好 而另一邊的椰奶不會過甜卻非常香 \
+        豬肉牛肉都是很頂的 海鮮的蛤蜊鮮蚵都很讚 整體而言泰式裝潢跟料理都很到位 是滿高級的泰式火鍋 一個人均消含服務費約1000左右" },
+      { type: "link", content: "https://photos.app.goo.gl/RGp1jGFpFWTD7i7g8", label: "2024年4月5日 帥" },
+      { type: "link", content: "https://photos.app.goo.gl/vrccHCf5idHAZS2x6", label: "2024年4月5日 一樣是爬山為什麼他們比較好玩" },
+      { type: "link", content: "https://photos.app.goo.gl/FVTL1JLDQtZY2hrY6", label: "2023年4月5日 要出去玩了嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/Kny1mFZ1euL2w2FN6", label: "2023年4月5日 \
+        清晨的奇美博物館 攝影分享No.19 很多風景大神會拍攝過曝的風景 其中一種是讓陽光投射樹葉 \
+        呈現透視的感覺跟黃橘色調 最有名的是 布雷德湖中之島 這個拍點配上黃葉 還有其他如日本的楓葉或櫻花 再搭配遠景的主角 \
+        我發現台南的奇美博物館有異曲同工 能拍出這樣的作品 後製上必須拋棄過往要矯正過曝拉暗的方式 首先須讓整體亮度增加 \
+        再拉暗周圍不重要的角落 但葉片的處理是關鍵 除了保持高亮度 也要強調光線投射的那個點 而遠景的主角 \
+        則需要好好把細節跟光影做出來 才不會變成配角 很喜歡這類型的作品 但因構圖的限制及好的日出 需要一點耐心去找點" },
+      { type: "link", content: "https://photos.app.goo.gl/XAbt5fGWUtzTy2ee9", label: "2023年4月5日 推薦的健身飲料" },
+      { type: "link", content: "https://photos.app.goo.gl/AKyDuLJLhq8xutML7", label: "2022年4月5日 \
+        ICU病人晶體輸液的選擇 對於ICU病人 晶體輸液通常是休克的第一選擇 然而BMES Plasma-Lyte 148或saline何者較好 \
+        一直有很多結論 今年PLUS study統計了澳洲及紐西蘭多家ICU的病人 結果發現這兩種輸液 在腎功能損失及90天全因死亡率上面 \
+        並沒有顯著差別 不過特殊情況下 例如DKA 共識還是以BMES為優 以下附上各年份的研究資料總結囉" },
+      { type: "link", content: "https://photos.app.goo.gl/4oeGZqNYyQ6SX5B77", label: "2021年4月5日 \
+        高雄 複製貼上的大軍 我們的一日快閃高雄市小旅行 覺得有同樣興趣的倆人非常重要 我們要繼續享受旅行 \
+        每次旅行都會整理一些好吃好喝 而我負責整合 訂住跟開車XD 所以來分享一下吧 0%業配 都是我們自己吃過真心還會再光顧XD \
+        海慶海產 很適合團體聚餐 海產新鮮又大份 沒有雷的一道 鹽酥紀 很特別又不會太鹹太乾的調味 吃不膩XD \
+        左營的籠帥湯包 雖然不是很特別 就是小籠包 但如果經過左營很值得一吃 個人覺得比北平楊寶寶便宜 又好吃非常多" }
+    ],
+    "6": [
+      { type: "link", content: "https://photos.app.goo.gl/AKPB7Rr8xByzmQCS6", label: "2025年4月6日 雖然chatgpt很棒 但還是抓到問問題時東拼西湊 亂說一通 越想越不對勁才發現他在亂講XDDD 不過chatgpt真的很厲害 可以認真的湖縐 差點相信了" },
+      { type: "link", content: "https://photos.app.goo.gl/TYY8KedjUr7D3kLi7", label: "2025年4月6日 在y區地下街看到粉紅先生這家店 居然是把A-D賞全部拆封擺出來賣 而且鼬的精細度超高不用1000塊 直接心動ㄌ" },
+      { type: "link", content: "https://photos.app.goo.gl/ioFS9nb4ckWpKAgs5", label: "2025年4月6日 有些美國媒體不是官方的 要小心" },
+      { type: "link", content: "https://photos.app.goo.gl/gc1GMAo9xwzUyrxs5", label: "2025年4月6日 世界上居然有這種寶寶羊" },
+      { type: "link", content: "https://photos.app.goo.gl/QKxtsEJybw78UDfu8", label: "2025年4月6日 可惜了 這個完全是攝影者的超強AI 只可惜這會讓許多攝影點被破壞跟大量模仿 到底是好是壞呢" },
+      { type: "link", content: "https://photos.app.goo.gl/k8hkZyJPrud7cAiYA", label: "2025年4月6日 看了很心動 但居然要4000萬" },
+      { type: "link", content: "https://photos.app.goo.gl/qHPJvhmURQVVbFRLA", label: "2024年4月6日 \
+        本來想說RCW蠻輕鬆的 忙碌一早打算結束 結果遇到超困難CVC \
+        病人超缺水 外頸靜脈小到爆 輕輕壓直接消失 這是第二次遇到 頭低腳高效果有限 打了快一小時orz" },
+      { type: "link", content: "https://photos.app.goo.gl/cLJjevcTfieUCHZm7", label: "2024年4月6日 \
+        如果可以離職 我絕對會一秒離職 我實在無法想像可以安心每年固定排休提早買機票出國有多幸福 \
+        更無法想像擁有自由不需要出國報備上公文有多幸福 能夠走出台灣 看看世界的千山萬水才是一個完整的人 \
+        目前我只覺得自己支離破碎 心中有許多的攝影計畫 卻不知何年能實現 大陸也好美好想拍" },
+      { type: "link", content: "https://photos.app.goo.gl/s6BAi8Ywrj9krPuR8", label: "2024年4月6日 好猛 看起來可能是一位年輕的氣胸醫師邊住院邊開order" },
+      { type: "link", content: "https://photos.app.goo.gl/AM8S7K7xvCzRnjpX6", label: "2024年4月6日 進步的太過頭了啦" },
+      { type: "link", content: "https://photos.app.goo.gl/rBGopC9YzQEWo5sB8", label: "2024年4月6日 大家都只會秀粉絲數 唯獨蔡14連貼文數都碾壓" },
+      { type: "link", content: "https://photos.app.goo.gl/dMx2coeh3BTjXQEH8", label: "2023年4月6日 喔喔喔喔 這個要參加" },
+      { type: "link", content: "https://photos.app.goo.gl/KkxZ5Wqg4Bi6pQCy7", label: "2022年4月6日 \
+        台北小螺波XIAO LUO BO公館店 公館巷內好吃的螺蛳粉 超道地的香港風味 可以自己選擇酸度跟辣度 \
+        尤其喜歡吃酸的朋友有福了 中酸其實就超級酸 Ps小螺波豆奶超過100分 來吃必點 甜卻清爽 超適合配著一起吃大大推" },
+      { type: "link", content: "https://photos.app.goo.gl/pYbjJp5kFk41PboK6", label: "2022年4月6日 \
+        買股票不是賭博 沒家產的還是有穩定薪水最重要 買不怕套的 交易量大 大到不能倒的公司 \
+        可參考0050發行快20年以來一直是成份股的金融 富邦國泰中信兆豐 次之開發 \
+        第一金股票股利發太多難保漲回來太慢 股本擴張 華南彰銀相對太小間" },
+      { type: "link", content: "https://photos.app.goo.gl/PMpmAcm8chYeej4h7", label: "2021年4月6日 有人想一起買spotify嗎 一個月40元 目前有四個空位" },
+      { type: "link", content: "https://photos.app.goo.gl/FtgUpFB5Ax7kqYA28", label: "2021年4月6日 旅途中的小確幸" },
+      { type: "link", content: "https://photos.app.goo.gl/fFyBBCzTbchc6Wry7", label: "2020年4月6日 就愛日式" },
+      { type: "link", content: "https://photos.app.goo.gl/uuztwfc8mphpCZEo7", label: "2018年4月6日 各位注意 台灣由北而南要準備暴雨了 圖from朋友" }
+    ],
     "7": [],
     "8": [
       { type: "link", content: "https://photos.app.goo.gl/5bLEDeAyF8EV9Kza6", label: "2017年4月8日 一直放重音根本誘惑我跳舞 難受 也太適合popping" },
