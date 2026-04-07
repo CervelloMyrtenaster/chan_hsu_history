@@ -4863,6 +4863,21 @@ const records = {
         左營的籠帥湯包 雖然不是很特別 就是小籠包 但如果經過左營很值得一吃 個人覺得比北平楊寶寶便宜 又好吃非常多" }
     ],
     "6": [
+      { type: "link", content: "https://photos.app.goo.gl/rYAmPnon8Tm46XUaA", label: "2026年4月6日 \
+        你會把黃金放你的體內嗎 用腦思考一下 \
+        你會把黃金放你的體內或放在傷口接觸皮膚組織嗎 既然覺得黃金比較便宜 那你把黃金放傷口上好了 用腦思考一下" },
+      { type: "link", content: "https://photos.app.goo.gl/4eSuaXB3Fqq4hJFR7", label: "2026年4月6日 \
+        寫到這題瞬間夢回醫學生第二階段醫師國考 還是這五年內的考題 還不只一題 \
+        原來醫師國考真的有可能考出心專一樣的內容 字句差不多只是更刁一點 現在的醫學生真不簡單" },
+      { type: "link", content: "https://photos.app.goo.gl/N6iW979nvHsikzCT9", label: "2026年4月6日 來看一下精美的醫師二國考題 跟心專比只是沒那麼多奇怪的長句子 但當初讀完內專我可是完全不會的啊" },
+      { type: "link", content: "https://photos.app.goo.gl/CKkCneaSFM1qx1k87", label: "2026年4月6日 \
+        喜歡參加百萬小學堂的朋友 一定要來寫寫心臟專科筆試題目 五題大概只對一題 \
+        每一題都必須先讚嘆一番怎麼有辦法出這種看都沒看過的文字之後 再開始猜猜樂" },
+      { type: "link", content: "https://photos.app.goo.gl/uBmPH1awd87ubDmi7", label: "2026年4月6日 \
+        去日本與大學好友相見 恭賀他結婚之餘 也順便搭車到東京椎名町站旁拍攝夜景 \
+        海鮮酒場 魚波 比起絡繹不絕的饕客 這裡更多是慕名而來的攝影師 旁邊的高架橋有人行道 除了偶爾的晃動外 \
+        實在很方便也很適合拍攝 當天至少聽到三四種語言 可見這美景已遠播全球 這張後製時也用了新的局部加亮方式 \
+        不只快速 也不會造成過分的模糊 雖然很想繼續拍照 但現在有更重要的任務 也許會需要收心半年甚至一兩年ORZ" },
       { type: "link", content: "https://photos.app.goo.gl/AKPB7Rr8xByzmQCS6", label: "2025年4月6日 雖然chatgpt很棒 但還是抓到問問題時東拼西湊 亂說一通 越想越不對勁才發現他在亂講XDDD 不過chatgpt真的很厲害 可以認真的湖縐 差點相信了" },
       { type: "link", content: "https://photos.app.goo.gl/TYY8KedjUr7D3kLi7", label: "2025年4月6日 在y區地下街看到粉紅先生這家店 居然是把A-D賞全部拆封擺出來賣 而且鼬的精細度超高不用1000塊 直接心動ㄌ" },
       { type: "link", content: "https://photos.app.goo.gl/ioFS9nb4ckWpKAgs5", label: "2025年4月6日 有些美國媒體不是官方的 要小心" },
@@ -4892,7 +4907,37 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/fFyBBCzTbchc6Wry7", label: "2020年4月6日 就愛日式" },
       { type: "link", content: "https://photos.app.goo.gl/uuztwfc8mphpCZEo7", label: "2018年4月6日 各位注意 台灣由北而南要準備暴雨了 圖from朋友" }
     ],
-    "7": [],
+    "7": [
+      { type: "link", content: "https://photos.app.goo.gl/rXwUU2znPnzWPz5f6", label: "2026年4月7日 \
+        完全正確 原則上值班根本就應該額外再多給付給醫生薪水 但台灣醫療環境就是完全沒人提出這件事 \
+        一個負擔人命的工作有夠廉價 平日值班一晚至少值2-3萬 假日值班一晚至少值4-5萬 \
+        健保沒錢付的話就是住院的病人應該負擔這些值班費用 真的是沒人在乎的問題" },
+      { type: "link", content: "https://photos.app.goo.gl/tD6U12TJmbis8fK5A", label: "2026年4月7日 一定是媽媽 結婚是為了跟另一半共渡餘生 主要不是為了有小孩" },
+      { type: "link", content: "https://photos.app.goo.gl/YM5f2mhu4NiM3AQA6", label: "2026年4月7日 沒有LKK啦 是不知道用什麼符號" },
+      { type: "link", content: "https://photos.app.goo.gl/V9RhbPmegRmHNoJr8", label: "2026年4月7日 哇靠 早知道我從小種地瓜葉就發財了 還不用當什麼醫生30歲了還要每天擔心考試被當掉" },
+      { type: "link", content: "https://photos.app.goo.gl/jGvYk1rEkmLHkvFAA", label: "2025年4月7日 台股全面跌停" },
+      { type: "link", content: "https://photos.app.goo.gl/KtQfdPBpQgZoCbEp8", label: "2023年4月7日 我以為是模仿綠豆糕的課文XD" },
+      { type: "link", content: "https://photos.app.goo.gl/fuf671xxepWXr5yK6", label: "2022年4月7日 有看我限動的 應該會有印象 去年就說過開發金會上到20元 接下來就等富邦金上到80元了" },
+      { type: "link", content: "https://photos.app.goo.gl/xp1VJ5YxQcnq8edx7", label: "2022年4月7日 偉哉開花金 終於20元了" },
+      { type: "link", content: "https://photos.app.goo.gl/fwKC7xNp3AePorTm8", label: "2022年4月7日 氣切管到期 幫病人換一組氣切 看似花不了多久 但一個意外可能需要插管甚至急救 請問醫師執行高風險作業 一個不慎得賠百萬以上的氣切置換 為何健保只給210元" },
+      { type: "link", content: "https://photos.app.goo.gl/yYAVEvQh7CPhrx359", label: "2022年4月7日 \
+        四月開始很忙 很多病人 很急的報告 什麼鹿耳門煙火根本完全沒follow 每天想到的只有睡眠不足 跟想辦法多讀書 \
+        但又在生日前夕給我一個驚喜 終於有North face跟Mystery了 簡單平凡的禮物 不簡單的幸福感" },
+      { type: "link", content: "https://photos.app.goo.gl/K1i65NmHV9nQ4bxc7", label: "2021年4月7日 \
+        這是一篇懺悔文 這個月即將滿第28個充滿粗心跟烏龍的年頭 打從小時候考試比別人容易看錯選項填錯卡 \
+        到這個月 弄丟發沒一年的醫師章 訂錯20人聚餐的餐廳 跟今天 訂錯跟說的飯店 \
+        從漂亮便宜又高級變披著三星級的狼皮其實是一星級的爛飯店orz 如今 數不盡的粗心已經得到別人太多的包容 \
+        生活或許朋友家人笑笑帶過 但醫療職涯一個粗心不是笑笑而是被吉到起笑 \
+        所以預先想好今年唯一的願望 一改掉粗心壞毛病 做個仔細謹慎 凡事多一點檢查跟思考的人" },
+      { type: "link", content: "https://photos.app.goo.gl/ALF1KXu26vXSCGbu7", label: "2021年4月7日 來台東玩個三天 每天低雲多到嫑嫑 半個日出跟銀河都沒拍到 只有睡覺補眠" },
+      { type: "link", content: "https://photos.app.goo.gl/Wubsf5hNeosVmBPG7", label: "2021年4月7日 台東鹿野高台 後面就是超大山谷風景 中樂透我就買" },
+      { type: "link", content: "https://photos.app.goo.gl/KeF8RLBvP41hfv9x8", label: "2018年4月7日 Good Night 沒有了相機只剩下實習考試 修圖是唯一的慰籍 追蹤我" },
+      { type: "link", content: "https://photos.app.goo.gl/J5iNCdsBo4rGdShk9", label: "2018年4月7日 Sigma14-24 Tarmon15-30 醫學上常常需要記相似疾病好發的年齡 發現剛好可以用兩個超廣角來記" },
+      { type: "link", content: "https://photos.app.goo.gl/FidBzS3CMY2Wai2j7", label: "2018年4月7日 \
+        Like My New Post Sunflowers and Milkyway \
+        每每看到國外花海配銀河或日出 內心真的無數悸動 人生清單之一 是一定要找到這樣的美景 然後完成他 \
+        無論再怎麼遙遠再怎麼辛苦 然後 這超適合放桌布啊啊啊啊" }
+    ],
     "8": [
       { type: "link", content: "https://photos.app.goo.gl/5bLEDeAyF8EV9Kza6", label: "2017年4月8日 一直放重音根本誘惑我跳舞 難受 也太適合popping" },
       { type: "link", content: "https://photos.app.goo.gl/TKd2Eb7oEks3vccn7", label: "2017年4月8日 Wolking Right now" }
