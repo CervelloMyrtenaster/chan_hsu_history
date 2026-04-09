@@ -4915,7 +4915,17 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/tD6U12TJmbis8fK5A", label: "2026年4月7日 一定是媽媽 結婚是為了跟另一半共渡餘生 主要不是為了有小孩" },
       { type: "link", content: "https://photos.app.goo.gl/YM5f2mhu4NiM3AQA6", label: "2026年4月7日 沒有LKK啦 是不知道用什麼符號" },
       { type: "link", content: "https://photos.app.goo.gl/V9RhbPmegRmHNoJr8", label: "2026年4月7日 哇靠 早知道我從小種地瓜葉就發財了 還不用當什麼醫生30歲了還要每天擔心考試被當掉" },
+      { type: "link", content: "https://photos.app.goo.gl/2bg8rj8zwKn3PYa26", label: "2026年4月7日 決定有空就每日一題心專考古題 一起體會傻眼跟猜猜看的樂趣 答案D 請問心臟在哪裡" },
       { type: "link", content: "https://photos.app.goo.gl/jGvYk1rEkmLHkvFAA", label: "2025年4月7日 台股全面跌停" },
+      { type: "link", content: "https://photos.app.goo.gl/GKGv6zBQk6hCXzpE8", label: "2023年4月7日 \
+        超過30萬以上的活存 沒有上限 不用完成任何奇怪任務就有年息1% 請問哪家銀行比NEXTBANK.TW將來銀行讚 \
+        剛領到政府六千突然想到這件事 推薦給大家超讚網銀" },
+      { type: "link", content: "https://photos.app.goo.gl/g9PDPqNoEJM1ULW77", label: "2023年4月7日 \
+        大阪路邊不知名公園 原本想修大景來過過癮 撫慰無法出國拍照之痛苦 但突然滑到這張隨手一拍的小公園 \
+        這是跟一大早出門去勝尾寺前 太陽剛升起的時候 其實修習慣大景 會覺得有可能不修圖都好看 \
+        但我發現能夠處理好細節 讓一張不起眼的照片也能凸顯他的意境 才是成長 這張照片需要耐心 \
+        把後半部被晨光俯照的感覺表現出來 卻要保留前景還在陰影中的暗度 最難的地方是如何避開不規則的樹而單單處理背景 \
+        右邊的樹葉被映照得通黃 也需要分開處理 在描繪光線的過程中 也要避免清晨通透的藍天被黃光遮蓋 原圖在一樓" },
       { type: "link", content: "https://photos.app.goo.gl/KtQfdPBpQgZoCbEp8", label: "2023年4月7日 我以為是模仿綠豆糕的課文XD" },
       { type: "link", content: "https://photos.app.goo.gl/fuf671xxepWXr5yK6", label: "2022年4月7日 有看我限動的 應該會有印象 去年就說過開發金會上到20元 接下來就等富邦金上到80元了" },
       { type: "link", content: "https://photos.app.goo.gl/xp1VJ5YxQcnq8edx7", label: "2022年4月7日 偉哉開花金 終於20元了" },
@@ -4939,13 +4949,188 @@ const records = {
         無論再怎麼遙遠再怎麼辛苦 然後 這超適合放桌布啊啊啊啊" }
     ],
     "8": [
+      { type: "link", content: "https://photos.app.goo.gl/YsQvPk9VSN4zdV9W7", label: "2026年4月8日 自以為讀完歐美台高血脂全部結果被痛擊 五個選項只能放四個讓大家選 所以我會把最簡單的選項先踢除" },
+      { type: "link", content: "https://photos.app.goo.gl/MgaFpwyq8nHdgCD26", label: "2025年4月8日 \
+        只要不是台灣要倒了 戰爭 就是繼續進場買好公司 然後長期持有 不過這一波政府部門根本沒有認真在解決 \
+        沒有台積電撐腰台灣到底還有什麼能力 政府光靠今晚的國安基金根本不夠 要有準備會跌好一陣子" },
+      { type: "link", content: "https://photos.app.goo.gl/MecRh6tYoUXyerZLA", label: "2025年4月8日 長大超可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/EM2mnz4GutooYWjMA", label: "2024年4月8日 \
+        突然想起小時候家裡旁邊的菜市場就有一家這種米糕 不確定其他台南人是不是這樣 但我早餐一定是吃爆這種米糕 \
+        他的小黃瓜真的好吃到靠北 真不知道當初發明的人 怎麼知道黃瓜可以這麼配米糕的" },
+      { type: "link", content: "https://photos.app.goo.gl/JQGJqgYPahVYduem8", label: "2024年4月8日 台中真可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/xYgHgdF4ymjFghDC8", label: "2024年4月8日 又沒關係" },
+      { type: "link", content: "https://photos.app.goo.gl/fj7pVzezq1w6w1CJ6", label: "2024年4月8日 脆裡的醫師只服蛤哥" },
+      { type: "link", content: "https://photos.app.goo.gl/yh1sm1tf7yUMrubZ9", label: "2023年4月8日 \
+        長庚大學攝影社社課 講師 距離上次在三總辦攝影設講座已經過去五年有了吧 這次托之福 一起去長庚大學講課 風景攝影 \
+        大堂課最難的地方 是同學間經驗差異大 同一份講義 可能對有些人來說很陌生 也可能對另外一些人來說很基礎 \
+        我希望能盡善盡美 塞了很多內容 卻也讓短短的四小時 變得完全不夠 自我檢討後 未來會在 修圖基礎 這塊做加強跟著重 \
+        不過難得星期六 還有那麼多同學願意來到學校 我已經很感動了 不足的地方都很歡迎未來再來討論 \
+        很喜歡藉這種機會到外面體驗自由的校風 也喜歡能全心全意做自己有興趣的事情 即便能夠忙於外務的時間有多麼少 \
+        我還是珍惜這一分一秒 繼續在攝影這一塊keep going 自我檢討了 下次修圖要留多點時間 不然大家跟得很茫然QAQ 學姊我只敢說自己是愛攝影的平凡人" },
+      { type: "link", content: "https://photos.app.goo.gl/bvDJotqCEdxBurjGA", label: "2023年4月8日 真的是講到好口渴 但同學都好捧場 超讚" },
+      { type: "link", content: "https://photos.app.goo.gl/VwwWL4bprBMLjyzr6", label: "2023年4月8日 風景攝影初學課程順利完成 同學都超優秀 長庚大學" },
+      { type: "link", content: "https://photos.app.goo.gl/Vpsj6cbsrSd6XM6w5", label: "2023年4月8日 長庚大學攝影社的同學超讚的 雖然講到快喉嚨痛但希望有讓大家學到東西" },
+      { type: "link", content: "https://photos.app.goo.gl/M7cVyt2JA3aawMdFA", label: "2023年4月8日 \
+        今天社課出了一個題目 請大家去校園拍攝 對稱 延伸 綠色 重複 這幾個題目 但時間只有半小時 \
+        當然身為本堂課講師的我們 也要在第一次去的長庚校園裡完成這個題目 於是我找到這個角落 \
+        至少這一張照片同時完成了對稱 重複跟綠色這三個主題" },
+      { type: "link", content: "https://photos.app.goo.gl/B9A9dkxv4bv4akXW6", label: "2023年4月8日 今年第一個生日禮物 謝謝聽到我的心聲嗚嗚嗚 聽說是很棒的牌子 可以開心運動聽歌囉" },
+      { type: "link", content: "https://photos.app.goo.gl/3pSTkXdko5YNJhXu6", label: "2022年4月8日 \
+        要拍攝這樣的畫面 其實比想像的難很多 除了有靈感 更要在很短的時間決定什麼應該留在畫面 哪個角落要刪掉不拍 \
+        也得想到後製該如何強調光線 希望能趕快去日本 找到這種畫面" },
+      { type: "link", content: "https://photos.app.goo.gl/Lfn9yafpSZU5VLR66", label: "2021年4月8日 \
+        政治上我從來不偏任何一邊 但真心覺得政壇上一堆無恥議員立委 為了鞏固自己黨 把黨的利益看的比民眾利益重 \
+        開口閉口都是要為黨奮鬥 我覺得怎不是為了人民 黨比人民重要 像柯這個政策就很好 某些議員真的不用滿口屁話 解決不了問題又用偏激的道德觀綁架政策" },
+      { type: "link", content: "https://photos.app.goo.gl/u6M7SU8XcKYyvCYy7", label: "2021年4月8日 徵求三位願意一起spotify的朋友 每個月40元 有需要私訊我 人滿我在創群組 感謝" },
+      { type: "link", content: "https://photos.app.goo.gl/KMNyE5wSa5GW3wiXA", label: "2020年4月8日 \
+        售 Sigma 35mm f/1.4 DG Art for Canon附B+W保護鏡 地點 台中台南或高雄 價格 13000 \
+        配件 無盒單 2016購入 有前後蓋+保護鏡+遮光罩+保護盒 交易方式 面交 聯絡方式 私訊後留言 \
+        備註 鏡頭保存良好 鏡身有包膜 前後玉完美 無入塵無發霉也無損 平時都放防潮箱 已跳家故售 可最先面交者優先" },
+      { type: "link", content: "https://photos.app.goo.gl/eMh4NryUeYGEQBbE9", label: "2020年4月8日 好難一直線" },
+      { type: "link", content: "https://photos.app.goo.gl/w5kg4FyAQZMqxffQ9", label: "2019年4月8日 等了七年 值得" },
+      { type: "link", content: "https://photos.app.goo.gl/aB8yPizxyZryA8rn7", label: "2018年4月8日 這paper的分析方法完全不懂啊 慘了禮拜二真的要亂報了 通篇真的不太了解這些分析方式到底為什麼要這樣用 數據是怎麼得出來的" },
+      { type: "link", content: "https://photos.app.goo.gl/kMDFUypJcrRj3YVX9", label: "2018年4月8日 好想去旅行" },
+      { type: "link", content: "https://photos.app.goo.gl/VucuXx3mpWLS5v7NA", label: "2018年4月8日 融合之後變成這張" },
       { type: "link", content: "https://photos.app.goo.gl/5bLEDeAyF8EV9Kza6", label: "2017年4月8日 一直放重音根本誘惑我跳舞 難受 也太適合popping" },
       { type: "link", content: "https://photos.app.goo.gl/TKd2Eb7oEks3vccn7", label: "2017年4月8日 Wolking Right now" }
     ],
-    "9": [],
-    "10": [],
-    "11": [],
-    "12": [],
+    "9": [
+      { type: "link", content: "https://photos.app.goo.gl/n5LfmjQBJiasgfDw6", label: "2026年4月9日 \
+        離開就離開啊 這道理跟應該要住院打化療或開刀沒有病床 結果先病死一樣 台灣人民自找的啦 \
+        既然覺得人命跟健康這麼重要 當政府在剝削醫療人員 諸如護理師醫師低薪 醫師超時值班跟被核刪扣薪水 \
+        主治醫師被誣告要錢的時候 你們民眾站出來了沒有 一起譴責政府了沒有 如果你自己的命很珍貴 \
+        那請在健康的時候站出來幫醫護爭取合理的待遇 健康的制度跟更高的薪水" },
+      { type: "link", content: "https://photos.app.goo.gl/TCoidQcu3QuLzwQQ8", label: "2026年4月9日 跟海軍上餐廳一樣 我們都要等艦長來才可以開動 不然會被揍" },
+      { type: "link", content: "https://photos.app.goo.gl/CD8R61yKE8oTMgGs6", label: "2026年4月9日 太久沒出國 正常人類一年應該要出國六次以上才算有品質" },
+      { type: "link", content: "https://photos.app.goo.gl/5PFZ1LFZfc58g6jY7", label: "2026年4月9日 你也不是一個人 你只是習近平的器官庫" },
+      { type: "link", content: "https://photos.app.goo.gl/qduHeSMQNrVpukqW6", label: "2026年4月9日 天生不適合做醫美怎麼不來醫院陪我們一起第一線面對真正需要救治的人" },
+      { type: "link", content: "https://photos.app.goo.gl/QXBS4mHehKp5Xm947", label: "2026年4月9日 希望你會有報應" },
+      { type: "link", content: "https://photos.app.goo.gl/ZUYthV2aZa1YGQ2D9", label: "2026年4月9日 做的超好 這世界就是需要更多勇敢人站出來破壞各行各業的爛制度爛規矩" },
+      { type: "link", content: "https://photos.app.goo.gl/sb4a9sX56eGNGy1C9", label: "2026年4月9日 你看起來才準備要入學ㄟ" },
+      { type: "link", content: "https://photos.app.goo.gl/MKeH1ACWEEqmFibA7", label: "2026年4月9日 吸電座" },
+      { type: "link", content: "https://photos.app.goo.gl/dJprMTUcnKgr7SBV6", label: "2026年4月9日 筆記" },
+      { type: "link", content: "https://photos.app.goo.gl/WtzZaXYWtH5zM4mWA", label: "2026年4月9日 診斷為何" },
+      { type: "link", content: "https://photos.app.goo.gl/Dw8LAH9JiKSM6smn8", label: "2025年4月9日 \
+        這個消息代表什麼意思呢  英特爾偷到台積電技術 挖到台積電高階人才 壯大後吃掉台積電或直接踢走台積電 \
+        世界最高階技術留在美國了 就此最大的把柄保護好囉 那麼老美跟老共開戰就沒什麼好怕了 就算打輸了 台灣就掰掰送對岸 \
+        如果打贏了 也不會因為戰爭影響科技發展 賺爛啦川普 上述如果發生 台灣將沒有最強的台積電 \
+        也會被戰爭搞到家破人亡 大家生離死別 打輸了舉五星旗 打贏了準備再次十大建設 唉" },
+      { type: "link", content: "https://photos.app.goo.gl/8vzvzkqg82sp77C88", label: "2024年4月9日 昏倒完全看不懂 這個我願意付錢 有誰在教怎麼判讀VT還是SVT with abberant conduction的嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/NfoScznxUzia3MzF7", label: "2022年4月9日 慎入 這些可是無辜的烏克蘭平民哪 如果同理心這是自己的家人朋友 作何感想 普丁政權越來越失望" },
+      { type: "link", content: "https://photos.app.goo.gl/aqjZv3HCJZBt6p1CA", label: "2022年4月9日 哈哈哈超讚 我要納入作品分享收藏的精選" },
+      { type: "link", content: "https://photos.app.goo.gl/VodrBA7Pxmscm8EF8", label: "2022年4月9日 今天不拍風景 久違的約會散心" },
+      { type: "link", content: "https://photos.app.goo.gl/LyGoHJNDf2yh2oGeA", label: "2022年4月9日 \
+        萬般燈火與夕彩 生活分享No.15 很喜歡這張 夕陽餘暉來得剛剛好 夜景的藍調也剛剛好 遠方空氣清晰乾淨 \
+        享受畫面裡的美感 也享受畫面外的寧靜 這是我最愛的前三名台北101夜景 有色溫有細節 太讚了 超美台北夜景與夕彩" },
+      { type: "link", content: "https://photos.app.goo.gl/yfvLQKmM1wKRz8Ae7", label: "2022年4月9日 \
+        新北 龜吼小漁村活海鮮 龜吼這間新鮮海產 實在是讚讚讚讚讚的啦 \
+        超大的牡蠣 超肥的嫩蝦 超新鮮的生魚片 還有壽司跟份量爆滿的菠菜 我們兩人吃了1200元 超級飽也超級豐富 \
+        有來玩的朋友 很大推當晚餐唷 今天的晚餐 超級推的 兩個人 不小心點太多" },
+      { type: "link", content: "https://photos.app.goo.gl/6YQWKGaquT9X1iwe6", label: "2021年4月9日 請問大家 有人知道能高瀑布這照片 是開車到路邊拍的嗎 還是需要爬山呢XD" },
+      { type: "link", content: "https://photos.app.goo.gl/aVJ8JwzMNowkV7Fe8", label: "2021年4月9日 說明一下 是這個讓我誤會" },
+      { type: "link", content: "https://photos.app.goo.gl/VS3GiWaqXWEgKc2z8", label: "2021年4月9日 厲害 如果我有錢一定先買滿我跟的登山裝然後去爬" },
+      { type: "link", content: "https://photos.app.goo.gl/mW7yuA2NbBMgQQ7k8", label: "2019年4月9日 金龍山雲海銀河 藝術作品在談論價值前 都須讓人感受到投入的熱情 誠意或犧牲 因這就是價值所在 不夠用心的作品 附加的註解都是多的" },
+      { type: "link", content: "https://photos.app.goo.gl/n9cpyheV67fqTyZX9", label: "2019年4月9日 怎麼又買這麼貴的生日禮物 混怒文" },
+      { type: "link", content: "https://photos.app.goo.gl/pUeWbRQNYPszCw5F9", label: "2018年4月9日 那段日子的回憶又回來" },
+      { type: "link", content: "https://photos.app.goo.gl/yn1xQq4A3QPSWVJe6", label: "2018年4月9日 也太多XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/BUBJQNU76Do359zP9", label: "2018年4月9日 After Before 應觀眾要求" }
+    ],
+    "10": [
+      { type: "link", content: "https://photos.app.goo.gl/S5X1QJ3L2Qx8EPQS8", label: "2025年4月10日 真的是見證歷史的股市" },
+      { type: "link", content: "https://photos.app.goo.gl/55rUCNWnhvbMgZ4p7", label: "2025年4月10日 台股又全面漲停 台灣的股市真是有趣的地方 紀錄一下歷史 以前還沒看過三天內股市全面跌停再漲停 不只留著我還加碼XD" },
+      { type: "link", content: "https://photos.app.goo.gl/NS5DZyCBc1z3EjZQ7", label: "2025年4月10日 超大寶寶欸" },
+      { type: "link", content: "https://photos.app.goo.gl/QTzpw5MDsUU6xNf27", label: "2025年4月10日 不能說很像 只能說一模一樣" },
+      { type: "link", content: "https://photos.app.goo.gl/MYXWdEYyBvDju5KEA", label: "2025年4月10日 我超愛這種溫馨的傳統 就要養爆" },
+      { type: "link", content: "https://photos.app.goo.gl/EV9YpuMPrSqq4Cmb7", label: "2024年4月10日 畢業後第一次也是最後一次run MET 我不懂這麼好的科為什麼只能去一次 來之後才知道自己完全不懂血糖藥 MET的知識大轟炸 連clerk都很優秀" },
+      { type: "link", content: "https://photos.app.goo.gl/UkH3BumB8b8n6Svv7", label: "2024年4月10日 沒有 以後應該納入國軍智力測驗題" },
+      { type: "link", content: "https://photos.app.goo.gl/zbjGNMZz5yztSEPY6", label: "2024年4月10日 牠是之前我美術班的同學" },
+      { type: "link", content: "https://photos.app.goo.gl/UZ48Xi4Wt5noMUGV6", label: "2024年4月10日 也太大本了吧 直接讀字典嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/n7bE5XsKr1Jg4GBU9", label: "2024年4月10日 在日本要自己抽血唷" },
+      { type: "link", content: "https://photos.app.goo.gl/XLPcUQpvvfp53Tue8", label: "2024年4月10日 光是在醫院看到櫻花就值得了" },
+      { type: "link", content: "https://photos.app.goo.gl/63fncrT3oPxZtp2t7", label: "2023年4月10日 車輛違規通知單 精神大樓 黃網線上停車 未停放於車格內" },      
+      { type: "link", content: "https://photos.app.goo.gl/iijQgcdQfoNdhz8E8", label: "2022年4月10日 感謝幫拍哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/WhfwSL3yuv7tH5k77", label: "2022年4月10日 自己的桌面自己拍 畫質高 又獨特" },
+      { type: "link", content: "https://photos.app.goo.gl/6KptT8jagcpbHVPA9", label: "2022年4月10日 有人也會點單純春捲皮+花生糖粉嗎 我會好吃 我有聽說但不會 我完全沒聽過" },
+      { type: "link", content: "https://photos.app.goo.gl/LMn4swxzhwdtdZmj9", label: "2022年4月10日 老梅石槽的海藻好可憐 都被大家踩" },
+      { type: "link", content: "https://photos.app.goo.gl/6zjYZVTbsUksUiTh7", label: "2022年4月10日 上班會塞車的原因 是因為為了報復以前上班塞車 退休後故意慢慢開" },
+      { type: "link", content: "https://photos.app.goo.gl/Hsp4Q1Zm8cfWH2qX6", label: "2022年4月10日 今年超額險保了3000萬" },
+      { type: "link", content: "https://photos.app.goo.gl/mM56hZxbYxizRE44A", label: "2021年4月10日 解惑 原來我以後想拍的是能高瀑布的三疊瀑布那一段 我自己的理解啦 謝謝提供圖片 也謝謝大家解惑" },
+      { type: "link", content: "https://photos.app.goo.gl/MEfxP6ed2ngnqEJ47", label: "2019年4月10日 500天快樂 提前慶祝自己生日 請女友吃大餐感謝她的包容與辛苦+面試 加油順利過關 也祝大家事業順利身體健康" },
+      { type: "link", content: "https://photos.app.goo.gl/zLytFiv2qvbEqVGf9", label: "2019年4月10日 請吃大餐慶祝500天 當我女友的一定要是最幸福的女友 辛殿麻辣鍋" }
+    ],
+    "11": [
+      { type: "link", content: "https://photos.app.goo.gl/xc5buy2vWxB8atbaA", label: "2025年4月11日 完全是在欺負盡心盡力幫你的醫護人員 可怕 真可怕" },
+      { type: "link", content: "https://photos.app.goo.gl/7acFgjTP6vNmu6pF8", label: "2025年4月11日 真相早就出來了 只有你自己還讓自己矇在鼓裡 然後繼續欺負曾經幫助你們的醫護" },
+      { type: "link", content: "https://photos.app.goo.gl/n8JrVWz9F9jAXCnL8", label: "2025年4月11日 對 而且現在醫學中心不管哪個一線科都一定有解釋相關風險 他只是把自己的悲憤發洩在醫護身上 真的很可惡" },
+      { type: "link", content: "https://photos.app.goo.gl/RZL1vtRERVpT4DDK7", label: "2025年4月11日 我們可以去" },
+      { type: "link", content: "https://photos.app.goo.gl/XwGAkWTLMSQd9aGL6", label: "2025年4月11日 連中國信託都有欸" },
+      { type: "link", content: "https://photos.app.goo.gl/gNv8WRLSvkNMfeoz5", label: "2025年4月11日 泰會說話了" },
+      { type: "link", content: "https://photos.app.goo.gl/tKVucYSZgHifcGYeA", label: "2024年4月11日 \
+        嘉義隙頂雲海 攝影人都曾經為錯過的畫面而惋惜 當終日被工作綁架時 常想這些景點是否還會等我 \
+        不論是因為天災導致的景點破壞 交通阻斷 或是人為的開發導致景點更易達到 人潮踩踏甚至醜陋的人造景破壞 \
+        抑或是法規的變革 例如空拍機剛問世時可以自由的拍攝夜景 101 城市 現在就算想申請也困難重重 時間終究會帶走景點的特殊性 \
+        多年前的夫妻樹銀河斷了一根 近幾年的九龍榕被軍方封閉 象鼻岩斷裂等 \
+        或是未來暖化造成的冰山減少及京都居民抗議而封閉某些路段拍攝 台灣跟國外都一樣 這些深具意義及美感的地方若不及時拍攝就沒有了 \
+        而且是一輩子也沒有 即便景物不變 隨著年紀增長也會體力衰退 衝勁不足 因此有人說把握年輕工作賺錢 老了再來享受 \
+        是完全沒有人生成本的觀念 攝影應該把握當下 在有想法或靈感時及時付出行動才會有好作品。" },
+      { type: "link", content: "https://photos.app.goo.gl/mW1W73qHM8FLBdwh7", label: "2024年4月11日 哈哈哈哈超可愛 好想收養" },
+      { type: "link", content: "https://photos.app.goo.gl/gGM6EuvgQaNXPRsa9", label: "2023年4月11日 現在人工作壓力太大 一有不順心 就容易擦槍走火呢 以後這句成語再也不是誇飾法囉" },
+      { type: "link", content: "https://photos.app.goo.gl/nZzt4xrripamUHYE7", label: "2023年4月11日 懂的就懂 三軍總醫院" },
+      { type: "link", content: "https://photos.app.goo.gl/oQsVwHCcMiAE1jL18", label: "2023年4月11日 \
+        這樣的筆記分享不知道是否易於閱讀 猴痘Mpox筆記 \
+        由於猴痘的出現 除了已經在台灣有本土案例 更大舉入侵 醫師執照考試 跟 內科專科考試 \
+        因此小編在耍廢數日 馬齒徒長後 把重新振作製作的小筆記做個整理 分享給大家 重點內容都在圖片 希望沒有不清楚的地方 \
+        基本上我參考了衛福部的各種資料跟最新的文獻整理 考試出題應該能涵蓋個八成吧" },
+      { type: "link", content: "https://photos.app.goo.gl/fJYcbvi9AX1YDsaJ7", label: "2022年4月11日 桌面換上今天的夕陽區 台北曼哈頓 感謝陪我度過一個愉快的週末 週一開始又要無盡的上班跟值班" },
+      { type: "link", content: "https://photos.app.goo.gl/GuAFQcLWPX3xYhjq7", label: "2022年4月11日 好久沒看到來台北拍照了XD" },
+      { type: "link", content: "https://photos.app.goo.gl/T8FWsmwrc3ffdbec8", label: "2020年4月11日 來挑戰400次咖啡 手酸 打到這樣才是正確的 我的是這樣 檢討了一下 熱水一開始越少越好 有一點勾勾的奶泡了 完成" },
+      { type: "link", content: "https://photos.app.goo.gl/yNd2g5QqpE55MTeX6", label: "2020年4月11日 靠著病人的無知 還刻意對西醫攻擊 藉此謀取暴利 真的應該跟殺人犯同罪" },
+      { type: "link", content: "https://photos.app.goo.gl/5msiyN61ZufyboYm8", label: "2020年4月11日 我學弟我驕傲" },
+      { type: "link", content: "https://photos.app.goo.gl/YVpiLzQi3ieiGLfn7", label: "2018年4月11日 居然有幸在畢業前看到新蓋的刀房吃飯間 有進步的感覺XDD 但希望這輩子不會再來" },
+      { type: "link", content: "https://photos.app.goo.gl/KbYCrPV1zxmd8XfA6", label: "2018年4月11日 好美 台北會燒" },
+      { type: "link", content: "https://photos.app.goo.gl/ek1SEYYY5SVasw2k7", label: "2018年4月11日 清晰度 太陽 一點點點的高雲有了 這幾天很可以拍照 無奈自己被壓力壓搾的一滴不剩" },
+      { type: "link", content: "https://photos.app.goo.gl/ftrc8czNmZLwVDnF9", label: "2018年4月11日 \
+        畢業前又考試又實習 炸光了自己的精力 暫時沒法放任何心力在攝影 壓力真的很大 一日雙城來台北上課 很猛XDDDD \
+        而在自己學校小小攝影課 算是生活的出口 除了舒壓 也很高興學弟妹願意聽課學習 我知道自己並不優秀 \
+        但我希望能做點什麼 讓我的存在對別人有正面意義 現在也是 未來也是 本業也是 這一輩子都是" }
+    ],
+    "12": [
+      { type: "link", content: "https://photos.app.goo.gl/UuvaFjdsFbKgRdACA", label: "2025年4月12日 挺 藍綠白都有垃圾 任何只偏袒某個論點的人都是錯誤的" },
+      { type: "link", content: "https://photos.app.goo.gl/8trdKDY6vqQQp6vr7", label: "2025年4月12日 下次穿多一點= =" },
+      { type: "link", content: "https://photos.app.goo.gl/JZz3hE5NeNrhwMch6", label: "2025年4月12日 是活生生的小飯糰" },
+      { type: "link", content: "https://photos.app.goo.gl/QuNNUrNzzgcBp8PC6", label: "2025年4月12日 題目真是不簡單XD" },
+      { type: "link", content: "https://photos.app.goo.gl/t7ridfXKK1Fm3ouk7", label: "2025年4月12日 說不定是他的寶貝玩具XD" },
+      { type: "link", content: "https://photos.app.goo.gl/CtUxaVYRxnWyR4BV8", label: "2024年4月12日 並沒有好可愛好嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/YJ2hHMcryGBH5rQg7", label: "2023年4月12日 這張白龍廚真的超想拍 大家能推薦清邁或曼谷的攝影景點嗎 夜景晨昏或廟宇" },
+      { type: "link", content: "https://photos.app.goo.gl/M1dGFstJjKRomegw7", label: "2022年4月12日 \
+        雖然表現不若去年 但也還穩穩的 預計富邦今年eps也有9-11左右 本益比算八倍就好 合理價就是72-88元 \
+        這就是我說80元以下富邦金慢慢零買 不放心可以補0050或006208 大盤只要現價比成本低就是一直吃" },
+      { type: "link", content: "https://photos.app.goo.gl/LCTZ4FG7BKMq5DfG6", label: "2022年4月12日 \
+        台北曼哈頓 這次放上後製前後的比較 攝影分享No.15 剛玩攝影的幾年 很怕別人碰壞了我腳架架好的位置 \
+        深怕沒辦法至始至終拍到同一個點同一個完全相同的構圖 幾年後覺得這是奢侈又浪費的壞習慣 一樣的天空 一樣的地景 \
+        可能不會來第二次 也不會有完全一樣的第二次 所以現在很喜歡同一個點 構圖拍攝多種角度 多種曝光 橫的直的都拍回來 \
+        不同時間大不了疊圖就好 這張虎山 我只拍了幾張101 就著重在這個 說很像紐約曼哈頓的大樓了 結果真的很漂亮XD" },
+      { type: "link", content: "https://photos.app.goo.gl/zaZ5W3JEES38cis3A", label: "2022年4月12日 壓力很大的時候 攝影跟後製最能舒壓 照片都是有修過的 喜不喜歡見仁見智 單純分享給有興趣的囉" },
+      { type: "link", content: "https://photos.app.goo.gl/J3SUPR96UCK5FuLU8", label: "2022年4月12日 gg囉" },
+      { type: "link", content: "https://photos.app.goo.gl/xhCYuTmnRbmytg3A6", label: "2021年4月12日 \
+        暴風前的寧靜 這次探討後製光線 我遇過的問題 探照燈 這是什麼呢 就是後製強調光線時 把周圍跟主題的明暗差異做過頭 \
+        以下用我這張當例子 修這張光線 要注意三個壓暗的地方跟一個細節 避免壓暗跟細節 含加亮 過度 導致很像用探照燈照中間主題 \
+        三個壓暗分別是 最頂的天空 就是很窄的那個藍色區域 上半部的木頭跟下半部的漂流木 最頂的天空跟中央相對亮的天空分開說明 \
+        因為在壓暗的過程中 要避免上半部木頭邊界跟天空一起壓暗 甚至木頭染到天空的藍色調 造成邊界混雜有奇怪影子 \
+        現在你們看到木頭上半稍微藍 是因為原圖木頭真的就分兩種顏色 滿神奇 而下半部漂流木壓暗 須跟上述一個細節一起講 \
+        因為拉細節跟壓暗是相反的概念 必須利用蒙版跟筆刷分別處理 最後因為凸顯中央主題 遠方的枯樹跟雲 \
+        所以上下半部在整體上要做出壓暗的動作 這時候呼應前面說的 如果壓暗過程太過度 並且中央拉太亮 \
+        會造成彷彿探照燈特別照在遠方主題 就不自然 看了很多大神的作品 他們很注重光線的主題加強 但卻把亮跟暗比例拿捏很好 \
+        不會有人工打燈的不自然景象 所以在處理細節跟壓暗的過程 隨時檢查主題明顯的程度 若已經足夠凸顯就不要再加強囉 \
+        Ps 未來想分享台北101十大簡單拍點&幾位喜歡的台灣風景攝影朋友" },
+      { type: "link", content: "https://photos.app.goo.gl/FKDauuQ2Fmz2VwWB9", label: "2021年4月12日 2021最新HFrEF用藥整理中下次發文" },
+      { type: "link", content: "https://photos.app.goo.gl/e5LgR4g4rv2eKDAs7", label: "2021年4月12日 做完報告 然後馬上就發現又另一個新版內容 每種沒有都了解一下感覺就很心虛 但其實讀完了也還不會care病人 好可憐好無力" },
+      { type: "link", content: "https://photos.app.goo.gl/qdZWhuUjYFRCKC7k8", label: "2020年4月12日 題外話 學生時期如果能好好研究股票投資 外加成績兼顧 考上醫牙藥工程師律師等穩定高薪行業 未來投資時會有更穩定更多的報酬跟資金" },
+      { type: "link", content: "https://photos.app.goo.gl/q1LSviHyAbW9SWUp6", label: "2019年4月12日 \
+        府城普濟殿威靈王池府千歲 臺灣最早王爺廟 2016/02/26當時街道跟廟宇都沒人潮 可以隨性的走拍 \
+        雖然現在已經不可能了 但仍然感謝當時紀錄了短暫寧靜的普濟寺樣貌 也很懷念台南該有的老街風景" },
+      { type: "link", content: "https://photos.app.goo.gl/L9P1zLESyeTVZt2EA", label: "2018年4月12日 Landscape&Nightview D750+5Dmark3 後製教學" }
+    ],
     "13": [
       { type: "link", content: "https://photos.app.goo.gl/oJTHXNy9nWtCX1eL9", label: "2017年4月13日 把興趣當工作不容易 熱情很快會被消耗 下班後的練功房 證件照 收工" }
     ],
