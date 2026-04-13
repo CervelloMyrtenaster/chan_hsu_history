@@ -5036,6 +5036,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/BUBJQNU76Do359zP9", label: "2018年4月9日 After Before 應觀眾要求" }
     ],
     "10": [
+      { type: "link", content: "https://photos.app.goo.gl/vkhdhWkdSv1agMn16", label: "2026年4月10日 實用推" },
       { type: "link", content: "https://photos.app.goo.gl/S5X1QJ3L2Qx8EPQS8", label: "2025年4月10日 真的是見證歷史的股市" },
       { type: "link", content: "https://photos.app.goo.gl/55rUCNWnhvbMgZ4p7", label: "2025年4月10日 台股又全面漲停 台灣的股市真是有趣的地方 紀錄一下歷史 以前還沒看過三天內股市全面跌停再漲停 不只留著我還加碼XD" },
       { type: "link", content: "https://photos.app.goo.gl/NS5DZyCBc1z3EjZQ7", label: "2025年4月10日 超大寶寶欸" },
@@ -5059,6 +5060,17 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/zLytFiv2qvbEqVGf9", label: "2019年4月10日 請吃大餐慶祝500天 當我女友的一定要是最幸福的女友 辛殿麻辣鍋" }
     ],
     "11": [
+      { type: "link", content: "https://photos.app.goo.gl/FrwdMQiujaVxqsAf8", label: "2026年4月11日 每題心專考題 第一眼我都必須讚嘆一番 怎麼有辦法幾百題都能考出我從來沒看過或是令人驚艷的冷門詞彙 跟本都是在猜題= =" },
+      { type: "link", content: "https://photos.app.goo.gl/pBohSiRypSZ4KMhJA", label: "2026年4月11日 抽煙還會心血管疾病跟下肢動脈阻塞 必須要從小教育小孩子這個概念" },
+      { type: "link", content: "https://photos.app.goo.gl/smEX9ndpNCobpspcA", label: "2026年4月11日 \
+        之前某些藥師公會想從醫師身上奪取處方權益的時候 還沒有人發現他們有多貪婪 \
+        病人用藥出事最後負責人是醫師 醫師也是受過正規藥理訓練甚至一路考試上去都要考藥理的人 \
+        在臨床上用藥經驗跟最新指引更新的速度都遠超過藥師 憑什麼被藥師限制處方權真的很可笑 \
+        現在好了 歪腦筋動到西醫 還想動到動物 嘻嘻 就算逆風我也要講 醫師這個身分 其專業能力本身就包含藥師 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/tkv69m9ABQcNGRFu9", label: "2026年4月11日 這樣我才聽得懂" },
+      { type: "link", content: "https://photos.app.goo.gl/jueEdMnGkbm3RDki8", label: "2026年4月11日 醫師是所以醫療人員裡面最常被攻擊的 真的是很可憐" },
+      { type: "link", content: "https://photos.app.goo.gl/gFCGr6h28q45hVeN9", label: "2026年4月11日 372months+ Lego 我要組一個讓小朋友都摸不到的高度" },
+      { type: "link", content: "https://photos.app.goo.gl/L6p6djGZHxajz7UN6", label: "2026年4月11日 前天的心電圖 後來是導急錯位 右手左腳接反了 接正後是inferior MI" },
       { type: "link", content: "https://photos.app.goo.gl/xc5buy2vWxB8atbaA", label: "2025年4月11日 完全是在欺負盡心盡力幫你的醫護人員 可怕 真可怕" },
       { type: "link", content: "https://photos.app.goo.gl/7acFgjTP6vNmu6pF8", label: "2025年4月11日 真相早就出來了 只有你自己還讓自己矇在鼓裡 然後繼續欺負曾經幫助你們的醫護" },
       { type: "link", content: "https://photos.app.goo.gl/n8JrVWz9F9jAXCnL8", label: "2025年4月11日 對 而且現在醫學中心不管哪個一線科都一定有解釋相關風險 他只是把自己的悲憤發洩在醫護身上 真的很可惡" },
@@ -5095,6 +5107,13 @@ const records = {
         但我希望能做點什麼 讓我的存在對別人有正面意義 現在也是 未來也是 本業也是 這一輩子都是" }
     ],
     "12": [
+      { type: "link", content: "https://photos.app.goo.gl/ZQQDREYnMcwxXgy5A", label: "2026年4月12日 \
+        覺得不適應就勇敢報退伍 不要進來才發現原來自己是軍人而不是醫師 當初沒有學長姐告訴我 \
+        現在有人告訴你了 以後就不要抱怨每天早查午查晚點名 上課帶隊穿軍服" },
+      { type: "link", content: "https://photos.app.goo.gl/AuvXwGPLe1UdeS2J8", label: "2026年4月12日 這不是應該的嗎 講什麼廢話 出事誰賠最多錢 腦子" },
+      { type: "link", content: "https://photos.app.goo.gl/c7JvmsdQR9ZoB43v7", label: "2026年4月12日 真溫馨的場景" },
+      { type: "link", content: "https://photos.app.goo.gl/6MJVzESpuqBeHQe37", label: "2026年4月12日 太漂亮了捏" },
+      { type: "link", content: "https://photos.app.goo.gl/GP5ZMkAtvXaM6zVA7", label: "2026年4月12日 讀書讀那麼久 第一次看到class 1心律不整藥物還可以有class 1d 這是D的意志嗎 心專每天都在刷新自我對於知識含量的新底線" },
       { type: "link", content: "https://photos.app.goo.gl/UuvaFjdsFbKgRdACA", label: "2025年4月12日 挺 藍綠白都有垃圾 任何只偏袒某個論點的人都是錯誤的" },
       { type: "link", content: "https://photos.app.goo.gl/8trdKDY6vqQQp6vr7", label: "2025年4月12日 下次穿多一點= =" },
       { type: "link", content: "https://photos.app.goo.gl/JZz3hE5NeNrhwMch6", label: "2025年4月12日 是活生生的小飯糰" },
@@ -5132,6 +5151,51 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/L9P1zLESyeTVZt2EA", label: "2018年4月12日 Landscape&Nightview D750+5Dmark3 後製教學" }
     ],
     "13": [
+      { type: "link", content: "https://photos.app.goo.gl/kic2ybmCijNarBRK6", label: "2026年4月13日 哈哈哈忽有龐然大貓" },
+      { type: "link", content: "https://photos.app.goo.gl/9kXJzYqxTPQKtTwa8", label: "2026年4月13日 他上次fakesober也在我旁邊喝 喝完才飛回去咚咚咚咚咚咚" },
+      { type: "link", content: "https://photos.app.goo.gl/rauntWjksiUXz7cF8", label: "2025年4月13日 共產黨的洗腦教育 專門製造後天的智能障礙" },
+      { type: "link", content: "https://photos.app.goo.gl/caHw2giJCaNpoftY9", label: "2025年4月13日 \
+        Bantayan不知名的湖 並不是每次旅程都能有完美的作品 我常因為網路上極美的美景照而下定決心 \
+        不辭天涯海角也要收穫這些美景 但常事與願違 要拍一張完美的風景作品是非常辛苦的 也很吃運氣 \
+        首先是找到攝影位置 在前置功課就必續爬文跟對照地圖 到當地之後必須提前勘景確定路線等 \
+        沒有個兩週到一個月很難得到完美的作品 得失心也會越來越重 原本對bantayan著實失望 沒有拍攝到預期的沙灘跟椰林 \
+        但跟沒有預設目的的到處走走 她卻發現藏在樹林裡這個潟湖 雖然不是大景 但當下很享受拍攝的閑靜跟專注 \
+        放下對於大景的執著 或許能讓旅程更放鬆開心" },
+      { type: "link", content: "https://photos.app.goo.gl/tHVAKk45izsJ6jtRA", label: "2025年4月13日 沒錯 但有時又覺得放假太少沒拍到真的好可惜 內心不斷地矛盾啊QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/k6Vdkqv458YVuUHy6", label: "2025年4月13日 \
+        泰國真理聖殿空拍超美 再次求問網路大神們 有泰國的朋友能租當地合法的空拍機嗎 \
+        看租多少錢 或是幫忙辦理泰國空拍許可都可 錢不是問題 但找不到能幫忙的窗口 去泰國沒空拍太可惜了" },
+      { type: "link", content: "https://photos.app.goo.gl/t5xAvg5M1FY2jCsM9", label: "2025年4月13日 度過最痛苦緊湊的一週了 充滿無數報告的好幾週 週末終於可以耍廢 玩了幾把不小心打到S 勝率62.6%" },
+      { type: "link", content: "https://photos.app.goo.gl/2hZL2GJhj86VE5fj9", label: "2025年4月13日 我也會啊 每天都有縫傷口 小case" },
+      { type: "link", content: "https://photos.app.goo.gl/uM8aqWHD4Yk58cmu5", label: "2025年4月13日 居然願意洗澡" },
+      { type: "link", content: "https://photos.app.goo.gl/CG4KYdJBBUPCJsLn7", label: "2025年4月13日 練的超好欸 不用值班不用考試的時候QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/BefeLAP2Wv8WzoGSA", label: "2024年4月13日 今年基本上完全沒假日 下班的晚上跟週末通通都要抓時間讀書 腦袋好一點的能夠一次就記住的才適合醫學系 腦袋不好如我 就要花很多時間讀書再讀書QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/AVqCmQR5MJwxdFHP6", label: "2024年4月13日 我沒時間飛了 拜託多帶照片回來讓我修圖" },
+      { type: "link", content: "https://photos.app.goo.gl/NKeRgDkMG5jbVdgx5", label: "2024年4月13日 \
+        紅燈最後倒數一秒 我開上白線準備左轉 然后垃圾蟑螂就直接檢舉闖紅燈 還大肆在社團宣傳戰績 \
+        請問這是為了滿足私慾還是為了交通安全 左邊沒有任何來車 紅燈一秒後即結束變綠燈我才左轉 甚至跨上白線的一秒鐘我都沒有駛入對向車道 \
+        也要被這些蟑螂檢舉 交通法規的目的在於避免交通事故跟維護所有用路人安全跟公平 在台灣可以淪為這些低端人口的樂趣 真的很悲哀" },
+      { type: "link", content: "https://photos.app.goo.gl/x8Vc6JfiMXJGyeWGA", label: "2024年4月13日 \
+        去年在這裡連續檢舉三張輪胎壓雙黃線 實際上是路面狹窄且轉彎多 路邊也都停車 導致很多駕駛在這裡都會不小心壓到 \
+        今年同路口檢舉我紅燈停秒在白線上 去年同一次檢舉我換車道沒有打燈 實際上是他行車記錄器畫質差錄不清楚 被我申訴後撤銷 \
+        仔細回想 去年我在陽光街被這個垃圾連續檢舉三張輪胎壓到一點點雙黃線 圖中1號 \
+        就是同一個路徑 當然他那次還有亂檢舉一個2號路線只是我申訴後撤銷 而今天檢舉紅燈有一秒鐘在白線上則是2號路線 \
+        兩次時間點都是平日晚上20:00前後 路徑也完全相同 且檢舉完都喜滋滋的上網炫耀 你的作為沒辦法使交通改善 沒有任何正面貢獻 \
+        你只是一個藉由鑽漏洞檢舉來滿足自我的人渣 細思極恐 Po是要告訴大家 法律是用來保障生命安全跟公平 \
+        但就是有這種不肖人渣沈迷在沒品的擾人行為裡 我們沒有辦法反制 只能任由牠逍遙" },
+      { type: "link", content: "https://photos.app.goo.gl/FVg1qWnukyw8enzPA", label: "2023年4月13日 想問一定得步行的原因 是否有法律背書這個規定" },
+      { type: "link", content: "https://photos.app.goo.gl/yb6FJneUAnGowtfr5", label: "2022年4月13日 網友超級厲害 原來不是巧合 一切都有跡可循XDDD 長見識了" },
+      { type: "link", content: "https://photos.app.goo.gl/zZzMAo1vHiqGfKYY8", label: "2022年4月13日 醫護人員不是只能天天插鼻孔但還是要上班嗎XD" },
+      { type: "link", content: "https://photos.app.goo.gl/18wmV9wGzZb8YZ889", label: "2022年4月13日 會啊 漫畫有演到 但我比較想遇到那個實現願望的阿姨哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/5fkDXwqetg62vyqj8", label: "2022年4月13日 台北曼哈頓夕陽 北漂仔難得一起放假 走走山路 看個夕陽 順便餵個蚊子" },
+      { type: "link", content: "https://photos.app.goo.gl/ukS4ARX3unHeCcNfA", label: "2021年4月13日 Ok 腦袋有點秀逗了 把2019-2021心衰竭的新共識跟藥物更新都簡單整理好 有錯誤一定要跟我說 謝謝大德不讓我傻傻寫錯" },
+      { type: "link", content: "https://photos.app.goo.gl/eJD5hfAFMk1zQY9y6", label: "2019年4月13日 多虧眼前這位 我活了25年快26年終於知道原來鴨血跟豬血長很像 我原以為豬血就是豬血糕 其他像這塊狀物都是鴨血 紀念搞清楚鴨血豬血日 豬血 鴨血 不一樣" },
+      { type: "link", content: "https://photos.app.goo.gl/zXFU9j5j445c2WgZ6", label: "2019年4月13日 不能忘了跟我一起上山下海拍照的 希望能一起度過社會新鮮人的這段苦日子 熬過工作的辛苦未來一起拍遍世界" },
+      { type: "link", content: "https://photos.app.goo.gl/EsZiN1RGgEV2guMv5", label: "2019年4月13日 \
+        作品小教室第二張 這張有一半原因是因為太美了單純想分享 但還是來說兩個小技巧 \
+        第一個是漸層效果 很簡單 在LR就有 由圖中箭頭方向由右下往左上拉 並降低曝光增加對比來強化光影 \
+        第二個是色調統一 這種草綠色調也常出現在日出 處理高反差時切勿把橘黃色拉到過量 藉由整張色調統一營造氛圍" },
+      { type: "link", content: "https://photos.app.goo.gl/ooyBS1yfVf3XcQPP9", label: "2019年4月13日 閉著眼睛開也妥妥的 沒毛病" },
       { type: "link", content: "https://photos.app.goo.gl/oJTHXNy9nWtCX1eL9", label: "2017年4月13日 把興趣當工作不容易 熱情很快會被消耗 下班後的練功房 證件照 收工" }
     ],
     "14": [
