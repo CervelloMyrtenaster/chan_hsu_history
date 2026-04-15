@@ -5151,6 +5151,19 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/L9P1zLESyeTVZt2EA", label: "2018年4月12日 Landscape&Nightview D750+5Dmark3 後製教學" }
     ],
     "13": [
+      { type: "link", content: "https://photos.app.goo.gl/M6M2bEkjmWbmAs24A", label: "2026年4月13日 請問醫師現在要移民紐澳條件會很嚴苛嗎 如果是次專的內科 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/x7cxc3cBZWotjkrZ6", label: "2026年4月13日 我很擔心退休後可以移民的時候年紀已經太大 沒辦法有時間再重新訓練符合他們目標" },
+      { type: "link", content: "https://photos.app.goo.gl/xQY8yEQMpoQHeJRn6", label: "2026年4月13日 為什麼醫師被家屬誣告要求天價賠償的時候 你不出來哭夭" },
+      { type: "link", content: "https://photos.app.goo.gl/5wCLGC4dyNAbVk5Q8", label: "2026年4月13日 \
+        我只要聽到病人跟我說 健保卡有寫 醫院病歷有寫啊 理智線就會一秒斷掉 口氣直接變差 當場教育他為什麼醫師要重新問診 \
+        現在全台資訊系統還是很爛常常無法查詢甚至很花時間 病歷記載也不一定完全正確 \
+        最重要的是從這個回答 就能看出這個病人有沒有覺得生病是他自己的責任 不覺得自己有責任的 休想別人比他對自己的疾病要更有責任" },
+      { type: "link", content: "https://photos.app.goo.gl/nR8AXHCzWiCicD7t9", label: "2026年4月13日 身為一個正常沒有特別聰明的人類 要把這個背起來真是痛苦至極 何況這還是1/3000的背誦內容" },
+      { type: "link", content: "https://photos.app.goo.gl/KfFGNr6URYY6XFdy9", label: "2026年4月13日 \
+        研究了一下2022年AHA guideline針對HF患者ICD與CRT的指引 真的不是正常人能背的啊 不過考試前也只能這樣隨性的分享了 \
+        另外補充一下台灣健保規定心衰竭病患LVEF≤35% 且心電圖顯示完全左束支傳導阻滯complete left bundle branch block及QRS duration≥130ms \
+        且NYHA III/IV經適當藥物治療仍有症狀者 即可經事前審查通過裝置CRT 這跟國外CRT class差在哪呢 看起來好像有兩個差異 \
+        國外是QRS超過150 台灣是QRS超過130 國外是NYHA 2-4 台灣是NYHA 3-4 這真的很燒腦 如果有錯請用力留言" },
       { type: "link", content: "https://photos.app.goo.gl/kic2ybmCijNarBRK6", label: "2026年4月13日 哈哈哈忽有龐然大貓" },
       { type: "link", content: "https://photos.app.goo.gl/9kXJzYqxTPQKtTwa8", label: "2026年4月13日 他上次fakesober也在我旁邊喝 喝完才飛回去咚咚咚咚咚咚" },
       { type: "link", content: "https://photos.app.goo.gl/rauntWjksiUXz7cF8", label: "2025年4月13日 共產黨的洗腦教育 專門製造後天的智能障礙" },
@@ -5199,12 +5212,122 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/oJTHXNy9nWtCX1eL9", label: "2017年4月13日 把興趣當工作不容易 熱情很快會被消耗 下班後的練功房 證件照 收工" }
     ],
     "14": [
+      { type: "link", content: "https://photos.app.goo.gl/DGTCbziFYt7TtnmT6", label: "2026年4月14日 學長我常遇到是AHF ACS這種都已經快要半死不活 結果態度一副無所謂 平常愛看不看醫生 也不想了解病情 結果大半夜才來醫院然後都已經很緊急我心裡實在QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/JJ7PsDMyuzGarL3C9", label: "2026年4月14日 出題是不是瘋了 記憶 他硬要跟大家都不一樣=reverse 我猜應該是因為這樣吧" },
+      { type: "link", content: "https://photos.app.goo.gl/6kr2Z27z6Z1y4gv97", label: "2025年4月14日 這就是我不喜歡參加這種活動的原因 有人趁機亂潑水 有人趁機吃女生豆腐" },
+      { type: "link", content: "https://photos.app.goo.gl/DwTmEcWNibNhtSfU9", label: "2025年4月14日 沒錯ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/ZFqP2Sr1y5zfbX7TA", label: "2025年4月14日 可以" },
+      { type: "link", content: "https://photos.app.goo.gl/zXiJWtRPrT5d9n8YA", label: "2024年4月14日 \
+        一定要推一下Kleiber Wen-Teng學長自己在內科過的心力交瘁 事情能做完已經很好了 要做到及格更是用盡全力 \
+        但學長不僅在內科知識跟技能上表現卓越 還願意手把手教學 花時間把很多東西都做成影片 \
+        有興趣徜徉在內科這片大海的 一定要訂閱學長的yt 有任何問題也可以問他唷" },
+      { type: "link", content: "https://photos.app.goo.gl/wmse6L3cEJmSE3xS9", label: "2024年4月14日 怎麼有種聖誕節的感覺" },
+      { type: "link", content: "https://photos.app.goo.gl/hfPU4RDUftRcsezi7", label: "2024年4月14日 不要練太壯" },
+      { type: "link", content: "https://photos.app.goo.gl/jwTaWvBmEjYFmqD69", label: "2024年4月14日 \
+        新聞說原本是低血壓的icu病人要放 可能怕放一半就shock才進刀房 但這是我的臆測 \
+        這個醫師本身過去那麼多亂七八糟的事情 說不定只是單純想申報多一點才拖谁刀房" },
+      { type: "link", content: "https://photos.app.goo.gl/kQZnkuNsn4mY1Nj7A", label: "2024年4月14日 對啊" },
+      { type: "link", content: "https://photos.app.goo.gl/r9EaivxGFog3oHki6", label: "2023年4月14日 沒辦法 看你可愛好欺負" },
+      { type: "link", content: "https://photos.app.goo.gl/oLKAeFc6vFYs8tWw5", label: "2022年4月14日 這個粉專主很喜歡拍照紀錄 希望他能好好紀錄三總大門就好 " },
+      { type: "link", content: "https://photos.app.goo.gl/CfDvjimutXvQEADXA", label: "2022年4月14日 10年前我拍的照片長這樣 證明攝影其實不用花大錢上課 不用買一堆書 好好愛上這個興趣 花時間拍 研究後製 找到喜歡的主題 時間夠久一定能有收穫" },
+      { type: "link", content: "https://photos.app.goo.gl/b6hsSLq64Gj5QvG1A", label: "2021年4月14日 我3000公尺輸給阿嬤一秒 好厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/1FGqAsGLYB5mBRMd9", label: "2021年4月14日 無垢巨人完全符合Cushing syn較具特異性的症狀 中央肥胖四肢萎縮 頸椎背脂肪墊 防止本體被砍 圓臉 謝謝進擊的巨人教我背誦" },
+      { type: "link", content: "https://photos.app.goo.gl/x7LrWACC7NP32MbJ6", label: "2021年4月14日 \
+        劍潭山觀景台 入夜 拍攝夜景的六個訣竅 藍調時分 基本但主觀 簡單 多數人都喜歡藍調夜景 除了拍攝好抓曝光 \
+        地景又不會失去細節 也不會有太多雜訊 天空的顏色也是最美的清澈藍 如果運氣好配一點霞光更美 \
+        空氣品質與天氣狀況 簡單/中 可以進入空氣品質監測網 一般AQI抓70以下為佳 空品好壞也會影響修圖難度 \
+        利用氣象局網站或觀天氣 判斷天氣狀況 主要用台灣的色調強化跟真實色排除低雲 因為低雲會影響遠景清楚度及光線 沒有低雲佳 \
+        多重曝光 中 針對廣告看板或玻璃等高光區 可以特別拍一張EV很低的 我用AV模式 使用HDR或疊圖來避免過曝 \
+        製造光線光暈感 難 肉眼看夜景高光區時 常常會覺得搶眼跟透亮 也有一點朦朧的感覺 剛下過雨會比較明顯 \
+        後製多這個步驟能更貼近現實 但不能過度 黃色與橘色 簡單 這兩個顏色在燈光中佔多數 記得明度必須調高 避免濃黃或濃橘 \
+        畢竟亮處就是要表現透亮感 拍攝時機 簡單 以目前來說 建議1700~1830為拍攝時間 1700開始陽光斜射 \
+        配合空品好可以拍出城市的漸層跟光影 1820左右進入藍調 1810左右夕落 增加不同光線的城市美景 掌握上述五點可以與其他夜景作品做出區別" },
+      { type: "link", content: "https://photos.app.goo.gl/Pk83DCQS3FSdx8tCA", label: "2019年4月14日 \
+        東京 豪德寺 耳機戴上任由音樂環繞 PSLR打開放肆腦中的修圖靈感奔馳 多希望自己是沒有枷鎖的身份 \
+        多希望自己是自由的攝影藝術者 多希望自己環遊全球拍攝 讓靈感泉湧 讓照片的景來傳遞美與生命意義 \
+        雖然 幾十分鐘後放下耳機 依舊回到現實" },
+      { type: "link", content: "https://photos.app.goo.gl/j6KtsKXD1pW6g9rp6", label: "2018年4月14日 你這傢伙明明是鴨子 還敢混在鵝裡面" },
+      { type: "link", content: "https://photos.app.goo.gl/apZMnXCi857zAeZ66", label: "2018年4月14日 \
+        即將25的這一年 還記得曾為第一段感情嘆息失望 但怎樣也沒想到 命運這麼快把你送來我的生命裡 \
+        來到第140天 想起去年十月晚上 在新宿區找妳的生日禮物 繞了很多圈也想著我生日是否也有妳 \
+        而現在終於等到妳陪我過第一次生日 除了感謝上天眷顧 也感謝你願意接納相信我 \
+        接下來即將四處飄搖的生活 是對緣分的考驗 對我來說妳已經像家人般的在心中 即便犧牲興趣夢想也要把握妳 \
+        快樂的時光就這麼飛過 一次一次台北台中或台北埔里的長距離 也絲毫沒有打斷我的意志 \
+        未來彼此都要加油 穩穩的成長 好好的期待 謝謝妳 有妳真的真的真的很好 妳是我真正的初戀 也是最後一個" },
       { type: "link", content: "https://photos.app.goo.gl/YN7KCP9K7DsL5Gnt5", label: "2017年4月14日 第一次一個月回台南兩次 期待拍攝計畫" }
     ],
     "15": [
+      { type: "link", content: "https://photos.app.goo.gl/Yk2KtwauqiYDZ6Va8", label: "2025年4月15日 在台灣當一線醫生真的很可憐" },
+      { type: "link", content: "https://photos.app.goo.gl/jApXnRSipkJK5u3p6", label: "2025年4月15日 涵涵超暖心" },
+      { type: "link", content: "https://photos.app.goo.gl/SrGG2WmRxbzfjcnk6", label: "2025年4月15日 要有限度 不是管或不管的問題" },
+      { type: "link", content: "https://photos.app.goo.gl/bbVc1vw3YiLhZXsW6", label: "2024年4月15日 再忍耐兩年 我一定跟學長一樣出國吃美食 現在這種日子真痛苦" },
+      { type: "link", content: "https://photos.app.goo.gl/phZaFV8ErNE1jmaW6", label: "2024年4月15日 這兩年一直遇到沒品的檢舉人 還是要認真保護自己一下 有推薦的行車記錄器維修or裝設嗎 台北台中均可 拜託推薦嗚嗚" },
+      { type: "link", content: "https://photos.app.goo.gl/e7DA3DtqekLDmyNaA", label: "2024年4月15日 \
+        AS MR AR MS 四大心音在很多書跟資料都很零散 決定稍微整理一下 \
+        收縮期的AS MR 收縮前一動一定是舒張 舒張時誰會打開 當然是MV \
+        所以如果MV有逆流問題 舒張變成收縮那一刻 本應該關閉的MV無法關閉 血液就會馬上逆流回左心房 \
+        所以MR時間早於AS 畢竟MR逆流是從舒張到收縮的連續動作 所以MR是holo 而AS是mid \
+        舒張期的AR MS 舒張的前一動一定是收縮 收縮時誰會打開 當然是AV \
+        所以收縮變成舒張那一刻 打開的AV卻閉不起來 當然是馬上產生AR逆流 因此AR是early \
+        而MS則是等到舒張一定程度 左心室足夠負壓之後MV打開 此時MS才發出雜音 因此MS是mid" },
+      { type: "link", content: "https://photos.app.goo.gl/WmzBaAp1wvhcGe2VA", label: "2024年4月15日 \
+        心音概念整理 因為心音的章節十分困難 為了考試特別把Harrison跟其他資料做彙整 很多書都東一塊西一塊的 \
+        先有個觀念 四大心音都從左心室來思考 然後分為收縮期跟舒張期會聽到的兩大類" },
+      { type: "link", content: "https://photos.app.goo.gl/AWUyhHeS83wmPTCX6", label: "2024年4月15日 \
+        詢問一個很難得問題 心包膜填塞會有Beck triad 其中一項就是JVP上升看到頸靜脈怒張 \
+        另一個很類似的疾病是限制心包膜炎 會有kussmaul sign kussmaul sign就是原本吸氣應該看到JVP下降 但卻反而上升了 \
+        Harrison說kussmaul在限制心包膜炎看到 但不在心包填塞發生 這樣我就很混亂了 \
+        心包膜填塞的JVP上升 跟限制性心包膜炎的kussmaul sign不是一樣的嗎 為啥有區別呢 \
+        這個解釋能懂感謝 但FC確實都翻譯限制 R開頭那個用在心肌病變 C開頭用在心包膜炎 不一樣" },
+      { type: "link", content: "https://photos.app.goo.gl/eNkb8hyV5vfCPyxU9", label: "2023年4月15日 最近被印尼的風景燒到不行 請問有大大要賣二手空拍機嗎 為了風景我似乎也該入坑了 但希望是新的這幾代 歡迎私訊" },
+      { type: "link", content: "https://photos.app.goo.gl/We15zBYzVzFcKsHT9", label: "2023年4月15日 這個週末超累的 值班完隔天再值班 但幸好有巧手 原型食物最健康" },
+      { type: "link", content: "https://photos.app.goo.gl/ehBcsKJymdkAeQs9A", label: "2023年4月15日 大家值班完都可以當第一名" },
+      { type: "link", content: "https://photos.app.goo.gl/yd6YBdtrfTy3gtWB8", label: "2023年4月15日 \
+        嵐山竹林 生活與旅行No.28 連台版嵐山都沒去過的我 因緣際會就突然決定衝一波嵐山竹林 \
+        原本我們去附近另一個秘境 想拍另一個小竹林 結果15:30就關門了 嵐山竹林就是中間那一段最美 但也很多人駐足 \
+        我們等了30分鐘才有空位 不用另外再把人潮刷掉XD 可惜的是來不及用中長焦拍攝 如果中長焦搭配鮮紅色和服 那是最絕配的 \
+        最後這張圖真的超難修的 尤其頂光跟色溫的處理 肉眼看很美 修圖後差很多 這張真的有難度" },
+      { type: "link", content: "https://photos.app.goo.gl/F2MGAHzJcNxCpRWm6", label: "2023年4月15日 \
+        剛遇到一個超可惡的UBIKE 當時綠燈我們慢慢開30幾 結果一個UBIKE直接衝到馬路中間= = \
+        真的太扯 我差點把他收掉 幸好反射神經直接煞車 過馬路都不用看的嗎 啊不就還好我開超慢超小心才來得及煞車 \
+        這年頭最怕這種來送頭的 送完換他家屬來告一波要錢ZZZ 而且他還全身都超黑完全又沒路燈" },
+      { type: "link", content: "https://photos.app.goo.gl/dk5DCjqT1AJ5mLPT8", label: "2022年4月15日 \
+        陳醫師是我當初猶豫很久 要不要踏入國醫這個坑之前 唯一找到能詢問的學長 於是十年前問完決定了一輩子 \
+        如今他已經是主治醫師 時間飛逝啊啊啊" },
+      { type: "link", content: "https://photos.app.goo.gl/sv5D67xXBo8Tcqb69", label: "2021年4月15日 心衰竭幾張實用的清楚大圖" },
+      { type: "link", content: "https://photos.app.goo.gl/hTcR22QD9ZBbCFFw8", label: "2019年4月15日 不錯啦犒賞你 遲到一點沒關係 不要靠太近 穩穩握方向盤唷 慢慢喔 小心切喔 這邊要轉唷 要小心咧 兩隻手握方向盤啦 要記得打方向燈喔 記得加油喔" },
+      { type: "link", content: "https://photos.app.goo.gl/bykyyaYcYSeR7hkW8", label: "2019年4月15日 在圖書館裡迷路了" },
       { type: "link", content: "https://photos.app.goo.gl/tQadKam34nUXvw5P8", label: "2017年4月15日 下午繼續拍攝 很累但盡興" }
     ],
     "16": [
+      { type: "link", content: "https://photos.app.goo.gl/j8gZbfJ8CcFwS92F9", label: "2025年4月16日 嘻嘻 這篇真的智力測驗文章 幸好我的同事沒有這種款的XD" },
+      { type: "link", content: "https://photos.app.goo.gl/Uc4eSvxiWdXEfjmN6", label: "2025年4月16日 \
+        Carbon market-2 宿霧的市集有特色的其中之一是把水果堆成山的店家 一座一座的 \
+        還有許多年紀尚小 還沒入學的小孩穿梭在市場裡 另外也有許多的傳統早餐 不過因為料理都黑黑的一團 所以就沒有嘗試了 \
+        感覺看到很小時候的台灣市場的印象 這樣傳統的景象 也滿療癒人心的" },
+      { type: "link", content: "https://photos.app.goo.gl/wEXLQUmbNrrKCEi96", label: "2025年4月16日 CV醫生真的是最強的存在 永遠都在刀口上做事 不然就是在跟死神限時搶人" },
+      { type: "link", content: "https://photos.app.goo.gl/W3efJKoYmS1FBGSU7", label: "2024年4月16日 \
+        今天台股真的好誘人 但最近戶頭創下歷史新低點 各種要買的東西跟莫名奇妙的罰單 稅金 連吃飯快200塊都很心疼 \
+        所以只勉強買了一咪咪零股 這種日子應該大手筆分批買入的 不過感恩CV讚嘆CV 時不時贊助便當 不讓我沒錢吃飯餓死" },
+      { type: "link", content: "https://photos.app.goo.gl/1gmCNisQvDnY8csXA", label: "2024年4月16日 努力的成果一點一滴" },
+      { type: "link", content: "https://photos.app.goo.gl/wvcLracqVaEhHFFA8", label: "2024年4月16日 今年股市未遇到大幅修正應該專指美國股市 台股這個月才剛一個暴力修正到兩萬點" },
+      { type: "link", content: "https://photos.app.goo.gl/JDdmkseWeX4ACS9W6", label: "2024年4月16日 \
+        以前書上都說HF不要用CCB 我查了2022AHA確實有寫不建議HFrEF使用DHP CCB 圖一 \
+        可是一樣2022AHA及2021 ESC都說HFrEF可以用amlodipine跟felodipine 圖二及圖三 \
+        所以結論是CCB一樣不要用在心衰竭但如果要就是這兩顆可以嗎 \
+        問題有點刁鑽因為沒有書寫的很仔細 牙大赢的不要來喔拜託我不缺錢 我愛內科這是我的興趣" },
+      { type: "link", content: "https://photos.app.goo.gl/1xb4qrkhSta5ccsT6", label: "2024年4月16日 \
+        Beta blocker跟ACEi都是HFrEF第一線用藥 印象中就是一起用上去 之前也有paper說明沒有證據建議先beta blocker再ACEi \
+        但為什麼老師們都使用ACE優先於beta blocker啊 有什麼trial告訴我們ACEI比beta blocker優先嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/fEkjZgREonhschi36", label: "2021年4月16日 \
+        以前不讀書 很簡單的觀念多花很多時間才懂 同樣都產生粥狀斑塊 第一型與第二型MI的差異在於 \
+        第一型斑塊有破裂 導致血栓飄往遠端阻塞冠狀動脈 第二型斑塊沒有破裂 漸漸增厚導致冠狀動脈管腔縮小 給予心肌的氧氣減少" },
+      { type: "link", content: "https://photos.app.goo.gl/utFmNbBA7vr2PQRA8", label: "2021年4月16日 同樣結果都是心肌受損 居然把原因分得這麼細 一開始想到這樣分的國外醫生是鬼吧XD" },
+      { type: "link", content: "https://photos.app.goo.gl/k2fvcE6h8uVqX1W19", label: "2021年4月16日 想把這個看完 但發現超過30頁 而且內容超級細 需要極大耐心跟時間 希望一個月內能夠看完做出報告" },
+      { type: "link", content: "https://photos.app.goo.gl/4mbQEwLnjcwRbzvz5", label: "2021年4月16日 領到台積電股利 扣除手續費 總共剩兩元 怎麼那麼可憐XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/eMPomVJeNK3tqyKy6", label: "2020年4月16日 \
+        Time flies 才剛四月 卻驚覺下週就四月底準備接五月 各種醫院的事情接續來 對未來期待卻沒忘記從醫高壓的工作環境 \
+        但是 只要是有意義的目標 勇往直前就對 一起加油 這才是重點XD 大家都捨不得的優秀實習生" },
       { type: "link", content: "https://photos.app.goo.gl/hJx49aH5QE983MnCA", label: "2017年4月16日 吹泡泡自拍" }
     ],
     "17": [
