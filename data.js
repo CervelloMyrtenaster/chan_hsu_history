@@ -5212,6 +5212,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/oJTHXNy9nWtCX1eL9", label: "2017年4月13日 把興趣當工作不容易 熱情很快會被消耗 下班後的練功房 證件照 收工" }
     ],
     "14": [
+      { type: "link", content: "https://photos.app.goo.gl/vHj5gQkQm9WW4wMF6", label: "2026年4月14日 每天下班都要拖著極重度疲憊的身軀 聚精會神的看這些在腦中留不住的知識 睡覺還一直夢到只有自己沒考過" },
       { type: "link", content: "https://photos.app.goo.gl/DGTCbziFYt7TtnmT6", label: "2026年4月14日 學長我常遇到是AHF ACS這種都已經快要半死不活 結果態度一副無所謂 平常愛看不看醫生 也不想了解病情 結果大半夜才來醫院然後都已經很緊急我心裡實在QQ" },
       { type: "link", content: "https://photos.app.goo.gl/JJ7PsDMyuzGarL3C9", label: "2026年4月14日 出題是不是瘋了 記憶 他硬要跟大家都不一樣=reverse 我猜應該是因為這樣吧" },
       { type: "link", content: "https://photos.app.goo.gl/6kr2Z27z6Z1y4gv97", label: "2025年4月14日 這就是我不喜歡參加這種活動的原因 有人趁機亂潑水 有人趁機吃女生豆腐" },
@@ -5257,6 +5258,8 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/YN7KCP9K7DsL5Gnt5", label: "2017年4月14日 第一次一個月回台南兩次 期待拍攝計畫" }
     ],
     "15": [
+      { type: "link", content: "https://photos.app.goo.gl/SLP7DEk9wycMVvT16", label: "2026年4月15日 好羨慕 等我們去花蓮要保持跑步習慣遇到貓貓" },
+      { type: "link", content: "https://photos.app.goo.gl/ehtfGHvxjsS6ixAq7", label: "2026年4月15日 好可愛" },
       { type: "link", content: "https://photos.app.goo.gl/Yk2KtwauqiYDZ6Va8", label: "2025年4月15日 在台灣當一線醫生真的很可憐" },
       { type: "link", content: "https://photos.app.goo.gl/jApXnRSipkJK5u3p6", label: "2025年4月15日 涵涵超暖心" },
       { type: "link", content: "https://photos.app.goo.gl/SrGG2WmRxbzfjcnk6", label: "2025年4月15日 要有限度 不是管或不管的問題" },
@@ -5300,6 +5303,13 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/tQadKam34nUXvw5P8", label: "2017年4月15日 下午繼續拍攝 很累但盡興" }
     ],
     "16": [
+      { type: "link", content: "https://photos.app.goo.gl/u1Vm7WGQrnNHgAkU8", label: "2026年4月16日 這個比較猛啦 我那是因為冷凍冷藏很難分辨 大部分的人也都分不出來 但葡萄乾好好吃喔哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/BcZFkDtxmjZiJvfh8", label: "2026年4月16日 我哪是這樣說的 我明明是說已經很瘦了XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/bn9CLCqqze9tJzHa8", label: "2026年4月16日 是螢光屁眼欸XD" },
+      { type: "link", content: "https://photos.app.goo.gl/1aoXEYZqAERj1kEm9", label: "2026年4月16日 要帶隨身武器" },
+      { type: "link", content: "https://photos.app.goo.gl/e6dn63u4Nuf8aex18", label: "2026年4月16日 \
+        因為RR irregular一開始乍看真的以為Afib 但版主提醒V1確實有P 猜AFL with variable ventricular rate \
+        看inferior lead沒有典型的鋸齒狀所以可能Arypical AFL V1 upright P maybe LA circuit" },
       { type: "link", content: "https://photos.app.goo.gl/j8gZbfJ8CcFwS92F9", label: "2025年4月16日 嘻嘻 這篇真的智力測驗文章 幸好我的同事沒有這種款的XD" },
       { type: "link", content: "https://photos.app.goo.gl/Uc4eSvxiWdXEfjmN6", label: "2025年4月16日 \
         Carbon market-2 宿霧的市集有特色的其中之一是把水果堆成山的店家 一座一座的 \
@@ -5331,10 +5341,64 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/hJx49aH5QE983MnCA", label: "2017年4月16日 吹泡泡自拍" }
     ],
     "17": [
+      { type: "link", content: "https://photos.app.goo.gl/x3JEFwcMGGWDw6Xb7", label: "2026年4月17日 已經絕種的入伍訓最後一關 就是在炮聲隆隆裡面衝向山頭 可惜沒了" },
+      { type: "link", content: "https://photos.app.goo.gl/uy7vmjUNXXWcJJpL6", label: "2026年4月17日 是不是想當軍械士才叫我拍這個" },      
+      { type: "link", content: "https://photos.app.goo.gl/m3SiKvZhUJDeCrB36", label: "2026年4月17日 哈哈哈哈哈哈哈哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/xZf3zesE23g7qe8e7", label: "2026年4月17日 真是可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/nTdP4yzSp8TWzMNb8", label: "2025年4月17日 政府應該立法 把這些xx直接趕出醫院 終生禁止他就醫 不讓他荼毒醫護人員" },
+      { type: "link", content: "https://photos.app.goo.gl/pd6yGnMoDvXDPbfx7", label: "2025年4月17日 \
+        不一定 之前看過五排百星的三冠王四冠王 打贏當時職業選手的五排 那個什麼大車隊的五排 \
+        能在高端場拿三四冠王 不一定輸給職業 只是角色池不一定那麼深每隻都會玩" },
+      { type: "link", content: "https://photos.app.goo.gl/K9pNuyP4tipiVVaB6", label: "2023年4月17日 長榮直接給他San tree pa 超帥" },
+      { type: "link", content: "https://photos.app.goo.gl/hKvc6ZMwZdTtPmdF8", label: "2021年4月17日 出海囉 長榮桂冠酒店基隆" },
+      { type: "link", content: "https://photos.app.goo.gl/NM8RaKSGrACyWm8r9", label: "2021年4月17日 今天面試日 國防醫學院" },
       { type: "link", content: "https://photos.app.goo.gl/gbnhvhtg9vdduPoU6", label: "2017年4月17日 國防醫學院 醫學系 攝影街舞是我的生活 做人不要靠嘴 也不要用嘴巴認識人 做自己 活得開心 不斷求進步" },
       { type: "link", content: "https://photos.app.goo.gl/1oBmNre3VExprDdd7", label: "2017年4月17日 愛玩就爛一輩子活該 當然不可接受" }
     ],
-    "18": [],
+    "18": [
+      { type: "link", content: "https://photos.app.goo.gl/5nZih4tJnD6mzjRw9", label: "2026年4月18日 川普超讚 一百分支持處理掉那些不適任的獨裁政權" },
+      { type: "link", content: "https://photos.app.goo.gl/cVoDudespnGox4R39", label: "2026年4月18日 我是醫生 提高薪水的話醫生會接受 不被接受就是不夠高 不要講屁話zz" },
+      { type: "link", content: "https://photos.app.goo.gl/wrxhHuT2uAoE2gyq8", label: "2025年4月18日 詐你 你全家才詐 政府詐醫生的點值這麼多年你吭過一聲沒有" },
+      { type: "link", content: "https://photos.app.goo.gl/T6cjX4APLGXp8Wcb8", label: "2025年4月18日 \
+        愛死這些照片 以前除了想成為風景攝影師 也希望能成為戰地記者 紀錄現實的殘酷與悲傷 這些得獎的照片 有兩個很大的賣點 \
+        光線跟構圖 強烈的凸顯主題 並且把照片的故事放在主題的一部分 每張紀實的照片 都能印刷成一片偉大的藝術作品" },
+      { type: "link", content: "https://photos.app.goo.gl/NQGXrA4EwPirMRzP6", label: "2025年4月18日 明明一瓶49元 員餐可以賣75元 結果上週要買發現有人投訴太貴了 直接不賣了QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/TPJoWqScVsSjmP9Q9", label: "2025年4月18日 今年第一個生日禮物 提早了一個禮拜 謝謝分期買下嗚嗚嗚嗚" },
+      { type: "link", content: "https://photos.app.goo.gl/HY1CwwrEC5iurLWq8", label: "2025年4月18日 噁噁噁 謝謝分享 我現在空腹了" },
+      { type: "link", content: "https://photos.app.goo.gl/aVTvtGMwG4NbKSNs6", label: "2024年4月18日 是動到哪條血管造成兩側都壞死啊QAQ" },
+      { type: "link", content: "https://photos.app.goo.gl/yF3z3E5ojLv4frBaA", label: "2024年4月18日 怎麼感覺才剛從部隊回來沒多久 就要試穿鉛衣了QQ 三軍總醫院" },
+      { type: "link", content: "https://photos.app.goo.gl/5sjZusX5mwKZddor9", label: "2024年4月18日 \
+        今天最猛的是在護理站聽到學弟妹聊天 學弟妹面試內科組 還是哪組 面試官居然問 現在時間18:30 你正在值班 \
+        是否願意陪非本科主治醫生查房 Wtf真的有這件事嗎 奴出新高度了嗎XDD 我自己本科病人處理不完都自己留下來弄 叫學弟妹準時走 可能時代真的變了" },
+      { type: "link", content: "https://photos.app.goo.gl/zgAc77yWvYp4dsde8", label: "2023年4月18日 請問有大大認識不錯的峇里島或柏達尼島的專車司機嗎 能夠配合日出日落半夜出發的攝影行程 能否推薦呢 懇請推薦司機" },
+      { type: "link", content: "https://photos.app.goo.gl/s9uQWXrum7njXMuN9", label: "2023年4月18日 我跟是少數對迪士尼跟任何樂園沒興趣的人 漂亮的風景跟建築好多了 拍到美照才能心靈富足 所以我真的很幸運 當初去大阪壓根沒想要去迪士尼XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/DQ3QMVHd7HUFExhz7", label: "2022年4月18日 -\
+        病人HCAP入院 病史246洗腎 CAD放過支架與DM 請問痰液長kp剛出抗藥doripenem跟imipenem 病人目前正在用meropenem \
+        目前無發燒或掉血壓 crp前兩天往上跑 WBC 13000 16000 這樣有需要換抗生素嗎 謝謝 \
+        還是明早再抽血data變壞再考慮升階呢 Colistin也抗藥唷 如果沒有升階 同種的penem類會不會互相都有抗藥性 我不懂為什麼檢驗沒幫我驗mepem的抗藥性" },
+      { type: "link", content: "https://photos.app.goo.gl/VK6wwVbttytRXfk58", label: "2022年4月18日 一回家就有防疫自製晚餐" },
+      { type: "link", content: "https://photos.app.goo.gl/tDyxdcw7dHuBD8Ri8", label: "2022年4月18日 \
+        當intern的兩年 花了很多時間在拍照跟做自己喜歡的事情 我真的很崇尚自由 卻沒想到未來的自由是犧牲換來的 \
+        而現在 就是還債的時候 看著同學的身影 在後面追趕的很辛苦 別以為短短兩年實習累積的知識跟經驗 為了能補回來真的花很多心神 \
+        內科R1下半場 還是很多方面有待加強 我的慘痛經驗證明了該努力的當下 真的要好好把握" },
+      { type: "link", content: "https://photos.app.goo.gl/uH8w7wrJEgyES5Zw8", label: "2021年4月18日 測驗結果 最適合的科是急診科 阿就跟我原本想選的一樣ㄚ 雖然最喜歡精神科XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/6QrZ3a3imb6jDDGE9", label: "2021年4月18日 之前在陸戰隊看蛙人與海勤特戰攻堅被狹持的船 都要趁夜色下潛再用繩梯摸上船 花了幾個小時才開始迎敵 結果現在美軍直接用飛的XDDDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/cSkfzZ1GKmAFe5CJ7", label: "2021年4月18日 \
+        同一篇文章 搜尋發現有學長及很多外院醫生翻譯成中文整理 但都只做完前1/3 後2/3各種AMI與共病的關係直接帶過 \
+        或是要讀者看原文 不過也很感謝那些整理 讓我省去很多理解的時間 為啥原文那麼喜歡講一堆冗言贅字 \
+        整個假日有空的時間都在讀 因為真的很雜 進度緩慢是合理的" },
+      { type: "link", content: "https://photos.app.goo.gl/pHcj53WQ28mrZ5Jw6", label: "2021年4月18日 \
+        高雄 三鳳宮全景 我修圖一直都用筆電 而且都在全暗的地方作業 第一次接到BenQ邀請 沒想到就要嘗試新的習慣 使用桌電掛燈 \
+        但不知道大家是否跟我一樣 不論是用電腦做報告 打電動或修圖 開燈時 覺得螢幕很多細節都看不清楚 尤其螢幕暗的地方 \
+        所以長久以來習慣黑暗的環境使用電腦 也比較容易靜下心來培養情緒XD 雖然小編說很多人掛在筆電是錯的 但我就只有筆電啊XD \
+        掛燈是用倒V的平衡方式直接放螢幕上 因此對筆電螢幕還是太重了 我就另外用鐵架掛著照 而圖中Apple桌電掛燈是為了拍正確示範 \
+        我還是用掛燈配筆電修圖唷 我就叛逆 心得是真的滿不錯 因為光線很柔和 不會影響螢幕可見細節 \
+        加上因為不刺眼 不會造成長期使用疲勞 最後材質幾乎全金屬 帶來紮實的手感 不用擔心是隨便的塑膠外殼配燈管 \
+        如果有掛燈需求我滿推薦的唷 活動期間4/1-5/31購買ScreenBar螢幕智能掛燈全系列 將會隨機贈送療癒微型積木 數量有限 贈完為止 \
+        護眼關鍵在光線 BenQ ScreenBar 螢幕智能掛燈 官網如下 這次新作品順便介紹benq掛燈 對於使用桌電是滿方便的" },
+      { type: "link", content: "https://photos.app.goo.gl/TDgL1tWj8AQ4fWMfA", label: "2020年4月18日 台灣最著名的地震屋 走進去會暈" },
+      { type: "link", content: "https://photos.app.goo.gl/KZ5io9KXFkbdrfmo9", label: "2018年4月18日 您喜歡抹茶嗎 是整理的很詳細的粉專 針對台北美食做整理 喜歡可以參考啦 本人很好 是全台前幾聰明的人喔" }
+    ],
     "19": [],
     "20": [],
     "21": [],
