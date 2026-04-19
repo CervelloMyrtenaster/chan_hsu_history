@@ -5358,6 +5358,11 @@ const records = {
     "18": [
       { type: "link", content: "https://photos.app.goo.gl/5nZih4tJnD6mzjRw9", label: "2026年4月18日 川普超讚 一百分支持處理掉那些不適任的獨裁政權" },
       { type: "link", content: "https://photos.app.goo.gl/cVoDudespnGox4R39", label: "2026年4月18日 我是醫生 提高薪水的話醫生會接受 不被接受就是不夠高 不要講屁話zz" },
+      { type: "link", content: "https://photos.app.goo.gl/ep65XMRDDKcaAwTX8", label: "2026年4月18日 出來玩 想說修個圖但暫存記憶體不夠 所幸直接開始讀書 人生ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/x771LJ8DsboyrrY98", label: "2026年4月18日 我的電腦因為塞滿考試資料導致暫存記憶體不夠 無法修圖" },
+      { type: "link", content: "https://photos.app.goo.gl/DHcMBQQRozw9vNtUA", label: "2026年4月18日 重慶是為夜景而生的城市 太美了" },
+      { type: "link", content: "https://photos.app.goo.gl/MYaGggFPLoeSnPL37", label: "2026年4月18日 提早過生日 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/WooZ37F26eNKFcaD8", label: "2026年4月18日 這次來金門都沒遇到好天氣 但在這裡遇到新朋友" },
       { type: "link", content: "https://photos.app.goo.gl/wrxhHuT2uAoE2gyq8", label: "2025年4月18日 詐你 你全家才詐 政府詐醫生的點值這麼多年你吭過一聲沒有" },
       { type: "link", content: "https://photos.app.goo.gl/T6cjX4APLGXp8Wcb8", label: "2025年4月18日 \
         愛死這些照片 以前除了想成為風景攝影師 也希望能成為戰地記者 紀錄現實的殘酷與悲傷 這些得獎的照片 有兩個很大的賣點 \
@@ -5399,7 +5404,37 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/TDgL1tWj8AQ4fWMfA", label: "2020年4月18日 台灣最著名的地震屋 走進去會暈" },
       { type: "link", content: "https://photos.app.goo.gl/KZ5io9KXFkbdrfmo9", label: "2018年4月18日 您喜歡抹茶嗎 是整理的很詳細的粉專 針對台北美食做整理 喜歡可以參考啦 本人很好 是全台前幾聰明的人喔" }
     ],
-    "19": [],
+    "19": [
+      { type: "link", content: "https://photos.app.goo.gl/hwbnMbCRE4wPEHPQ7", label: "2026年4月19日 未來我一定會再回金門的 排個至少五天以上 每天可以慢慢的拍 不用拘泥於時間跟工作 純粹的紀錄光影與人 工作真的讓我失去太多屬於自己想追求的東西" },
+      { type: "link", content: "https://photos.app.goo.gl/aqdNM1AMdeGshJc27", label: "2026年4月19日 這是價值無限的電影票嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/TuHP67FqfURJPvSb8", label: "2026年4月19日 不可以" },
+      { type: "link", content: "https://photos.app.goo.gl/RFFZZyX8uFHhmxFZ6", label: "2025年4月19日 要比低嗎 三總24小時100元" },
+      { type: "link", content: "https://photos.app.goo.gl/GzTyKg9fsfB5EvPp9", label: "2025年4月19日 跟你一樣厲害 但我比較喜歡吃你做的早午餐" },
+      { type: "link", content: "https://photos.app.goo.gl/U7nCbb2mdeQr2z5EA", label: "2024年4月19日 \
+        徵求4/26-4/28任何縣市有到台中的車票 台中進出 高鐵火車客運計程車加油費都可 \
+        4/26-4/28抵達台中 4/28離開台中 越遠越好 來回更佳 因要申請交通補助 飲料報答謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/ychKbhaeLfKgiEjn9", label: "2024年4月19日 我也是這樣覺得ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/GR2eBeLBoB2BsZac8", label: "2024年4月19日 講的很有道理 但還是比台灣醫師賺的更多" },
+      { type: "link", content: "https://photos.app.goo.gl/h4Mx5yJR1ru13Ee66", label: "2024年4月19日 如果面上君費就要去地下十八樓報到ㄛ" },
+      { type: "link", content: "https://photos.app.goo.gl/ZjSGtrV8e4pVuaGx5", label: "2023年4月19日 \
+        難得的招生好文 推 以前我會覺得這是誇飾法 現在看多了 我覺得這是真的 \
+        為了一個職業 犧牲感情 家庭 興趣 最後失去的就是健康 甚至被裝葉克膜 沒錯真的發生過 \
+        沒有任何工作值得你一輩子變成機器人然後死去 如果有 就用力抵抗那些要你變成機器人的人跟體制 \
+        用力掌握自己的人生 不要為了工作跟無謂的人而活" },
+      { type: "link", content: "https://photos.app.goo.gl/z7zNaJvPNMDTymAa7", label: "2023年4月19日 請問有粉絲朋友去過這個點嗎 求拍攝位置" },
+      { type: "link", content: "https://photos.app.goo.gl/tASmUhDKoeMugbjX7", label: "2022年4月19日 這是咳血的病人入院 已排除GI出血 HRCT長這樣 請問左右兩側擴張的支氣管 是支氣管擴張症典型的影像嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/n8tmpCPRp5QXmKW6A", label: "2021年4月19日 \
+        The 0 h/3 h rapid diagnosis protocol with hs-cTn assay \
+        2018用hs-cTn在第0及第3小時的值與Delta(hs-cTn第3減第0小時的差值 再除以第0小時的差值 來判斷是否為ACS高風險" },
+      { type: "link", content: "https://photos.app.goo.gl/HrX7kiGFhEBYz3Cz7", label: "2021年4月19日 \
+        不好意思這篇我看的霧煞煞 學術不精又想問 \
+        Recurrent myocardial infarction跟Re-infarction有不一樣嗎 這兩個不都是復發的心肌梗塞 \
+        結果2018定義裡 Recurrent myocardial infarction說是第一次MI之後的28天才算 \
+        但下面Re-infarction說是第一次MI後的28天內發生才算 這樣是不是很怪呢 \
+        我遇到無法理解的原文就會讀不下去 當然我知道這不重要 有興趣的再討論留言吧 謝謝樓上 懂了 謝謝常常打炮的珐瑯質哥" },
+      { type: "link", content: "https://photos.app.goo.gl/D3sioYsGNk9bLEYp7", label: "2021年4月19日 AMI的MI通常是指" },
+      { type: "link", content: "https://photos.app.goo.gl/FHq31qLUVgyCjqeb8", label: "2020年4月19日 請參閱" }
+    ],
     "20": [],
     "21": [],
     "22": [
