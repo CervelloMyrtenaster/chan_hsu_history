@@ -5408,6 +5408,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/hwbnMbCRE4wPEHPQ7", label: "2026年4月19日 未來我一定會再回金門的 排個至少五天以上 每天可以慢慢的拍 不用拘泥於時間跟工作 純粹的紀錄光影與人 工作真的讓我失去太多屬於自己想追求的東西" },
       { type: "link", content: "https://photos.app.goo.gl/aqdNM1AMdeGshJc27", label: "2026年4月19日 這是價值無限的電影票嗎" },
       { type: "link", content: "https://photos.app.goo.gl/TuHP67FqfURJPvSb8", label: "2026年4月19日 不可以" },
+      { type: "link", content: "https://photos.app.goo.gl/sVpWhKNEcyPs4MzE7", label: "2026年4月19日 方便請問雨傘的那條街是哪裡嗎 謝謝" },
       { type: "link", content: "https://photos.app.goo.gl/RFFZZyX8uFHhmxFZ6", label: "2025年4月19日 要比低嗎 三總24小時100元" },
       { type: "link", content: "https://photos.app.goo.gl/GzTyKg9fsfB5EvPp9", label: "2025年4月19日 跟你一樣厲害 但我比較喜歡吃你做的早午餐" },
       { type: "link", content: "https://photos.app.goo.gl/U7nCbb2mdeQr2z5EA", label: "2024年4月19日 \
@@ -5435,8 +5436,85 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/D3sioYsGNk9bLEYp7", label: "2021年4月19日 AMI的MI通常是指" },
       { type: "link", content: "https://photos.app.goo.gl/FHq31qLUVgyCjqeb8", label: "2020年4月19日 請參閱" }
     ],
-    "20": [],
-    "21": [],
+    "20": [
+      { type: "link", content: "https://photos.app.goo.gl/GEu7yAuGi1f6khwy8", label: "2026年4月20日 今天三總全家上班的店員全部都是越南人 買東西的過程四面環繞越南語 瞬間有出國去河內玩的感覺 這種想像真棒" },
+      { type: "link", content: "https://photos.app.goo.gl/uAapN9TzDmCn7jj16", label: "2026年4月20日 \
+        我阿嬤在我懂事以前就離開了 但我有記憶以來他都會包容我的一切 我想現在人生中很多的決定 \
+        他也會支持我的 只可惜我沒辦法得到這樣的支持而去道謝 所以要珍惜" },
+      { type: "link", content: "https://photos.app.goo.gl/24Me5eYSctpcJMLLA", label: "2026年4月20日 生氣的小娃娃" },
+      { type: "link", content: "https://photos.app.goo.gl/rGUbFtYqEfeiLBpU6", label: "2026年4月20日 說這是捕蚊草" },
+      { type: "link", content: "https://photos.app.goo.gl/9bgEmSvvCC7ugtU58", label: "2026年4月20日 萬分感謝" },
+      { type: "link", content: "https://photos.app.goo.gl/WYf1vwzZxEL92rLHA", label: "2026年4月20日 這個等你陪我一起去啦哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/a92jKr6onDMgWYSD8", label: "2026年4月20日 收穫太多了 我就說要去百花洋樓吧XD" },
+      { type: "link", content: "https://photos.app.goo.gl/CN9uWxHv2fFGu4qw5", label: "2025年4月20日 \
+        人生應該是充滿美食與旅遊 用腳踏遍世界 用口品嚐料理 用心感受當地的風俗文化 \
+        而不是充滿上班的壓力跟枷鎖 可惜 身不由己" },
+      { type: "link", content: "https://photos.app.goo.gl/9kWgiy2b8PxtC4v28", label: "2025年4月20日 \
+        平常省吃儉用 存到一點錢 第一次在台灣吃高級壽司 完全值得 \
+        高級的生魚片像是溫暖柔和的海浪 入口的瞬間撲上舌尖 在嘴裡漫出暖和的感覺" },
+      { type: "link", content: "https://photos.app.goo.gl/yoUjeYaJaJYi1LtAA", label: "2025年4月20日 時間過好快" },      
+      { type: "link", content: "https://photos.app.goo.gl/DHtwtH6wLqgfbrTRA", label: "2025年4月20日 這位手機壞掉的人做午餐" },
+      { type: "link", content: "https://photos.app.goo.gl/KtAS9SVjSfktZEVa8", label: "2025年4月20日 突然發現嘴哥真的很好笑" },
+      { type: "link", content: "https://photos.app.goo.gl/kuj8fDeKJxkWfWm16", label: "2025年4月20日 這個我以前弄過一次 很好玩哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/ES4dvuvNkrvq9ndg8", label: "2025年4月20日 居然有賣這種東西哈哈哈哈 下次看到買起來" },
+      { type: "link", content: "https://photos.app.goo.gl/F18UXW8GifSPhAQJ7", label: "2025年4月20日 好玩" },
+      { type: "link", content: "https://photos.app.goo.gl/FYj8TZetGQcUiAN6A", label: "2024年4月20日 想考醫科的還是好好想想 考得上醫學系不如去二類拼台積電 五月工程師還可以有獎金繳稅 要是當醫生五月扣稅後當月直接吃土 可憐" },
+      { type: "link", content: "https://photos.app.goo.gl/KwbXgA5v2VFDtL8YA", label: "2024年4月20日 台積至少贏過台灣99.9%職業 包含多數西醫" },
+      { type: "link", content: "https://photos.app.goo.gl/eA5dptBxHwQn4dQL6", label: "2024年4月20日 原本想好好吃頓生日大餐 結果今天瘋狂過敏 完全沒辦法" },
+      { type: "link", content: "https://photos.app.goo.gl/ccdQaCd2J98q6xj68", label: "2024年4月20日 怎麼那麼漂亮" },
+      { type: "link", content: "https://photos.app.goo.gl/Nb7ummwTnQ8VEGKg9", label: "2024年4月20日 打破傳統東方教育" },
+      { type: "link", content: "https://photos.app.goo.gl/7ScmT9X4tEYfEkyR6", label: "2022年4月20日 \
+        80歲呼吸喘入院病人 請問左下這個重影在CXR上通常有意義嗎 \
+        回一樓 所以全部問題只能跟V討論 apen只能發文約砲交友就對了 你他媽腦是死去了嗎 感謝急診大哥提供DDX參考" },
+      { type: "link", content: "https://photos.app.goo.gl/x478KUkXTD1LMNWcA", label: "2019年4月20日 車子是老賓士 確認機油沒問題也沒有發生碰撞 有點急求問 車子開到一半突然亮起這個 都沒看過有點緊張 現有半路停下沒有人煙 有人知道這什麼意思嗎 拜託拜託" },
+      { type: "link", content: "https://photos.app.goo.gl/so3peBX2i7gnmyF48", label: "2019年4月20日 謝謝大家回答 剛剛查了一下也是煞車問題 只能先小心慢慢開 因為在沒有人煙的地方所以才發問 還是感謝再感謝 目前先這樣" },
+      { type: "link", content: "https://photos.app.goo.gl/AeR1SfNbVAD6Wk6P8", label: "2019年4月20日 \
+        走去豪德寺的路上 遇到日本社區的啤酒節活動 之類的 居民非常熱情的擺著市集 一起在廣場喝酒唱歌 \
+        結束後再一起收拾的乾乾淨淨 這是我喜歡日本的其中一個原因XD" },
+      { type: "link", content: "https://photos.app.goo.gl/HbA5jpsusXYcpfFQ8", label: "2018年4月20日 再多的怨天尤人 都不能改變自己被判兩年有期徒刑的結果 一直想著苦字頭 不如珍惜自己身邊有的 即使是命中註定要吃苦長大 也要笑著流淚" },
+      { type: "link", content: "https://photos.app.goo.gl/VurPWMcHW7Mckrr77", label: "2018年4月20日 加油 陸軍健兒" },
+    ],
+    "21": [
+      { type: "link", content: "https://photos.app.goo.gl/p9yqeRciAqxKpaZJ9", label: "2026年4月21日 這個夠chill哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/oB7YiyrAejfmyrvV8", label: "2026年4月21日 希望能確實處理" },
+      { type: "link", content: "https://photos.app.goo.gl/R38rqDKPfeZLH3vE9", label: "2026年4月21日 \
+        關於第一次踏上金門的記錄 金門的角落 如果走進金門 會發現他們的平常是本島的不平凡 每個閩南式傳統古厝間的小道 轉彎後撞見不同的花圃與窗戶 \
+        被午後的陽光包裹在靜謐的角落 有時又能在群屋中看見矗立的洋樓 又或者在長長的道路邊瞥見冷戰時期的軍事防禦碉堡 \
+        雖然帶回了兩手曬傷 但這是我小瞧了金門迎接盛夏的熱情 躲在百花洋樓的咖啡廳時 我跟一起閱讀了在地生活的攝影集 \
+        才發現原來三天遠不夠了解他的表面 許多的人物互動 光影的交錯都需要長時間的生活才能讓我們記錄到 \
+        留有許多遺憾是這次最大的禮物 讓我們下次能更快再訪這個島嶼 在沙美摩洛哥我們跟一位雜貨店阿嬤閒聊 \
+        才發現許多戰爭的歷史竟能成為輕鬆的話題 這也是金門令人敬佩的韌性 說認真的 如果能有每年固定來金門支援醫療任務 我會非常樂意的" },
+      { type: "link", content: "https://photos.app.goo.gl/LAY44rw8nRUReVHP8", label: "2026年4月21日 這講話怎麼跟你一樣" },
+      { type: "link", content: "https://photos.app.goo.gl/vHETKbaFdijF4D8YA", label: "2026年4月21日 笑死 還能成功第二次哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/4wd5ZoT17KoQVfaZA", label: "2026年4月21日 這是金門小貓貓特輯欸" },
+      { type: "link", content: "https://photos.app.goo.gl/BMXRc5eDM6EGM5LU6", label: "2025年4月21日 台灣的垃圾之一就是這些房東 不事生產 只嗜台灣人的血" },
+      { type: "link", content: "https://photos.app.goo.gl/yvG1XwSXnSTUBhS38", label: "2025年4月21日 是覺得台灣還不夠亂" },
+      { type: "link", content: "https://photos.app.goo.gl/Ya6hMFRofwDVu3Vw8", label: "2025年4月21日 一個禮拜一太少了吧 畢業如果選到海軍一級艦 出海都是10-13天 要能忍受兩個禮拜看不到太陽吧" },
+      { type: "link", content: "https://photos.app.goo.gl/GavJs7nxj8gfVWxC9", label: "2025年4月21日 那大家都後勤補給就好 誰白痴誰當兵 什麼幹文 屁話一堆就是不敢當兵" },
+      { type: "link", content: "https://photos.app.goo.gl/SsoE6HPagSFNnzGy8", label: "2025年4月21日 實用的建議就是簽下去 不是邏輯死亡就硬凹大家不喜歡 大家不喜歡的就是你的見解沒有用腦思考過 懂" },
+      { type: "link", content: "https://photos.app.goo.gl/cYLNvDe27BqnmPpy9", label: "2025年4月21日 \
+        超推的台北板前壽司 超級大推的板前壽司 \
+        台北 漁檤板前壽司 板前壽司 原是起源於江戶時代的一種特別壽司形式 講究由壽司職人當場於料理台前擺上木板 \
+        現場手捏出一道道無菜單 傳遞的不只是味覺 更是職人精神的展演 漁檤則忠實重現了這樣的板前風雅 每一貫壽司都猶如藝術品般 \
+        精緻小巧 恰到好處 入口那瞬間 如溫潤柔滑的浪花輕拍舌尖 餘韻綿延 難以言喻 我刻意閉上雙眼 用心感受那層層堆疊的細膩口感 \
+        與一般壽司相比 幾乎是天壤之別 醋飯根據魚料精細調整 選用白醋或黃醋 展現多層次的酸香 魚料更依種類進行熟成 \
+        每一口都無腥無刺 卻飽含風味 最後以清酒作結 胃裡泛起溫暖 不膩不飽 恰如其分 真心大推 這是一場味蕾與匠心交織的饗宴 值得親身體驗" },
+      { type: "link", content: "https://photos.app.goo.gl/t38w4D71ZCZVJJMp6", label: "2024年4月21日 謝謝, 機會在跟你們吃飯囉" },
+      { type: "link", content: "https://photos.app.goo.gl/8mP4Mj9kZpHTN48i6", label: "2024年4月21日 學長兒科抽血真的災難 respect" },
+      { type: "link", content: "https://photos.app.goo.gl/sRQZBwhU8ZiwRee69", label: "2022年4月21日 \
+        原本應該intern該讀的東西 硬拖到PGY才開始 不太懂當初怎麼一次過國考的 但如果我R1才開始從零讀醫學 \
+        那麼一定沒有人做不到比我更好的表現 Intern時倒是整理很多攝影教材不知道在幹嘛XD 把抗生素關於抗藥性的篇章 做個整理 可參考 \
+        抗藥性抗生素 參考自2018版臨床藥理精要 5th張進祿抗生素手冊 手動打字整理" },
+      { type: "link", content: "https://photos.app.goo.gl/nykva32F2c7Y7D8Z8", label: "2022年4月21日 愛了愛了 希望我跟工程師一樣有高年終就能馬上買QAQ" },
+      { type: "link", content: "https://photos.app.goo.gl/bLfWHseSncZNnKbh6", label: "2022年4月21日 打藥CT結果是腫瘤 HRCT" },
+      { type: "link", content: "https://photos.app.goo.gl/yTC3M1te1cJLkAnNA", label: "2019年4月21日 \
+        下部隊後有點時間 希望不要金魚腦總忘記曾經帶我吃過的美食 所以開始經營 最大的目的就是希望未來別人問起我也能推薦哪裡好吃 \
+        今天看了一下原來快一年而已就吃那麼多了 有興趣也可以追蹤然後告訴我們 推薦的 包含國外 用精選分類法 可以快速找到該地區美食XD" },
+      { type: "link", content: "https://photos.app.goo.gl/jNLqBgfwiGzwNgw46", label: "2018年4月21日 \
+        導正一下視聽 哪些才是真正的致癌物呢 別被亂賣藥的 網路錯誤資訊誤導囉 \
+        Ps 未來兩年沒法積極經營ig了 雖然很不甘心也很難過 但畢竟是為國犧牲 強迫性的所以也不用問原因了 \
+        如果有空還是會整理攝影資訊 教學跟分享作品 謝謝 祝大家攝影愉快" }
+    ],
     "22": [
       { type: "link", content: "https://photos.app.goo.gl/5YhpfwxCmt1UpJRM8", label: "2017年4月22日 \
         螢的生命短暫 人也是一樣 經歷多了會發現自己不過是眾多平凡人的一個 不必覺得自己有什麼特別 縱使努力發光也改變不了什麼 \
