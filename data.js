@@ -5475,6 +5475,9 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/VurPWMcHW7Mckrr77", label: "2018年4月20日 加油 陸軍健兒" },
     ],
     "21": [
+      { type: "link", content: "https://photos.app.goo.gl/24Ea6dG5R1vgYMeX8", label: "2026年4月21日 次專也沒有答案 也沒有申覆 一切都是命QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/6QHfsvtU6YaVr1vA6", label: "2026年4月21日 是嚴重的頭髮骨折" },
+      { type: "link", content: "https://photos.app.goo.gl/SzN2GxN6oRSRwD6a7", label: "2026年4月21日 AR臨床徵象 Aortic Regurgitation頭腳整理" },
       { type: "link", content: "https://photos.app.goo.gl/p9yqeRciAqxKpaZJ9", label: "2026年4月21日 這個夠chill哈哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/oB7YiyrAejfmyrvV8", label: "2026年4月21日 希望能確實處理" },
       { type: "link", content: "https://photos.app.goo.gl/R38rqDKPfeZLH3vE9", label: "2026年4月21日 \
@@ -5516,6 +5519,112 @@ const records = {
         如果有空還是會整理攝影資訊 教學跟分享作品 謝謝 祝大家攝影愉快" }
     ],
     "22": [
+      { type: "link", content: "https://photos.app.goo.gl/HqTzhkTF8MMy8jX76", label: "2026年4月22日 \
+        嘻嘻 那些準備要入學對軍費充滿希望的高中生會看到嗎 那些在底下留言軍費未來多光明多好的人會看到嗎 \
+        不會的 因為良心矇起來就不會看見有多少人因為誤入軍費生毀了一輩子" },
+      { type: "link", content: "https://photos.app.goo.gl/csANrd8zDVsJe9xr9", label: "2026年4月22日 版主頭貼的背景看起來是東京虎之門頂樓 那是我們攝影人的夢想 上去吃一頓至少台幣好幾千 住一晚至少台幣2-3萬起跳" },
+      { type: "link", content: "https://photos.app.goo.gl/gbMHQQFMuMjuBiQu9", label: "2026年4月22日 \
+        這個應該已經很多人講過了 因為分院可以招自費生 你有牛肉 眼皮復 當然留給外面的人 \
+        你如果留內外科誰要來應徵 反正軍費生一個蘿蔔一個坑而且重症柯人力不足 當然留爛缺給軍費生" },
+      { type: "link", content: "https://photos.app.goo.gl/2e1L4VDCt9vBSvMW9", label: "2026年4月22日 \
+        比較好奇什麼日子能遇到中午的時間還沒有遊客 我之前平日09-10到就一堆人了根本沒辦法好好拍影片 \
+        但日出去光線可能右不夠好 這裡根本變成觀光巴士載人來的芭樂景點" },
+      { type: "link", content: "https://photos.app.goo.gl/TnGjXM1DehmFHTKR6", label: "2026年4月22日 快要熬出頭了" },
+      { type: "link", content: "https://photos.app.goo.gl/8gj792ybs9jmKLHG9", label: "2026年4月22日 他不可能沒機會認識異性" },
+      { type: "link", content: "https://photos.app.goo.gl/1NPhPCnoRMumePSx8", label: "2026年4月22日 心情不好時很療癒" },
+      { type: "link", content: "https://photos.app.goo.gl/yTNMzC5P2YjP6xvX8", label: "2025年4月22日 支持店家 醫院如果遇到打護理師 罵醫師的沒品刁民 希望也有權利大聲說出 我就是不醫你" },
+      { type: "link", content: "https://photos.app.goo.gl/aikgQAFsSefApAS18", label: "2025年4月22日 \
+        第一下挑飛是你一技能的挑飛還是第四下普攻的挑飛 這其實就是我的疑惑 第四下挑飛的被動可以保持多久呢 \
+        中間穿插一個一二三技能之後 普攻仍保持第四下挑飛嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/UTgqZVc3kvRKAeEB9", label: "2025年4月22日 怎麼會有人那麼像 我都以為是ai" },
+      { type: "link", content: "https://photos.app.goo.gl/ESosDDJDwSD6Laf39", label: "2025年4月22日 居然有小黑熊" },
+      { type: "link", content: "https://photos.app.goo.gl/8SjN8EecTwzWswWB7", label: "2025年4月22日 嗚哇 也太可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/JpFpzfMHNaRJ6dee8", label: "2025年4月22日 大任的意思是 急診會有很多心房跟心室為值班的你震顫QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/BiiZFFHVmT5SyrGR7", label: "2025年4月22日 謝謝院長 祝福汀州院區蓬勃發展 造福更多患者" },
+      { type: "link", content: "https://photos.app.goo.gl/gyKFk7dc8XMTMbYx6", label: "2025年4月22日 \
+        明明是付費版的 請ai把圖片的文字轉出 試了三次都失敗 可以跑個十分鐘然後當掉= = \
+        最後氣到忍不住嗆他 結果馬上就可以了 Ai是這麼的人性化嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/7Cp8r7oZ6FKgiBydA", label: "2024年4月22日 是醫生 但不一定會看病的醫生" },
+      { type: "link", content: "https://photos.app.goo.gl/xMUDUZz1Ua6SVDmJ9", label: "2024年4月22日 台灣鯛只出得起一張嘴 出不起錢請醫師啦" },
+      { type: "link", content: "https://photos.app.goo.gl/q4bi7BTTWBzeRKER7", label: "2024年4月22日 你不要帶入自己的主觀想法= =" },
+      { type: "link", content: "https://photos.app.goo.gl/YZqJ8iPTRFbziFU9A", label: "2024年4月22日 謝謝 一起加油" },
+      { type: "link", content: "https://photos.app.goo.gl/v5DztSxdvDqNw3f3A", label: "2023年4月22日 \
+        台北 橫濱牛排微風南京店 台北400元上下的牛排 我首推橫濱 第一次吃完全不失望 \
+        第一是牛肉品質實在沒話說 可能我味覺不夠靈敏但口感實在沒有輸之前吃過上千的高級牛排 份量也很充足100-200克的 \
+        第二是自助沙拉吧超讚 有菜有水果有甜點還有飲料 最厲害的是隨便吃到飽的霜淇淋 口感滑順 能搭配草莓或巧克力醬 \
+        在四百上下的價位 吃到心滿意足 品質也保證 我能不推嗎 讚" },
+      { type: "link", content: "https://photos.app.goo.gl/NahpytDiUW1tJZi87", label: "2023年4月22日 又到了我生日 請吃大餐的一年一度盛宴了" },
+      { type: "link", content: "https://photos.app.goo.gl/puGMAsKovkp5jgZZ9", label: "2023年4月22日 \
+        我一定要分享 真的吃到罪惡感超深 我沒有因為吃而有罪惡感 因為他好吃到讓我覺得 \
+        生而為人 我真的有資格吃如此美味的料理嗎 明水然樂 無菜單鐵板燒" },
+      { type: "link", content: "https://photos.app.goo.gl/9N2FWScUG7y1R7fj7", label: "2023年4月22日 今年的全國醫學生聯合攝影比賽 審稿完畢 我們很用心的評比並且留下說明 台北醫學大學" },
+      { type: "link", content: "https://photos.app.goo.gl/czo45DxBSN3CTGp98", label: "2023年4月22日 曾經參加過這個比賽也有得過獎 如今有機會當評審 備感榮幸且開心 會好好思考跟討論 給予實至名歸的名次 台北醫學大學" },
+      { type: "link", content: "https://photos.app.goo.gl/jdRCo3juSrefCF1j7", label: "2022年4月22日 94這樣 想像你的男/女醫師朋友 三天一次值班 回家直接變爛泥" },
+      { type: "link", content: "https://photos.app.goo.gl/JUkyt2sRKU5pVZzt9", label: "2022年4月22日 \
+        生日感想文fit有醫師男友很棒 大揭秘 台北 石門洞 生活分享No.15 與一起過的第五個生日 \
+        今天在Dacrd看到一篇有醫師男友很棒感同深受 尤其是內外婦兒急這些大科 住院醫師實在不怎麼有錢 而且工作壓力非常大 \
+        下班就是讀書跟做報告 有人說工程師需要輪班銀on call 但很多人不知道 醫師值班常常接著隔天上班 \
+        就是上班再值班再上班 今天早上七點上班 明天晚上七點下班 一次就是30-40小時待在醫院 蓬頭垢面 \
+        而且主治醫師不只也是24小時on call 病人出事了常常都是深夜三四點打給已經下班的主治醫師 更多的是假日都自主回醫院看病人 \
+        實在完全不能相比的辛苦 工程師加上獎金分紅 比八成醫師年薪高更多 我相信不會有人覺得當醫生娘很幸福 \
+        依照目前健保體制 或許十年後工程師娘才是當道 甚至某些不肖的公衛官員 發表論文指出台灣醫師薪水不准超過平均薪的三倍 \
+        健保局也不斷想辦法削減醫師薪水 這些都是已經發生的事情 相對於台灣如此低廉的費用 卻領先世界的醫療品質 \
+        我只能說支持這些政策都是非常沒有良心的人 當然還有很多 像是很多職業做不好頂多被fire 醫師做不好 甚至沒做錯只是結果不理想 \
+        下場就是被告 哪怕是一個無罪也會折磨好幾年的上法院 身心俱疲 例子很多網路都有 其他方面就不多說了以免變成腹黑文XD \
+        說了那麼多 只是想好好感謝一直嫌棄但不放棄 誤 陪著我 忍受我假日常需要值班或加班 回家了還得看書 必須自己找樂子 謝謝妳 \
+        是我工作的動力 最後也感謝祝福我的朋友們 我的第一個願望 就是親朋好友都健康平安 這才是一輩子的福氣" },
+      { type: "link", content: "https://photos.app.goo.gl/TjmEF8q5j1kAMLYz7", label: "2022年4月22日 謝謝一直陪伴我的 現在的生活每天都被醫院病人追的緊緊的 還有很多需要學習的地方 持續努力" },
+      { type: "link", content: "https://photos.app.goo.gl/hARP5xGEgNoaRBWH8", label: "2022年4月22日 \
+        年輕人MDD外無其他病史 燒炭自殺後救活 HBO治療後幾乎痊癒可出院 想請問圖一二T1W 跟圖三四五T2W \
+        看得出來哪裡是CO中毒產生的影響嗎 PS查資料 MRI上能顯示兩側大腦半球白質及基底節區T1WI呈瀰漫低信號 T2WI呈高信號 \
+        腦室受壓變小 腦溝 腦池 腦裂變淺甚至消失是一氧化碳中毒性腦水腫 \
+        但許多paper上面的圖片多少都不太一樣 想請專家幫忙指明出有典型表現的地方 謝謝\
+        有啊bil globi pallidi show hypersensity on t2wi and water diffusion on dwi符合一氧化碳中毒 \
+        寫的跟paper也不太一樣 我看不懂啊 我只看得懂腦室雙側似乎被腦水腫壓迫但報告沒有特別打 我不懂 很奇怪" },
+      { type: "link", content: "https://photos.app.goo.gl/NWiYzpTSwRzGUn3k7", label: "2022年4月22日 Empysema HRCT 67歲男性 病史COPD與HCVD 因咳血與血氧掉入院 診斷雙下肺炎 左為主 與泌尿道感染 HRCT發現empysema 單純紀錄之" },
+      { type: "link", content: "https://photos.app.goo.gl/Z5V2QBG32bGEKAgF6", label: "2022年4月22日 謝謝主任 感謝主任去年的指導" },
+      { type: "link", content: "https://photos.app.goo.gl/8poasKsc72KRh7Ga8", label: "2021年4月22日 雖然很多人都知道 但這件事情影響台灣每個年輕人 分享給大家知道建商的基本招 下頁 好可怕好厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/TXAoJhnhMfFyLMp88", label: "2021年4月22日 \
+        舉例 假設房子八成總價實際1000萬 建商詐抬價格 跟銀行說八成價2000萬 然後借款極低利率2000萬出來 \
+        這建商只是人頭公司 借出的2000萬扣掉一點成本後 其餘資金轉到數個戶頭 之後房子賣高價 實際1000萬的賣3000萬 \
+        如果有人當盤子 建商就再賺一筆 如果賣不掉 就跟銀行哭哭無力償還貸款 此時銀行也不敢強硬徵討 因為硬起來人頭建商倒給你看 \
+        一毛都收不回來 最後房子不管有沒有賣出 建商都賺錢 這也是為何空屋放十年都不怕 因為早就賺到錢了 \
+        接下來只是賺多賺少而已 還不算隨時間房價上漲 舉例1000萬 但實際這些資金都是好幾億在流轉 \
+        這也是為何台灣最有錢階級是建商跟房東 建商蓋出來的房子只是為了貸款" },
+      { type: "link", content: "https://photos.app.goo.gl/BoooQCyp6c2w6sHSA", label: "2021年4月22日 開心 幫我慶生" },
+      { type: "link", content: "https://photos.app.goo.gl/EibYL8DxE4nsPqZv9", label: "2021年4月22日 \
+        本日生日大餐 好飽ㄚ 感謝大家的生日祝福 都溫暖在心就不洗版一直回覆了 \
+        不免俗的帶趙婕涵吃大餐 不免俗的希望大家也快樂 但免俗的不許願老天直接給予順遂的路 而是關關難過卻能關關過" },
+      { type: "link", content: "https://photos.app.goo.gl/RceB2jKKPZ4aYjbD9", label: "2021年4月22日 \
+        北醫內科部長 真的神等級 短短40分鐘的ppt 放入這三年超過十篇的最新paper 每頁只有簡單幾個字配上大圖 \
+        卻能清楚明瞭的陳述 反觀自己的報告 還有很多可以加強的目標" },      
+      { type: "link", content: "https://photos.app.goo.gl/sTe1b2YHKmJ8x9q3A", label: "2021年4月22日 \
+        北醫 黃群耀部長演講Live longer and better against diabetes and HF 部長這次針對HFrEF的新用藥SGLT2inb \
+        Dapa及其他配合用藥 短短40分鐘的投影片 包含了十多篇近3年的最新論文 完整的把用藥各種情況都考慮了 這裡簡單的筆記" },
+      { type: "link", content: "https://photos.app.goo.gl/VTWH236as8QqLc5F9", label: "2019年4月22日 \
+        國家地理頻道 世界地球日 這一刻多了一歲 這八個月來 歷經三溫暖般的生活經歷 抽象的心得如下 \
+        從沒想過生活可以沒有攝影 但其實現在感覺也還好 不過就是個努力上班賺錢的普通人罷了 \
+        巨大的生活轉變 從大學以來不斷強迫我改變與成長 待人的觀點變的不同 自己也變得學會在黑暗的人性中先行自禦 \
+        少了當初的青澀跟一片赤誠之心 但也少了無厘頭 更少了單純的自己 但這些隨著歲數增長而形成的盾牌是必要的 \
+        除了保護自己 更想保護所愛的人 來到26歲 也不是青年了 有沒有對自己負責這念頭 越來越黏在心頭 \
+        接受了生活不順心本正常 也接受了該為僅有的小幸福而知足 抽象說完了 實際面也很感謝所有過去幫助過我的 \
+        讓我越發相信柯P說過 最困難的不是面對各種挫折打擊 而是面對各種挫折打擊 卻不失去對人世的熱情 \
+        因為有熱情 所以能一直走下去 一直走下去 才能再繼續看到好的人事物 也才能帶給身邊的人正向能量 \
+        最後謝謝捎來第一句生日快樂 差點都忘記了 這會是我度過最平淡的一次生日 但也會是最滿足的一次 有妳真好 \
+        簡簡單單 愛的人愛我就好 在乎的朋友在乎我就好" },
+      { type: "link", content: "https://photos.app.goo.gl/c5Phf5rfGW54Lp898", label: "2019年4月22日 世界地球日快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/uvbM8iF4kVB3t3XZ7", label: "2019年4月22日 整個蘇澳羅東地區 可以短距離移動又能好好靜下來看書到比較晚的地方22:00 來了幾個月 居然只有星巴克" },
+      { type: "link", content: "https://photos.app.goo.gl/oaUm9w83hwqJGrjv7", label: "2018年4月22日 看到這種留言就火大 有種簽職業軍人看看 當海軍直接出航沒訊號沒休假 還要個屁網路 到底誰不是人zzz 無知百姓身在福中不知福" },
+      { type: "link", content: "https://photos.app.goo.gl/pzcSwGv3CLBHRej97", label: "2018年4月22日 \
+        我不是在生活 只是努力活著 我深刻的體悟 有些人不敢為國家犧牲自由 憑什麼高喊台獨來博取關注 \
+        當你了解開心在東區約會逛街的背後 是一群不被關注的國軍弟兄在巡這太平洋與台灣海峽 你不會覺得台灣的安全是應當的 \
+        他們被強迫歸航後立刻出航 有任務就無條件放棄休假 只要活著就是待命上班出任務 誰管你加班還是下班 \
+        沒有辦法與家人朋友女友通訊 這個時代還有多少人願意如此 軍人值得被尊敬也值得用退休俸禮遇 \
+        因為他們不只為了生活 也為了國家的安全 即使不情願也得犧牲 這是跟大眾職業不同的地方" },
+      { type: "link", content: "https://photos.app.goo.gl/4fedR9zBo1DsRMNn7", label: "2018年4月22日 \
+        25歲了 雖然不知道為什麼雖八輩子 要當海軍醫官 但也可能上天彌補我那天沒趕上德陽軍艦的參觀時間 讓我兩年好好待在軍艦上 \
+        但如果籤運不好是為了遇見你那也值得不是嗎 這兩年要辛苦你了 總是讓你包容我奇怪的生活 內心只有無限的感謝 \
+        雖然絕望 但至少還有帥氣白甲 謝謝妳了 也謝謝給我建議的學長跟同學 努力撐過兩年吧" },
       { type: "link", content: "https://photos.app.goo.gl/5YhpfwxCmt1UpJRM8", label: "2017年4月22日 \
         螢的生命短暫 人也是一樣 經歷多了會發現自己不過是眾多平凡人的一個 不必覺得自己有什麼特別 縱使努力發光也改變不了什麼 \
         唯有當下的感受與愛 隨著時間烙成忘不了的回憶 螢火蟲 東勢 生日" }
