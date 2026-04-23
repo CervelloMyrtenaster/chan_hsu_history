@@ -5532,6 +5532,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/TnGjXM1DehmFHTKR6", label: "2026年4月22日 快要熬出頭了" },
       { type: "link", content: "https://photos.app.goo.gl/8gj792ybs9jmKLHG9", label: "2026年4月22日 他不可能沒機會認識異性" },
       { type: "link", content: "https://photos.app.goo.gl/1NPhPCnoRMumePSx8", label: "2026年4月22日 心情不好時很療癒" },
+      { type: "link", content: "https://photos.app.goo.gl/M4mWiPUiKja3wn239", label: "2026年4月22日 真的很感謝大家的生日祝福 今年準備考試水深火熱卻完全抓不到及格邊緣線 唯一希望就是通過考試 因此暫時就把滿滿的感謝放在心裡了" },
       { type: "link", content: "https://photos.app.goo.gl/yTNMzC5P2YjP6xvX8", label: "2025年4月22日 支持店家 醫院如果遇到打護理師 罵醫師的沒品刁民 希望也有權利大聲說出 我就是不醫你" },
       { type: "link", content: "https://photos.app.goo.gl/aikgQAFsSefApAS18", label: "2025年4月22日 \
         第一下挑飛是你一技能的挑飛還是第四下普攻的挑飛 這其實就是我的疑惑 第四下挑飛的被動可以保持多久呢 \
@@ -5629,18 +5630,403 @@ const records = {
         螢的生命短暫 人也是一樣 經歷多了會發現自己不過是眾多平凡人的一個 不必覺得自己有什麼特別 縱使努力發光也改變不了什麼 \
         唯有當下的感受與愛 隨著時間烙成忘不了的回憶 螢火蟲 東勢 生日" }
     ],
-    "23": [],
-    "24": [],
-    "25": [],
-    "26": [],
+    "23": [
+      { type: "link", content: "https://photos.app.goo.gl/DmdUyYk6VBXL15Sv8", label: "2026年4月23日 \
+        也難怪這個學弟不敢具名 因為根本沒當過總醫師 總醫師整天忙的跟陀螺一樣 誰要吃飽太閒想著怎麼搞學生跟改考題 \
+        說真的你學生考的好或差乾我們屁事 要煩的事情太多了不可能去做這種事 每屆都有這種不在其位但充滿幻想的留言XD" },
+      { type: "link", content: "https://photos.app.goo.gl/WxMq7CCQYfTU5i95A", label: "2026年4月23日 \
+        最近這支股票好像很紅 但主動選股永遠都是漲比大盤多 跌比大盤多 \
+        上導管前買幾張 下導管再全部賣掉 賺一杯星巴克的錢 長期持有我還是很怕 金融股比較安心" },
+      { type: "link", content: "https://photos.app.goo.gl/bR5tFbRTViCjxMAe9", label: "2026年4月23日 你有想過未來就業地點沒辦法自選影響這輩子多大嗎 有想過沒辦法拒絕自己不喜歡的科別會影響這輩子多大嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/qz3vbJYgZ5XcvmeN8", label: "2026年4月23日 太沒品了吧 今天我值班 要是去急診看到這種民眾一定大聲制止+叫警衛來" },
+      { type: "link", content: "https://photos.app.goo.gl/w9vHmDwMary5pcmu5", label: "2026年4月23日 謝謝 那真的是抓拍的很好" },
+      { type: "link", content: "https://photos.app.goo.gl/hvfNE5tbh9iGV8729", label: "2025年4月23日 怎麼會有這麼沒品的人" },
+      { type: "link", content: "https://photos.app.goo.gl/PuCUChbDfhyYy5dQ7", label: "2024年4月23日 背台灣社區型肺炎常見五箇 沒穿衣服感冒得肺炎超雷 沒黴漿 衣披衣 感冒感冒嗜血 肺炎肺炎鏈 雷克雷伯" },
+      { type: "link", content: "https://photos.app.goo.gl/3ZjrR7LZivog2yX48", label: "2024年4月23日 選科結束 沒有越來越輕鬆的感覺 只有越來越辛苦的感覺 連未來考試的難度也是最高之一" },
+      { type: "link", content: "https://photos.app.goo.gl/MTZVfKjrPvkMxCq88", label: "2023年4月23日 \
+        自本粉專開辦以來 我正式宣布當前美食第一名 明水然松菸店 畢生必須吃過至少一次 我用所有良心推薦 超讚 \
+        台北 明水然樂信義松菸店 我沒想過人生吃個飯吃出罪惡感 強烈的罪惡感 生而為人 我真的能吃到如此美味的料理嗎 \
+        這家真的不誇張 只有松菸店 加上服務費約1700元 完全超值得 這家也是目前唯一一間我放置頂的神店 \
+        先說A5和牛 跟之前吃過的牛肉完全不在一個檔次 另外和牛片配松露簡直入口上天堂 \
+        龍蝦 生食級干貝 澎湖魷魚 鮮蚵 鮭魚 屏東活蝦米飯等 甚至連他的烏龍綠茶 從頭到尾沒有一道菜不是最頂的 \
+        每道料理都做到精髓 連我超討厭吃魷魚 也被他的魷魚佐梅醬折服 而我超討厭直接吃蒜頭 也被他特製的蒜頭配和牛完全折幅 \
+        認識的都知道我是如此挑嘴之人 胃口不大 但今天我已置身天堂 意猶未盡完全沒感覺任何飽足 實在超級好吃啊 \
+        唯一指名李松森師傅 鐵板燒做了超過50年 不需誇張的大火雜技 光是他平凡而熟念下廚動作 都能行雲流水 像是欣賞藝術般 \
+        他是扎扎實實的頂級廚師 這頓我內心價值遠超過1700 而且服務人員態度超好 忘記那位女服務生名字 茶快到一半馬上補滿 \
+        手上拿滿餐具還是停下來耐心回覆問題 即便十位客人各自有要求 他還是忙而不亂 給予的服務自然且沒有壓力 \
+        我從來沒有吃過如此美食 也沒有體會過如此服務 旁邊嘟嘟房停車場用花旗卡還免費停車 這家店從訂到吃飽都不讓我失望 \
+        我必須說 這是一家無論如何 這輩子至少要來吃過一次 絕對 不會 後悔" },
+      { type: "link", content: "https://photos.app.goo.gl/FT3h4973RB7TKXM29", label: "2023年4月23日 \
+        豐富的四月轉眼就過 這個月完成了三件重要大事 長庚大學攝影社風景攝影分享 全國醫學生攝影比賽評審 年滿30歲 \
+        雖這樣除了讀書以外都充實的生活很快樂 但也不禁擔心內專會直接被當 汗 也因為看盡許多老人痛苦多病的下半生 \
+        因此開始轉換價值觀 第一真的很喜歡的東西 為了夢想也不會再拮据 只要能負擔的錢或時間我就砸下去 \
+        第二是認真要求自己持續運動 體能雖然下降很多 但60歲以前都要立志能維持跑十公里的體力 而重訓也每天少量規律的完成 \
+        最多的感受 就是身心靈真的變老了 事情真的要想很多跟很久 但做決定更需要大膽跟明確 而不浪費時間 \
+        對於自己的人生 我認為應該自私 要當這輩子只走一遭 在不害人的前提下好好用自己的方式生活 \
+        大概是這樣 最後是完成每年生日請吃大餐的任務 感謝妳的運動耳機禮物 希望我們都能更好 \
+        啊還有一起打拼的 請我吃飯還送我神奇小貼圖 以前還凱瑞我爬排位 也希望能當個平凡的醫師 有個身體健康 \
+        但能實現攝影夢的人生就足矣 現在走啊趕快趕快" },
+      { type: "link", content: "https://photos.app.goo.gl/CFHKTtukBV719SuZ8", label: "2023年4月23日 哇靠這人是風景攝影誇飾修圖之鬼 好強啊啊啊啊啊啊 把圖點開各處細節完美處理" },
+      { type: "link", content: "https://photos.app.goo.gl/jHd2N8v65KLNKc9Q6", label: "2023年4月23日 \
+        之前上攝影課時我一直說前置的部分 去找到適當的前景是很重要 望古很多攝影人 大家都直接把腳架擺在正中間然後開始等 \
+        不過如果思考一下 會發現這樣的畫面非常單調 自然的光線就已集中在瀑布上方 剛好 前景 反光的石頭表面" },
+      { type: "link", content: "https://photos.app.goo.gl/mMuT9ewYM9DBnX3y9", label: "2022年4月23日 老闆藥師的第二間光點藥局 拓展到台北101旁邊了 好厲害 我是不是選錯科系" },
+      { type: "link", content: "https://photos.app.goo.gl/DCYNtnx8AEDMdnic7", label: "2022年4月23日 因為疫情 醫院人力嚴重不足 值班一大堆 加班但薪水完全沒增加 希望趕快恢復正常" },
+      { type: "link", content: "https://photos.app.goo.gl/AyDNkudscLbFj8hJ7", label: "2022年4月23日 一年兩度只要我們生日就請吃大餐 成就解鎖 希望接下來綿綿無絕期的值班 順利" },
+      { type: "link", content: "https://photos.app.goo.gl/q45ibUWQPvgAVtJz8", label: "2022年4月23日 初樂燒肉 大安店 忠孝復興店 每年只要我們生日就讀吃大餐任務 解鎖 這家居然毫無死角 豬牛雞干貝都好好吃 晚點發食記記錄" },
+      { type: "link", content: "https://photos.app.goo.gl/KjLP58Xi6ZqkT4gs6", label: "2021年4月23日 \
+        30歲前給自己的功課 不要躁進+心思細膩 決定之前好好思考 認清當下沒有人可以給我正確解答 \
+        即便多年後結果是好是壞都已成事實 能做的就是珍惜當下 把心力花在刀口 抱怨已無意義 畢竟當初不可能知道正確答案 \
+        心思細膩或許後天成長有關 但多做紀錄 不論生活 工作或興趣 井然有序的處理事情 安排規劃跟養成紀錄 \
+        能用白紙黑字避免粗心與忘記 最後用可愛的生日卡片跟很飽的一餐做個結束 HBD" },
+      { type: "link", content: "https://photos.app.goo.gl/A5H6UwzJXQc46akdA", label: "2021年4月23日 \
+        正濱漁港 藍色小威尼斯 因為跟路過這裡撿到不錯的作品 所以開心得分享拍夜景的六個訣竅吧XD \
+        藍調時分 基本但主觀 簡單 多數人都喜歡藍調夜景 除了拍攝好抓曝光 地景又不會失去細節 也不會有太多雜訊 \
+        天空也是最美的清澈藍 空氣品質與天氣狀況 簡單/中 可以進入空氣品質監測網 AQI抓70以下為佳 空品好壞也影響修圖難度 \
+        利用氣象局網站或觀天氣 判斷天氣狀況 主要用台灣的色調強化跟真實色排除低雲 因為低雲會影響遠景清楚度及光線 \
+        沒有低雲佳 多重曝光 中 針對廣告看板或玻璃等高光區 可以特別拍一張EV很低的 我用AV模式 使用HDR或疊圖來避免過曝 \
+        製造光線光暈感 難 肉眼看夜景高光區時 常常會覺得搶眼跟透亮 也有一點朦朧的感覺 剛下過雨會比較明顯 \
+        後製多這個步驟能更貼近現實 但不能過度 黃色與橘色 簡單 這兩個顏色在燈光中佔多數 記得明度必須調高 避免濃黃或濃橘 \
+        畢竟亮處就是要表現透亮感 拍攝時機 簡單 日落前至少30分鐘開始拍 從太陽強光 橘光 藍調甚至後面抓到火燒 霞光 \
+        預留時間能完整的紀錄美景 最後掌握上述六點可以與其他夜景作品做出區別囉" },
+      { type: "link", content: "https://photos.app.goo.gl/13sQWUGhjhfV7rtk7", label: "2020年4月23日 已把專業敏感度調到最高 我送出三張轉診單了 辛苦了喵哥" },
+      { type: "link", content: "https://photos.app.goo.gl/ZRD2MXdMGC5VMDXC6", label: "2018年4月23日 幹搭飛機就搭飛機 楊子賢你為什麼要多說一個航字==" },
+      { type: "link", content: "https://photos.app.goo.gl/Uq7PCmXwJ4J8wU3G7", label: "2018年4月23日 \
+        幹 你的人生根本不該開始攝影 知的太多又沒得拍 只有痛苦 這句話如晴天霹靂 重擊了我 的確 真的太中肯 \
+        今天這幾篇限時 是想表達自己心境而已 大學以來 攝影玩的非常深入 無意識定位了自己是攝影師 \
+        然而現實狀況是我跟大多數的各位一樣 有自己的本業 甚至無緣攝影" },
+      { type: "link", content: "https://photos.app.goo.gl/LuWxqDTweWe77W5N6", label: "2018年4月23日 \
+        我從大二開始玩攝影 起初學長教我後製 從圖層遮色片開始學 那時候的照片簡直不能看 \
+        我們當時 對婚紗攝影有極大興趣 視kedaz josanwee cm leung Monfer 鯊魚甚至眾多國外攝影師為偶像 \
+        我們努力拍攝很多朋友 甚至後來成立攝影團隊 幫別人拍照 半夜研究修圖到凌晨不睡 \
+        大三大四我跨足婚禮跟人像拍攝 婚禮也有十幾場的拍攝經驗 最一開始是帶我 我自己也跟著出去當打燈助手跟副攝 \
+        最後自己當主攝 真的很累 平常讀書 有空修圖跟拍照 拍婚禮是得大清早起的 中間常常有便當卻沒時間吃" },
+      { type: "link", content: "https://photos.app.goo.gl/w1Wf7FS93Axq7GrR7", label: "2018年4月23日 \
+        大三大四接觸人像 也看著幾位台灣本土大神的作品長大 像是dannis 陳伸維 琴棚燈光作品 深夜名堂 簡基烟 陳紀東 黑面等等 \
+        太多太多了我舉例不完 也有幾個20幾跟我同歲的 從四五年前不有名直到現在闖出攝影作品一片天 我也花時間去聽他們講座 去上課 \
+        去瀏覽他們的網路教學 這中間我一直有在拍風景 因為風景是最輕鬆 也最能說走就走沒有壓力的主題 風景一路而來看過的大師也很多 \
+        北中南是哪些大前輩的據點我都知道 同樣的也認識好幾個年輕的風景攝影師 後來賣掉幾隻閃燈 最終發現遊遍世界拍風景才是我的最愛" },
+      { type: "link", content: "https://photos.app.goo.gl/Rm7RitiNBiE3UUiL9", label: "2018年4月23日 \
+        這一切真的像是神奇的冒險 我想很少有人跟我一樣笨 課業非常繁重還能玩專業攝影而沒有被當掉過 \
+        一天睡沒幾小時 還有加上大學參加了兩三個其他社團 老實說 我想告訴高中生這樣是不對的 大學玩精通一項技能就好 本業才是最重要 \
+        最後重點是 這樣的生活結束了 無法再瘋狂玩攝影 以後只能有空時偶爾分享 因為有些人問我未來有沒有其他規劃 基本上沒有了 \
+        我固然羨慕很多人能以攝影為職 享受年輕時光的瘋狂拍攝 但我只剩下沒有假日的工作 既不能出國也沒有固定放假 \
+        但為了穩定的收入與經濟能力 夢想只能是白日夢 很多人也應該都是這樣 加油啦 我深入玩六年了 \
+        只能轉換心態才不會一直被後悔的情緒淹沒 也祝福你們都成功 我會期待各位作品啦 僅此紀念學生時期的瘋狂" }
+    ],
+    "24": [
+      { type: "link", content: "https://photos.app.goo.gl/eSDAU6z6b4nZRopb8", label: "2025年4月24日 幸虧黃博士放棄學術 把腦筋用在政治 我們台灣才能有少數清醒的人 看到某政黨的手多麼的髒" },
+      { type: "link", content: "https://photos.app.goo.gl/DrNQY2tLZpua9LxZ7", label: "2025年4月24日 抗血小板藥物整理 之前整理的小筆記 做成簡要的圖表分享一下 歡迎補充更正" },
+      { type: "link", content: "https://photos.app.goo.gl/8AoYZ3BSzxy6UyRC6", label: "2025年4月24日 寧願三天都腿日 也不要一天在醫院值班" },
+      { type: "link", content: "https://photos.app.goo.gl/LXPnHaDKv9t1y4vq9", label: "2025年4月24日 哈哈哈我也是" },
+      { type: "link", content: "https://photos.app.goo.gl/kwZ33qZ1DvAYocxR9", label: "2025年4月24日 超爆融化" },
+      { type: "link", content: "https://photos.app.goo.gl/EtUtUSDJompYqCHz7", label: "2025年4月24日 應該是品種貓 不然家具早爆了" },
+      { type: "link", content: "https://photos.app.goo.gl/7B1uDFyjnMcdFebJA", label: "2025年4月24日 哈哈哈哈哈 笑死XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/DghRcsqMN4jyAcE19", label: "2024年4月24日 日本就連電腦裡面的word檔案 有寫病人資料的 也都全部設定開啟密碼" },
+      { type: "link", content: "https://photos.app.goo.gl/3Z113BX2gGk2u4t37", label: "2023年4月24日 \
+        神作再加一XDDD 真的遇到很多住院住到不省人事的老人 也不知是中風還是感染還是腎變差導致 每個專科會診都有不同見解QQ \
+        最難的問題就是我媽什麼時候會醒 為什麼進來意識變差 為什麼腎功能越來越不好 啊結果再回去翻病歷 病人就是意識變差入院" },
+      { type: "link", content: "https://photos.app.goo.gl/3gYFSZZvGiYp6rJm9", label: "2023年4月24日 神作XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/QHQY1yH5Da6b3j1RA", label: "2022年4月24日 昨天跟一起去象山 最美的藍調剛好遇見他們在拍照 詢問後好心當前景 真的很感謝 太美了 幸好沒被當怪人XD" },
+      { type: "link", content: "https://photos.app.goo.gl/2zAeDEqJVa12KGpJA", label: "2022年4月24日 拍了十年 幸運拍到三對路人情侶 希望以後繼續拍情侶與大景" },
+      { type: "link", content: "https://photos.app.goo.gl/quz1qZmTMoh5S6oeA", label: "2022年4月24日 人配風景 最喜歡這樣拍 象山六巨石" },
+      { type: "link", content: "https://photos.app.goo.gl/pbWYVuJsZaWjLkZM8", label: "2022年4月24日 怎麼那麼漂亮" },
+      { type: "link", content: "https://photos.app.goo.gl/6SjgoiogwbjWtNtu7", label: "2022年4月24日 \
+        昨天吃的燒肉 因為好好吃必須放一下 昨天的燒肉真的好好吃 居然能比茶六好吃太驚訝 \
+        台北大安 初樂燒肉 東區的小小燒肉店 居然全方位無死角 好吃到一舉登上目前心目中第一 一定要推薦給大家 \
+        我們點雙人舞的2480元套餐 加價小捲換干貝 完全值得 第一道日式雞蛋豆腐 濃濃的沙拉卻非常清爽 \
+        之後的牛雞豬 不管五花還是肋排 肉汁十足鹽味爽口 肉質鮮嫩不會難嚼 老闆最後送了隱藏菜單 鉑金牛肉起司捲 也是驚為天人 \
+        還有燒烤冰淇淋也讚不絕口 總之 我敢保證這家雖然不算便宜 但絕對值得來吃" },
+      { type: "link", content: "https://photos.app.goo.gl/mNrkHoZ1467tCYpY6", label: "2022年4月24日 Thank you teacher" },
+      { type: "link", content: "https://photos.app.goo.gl/NA4KcnTV1cH7R9Mo7", label: "2021年4月24日 台北101 86樓頂鮮餐廳 開開眼界" },
+      { type: "link", content: "https://photos.app.goo.gl/oMPaVzC7aTGMRABb9", label: "2021年4月24日 恭喜 新婚快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/wv4Ugmky4B7M8RbA7", label: "2020年4月24日 假設回台北後每個月只去三次健身房 每年去36次 兩年去72次 而每次只去一小時50元 兩年就要花3600 決定了 迪卡儂買起來" },
+      { type: "link", content: "https://photos.app.goo.gl/BoGAt6jwSAU5Xcmi9", label: "2020年4月24日 終於拿到給的生日卡片了" },
+    ],
+    "25": [
+      { type: "link", content: "https://photos.app.goo.gl/uBWWMdasCW35dyJx9", label: "2025年4月25日 台灣腔人性化多了 大陸腔假惺惺 實際上狼性跟猴子一樣 字正腔圓結果人不正不圓" },
+      { type: "link", content: "https://photos.app.goo.gl/grznwCqaV3eVWYc77", label: "2025年4月25日 那些說工程師多累的 來當第一線醫護試試看 第一線醫護壓力遠大於工程師 卻連工程師的零頭薪水都領不到" },
+      { type: "link", content: "https://photos.app.goo.gl/HKFLy78x4n7meTWZ7", label: "2025年4月25日 \
+        雖然很同情你 但也順便讓你知道 台灣的醫療體系 的職員都是很可悲的 上從主治醫師 住院醫師 護理師 醫檢師等等 \
+        到甚至是你這樣的優秀小編 全部都是低薪 這就是健保可恨的地方 政府利用健保來營造虛有其表的美好 實際上不斷砍價 限制自費 \
+        甚至踢退讓醫師賠錢 結果讓醫師護理師等領不到他們應有的薪水 所以小編你這種低薪 雖然不合理 但只能說不意外 \
+        因為你正在一個會 虧錢甚至賠錢 的地方上班 希望小編有影響力之後 能夠靠這個力量大肆宣傳這些噁心齷齪的健保體制帶來的嚴重後果 \
+        現在是苛扣醫護人員到醫院上班的所有職類的薪水 漸漸的就流失人才跟人力 最後傷害到台灣需要醫療資源的我們所有人 \
+        現在的政府完全就把第一線醫療人員當免洗筷跟白癡哄騙 而我們能做的只有大聲疾呼 讓更多人知道政府建立的這種卑鄙無恥的醫療體制" },
+      { type: "link", content: "https://photos.app.goo.gl/Qrsh8WsMkZWsyvSg8", label: "2025年4月25日 從醫師國考到內專都出現的題目 孕婦不能使用acei arb 診所醫師開micardis给孕婦" },
+      { type: "link", content: "https://photos.app.goo.gl/zba1HzCPDvj6gHRQ9", label: "2025年4月25日 \
+        最近爆料公社跟thread上一堆不理性的家屬 得不到期待的醫療結果 就大肆投訴跟抹黑第一線的醫生 \
+        認真要截圖這兩個月我至少看到十篇 內容不只急診 心內 婦產 醫美 骨科等通通都有 \
+        現在真的誰優誰第一線去救人 有能力當醫生 不如去當工程師 相比差不多辛苦 但起碼還不會被告" },
+      { type: "link", content: "https://photos.app.goo.gl/Uz94AATrj2ZN8kNE9", label: "2025年4月25日 內科這樣很好ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/s7AbsUNR3xpqAEoWA", label: "2025年4月25日 水汪汪大眼超爆可愛捏" },
+      { type: "link", content: "https://photos.app.goo.gl/7c6EkX9WqFpBYk3j7", label: "2025年4月25日 抗血小板藥物整理 之前整理的小筆記 做成簡要的圖表分享一下 歡迎補充更正 感謝同學建議 更加完善的修正" },
+      { type: "link", content: "https://photos.app.goo.gl/68j1FZG2WvniCs3Q7", label: "2025年4月25日 他是液態的欸" },
+      { type: "link", content: "https://photos.app.goo.gl/LZmm6MjtbBDhMzaf6", label: "2024年4月25日 誤會了吧 跟醫生有啥關係 多數醫生工作一輩子都沒那個錢買勞力士 只有富二代 建商跟某些撈油水的政治人物能把勞力士當逛街買好嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/ozwSFo2sPKZ9ZEZPA", label: "2024年4月25日 你在跳針什麼東西啊 我留言說醫生沒賺那麼多 政治人物賺比較多 你貼一個政治人物都有珠寶什麼的圖片不就在證明我說的嗎 莫名其妙的人XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/WkAvy4WFiquhVRF98", label: "2024年4月25日 \
+        我意思是買得起但覺得貴 所以不敢買 不像政治人物那麼有錢說買就買 硬要用你自己的想法解釋我的話還這麼囂張 \
+        只為了捍衛綠色台灣價值哦 滾一邊吧我不會再浪費時間回你XDD 蝦逼逼 原來是小粉紅 滾回對岸啦" },
+      { type: "link", content: "https://photos.app.goo.gl/EYGKoF4uyJw1acYKA", label: "2024年4月25日 實際上手戴勞力士的醫生大概十個不到一個 真是一堆活在網路上的人zzzz 跟你們爭論有夠可悲 走進基層醫院診所看一看好嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/D9XNmb3CxMkvdbZY9", label: "2024年4月25日 但他表情看起來很不爽哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/1H4idrVdSNw9e6p57", label: "2024年4月25日 有夠誇張" },
+      { type: "link", content: "https://photos.app.goo.gl/jMmC1sF3daWCnZGJ8", label: "2024年4月25日 整個晚上沒讀內專 研究心超這個看不懂的東西" },
+      { type: "link", content: "https://photos.app.goo.gl/y8Mm3zkFoBCEKjuQ7", label: "2023年4月25日 雖然每天都睡不飽 雖然每個月都有值不完的班 雖然每天上班都有無限多事 但有這樣的早餐就夠了QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/rSfB2W4bD59q2c6W6", label: "2022年4月25日 漸漸看此月中和 過後須防未得高 改變顏色前途去 凡事必定現重勞 2022風景桌曆開賣" },
+      { type: "link", content: "https://photos.app.goo.gl/PR7rbj2c2qCM79ZM7", label: "2022年4月25日 R1吳展旭 溫耀彰互篩 陽性 剛剛邊講電話邊打 抱歉打錯了" },
+      { type: "link", content: "https://photos.app.goo.gl/8ik7v3KvC9eXBBWM7", label: "2022年4月25日 大盤跌的時候我都沒有發文 為什麼呢 因為跌的時候 就是默默吃啊 尤其這種時候買大盤最棒了 0900掛單 一路忙到現在才有辦法吃飯喝水" },
+      { type: "link", content: "https://photos.app.goo.gl/fU8E3MfwdL5tfgsm9", label: "2022年4月25日 爆忙一天 爆桶一發 幸好陰性 隔離假期也飛了" },
+      { type: "link", content: "https://photos.app.goo.gl/byqNAvukUfWMd5RE7", label: "2022年4月25日 也太美了吧" },
+      { type: "link", content: "https://photos.app.goo.gl/PK6z3yKdSCyiBcP86", label: "2021年4月25日 \
+        玻璃的反光該如何減少呢 請點入內分享吧 南山微風 雙胞胎 托好日子婚宴的福氣 拍到另一種台北的樣貌 由於是日景的關係 後製上沒有太多的功夫 \
+        一樣著重在光影產生的立體感 還有調整成類似日系動畫的色調 不過拍攝時透過玻璃 會有反射光 這個問題我會用幾種方式克服 \
+        後製的時候 污點移除或圖章功能 可以讓小範圍的反光消失 但反光若是一大片就會效果不佳 前置的時候才是關鍵 有兩種方式 \
+        簡單的利用待在身上的外套 尤其深黑色佳 拍攝時罩在鏡頭周圍 之前看過網路在賣一種很像通馬桶的前端 那個黑黑的圓罩 \
+        可以圈在鏡頭前面 讓反光不會跑進去 另外很多大樓是禁止大腳架入內 所以夜景就更困難 這時候也會帶八爪魚腳架 \
+        不過這些方式都是儘量避免反光而已 透過玻璃拍很難完美 我不是很多經驗 還有什麼方法也歡迎留言提供喔XD 沒有這個選項啦" },
+      { type: "link", content: "https://photos.app.goo.gl/kkEY5Pb1yVSm4DoH8", label: "2021年4月25日 \
+        first time完整煮一餐 毫無賣相 原本只是看黑心居酒屋的焗烤茄子番茄那集 想說番茄很好對付不如來弄個 \
+        就選新手等級的番茄炒蛋 然後順手把想煮的都煮一輪 搞了一小時 結果五分鐘就扒光了 自己煮CP值不高啊XD \
+        紀錄一下 番茄炒蛋 看不懂啥是芡汁所以沒加 水可以加少一點 香腸 憑感覺先下蒜頭 原本想煮五分熟再起鍋切 因為懶惰作罷直接先切片 \
+        醬油可以少一點 高麗菜 憑感覺 鹽可以再少 干貝 唯一問題是常常外面都要焦了 裡面還沒全熟 被迫破壞形狀切開他 \
+        有什麼方式可以讓裡面一起熟 小火嗎 飯 輕鬆der但半杯有點太少 大概是這樣 自己弄吃起來特別餓XD 銘謝拯救買番茄醬差點變成酸辣醬 專業救援" },
+      { type: "link", content: "https://photos.app.goo.gl/eGfBSfaaJe4JEpmc7", label: "2021年4月25日 幫選的顏色 超美 liakuleataiwan" },
+      { type: "link", content: "https://photos.app.goo.gl/uk4gxd1CZBCsmCtj9", label: "2021年4月25日 關於為何SGLT2inb對於心臟有益 這裡稍微解釋了機轉" },
+      { type: "link", content: "https://photos.app.goo.gl/A6yDq7kpdv8LNbsm9", label: "2019年4月25日 \
+        最近面試辛苦了 讓我深深體會外面大學畢業前的壓力與惶恐 但一切都是過程 都會過去 \
+        從壓力中成長 一定會找到對的人生道路 等下面試也加油 旗開得勝" },
+      { type: "link", content: "https://photos.app.goo.gl/M6mjUxNvL9MAFGJn6", label: "2019年4月25日 考上醫學系後才是地獄考驗的開始 高中生都不知道" },
+      { type: "link", content: "https://photos.app.goo.gl/kHc9F4WXzCAuAqrG8", label: "2019年4月25日 學長好 不好意思打擾學長 請問學長知道左營下部隊時 有醫院兼職的管道嗎 對 學長我會去左營戰鬥支援大隊" },
+      { type: "link", content: "https://photos.app.goo.gl/Ss6qJXKocnfkUoxk6", label: "2019年4月25日 有人要我送她500顆金莎 可是我上次送她六顆而已 過了三個月還吃不完 我還吃了一顆 結果我猜她一定還放在書桌 果不其然 真的越來越了解" }
+    ],
+    "26": [
+      { type: "link", content: "https://photos.app.goo.gl/rujGkXq2jPwLzjpZ7", label: "2025年4月26日 你不是也先舔共再反共嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/rAnYWTrVVDk64yg17", label: "2025年4月26日 只聽到醫師考上律師 沒聽過律師再考上醫師" },
+      { type: "link", content: "https://photos.app.goo.gl/jnH2b9vMj517RXWJ6", label: "2025年4月26日 下載thread之前能不能設個智力測驗啊" },
+      { type: "link", content: "https://photos.app.goo.gl/TC2NpvFLGed6JRUi8", label: "2025年4月26日 到底米糕多難吃" },
+      { type: "link", content: "https://photos.app.goo.gl/mvyt4YqrM6c6tDrRA", label: "2025年4月26日 不只護理師 這家醫院醫師也是一樣狀況" },
+      { type: "link", content: "https://photos.app.goo.gl/WGMxV358SAFBjt6m7", label: "2025年4月26日 他們缺少醫官" },
+      { type: "link", content: "https://photos.app.goo.gl/6wRX62KtAtYYZo4Y7", label: "2025年4月26日 被大師發現" },
+      { type: "link", content: "https://photos.app.goo.gl/kcYGNuV27rqyupPt5", label: "2025年4月26日 地下街不一定比較便宜 同樣的公仔常常蝦皮買便宜快3-4成" },
+      { type: "link", content: "https://photos.app.goo.gl/gbnTmaLoEogNfVZN7", label: "2025年4月26日 會不會原本影片 ai的人才不會一直笑哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/vdR4qwcboRgF2a3y9", label: "2025年4月26日 現在可以運動的時間好少喔" },
+      { type: "link", content: "https://photos.app.goo.gl/2967UUZPFmLiVuQAA", label: "2024年4月26日 好" },
+      { type: "link", content: "https://photos.app.goo.gl/cKKDuAnY3QLJsksj7", label: "2024年4月26日 過來人直接告訴你 自要去 公要去 只有軍費千萬不要犯賤去" },
+      { type: "link", content: "https://photos.app.goo.gl/hvpBwvmKgLSUH91J6", label: "2024年4月26日 所以趙素隨" },
+      { type: "link", content: "https://photos.app.goo.gl/tVcHd3zw7ANXbWQPA", label: "2024年4月26日 腦子離家出走就應該趕快報案協尋哦" },
+      { type: "link", content: "https://photos.app.goo.gl/T8x3UjY8mwwT61ZS8", label: "2024年4月26日 這什麼時候的" },
+      { type: "link", content: "https://photos.app.goo.gl/a2srxiYiWyi7dBa4A", label: "2023年4月26日 \
+        恭喜這次獲獎的同學 多年前參加過這個比賽 也得過一點獎 這次能參與評審團隊實在榮幸 \
+        雖然全國醫學生還是非常小一個團體 但攝影這件事仍能被傳承各大校舉辦真的很難得 \
+        這屆系學會也非常用心準備 我們也非常努力的評審 因為看到幾位同學認真的作品 實在各有優點無法分出高下 \
+        因此我提出應有同名次的選擇 感謝其他評審也同意 這次我也有看到國防醫活動中心的時鐘塔出現 不過真的很可惜 \
+        希望學弟妹再加油明年繼續投稿XD 全國醫學生聯合攝影大賽 希望繼續鼓勵對攝影有興趣的醫學生 在醫學之路上多一份對自己人生的熱情" },
+      { type: "link", content: "https://photos.app.goo.gl/Hc6MwejPRKfPqAUw5", label: "2023年4月26日 \
+        目前最接近我人生觀 沒想到居然有人真的出成書 其實人生就是許多回憶拼湊的旅程 也不用期待來世 \
+        對現在的你來說這就是唯一的一輩子 沒有享受到的直到宇宙消滅你都享受不到 而你工作跟失去自由的時間 則是無意義的回憶 \
+        只有痛苦 這個痛快必須能換成等價金錢讓你未來能體驗更美好的回憶才值得 否則你只是生下來白白受苦 \
+        每個人價值觀都不同 但真的不要浪費唯一的這輩子 像我就不接受錯過風景 自然 文化 旅行的快感 什麼名聲地位真的沒有任何快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/ADE7M28mkrVf54LM6", label: "2022年4月26日 \
+        病人因為高血壓用四種降壓藥物控制不佳會診cv 回覆titrate diuretic 請問titrate是上調的意思嗎 \
+        我記得這是滴定或下降的意思 臨床用法不同嗎 認真問的OAO" },
+      { type: "link", content: "https://photos.app.goo.gl/UtXmqoXZo7qgGDAD6", label: "2021年4月26日 \
+        價格 1800 網路4100 原因 去年為了拍照購入 拍過一次 沒有使用 也沒裝過東西 是全新狀態保存良好 \
+        無瑕疵 裝袋於通風衣櫥裡 只是購買盒子已丟掉 品牌 瑞典斯德哥爾摩正版 可以參考ig或官網 網路購買連結可參考" },
+      { type: "link", content: "https://photos.app.goo.gl/ZdGRj1FUwWjUbDj18", label: "2019年4月26日 附近隨便買個袋子 去急診室要冰塊 就解決了 松山我都這樣" },
+      { type: "link", content: "https://photos.app.goo.gl/WtuSPhmR9BoQUzYD9", label: "2018年4月26日 問天問大地" }
+    ],
     "27": [
+      { type: "link", content: "https://photos.app.goo.gl/yyg14AkVjjpuMXdt7", label: "2025年4月27日 泰國這種chill的超多 也還不錯 但我這次找的五星級是夜景真的很頂很好拍的" },
+      { type: "link", content: "https://photos.app.goo.gl/VN5S8PHFfeF8SMhN6", label: "2025年4月27日 這個我也會" },
+      { type: "link", content: "https://photos.app.goo.gl/x1tMviM5grZu5itT7", label: "2025年4月27日 拍拍QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/tgGiYyoyKtARG8uH9", label: "2024年4月27日 \
+        之前覺得mr thank you很扯整天發錢送人 後來查資料才知道他們鈔票全部都同號 全部都是假鈔 連出現的路人都被發現會定期重複 \
+        說穿了就是吵流量 然后現在又出現一個mr goodluck 拍攝手法地點完全一樣 但他們這樣騙流量確實很有效 我還是比較信每天把50塊藏在世界某個角落哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/RhUg1qpjq9YSYiQx5", label: "2024年4月27日 Good morning" },
+      { type: "link", content: "https://photos.app.goo.gl/LiLW9MUbWXXCYjfq5", label: "2022年4月27日 有想買股票的人 今天是大好機會 怕的話買大盤零股準沒錯 跌1-2%以上+股價比自己成本低1-2%以上都應該進場 跌1%內或漲就認真上班不用管股票" },
+      { type: "link", content: "https://photos.app.goo.gl/UmBJ8Dctx6h3u2sd6", label: "2022年4月27日 \
+        小弟yy請不要太苛責 NG這個位置應該是對的因為看起來沒在左側tracheal裏 但ng應該在胃部 \
+        胃部應該在橫隔膜底下 但這張CXR的NG後面怎麼看得到心臟 這樣感覺是橫隔膜以上" },
+      { type: "link", content: "https://photos.app.goo.gl/HANAnaPN8YYAAiXr8", label: "2022年4月27日 \
+        臨床紀錄 藥物 Ceftazidime+Avibactam Zavicefta INJ 42歲男性 自述年輕生活糜爛 跑夜店跑到全身病 \
+        COPD 3VD CAD PAH T2DM DCM OSA 反覆呼吸道感染入院 本次診斷支氣管擴張症合併次發感染 \
+        之前痰固定長抗ceftazidime的PsA 也抗三種以上抗生素 即MDR-PsA 但用Zavicefta 0.94gm QD七天獲得有效控制 第四張為他的副作用參考" },
+      { type: "link", content: "https://photos.app.goo.gl/s3hSgvt1e9KizjfA9", label: "2022年4月27日 \
+        長期擺suprapubic跟PCN反覆UTI的臥床病人 urine culture有時長mix flora 有時長pseudo+ ecoli \
+        但驗出時不一定有發燒 這樣pseudo+ecoli到底算不算是他的colorization?" },
+      { type: "link", content: "https://photos.app.goo.gl/HV9EAcMfe31M37m66", label: "2021年4月27日 \
+        雖然每次報告都做到頭痛 覺得這是最後一次了 要查一堆文獻又怕自己講錯或誤解 會誤導別人會被嘲笑 \
+        但做完打通許多以前沒讀書的阻塞 又覺得開心 這個累人的循環應該會持續到七月結束吧我希望" },
+      { type: "link", content: "https://photos.app.goo.gl/hoJ1yWBqA7tXNfZd9", label: "2021年4月27日 如果我有錢有時間 真的好想學習空拍 創作更多作品" },
+      { type: "link", content: "https://photos.app.goo.gl/tdk1NA95j2Dp4cEy9", label: "2021年4月27日 \
+        Addiction成癮 VS Dependence 依賴 \
+        Addiction是指腦中犒賞系統失衡 明知某種物質或行為不能使用 但仍然無法控制的使用 有Addiction病人 不一定會有dependence \
+        比方說 對某物質成癮 無法控制的使用 但因為被迫中止沒有withdraw 所以不是依賴 如果有withdraw 才是合併依賴 \
+        Dependence是指不使用某種物質後 會產生withdraw syn 有Dependence病人 不一定會有addiction \
+        比方說 對某物質依賴是為了治療某病 當治好了不使用 病人本身不會想再用但卻發生withdraw 那麼就不成癮 \
+        如果停用之後會無法控制的想再用 而且也有withdraw 就是依賴合併成癮" },
+      { type: "link", content: "https://photos.app.goo.gl/Wy6an3zwi48mmGA29", label: "2021年4月27日 維持運動 前3000公尺維持11:41 後面3000就慢慢跑完 總共6.3公里 回醫院體力下滑 但要要督促自己有氧&無氧運動" },
+      { type: "link", content: "https://photos.app.goo.gl/8cYeLeSA6U9tUeUm7", label: "2020年4月27日 我是海軍我驕傲" },
+      { type: "link", content: "https://photos.app.goo.gl/ZSdW6ACzt8eeUnRv7", label: "2020年4月27日 謝謝歐陽巨巨" },
+      { type: "link", content: "https://photos.app.goo.gl/XcagrSFrQR6cLgXo7", label: "2018年4月27日 \
+        說起來這位阿嬤很有趣 不是照片中短褲子的阿嬤 是我照顧的病人 他是泰雅族阿嬤從羅東醫院送來三總給我們照顧肚子傷口 \
+        從原本每天三次無菌換藥到現在一次換藥 傷口乾淨今天要出院了 有趣的是他可能是我實習生涯最後一位比較熟的病人 \
+        每次換藥都會多學幾句泰雅族語 包括謝謝你好這些基本的 他們說完謝謝之後不會說不客氣之類的 跟漢人不同 \
+        出院前 我跟他兒子交換賴 剛好發現兒子 40多歲吧 也玩攝影十多年了 他說之後來羅東請我吃山豬山羌帶我打野豬 \
+        一如往常結束了例行事務 事實上這兩年實習生涯 自己並沒有那麼適合當醫生 或者說在國防體系當醫生 \
+        因為我真的不能接受生命只剩下職業 這樣人生白來了 我對自己的人生有太多想法跟規劃 我想取得工作與生活的平衡 \
+        包含未來照顧自己的家庭跟維持攝影興趣 攝影並不是玩樂 而是另一種使命感 我覺得除了工作賺錢 我想要環遊世界 \
+        不需要shopping不需要任何觀光 而是歷經一切辛苦把世界美景拍回來分享 這是我的熱情所在 也是我對自己生命的高度要求 \
+        可惜這個體制會把青春壓搾的乾乾淨淨 即便有時恨透了卻也離不開 但我轉換個心態 何嘗不把握這樣的工作 \
+        忍一時為自己未來鋪路 畢竟沒有經濟基礎就沒有安逸的中年生活啊 雖然一時感覺自己被現實打敗 \
+        卻也意識到這是活在現實中必須奮鬥的過程 致青春 也致兩年不怎麼smart的自己 這些經驗希望化成未來的能量 繼續努力 \
+        婕涵越拍越好 照片借我用用 穿白袍忘記帶長褲" },
       { type: "link", content: "https://photos.app.goo.gl/Unh7iMNnx6DAU5Gz8", label: "2017年4月27日 國防醫學院體育館 popping practice" }
     ],
     "28": [
+      { type: "link", content: "https://photos.app.goo.gl/v1SHxcHuBraNXE5PA", label: "2024年4月28日 \
+        笑死 賺更多是政府的功勞嗎 繳更多稅政府有做事嗎?你公民是不及格嗎 不知道政府是人民的僕人應該是領稅做事嗎 \
+        所以現在我們才是政府的僕人 辛苦工作繳一堆稅 然后繼續看政府搞笑亂花錢" },
+      { type: "link", content: "https://photos.app.goo.gl/jqBSa3otD9wRfbX56", label: "2024年4月28日 \
+        需要具體建議告訴你什麼行業賺比醫師多嗎 來 工程師 好像某一類會寫code特別多 開業藥師 \
+        合資當老闆開藥局的月收都可能超過20萬 就算沒有也比醫師輕鬆 牙醫 自行接案的律師 跟醫師一樣操的話可以比醫師多 \
+        網紅 但粉絲至少破十萬 百萬粉絲就絕對比醫師好賺 業務 例如賣車賣保險 業績前幾名的都比醫師賺更多 \
+        這幾年的長榮員工 創業後成功存活的老闆 還有很多" },
+      { type: "link", content: "https://photos.app.goo.gl/s4XXoGoY9yXbuJMX9", label: "2024年4月28日 Fucking lie" },
+      { type: "link", content: "https://photos.app.goo.gl/JLYFR6hA4Wttat996", label: "2024年4月28日 遇到這種人 只能用好來代替ㄍㄋㄋ 加油" },
+      { type: "link", content: "https://photos.app.goo.gl/BYJhYgBYoUE5XjM78", label: "2024年4月28日 我才要跟能在內科成功存活又同時能練成大肌肌的學長看齊" },
+      { type: "link", content: "https://photos.app.goo.gl/aA3bsAb4ZbH9US3k7", label: "2024年4月28日 \
+        中國醫藥大學附設醫院 感謝的邀請擔任本年醫學生聯合會評審 今天一樣用極度專注的精神跟態度 好好評比每位醫學生的作品 \
+        也花了很多時間留下評語 希望你們不要介意 對於前幾名的決定 我們也是一再討論跟投票 希望能選出用心的好作品 鼓勵醫學生 \
+        當然也超開心認識活潑的後中醫學生跟其他厲害的評審老師囉" },
+      { type: "link", content: "https://photos.app.goo.gl/w2jX28Gbu8emEs4m6", label: "2024年4月28日 中國醫一日遊" },
+      { type: "link", content: "https://photos.app.goo.gl/HtvTTqVQikE1saYX8", label: "2024年4月28日 ZF就是香 但暫時沒錢買 買了也沒時間拍" },
+      { type: "link", content: "https://photos.app.goo.gl/6uFmQYWuLhKsrtBT8", label: "2024年4月28日 健身當然要聽有證據有專業的意見 推台中感染科吳醫師 專業意見" },
+      { type: "link", content: "https://photos.app.goo.gl/AJdiHhU6g49U6LKw9", label: "2024年4月28日 評審日 又可以來看各校學弟妹的優秀作品了 中國醫藥大學 立夫教學大樓" },
+      { type: "link", content: "https://photos.app.goo.gl/Bh5TvSWF4JerVEAg6", label: "2024年4月28日 感謝分享" },
+      { type: "link", content: "https://photos.app.goo.gl/vV4P9AawkvwvidbKA", label: "2024年4月28日 推 自費沒其他選擇就必須去 只有軍費的話建議重考再試試XD" },
+      { type: "link", content: "https://photos.app.goo.gl/u6QYcTo7wEwMhA129", label: "2024年4月28日 好像義大利麵" },
+      { type: "link", content: "https://photos.app.goo.gl/btNSGj1CwDWwbzpM9", label: "2024年4月28日 咦OSCE考試pun gas是用橈動脈嗎 這也太難了吧 變成on a line了 同學提醒我正確的答案確實是橈動脈 完了我過不了了" },
+      { type: "link", content: "https://photos.app.goo.gl/59HdWRxugqFgQjCy9", label: "2024年4月28日 肝癌末期真的沒辦法 連換肝都沒辦法" },
+      { type: "link", content: "https://photos.app.goo.gl/8LstLCU4Hq1J5CLa8", label: "2023年4月28日 \
+        我一開始以為他很笨 結果我認真聽完發現笨的是我 直接跟大家講兩個重點 \
+        以前我會以為核對打來的電話是真正的客服即可 結果他們現在會把886套用到台灣各大銀行的電話號碼前 \
+        因此你查號碼會是對的 但其實是國外打來的 主動要你輸入任何資料都不從 絕對等到隔天自己親自打電話去客服確認才行 以上兩點分享" },
+      { type: "link", content: "https://photos.app.goo.gl/M3YD2dD5EuvcKrM7A", label: "2023年4月28日 \
+        望古瀑布螢光之舞 醫涯分享No.10 這一年的值班都在加護病房裡度過 此起彼落的儀器呼叫聲 都來得比床上的患者更有力 \
+        一方面心生憐憫 感受到疾病與醫療端拉扯的辛苦 一方面回頭檢視自己 是不是終有一天都是必須親自面對的課題 \
+        於是 及時行樂 這一詞又再腦中浮起 看著病患承受著痛苦 是不是他們也有內心遺憾未完的心願 \
+        最近一本書Die with Zero跟我的人生觀很接近 死去時盡量不遺留任何財產 人生就是一連串不同的體驗組成的回憶 \
+        社會多數人都是被工作等不自由給綁架 但如果只是失去自由的回憶 而沒有獲得相對的感受 那這唯一的一輩子錯過的 \
+        即便到宇宙滅亡都不可能期待再有下輩子來體會 因此好好把握這輩子 把賺到的錢好好用在自己身上 為自己創造生命的回憶 \
+        去看這世界的宏大跟多采多姿 這或許才是上天給我們這條生命 在最後躺上病榻前的功課 繼續努力撐下去" },
+      { type: "link", content: "https://photos.app.goo.gl/MbH3kkWFUmc9Mzmo6", label: "2022年4月28日 哇 我居然找到地球上內科聖經 Harrison的錯字了XDDDD 沒想到他也會有錯字 還是其實很常見" },
+      { type: "link", content: "https://photos.app.goo.gl/YPMv9qcv4vNgXNZ49", label: "2022年4月28日 \
+        原來這裡拍起來很好看 台北 六巨石與101 生活分享No.16 \
+        N年前北上讀書之後就來過象山無數次 但從來沒有特別在六巨石拍照 這次當我model終於完成夢想的照片 好感動  \
+        之前來象山的回憶都只有滿滿的追夕陽 去年為了兼顧運動與拍照 背著相機 從登山口跑到超然亭 花費11分23秒 \
+        下山都腿軟了 有人也會做這種事嗎XD" },
+      { type: "link", content: "https://photos.app.goo.gl/eXHuvGLWccd3eUaa9", label: "2021年4月28日 誰再跟我說深山裡面開手電筒創作會造成星空的光害我就 換更小的手電筒拍" },
+      { type: "link", content: "https://photos.app.goo.gl/11w7Tj1RX5HPQ3Et6", label: "2021年4月28日 沒有拍照的時候 就維持運動 因為上班很傷身 所以運動跟不菸不酒不檳榔 很重要" },
+      { type: "link", content: "https://photos.app.goo.gl/axWANYHnnMaDxJmv5", label: "2021年4月28日 \
+        瑞典GASTON LUGA Praper個性後背包 經典黑 全新 價格 2200 網路4100 狀態 無使用過 全新狀態保存良好 也無瑕疵 \
+        裝袋於通風衣櫥裡 只是購買盒子已丟掉 品牌 瑞典斯德哥爾摩正版 可以參考官網 上滑觀看" },
+      { type: "link", content: "https://photos.app.goo.gl/UXkFk36xSNVM9XBz5", label: "2018年4月28日 \
+        完全完全我的夢想 沒有去外面走走 真的不會知道醫生生涯也能有如此規劃 \
+        若中年後能實現 再苦都甘之如飴 keep on going 回頭望川 當醫生也希望當個人而不是機器" },
+      { type: "link", content: "https://photos.app.goo.gl/9V9X2QKweEfgJvSk9", label: "2018年4月28日 是軍費嗎 是的話就還是做最壞打算吧 加油加油QQ " },
+      { type: "link", content: "https://photos.app.goo.gl/KGquvtjoienEtVGg9", label: "2018年4月28日 天啊 我也是醫生 醫生診斷能過這樣的生活嗎 這完全我的夢想啊" },
       { type: "link", content: "https://photos.app.goo.gl/gPtSfoWko1S5LAe37", label: "2017年4月28日 我GS少兩個人力" }
     ],
-    "29": [],
-    "30": []
+    "29": [
+      { type: "link", content: "https://photos.app.goo.gl/ciumkcEEBcmL6MVBA", label: "2025年4月29日 我相信是真的 只是台灣現在還在內亂 要團結才能抵制這個政權" },
+      { type: "link", content: "https://photos.app.goo.gl/TsUGjApBBkHFqB49A", label: "2025年4月29日 好漂亮 我們走" },
+      { type: "link", content: "https://photos.app.goo.gl/od36NRXSFhyuYkrcA", label: "2025年4月29日 真聰明" },
+      { type: "link", content: "https://photos.app.goo.gl/65q9nkoyycMBEeaQ9", label: "2025年4月29日 我們家也需要" },
+      { type: "link", content: "https://photos.app.goo.gl/C9fmaSFGcdVM4wrw5", label: "2025年4月29日 哇這隻超想養 以後一定還有機會" },
+      { type: "link", content: "https://photos.app.goo.gl/goMzthfdi7c5dQz66", label: "2025年4月29日 真可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/se1s63V3TEHwLRSE8", label: "2024年4月29日 先買100坪的房子比較好玩XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/27MERvLMM4ppsNT58", label: "2022年4月29日 今天主治醫生請我收化療前病人24小時ccr 請問urine點單部分只需要urine creatinine對嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/KZjWJBDLaVFbdMNf6", label: "2021年4月29日 \
+        2014我去義大利一個月當時剛學拍照 帶著5D3+24-70+tokina 11-16到處拍 最後回國硬碟壞掉 \
+        佛羅倫斯 羅馬競技場 天空之城 威尼斯等通通都沒了 備份很重要啊各位" },
+      { type: "link", content: "https://photos.app.goo.gl/4Po2UxeQNy8TTDRj9", label: "2021年4月29日 大湖公園環湖步道 剛剛準備去買菜 结果跟我說台北有火燒雲 就撿到了 這是少見的低雲燒欸" },
+      { type: "link", content: "https://photos.app.goo.gl/wPNzvBPVZunDLovu7", label: "2021年4月29日 \
+        大湖公園 低雲火燒 9年前來內湖讀書後 總共只拍了三次火燒雲形狀漂亮又空氣品質好的大湖公園 一次日出 兩次日落 \
+        而且這次是難得雨後低雲燒 也出乎意料 趙婕涵看到台北天空很美跟我說 才趕上拍攝 跟以前相比 現在多了生態浮島 \
+        雖然倒影沒辦法完整 但能讓水鳥棲息 又能當前景 做得好啊XD ps捷運站好像有我的大湖作品 謝謝大家貼給我 \
+        有看到的都可私訊我 我會好好收藏>< 這是20150822颱風剛過的大湖火燒日落 這是20151122大湖火燒日出 包含今日拍攝總共只有三次 一直看我拍照 長曝都不會動的水島" },
+      { type: "link", content: "https://photos.app.goo.gl/jJP1rjWQsy5ugYWB7", label: "2021年4月29日 每週一跑 禮拜二晚上報告完拖著疲億2200去跑" },
+      { type: "link", content: "https://photos.app.goo.gl/8yH3HadfnRZJWP4E7", label: "2020年4月29日 柴山夕陽海灘 從海上漂泊到海邊 還有三個月 但我會懷念這裡的海味一輩子" },
+      { type: "link", content: "https://photos.app.goo.gl/AXyjNuaJS1inVVKX8", label: "2019年4月29日 \
+        下部隊後 從自我中心走了出來 見證自己的無力與無知 真的真的 心境改變了很多 成長了很多 \
+        也得到太多人的幫助跟包容 雖然內心還是不怎麼踏實 但我會用對的態度繼續努力" },
+      { type: "link", content: "https://photos.app.goo.gl/iizVmSjJee7R6jHd9", label: "2019年4月29日 \
+        台南漁光島月牙灣 畢業後開始關心時事新聞 最近也看完了3年a組 真的有感 \
+        有智慧的人 不會去臆測與談論自己不懂的人事物 對於你所不了解的 憑什麼下定論呢 \
+        而出於無知的猜測與批評 也造成無法抹滅的傷口 所以多思考 先緩緩 再把話講出來吧" },
+      { type: "link", content: "https://photos.app.goo.gl/wfYdZAtAPvPQCuwu6", label: "2018年4月29日 真男人94這樣啦 平常早就準備好 考前自然不擔心" },
+      { type: "link", content: "https://photos.app.goo.gl/1csFjCs9vxAXNqfs9", label: "2018年4月29日 \
+        Q&A時間 也有很多人問我這樣的問題 其實我沒有特別調整色調 也自認不是重視版面的人 因為每張作品都有他應該獨特的表現 \
+        總之重點就是 多嘗試多學習 最後變成穩定的特色 初學不建議用風格檔統一版面 也不必刻意買或載 \
+        因為那不是你真正的東西 頂多先套用之後自己調整 練到不套用也能自己調整 再練到拍攝之前就預設作品出圖的結果 見聞色XD" }
+    ],
+    "30": [
+      { type: "link", content: "https://photos.app.goo.gl/7MrvMThQCoGVpFND6", label: "2025年4月30日 你怎麼不說醫師被告賠的錢也很驚人 只看你自己想帶風向的呵呵 況且能力越高就應該值越高價格 你自己有小孩出1萬塊說不定醫師都不想來" },
+      { type: "link", content: "https://photos.app.goo.gl/piPW1Tydy5WWeCPg8", label: "2025年4月30日 難怪比起老師 你更適合當諧星" },
+      { type: "link", content: "https://photos.app.goo.gl/D1sEJNVNvtRDa8M17", label: "2025年4月30日 呵呵 台灣人自求多福吧 選出這種政府活該死好" },
+      { type: "link", content: "https://photos.app.goo.gl/fkpc9R8SYoeyYWKk8", label: "2025年4月30日 車子裡面會不會很多隻" },
+      { type: "link", content: "https://photos.app.goo.gl/fJ6J5GHN7B8Z5abb7", label: "2025年4月30日 給她有什麼用" },
+      { type: "link", content: "https://photos.app.goo.gl/2DagF9WwVaeFLs356", label: "2025年4月30日 那種雜貨店都有超可愛貓貓" },
+      { type: "link", content: "https://photos.app.goo.gl/2pF6dUSzVfRDDRa16", label: "2025年4月30日 不行啊只有我能愛" },
+      { type: "link", content: "https://photos.app.goo.gl/W2LfuPxmXgZU9P2aA", label: "2024年4月30日 \
+        2024年的一些碎片 今年四月的結束 是一個分水嶺 這也是最低調最平凡的一次生日 在繁重的上班中被淹沒 \
+        但幸好還有送我的apple watch 2024年我面對了幾項人生大事 背後都是長遠又重大的責任 \
+        其中一個是5/1開始的心臟內科受訓 但其實是試煉 心內從來都是成績最優秀的人在選 甚至心臟次專科都能有高達三成應屆被刷掉不及格 \
+        我每天至少思考三次 我在內科中吊車尾又胸無大志 要如何拿到這張牌 老天安排我這條路真的對嗎 我沒有信心 也沒有把握 \
+        無法想像自己成為主治醫師的畫面 這樣的憂愁每天都壓迫著我 我很怕讓科內老師失望 也很怕努力過後卻失敗 \
+        我想不到有什麼辦法克服 只能先繼續努力 而內專進度也讓我憂愁 很多學長總笑笑告訴我一定會過 但我可能不是那95%裡面的族群 \
+        別人眼中我是負面悲觀的人 但其實我也不想這樣 數年沒有正常的生活品質 每天不到五小時睡眠 被迫接受超出我能力範圍的訓練 \
+        沒辦法像很多朋友一樣每年出國散心 剛好脊椎又受傷等等 我難以想像要如何表現出樂觀開朗 經歷在痛苦的洪流 才能更加認識自己 \
+        就讓負面跟黑暗留在文字 宣洩後仍要專注在當下的職責跟任務 別讓太多情感跟瑣事打斷步調 5/1開始是這輩子最重要的兩年 \
+        挺過rotate R三年但即緊接更艱難的兩年 好比入伍訓通過後緊接著兩棲蛙人訓一樣 我沒有信心但還撐得住 我就只管撐著 \
+        撐到海闊天空那天就好 自己加油了 最後也謝謝 謝謝妳願意陪在我身邊 內科醫師的另一半真的很辛苦 這些點滴我都看在眼裡" },
+      { type: "link", content: "https://photos.app.goo.gl/XRQHeX5nF94f81Mx6", label: "2024年4月30日 \
+        今天過後 相對好日子正式迎來結束 即將進入人生最痛苦 但也最關鍵的兩年了 人生有沒有鐵飯碗吃飯 就看這兩年而已 \
+        這兩年不只要活下去 更要把爆幹難的專科 次專考試考過 我實在無法想像自己能通過考試 想到就很緊張 加油了撐下去" },
+      { type: "link", content: "https://photos.app.goo.gl/7TYJD3uaVhx2yjXs9", label: "2024年4月30日 這明明應該紅XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/pVJNuXEr37gPZRvx9", label: "2024年4月30日 這是爬進來求收養嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/1bCCsGKtFPqprfxS7", label: "2024年4月30日 我只有沙鍋魚頭" },
+      { type: "link", content: "https://photos.app.goo.gl/dGFbKzhKJNegW5ao8", label: "2023年4月30日 謝謝國防副部長跟RCC家屬 這兩杯咖啡可以讓我撐一下" },
+      { type: "link", content: "https://photos.app.goo.gl/q2EDJ3B8eSoBYMWaA", label: "2023年4月30日 療癒 天才欸XDDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/VjmaxuSDNPQn4bcD9", label: "2023年4月30日 \
+        肝硬化合併腹水的老奶奶住院 腎功能不好bun/cr=70/2 尿這禮拜變少平均每天從1200變700-800 4到2 WBC正常 \
+        沒有發燒心跳快 rasitol 20 q8h打 兩週內四次的的CXR都長這樣 大家覺得這個比較像肺炎還是pulmonery edema \
+        人沒有變更喘room air 我判斷不出來 不知是否要增加利尿劑 抱歉文中照片品質很差 \
+        我也壓pul edema 所以alb+rasitol一起用 Anti一直打meropem 變化如圖 抗生素的問題不要問我 \
+        因為這床抗生素主治有自己的見解 我無法參透QQ 從第二張開始我就覺得是pul edema 開始利尿劑加白蛋白bid打 \
+        有點水腫 沒有咳痰發燒 那我就繼續朝脫水dry lung方向前進 謝謝大家" },
+      { type: "link", content: "https://photos.app.goo.gl/HbjnkT45sSi14RL59", label: "2023年4月30日 今天上班終於有空檔滑一下手機吃飯 看到DK的影片很震撼 這個世界真的超美 而且是真實存在 如果能親眼去看 用自己的方式紀錄 不是很浪漫嗎 真深深打動人心的風景" },
+      { type: "link", content: "https://photos.app.goo.gl/XRcoWin64GtC9Qau8", label: "2023年4月30日 今年好像還沒拍到銀河" },
+      { type: "link", content: "https://photos.app.goo.gl/hfpNyhdoN1pSwSgD7", label: "2022年4月30日 這個世界好大好美 值得用三輩子都看不完 把自己一輩子投入工作 完全無法認同" },
+      { type: "link", content: "https://photos.app.goo.gl/JNjt7ZHdr8i4CziJ7", label: "2022年4月30日 內科一年來 體重暴增到快70公斤 真是人生最胖時 大概歸咎於上班跟下班都長時間坐著 無法避免的職業病 跑步也開始慢了起來" },
+      { type: "link", content: "https://photos.app.goo.gl/39FWo13WgoXHerWx8", label: "2022年4月30日 看了10次 笑爆XDDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/DWnyazAdDkY87Q4U7", label: "2021年4月30日 這是六六旅 跟我的大單位完全不同喔" },
+      { type: "link", content: "https://photos.app.goo.gl/gEeJUtdNCkbycC3VA", label: "2021年4月30日 \
+        這裡是我的攝影練功房 也是心路歷程 新作品 不打字了因為我正在打蚊子 \
+        大湖公園 雨後火燒落日 學拍風景的人都有一個練功房 就是臨時出景或最常可就近拍照的地方 \
+        大湖公園是我的練功房 今年是我在台北的第八年了 從開始學拍照就常常跑大湖公園 \
+        十分鐘不到就能架好腳架而且日出日落都能拍 2015的時候也畢業他的日出日落作品 被台北市捷運邀約使用像在大湖還是後山埤站 \
+        還獲得市長簽名月曆一本哈哈 畢業也不容易 八年了才三次 但也不是每次出大景都跑大湖 \
+        這裡好的火燒雲應該要佈滿整個天空而且左右對稱 才能顯出完整的倒影 這是我第三次畢業 而且還是低雲燒 完全出乎意料 \
+        很感謝跟我說台北要出景了 昨天才趕上 練功房其實代表一個攝影人的心路歷程 正因為出景不容易 因此能多次拍到最美的時刻 \
+        會有很滿足的成就感 也就是一種長大的感覺 幾年過去 大湖公園多了生態浮島 雖然倒影已不再完美 但我看到企鵝 \
+        啊不是 夜鶯啦 復育的很成功 也有樓息地 這真是一件很棒的事情 人與景都能一同成長 希望每位風景攝影人 都能有共同成長的練功房 好吧不然企鵝好了" },
+      { type: "link", content: "https://photos.app.goo.gl/PkP3YRAnEMWWc52P6", label: "2021年4月30日 蚊子超級兇 我還穿短袖 我快被蚊子叮爆 福州山公園" },
+      { type: "link", content: "https://photos.app.goo.gl/z46W22gCAooEjvrp8", label: "2019年4月30日 推薦 好好看 搭夜車的良伴 說服病人幫助兒子完成器捐的那段超讚" },
+      { type: "link", content: "https://photos.app.goo.gl/bxEHaHMwyZVFFgjK8", label: "2019年4月30日 距離上次能好好打球的日子 已經五年了" },
+      { type: "link", content: "https://photos.app.goo.gl/Pk7dGcAudm4wNYaR7", label: "2018年4月30日 回憶兒時兩三事 十年 永康國中 美術班" }
+    ]
   },
 
   "5": {
