@@ -5640,6 +5640,8 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/bR5tFbRTViCjxMAe9", label: "2026年4月23日 你有想過未來就業地點沒辦法自選影響這輩子多大嗎 有想過沒辦法拒絕自己不喜歡的科別會影響這輩子多大嗎" },
       { type: "link", content: "https://photos.app.goo.gl/qz3vbJYgZ5XcvmeN8", label: "2026年4月23日 太沒品了吧 今天我值班 要是去急診看到這種民眾一定大聲制止+叫警衛來" },
       { type: "link", content: "https://photos.app.goo.gl/w9vHmDwMary5pcmu5", label: "2026年4月23日 謝謝 那真的是抓拍的很好" },
+      { type: "link", content: "https://photos.app.goo.gl/rW6VzkYJRgbZbCFK6", label: "2026年4月23日 今天累壞 被療癒" },
+      { type: "link", content: "https://photos.app.goo.gl/fdmsdysbRVLr864p9", label: "2026年4月23日 哈哈哈對啊" },
       { type: "link", content: "https://photos.app.goo.gl/hvfNE5tbh9iGV8729", label: "2025年4月23日 怎麼會有這麼沒品的人" },
       { type: "link", content: "https://photos.app.goo.gl/PuCUChbDfhyYy5dQ7", label: "2024年4月23日 背台灣社區型肺炎常見五箇 沒穿衣服感冒得肺炎超雷 沒黴漿 衣披衣 感冒感冒嗜血 肺炎肺炎鏈 雷克雷伯" },
       { type: "link", content: "https://photos.app.goo.gl/3ZjrR7LZivog2yX48", label: "2024年4月23日 選科結束 沒有越來越輕鬆的感覺 只有越來越辛苦的感覺 連未來考試的難度也是最高之一" },
@@ -5715,6 +5717,9 @@ const records = {
         只能轉換心態才不會一直被後悔的情緒淹沒 也祝福你們都成功 我會期待各位作品啦 僅此紀念學生時期的瘋狂" }
     ],
     "24": [
+      { type: "link", content: "https://photos.app.goo.gl/tAfy2seDS1RMYkHg9", label: "2026年4月24日 一看就知道是89之類的在搞事" },
+      { type: "link", content: "https://photos.app.goo.gl/Dwp8No8kbCXcjHNN9", label: "2026年4月24日 真可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/XqX6FxGvq6L1c3b79", label: "2026年4月24日 挺" },
       { type: "link", content: "https://photos.app.goo.gl/eSDAU6z6b4nZRopb8", label: "2025年4月24日 幸虧黃博士放棄學術 把腦筋用在政治 我們台灣才能有少數清醒的人 看到某政黨的手多麼的髒" },
       { type: "link", content: "https://photos.app.goo.gl/DrNQY2tLZpua9LxZ7", label: "2025年4月24日 抗血小板藥物整理 之前整理的小筆記 做成簡要的圖表分享一下 歡迎補充更正" },
       { type: "link", content: "https://photos.app.goo.gl/8AoYZ3BSzxy6UyRC6", label: "2025年4月24日 寧願三天都腿日 也不要一天在醫院值班" },
