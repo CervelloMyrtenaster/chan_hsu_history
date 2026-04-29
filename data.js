@@ -5717,9 +5717,20 @@ const records = {
         只能轉換心態才不會一直被後悔的情緒淹沒 也祝福你們都成功 我會期待各位作品啦 僅此紀念學生時期的瘋狂" }
     ],
     "24": [
-      { type: "link", content: "https://photos.app.goo.gl/tAfy2seDS1RMYkHg9", label: "2026年4月24日 一看就知道是89之類的在搞事" },
+      { type: "link", content: "https://photos.app.goo.gl/AzEsMzUekrJre9z78", label: "2026年4月24日 你確定有用腦思考過才問出這個問題的嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/tAfy2seDS1RMYkHg9", label: "2026年4月24日 一看就知道是89之類的在搞事" },      
+      { type: "link", content: "https://photos.app.goo.gl/d9qcpbod6dYYK9469", label: "2026年4月24日 \
+        身為醫師 只能說這麼快排到檢查又剛好遇到權威醫師 又在台大 再去尋求第二意見簡直是愚蠢至極的行為 \
+        雖然運氣不好生病 但同時也運氣很好在台灣而且又是最頂尖的醫學中心之一" },
+      { type: "link", content: "https://photos.app.goo.gl/ASTDmKqGtP8wbV5H7", label: "2026年4月24日 Braunwald醫師是心臟內科世界首選教科書的作者 考試查資料一堆文獻都有他的言論 今天突然好奇查一下 什麼 居然剛在4/22過世" },
+      { type: "link", content: "https://photos.app.goo.gl/doL8tZcs9NJvRVtJ8", label: "2026年4月24日 值班隔天需要的晚餐補充體力 沒想到可以吃到一根菜 真是太幸福了" },
+      { type: "link", content: "https://photos.app.goo.gl/W5sJMSsqsEuLHMtd6", label: "2026年4月24日 幸好不是只有一根菜" },
+      { type: "link", content: "https://photos.app.goo.gl/PAUgCjvaubuPLDKg8", label: "2026年4月24日 不行 我也要一起去" },
+      { type: "link", content: "https://photos.app.goo.gl/Y2M5DCMwW11w67qu6", label: "2026年4月24日 哈哈哈哈哈哈" },      
       { type: "link", content: "https://photos.app.goo.gl/Dwp8No8kbCXcjHNN9", label: "2026年4月24日 真可愛" },
       { type: "link", content: "https://photos.app.goo.gl/XqX6FxGvq6L1c3b79", label: "2026年4月24日 挺" },
+      { type: "link", content: "https://photos.app.goo.gl/N4esJMTMivAc2Smw6", label: "2026年4月24日 這是重視女友吧 在女友旁邊合照還嘻嘻哈哈 除了會被扁 也會覺得自己不夠帥" },
+      { type: "link", content: "https://photos.app.goo.gl/CsqDkQEQ45hsfvfV7", label: "2026年4月24日 片尾彩蛋 有人緊張的開始查保固 跟我當初一樣" },
       { type: "link", content: "https://photos.app.goo.gl/eSDAU6z6b4nZRopb8", label: "2025年4月24日 幸虧黃博士放棄學術 把腦筋用在政治 我們台灣才能有少數清醒的人 看到某政黨的手多麼的髒" },
       { type: "link", content: "https://photos.app.goo.gl/DrNQY2tLZpua9LxZ7", label: "2025年4月24日 抗血小板藥物整理 之前整理的小筆記 做成簡要的圖表分享一下 歡迎補充更正" },
       { type: "link", content: "https://photos.app.goo.gl/8AoYZ3BSzxy6UyRC6", label: "2025年4月24日 寧願三天都腿日 也不要一天在醫院值班" },
@@ -5749,6 +5760,23 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/BoGAt6jwSAU5Xcmi9", label: "2020年4月24日 終於拿到給的生日卡片了" },
     ],
     "25": [
+      { type: "link", content: "https://photos.app.goo.gl/fURFc3VwRzUs6rGx9", label: "2026年4月25日 完全認同 SDM某部份就是笑話" },
+      { type: "link", content: "https://photos.app.goo.gl/G177t2AYbP6uqTka7", label: "2026年4月25日 該慶幸你活在主治會告訴你病人該出院的年代XD" },
+      { type: "link", content: "https://photos.app.goo.gl/jzpoVdLHAv8XwnAd6", label: "2026年4月25日 一年一度我生日請吃大餐完成 明水然樂無菜單鐵板燒" },
+      { type: "link", content: "https://photos.app.goo.gl/goJdx7JX574gbYi9A", label: "2026年4月25日 金融股唯一解答 富邦國泰中信 元大凱基玉山 最好的選擇就是保險 證卷跟銀行三位一體 這樣獲利結構才會完整 小銀行那些不要買 買了也不適合長期" },
+      { type: "link", content: "https://photos.app.goo.gl/31CcAp8x2TcujyRJ9", label: "2026年4月25日 終於體會每個考過心專的學長當初說基因考題有多靠杯 不只一堆沒看過的要背 看過的還會在不同疾病以不同機轉出現 背誦對我這種比較笨的人真 是不友善= =" },
+      { type: "link", content: "https://photos.app.goo.gl/YBm3skL8oeaQbJxC8", label: "2026年4月25日 \
+        注射型GLP-1 RA liraglutide semaglutide albiglutide dulaglutide都可減少MACE \
+        但lixisenatide和exenatide未達到MACE降低的統計顯著性 記憶目前哪些GLP1RA對心血管有好處 \
+        答 可以保護很多條LADs 所以有心血管好處的為LADS" },
+      { type: "link", content: "https://photos.app.goo.gl/EP9K1rRkMWGRiDxr8", label: "2026年4月25日 入伍生坐1/2板凳 班長還沒喊開動不能亂動 筷子碗不要發出聲音" },
+      { type: "link", content: "https://photos.app.goo.gl/NqY1BFNx28znDj3J7", label: "2026年4月25日 不可以這樣咩" },
+      { type: "link", content: "https://photos.app.goo.gl/iF76Vyyd67MU9AnD6", label: "2026年4月25日 好可愛的兩萬" },
+      { type: "link", content: "https://photos.app.goo.gl/5LQmee8M4ievb1FP9", label: "2026年4月25日 佩服 蠻細膩的" },
+      { type: "link", content: "https://photos.app.goo.gl/Uv8iFsjfa7PQmSd77", label: "2026年4月25日 超讚的 島上的文化資源要持續流傳" },
+      { type: "link", content: "https://photos.app.goo.gl/TFuutZDwf24podTi9", label: "2026年4月25日 對啊真的有點趕" },
+      { type: "link", content: "https://photos.app.goo.gl/ANyiVUHshk5rKZjL8", label: "2026年4月25日 下次一定會再去的" },
+      { type: "link", content: "https://photos.app.goo.gl/cC3cfEcCQKSZGRLB9", label: "2026年4月25日 推" },
       { type: "link", content: "https://photos.app.goo.gl/uBWWMdasCW35dyJx9", label: "2025年4月25日 台灣腔人性化多了 大陸腔假惺惺 實際上狼性跟猴子一樣 字正腔圓結果人不正不圓" },
       { type: "link", content: "https://photos.app.goo.gl/grznwCqaV3eVWYc77", label: "2025年4月25日 那些說工程師多累的 來當第一線醫護試試看 第一線醫護壓力遠大於工程師 卻連工程師的零頭薪水都領不到" },
       { type: "link", content: "https://photos.app.goo.gl/HKFLy78x4n7meTWZ7", label: "2025年4月25日 \
@@ -5805,6 +5833,15 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/Ss6qJXKocnfkUoxk6", label: "2019年4月25日 有人要我送她500顆金莎 可是我上次送她六顆而已 過了三個月還吃不完 我還吃了一顆 結果我猜她一定還放在書桌 果不其然 真的越來越了解" }
     ],
     "26": [
+      { type: "link", content: "https://photos.app.goo.gl/VVdrHpm2uqsKr4xSA", label: "2026年4月26日 你怎麼不問問 有多少病患真心想被救 還是只想吃醫療豆腐 用最便宜的價格享受最方便的高科技" },
+      { type: "link", content: "https://photos.app.goo.gl/RbKo3FNcmuZgthoV9", label: "2026年4月26日 說句實話 幸好她不是選軍費 否則根本沒機會聽到她的創作" },
+      { type: "link", content: "https://photos.app.goo.gl/8Cquod5uHSHdzyTz7", label: "2026年4月26日 請妹妹給那位大人一劑最猛最strong的抗生素" },
+      { type: "link", content: "https://photos.app.goo.gl/6BMaaNZkYjhKEv1Z7", label: "2026年4月26日 這不能一直看" },
+      { type: "link", content: "https://photos.app.goo.gl/o6p5kDj72i3q5X7B9", label: "2026年4月26日 有稍微接觸長跑的 都會被這個消息震驚到說不出話 但同一場同時兩個破二 憑良心說我認為場地有優勢" },
+      { type: "link", content: "https://photos.app.goo.gl/iK62GViJbYm5761x6", label: "2026年4月26日 \
+        即使寫了數十題心律不整藥物的考題 永遠都還是會寫錯 每一題都有辦法考倒你 直接出乎意料的擊破自信心 唉 \
+        猜猜答案 不只有class 1D 還有class 0 真是跌破眼鏡 不把braundwald整本啃完還真的不行" },
+      { type: "link", content: "https://photos.app.goo.gl/16XMsV9YruE43kwy9", label: "2026年4月26日 太扯了真是太好吃了吧" },
       { type: "link", content: "https://photos.app.goo.gl/rujGkXq2jPwLzjpZ7", label: "2025年4月26日 你不是也先舔共再反共嗎" },
       { type: "link", content: "https://photos.app.goo.gl/rAnYWTrVVDk64yg17", label: "2025年4月26日 只聽到醫師考上律師 沒聽過律師再考上醫師" },
       { type: "link", content: "https://photos.app.goo.gl/jnH2b9vMj517RXWJ6", label: "2025年4月26日 下載thread之前能不能設個智力測驗啊" },
@@ -5841,6 +5878,17 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/WtuSPhmR9BoQUzYD9", label: "2018年4月26日 問天問大地" }
     ],
     "27": [
+      { type: "link", content: "https://photos.app.goo.gl/zmyVbzv7KgBpSCmt9", label: "2026年4月27日 \
+        認真說確實是如此 但也很賭中小企業的成長幅度 跟大盤對賭就像他說的 適合波段操作 但如果超級長期投資 至少巴菲特都打輸大盤 \
+        另外我覺得好辛苦 看完還是繼續本業好好工作賺錢 無腦大盤跟大市值的金融股 富邦國泰中信" },
+      { type: "link", content: "https://photos.app.goo.gl/NZRUfHjM6jWXqQoH6", label: "2026年4月27日 你去事務所諮詢的時候 最後沒有請律師寫狀 你敢質疑上千元諮詢費用嗎 所以醫療人員是什麼很賤的職業" },
+      { type: "link", content: "https://photos.app.goo.gl/P13Pe3cqwoqid2Az9", label: "2026年4月27日 結果你一個月歐洲旅遊的錢是當初在教室坐的爸媽給的" },
+      { type: "link", content: "https://photos.app.goo.gl/UFf7VP8GpEfSCE389", label: "2026年4月27日 他以後選舉當里長" },
+      { type: "link", content: "https://photos.app.goo.gl/K1FWoqA5TXYBpkR2A", label: "2026年4月27日 這算是報應來的毫無痕跡嗎哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/yxGWpoXtZ713PJAw8", label: "2026年4月27日 七年前每週至少跑兩次 回醫院後每週一次已經很多 現在準備考試只能一個月慢慢跑一次" },
+      { type: "link", content: "https://photos.app.goo.gl/m7PXii5UHZt9u7mT8", label: "2026年4月27日 都不知道心臟科原來有這麼多影像工具 太狠了" },
+      { type: "link", content: "https://photos.app.goo.gl/Fd9e1PtF5HZT7Pyb7", label: "2026年4月27日 要推薦我啊 我都不知道" },      
+      { type: "link", content: "https://photos.app.goo.gl/rCcUaKEzordnKRbK8", label: "2026年4月27日 這才是生活中值得記錄的小確幸" },
       { type: "link", content: "https://photos.app.goo.gl/yyg14AkVjjpuMXdt7", label: "2025年4月27日 泰國這種chill的超多 也還不錯 但我這次找的五星級是夜景真的很頂很好拍的" },
       { type: "link", content: "https://photos.app.goo.gl/VN5S8PHFfeF8SMhN6", label: "2025年4月27日 這個我也會" },
       { type: "link", content: "https://photos.app.goo.gl/x1tMviM5grZu5itT7", label: "2025年4月27日 拍拍QQ" },
@@ -5889,6 +5937,9 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/Unh7iMNnx6DAU5Gz8", label: "2017年4月27日 國防醫學院體育館 popping practice" }
     ],
     "28": [
+      { type: "link", content: "https://photos.app.goo.gl/14ghgXyFk8h5EmrZA", label: "2026年4月28日 怎麼會有不是醫師也不是律師的東西在瞎逼逼 我每天上班遇到任何職業的人都是禮貌的鞠躬點頭打招呼 他這是酸葡萄吃太多吃到吐了嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/8YHLFsuPng5Jg9Uj9", label: "2026年4月28日 留看健身貓貓" },
+      { type: "link", content: "https://photos.app.goo.gl/q7BFwJTDivdivWpy8", label: "2026年4月28日 考到稀爛考到爆 但為什麼都沒書本願意把他們全部放在一起整理" },
       { type: "link", content: "https://photos.app.goo.gl/v1SHxcHuBraNXE5PA", label: "2024年4月28日 \
         笑死 賺更多是政府的功勞嗎 繳更多稅政府有做事嗎?你公民是不及格嗎 不知道政府是人民的僕人應該是領稅做事嗎 \
         所以現在我們才是政府的僕人 辛苦工作繳一堆稅 然后繼續看政府搞笑亂花錢" },
@@ -5944,6 +5995,14 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/gPtSfoWko1S5LAe37", label: "2017年4月28日 我GS少兩個人力" }
     ],
     "29": [
+      { type: "link", content: "https://photos.app.goo.gl/eVX4F8zY1eD9qHxa9", label: "2026年4月29日 我的頁面終於也主動推薦貓貓了" },
+      { type: "link", content: "https://photos.app.goo.gl/fmBhkifQdPw4bNz49", label: "2026年4月29日 還是可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/7fQ9iGWr1wp4n2SS9", label: "2026年4月29日 \
+        這幾年嘗試拍攝街拍這樣的作品 驚覺自己完全無法拍出心中的感覺 作品的構圖跟想法被風景定型 \
+        這不是一個好事 攝影師應該要能在各種題材上任意切換與打破僵局 首爾 可以好好練習" },
+      { type: "link", content: "https://photos.app.goo.gl/RWiiq43eCB7H8SeLA", label: "2026年4月29日 光線 風景太執著於亮暗反差的曝光減少 但對於個人風格呈現 這不是主要考量 例如這張照片刻意壓按暗部 加深線條的視覺刺激" },
+      { type: "link", content: "https://photos.app.goo.gl/DdfXTLB2ki4JPvfdA", label: "2026年4月29日 巧遇不知名劇組拍攝 黑色小哥還特別提醒我們行人要小聲" },
+      { type: "link", content: "https://photos.app.goo.gl/8HJ3DjkYSXCYujN96", label: "2026年4月29日 有推薦韓國必買的零食或伴手禮嗎" },
       { type: "link", content: "https://photos.app.goo.gl/ciumkcEEBcmL6MVBA", label: "2025年4月29日 我相信是真的 只是台灣現在還在內亂 要團結才能抵制這個政權" },
       { type: "link", content: "https://photos.app.goo.gl/TsUGjApBBkHFqB49A", label: "2025年4月29日 好漂亮 我們走" },
       { type: "link", content: "https://photos.app.goo.gl/od36NRXSFhyuYkrcA", label: "2025年4月29日 真聰明" },
