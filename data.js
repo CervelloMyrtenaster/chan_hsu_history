@@ -6003,6 +6003,10 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/RWiiq43eCB7H8SeLA", label: "2026年4月29日 光線 風景太執著於亮暗反差的曝光減少 但對於個人風格呈現 這不是主要考量 例如這張照片刻意壓按暗部 加深線條的視覺刺激" },
       { type: "link", content: "https://photos.app.goo.gl/DdfXTLB2ki4JPvfdA", label: "2026年4月29日 巧遇不知名劇組拍攝 黑色小哥還特別提醒我們行人要小聲" },
       { type: "link", content: "https://photos.app.goo.gl/8HJ3DjkYSXCYujN96", label: "2026年4月29日 有推薦韓國必買的零食或伴手禮嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/1kZMeeXUHB8HKaTq9", label: "2026年4月29日 台中柳川水岸 今天台中柳川天氣真好" },
+      { type: "link", content: "https://photos.app.goo.gl/XatkCNxtQhyZ7TmK9", label: "2026年4月29日 這是天堂嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/oirsaWhVh5JiWDFq8", label: "2026年4月29日 韓國拍夜景 被攝影大叔分享夜景" },
+      { type: "link", content: "https://photos.app.goo.gl/TBaeGmrgr4qMGXry9", label: "2026年4月29日 碧山嚴出大景了 內湖碧山巖" },
       { type: "link", content: "https://photos.app.goo.gl/ciumkcEEBcmL6MVBA", label: "2025年4月29日 我相信是真的 只是台灣現在還在內亂 要團結才能抵制這個政權" },
       { type: "link", content: "https://photos.app.goo.gl/TsUGjApBBkHFqB49A", label: "2025年4月29日 好漂亮 我們走" },
       { type: "link", content: "https://photos.app.goo.gl/od36NRXSFhyuYkrcA", label: "2025年4月29日 真聰明" },
@@ -6036,6 +6040,14 @@ const records = {
         因為那不是你真正的東西 頂多先套用之後自己調整 練到不套用也能自己調整 再練到拍攝之前就預設作品出圖的結果 見聞色XD" }
     ],
     "30": [
+      { type: "link", content: "https://photos.app.goo.gl/4gPbNUhdruR5QLvT7", label: "2026年4月30日 R4就這樣玩了 以後當主治應該不難想像" },
+      { type: "link", content: "https://photos.app.goo.gl/iarhDGKa9qMfr6M59", label: "2026年4月30日 為什麼別人的停車場都比較溫馨" },
+      { type: "link", content: "https://photos.app.goo.gl/tpBBgioE6XffKY5q7", label: "2026年4月30日 \
+        認真想請教 到底健保局會不會給負責審核的委員壓力 比方說如果憑良心都不核刪 \
+        以後就沒辦法繼續當審查委員之類的 如果都沒有壓力 為何醫師還要這樣相殘" },
+      { type: "link", content: "https://photos.app.goo.gl/NaY92HSNXeLonqeS7", label: "2026年4月30日 做壞事被找到了" },
+      { type: "link", content: "https://photos.app.goo.gl/aGENeGe3VZ31LeZGA", label: "2026年4月30日 Seoul Sunset 人生不能總是出爾反爾 但生活偶爾會在首爾" },
+      { type: "link", content: "https://photos.app.goo.gl/hDVGKy73zCuqohhdA", label: "2026年4月30日 只有三天真的玩不完金門" },
       { type: "link", content: "https://photos.app.goo.gl/7MrvMThQCoGVpFND6", label: "2025年4月30日 你怎麼不說醫師被告賠的錢也很驚人 只看你自己想帶風向的呵呵 況且能力越高就應該值越高價格 你自己有小孩出1萬塊說不定醫師都不想來" },
       { type: "link", content: "https://photos.app.goo.gl/piPW1Tydy5WWeCPg8", label: "2025年4月30日 難怪比起老師 你更適合當諧星" },
       { type: "link", content: "https://photos.app.goo.gl/D1sEJNVNvtRDa8M17", label: "2025年4月30日 呵呵 台灣人自求多福吧 選出這種政府活該死好" },
@@ -6095,11 +6107,112 @@ const records = {
 
   "5": {
     "1": [
+      { type: "link", content: "https://photos.app.goo.gl/1iVcBW3DVaY3xPsM9", label: "2026年5月1日 記錄一下這位韓國的moderator 下結論簡短有力 而且每個case報完都會講相關經驗 重點是問問題都很簡潔 應該是很強的PCI老師" },
+      { type: "link", content: "https://photos.app.goo.gl/hCGW2FhzmqMwhwzZ9", label: "2026年5月1日 \
+        第一次在國外報告 對自己超失望 一來是第二個評審問的問題我完全沒聽懂 他的問題好長一段 我根本亂回答 \
+        第二是原來我從頭到尾都忘記拿麥克風 只靠著微薄的桌上小麥 結果聲音太小聲 我猜評審都聽不到我的報告QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/TUwgYzt29NbEJSum6", label: "2026年5月1日 直接轉頭拒絕 真可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/D7rnPoC4iESFCoP48", label: "2026年5月1日 恭喜c.hsin.hui Best presenter 明天換barry2684500接力得獎 也感謝Abbott最帥wangchingyuan拍照" },
+      { type: "link", content: "https://photos.app.goo.gl/TWg6VM1Rf7NiNQQc6", label: "2026年5月1日 完成的任務也是最開心的事情之一" },
+      { type: "link", content: "https://photos.app.goo.gl/mAHeWnjTu7SsN3qWA", label: "2026年5月1日 韓國地標 樂天世界塔Lotte World Tower 還遇上火燒雲" },
+      { type: "link", content: "https://photos.app.goo.gl/MHqtqUPiNqaeV8pUA", label: "2026年5月1日 韓國版象山六巨岩" },
+      { type: "link", content: "https://photos.app.goo.gl/KC6TaF8V51UjW6Y1A", label: "2026年5月1日 Seoul Korea 2026 TCTAP" },
+      { type: "link", content: "https://photos.app.goo.gl/GNf5YwUM5LfXQCCb7", label: "2026年5月1日 漂亮又健康欸" },
+      { type: "link", content: "https://photos.app.goo.gl/YQb9mhLSVWV2woi66", label: "2025年5月1日 這個會笑到疝氣XDDDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/YaVWmzFGGKxyxmuU7", label: "2025年5月1日 我的版面也越來越多這種可愛的狗狗了哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/Jg7DHeHsUvNw5Z8eA", label: "2025年5月1日 好麻對不起 我會克制 不會亂靠邀了" },
+      { type: "link", content: "https://photos.app.goo.gl/K8dfrmCzUVEsRv899", label: "2025年5月1日 真可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/Ww3XhJqdSZLimrQH8", label: "2025年5月1日 要趕快躲開" },
+      { type: "link", content: "https://photos.app.goo.gl/u2Wh2RL7Bm3bBJQ9A", label: "2025年5月1日 這是最道地的蝦仁炒飯欸哈哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/ypgvrk6tHGW7RAT29", label: "2025年5月1日 好吧" },
+      { type: "link", content: "https://photos.app.goo.gl/KzRtwkvFgf7AgKGL6", label: "2025年5月1日 越來越漂亮 越來越厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/a5y5X4TA8r2cqAMV6", label: "2024年5月1日 我也要練" },
+      { type: "link", content: "https://photos.app.goo.gl/qS5AjJ2GKwaGUu6g8", label: "2022年5月1日 \
+        肺癌的病人 通常都會做Brain mri排除腦轉移 而brain mri有t2 flair t2 propeller t1 flair dwi ax t1 fsr gd+ \
+        請問腦轉移有特別看上述哪種比較標準嗎 還是都沒差呢 如果沒差做cnyct是不是也一樣 \
+        你不像 所以我沒有要問你 謝謝MRSA 我會這樣問只是想說brain tumor轉移 為什麼不能做contrast ct 一定要mri \
+        會不會是為了某個phase比較清楚 原來 謝謝樓上 放射科報告打沒有轉移 原來打藥ct還會看不到brain tumor 感謝教學 \
+        我在想應該是大腦整個是軟組織 所以才需要搞這麼多phase來判斷" },
+      { type: "link", content: "https://photos.app.goo.gl/m16SjohGAe2aopLW9", label: "2022年5月1日 一般來說 肝臟外側 左上畫面 是會有氣的嗎 因為那麼扁感覺不像腸子 但外側有氣體感覺不是很常見 原來常見謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/ydX6gKNSbtcsKy6N6", label: "2022年5月1日 麻醉了就不要再起來直接火化" },
+      { type: "link", content: "https://photos.app.goo.gl/t9S5j8L4CNLDi8R86", label: "2022年5月1日 \
+        臨床紀錄 影像 Lung Sqcc 80歲男性病史高血壓 做礦工超過50年而有塵肺症 \
+        因為貧血 體重減輕及規律追蹤CXR 發現右下肺出現很大的mass來就診 Biopsy結果是Sqcc 符合來診時抽血發現高血鈣 \
+        後續安排bone scan排除骨轉移 brain contrast MRI排除腦轉移 abdominal sono排除肝轉移 \
+        但PET發現支氣管旁淋巴轉移 另外rectum也有疑似lesion 病人拒絕大腸鏡而無法得知是否轉移 \
+        最後診斷是lung squamous cell carcinoma合併支氣管旁淋巴轉移cT4N2M0 stage IIIB 後續將追蹤PD-L1及考慮化療 \
+        因一年內長那麼大一個從來沒發現覺得很神奇做紀錄 但也許只是角度問題讓他一直沒被發現" },
+      { type: "link", content: "https://photos.app.goo.gl/LotqXBRYz1XdpTLUA", label: "2022年5月1日 \
+        為什麼磷排出減少 會導致FGF23 PTH跟副甲狀腺增生 我只知道因為這樣會導致鈣變少 \
+        不過也疑惑難道磷增加 不會導致磷酸鈣增加而讓鈣減少嗎 謝謝大熊 我自己看大哈發現除了病人剛開始低鈣 \
+        後來會因為病人用了很多磷結合劑 含鈣 或補了太多鈣 導致血中鈣太多 這裡" },
+      { type: "link", content: "https://photos.app.goo.gl/TnTjHHAqk8tdu8DY8", label: "2021年5月1日 \
+        上 2015拍 重飽和及對比 下 2021拍 重細節及用色清淡 請大家幫我市場調查一下 \
+        只看細節 氛圍 用色及耐看 不看構圖的話 哪張比較喜歡呢 " },
+      { type: "link", content: "https://photos.app.goo.gl/fmfPdVa7YbJDsJJ4A", label: "2021年5月1日 這裡應該絕景了" },
+      { type: "link", content: "https://photos.app.goo.gl/t6DfLExYnMpBsqzH7", label: "2021年5月1日 原來還有這個地方" },
+      { type: "link", content: "https://photos.app.goo.gl/4FdsvoJQyXTy1S9N9", label: "2021年5月1日 這是我們一起去的" },
+      { type: "link", content: "https://photos.app.goo.gl/HmbWGVVJRpGMyEcT9", label: "2020年5月1日 哈囉 各位醫官 三軍總醫院" },
+      { type: "link", content: "https://photos.app.goo.gl/Bt9o1zBoRcGFkLVz8", label: "2020年5月1日 \
+        久違的快閃內湖 看看高中同學 害我想用醫師執照換藥師執照 誤 大家都很努力的朝夢想前進 \
+        剩下三個月回歸醫院職場 要用正向的拼勁繼續努力 希望11月跟高中的老師同學再見" },
       { type: "link", content: "https://photos.app.goo.gl/DxR2eYibrgzQg9UaA", label: "2017年5月1日 \
         從不是很了解病理部 到半個月實習結束真的好喜歡這裡 睡飽來看片然後teaching 接著開槓切肉到下班 非常惬意但又學得非常多 \
         附上很罩的學長 和靄的主任還有台南最強美食專家的美麗學姊 最後感謝總醫師宜恕學長 出給我很多作業 倒數登出I1" }
     ],
-    "2": [],
+    "2": [
+      { type: "link", content: "https://photos.app.goo.gl/r258Ks8H4WyzD1HM8", label: "2026年5月2日 居然讓我在回國前看到這個影片 既然這樣" },
+      { type: "link", content: "https://photos.app.goo.gl/v4ezBU9qxEgdik7T6", label: "2026年5月2日 既然這樣 就只好來拍看看" },
+      { type: "link", content: "https://photos.app.goo.gl/1yA64FyWWgsX6k857", label: "2026年5月2日 這個島超讚超推 可能是她真的在那邊一直跌倒才說CP不高" },
+      { type: "link", content: "https://photos.app.goo.gl/F3w2Ut5LUJRow2jf8", label: "2026年5月2日 最後一天一定要起大早來吃聽說很貴的" },
+      { type: "link", content: "https://photos.app.goo.gl/WKLToRDDYpLoB3FX8", label: "2026年5月2日 心臟內科的海軍大對決" },
+      { type: "link", content: "https://photos.app.goo.gl/vopNLtmSn5kGZicq7", label: "2026年5月2日 \
+        本次最重要心得之一 韓國uber跟計程車真的超爛 對比台灣日本跟泰國 常常叫不到車 叫到要等10-20分鐘 \
+        路上還攔不到計程車永遠都有人 攔到計程車幾乎都在塞車 還不一定比地鐵快 結論 來韓國買個五日地鐵卷比較划算 \
+        搭配Naver map坐公車就好 如果要叫uber 有準時叫到那就真的運氣不錯 考慮之後自由行租汽車了" },
+      { type: "link", content: "https://photos.app.goo.gl/fJNHB1CxnU5ufvSZ6", label: "2026年5月2日 \
+        好好笑 跟我講才知道原來韓國有這隻粉紅小海狸 感覺很ㄎ一ㄤ 我在市區繞多次只有看到零散公仔 \
+        推薦喜歡的朋友在仁川機場11號登機口對面就有專賣店 小到大隻都有 門口那隻還比人大" },
+      { type: "link", content: "https://photos.app.goo.gl/DWCRqLCsk61aiDGu8", label: "2026年5月2日 最後一買 把韓元現金花光 賺到pingu 我賺到向各國醫師學習的機會" },
+      { type: "link", content: "https://photos.app.goo.gl/nRWEHYywBsK46gdf6", label: "2025年5月2日 \
+        自己就是CVS出生 故意混淆視聽就算了還不知道嚴重性 真的是當官就忘了初衷 為了挺黨不敢大聲爭取正義了 \
+        反正大罷免最重要 民眾幾條主動脈而已小問題啦 有事推給第一線醫師承擔 虧損跟被告風險也推給基層就好 頗呵呵" },
+      { type: "link", content: "https://photos.app.goo.gl/yjSp63yWeUj6efqe7", label: "2025年5月2日 \
+        有推薦的曼谷+芭達雅esim網路吃到飽嗎 沒用過esim 求推薦 \
+        另外我一定會買超過去的天數 esim可以在台灣先啟用 抵達國外就直接開啟嗎 怕到了國外機場才啟用會有風險而且很趕" },
+      { type: "link", content: "https://photos.app.goo.gl/7V2a7sMzqGYCuh5MA", label: "2025年5月2日 Google map已經存了600多個拍照景點跟美食 飯店 這些是僅存的工作動力" },
+      { type: "link", content: "https://photos.app.goo.gl/Wozfs6Wtm5etKFN67", label: "2025年5月2日 不是誇 是說實話" },
+      { type: "link", content: "https://photos.app.goo.gl/K869THE9FAotugLw8", label: "2025年5月2日 你哪有醜" },      
+      { type: "link", content: "https://photos.app.goo.gl/vqdvsnb1HXuYN21N6", label: "2024年5月2日 \
+        買股票以來過了六年了 認清到我不像某些朋友 短期或波段進出就賺個幾十萬 也不像一些大師 能夠自己完整分析產業 \
+        心臟不夠大顆 又不敢投資貨幣 平常上班也完全沒時間操作看盤 當然也拒絕詐騙跟高槓桿 結論是我是超級保守派投資法 \
+        我需要超佛系超簡單 卻能長期穩定投資的 所以如果你跟我一樣 我唯一推薦股市肥羊 他什麼時候進出就無腦跟就好 \
+        股票我只推薦圖中六家金控 富邦跟中信為首選 開發金為最差選擇 ETF我只推薦大盤0050或006208 剛入場又以006208優先 \
+        其他的投資標的完全不碰 如果你跟我一樣的狀況 我會建議這樣最穩 不會暴富 但也完全不用擔心 可以完全無腦投入 \
+        一定無腦起來 就千萬別再聽任何建議的標的來打亂自己了" },
+      { type: "link", content: "https://photos.app.goo.gl/uDb12k4RM8hie82Z6", label: "2024年5月2日 哪個人在說醫生護士賺錢的 頭腦一定裝屎" },
+      { type: "link", content: "https://photos.app.goo.gl/U8hefkUTQzWcw2yq6", label: "2024年5月2日 一個下午來快十個新病人 多數都是完全沒過去病歷可以看的 那個CV new pt大軍的感覺又來了" },
+      { type: "link", content: "https://photos.app.goo.gl/1xYqbt1e9uxyEw6A9", label: "2024年5月2日 明明是很簡單但有時一緊張就忘記的metabolic syndrome診斷 因為要全背熟且網路沒口訣 只好自己發明 覺得滿好記" },
+      { type: "link", content: "https://photos.app.goo.gl/QPJYZtSk8WbRewqFA", label: "2024年5月2日 會這樣嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/Y5bSbvgzp882eyvx6", label: "2024年5月2日 哈哈哈哈文化差異攻擊" },
+      { type: "link", content: "https://photos.app.goo.gl/NQrRCqVM39MQR9qu6", label: "2024年5月2日 躺著玩坐著玩 還是下雨最好玩" },
+      { type: "link", content: "https://photos.app.goo.gl/mu32UXGssoJa7DtN9", label: "2024年5月2日 恐龍啊 路上很常見吧" },
+      { type: "link", content: "https://photos.app.goo.gl/JzPAc2eT3CJQmS5W9", label: "2024年5月2日 重訓列車出動" },
+      { type: "link", content: "https://photos.app.goo.gl/ZVqDLHXGqd9HXpSYA", label: "2023年5月2日 DJI MAVIC 3 CLASSIC NIKON Z6II&Z6 這是一箱能把我從現在痛苦的工作中拯救的玩具" },
+      { type: "link", content: "https://photos.app.goo.gl/RN4ofMz8rStntb2A6", label: "2023年5月2日 美感進步了" },
+      { type: "link", content: "https://photos.app.goo.gl/gZadacopUygpZdGcA", label: "2022年5月2日 \
+        這個時間點還在跟病歷奮戰 算算這個月在CHE蠻充實的 遇到最棒VS之一劉醫師以外 胸腔也是廣納各科病人 \
+        唯一的共通點只有CXR肺看起來有點髒髒的就收了 cv nstemi hp met hypo hyperglycemia ria sle sicca ctd \
+        gi u/lgib nep ckd aki急洗腎 inf uti cap hap hcap che tb ntm hem lung sqcc pure red cell aplasia" },
+      { type: "link", content: "https://photos.app.goo.gl/qEBsHgyW8uzrZj1w5", label: "2022年5月2日 這個月不只能跟劉醫師 還可以跟去年跟到的簡主任 胸腔內科實在太充實啦" },
+      { type: "link", content: "https://photos.app.goo.gl/DfAtr7MMEk7XR1Lz5", label: "2020年5月2日 金庸鹿鼎記全五集送雪山飛狐 台中面交 買五本送一本 無泡水損壞保存良好 配合面交價錢可議 因搬家售出" },
+      { type: "link", content: "https://photos.app.goo.gl/B3Hnto9fWPfSpErw9", label: "2020年5月2日 今天實在看到太多同年齡但很有錢的人了 我好廢 我一定要努力賺錢買自己的大房" },
+      { type: "link", content: "https://photos.app.goo.gl/x2Yr8xsPULihwEkP8", label: "2020年5月2日 努力賺錢 努力存錢 未來有一天 才能享受生活" },
+      { type: "link", content: "https://photos.app.goo.gl/KbSD5xN4mNgixZJT7", label: "2020年5月2日 Lexus LQ" },
+      { type: "link", content: "https://photos.app.goo.gl/N2iEmCRJfcfTnyPz5", label: "2020年5月2日 寫的好認真 真是辛苦她以前學數學" },
+      { type: "link", content: "https://photos.app.goo.gl/Z4vzB3eVwbvRrU4z7", label: "2020年5月2日 我快笑死了 小時後" },
+      { type: "link", content: "https://photos.app.goo.gl/58pdiYGSBpnZmBXf7", label: "2018年5月2日 饒河彩虹橋 一個月沒碰相機了 好像 也不會怎樣XD" }
+    ],
     "3": [
       { type: "link", content: "https://photos.app.goo.gl/c6mSM9WsELZZQg6PA", label: "2017年5月3日 \
         這半月在SICU實習還順便讓柯P上課值了值了 柯p也是SICU出身哈哈 這件白袍我就不洗囉回去掛起來 台北市長 柯文哲 親筆簽名 柯P" }
