@@ -6161,6 +6161,8 @@ const records = {
         附上很罩的學長 和靄的主任還有台南最強美食專家的美麗學姊 最後感謝總醫師宜恕學長 出給我很多作業 倒數登出I1" }
     ],
     "2": [
+      { type: "link", content: "https://photos.app.goo.gl/Aoey6pudP4rU78FJA", label: "2026年5月2日 根本在脆上誤人子弟的發文" },
+      { type: "link", content: "https://photos.app.goo.gl/9vqnvnqEUEy77zMo6", label: "2026年5月2日 根本100分欸" },
       { type: "link", content: "https://photos.app.goo.gl/r258Ks8H4WyzD1HM8", label: "2026年5月2日 居然讓我在回國前看到這個影片 既然這樣" },
       { type: "link", content: "https://photos.app.goo.gl/v4ezBU9qxEgdik7T6", label: "2026年5月2日 既然這樣 就只好來拍看看" },
       { type: "link", content: "https://photos.app.goo.gl/1yA64FyWWgsX6k857", label: "2026年5月2日 這個島超讚超推 可能是她真的在那邊一直跌倒才說CP不高" },
@@ -6211,13 +6213,121 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/KbSD5xN4mNgixZJT7", label: "2020年5月2日 Lexus LQ" },
       { type: "link", content: "https://photos.app.goo.gl/N2iEmCRJfcfTnyPz5", label: "2020年5月2日 寫的好認真 真是辛苦她以前學數學" },
       { type: "link", content: "https://photos.app.goo.gl/Z4vzB3eVwbvRrU4z7", label: "2020年5月2日 我快笑死了 小時後" },
+      { type: "link", content: "https://photos.app.goo.gl/A82dKu1kDcq43g1D6", label: "2019年5月2日 再找時間 這裡不好過" },
       { type: "link", content: "https://photos.app.goo.gl/58pdiYGSBpnZmBXf7", label: "2018年5月2日 饒河彩虹橋 一個月沒碰相機了 好像 也不會怎樣XD" }
     ],
     "3": [
+      { type: "link", content: "https://photos.app.goo.gl/PaLuhmUFPutuRpWb9", label: "2026年5月3日 打給警察然後打給我 我會去揍人" },
+      { type: "link", content: "https://photos.app.goo.gl/eCuNNsanjtvSSxz6A", label: "2026年5月3日 \
+        首爾 南漢山火燒雲 托老師們的福 第一次參加國際會議的報告 也踏上從未來過的韓國 \
+        網路上不伐首爾很無聊的資訊 但逐一挖掘ig上的攝影師們作品 結果陸續被推播許多寶藏攝影點 城市的美是需要時間跟好奇心 \
+        因此我趁著沒有活動的day1 收集了首爾地標 樂天世界塔 南漢山城是個堡壘建築風格的城堡 從市區搭計程車約需一個小時初頭 \
+        在登山口幾乎沒有外國遊客與吵鬧的人群 指標也無法在google map上完整顯示 只能靠著服務台的地圖前進 步道幽靜且好走 \
+        步行只花了30分鐘 沿路上跟著歷史的城牆來到制高點 也遇上了幾位韓國在地的攝影師 南漢山觀景台能俯視整個首爾 \
+        很像縮小版的硬漢嶺或大屯山觀景台 當地攝影師也分享在冬季能拍到雲海淹沒首爾市 十分壯觀 \
+        此行首爾不只見識各國PCI專家們的結晶 也是我認識首爾的第一步 TCTAP真的是很棒的會議 也順便認識首爾" },
+      { type: "link", content: "https://photos.app.goo.gl/HKrF43rDp1t7DeH2A", label: "2026年5月3日 \
+        星空圖書館 第一次到訪星空圖書館 位於COEX大樓的B1 巨大的書櫃彷彿人類面對知識的渺小 \
+        雖然google上寫10:00開放 但抵達時二樓早已坐了喝咖啡的遊客 若要拍攝無人的電梯需要更早抵達 \
+        最佳的黃金時間為1000-1030之間 接近中午後電梯上邊會擠滿遊客而無法拍攝 而且太陽的斜射方向在1030之前有機會使現場立體感更加明顯 \
+        另外這裡跟 水原星空圖書館 是完全不同的地方 我很期待下次造訪水原星空圖書館" },
+      { type: "link", content: "https://photos.app.goo.gl/fB4jBKBGNyQHYVJc8", label: "2025年5月3日 以前的假日都在衝景 現在的假日常要上課 茹曦酒店Illume Taipei" },
+      { type: "link", content: "https://photos.app.goo.gl/Swbg5J4WQL8oCJEAA", label: "2025年5月3日 太扯 真的要小心" },
+      { type: "link", content: "https://photos.app.goo.gl/SwGsTTYQxjymjY68A", label: "2025年5月3日 他好幸運喔" },
+      { type: "link", content: "https://photos.app.goo.gl/XASwSNPSNVqWgMZ97", label: "2025年5月3日 這個我會跟冰一起融化" },
+      { type: "link", content: "https://photos.app.goo.gl/tyzsDbP8id2v3LCz6", label: "2025年5月3日 好短好可愛喔喔喔喔喔" },
+      { type: "link", content: "https://photos.app.goo.gl/qRjwVhKetHQmRfSw6", label: "2023年5月3日 \
+        什麼平台投資 什麼NFT 類似這些通通都是垃圾 真的不要扯什麼是因為不懂才排斥 也不要扯什麼很多人都賺到 \
+        因為即便立意再好的投資方案 也會有很多存心想詐騙的人混在其中甚至佔多數 投資只能投看得見 搞得懂 會安心的東西 \
+        重點是人為操作因素要非常低 例如金融股目前賠錢我也不擔心 因為我知道銀行在那裡 我知道他們跑不掉 \
+        我也知道他們何時發股利 金管會一直盯著 政府也買單 未來社會只會越來越多這種看似天花亂墜的平台 \
+        甚至很多網紅出來打廣告 背後賺一堆廣告費 根本不是投資賺的 最後倒台再出來集體哭哭 真的是一群87 \
+        錢很難賺 被騙很容易 拒絕這些奇怪的投資方式最起碼賺不到也不會虧到要不回來 投資只允許公開透明的股票跟房地產" },
+      { type: "link", content: "https://photos.app.goo.gl/uRV53PXJvFjsqELH9", label: "2023年5月3日 心臟內科真的辛苦 1700大家都下班了 也沒值班 但事情才要剛開始做" },
+      { type: "link", content: "https://photos.app.goo.gl/UaxyWgxUSm5fcTM37", label: "2023年5月3日 家人在賣 很推的寵物零食 分享 可以在蝦皮就購買 很方便" },
+      { type: "link", content: "https://photos.app.goo.gl/dA88TuaFfnJDhMoy9", label: "2022年5月3日 \
+        分享加拿大各醫院急診等候看診的時間 隨便都兩小時起跳 現在疫情當最嚴重之時 各醫學中心醫師都被派去輪班專責病房 \
+        剩下少少人力必須把同樣份量的值班跟上班分攤掉 這時候的台灣 是醫護負擔越來越大的時刻 卻諷刺的是薪水更少的時刻 \
+        所以身為醫療人員 這篇限時只想告訴每個在台灣的人 務必珍惜台灣的醫療人員 再怎麼血汗 仍努力跟疫情奮鬥 台灣加油" },
+      { type: "link", content: "https://photos.app.goo.gl/rWdaEYYTJwsNebJe6", label: "2022年5月3日 有壞人的時候比較有用XD" },
+      { type: "link", content: "https://photos.app.goo.gl/oUexfLRBpbtLvnPQ7", label: "2022年5月3日 出來洗個照片 遇到司徒惠康院長自己來洗照片 好幸運XD 聊了一下偷拍他 馬上被發現" },
+      { type: "link", content: "https://photos.app.goo.gl/6t7n9saQ4KAi9mgK7", label: "2022年5月3日 \
+        剛好洗腎的一位病人 洗腎後幾天開始出現打嗝 當時還覺得nonspecific 也完全沒在意 更不覺得跟腎差有關 \
+        以為不知為何消化差打嗝 但原來就是CKD導致的神經肌肉異常 雖然一點都不重要 但教科書小小的一個提示 居然都是有來由的" },
+      { type: "link", content: "https://photos.app.goo.gl/Mn4Pw4RTZFdGNCyWA", label: "2020年5月3日 \
+        很久以前還會看看館長的發文 有時滿有道理 但我不是館粉因為不完全認同他 \
+        現在他越來越多法盲文盲的發言 加上粉絲護航 本人甚至不想為講錯的道歉 如果他帶起無腦獵巫的風氣 \
+        那我們距離真正改變社會體制 又更遠了 改變體制 需要的是普羅大眾了解問題真相 並且團結向政府發聲" },
+      { type: "link", content: "https://photos.app.goo.gl/TncRmaHySYFUxjSH9", label: "2020年5月3日 \
+        所以人是醫生殺的 人是法官殺的 人是提出問題的知識份子殺的 講的好像只有你看過社會底層 \
+        這不就是法律條文本身的問題嗎 可以連署反紅媒 館長你也可以連署修法啊 \
+        我們正因為什麼也無法改變 所以跟你一樣難過 因此重點不是檢討人 而是群起檢討體制 壓迫政府修法 \
+        既然不適用專業就提倡修法啊 我相信台灣沒有一個精神科醫生想淌這渾水 誰都不想去幫忙這種案子好嗎 \
+        硬著頭皮去幫忙 秉持專業還要被嘴 因為看不下去他檢討精神科醫生 就去留言 我還第一次得到他本人的回覆 \
+        雖然沒啥屁用的內容 結果看到他接著發第二篇 不曉得是不是針對我的留言而發文 但只覺得很悲哀 \
+        館長其實做了不少對台灣有用的事情 我也是因此支持 但這次真的看不下去 人果然不是善惡二元論 人本身就是善惡並存" },
+      { type: "link", content: "https://photos.app.goo.gl/HmVXRArNWrTtnSR49", label: "2020年5月3日 小時後都是一個樣" },
+      { type: "link", content: "https://photos.app.goo.gl/RAfjFNqQZWxLzCweA", label: "2019年5月3日 \
+        稍微試算一下最順利的結果 考上時已經27歲 畢業時33歲 當完pgy要35歲 開始住院醫 不用當兵的話 36歲 \
+        如果花六年就42歲主治醫 收入20起跳 其實好像划算捏 因為42歲唸完博士可能也只有5-7萬" },
+      { type: "link", content: "https://photos.app.goo.gl/fLpQALWTxQiT7Lcv8", label: "2019年5月3日 \
+        但我忘了說一點 先不說要考過學測 面試 跑台跟區段 畢業國考 專科考試 次專科 甚至要寫論文 \
+        最難撐過的是 以內外科來說 要熬五年的住院醫師生涯 常常會有超過二三十小時無法休息與洗澡的值班 \
+        早上五六點到醫院 工作到八九點下班 超過三十歲可能得很拼" },
+      { type: "link", content: "https://photos.app.goo.gl/6vpqdWyusKFpCT2e6", label: "2019年5月3日 疲憊的一天 換來一碗麵值得" },
       { type: "link", content: "https://photos.app.goo.gl/c6mSM9WsELZZQg6PA", label: "2017年5月3日 \
         這半月在SICU實習還順便讓柯P上課值了值了 柯p也是SICU出身哈哈 這件白袍我就不洗囉回去掛起來 台北市長 柯文哲 親筆簽名 柯P" }
     ],
     "4": [
+      { type: "link", content: "https://photos.app.goo.gl/KZbajxmvX8RfRe6F9", label: "2026年5月4日 哪個在野黨敢提這項政策 說出名字來聽聽 此生不投這個垃圾政黨" },
+      { type: "link", content: "https://photos.app.goo.gl/VbNnZUCrydEeGjyU6", label: "2026年5月4日 同款可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/uY9qSAjyNChx3Vmb9", label: "2025年5月4日 越來越棒" },
+      { type: "link", content: "https://photos.app.goo.gl/5nSpm5NtwgdxopKX8", label: "2025年5月4日 這才是朵拉" },
+      { type: "link", content: "https://photos.app.goo.gl/Y5CJsXQVk1xkKtp88", label: "2025年5月4日 這也太美了啦 好想買" },
+      { type: "link", content: "https://photos.app.goo.gl/HxFKyf7z52onBAuQ9", label: "2024年5月4日 工程師下班都好快樂 醫師下班只有讀書睡覺做報告 真可悲" },
+      { type: "link", content: "https://photos.app.goo.gl/3RyVgZpDCGpfyDzr7", label: "2024年5月4日 他是期中考好運貓貓" },
+      { type: "link", content: "https://photos.app.goo.gl/ZpFXNQ7xQL679jH6A", label: "2024年5月4日 對啊" },
+      { type: "link", content: "https://photos.app.goo.gl/yXwjUjkrPSTHgmhU8", label: "2024年5月4日 mike1357935這個人原本還是忘記填表單 臨時被我叫來參加婚禮的 結果通關直接前三名有夠猛 實在有夠懂孟育 根本麻吉" },
+      { type: "link", content: "https://photos.app.goo.gl/F31tbrCMEAcmNKBL7", label: "2024年5月4日 恭喜" },
+      { type: "link", content: "https://photos.app.goo.gl/mfZzdybrMXrH9kj98", label: "2024年5月4日 啊原本以為有國中同學會 結果只有chiungyichen" },
+      { type: "link", content: "https://photos.app.goo.gl/vqSimZvXMJkNNdD69", label: "2024年5月4日 805偏鄉流放醫師集合" },
+      { type: "link", content: "https://photos.app.goo.gl/9v3ag11soL88a35L7", label: "2023年5月4日 感謝分享 是小時候當兵時連上POA 歌喉一流的 軍歌教唱超熱心 有興趣可以跟她點歌" },
+      { type: "link", content: "https://photos.app.goo.gl/CdEWFZyQEswc4wzp6", label: "2023年5月4日 感謝台北市有個小平台讓我的作品發光" },
+      { type: "link", content: "https://photos.app.goo.gl/phaKkmtpvcf6Mh2w7", label: "2022年5月4日 \
+        這是目前讓我傷腦筋最久的case 臨床紀錄 影像 Cavitary lesion in lung \
+        因為簡主任的一句 肺部開洞性病灶惡性的要排除RCC 因此開啟我這篇文章 \
+        病人為78歲女性 因低血糖昏迷入院 HRCT發現雙側多顆轉移lesion mediastinum也有許多腫大的淋巴結 \
+        此時圖二還有一個開洞性病灶 我一開始還眼瞎以為是支氣管 病人病史為原位右乳癌 高血壓 \
+        阿茲罕默跟最近發現的疑似invasive papillary urothelial carcinoma 經查文獻 連結在最底下 \
+        容易在肺部產生開洞性惡性轉移的多是頭頸食道跟子宮carcinoma 而renal bladder and synovial sarcoma則很少見 \
+        這一個case只是想提醒自己 肺部開洞的病灶 可能是感染或非感染 惡性轉移病灶或RIA疾病 造成的" },
+      { type: "link", content: "https://photos.app.goo.gl/ueQjKyRxRW3zNsEQA", label: "2022年5月4日 \
+        大家在臨床上 遇到RCC合併肺臟轉移的病人 有聽過這種肺臟轉移會在contrast ct特別呈現cavity lesion嗎 \
+        大哈等教科書幾乎沒提到 uptodate卻有相關描述 可是還找不到特別探討這現象的論文 \
+        一般來說轉移癌症也都是實心的吧 為什麼腎臟癌轉移肺部有空洞病灶 這有什麼特別原因嗎 另外只有腎臟併肺轉移是這樣嗎 \
+        圖一是我病人的肺部ct 他確實剛發現腎臟癌 圖二是網路上某篇論文的圖 嗚嗚 主治醫師一直說是RCC 跟各位討論之後應該是UCC比較有可能" },
+      { type: "link", content: "https://photos.app.goo.gl/BWFt8WxoaRteQncE7", label: "2022年5月4日 \
+        臨床紀錄 影像 Pulmonary edema 66歲男性 病史CKD stage IV ADHF T2DM HCVD IgA nephropathy \
+        這次入院準備開刀放置av shunt 但就在這時忽然掉血氧 爆喘起來 心電圖SR 抽血顯示代謝酸合併normal anion gap and normokalemia \
+        應該是CKD惡化造成 另合併一個輕微的呼吸酸 CXR結果揭曉是短短一天造成的pulmonary edema 伴隨近期pro-BNP的升高與雙下肢水腫 皮膚溫 \
+        可能是一個cardiogenic pulmonary edema CPE 戴上NRM 給120mg rasitol 打上double lumen急洗腎去 治療可以參考最後兩張" },
+      { type: "link", content: "https://photos.app.goo.gl/UYE9wNEWoxT9bipv5", label: "2021年5月4日 這兩個月在松山醫院 疲勞轟炸 " },
+      { type: "link", content: "https://photos.app.goo.gl/ZgNZTmv2K9p9aRst7", label: "2021年5月4日 來社區醫學穿工作服" },
+      { type: "link", content: "https://photos.app.goo.gl/aLBnt22L4hBQ6Uq46", label: "2021年5月4日 這個殺 好可怕" },
+      { type: "link", content: "https://photos.app.goo.gl/BwRaj2ZZbkm6gtwa6", label: "2021年5月4日 \
+        社區裡的堡壘 單眼相機有一天也會走入歷史嗎 最近越來越強大的手機功能 讓我不由得想像起來 \
+        十幾年後 相機 電腦 手錶 各種遙控或記事功能通通彙整到小小一台手機是什麼情景 \
+        除了相機功能 修圖後製也越來越AI 同樣的趨勢 攝影跟影像的產業 我相信也會面臨挑戰 \
+        幸好對我來說 攝影漸漸是單純的興趣 已經沒什麼職業或教學的成分 除非有人特別找我 而後製這一塊 更是因為好玩而去精進 \
+        因為精進而獲得成就感 從前置拍攝需要的素材到後製完成心中的畫面 而感到心滿意足 對比底片機剛被單眼取代的年代 \
+        其實不過數十年 我反而比較擔心 未來習慣了手機帶來的方便與強大 是否還能從修圖中獲得放鬆與成就感 \
+        也有點像現在很多老一輩的攝影師 以直出或單張完成為自豪 比方黑卡一曝或螢火蟲一曝完成 \
+        以前在心裡會問他們一百遍 一曝又如何 拍攝過程有任何閃失 或者短暫的最美時刻手滑 或者因為地形導致黑卡的陰影等 \
+        大費周章的動作也換不到完美的畫面 為何不用後製讓拍時輕鬆 成果完美 但答案也許很簡單 因為他們找到過去的成就感了吧 \
+        也許如同數十年後的我 因為從ps各種技巧中得到完美成品而滿足的當下 最新的手機卻已連發數十張漂亮的風景照 \
+        時代的變遷 究竟後製技術是否重要我已經沒有了答案 但我可以肯定的是 任何興趣如果有你喜歡的那塊 就去堅持吧 \
+        遙遠的未來 這份堅持若能帶來回憶湧現或特別的成就感 那就是興趣的意義所在" },
+      { type: "link", content: "https://photos.app.goo.gl/kvLmzyEpzg6a86jg9", label: "2018年5月4日 不要被他整天打lol的表象騙了 今晚隨機測驗近三年國考數題 他全部都答對 而且FC已經看完3/4" },
       { type: "link", content: "https://photos.app.goo.gl/yndW6SMC1ePJZ23N6", label: "2017年5月4日 我很努力在吃宵夜了 拜託長胖怎麼這麼難" },
       { type: "link", content: "https://photos.app.goo.gl/jGFcVGjP9hY2jhmv8", label: "2017年5月4日 當醫生是一件很孤單很孤單的事情" }
     ],
