@@ -6280,6 +6280,7 @@ const records = {
     ],
     "4": [
       { type: "link", content: "https://photos.app.goo.gl/KZbajxmvX8RfRe6F9", label: "2026年5月4日 哪個在野黨敢提這項政策 說出名字來聽聽 此生不投這個垃圾政黨" },
+      { type: "link", content: "https://photos.app.goo.gl/g44mdR6ikFCk6GVF6", label: "2026年5月4日 千防萬防 甚至覺得蠢人才會被騙 結果還是被gank" },
       { type: "link", content: "https://photos.app.goo.gl/VbNnZUCrydEeGjyU6", label: "2026年5月4日 同款可愛" },
       { type: "link", content: "https://photos.app.goo.gl/uY9qSAjyNChx3Vmb9", label: "2025年5月4日 越來越棒" },
       { type: "link", content: "https://photos.app.goo.gl/5nSpm5NtwgdxopKX8", label: "2025年5月4日 這才是朵拉" },
@@ -6331,12 +6332,147 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/yndW6SMC1ePJZ23N6", label: "2017年5月4日 我很努力在吃宵夜了 拜託長胖怎麼這麼難" },
       { type: "link", content: "https://photos.app.goo.gl/jGFcVGjP9hY2jhmv8", label: "2017年5月4日 當醫生是一件很孤單很孤單的事情" }
     ],
-    "5": [],
+    "5": [
+      { type: "link", content: "https://photos.app.goo.gl/mFNwustgKuWFsKmi7", label: "2026年5月5日 什麼叫做葡萄糖進不了細胞 解釋一下" },
+      { type: "link", content: "https://photos.app.goo.gl/pmUYz3jkug3dwqB9A", label: "2026年5月5日 \
+        所以為什麼血糖無法進入細胞 機轉 你還是沒有回答我問題啊 是什麼受器壞掉 才會發生你說的無法進入細胞被利用 \
+        碳水太多跟葡萄糖進不了細胞兩者有關聯 你承認自己胡說八道比較快 別再害人了 想再那邊賣弄先考個醫學系拿執照先好嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/TWdki2QvVuoFUDGa7", label: "2026年5月5日 全部一起摔下去那邊我嘴角潰堤了XD" },
+      { type: "link", content: "https://photos.app.goo.gl/Nm5XRuxWNkN4GG9bA", label: "2026年5月5日 怎麼敢亂說 只能說學長就是我認識的最棒的老師們" },
+      { type: "link", content: "https://photos.app.goo.gl/pm4xhGGw4RocNX9X8", label: "2026年5月5日 天啊 下次要去釜山 人生真的需要每兩個月出國一次 這世界太大太有趣了" },
+      { type: "link", content: "https://photos.app.goo.gl/K8Yypt4GmqWFTFJ46", label: "2026年5月5日 只能看一下" },
+      { type: "link", content: "https://photos.app.goo.gl/P7B2CvBtAgz6Lrw68", label: "2026年5月5日 好東西要跟好朋友分享" },
+      { type: "link", content: "https://photos.app.goo.gl/s24bihpq1td7a9vj8", label: "2026年5月5日 心專考到最後 連內專題目都直接原封不動 或改一點點 拉進來考 重點是還有一題寫錯 除了慘想不到什麼形容詞" },
+      { type: "link", content: "https://photos.app.goo.gl/NmHh2jn6rUSzEFsR9", label: "2026年5月5日 好的 我找時間把腦袋記憶體升級一下容量" },
+      { type: "link", content: "https://photos.app.goo.gl/TMFBm1SZqZUbVUtL9", label: "2025年5月5日 今天早點回家就是為了吃超讚晚餐" },
+      { type: "link", content: "https://photos.app.goo.gl/fyx8zLT1pwe9CD238", label: "2025年5月5日 經過大家熱烈推薦 決定買DJB來用 因為有朋友細心提醒 k開頭的那幾家 可能會無法使用chatgpt" },
+      { type: "link", content: "https://photos.app.goo.gl/pUPR686Vt53amMDX8", label: "2025年5月5日 收藏" },
+      { type: "link", content: "https://photos.app.goo.gl/cR5Q2Fbz3cxB8toc6", label: "2024年5月5日 過去心中的第一名茶六輸了 老井真的驚為天人啊啊啊 完美無死角的燒肉店 真的太推了 晚點寫食記 老井極上燒肉" },
+      { type: "link", content: "https://photos.app.goo.gl/qxPVv7FbnHxVxrdP6", label: "2024年5月5日 \
+        FC一直理解錯一個東西但實際上沒有很重要 就是GPA並不是90%CANCA 應該是有90%可以檢驗出ANCA \
+        而這些ANCA裡有80%cANCA 20%pANCA 而MPA寫70%pANCA卻沒有錯 那是因為他基本上有ANCA就全部是pANCA 不知道我的理解是否正確" },
+      { type: "link", content: "https://photos.app.goo.gl/JzKcsf4y5u3sJtsz8", label: "2024年5月5日 \
+        週日回來打病歷 打兩個小時打到麻了 也不敢要求學弟妹幫忙打note \
+        這個禮拜運氣不錯 有一天能完全不進醫院 但接下來兩年多數一週七天有七天要進醫院吧" },
+      { type: "link", content: "https://photos.app.goo.gl/ytPktSW9VjJMBYWP7", label: "2024年5月5日 去年幫的同學拍婚禮攝影 過程辛苦但甘之如飴 對比今年痛苦十分 PS跟相機幾乎一個月沒碰一次 接下來更不可能再碰了" },
+      { type: "link", content: "https://photos.app.goo.gl/LWxyVnEt32AJQN6z5", label: "2024年5月5日 每每進城的路上 都會經過台中榮總 如果能離開台北回中部不知有多好" },
+      { type: "link", content: "https://photos.app.goo.gl/99RDuBrwviV5TVjs5", label: "2024年5月5日 凌亂簡陋 但卻完全屬於自己的小天地 可以靜心看書" },
+      { type: "link", content: "https://photos.app.goo.gl/XBiaYzuAi18UdEWc6", label: "2024年5月5日 這是做啥職業怎麼那麼有錢 羨慕" },
+      { type: "link", content: "https://photos.app.goo.gl/hyAixh2dmyup3bZo7", label: "2024年5月5日 這個好爽" },
+      { type: "link", content: "https://photos.app.goo.gl/zHV59y3xtckLP8Wt5", label: "2022年5月5日 怎麼會有人想睡在ct裡面XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/SeBvqnBZMro4n4ut9", label: "2022年5月5日 突然學會如何正確問問題了XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/ZZ2bVXPLeKRcDWWDA", label: "2021年5月5日 \
+        竹村居酒屋藍調&醫涯分享No.1 聽到xx科醫生 很多人會想這到底是內科還是外科呢 \
+        比方說有人講心臟科 而心臟科其實有心臟內科跟心臟外科 但說到腎臟科 卻不會有腎臟外科 只有腎臟內科 \
+        究竟內外科的分法是怎樣的方式 求診時又該掛哪科呢 就我自己的理解 廣義來說可分成外科與內科 最粗略分就是會開刀的屬外科 \
+        常聽到的外科有心臟外科 一般外科 胸腔外科 骨科等 而皮膚 耳鼻喉科 眼科及婦產科也因為治療方式包含手術 一樣在外科裡 \
+        相對來說 沒有手術治療的腎臟內科 心臟內科 家醫以及小兒科就是內科範疇 其餘的還有急診 是一個急救與決定後續住院科別的角色 \
+        另外不會直接接觸病人 像是病理科 放射診斷科等稱為二線科 不歸類到內外科 之所以討論這些分類 除了因為被問過 \
+        最重要的是民眾可以在生病時 大抵的知道該掛哪科 通常不到太嚴重的疾 基本上都可從內科開始選擇門診掛號 \
+        若需進一步侵入治療再轉介給外科或二線科 我小時候還不懂 感冒總是去耳鼻喉科診所 久而久之對所有醫師的想像就是耳鼻喉科 \
+        但初期不舒服的症狀 可從家醫或內科開始求診 比方說感冒症狀 內科醫生更能判斷是否只是普通感冒 或者是其他疾病但類似感冒的症狀 \
+        而後根據不同症狀發生的部位或特性 選擇掛號科別 像蜂窩性組織炎找感染科 胸痛找心臟內科 咳嗽找胸腔內科 \
+        腰痛或排尿困難找腎臟內科及女性肚子及泌尿問題可找婦產科 當然除非是嚴重或很緊急的情況 否則不建議為了趕時間而去急診 \
+        最後 這只是很輕鬆的閒聊 任何病情 診斷或用藥疑問只能掛號找專科的醫師諮詢囉 Liakulea 結尾偷渡一下這支手錶 \
+        我超喜歡錶面的深藍色 反光時非常好看啊 如果喜歡 折扣代碼omgwpbo12 輸入享有10%OFF唷" },
+      { type: "link", content: "https://photos.app.goo.gl/o24FW3dnoKk7iN1b7", label: "2021年5月5日 \
+        以後都會以此格式 分享標題包含作品名稱 後面會有攝影 生活或醫涯分享這三個主題 來寫一些輕鬆或教學內容 \
+        大家可以選擇有興趣的點入觀看囉 這次分享內容是醫學 內科與外科之別 以及掛號時大抵如何選擇門診科別 也歡迎分享自己的經驗及提問唷" },
+      { type: "link", content: "https://photos.app.goo.gl/1dNw5JnGUC946w62A", label: "2021年5月5日 基隆正濱漁港藍調 像是小小的威尼斯 追憶出國飄盪的時光 村老有空來基隆玩啊" },
+      { type: "link", content: "https://photos.app.goo.gl/pLcmmU9Yhk2ceM499", label: "2021年5月5日 關於我對攝影器材及科技未來的看法" },
+      { type: "link", content: "https://photos.app.goo.gl/QAAtshnTTtdJvbEi6", label: "2021年5月5日 總院wenmike院長巡視國軍松山分院 提點同仁防疫期間不忘遵守軍人黨國本份 嚴守紀律 中午便當不能買太久 需速回辦公室賡續醫學教育" },
+      { type: "link", content: "https://photos.app.goo.gl/ePER6DFdy413wS9b8", label: "2021年5月5日 認真覺得可以看完 我都以為這是故意演的劇本怎麼可以這麼好笑XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/e4x1zmUivTX3xVG16", label: "2018年5月5日 你有你的報告與實習 我有我的國考與軍旅 知道這一切多麼不容易 也知道現在不能給你十全十美的感情生活 所以衷心的感謝妳" },
+    ],
     "6": [
+      { type: "link", content: "https://photos.app.goo.gl/cbecWVM1zQBRRBrC7", label: "2026年5月6日 這什麼放屁文 發這種文你對得起自己良心" },
+      { type: "link", content: "https://photos.app.goo.gl/2fhsyBYM1DoGjBJQ6", label: "2026年5月6日 果然是考不上醫師才會有的結論" },
+      { type: "link", content: "https://photos.app.goo.gl/eUQocJ3UPU7AZ9j56", label: "2026年5月6日 \
+        喔喔 醫師有可能被病人打 還上新聞 告了還不一定有用 這個是尊嚴嗎 \
+        還曾經有牙醫在診所被莫名其妙刺殺 這個是尊嚴嗎 對了有工程師被客戶打過嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/BCitnWXocp9wKBBS7", label: "2026年5月6日 \
+        時不時都有這種網路造謠版的醫事人員薪水 目的不外乎就是惡意誤導民眾 藉此掩蓋醫護低薪過勞的事實 \
+        附上我認知的實際薪水 但醫師以外我不是很確定有錯請見諒 一條人命無價的話 醫護人員每天救苦救命 \
+        薪水這樣合理嗎 摸著良心都知道兩倍以上目前的薪水都只能算是剛好" },
+      { type: "link", content: "https://photos.app.goo.gl/gLL7QhZWghC6ECcb9", label: "2026年5月6日 \
+        勸你是不要信抖音影片跟自稱 醫學博士 的人的論述 自己都不懂就出來對健康跟醫療議題大談闊論 這就是害人害己 \
+        講這種主題最可信的只有 具有專科證書 的醫師 尤其糖尿病這種我只信新陳代謝科醫師" },
+      { type: "link", content: "https://photos.app.goo.gl/XPp2QoJAZ3Eaj42k9", label: "2026年5月6日 有大大知道這個拍點在哪嗎 以後去釜山的朝聖點+1" },
+      { type: "link", content: "https://photos.app.goo.gl/T2ymSxHEJbDreHKy8", label: "2026年5月6日 我們也應該來追蹤學習" },
+      { type: "link", content: "https://photos.app.goo.gl/Sfrn9fXnEJGeeR1M7", label: "2025年5月6日 想請問近期 今年 有去泰國的朋友 沒有申請空拍許可及保險 單純帶空拍機入境機場 會被攔截或沒收嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/cVBSRasd5HtnvYB69", label: "2025年5月6日 \
+        查了一大圈 總共一個月的時間到處問 結果是gpt給我這個資訊 泰國當地的空拍代辦 完全毫無中文資訊 \
+        沒有任何台灣或大陸的討論區提過 不曉得是不是詐騙 賭一把了 我實在不懂 泰國那麼漂亮 \
+        為何幾乎沒有台灣人帶空拍機去拍orz 但確實泰國申請難度是世界第一" },
+      { type: "link", content: "https://photos.app.goo.gl/yjEa841g2n1uFqFy9", label: "2025年5月6日 \
+        這個空拍畫面 我看過後每一天都無法忘記 這種震撼這種美 就是我努力想傳達的藝術作品 \
+        所以我才好奇 真的沒有人去泰國飛空拍嗎 真的很美啊 還有水上市場的空拍 我也不知是否合法" },
+      { type: "link", content: "https://photos.app.goo.gl/uYb1C4xrkVvj2KTs8", label: "2025年5月6日 沒錯 我們上太多班了" },
+      { type: "link", content: "https://photos.app.goo.gl/F5rMTMSNh6zpV7o69", label: "2024年5月6日 參加婚禮順便偷偷幫同學拍了幾張 今年推掉兩個婚攝覺得超難過 好想轉職全心當婚禮攝影師 誤 參加婚禮順便偷拍幾張" },
+      { type: "link", content: "https://photos.app.goo.gl/AuNZVps2Poo6djpq7", label: "2024年5月6日 \
+        台中 北屯 老井燒肉 台中崇德店 久違的吃到必須狂推的好吃燒肉 開胃的白桃醋飲簡直完美 我還沒遇過一家燒肉店的醋飲讓我喝第二口的 \
+        都非常酸又刺激 白桃醋飲甜度剛好 口感滑溜我喝了快十杯 小菜的南瓜泥 搭配葡萄乾跟紫蘇梅醬 真的讚 點甜的味道非常非常順口 \
+        師傅幫烤鰻魚 完美 肉質非常柔軟入口即化 到小刺 連皮都沒有一點點的焦掉脆化 雪花魚的鮮甜 越南草蝦搭配起司 \
+        蝦肉吃得出Q彈不老 實在享受 其餘海鮮當然也是超好吃 決勝負的松阪豬 過去只有茶六及格 沒想到老井更勝一籌 完全不老不韌 \
+        可以輕鬆咀嚼 牛肉更是不用說了 鮮嫩多汁入口即化 最後的甜點也有四種以上可以選 種類很多 \
+        順帶一提 店家後面就是民生公園停車場 半小時10元還很多位置 開車的朋友也完全不用擔心市區難停車" },
+      { type: "link", content: "https://photos.app.goo.gl/s2eGHTn6vJTeQX3j7", label: "2023年5月6日 \
+        剛在停車場電梯按錯樓層 旁邊一位很普通的路人伯伯跟我說樓層錯了 非常好心的提醒我幫我按對樓層 \
+        接著他繳費完我就聽到超帥引擎聲響徹地下室 幹是法拉利 原來這就是所謂的 低調有錢人 \
+        菜市場的穿著 平凡的夾腳拖 旁邊一位平凡的家庭主婦阿姨 好霸氣QAQ" },
+      { type: "link", content: "https://photos.app.goo.gl/JKPtc6vyeGrqNHEL7", label: "2023年5月6日 \
+        為了註冊空拍機 一直在找MAC M1可以用的讀卡機 TYPE C接頭 結果很多都無法使用在MAC \
+        求推薦MAC M1能使用的讀卡機 報稅健保卡自然人憑證等都可以用的 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/qVmYwQB9AzG1G3et5", label: "2023年5月6日 今天拍活潑可愛又健壯的卡卡 這禮拜唯一放鬆的一天 今天的主角卡卡" },
+      { type: "link", content: "https://photos.app.goo.gl/aYfBf7uxxucBJLXK9", label: "2022年5月6日 夜太美 也太美" },
+      { type: "link", content: "https://photos.app.goo.gl/pujjAwxs6P5DPXdk7", label: "2022年5月6日 好厲害的case 相同的case在南京 今年才剛發case report在NEJM 可惜了 猜猜哪裡有問題 遇到跟今年NEJM一樣的case" },
+      { type: "link", content: "https://photos.app.goo.gl/p6EvhtNHQfxMmj6TA", label: "2022年5月6日 \
+        臨床上大家遇到剛放的porta 只打過一次化療 第二次來位置都正確 但完全退不進去也無法抽出血 \
+        接下來除了摳後線 還有什麼建議的處理方式嗎 左圖上個月 右圖本月 假如真的是稍微跑出上腔靜脈一點 應該也不至於無法推針進去 \
+        長度感覺有稍微不一樣 但如果斷掉應該不可能沒症狀吧 我不是占卜 我是在問摳外科之前有什麼方式評估 還有沒有能做的 臨床上你遇到問題 什麼都直接摳最後線嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/ADA53XkSeWe1JSgL6", label: "2022年5月6日 這次的鏡頭感覺很厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/V3E1ym7RZ4w7xeak6", label: "2021年5月6日 有夠帥的學長 小編也很強 這是理想的醫師model" },
+      { type: "link", content: "https://photos.app.goo.gl/zvFKdyTo1GNRvNVF9", label: "2021年5月6日 兩餐韓國年糕火鍋吃到飽 大直ATT店 我的老天爺啊 韓國炸雞塊真是世界第一好吃" },
+      { type: "link", content: "https://photos.app.goo.gl/KvV9dXnahC5tednCA", label: "2021年5月6日 雷湘安皮膚科診所 全自費門診做30年" },
+      { type: "link", content: "https://photos.app.goo.gl/6c6UwBZNvAPqjCXt8", label: "2021年5月6日 漂亮" },
+      { type: "link", content: "https://photos.app.goo.gl/Vh6B6mo42LJT3y6L6", label: "2019年5月6日 我到第一天 跟科長面談 直接跟我說8月去烏坵 雞歪" },
       { type: "link", content: "https://photos.app.goo.gl/Y3KexFzoaac41vTR6", label: "2017年5月6日 道貌岸然的保險業務 沒屁本事 搞得自己很端莊很有錢 用交友軟體騙女人 不是第一次看到 呵呵" },
       { type: "link", content: "https://photos.app.goo.gl/XC5wzck1pQhcs5h59", label: "2017年5月6日 為了免費便當直接從睡中彈起來 Get 上課點名都沒這麼快" }
     ],
     "7": [
+      { type: "link", content: "https://photos.app.goo.gl/Zqi93c7oELyX9gv69", label: "2026年5月7日 \
+        就是因為中國人很多都跟畜生一樣 家人跌倒出事就趕快找替死鬼來要錢 才造成這種可悲觀念 \
+        一樣的道理 台灣人也不用太高興 多的是享受著台灣醫療便宜跟便利性 結果治療結果不滿意就想告醫生領錢的也一堆 \
+        這也會慢慢讓防衛醫療盛行 讓有熱忱的醫師消失 這個影片很好 台灣人也要反省自己在醫療上別跟大陸人一樣" },
+      { type: "link", content: "https://photos.app.goo.gl/eHUr8Fy6M7ZyeLp28", label: "2026年5月7日 這樣發生幾次 頻率跟醫師被家屬打 被家屬告比根本小巫見大巫 要講尊嚴 醫師在台灣這個醫療環境常常是最沒尊嚴的" },
+      { type: "link", content: "https://photos.app.goo.gl/xAFq7W2ttEAXr3NRA", label: "2026年5月7日 好讚 我也想去嘉義的診所 羨慕慢步調生活" },
+      { type: "link", content: "https://photos.app.goo.gl/mMCSyxgcFgduUPR98", label: "2026年5月7日 原來蟑螂也能長那麼大隻還穿衣服ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/wrHpsNEX9PjZxdCm7", label: "2026年5月7日 好喜歡看這位大蕃薯牙醫唱歌跳舞 他可以跟那個割包皮女醫一起出道組醫師偶像團XD" },
+      { type: "link", content: "https://photos.app.goo.gl/sqiCFJVdY59B9n767", label: "2026年5月7日 真可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/euyFXLzNnFCzVxGY8", label: "2026年5月7日 感覺可以潛水" },
+      { type: "link", content: "https://photos.app.goo.gl/95R9a2APv5bNJX2h8", label: "2026年5月7日 情緒穩定惹人愛捏" },
+      { type: "link", content: "https://photos.app.goo.gl/hRkS7nKKq7iuT1f26", label: "2026年5月7日 他原生色調偏暖 我覺得好像可以內建調" },
+      { type: "link", content: "https://photos.app.goo.gl/FLqb7oYecVK5tVkx8", label: "2025年5月7日 我專業的 胸墊拿出來折成正面曬好 衣服要用小衣架以免肩膀處突出 最後保持衣服適當間隔 但最重要的是有錢買一棟通風的大樓QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/DJwiLowRAEaosusVA", label: "2025年5月7日 現在很少人自稱王總 應該改成王老爹哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/xgw7w1iw6MZSC6Cw6", label: "2025年5月7日 好啊" },
+      { type: "link", content: "https://photos.app.goo.gl/FiiJjMdDGe21ecdt6", label: "2025年5月7日 家裡到處都有貓貓裝飾" },
+      { type: "link", content: "https://photos.app.goo.gl/3cgRecaECas4poa17", label: "2025年5月7日 超可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/VLQeP8aUQUke5PuP9", label: "2024年5月7日 吳總太強 我都看不到自己的下班時間在哪" },
+      { type: "link", content: "https://photos.app.goo.gl/qidNMxuVt1NnTsuC7", label: "2024年5月7日 努力存錢家裡才能搞這樣" },
+      { type: "link", content: "https://photos.app.goo.gl/1NwQos3GvsCYA1TB7", label: "2023年5月7日 \
+        直接重點整理 投資平台即使給任何德高望重的藝人或台大等高學歷畢業生代言都不能信 \
+        政府官員出席詐騙董事長餐會 但事後沒有一個部門承認監督失職 這次是金管會負責 但被諮詢時直接裝死 就是民眾投訴無門 \
+        這個平台的董事長跟綠營政府親近 甚至有多項犯罪前科 本身還是黑道堂會 \
+        IMB就是龐氏騙局 永遠記住一件事 所有的投資最終都是一個法則 就是賠錢的人把錢送給贏錢的人 \
+        除非本身有營收公開且成長 否則任何投資錢絕對不會無中生有 有人賺錢就是有人賠錢 別再有大家都發大財這種可笑想法" },
+      { type: "link", content: "https://photos.app.goo.gl/vv5eEfrAmAk552Qw8", label: "2023年5月7日 學長辛苦了" },
+      { type: "link", content: "https://photos.app.goo.gl/ZCgzeBBDeFJLP1Jo9", label: "2022年5月7日 玩貓必備傷痕Get" },
+      { type: "link", content: "https://photos.app.goo.gl/47RvrbAxxqptePgFA", label: "2022年5月7日 歷史性的一刻" },
+      { type: "link", content: "https://photos.app.goo.gl/Bh86JNqoEUiwQM5m9", label: "2021年5月7日 我有一個堅持 這輩子買股票寧願不賺 也不能虧損一塊錢 唉 但每天打開看真的好痛苦" },
+      { type: "link", content: "https://photos.app.goo.gl/zMJ9rbcuqzydj19V8", label: "2020年5月7日 被動收入想得美 財富自由甲咖拜" },
+      { type: "link", content: "https://photos.app.goo.gl/cqsjXQ2ASsesk8x18", label: "2020年5月7日 存金融股才是抄底戰術啊 就是抄底壓低成本賭銀行大到不會倒啊 謝謝大師開示" },
+      { type: "link", content: "https://photos.app.goo.gl/jvxownJqs76TmrbU9", label: "2019年5月7日 我才不要去 寧願退伍" },
+      { type: "link", content: "https://photos.app.goo.gl/pZRwhUvEreGWq74DA", label: "2018年5月7日 雙心池塘 最近偶爾翻到舊照時 才想起自己曾經會拍照" },
       { type: "link", content: "https://photos.app.goo.gl/ZJFgsgTJhAVxin31A", label: "2017年5月7日 101借我帶回家一天" }
     ],
     "8": [
