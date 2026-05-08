@@ -6476,12 +6476,135 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/ZJFgsgTJhAVxin31A", label: "2017年5月7日 101借我帶回家一天" }
     ],
     "8": [
+      { type: "link", content: "https://photos.app.goo.gl/abKXzwLjUT9nCbje9", label: "2025年5月8日 一邊丟掉智力一邊發文我倒是看過" },
+      { type: "link", content: "https://photos.app.goo.gl/4EgK5joTQRzr7HWS8", label: "2025年5月8日 那妳平常在乎醫護過勞跟低薪嗎 彼此彼此啦" },
+      { type: "link", content: "https://photos.app.goo.gl/Gm614CK4S6e9QFXf6", label: "2025年5月8日 \
+        猶豫了很久 還是戰戰兢兢的付了3200台幣給泰國空拍代辦 拜託老天爺 千萬不要是詐騙 \
+        泰國政府對空拍超級無敵不友善 申請手續複雜又困難 後續我會再分享這個心得 得之於粉絲 也要回饋粉絲" },
+      { type: "link", content: "https://photos.app.goo.gl/Q3ejt4hRNp8ESzm99", label: "2025年5月8日 \
+        另外分享一下 我怕被詐騙 還把他們寄給我的匯款銀行行名跟銀行地址做比對 google map無法查到那個地址 \
+        查起來真的是有這間銀行 我才敢匯款 我出國每次都要面對正常觀光客不用面對的超陌生問題 為了攝影作品真的是傷透腦筋" },
+      { type: "link", content: "https://photos.app.goo.gl/rzbrWiuaC222nFr49", label: "2025年5月8日 小小貓才會真的乖XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/kcKygXpfgsmuYE228", label: "2025年5月8日 小小警報器 就是可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/6qZ9dMAYcqEs9WLi6", label: "2025年5月8日 對啊" },
+      { type: "link", content: "https://photos.app.goo.gl/FiC8WXnJ5cRQxYs26", label: "2024年5月8日 \
+        Cv剛上工兩個禮拜 導管室 routine不會 上課的東西也不會 內專也讀不完 下兩個月值班不是9就是10班 真從來沒這麼絕望過 \
+        我這輩子最大的錯誤就是當 國防醫學院軍費生 寧可不當醫師也別當軍費生 滿滿的挫折 這種生活真的很可悲" },
+      { type: "link", content: "https://photos.app.goo.gl/CSkoV3VS2yCMk4QP7", label: "2024年5月8日 那我只好直接給卡 要多少動力自己刷" },
+      { type: "link", content: "https://photos.app.goo.gl/hcrEUSnZSfXM2v358", label: "2024年5月8日 沒辦法出生在奇怪的國家" },
+      { type: "link", content: "https://photos.app.goo.gl/E69irbRp9H3gBiUk8", label: "2023年5月8日 垃圾詐騙集團盜帳 小心不要被騙 詐騙者正在到處私訊騙人" },
+      { type: "link", content: "https://photos.app.goo.gl/StPy37osZvomnatk7", label: "2023年5月8日 \
+        請幫忙檢舉 JenniferZhao的臉書讓盜帳者停權 下班前收到非常震驚的消息 趙婕涵的臉書被盜帳 而且 \
+        正在用對話私訊所有朋友騙賣手機 只要你去留言就會被他封鎖 我也很傻眼居然發身在自己身上 第一請大家不要被騙 \
+        第二收到任何確認簡訊都不要點開! 三請幫我截圖她頁面上任何資訊傳給我 第四如果有什麼救回帳號的方式務必告訴我 \
+        真的真的非常感謝 詐騙集團ム全家剛好而已 大家如果有私訊她 麻煩幫忙截圖對話 盡量騙多點她的資訊 需要報案用QQ \
+        可以的話請大家幫忙檢舉 讓他先停權 另外不要留言跟戳破 他會封鎖你" },
+      { type: "link", content: "https://photos.app.goo.gl/5M8cx9Rop4GWgwxt5", label: "2023年5月8日 \
+        最近詐騙猖獗 連都被盜帳 除了祈禱詐騙集團死全家且全身得猴痘肺炎心肌梗塞胰臟癌 全身流膿爛掉還沒得救以外 \
+        鄭重呼籲即使雙重認證都可能被盜帳 請大家幫忙檢舉被盜帳號使停權讓我們有時間救回 也希望大家密碼設超長而且不要點任何手機莫名跳出認證的東西" },
+      { type: "link", content: "https://photos.app.goo.gl/yMdU7vDgN4e8TBHi7", label: "2023年5月8日 詐騙集團還盜用別人證件來證明自己身份有夠好笑 有沒有什麼能救FB帳號回來的方式 信箱電話應該都被改掉" },
+      { type: "link", content: "https://photos.app.goo.gl/5r2LkHTRpX1w7cwZ7", label: "2023年5月8日 已經有朋友被騙五萬塊 真的太扯了 拜託大家千萬別以為不會是你遇到 真的遇到就是被騙一波大的" },
+      { type: "link", content: "https://photos.app.goo.gl/Vp44nPJNZufWaWZA6", label: "2023年5月8日 來報案了 這些垃圾集團 好手好腳不工作 長著腦殼裡面裝的都是屎 搞我們這些老百姓" },
+      { type: "link", content: "https://photos.app.goo.gl/GRL6EqenPJDf4EeHA", label: "2022年5月8日 小螃蟹跳健康操" },
+      { type: "link", content: "https://photos.app.goo.gl/NmASGkaBBtEbDXTy7", label: "2022年5月8日 生平第一次看到 原來高壓電線是這樣修的 要吊在電線上面移動" },
+      { type: "link", content: "https://photos.app.goo.gl/17QojaSfmWzCYV9T8", label: "2021年5月8日 晚餐煎土托魚 人生第一次煎魚 只有醬油跟油 沒有薑 沒有蔥 沒有檸檬 沒有各種華麗的調味 因為 我在買的時候一時忘記買調味了 雖然沒有腥味也香香的 但是有點柴" },
+      { type: "link", content: "https://photos.app.goo.gl/iuSEzot8MZhDWXHQ6", label: "2021年5月8日 愛心表單填寫師" },
+      { type: "link", content: "https://photos.app.goo.gl/N9hXxiQiusBzZDE87", label: "2021年5月8日 健康問卷志工 ER版 松山區新聚里里民活動中心" },
+      { type: "link", content: "https://photos.app.goo.gl/VLrVwVab9L7T711y7", label: "2020年5月8日 \
+        下部隊快兩年 第一次被中校質問你知道救護車出勤要幾個人嗎 兩個人夠嗎 你看過規定嗎 問你隊長啊 \
+        於是科普一下 行政院衛福部緊急救護法第18條 明確規定出勤時為兩個人含以上 希望未來有幫助到學弟妹" },
+      { type: "link", content: "https://photos.app.goo.gl/4Ws3tE8Wvpzb2qqv6", label: "2020年5月8日 認同 平常不繳稅不找正職工作 是當我們辛辛苦苦每年繳稅有憑單的白癡嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/LvCnuPXr816WZxuaA", label: "2020年5月8日 不用繳稅的人像流氓一樣討繳稅人的錢" },
+      { type: "link", content: "https://photos.app.goo.gl/Q3fNxef8Hsuvu74DA", label: "2020年5月8日 幾年前實習的時候 我也幫癌末病人完成一樣的夢想 雖然拍完後兩天安然離世了 但慶幸自己還有攝影這條路 能做點貢獻" },
       { type: "link", content: "https://photos.app.goo.gl/qfYPJmuyc4Jkv2126", label: "2017年5月8日 真心喜歡SICU 遇到很不同的case 有一點時間能讀書" },
       { type: "link", content: "https://photos.app.goo.gl/f8VvRm7hMh5scuFm9", label: "2017年5月8日 Don't let your past determine your future From Ant-Man 信義區 antman antmanmovie" },
       { type: "link", content: "https://photos.app.goo.gl/pgoFqcqJBoNUbyrk6", label: "2017年5月8日 紀念第一次挖大便成就 滿滿的 滿適合催吐的 都這麼犧牲拜託病人狀況改善阿" }
     ],
-    "9": [],
+    "9": [
+      { type: "link", content: "https://photos.app.goo.gl/DBZMYJD9QoW3Lm937", label: "2025年5月9日 我覺得人與人之間就是彼此尊重 跟職業無關" },
+      { type: "link", content: "https://photos.app.goo.gl/W9tgK84VKiSCZRrNA", label: "2025年5月9日 軍費生退賠制度是整個國家在欺負高中生 這部分了解過了嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/kKKBqenFAcrAaF4K6", label: "2025年5月9日 不能這樣ㄛ" },
+      { type: "link", content: "https://photos.app.goo.gl/pcKCRe1o1ymedhPY6", label: "2025年5月9日 中國本土做的東西除了DJI 其他幾乎都垃圾跟抄襲" },
+      { type: "link", content: "https://photos.app.goo.gl/3vpF5PbsF6erFCPq9", label: "2025年5月9日 哈哈哈哈男生對在意的事情都會很固執XD" },
+      { type: "link", content: "https://photos.app.goo.gl/fDqGDo2QWGrM9kLx6", label: "2025年5月9日 專業" },
+      { type: "link", content: "https://photos.app.goo.gl/vvFTtMA57FjdS1of7", label: "2024年5月9日 值班汀州的日子 雖然交通很麻煩 但可以回味一下大學吃到的美食 接下來的幾個月昏天黑地 可能明年這時候我還在煩惱 內專會不會過唉唉" },
+      { type: "link", content: "https://photos.app.goo.gl/PqRiEvwQEhbbGCkTA", label: "2024年5月9日 \
+        該患者今日15:30左右就心跳快 呼吸喘 發燒合併血壓掉 第一時間就應該想到Septic shock \
+        並且合理的追蹤抽血做處置 但本科NP只给予midorine及gipamine 開了CEFIM就下班 即使有DNR除藥 \
+        這些都不是合理的處置方式 應該第一時間抽血評估SOFA 確認是否septic shock 並且再次跟家屬確認是否DNR除藥 \
+        要不要打cvp 連CULTURE都只有5/6的 cxr也沒有 再者 所有高血壓用藥都沒有prn 也沒有評估是否會診感染科 \
+        前述這些下午就應該做的不做 留到晚上給值班處理實在不合理 故留下病歷紀錄 希望下次本科能提早掌握患者病況 \
+        在合理可預測的前提下不要讓值班遇到爆炸的病人 拜託體諒值班數很多又要考試的住院醫師 拜託 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/KkzJqkqQd24LXP6W7", label: "2024年5月9日 \
+        下午1530就呼吸喘發燒心跳快掉血壓的病人 很明顯要懷疑septic shock 只給midorine跟prn gipamin \
+        等到值班爆炸在留給我抽血 會診感染科 照相 收culture" },
+      { type: "link", content: "https://photos.app.goo.gl/ekvhWpMPoqub973M8", label: "2024年5月9日 \
+        外在路徑 在外part time(PT)我發(wafarin)了 因為很爽站著37步(factor3, 7) \
+        內在路徑 在內我怕(heparin,pa=怕)太太(aptt) Factor8,9,11背法很勉強 89站著兩隻腳很細 89屁孩都黑衣褲又很瘦 腳很細長=11很細細長雙腳" },
+      { type: "link", content: "https://photos.app.goo.gl/HZzuznpya4DsjdCZ6", label: "2024年5月9日 好" },
+      { type: "link", content: "https://photos.app.goo.gl/raoTUFuThXYWRQPs7", label: "2024年5月9日 他可以分一半的快樂給我們嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/S7rgTJdVEsBbmstz8", label: "2023年5月9日 詐騙對話過程 左邊是被盜帳的 右邊是我可憐的朋友" },
+      { type: "link", content: "https://photos.app.goo.gl/f9RKBpQ6qfGxW1wH8", label: "2023年5月9日 \
+        詐騙集團謊稱需要用點數扣款才能衝業績 但實際上是為了躲避匯款紀錄 因為用點數是無法查的 \
+        這個時代已經沒有任何交易方式是用點數 絕對不可能 請大家拜託 自己注意 我們去報案完剛回來 \
+        近期報案有40%都是被詐騙 我們寫筆錄同時也有一個路人來報案 被詐騙盜刷" },
+      { type: "link", content: "https://photos.app.goo.gl/6y9rDagPAn7TiZuu6", label: "2023年5月9日 \
+        最後分享一下事情的起點 下午五點收到一封簡訊如圖 莫名驗證碼 結果她FB當下就被強制登出了 我推測事情是這樣 \
+        因為是手機綁FB 沒有綁EMAIL 因此詐騙集團有他的電話後 用電話登入FB 選擇忘記密碼 然後綁一個自己的EMAIL \
+        如此一來就用詐騙集團的EMAIL登入 再把原本的綁定手機改掉 真的是高招 所以大家只要FB只綁手機或EMAIL \
+        詐騙集團知道另一個資訊 就能用雙重驗證的方式來搶你帳號" },
+      { type: "link", content: "https://photos.app.goo.gl/vF6ftEAvKZCbzipcA", label: "2023年5月9日 \
+        結論 外面很多個資要填 電話OR電子郵件 請大家千萬能不填就不填 尤其一堆莫名問卷或辦信用卡啥的 \
+        你都不知誰洩漏你名字跟個資 賣給詐騙公司 甚至是詐騙公司的假問卷調查 隨機收集個資 電話跟EMAIL齊全就有機會騙你的帳號 \
+        台灣政府不會保護你 警察報案了也要不回帳號 只要你自己能保護自己" },
+      { type: "link", content: "https://photos.app.goo.gl/Bg8QbUGBB6EgtiJk9", label: "2023年5月9日 \
+        目前進度似乎主動還帳號 但這個人我無法原諒 他去年就已經用同帳號同照片詐騙過人 警察還是抓不了他 有上新聞 \
+        意思就是後續他會繼續盜用大家帳號 看誰倒霉誰遇到 FB裡面資訊也會被他盜光" },
+      { type: "link", content: "https://photos.app.goo.gl/hkoMVaQnWY2veRs96", label: "2023年5月9日 詐騙集團很敬業 可是還是麻煩他們都去死" },
+      { type: "link", content: "https://photos.app.goo.gl/8QEwybhtjU5PRcHF7", label: "2022年5月9日 容易理解 但病人很可憐的case 終於整理好了 本次NEJM等級的案例整理 臨床紀錄影像 本次是跟登上2022 NEJM case report相同的案例 值得一看" },
+      { type: "link", content: "https://photos.app.goo.gl/ePgXuzPxPzrSSP9o6", label: "2018年5月9日 今天的雲很像以前在歐洲看到的雲 這一生我什麼都不要 只希望跟自由遊遊世界 拍盡世界美景足矣" },
+      { type: "link", content: "https://photos.app.goo.gl/FWFQvCM6U25M8oCy9", label: "2018年5月9日 統治台灣的是誰不重要 重要的是誰也能帶台灣也走向國際 打破僵局 能在國際佔有一席之地" },
+      { type: "link", content: "https://photos.app.goo.gl/WMZb4PkTrea9cfJJ7", label: "2018年5月9日 百感交集 高中莘莘學子們 請你們在選擇國防體系之前 好好思考與了解吧" },
+      { type: "link", content: "https://photos.app.goo.gl/BEDWKQfCrDmJMjjg8", label: "2018年5月9日 這傢伙正在幫全世界的人裝麥當勞寶報 我懷疑mike1357935想用麥當勞報報征服世界 繼我之後這次居然連dennis88111也淪落魔掌 被裝上麥當勞報報" }
+    ],
     "10": [
+      { type: "link", content: "https://photos.app.goo.gl/SJUxYYS5Fd392swo8", label: "2025年5月10日 建議發文前請chatgpt幫你審稿 chatgpt瞎掰都比你文章有用腦" },
+      { type: "link", content: "https://photos.app.goo.gl/S3NnxWuyfT2zxoqr5", label: "2025年5月10日 一點都不好玩 一堆啤酒 很浪費健康" },
+      { type: "link", content: "https://photos.app.goo.gl/dU16pw6otRwfGoMaA", label: "2025年5月10日 音樂 修圖 咖啡 這是我理想的生活 真的很羨慕國外有些專注在創作作品的人 他們的人生彷彿剩下藝術跟美感就好" },
+      { type: "link", content: "https://photos.app.goo.gl/UrVT3s6QU6p23m3Y9", label: "2025年5月10日 這禮拜唯一一天的假日 一樣早起上工去 臺中市" },
+      { type: "link", content: "https://photos.app.goo.gl/HgwUCNrNPsn7txBP6", label: "2025年5月10日 恭喜好友 幫好友紀錄幸福時刻" },
+      { type: "link", content: "https://photos.app.goo.gl/8pCMuqPW4UFECH3A7", label: "2024年5月10日 \
+        昨晚那床太生氣打了一篇note給本科 今天再追蹤 病人被升階anti後 vital sign稍微改善 抽血也改善lac下來了也不用升壓藥 \
+        而我的病歷彷彿沒有存在過 也沒有人更改 今天新的病歷一樣複製過去 毫無昨晚的事情被提及 沒關係病人有活就好" },
+      { type: "link", content: "https://photos.app.goo.gl/PER8KsWLpvsTevjHA", label: "2023年5月10日 \
+        台灣政府就是這樣 一天到晚宣傳政績多好 為人民省多少錢 殊不知造成好藥退出台灣 讓醫護領最少的錢做更多的事 \
+        更甚者就是只在乎病人權益 不在乎醫護死活 所以我說何時民智能開 台灣政府能先提高醫護的工作待遇跟保障" },
+      { type: "link", content: "https://photos.app.goo.gl/9mW5EgDyiajHVjsW6", label: "2023年5月10日 \
+        對我來說 人為何會生在這世上 賦予這個世界五彩繽紛跟謎團 並賦予我們身體跟知覺 但生命卻是有限 \
+        我想就是要人類用短暫的生命追尋世界的美好 體驗世界百種風景跟文化 工作等等外在枷鎖並不是我們被出生的原因" },
+      { type: "link", content: "https://photos.app.goo.gl/qmw9rmCeAkSx3yRb9", label: "2023年5月10日 台灣健保就是對民眾太好 養出惡質家屬" },
+      { type: "link", content: "https://photos.app.goo.gl/NYerJCHDgLKkJ7me7", label: "2023年5月10日 請問有大大知道入境峇里島的這個醫療保險 是要準備什麼嗎 真的會看嗎 求最近去過的解惑QQ 網路多數都是疫情前的文章" },
+      { type: "link", content: "https://photos.app.goo.gl/LuL1EnwwFYaL5PVi8", label: "2023年5月10日 沒有值班的每一天 在CV常常忙到1730才正式開始再忙一波 不知道什麼時候可以下班 CV的老師人都很好 學到很多 但真的好累QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/kEf6JNwxRohYecVt6", label: "2023年5月10日 因為醫院的警衛看起來比醫師更不耐打XD 直接把恐龍家屬打到變恐龍病患" },
+      { type: "link", content: "https://photos.app.goo.gl/v2WjvM85epUNdWqK9", label: "2022年5月10日 無須多言 補滿富邦第一優先 開發亦可考慮 其他什麼都不要想 大跌就是好好工作 閒錢再加碼" },
+      { type: "link", content: "https://photos.app.goo.gl/EKr3kXWeYCAu2Fqc7", label: "2022年5月10日 \
+        這篇實在太重要 經過嚴謹的科學考證 確實有機會靠飲食增加壽命 不是那種543亂七八糟的網紅飲食 很值得參考 \
+        但光避免動物蛋白這點 就要犧牲好幾頓燒肉大餐QAQ 來自王介立醫師的分享 IF分數超高" },
+      { type: "link", content: "https://photos.app.goo.gl/YmR1qiQDavHFcNSHA", label: "2022年5月10日 勿信偏方 勿信新聞報導 勿信簡體字的研究 也勿信任何有政治目的的文章 推薦王介立醫師 常分享很多對生活有幫助 可信的醫學研究" },
+      { type: "link", content: "https://photos.app.goo.gl/VMbySxHamFbbNvoX6", label: "2022年5月10日 廢墟上的彩霞 生活分享No.17 特別在這時放上這張作品 希望台灣在病毒肆虐 摧殘後 迎來美麗的天空 民生經濟都能堅強挺過" },
+      { type: "link", content: "https://photos.app.goo.gl/RvXaPepw517YtgMVA", label: "2021年5月10日 學會什麼的 最喜歡把單純的一個詞 從定義到治療 一個字一個字仔細分類 斟酌 解釋跟延伸" },
+      { type: "link", content: "https://photos.app.goo.gl/MAAirKYm8aghEQF36", label: "2021年5月10日 感謝分享的啦 對股票有興趣的朋友也可以跟他聊聊喔" },
+      { type: "link", content: "https://photos.app.goo.gl/Nrc1KC1DUc122VVn8", label: "2020年5月10日 我明明跟某人說要好好存錢 不要買禮物給我 這是要我回醫院上班還要保持跑步好習慣嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/f3zPWXGyLoJ995Ur7", label: "2019年5月10日 這陣子辛苦你了 我也在今年工作最辛苦的五月 加油" },
+      { type: "link", content: "https://photos.app.goo.gl/ntmE9fXPc6RydUDx7", label: "2019年5月10日 \
+        下次再支援的話 我會試著爭取機會 話說戰支營區旁邊的健身房 就是館長贈送的 可惜開放時間都是大家不太能去的時間 \
+        中午1100-1400大家午休跟用餐的時間 下午1600-1900隊上1800才放大家自由 結果就是每天看幾乎沒人 但是器材高級很乾淨" },
+      { type: "link", content: "https://photos.app.goo.gl/ttxdmR9tCfJ7NN8P8", label: "2019年5月10日 望古瀑布 都市近郊還是有很多清幽之地 希望環境能一直好好的 讓我們帶珍惜的人來休憩" },
+      { type: "link", content: "https://photos.app.goo.gl/Vs6AkXMg7D8bj5BR8", label: "2018年5月10日 \
+        敬請臍帶 真的只剩舊照了我的天 接下來稍微分享舊照系列好了 包含以前拍的婚紗作品 是2015-2017年初作品 \
+        當時還不會luminosity 也不會很高深的技巧 但是把筆刷跟圖層練到出神入化 現在回頭看照片好像也沒有很差 所以自己到底有沒有進步啊" },
+      { type: "link", content: "https://photos.app.goo.gl/PQDKrdRz77cDCUU89", label: "2018年5月10日 自己當了病情最難搞的病人 才能體會醫生的偉大 而醫生的價值此時體悟最深刻 真的很謝謝學長幫忙" },
+      { type: "link", content: "https://photos.app.goo.gl/Ey2nLodo7LDViHkD8", label: "2018年5月10日 2017.02在這之前一直沒看過降落的飛機配車軌 所以自己來實現這個構圖 而每次來這裡 心就飛到國外 身體卻在台灣" },
       { type: "link", content: "https://photos.app.goo.gl/q89QMh1Kc7eHqZed7", label: "2017年5月10日 Keep Keep Keep" },
       { type: "link", content: "https://photos.app.goo.gl/RZJytzwS2a1pUK19A", label: "2017年5月10日 \
         富士山 淺間神社 如果日本交換實習順利 希望能在拍攝更多美景回來 因天候取消馬祖藍眼淚 打算從北玩到南順便拍銀河 有人哪天有空的嗎" }
