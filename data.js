@@ -6476,6 +6476,16 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/ZJFgsgTJhAVxin31A", label: "2017年5月7日 101借我帶回家一天" }
     ],
     "8": [
+      { type: "link", content: "https://photos.app.goo.gl/uzPiB1hdKUBC7MAU7", label: "2026年5月8日 嘻嘻 所有醫護人員法案制定的會議 居然都不能超過1/2" },
+      { type: "link", content: "https://photos.app.goo.gl/Z4gykcuWLZovuGLBA", label: "2026年5月8日 \
+        我當過全國學生攝影比賽某屆的評審 以前學生時也有得獎過 攝影作品的好壞其實認定非常主觀 \
+        因為找來的幾位評審都出身於不同的攝影領域 我認為遇到好的評審能最大限度減少主觀這件事 \
+        回歸到光影 構圖 意義傳達 這幾件事 而且我認為投稿的文字評比不能超越照片本身的評比 畢竟影像才是攝影的根本 \
+        另外很多作品因為不符合投稿規定 即使拍的很好也會被淘汰 但最重要的事情如同你說的 \
+        拍出漂亮到連自己都讚嘆的作品最重要 我拍了超過十年 只有這種感覺跟悸動能支持我繼續玩攝影" },
+      { type: "link", content: "https://photos.app.goo.gl/ZVk9kwjrkq3PHGbv8", label: "2026年5月8日 太扯了 他是不是來市區上班的" },
+      { type: "link", content: "https://photos.app.goo.gl/pBPe58Pa29CpLBjs6", label: "2026年5月8日 就是這個東西 變成考試非常恐怖" },
+      { type: "link", content: "https://photos.app.goo.gl/njXWiqQfDEYBuuz76", label: "2026年5月8日 全部手動畫一遍 總算是略懂一點" },
       { type: "link", content: "https://photos.app.goo.gl/abKXzwLjUT9nCbje9", label: "2025年5月8日 一邊丟掉智力一邊發文我倒是看過" },
       { type: "link", content: "https://photos.app.goo.gl/4EgK5joTQRzr7HWS8", label: "2025年5月8日 那妳平常在乎醫護過勞跟低薪嗎 彼此彼此啦" },
       { type: "link", content: "https://photos.app.goo.gl/Gm614CK4S6e9QFXf6", label: "2025年5月8日 \
@@ -6521,6 +6531,32 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/pgoFqcqJBoNUbyrk6", label: "2017年5月8日 紀念第一次挖大便成就 滿滿的 滿適合催吐的 都這麼犧牲拜託病人狀況改善阿" }
     ],
     "9": [
+      { type: "link", content: "https://photos.app.goo.gl/2TFAvVDdAR8CEqYt6", label: "2026年5月9日 \
+        分享一下個人主觀看法 你其實沒有大問題 而是很多攝影玩家在接觸不久都會碰到同樣的撞牆期 就是 模仿形 但 沒有意 \
+        你其實很想拍出 感覺 所以在構圖及後製風格上有認真去模仿一些參考照片 但問題在於 \
+        拍攝這些照片的當下你內心的想法是 不穩定 或者 沒有具體想法 第一張來說 你可能想傳達從路人背影去看周遭環境 \
+        加上他西裝筆挺讓你當下有感而發 但你可以嘗試讓人的背景是建築中間的天空 這樣背影才不會混雜在背景裡 或者選一個乾淨的背影 \
+        再來他視線方向應該要有個特定主題 這樣你把觀看的視線引導過去才會有結果 比方說他視線方向可以是一張有反差的看板 \
+        看板裡是不同於西裝筆挺的廣告 例如宣傳非洲難民或鮮豔的紅色洋裝女星 在顏色或寓意上有反差才會有故事 \
+        第二張構圖很不錯 但就是停留在構圖不錯 但缺少光影 如果你刻意等待夕陽 讓光線造成畫面中神社的立體感 \
+        可能再加上人影子角度正確 張力就更加強 第三張是糖水照 拍照一兩年左右的朋友包括我等曾經歷過 \
+        你好像覺得透過一位老先生老奶奶的沈思能代表什麼 實際上是空的 觀看者不會有共鳴 你可以嘗試用更長 200以上 焦段" },
+      { type: "link", content: "https://photos.app.goo.gl/skdCmwQ62EoS6C9D9", label: "2026年5月9日 \
+        續上文 正面拍攝老者的表情 最好經過同意 是那種清楚刻畫到連皺紋 痣 疤痕都清清楚楚 連帶當下表情情緒的模樣 \
+        這樣或許增加張力的同時 還能讓人印象深刻 而這種也很適合黑白或單色調高對比 第四張除了紀錄白色貨車的突出外無任何意義 \
+        如果你不想改變構圖 至少要有耐心等背景行人離開 因為加入他們沒有意義 讓畫面更乾淨 如果是我要拍這個畫面 \
+        我會選那種路上有可憐奶奶或小孩在賣花之類的 等待他們把物品交給車上駕駛的那一刻拍下 增加小小的互動 \
+        就能給這張照片一個 意義 或 要表達的東西 我理解你當下看到顏色的落差想紀錄 這張照片沒有不好 只是 傳達的意義不具體 \
+        總之你是有下功夫的玩家 KedaZ曾說過攝影是從模仿開始 你已經踏出很棒的第一步 接下來就是大量攝取作品種類 \
+        累積自己的靈感 並且在拍攝某個畫面時多等待或挑時間 要不就讓光影去強化你的照片 要不就讓有故事的人物走進去產生互動 以上是小小的想法" },
+      { type: "link", content: "https://photos.app.goo.gl/huAfqycS9Tj23wVeA", label: "2026年5月9日 \
+        Seoul Vibes 第一次感受Seoul vibes 這裡的空氣跟溫度跟日本很像 街道與建築有點台北的味道在 \
+        傳統的韓國房屋隨著每次轉角都能見到 充滿著日式與中式的融合 首爾的特色是市區內各種高低落差 \
+        因此許多韓劇裡的階梯很常見 尤其搭配著招牌與電線特別有市景的沈浸感 \
+        因為要趕夕陽的緣故 沒辦法在街坊裡等待光線 待有朝一日回訪紀錄這個小遺憾" },
+      { type: "link", content: "https://photos.app.goo.gl/ZkFEgkSK2uJQrHjX6", label: "2026年5月9日 感恩川普 這才是國家領導人該有的邏輯跟態度 讚" },
+      { type: "link", content: "https://photos.app.goo.gl/28zkjirJ3Mh9wePQ8", label: "2026年5月9日 超可憐貓貓 抽菸應該列為犯罪行為" },
+      { type: "link", content: "https://photos.app.goo.gl/cCtknw8EtdZpChPp9", label: "2026年5月9日 也練得太好了吧" },
       { type: "link", content: "https://photos.app.goo.gl/DBZMYJD9QoW3Lm937", label: "2025年5月9日 我覺得人與人之間就是彼此尊重 跟職業無關" },
       { type: "link", content: "https://photos.app.goo.gl/W9tgK84VKiSCZRrNA", label: "2025年5月9日 軍費生退賠制度是整個國家在欺負高中生 這部分了解過了嗎" },
       { type: "link", content: "https://photos.app.goo.gl/kKKBqenFAcrAaF4K6", label: "2025年5月9日 不能這樣ㄛ" },
@@ -6568,6 +6604,17 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/BEDWKQfCrDmJMjjg8", label: "2018年5月9日 這傢伙正在幫全世界的人裝麥當勞寶報 我懷疑mike1357935想用麥當勞報報征服世界 繼我之後這次居然連dennis88111也淪落魔掌 被裝上麥當勞報報" }
     ],
     "10": [
+      { type: "link", content: "https://photos.app.goo.gl/YZSAC61QNCMRB27t5", label: "2026年5月10日 其實真的不用那麼急著讓大家知道你很無知啦 第四句你試著對鏡子講 看能不能說服自己趕快去檢查嘻嘻" },
+      { type: "link", content: "https://photos.app.goo.gl/oVpT5kMuvqLnMrhy6", label: "2026年5月10日 真是我近期看到最難的心電圖之一 也是去年上課時聽過但沒有很懂的部分 看完底下CV的解說真覺得口試完蛋了 我居然第一時間沒有想到這些" },
+      { type: "link", content: "https://photos.app.goo.gl/BVSUogr1YJwxYGzm6", label: "2026年5月10日 這輩子可能完全遇不到的病 就算考的時候翻書都不一定能找到答案 AHA指引裡面就完全沒提到ELN這東西" },
+      { type: "link", content: "https://photos.app.goo.gl/ErcrkRnwGd1waA8DA", label: "2026年5月10日 生平唯一認識這個病只有在考試" },
+      { type: "link", content: "https://photos.app.goo.gl/2H5uxtpHdF4re42q7", label: "2026年5月10日 \
+        DAPT用於非心臟手術之停藥用藥時間 考前再次翻guideline複習這個複雜的小主題 \
+        NOAC的部分也簡單看過但實在沒有時間再整理發文了 三種DAPT速記就是3 5 7天停用" },
+      { type: "link", content: "https://photos.app.goo.gl/6edrAn7GUw3Fgwak9", label: "2026年5月10日 如果沒有AI幫忙整理這些藥物指引 光這題我應該直接吐血而亡" },
+      { type: "link", content: "https://photos.app.goo.gl/SijZm91AkBVRk6PV7", label: "2026年5月10日 這張也太讚" },
+      { type: "link", content: "https://photos.app.goo.gl/GF2syvSRzkkfuXzJ7", label: "2026年5月10日 希望外星人告訴人類不要那麼拼命一週工作五天 應該不用 他們沒有人類那麼笨" },
+      { type: "link", content: "https://photos.app.goo.gl/GhWZvjeHDBgMB6EF6", label: "2026年5月10日 這也有人買啊" },
       { type: "link", content: "https://photos.app.goo.gl/SJUxYYS5Fd392swo8", label: "2025年5月10日 建議發文前請chatgpt幫你審稿 chatgpt瞎掰都比你文章有用腦" },
       { type: "link", content: "https://photos.app.goo.gl/S3NnxWuyfT2zxoqr5", label: "2025年5月10日 一點都不好玩 一堆啤酒 很浪費健康" },
       { type: "link", content: "https://photos.app.goo.gl/dU16pw6otRwfGoMaA", label: "2025年5月10日 音樂 修圖 咖啡 這是我理想的生活 真的很羨慕國外有些專注在創作作品的人 他們的人生彷彿剩下藝術跟美感就好" },
@@ -6610,6 +6657,28 @@ const records = {
         富士山 淺間神社 如果日本交換實習順利 希望能在拍攝更多美景回來 因天候取消馬祖藍眼淚 打算從北玩到南順便拍銀河 有人哪天有空的嗎" }
     ],
     "11": [
+      { type: "link", content: "https://photos.app.goo.gl/sGqujrph2wrxc9R77", label: "2026年5月11日 吵架屁欸哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/y7tSPtq35omFHZox8", label: "2025年5月11日 以後統稱這種貓貓為小花" },
+      { type: "link", content: "https://photos.app.goo.gl/CPGbEtUkDoztosLS6", label: "2025年5月11日 \
+        昨天的小任務 我是小助手 昨天的拍攝作品 先修幾張起來 \
+        Wedding拜拜儀式 萬選居 結婚登記 感謝好友的結婚登記 讓我們能參與幸福的時刻 \
+        這次登記完後跟隨一起到豐原萬選居 很訝異有如此保存完善的古蹟 在空檔時刻 \
+        趕快幫新人拍幾張合照 雖然天氣不好 但打配漂亮的環境跟柔和的陰天光線 也是我非常喜歡的作品" },
+      { type: "link", content: "https://photos.app.goo.gl/QncZaACWZ7QP8AqGA", label: "2024年5月11日 我也要 七龍珠 遊戲王 魔鬼筋肉人 海綿寶寶 兩津勘吉 神奇寶貝 數碼寶貝 航海王 鬼影幢幢" },
+      { type: "link", content: "https://photos.app.goo.gl/9qUjR7pHTGt8td2W6", label: "2024年5月11日 應該要說我的小孩都上幼稚園了" },
+      { type: "link", content: "https://photos.app.goo.gl/xqpAzi5EuGhoyjS89", label: "2024年5月11日 為什麼是海洋" },
+      { type: "link", content: "https://photos.app.goo.gl/si9YPQWLVdxn3zwf9", label: "2023年5月11日 有夠猛 那個人應該把一輩子財產分他" },
+      { type: "link", content: "https://photos.app.goo.gl/t8TZyu4kEtLKBhSm7", label: "2023年5月11日 這張很猛" },
+      { type: "link", content: "https://photos.app.goo.gl/85rJkCgPg48vFku6A", label: "2023年5月11日 怎辦 不管在北部還是東部 感覺都要為了這該死的體制痛苦 人生無望 跟軍字扯上關係真的後悔一輩子ORZ" },
+      { type: "link", content: "https://photos.app.goo.gl/tvRBDSPZAZCMLAkSA", label: "2022年5月11日 大崩潰 今天去買肯德基雞米花 居然永久停售 肯德基" },
+      { type: "link", content: "https://photos.app.goo.gl/WtRTLz1EpehC7tRu9", label: "2022年5月11日 不要啦" },
+      { type: "link", content: "https://photos.app.goo.gl/s36e3spvPiFTfttAA", label: "2021年5月11日 歐應國泰金 我已經先報明牌了 年底可以來應證我有沒有唬爛 我已經買2.5張 明天有跌我會持續賣出富邦 買國泰 反正不相信就看我操作就好 不是 我沒有那麼有錢哭哭" },
+      { type: "link", content: "https://photos.app.goo.gl/D8dY39MUHKCLUN2v6", label: "2021年5月11日 台灣 雨量慘" },
+      { type: "link", content: "https://photos.app.goo.gl/whS2u9CzdLMvkMwK8", label: "2021年5月11日 XDDDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/QvFLWdQ1HDZXRXA46", label: "2019年5月11日 超感謝女友家買了超棒的火腿 於是超短暫的假日 全程自己手動煮出來 還算不錯 以後再煮給吃看看" },
+      { type: "link", content: "https://photos.app.goo.gl/K8jErXvxganbkYmC8", label: "2018年5月11日 New Post 再一張舊照 休息一陣子之後再繼續po作品 看官請賞光囉哈哈 對我舊照有任何建議與批評 都歡迎私訊" },
+      { type: "link", content: "https://photos.app.goo.gl/asRfK2oKYgRuLJsc9", label: "2018年5月11日 已經多久沒有拍婚紗了 曾經的青澀與熱血 作品底家喔" },
+      { type: "link", content: "https://photos.app.goo.gl/ep52jct9Kj59nRVaA", label: "2018年5月11日 來內湖再大推一個 澄食小人屋 超讚日本生魚片料理 之前也幫他們拍過商品" },
       { type: "link", content: "https://photos.app.goo.gl/Uq3gXRcvVawv2c278", label: "2017年5月11日 \
         I1結束的前夕 第一次寫到器捐的病歷 面對只剩呼吸心跳沒有體溫肉的肉體 不知道如何寫主訴 一具機器支持維生的屍體 一個有故事卻不能延續的人 不知從何而來的惋惜感要好好消化" },
       { type: "link", content: "https://photos.app.goo.gl/pv6fX8ciW6tMXeAG6", label: "2017年5月11日 怎麼能不愛SICU" }
