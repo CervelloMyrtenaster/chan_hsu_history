@@ -6683,10 +6683,242 @@ const records = {
         I1結束的前夕 第一次寫到器捐的病歷 面對只剩呼吸心跳沒有體溫肉的肉體 不知道如何寫主訴 一具機器支持維生的屍體 一個有故事卻不能延續的人 不知從何而來的惋惜感要好好消化" },
       { type: "link", content: "https://photos.app.goo.gl/pv6fX8ciW6tMXeAG6", label: "2017年5月11日 怎麼能不愛SICU" }
     ],
-    "12": [],
-    "13": [],
-    "14": [],
+    "12": [
+      { type: "link", content: "https://photos.app.goo.gl/MeNUHYsbVynQDw9P9", label: "2026年5月12日 寫題目查資料 一開始gpt說陰陽sign 我以為他又開始幻想了 結果還真的有這件事啊 又開眼界了" },
+      { type: "link", content: "https://photos.app.goo.gl/D7Yw8Mi8uTEwjQ9r8", label: "2026年5月12日 Ying yang sign=to and fro sign" },
+      { type: "link", content: "https://photos.app.goo.gl/a78dJRSvLtj5k7gd9", label: "2026年5月12日 出現新角色了哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/Y9vtNCiqXkfpxq1T6", label: "2025年5月12日 心導管從半夜做到天亮 再準備迎接整天的班" },
+      { type: "link", content: "https://photos.app.goo.gl/tSt7NTCnVsrMTjko7", label: "2025年5月12日 看到陳林罔市直接憋不住了 不分醫院 每個內科醫師或護理師一定遇過這名字然後這位奶奶最後都心臟衰竭" },
+      { type: "link", content: "https://photos.app.goo.gl/kfcwihjocvMdvmj26", label: "2025年5月12日 上週沒跑步 這週補進度 值班一夜沒睡 趁空檔斷續補眠 勉強能流個汗了 超累" },
+      { type: "link", content: "https://photos.app.goo.gl/igerh2Th5vJpMPWD9", label: "2024年5月12日 這個不是我認識你的桌子 你的桌子沒有這些東西 只有一台黑色筆電跟載入的召喚峽谷 頂多再搭配一個陳雷室友後面看" },
+      { type: "link", content: "https://photos.app.goo.gl/Egb4bGLkncHiUEEZ6", label: "2023年5月12日 \
+        大推張醫師看見世界的美 真希望能成為張醫師 在工作之餘 能夠有許多假期出國拍照 這才是人生 這才是健康的生活 這才是我要的 \
+        多希望當初的選擇能夠重來 多希望我高中畢業時能知道自己要什麼 多希望我早點在高中畢業時懂事 \
+        多希望有貴人當初勸我先認識自己 做正確的選擇 努力去過自己喜歡的人生" },
+      { type: "link", content: "https://photos.app.goo.gl/GiJrsqpfECP8n8Sa9", label: "2022年5月12日 \
+        Port A斷了 臨床紀錄 影像 Broken Port-A catheter insertion with the retention in right heart \
+        本次分享67歲男性 於四年前在外院放置右側人工血管 本次入院因新發現癌症需再次化療 卻發現人工血管斷裂飄進右心室 如圖一 \
+        經過angiography PTA處理 拿掉斷裂的人工血管 圖二 最後裝上新的左側人工血管 圖三 化療打不順原來還有這個原因" },
+      { type: "link", content: "https://photos.app.goo.gl/cpgS9skU6SLBgKmp6", label: "2022年5月12日 \
+        目前充足的證據 有跑步習慣 不論強度 的人比完全沒跑步習慣的 有低30%的全死亡率跟低45%的心血管死亡 \
+        這解答了我這兩年的困惑 跑步很無聊 但我堅持每週跑8-10公里 有氧運動還是很重要的 資料來源為2022台灣高血壓學會最新指引" },
+      { type: "link", content: "https://photos.app.goo.gl/gTb3EMzVDZTrEdkP6", label: "2022年5月12日 對 重點是還比我們值班室乾淨" },
+      { type: "link", content: "https://photos.app.goo.gl/BLgp6FtLBeCBVP9o7", label: "2021年5月12日 \
+        國泰金淨值高於股價 獲利次居富邦但已超越去年 不論短期價差或長期套牢 持有領股利 都是不錯選擇 \
+        若美國不好 外資會大賣台股換現金回美國 會有一波多殺多 如果要跟單 就要有長期套牢領股利的準備 \
+        但驚喜在於股市回溫 穩定獲利讓股價迅速推升 趨勢要持有或賣出都可" },
+      { type: "link", content: "https://photos.app.goo.gl/G9VgvH9mNahXYRjh7", label: "2021年5月12日 \
+        不怕ㄚ 慢慢往下買 就算買貴套牢我也打算當存股 買完上漲我也能選擇賣出或等股利 \
+        我不像岳勳或浩哲 真的是神人 我只能用最笨的方式買股票 剛玩一年 一毛錢都沒賠過" },
+      { type: "link", content: "https://photos.app.goo.gl/oeNZcnyMSq28RxjA7", label: "2019年5月12日 \
+        如果問我來部隊印象最深刻的是什麼 就是階級差異 報到的第一天開始 就認識許多國中都沒畢業的 大部分是原住民 \
+        學歷好的頂多高中高職而已 一畢業就出去掙錢 打工加油站做工混黑道做討債八大的都有 起初我不懂 為什麼不好好讀書要簽進來 \
+        剛開始不懂 覺得他們怎麼那麼傻 後來跟大家漸漸混熟了 聽了很多人的故事 雖然一開始他們都說就不愛讀書啊 \
+        但慢慢從他們口中 了解原來貧窮單親家暴沒資源的家庭 打從出生就離起跑點好幾公里了 \
+        沒有人告訴他們讀書的重要 沒有人重視他們的教育跟人生規劃 他們沒有錢 甚至要養家活口 \
+        結論是自己走出同溫層 其實外面好多人年紀輕輕便背負著生活壓力 根本沒有資源讀書往上爬 也沒機會翻身 \
+        人生來世界真的是不公平 我們無法用自己的標準批判別人 我們也無法評論別人的工作或生活 辛不辛苦 過得好不好都在個人 \
+        所以 我的心得是好好要求自己就好 不必羨慕別人 我們只能走在自己的人生時程表 了解人生的不公平 \
+        然後對自己的不幸釋懷 並珍惜僅有的幸福而知足" },
+      { type: "link", content: "https://photos.app.goo.gl/dWyeNTk2WHdgkLSY9", label: "2019年5月12日 第一次親自從旁參與 希望一切順利" },
+      { type: "link", content: "https://photos.app.goo.gl/NN3NXj4xJ6FhCcPu6", label: "2018年5月12日 \
+        Intern最後一次上班 用最愛急診來結束也是很好 喜歡急診的原因很簡單 \
+        因為可以在這12小時內全神貫注的工作 然後再好好休息 然後今天的學長 豪猛啊 人生勝利組只差沒結婚" },
+      { type: "link", content: "https://photos.app.goo.gl/7L6XK9C4zfSfzXge9", label: "2018年5月12日 實習最後一班安全下莊 難得遇到超強學長 聽了許多建言 也比較能轉念了 真是這一年最開心的上班日 掰掰了12934" }
+    ],
+    "13": [
+      { type: "link", content: "https://photos.app.goo.gl/i7JvEyScYfYjCn6w5", label: "2026年5月13日 RCM vs CP 原來可以考的比較圖還能再刷新我之前整理的認知 一路從醫生國考到內專都是被放棄的題目 結果到次專科考試還是繼續考 只是更難而已" },
+      { type: "link", content: "https://photos.app.goo.gl/zJyTBTSGp58W3uRt5", label: "2026年5月13日 希望平安" },
+      { type: "link", content: "https://photos.app.goo.gl/4puczthcYPh84TFJ9", label: "2025年5月13日 \
+        這個人超可惡 判決都出來了 新聞報導他的犯案方式已經違反醫學倫理 我們碰觸異性患者 絕對都需要護理師陪同 \
+        這個醫學生就知道的鐵則 醫界應該封殺他 他這樣再當醫生很可怕" },
+      { type: "link", content: "https://photos.app.goo.gl/UCqnUP22BRq8uoUn6", label: "2025年5月13日 \
+        心臟科醫師訓練過程是多麼辛苦 救過的病人不計其數 最後卻仍如此 這個故事真的很難過 原來善有善報只不過俚語而已 \
+        這樣偉大的醫師 這世界真的很不公平" },
+      { type: "link", content: "https://photos.app.goo.gl/fKKz3Em4m7JGAbFm8", label: "2024年5月13日 \
+        AML預後好壞真的超難記 但內科就是要整你 只好也用口訣 預後好 記兩個數字兩個變異一個APL 數字8 16開頭 變異NPM1 СЕВРА \
+        反過來說沒有變異的=野生 NPM1就是差的 用推導 預後差 記連續基數+6:9+FLT3高 連續基數3,5,7,9,11開頭 11指11q23 \
+        當然還有TP3 RUNX1 ASXL1變異也是差 說實在我覺得記好的就好 其他都當作差的" },
+      { type: "link", content: "https://photos.app.goo.gl/LYDdzMS2eRRTFzwd9", label: "2024年5月13日 \
+        從小看到大的漁光島 純樸的風光沒了 任何對海灘的開發 100%都是集團商業利益跟政府掛鉤 最終結果就是媒體渲染 \
+        人潮湧入 攤販湧入 環境破壞及可悲的人工設施 台灣目前沒有任何一個經過人為開發還成功的海灘 \
+        只有規劃跟限制才能維持海灘的美 tainan_style對這粉專很失望 不用為了工作幫政府洗白了 \
+        漁光島真可憐 淪落到西子灣跟墾丁沙灘的下場 一個美景回憶之地再也沒了" },
+      { type: "link", content: "https://photos.app.goo.gl/VJY1CsRnbQiFeFT87", label: "2024年5月13日 \
+        請問漁光島為何需要新樣貌 有需要新樣貌的是自私跟盈利的商業集團 大自然並不需要人為過度開發的新樣貌 \
+        真的很噁心 想想峇里島很多尚未開發的海灘 那才是真正純淨的樣子 我只支持政府管制交通跟人流 這才能留住真正的美" },
+      { type: "link", content: "https://photos.app.goo.gl/3KMukpuWC19enHbf9", label: "2024年5月13日 \
+        救救漁光島救救漁光島 這原本模樣哪一點輸給你搞成渡假村的垃圾建築 我自己可能沒任何影響力 \
+        但還是希望有閒的人如果認同 能夠幫忙分享並且反對這項政策 最好罵到上新聞讓這個工程取消 \
+        當然如果沒辦法我也算了 以後還是出國拍原始海灘比較實在" },
+      { type: "link", content: "https://photos.app.goo.gl/pyi8YpE1LhtmCmac9", label: "2024年5月13日 \
+        TAINAN STYLE說漁光島是人工沙灘 就算是好了 一個維持原本自然樣貌的人工沙灘就應該蓋一堆設施才是美的嗎 \
+        應該弄一堆流動廁所 加寬道路 停車場做大才是正確的嗎 還威脅我說我造謠 我發表自己的評論哪裡造謠 真的不用這麼明顯啦 \
+        反正怎麼說他都是要蓋 我來這裡絕對超過數十次 充滿回憶的地方要變成人造味滿滿怎麼可能不生氣 \
+        台南能回去的地方又少了一個了 至於這位小編要怎麼說 我不會再回應 面對集團的開發 身為民眾本就無力對抗 至於一堆酸民愛罵就罵囉" },
+      { type: "link", content: "https://photos.app.goo.gl/WKMG4PAhvo6HtQyy5", label: "2024年5月13日 \
+        比較好奇的是 漁光島真的是人為開發出來的嗎 查一下台灣歷史 原本就是沙洲 只是移民來開墾後沒落 再被政府籌辦活動後才出名 \
+        這部分不知有沒有懂的人能提供一下正確歷史 我覺得某小編自己也不太懂 一直覺得人為開發的地方為什麼不能繼續開發" },
+      { type: "link", content: "https://photos.app.goo.gl/tE5YzCdrrfEifyy39", label: "2024年5月13日 \
+        一堆人討厭詐騙集團 結果自己整天在造謠不實資訊誤導更多人 不知道狀況與來由可以先了解 而不是拼命大放厥詞 \
+        知之為知之 不知為不知 真的不要一知半解又裝懂 一堆民眾包含我都發表不希望漁光島被人造設施破壞的想法 \
+        小編留言拼命說大家誤會了 但你貼文就是寫蓋停車場 拓寬道路 還放了一張在沙灘上做一堆設施的示意圖不是嗎 \
+        我回應你這粉專是不是想幫集團洗白 明明就是疑問句 就被冠上不實謠言的帽子 甚至要用法律途徑對付我 \
+        奇怪我是有罵你還是怎樣嗎 不能懷疑一下嗎 不能質疑為何一個看似愛台南幫台南分享的粉專 \
+        會希望一個美麗的沙灘多了許多人為設施嗎 這哪裡有造謠啊XDDD 好了啦你繼續 我不應該質疑你的嗚嗚嗚嗚" },
+      { type: "link", content: "https://photos.app.goo.gl/tumUUimAX9inkyhp7", label: "2024年5月13日 \
+        只好再強調一次我的立場 漁光島 還有台南其他秘境 缺的是環境維護跟生態保育 尤其是有規劃的人車管制 以及人工設施最少化 \
+        過去漁光島的木造屋起碼融入綿長的海灘 夕陽下真的美到感動 你的示意圖加入一堆陽傘在海灘跟樹林中間 \
+        那裡是日落拍逆光很美的樹林 一個粉專還可以跟民眾說 絕對不會動到樹 想也知道不可能 何況加入這些人造設施 \
+        跟漁光島的風光搭配嗎 日本的觀光街道跟環境都能融合在一起 台灣做到的有幾個 把停車場做大 \
+        不就是跟墾丁的菜市場沙灘看齊了嗎 所以如果漁光島民間集團或政府把1.5億拿來請清潔人員固定清潔海灘 \
+        請保育專家規劃植被 請交通管理管制人車動向 請警察驅趕攤販 這些才是漁光島需要的 \
+        如果我什麼都不說也是可以 大家看看埔里的夢谷瀑布 被規劃後長什麼慘樣 原本的風貌全沒了" },
+      { type: "link", content: "https://photos.app.goo.gl/m5Qk93isEjzxABBX7", label: "2024年5月13日 不能直接類比 但在台灣你真的不能期待被 改造 後的結果 願台灣美景長存" },
+      { type: "link", content: "https://photos.app.goo.gl/CZWvXhUADbxUwnpm7", label: "2024年5月13日 \
+        好幾位粉絲的私訊我都看完了 很抱歉這麼久都沒空發文卻有今天的限動打擾大家了 \
+        台南是我長大的地方 漁光島更是我將近十年前很愛的攝影點 當時夕陽幾乎沒遊客 吹著海風 眼前只有單純的沙攤 \
+        木造塔跟海 這是多麼幸福的當下 這裡我至少來過十多遍 他是我心中代表台南純淨的地點之一 \
+        最重要的是在這裡是我跟在一起的起點 正因充滿如此多重要的回憶 我一直以為他可以如此平靜不受時光改變 \
+        很感謝粉絲的私訊 今晚也跟那位小編做過溝通 但可能沒有明確結論 不過稍早我用詞過度激動真是不對 \
+        其實開發商並非小編 不應該針對他 因此就這事情很抱歉 這位小編只是分享貼文 跟這個開發案無關 \
+        可能我還得感謝他讓我知道 漁光島的美即將消失 但對於漁光島將更觀光化 帶來更多人流及垃圾我仍十分痛心 \
+        除了發文抱怨也做不了什麼 漁光島之所以有特色 是因為他沒有像墾丁那樣充滿一堆醜陋的建築及人造物 \
+        單純的沙攤 海與樹林才是人們喜愛它的原因 當漁光島不再是記憶中的漁光島 那也只能留在回憶裡記得了 漁光島沙灘" },
+      { type: "link", content: "https://photos.app.goo.gl/p7qXfz4caGEg2mKG6", label: "2023年5月13日 有夠可愛的連打揮拳哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/EeGb238xHMHP9Xe78", label: "2022年5月13日 週五下班仔 又遇到我的作品 但我是瘋狂值班仔 今天跟週日都被關在醫院上班" },
+      { type: "link", content: "https://photos.app.goo.gl/cERJ2TBmwP34mkeY7", label: "2022年5月13日 \
+        臨床紀錄 影像 Stricture of L't proximal brachiocephalic vein 69歲男病人入院 因為直腸癌需打化療 \
+        最起初flush saline打入後 他感覺右手痠麻與整個胸口悶痛 雖然順但還是改成iv打chemo \
+        因為懷疑port-A有堵塞還做了一次revision 結果症狀仍然持續 CXR如圖一 有什麼問題嗎 看不出來 \
+        答案如圖二&三 venography發現Left subclavian vein show extravasation over mediastinum \
+        圖四則是Chest CT with contrast發現Stricture of L't proximal brachiocephalic vein \
+        化療不順的兇手找到了 請CV做PTA放氣球撐開狹窄的靜脈把問題解決囉 有點有趣但知道答案又不有趣" },
+      { type: "link", content: "https://photos.app.goo.gl/AcpCBSJJNsJcRWZu8", label: "2021年5月13日 光點藥局 今天松山居家訪視長期臥床老人 老闆的光點藥局造福病人 沒想到以前的高中同學這麼厲害了我還在廢" },
+      { type: "link", content: "https://photos.app.goo.gl/TeTtuPAhKXtwBY3o7", label: "2021年5月13日 學長的車好漂亮" },
+      { type: "link", content: "https://photos.app.goo.gl/rd1DZ56KN2DhEywt8", label: "2021年5月13日 內湖路整條沒電 少數有開的餐廳直接被擠爆 八方唯一少數開 被擠到好像什麼網紅小吃店" },
+      { type: "link", content: "https://photos.app.goo.gl/yUUECaa9pDSZh8MG7", label: "2019年5月13日 躺在馬路上 什麼都沒有 看著滿天星斗 晚點行山路非常崎嶇 上去下來各兩小時 我的學醫人生際遇 真的非比尋常" }
+    ],
+    "14": [
+      { type: "link", content: "https://photos.app.goo.gl/ku2ANJVYBz5PpvQV8", label: "2025年5月14日 \
+        我曾經有五六次都在非值班被護理師打電話叫醒 凌晨三四點到一大早六七點都有 但他們都有抱歉 \
+        我也有好好的跟他們說沒關係 順便告訴他們如何找到正確的值班醫師 護理師會犯錯 值班醫師也會犯錯 \
+        我覺得這無關乎職類 任何職類都會有不小心犯錯的時候 這種時候互相提醒跟包容很重要 尤其醫療職場 \
+        最怕有人是氣氛仔 來上班各種脾氣跟氣氛大家 搞到病人有事都不能互相討論跟發表意見 彼此學習不到東西 \
+        又忙心情又差 這最要不得" },
+      { type: "link", content: "https://photos.app.goo.gl/dY9Ui44f2RR2Bq8GA", label: "2025年5月14日 超可愛 好想出國 不想待在高工時的台灣QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/qCt5NE3vQgSFe5xr8", label: "2025年5月14日 \
+        綠島 整理手機的照片 翻到了很久以前綠島拍攝的照片 很多作品放著就忘記了 盯著照片好一會 慢慢想起當初拍攝時的心情 \
+        當時環境又熱又濕黏 邊走還會怕踩進礁岩的坑洞裡 但即使拍攝的三天都日夜顛倒 記憶卡裡滿滿的收穫讓人不覺得累 \
+        堅持於興趣是很重要的 這像是上天給予每個人出廠時的內建設定一樣 每個人都會有他們的興趣 並且樂在其中無法自拔 \
+        也因此創造各領域的種種成就跟紀錄" },
+      { type: "link", content: "https://photos.app.goo.gl/Hs2mE1rfYmantZBr8", label: "2025年5月14日 \
+        早上看臉書 意外發現原來抗生素會造成高低血糖的副作用 趕緊請chatgpt整理 後來再翻我之前做的筆記 \
+        原來我之前查過Beta blocker ACEI/ARB及levofloxacin都可能造成低血糖 脫離大內科太久 真的很容易忘記這些小知識" },
+      { type: "link", content: "https://photos.app.goo.gl/SthRhfEi61FAXNUdA", label: "2025年5月14日 太酷了吧" },
+      { type: "link", content: "https://photos.app.goo.gl/6evgNY5JrcuHpus18", label: "2024年5月14日 \
+        關於血癌 這篇文章沒有知識含量 存粹是終於稍稍弄懂從intern到過國考後 從來沒弄懂的 血癌們 彼此的關係 \
+        以前都當作個別疾病 即便查過資料也不懂 幸好現今請益到幾位專家 才理解淋巴癌跟白血病其實是一線之隔 彼此是互相關聯的 \
+        造血幹細胞會分支成骨髓或淋巴幹細胞兩大部分 這兩大部分彼此關係如下 大概就是說 CML如果進入加速期甚至母細胞期 \
+        會變成ALL or AML MDS也會分化不良變成AML MPN有BCR-ABL融合就診斷CML 另外Lymphoma裡除了NHL跟HL外 \
+        SLL若惡性細胞太多就會變CLL CLL也可能再變異成DLBCL 也就是淋巴癌變成白血病再變成淋巴癌 好吧外行人的認知只能這樣描述 \
+        之後淋巴幹細胞的B cell產生漿細胞 此時有多一個漿細胞疾病的部分 也就是先用漿細胞比例等區分成MGUS SMM MM \
+        但是另外還有AL WM 我的大致理解是這樣 盡力了 如果有說錯再麻煩專家糾錯訂正 直接留言用力鞭沒關係" },
+      { type: "link", content: "https://photos.app.goo.gl/ZRQsBf1N1Q5nvZLPA", label: "2024年5月14日 \
+        Leukemia在骨髓 Lymphoma在周邊 我是抄以前病理科老師的講義 但好像跟我請益到的不同 \
+        我印象中應該要講成 leukemia是骨髓異常的細胞跑到周邊血液 而lymphoma則是在淋巴系結裡 但NHL可以散佈到淋巴結外 \
+        一但這些細胞跑到周邊血液就稱為leukemia 因此我才會說一線之隔 不知道有沒有錯誤" },
+      { type: "link", content: "https://photos.app.goo.gl/SgW9CejR2BeFpzAj8", label: "2024年5月14日 \
+        為什麼small lymphocytic lymphoma惡性細胞變多 超過5000 之後會變成chronic lymphocytic leukemia \
+        原來淋巴癌也可以變成白血病嗎 還是七版藍色中文小麻268頁寫錯了 這個觀念我真的不知道 \
+        我以為leukemia跟lymphoma是兩種完全不同的分類 你應該眼花看錯我的內文 淋巴癌 白血病我一直以為不同 \
+        如今我才發現他們其實一樣 但小麻又寫白血病最多的是CLL 淋巴癌最多的是NHL 這又代表他們不一樣 \
+        那他們到底一樣還是不一樣啊啊啊 哭哭 我就是看完搞不懂才問 那是我看錯 抱歉了 \
+        CML CLL不同吧 一個只有淋巴球 一個有各種時期的骨髓幹細胞 原來 謝謝病理科 \
+        我加入APL SLL APL是AML裡面一個特殊基因轉位預後很好 SLL屬於NHL HL以外的一種lymphoma \
+        當它惡性淋巴細胞太多 跑到周邊血液時就變成CLL 也就是慢性白血病 這樣觀念正確了嗎 \
+        另外原圖CLL也有箭頭到NHL的DLBCL 意思是CLL也可能惡化成DLBCL嗎 那也有可能CLL惡化成其他類別的NHL嗎 \
+        他那樣解釋我可以接受理解 只是他說的內容都正確的嗎 那原圖應該把CLL/SLL匡在一起 只是一邊放leukemia一邊放lymphoma \
+        謝謝你的耐心跟專業 所以CLL發生large cell transformation之後就會變成DLBCL這樣嗎 敢問為什麼字一樣大會詭異@@ \
+        是因為CLL比ALL案例還少嗎 MDS MM WM SMM amyloidosis這些應該歸類在plasma cell異常 跟淋巴球白血病無關吧 他們又不會互相轉化 \
+        咦CLL ALL結尾的L都是leukemia啊 所以我以為很合理 只有SLL結尾是lymphoma所以放在右邊 這個可以接受 謝謝 \
+        抱歉我是要講MGUS不是MDS MDS跟MPN應該一起講 因為他們剛好相反 MDS是骨髓空了 惡性變化 MPN是骨髓過度製造 良性變化 \
+        抱歉說錯了我更正 是一個要準備考試的可憐人 考過就不用再碰這些東西了 所以希望病理科大大拯救一下我orz \
+        啊啊啊這部分禁止延伸 我會搞混QAQ 除了病理跟血腫次專以外應該都不會考到延伸的部分吧XDDD \
+        抹片可能會考 甚至出一堆CD什麼的marker判斷疾病 就不說抹片還考什麼單株淋巴球增生在選項裡 \
+        目前考CLL SLL我就是背CD5 19 20 23 看到這些無腦選CLL SLL 反正抹片看不懂\
+        內專 我甚至很怕口試考官問淋巴癌 血癌 我可能會當場倒 謝謝各位" },
+      { type: "link", content: "https://photos.app.goo.gl/oagEgXqFSGKdrGzG6", label: "2024年5月14日 這種大小就可以直接養" },
+      { type: "link", content: "https://photos.app.goo.gl/SJwZEimLibvAKmJX9", label: "2023年5月14日 好想出國拍風景攝影" },
+      { type: "link", content: "https://photos.app.goo.gl/YF6Xfcjh9bP92yMs7", label: "2023年5月14日 在加護病房值班順便看到自己作品" },
+      { type: "link", content: "https://photos.app.goo.gl/ehXoy8TuPx8qcuGFA", label: "2023年5月14日 又好一陣子沒有浮出水面跟發作品 為了下週出國 這兩個禮拜拼命值班 現在也在值班 下班時間應該明天1700了 幸好今天病人平安 可以讀讀書 準備報告" },
+      { type: "link", content: "https://photos.app.goo.gl/kLsUzxKaEtyyCevb7", label: "2023年5月14日 \
+        之前在版上跟大家討論如何降低VA ECMO造成的LV distension 後來我去讀Journal of Thoracic Disease Vol 11 No 4 April 2019 \
+        得到以下結論 Dobutamine與milrinone治療效果有限 IABP能夠降低後負荷並增加冠狀動脈血流 但並非常規使用來LV decompression \
+        Trans-septal balloon and blade septostomy可用 但多數用於小兒 成人少用 \
+        TandemHeart需接受左心房transseptal puncture 因此會造成left-to-right shunt Atrial suction events更容易發生 \
+        Impella可以直接引流掉左心室血液 降低preload卻不增加afterload 可以做到不錯的LV decompression \
+        該文章結論 能夠direct venting是降低左心室壓力最好的做法 同時降低左心室前後負荷 \
+        問題在於我讀完也一知半解 所以現在為了解決LV distension 在台灣成人首選方式是Impella嗎 \
+        其他資料如圖整理 所以還有LAVAECMO這招 謝謝 那LVAD可以嗎 喔喔 對欸 抱歉讀到頭昏" },
+      { type: "link", content: "https://photos.app.goo.gl/eArmHZqMewJguhG58", label: "2021年5月14日 晚上做了馬鈴薯沙拉 賣相不重要 但味道很好吃 有很多不喜歡的紅蘿蔔 我只好全吃了" },
+      { type: "link", content: "https://photos.app.goo.gl/ohvuxAXR7qFGFe567", label: "2021年5月14日 超神作品 根本煙火終極進化版 導彈與攔截導彈的飛彈 希望世界和平唉" },
+      { type: "link", content: "https://photos.app.goo.gl/b15VTfprLpuxBRkt7", label: "2021年5月14日 疫情來襲 保持運動強身 然後等三總承認我是員工才能掛號打疫苗" },
+      { type: "link", content: "https://photos.app.goo.gl/sXLhThyb1JwcrR6e7", label: "2019年5月14日 \
+        半夜行山後心得 第一次碰見山神附身表現非常明顯 雖然用各種醫學角度評估 最終也只能說譫妄 後送下山才漸漸好轉 \
+        活了26年第一次抨碰見那樣的事情 沒有親眼處理過 以前真的不信邪 很感謝大哥 教官超幫忙 也讓我改觀 \
+        寧可信其有不可信其無 不需迷信但需對未知充滿尊敬" },
+      { type: "link", content: "https://photos.app.goo.gl/Ca1Hj18D48sX7Uxo6", label: "2019年5月14日 路過捕捉卻很滿意的作品 暨南大學的草皮怎能這麼美 猜猜我是什麼字母 A K F 某標準瑜珈的動作 I'm here 像蘋果的樹與歪歪的小A" },
+      { type: "link", content: "https://photos.app.goo.gl/S73UCPRQXCheyAad8", label: "2018年5月14日 \
+        借用一下自己的老照片 紀錄登出醫學實習的今天 這兩年來我成長的不快 但也是遇到許多很好的學長姐 \
+        心得只有一個 寫在這裡也是提醒我未來不再重蹈覆徹 就是無論遇上多大的人生難題 都不應該灰心喪志把時間浪費在走出來跟調適的過程 \
+        長大了 哭泣跟墮落是不會被同情的 雖然說的輕鬆 但我知道對每個遇上的人都不容易 可是這就是經驗學習 自己本業依舊是最重要的 \
+        所有生命中的變故最後都得振作然後繼續往前 那何不跌倒後馬上站起來呢 再說現在遇到以為很悲慘的事情 未來何嘗沒有更悲慘的等著自己 \
+        屢敗屢戰 把時間線拉長便沒有那麼糟 反而是越來越勇 最後這兩年實習很對不起自己 浪費了很多時間跟機會在自我消磨與怠惰 \
+        我相信放更多心力在學習 現在的收穫絕對多更多 隨時準備好自己才能迎接更好的機會 而這些過程 會是我最珍貴的教訓 \
+        謝謝這兩年 下個兩年繼續努力 下個兩年後更要繼續努力QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/CWZQRKG4war7dJSv9", label: "2018年5月14日 \
+        未來有機會教課會在公布 請追蹤與留意動態與限時囉 久違了 一個禮拜修不到一次圖 給各位看一點基礎 \
+        最重要的不是我用什麼工具 什麼工具都能做到 為什麼要這麼做才是重點" }
+    ],
     "15": [
+      { type: "link", content: "https://photos.app.goo.gl/8nzZhmaCLggZdza98", label: "2025年5月15日 \
+        超級崩潰 晚上電腦one note問要不要重新整理同步 按下是 結果整個同步失敗 \
+        電腦app上整理四年的資料都叫不出來 只有手機跟網路上的one note資料還在 幹怎麼可以這麼爛 到底是什麼問題" },
+      { type: "link", content: "https://photos.app.goo.gl/TQLYhAkhcbXp9Gfj8", label: "2025年5月15日 不一定 可以用人生重來槍 選擇來世生在一個不用讀醫學系也能當精神科醫師的星球" },
+      { type: "link", content: "https://photos.app.goo.gl/JoKAqawAJPfzdaqa8", label: "2025年5月15日 請問第三步把血壓拉高 目標拉多少要怎麼估算或評估" },
+      { type: "link", content: "https://photos.app.goo.gl/Q9EdY517DpZBrm6D8", label: "2025年5月15日 詐騙集團的手錶 再拍賣給另一個詐騙集團 就是這麼簡單" },
+      { type: "link", content: "https://photos.app.goo.gl/4irFw2tLc8aEaJtL7", label: "2025年5月15日 超級無厘頭的問題詢問chatgpt 因為根本不知道怎麼查XD 然後他真的可以認真查文獻答出來 真的蠻厲害XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/Q8pzYhLA1Dfgtkkd7", label: "2025年5月15日 真可愛 好像路邊npc哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/xZAo2vabMNdqa6FF6", label: "2024年5月15日 \
+        嚴厲譴責 stormmedia_tw跟化名何時宜的這位作者 整篇文章非但不了解健保成本及給付概念 更是惡意污衊中傷醫師 \
+        當我們正在第一線水深火熱時 就有這種背骨仔在後面捅刀中傷 支持醫護人員要從抵制無良造謠的媒體開始" },
+      { type: "link", content: "https://photos.app.goo.gl/eFSgjzbeKvHLTvb59", label: "2024年5月15日 我也是抱著時間到退伍的心態 可是這個時間也未免太長" },
+      { type: "link", content: "https://photos.app.goo.gl/3iHHQyKMbLVHF1r57", label: "2024年5月15日 這兩隻還不直接收編嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/HZZYrNECKPRAboAZ6", label: "2024年5月15日 因為line當機了" },
+      { type: "link", content: "https://photos.app.goo.gl/uMBkr3FFwRVxDyAv7", label: "2024年5月15日 雖然只去過婦產科實習一個月 也完全沒看過" },
+      { type: "link", content: "https://photos.app.goo.gl/MiASv8ya9gMYzgoz7", label: "2023年5月15日 去澆水囉" },
+      { type: "link", content: "https://photos.app.goo.gl/35JwfTssDzUzr1Wc7", label: "2022年5月15日 確實滿討厭追求流行 我何必要跟大家做一樣的事情 又何必需要崇拜偶像 特別對沒本事只是被包裝的偶像反感 松鼠鮭魚合拍" },
+      { type: "link", content: "https://photos.app.goo.gl/bWxeJ4AeGVLqsFxM8", label: "2022年5月15日 \
+        邊值班邊聽 又解答了我以前的疑惑 很多人說台灣空氣不好 不適合室外運動 答案是錯誤的 \
+        空氣品質在沒有極差的情況下 假如真的不能換環境 適度的室外運動 對健康 心血管 還是有益的" },
+      { type: "link", content: "https://photos.app.goo.gl/KbvVk1U2NzNycWk58", label: "2022年5月15日 \
+        PM2.5數值54.4以內 在室外中強度運動沒問題 PM2.5數值15.4以內 室外愛怎麼運動都不擔心 \
+        PM2.5數值超過100 且在室外運動1.5小時或走路超過10個小時 才會害處比益處多" },
+      { type: "link", content: "https://photos.app.goo.gl/Y9Miooacvcx4FKcg8", label: "2021年5月15日 待在室內防疫 沒事順便把正常EKG表現全部整理到同一張投影片 排版美學的部分我就真的沒辦法 因為本身資訊就又多又碎 能想辦法塞同一張已經不容易" },
+      { type: "link", content: "https://photos.app.goo.gl/1BGkNhvSDvbY4FdN6", label: "2021年5月15日 \
+        福州山藍調&生活分享No.1 以前當兵的時候 我負責每年幫忙打流感疫苗的工作 真的很多人不喜歡被打疫苗 甚至從小就未曾打過 \
+        有些人怕打針 有些人怕副作用 也有些人只是懶 但除了戴口罩與勤洗手 打疫苗確實能避免感染引發的重症與惡化 但不保證不被傳染 \
+        所以 務必打疫苗 沒有人希望自己被病毒感染到肺部 導致肺炎與纖維化 甚至被插管隔離進加護病房吧 \
+        這就是感染導致重症的其中一個下場 希望台灣再次團結與配合 政府與人民更珍惜醫療人員 給予醫療更多包容 信任與實質待遇 \
+        畢竟沒有好的醫療 台積電如何能持續茁壯 國防部隊如何能健康的守衛台灣 百姓又如何能安居樂業 只有全國配合醫療專業 \
+        人民不要為難辛苦的醫療人員 政府機關也別再苛扣醫療人的付出 大方給予信任跟支持 才是台灣強大的基礎 願台灣平安" },
+      { type: "link", content: "https://photos.app.goo.gl/vcCaGHciPDCQ5sw87", label: "2021年5月15日 你可以空看看金融股阿 我就大買金融股 來比看看幾年後誰賺錢" },
+      { type: "link", content: "https://photos.app.goo.gl/24c3h7A7upPpbiZA9", label: "2019年5月15日 昨晚跟著山訓幫助了一位學員 認真體悟到他們精神壓力之大 希望他們平安蛻變成蛙人" },
+      { type: "link", content: "https://photos.app.goo.gl/Qxts6LhMvtjfZ5DH6", label: "2019年5月15日 \
+        因為工作關係漸漸沒時間拍照了 但是看到好多位年輕像我以前不怕困難 不怕辛苦 把攝影當成學問研究的朋友 真的很開心 \
+        如果說自己有什麼能說嘴的 決不是自己有什麼本事 而是把這份態度傳染出去 加油" },
+      { type: "link", content: "https://photos.app.goo.gl/hnUCsSpbpUifqwz96", label: "2018年5月15日 二年坂 Miss you Kyoto 私は京都にいた時の生活を懐かしく思っている 有興趣的朋友歡迎分享跟追蹤囉" },
       { type: "link", content: "https://photos.app.goo.gl/UBMWL4EV5goRrocx8", label: "2017年5月15日 被時間匆忙催促著變成I2了 康樂山 夜景" }
     ],
     "16": [],
