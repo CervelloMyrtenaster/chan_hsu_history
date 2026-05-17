@@ -6727,6 +6727,13 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/7L6XK9C4zfSfzXge9", label: "2018年5月12日 實習最後一班安全下莊 難得遇到超強學長 聽了許多建言 也比較能轉念了 真是這一年最開心的上班日 掰掰了12934" }
     ],
     "13": [
+      { type: "link", content: "https://photos.app.goo.gl/oJBg5JiaXX7c7wwk8", label: "2026年5月13日 吸毒賣毒的有什麼好可憐 活該而已" },
+      { type: "link", content: "https://photos.app.goo.gl/wTEBLKvrYTujvgwP6", label: "2026年5月13日 當內科醫生基本上很多餐都是配著工作在吃 這樣好幾年到差點以為能正常吃飯跟睡覺是什麼珍奇的事情" },
+      { type: "link", content: "https://photos.app.goo.gl/mYAksZFLonVYXmqf9", label: "2026年5月13日 \
+        每天晚上2000開放停車的黃線 1945就來開單 幸好我在車上多等一下 賺了900元 \
+        其他台都被檢舉了ㄏ 下雨天 生活在台北有夠悲慘 又累又晚下班就算了 買了晚餐還沒車位可以停 唉" },
+      { type: "link", content: "https://photos.app.goo.gl/a55PV4onsynTPtU76", label: "2026年5月13日 太神奇了 好想養" },
+      { type: "link", content: "https://photos.app.goo.gl/Yj7V6pUWgQUa58AE7", label: "2026年5月13日 想認真詢問如果診所2-3位醫生輪流看診是不是比較輕鬆" },
       { type: "link", content: "https://photos.app.goo.gl/i7JvEyScYfYjCn6w5", label: "2026年5月13日 RCM vs CP 原來可以考的比較圖還能再刷新我之前整理的認知 一路從醫生國考到內專都是被放棄的題目 結果到次專科考試還是繼續考 只是更難而已" },
       { type: "link", content: "https://photos.app.goo.gl/zJyTBTSGp58W3uRt5", label: "2026年5月13日 希望平安" },
       { type: "link", content: "https://photos.app.goo.gl/4puczthcYPh84TFJ9", label: "2025年5月13日 \
@@ -6800,6 +6807,16 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/yUUECaa9pDSZh8MG7", label: "2019年5月13日 躺在馬路上 什麼都沒有 看著滿天星斗 晚點行山路非常崎嶇 上去下來各兩小時 我的學醫人生際遇 真的非比尋常" }
     ],
     "14": [
+      { type: "link", content: "https://photos.app.goo.gl/MQ7rePBFuVPAJUYM9", label: "2026年5月14日 \
+        你根本沒有上過公文 尤其是外院來總院訓練 上個公文還得先上個其他公文 還得分兩邊跑假 \
+        跟你所謂的申報是能比 果然外面的人都傻傻的" },
+      { type: "link", content: "https://photos.app.goo.gl/F7oJbPD4XsyVGtZC7", label: "2026年5月14日 \
+        近五年醫師國考題 竟然與心臟次專科考題一摸一樣 圖片是完全相同的 難怪很眼熟 \
+        只能說醫學生真是辛苦了 難怪當初考完內專做心臟科國考題 還是有很多不會的題目orz" },
+      { type: "link", content: "https://photos.app.goo.gl/mySr8ggG4z9HQ9mN6", label: "2026年5月14日 哪間寶雅可以買貓貓寶寶的 這麼好" },
+      { type: "link", content: "https://photos.app.goo.gl/nJVxsFHM6eVv1FcS9", label: "2026年5月14日 認真問的 這個位置詳細拍點是哪 不是滋賀縣這種答案" },
+      { type: "link", content: "https://photos.app.goo.gl/KoZdQFGzVt6vKx9L8", label: "2026年5月14日 看起來是 厲害" },
+      { type: "link", content: "https://photos.app.goo.gl/PdqFarwEgM6roTZ5A", label: "2026年5月14日 再考一個更難的地點 這個照片拍攝位置是哪棟樓XD" },
       { type: "link", content: "https://photos.app.goo.gl/ku2ANJVYBz5PpvQV8", label: "2025年5月14日 \
         我曾經有五六次都在非值班被護理師打電話叫醒 凌晨三四點到一大早六七點都有 但他們都有抱歉 \
         我也有好好的跟他們說沒關係 順便告訴他們如何找到正確的值班醫師 護理師會犯錯 值班醫師也會犯錯 \
@@ -6882,6 +6899,16 @@ const records = {
         最重要的不是我用什麼工具 什麼工具都能做到 為什麼要這麼做才是重點" }
     ],
     "15": [
+      { type: "link", content: "https://photos.app.goo.gl/CRh4SKn1skYZZNaJ9", label: "2026年5月15日 說個笑話 恭喜錄取國防軍費醫" },
+      { type: "link", content: "https://photos.app.goo.gl/kbo7SHSwuajwTqsd9", label: "2026年5月15日 別人的付出是包金包銀 軍軍的付出是活該死好" },
+      { type: "link", content: "https://photos.app.goo.gl/JFytCUZQZTHqiPRH9", label: "2026年5月15日 軍方高層這些人都是混吃等死 不合理的法規就是不改 包含之前外訓沒有慰休假也是很扯 可惜我們就是少數人 再噁心的制度都得不到支持" },
+      { type: "link", content: "https://photos.app.goo.gl/kHcskHpuC1VXr1oG6", label: "2026年5月15日 雖然已經習慣了 但每次都能刺痛內心" },
+      { type: "link", content: "https://photos.app.goo.gl/CTSQf3PmjcdHWCWY7", label: "2026年5月15日 不知道那些剛錄取的高中生有沒有看到 24小時待命 這件事背後意義是什麼" },
+      { type: "link", content: "https://photos.app.goo.gl/5fze7NZfb1zURqfU8", label: "2026年5月15日 怎麼不行 要讀醫學系 在台灣哪間醫學院學貸比軍費生要賠的錢多 何況考得上醫還有二類可以選 還怕薪水不高" },
+      { type: "link", content: "https://photos.app.goo.gl/defe1Xb4HPEPfmUD9", label: "2026年5月15日 真話沒有人愛聽" },
+      { type: "link", content: "https://photos.app.goo.gl/mB3CjmGDAiYmjHGf9", label: "2026年5月15日 值班兩年第一次遇到 內科診所醫師AMI不做導管也不吃DAPT 在急診教育我aspirin要吃一個月以上才有效 所以不吃 真大開眼界" },
+      { type: "link", content: "https://photos.app.goo.gl/6cxa5tUn96LRJFFR8", label: "2026年5月15日 健康比當十次局長都值得" },
+      { type: "link", content: "https://photos.app.goo.gl/MMootqyKiHED9SAL6", label: "2026年5月15日 好可愛哈哈哈哈 貓貓屁股應該很好親" },
       { type: "link", content: "https://photos.app.goo.gl/8nzZhmaCLggZdza98", label: "2025年5月15日 \
         超級崩潰 晚上電腦one note問要不要重新整理同步 按下是 結果整個同步失敗 \
         電腦app上整理四年的資料都叫不出來 只有手機跟網路上的one note資料還在 幹怎麼可以這麼爛 到底是什麼問題" },
@@ -6921,8 +6948,133 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/hnUCsSpbpUifqwz96", label: "2018年5月15日 二年坂 Miss you Kyoto 私は京都にいた時の生活を懐かしく思っている 有興趣的朋友歡迎分享跟追蹤囉" },
       { type: "link", content: "https://photos.app.goo.gl/UBMWL4EV5goRrocx8", label: "2017年5月15日 被時間匆忙催促著變成I2了 康樂山 夜景" }
     ],
-    "16": [],
+    "16": [
+      { type: "link", content: "https://photos.app.goo.gl/CzrsZdJXC8bZBsjC8", label: "2026年5月16日 醫師上急診班12小時才2萬 車模7小時就2萬 不用動腦 可以坐著還不會被告 台灣醫療業收入真的是世界奇觀" },
+      { type: "link", content: "https://photos.app.goo.gl/3Ga3Adna19aFjjrDA", label: "2026年5月16日 \
+        喔喔 所以學長被留級 空降之後靠 完全不是同期的成績 來卡掉學弟選醫院跟選科 也是你所謂的 最公平 嗎 \
+        少替這個體制講話 這個體制已經不知害慘多少軍費生" },
+      { type: "link", content: "https://photos.app.goo.gl/2MhTThPNeaHHv9g27", label: "2026年5月16日 我覺得這不是個人的錯誤 是體制的問題 不同屆本來就不應該一起選啊QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/514rW1EjZv61AwBU7", label: "2026年5月16日 他沒有拒絕 他只是把智商給燒掉了" },
+      { type: "link", content: "https://photos.app.goo.gl/AoXLq2mxXRuRNfwG7", label: "2026年5月16日 \
+        第N次記錄一下謝宜璋理事長 這位讓我通過內專口試的老師 內專考完 被他問tension pneumothorax問倒 \
+        之後上課一直看到他 到上個月韓國飯店吃早餐也遇到 今天中午上課也遇到 決定每次看到都紀錄一次" },
+      { type: "link", content: "https://photos.app.goo.gl/UhfbzaFwN7LvbZCS9", label: "2026年5月16日 Paravalvular leak PVL 人工瓣膜旁漏 prosthetic paravalvular regurgitation" },
+      { type: "link", content: "https://photos.app.goo.gl/6dyDKc46nXbnF7r28", label: "2026年5月16日 錦生大帝的演講" },
+      { type: "link", content: "https://photos.app.goo.gl/d2L163wgeaj2MSTC6", label: "2026年5月16日 我也想要快樂爬山 而且今天天氣超好" },
+      { type: "link", content: "https://photos.app.goo.gl/EwoWeftMSENvHnL27", label: "2026年5月16日 對啊" },
+      { type: "link", content: "https://photos.app.goo.gl/L29WUD4ye9ESN8vi6", label: "2025年5月16日 好感動 有burger king跟starbucks才是三總地下街 沒有的那段時間 充其量不過是個攤販混雜地而已 三軍總醫院" },
+      { type: "link", content: "https://photos.app.goo.gl/GTLmRXM7HqCo7kce9", label: "2025年5月16日 \
+        jaylaiyoman 部隊認識的健身好麻吉 原本是護理師 退伍後居然還自己開養雞場 超新鮮的雞蛋 \
+        昨天訂了到貨馬上煮荷包蛋 好吃到不行 推一個" },
+      { type: "link", content: "https://photos.app.goo.gl/eMT7GA9S3NgttS139", label: "2024年5月16日 日本比台灣適合觀光旅遊欸 比較便宜還更漂亮" },
+      { type: "link", content: "https://photos.app.goo.gl/vgvnsSEHk6oVknSp8", label: "2024年5月16日 \
+        久違的簡單修圖 Osaka大阪 一偶 訂閱好一段時間的photoshop跟lightroom 突然發現數個月沒有再打開了 \
+        今晚打開了攝影的資料夾與LR 乘坐時光機回到去年的旅程 才發現自己即將離攝影的夢想越來越遙遠了 \
+        隨後再度關上 把書打開 面對考試準備進度落後一大截的現實" },
+      { type: "link", content: "https://photos.app.goo.gl/YbHZd3qHxuFm9uYH7", label: "2023年5月16日 某院待遇是至今全台醫院都無法企及的高度 而且還更改不了XD" },
+      { type: "link", content: "https://photos.app.goo.gl/saDrq682T3QW1YYk8", label: "2023年5月16日 \
+        這不是被盜帳 家人最近給自己狗狗吃了澳洲點心之後 直接愛上 所以打算進口來賣 好像也不好買到 \
+        我們也有讓一些朋友狗狗試吃過 真的讚 想嘗試可以蝦皮下單唷" },
+      { type: "link", content: "https://photos.app.goo.gl/y2DybTRPwFWTVcFFA", label: "2023年5月16日 身為空拍機小白 只試飛過三次 不算練習 就要準備拍攝了 做完一些筆記也不太安心" },
+      { type: "link", content: "https://photos.app.goo.gl/GXwbeVhVuLxYv53f8", label: "2023年5月16日 吃我愛心手指" },
+      { type: "link", content: "https://photos.app.goo.gl/knpC5Zz71AQAM1tR9", label: "2022年5月16日 有可能是法律上對行政契約有不同定義嗎 不是的話 證明台灣是人治社會 不是法治社會" },
+      { type: "link", content: "https://photos.app.goo.gl/W29LQHPHtLbJRuNm7", label: "2021年5月16日 確診患者行徑的足跡 我放在上拉連結了 非官方但可參考囉" },
+      { type: "link", content: "https://photos.app.goo.gl/Hi6YZ7jjYYuTp86r7", label: "2021年5月16日 好的" },
+      { type: "link", content: "https://photos.app.goo.gl/MRZktwS613jVr8ym6", label: "2020年5月16日 終於收到珍貴的生日禮物 希望她去台北願意陪我跑步" },
+      { type: "link", content: "https://photos.app.goo.gl/1DsjCET8FsjeBmDt9", label: "2019年5月16日 我已被管制半個多月沒有任何外散假 就是24小時都在營區 還不知道要多久才能放 但怎麼會有人照三餐跟我炫耀 你怎麼看zzz" },
+      { type: "link", content: "https://photos.app.goo.gl/CiH4V1tv9VoQTpZn6", label: "2018年5月16日 奉勸國防學弟妹成績一定要好 否則未來抽到海軍 真的是下等人之中的下等人 毫無基本人權可言 限時抱怨ZZZZZ" },
+      { type: "link", content: "https://photos.app.goo.gl/Z7RdzkhrFA8KSup3A", label: "2018年5月16日 早上跟主任預約了牙冠增長術 到底為啥可以一直蛀牙 是不是因為遇到" }
+    ],
     "17": [
+      { type: "link", content: "https://photos.app.goo.gl/Ns7Anz4kWwtntANc8", label: "2026年5月17日 \
+        所以醫師可以做比較久就活該低薪是不是 那乾脆醫師統一月薪五萬好了 反正腦袋清楚嘴巴能動做到80歲都可以 \
+        護理師醫檢師藥師營養師這些醫療人員月薪以後三萬就好 反正他們也能做很久 台灣人生病包一包回家去好了 什麼邏輯" },
+      { type: "link", content: "https://photos.app.goo.gl/VLeEa66cboQ43HQL6", label: "2026年5月17日 \
+        抱歉沒有要針對版主 單純個人覺得很難過 百工百業都因應環境局勢給予適當薪資 \
+        反觀只有醫療業死薪水就算了還越來越低薪 台灣人居然能忍受這種不合理的事情" },
+      { type: "link", content: "https://photos.app.goo.gl/crXpzLrEQNL7AxCMA", label: "2026年5月17日 \
+        我論的是價值跟薪水 急診班12小時就多少人承擔多少風險貢獻多少專業度 車模7小時需要承擔多少風險跟貢獻多少專業度 \
+        結果這兩個工作內容薪水可以一樣喔 拜託中文理解一下zzz" },
+      { type: "link", content: "https://photos.app.goo.gl/P4MLkGoZX3bP6HGCA", label: "2026年5月17日 心臟科都是吃的跟認真的學術演講" },
+      { type: "link", content: "https://photos.app.goo.gl/GX6EZK3Nhm9qSjNAA", label: "2026年5月17日 這個也太真實了" },
+      { type: "link", content: "https://photos.app.goo.gl/qZcT9GQPR6gFoPNt6", label: "2025年5月17日 \
+        不得不面對再一個月得接教學總醫師 但我從來不是教學的料 反而是常常被教了很多次還是聽不懂的那個學生 \
+        為了能夠教(ㄏㄨ)學(ㄌㄢ) 趕進度整理各種ekg資料 盡力在這個月內彙整 所有重要的書籍跟講義 不過自己的讀書進度就變0了" },
+      { type: "link", content: "https://photos.app.goo.gl/U9c3coeHD2C2kjsu7", label: "2025年5月17日 這是什麼" },
+      { type: "link", content: "https://photos.app.goo.gl/y3Zdu8eLB2eAgvgm6", label: "2025年5月17日 看起來真好吃" },
+      { type: "link", content: "https://photos.app.goo.gl/wHwvF6JbovgeRKSN6", label: "2025年5月17日 腹瀉就先停抗生素啊" },
+      { type: "link", content: "https://photos.app.goo.gl/BSHrc9DbHNfQqDGX7", label: "2025年5月17日 認真說 一個好的聽診器 這比什麼都重要" },
+      { type: "link", content: "https://photos.app.goo.gl/F5epQN5QFcELhypC9", label: "2025年5月17日 我傻眼" },
+      { type: "link", content: "https://photos.app.goo.gl/NtpXJsZmPfJ6GqVG8", label: "2024年5月17日 中醫比西醫難很多是不是有什麼誤解" },
+      { type: "link", content: "https://photos.app.goo.gl/McuMfAZXrWJFj3dSA", label: "2024年5月17日 軍費的話不如讀中醫 真的 如果不是軍費的話 公費 代訓 自費都比中醫好" },
+      { type: "link", content: "https://photos.app.goo.gl/WFz7wjkAcDzCSM918", label: "2024年5月17日 我也有收藏一堆景點 現在我缺的只是可以不要回醫院上班的假期" },
+      { type: "link", content: "https://photos.app.goo.gl/QfQCMa5VhYD8i4i1A", label: "2024年5月17日 雖然很討厭大陸的政治跟某些文化 但不得不說祖先留下來的建築真的美到好想去拍" },
+      { type: "link", content: "https://photos.app.goo.gl/TvHuFSX4g1Ed6qjL6", label: "2024年5月17日 \
+        內專求救一下小麻對於NSCLC治療只更新到2021 光是這樣基因對應標靶已經背不完 之前還考一個kras g12c \
+        想問有沒有好心大大補充一下至2024年有更新比較重要的基因對應的標靶藥物嗎 我感覺老師出題都是考比例較高的基因突變 \
+        例如kras g12c高達13% 其他只有1-3%的新藥比較少考" },
+      { type: "link", content: "https://photos.app.goo.gl/2cgEPa6qkLM7i1Nv6", label: "2024年5月17日 你也會誒" },
+      { type: "link", content: "https://photos.app.goo.gl/H9DpGyDbw8sixqCt9", label: "2024年5月17日 紅燈太長了哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/KjCd4g4jmutZ9WWW7", label: "2024年5月17日 生日快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/ospBYafLPnLnytx69", label: "2023年5月17日 \
+        來談談跟攝影無關的台灣最失敗的健保 昨天忙到晚上七點 一位剛做完心導管的阿姨 趁著幫他止血的空檔聊一下 \
+        她半年住加州 半年住台灣 她的兒子們都在美國工作了 裡面薪資最低的作業員 薪水跟我當住院醫師一樣高 \
+        若論美國主治醫師薪水 稅後還是比台灣主治高2-3倍以上 雖然稅比較多 接近30%但總生活品質比在台灣好太多 \
+        而她有次去美國急診看病 腹痛指數五分 只有護理師來探視就得離院 費用直接100美金 我想表達什麼呢 \
+        台灣醫師跟護理師待遇極差 但我們提供的品質完全不輸美國 很可憐 原因就是健保不給錢 我們做價值1000塊的治療 \
+        健保只給你700塊 甚至刪減預算的背後就是給你更少給付 反正就讓醫療單位又窮又血汗 讓政府做個表面幫人民省錢的政績 \
+        我們的健保 都是踩在醫護血汗上得來的 不論是醫界 或是民眾 我們都應該為了老了的自己跟下一代 來反抗政府這種惡質的政策 \
+        畢竟有什麼比健康重要 醫學系已非第一志願 因為大家都知道又血汗又低CP 難道台灣醫療環境要繼續退步嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/v722AUVkt5KHsXt1A", label: "2023年5月17日 墾丁變好美喔 JIMBARAN BAY SEAFOOD CLUB" },
+      { type: "link", content: "https://photos.app.goo.gl/FNWCFexrKiSJ9xSD7", label: "2023年5月17日 FLY WITH MY DEAR AND GEARS" },
+      { type: "link", content: "https://photos.app.goo.gl/CQheXiTE8rpgJQS3A", label: "2022年5月17日 \
+        時自今日我依然找不到完全符合需求的筆記軟體 目前就ios備忘錄最好用 \
+        介面容易理解 可以無限插入圖片跟影片在單一頁 這點幾乎市面上都沒有 備忘錄單一面可插入99張 \
+        手機跟電腦可以同步 誤刪可以恢復上一步驟 備忘錄就沒有 字體顏色可以多重選擇 備忘錄也沒有 \
+        格式不容易跑掉 有人性化表格 可以畫螢光筆重點 雲端備份" },
+      { type: "link", content: "https://photos.app.goo.gl/Pw4Vwea1wDZmTww1A", label: "2022年5月17日 忘記說了 2這個功能對我是最重要的 還有同步功能也是 備忘錄可以使用縮圖模式 看不到小字可以直接拉大 這種直覺式的似乎只有他有" },
+      { type: "link", content: "https://photos.app.goo.gl/vZd42wX139sKCG3W9", label: "2022年5月17日 \
+        很感謝大家推薦 目前似乎one note最好用 如果有推薦的都歡迎討論 這個煩惱從去年就開始找答案XD 謝謝QQ \
+        需求 重點整理後方便快速搜尋 且會放大量圖片 必備 沒有就不考慮 單一頁面圖片無上限 Iphone Mac M1同步使用 \
+        誤刪內容可恢復上一步 介面簡單 清楚 沒有手寫習慣所以不需手寫功能 但若字型跟字的顏色可變換更好" },
+      { type: "link", content: "https://photos.app.goo.gl/1WeCPkUQ941H88bU7", label: "2022年5月17日 \
+        很感謝大家推薦 稍微說一下心得 這個是notion 整體都很好 但需付費 每個月240元台幣 才沒有圖片上限 但傳圖有點慢 \
+        介面是比較複雜一點 剛剛手機傳圖後 有點當掉不知道是什麼原因" },
+      { type: "link", content: "https://photos.app.goo.gl/kYVtqyB6w3rmnctV7", label: "2022年5月17日 免費的話one note似乎是最佳解 手機登入成功 但不知為何電腦登入變成凍結帳戶 有人知道one note有沒有放置圖片的上限嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/RHCwgML2MEupjJCc7", label: "2022年5月17日 One note確實不錯 也不用額外費用 認真考慮了 有用戶能提供他的缺點或建議嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/wJZCBhnubukAMLUr9", label: "2022年5月17日 \
+        One note CP值最高 免費仔專用 似乎沒有大問題 Notion 看起來是功能最齊全的 介面複雜應該習慣就好 但內容用起來很順暢 \
+        但要有學生信箱註冊才能免費 Ever note 電腦版大家都說爛 Good note 比較少數人在用 但需要花錢 好像沒特別突出的點 \
+        感謝大家 目前搜集建議大致是這樣 醫學這行業沒有筆記真的會GG 這是其他行業沒辦法理解的 不喜歡讀書考試 定期更新知識到白髮 真的不要讀醫" },
+      { type: "link", content: "https://photos.app.goo.gl/GbtTT4RzPjtXZ74eA", label: "2022年5月17日 \
+        很疑惑為何病人血糖會無法控制 過去沒有DM的病人血糖很差有什麼可能嗎 \
+        60歲男性否認過去病史 上個月主訴腹脹痛 黃疸及雙下肢水腫入院 入院新診斷adenocarcinoma of recto-sigmoid cancer \
+        合併肝轉移 cT3N1M1a stage IV 5/9第一打5-Fu 3600mg Oxaliplatin 120mg 前菜包含medasone 5mg stat一次 \
+        目前病人疑似肝腦病變 神智有時混亂 血糖如圖一 4/27 HbA1C 5.7% 5/16開始glucophage BID 其他抽血data如圖二 \
+        住院藥物如圖三 4/30 liver spleen MRI報告如圖四 無胰臟侵犯 病人食慾極佳 也自行購買安素服用 \
+        目前都沒fever 看起來沒有感染問題 謝謝 謝謝 原來stress需要考慮學到了 我沒有說他可以診斷DM \
+        我的問題是說碰到這種狀況 有需要特別去鑑別是否DM嗎 但因為他過去血糖是正常的所以我覺得不用 \
+        你可以提出合理建議 我都會接受 但請不要質疑我 因為這不是我的病人 我發文只是想了解自己有沒有忽略的地方" },
+      { type: "link", content: "https://photos.app.goo.gl/gi1MReYXLkCtDJ2A6", label: "2022年5月17日 \
+        為什麼畫質超高清 傳到ig解析度變成這樣= = 臨床疑問 為什麼病人高血糖 60歲男性否認過去病史 \
+        上個月主訴腹脹痛 黃疸及雙下肢水腫入院 入院新診斷adenocarcinoma of recto-sigmoid cancer \
+        併肝轉移 cT3N1M1a stage IV 5/9 第一打5-Fu 3600mg Oxaliplatin 120mg 前菜包含medasone 5mg stat一次 \
+        目前病人疑似肝腦病變 神智有時混亂 血糖如圖一 4/27 HbA1C 5.7% 5/16開始glucophage BID 其他抽血data如圖二 \
+        住院藥物如圖三 4/30 liver spleen MRI報告如圖四 無胰臟侵犯 病人食慾極佳 也自行購買安素服用 \
+        問題 HbA1C正常 能診斷是否有DM嗎 高血糖原因是什麼 我不知道 只是很好奇才紀錄 求指導 PET建議血糖控制在200mg/dL下才做" },
+      { type: "link", content: "https://photos.app.goo.gl/iV2fNFnSFymC9KzR8", label: "2022年5月17日 回憶的東東" },
+      { type: "link", content: "https://photos.app.goo.gl/nBSsVSMumupk8VPQ8", label: "2022年5月17日 人要有自知之明XD" },
+      { type: "link", content: "https://photos.app.goo.gl/3YfM2iaLQaR4dEsA8", label: "2021年5月17日 用做報告整理的方式強迫自己複習 但每次都做到自我懷疑 身為國考通過的人應該只有我要複習這些" },
+      { type: "link", content: "https://photos.app.goo.gl/vmxrKpabwLrgfhy39", label: "2021年5月17日 防疫自閉 晚餐只好自己亂弄" },
+      { type: "link", content: "https://photos.app.goo.gl/1HGSb6WvmQ4kuj8t5", label: "2020年5月17日 三項體能300壯士帽 神奇的國軍禮物" },
+      { type: "link", content: "https://photos.app.goo.gl/B1jU3zHGanS24pJY7", label: "2019年5月17日 現在的點閱率演算是不是又改爛了" },
+      { type: "link", content: "https://photos.app.goo.gl/AHm1XZJaNX4ws8BX7", label: "2019年5月17日 \
+        謝謝臺北市政府消防局去年主動邀稿 還默默跟柯文哲阿北要簽名 代表阿北也看到這份月曆了 這是第一件開心的小消息 \
+        明天還有第二件 非常感謝這一切 希望台北越來越進步 未來北漂工作順利" },
+      { type: "link", content: "https://photos.app.goo.gl/xMrJfqG6uvasUi8g8", label: "2019年5月17日 太棒了 DOCTORKOWJ" },
+      { type: "link", content: "https://photos.app.goo.gl/Jq9VpopRCe2r77rE7", label: "2019年5月17日 收集到第二個阿北的簽名 柯文哲 我的作品在封面" },
+      { type: "link", content: "https://photos.app.goo.gl/gZ8Hsd8n2RyXqWta9", label: "2018年5月17日 ADHD過動小兒多九月出生 可能與冬天感染有關 提醒有計畫的朋友可以避開" },
+      { type: "link", content: "https://photos.app.goo.gl/6sbYGPrh2QakR8aL6", label: "2018年5月17日 佛係醫師二國考 時候到了 自然會過" },
       { type: "link", content: "https://photos.app.goo.gl/RuH644eWcebbtftR7", label: "2017年5月17日 計畫好的藍眼淚泡湯 難得長假只能讀書 悶悶der" }
     ],
     "18": [
