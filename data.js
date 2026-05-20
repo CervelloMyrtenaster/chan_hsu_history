@@ -7078,13 +7078,179 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/RuH644eWcebbtftR7", label: "2017年5月17日 計畫好的藍眼淚泡湯 難得長假只能讀書 悶悶der" }
     ],
     "18": [
+      { type: "link", content: "https://photos.app.goo.gl/MTjctKfX4dcS66E27", label: "2026年5月18日 \
+        必須要誇獎claude AI 單純解題目來說 claude+open evidence是最強組合 因為claude分析時間差不多 \
+        但條理跟邏輯最嚴密 陳述內容也最容易看懂 還會自動附上表格 也幾乎沒什麼幻想內容 \
+        GPT強在直接複製字體跟符號很方便 使用目的最廣泛 但有時回答會長篇大論有點抓不到重點 gemini則是複製出來格式常常亂碼" },
+      { type: "link", content: "https://photos.app.goo.gl/B7M7usg4jebuYNNi8", label: "2026年5月18日 \
+        沒想到可以解鎖自己心裡的小目標 特別紀錄一下 中年男性沒病史 胸痛入院 ekg做完後被啟動stemi 我被聯絡後 \
+        第一時間覺得這不像 因為v1-3是concave 雖然懷疑前胸時lead 3 std可能為reciprocol 但他是diffuse std \
+        不是reciprocol 所以當我看到病人時 請同仁掛到一半的heparin跟家屬即將餵下去的DAPT叫停 請他們千萬別先給藥" },
+      { type: "link", content: "https://photos.app.goo.gl/hh1sfkxSY7wJHQTV6", label: "2026年5月18日 \
+        立即掃echo發現EF很好 aorta看不清楚 第一時間更排除stemi 接著與主治回報後 確實confirm這不是stemi ekg \
+        打了一劑強心針 但病人還是胸痛 繼續追問症狀時又說了 背後也痛了 有些stemi病人也會抱怨背後痛" },
+      { type: "link", content: "https://photos.app.goo.gl/ov4roi7uxihZrtUC6", label: "2026年5月18日 \
+        心裡的疑慮放不下 立即再往脖子掃下去aortic arch 仔細看 好像有一塊flap的感覺 \
+        雖然從來沒真的完全靠echo診斷過那個疾病 但心裡有底了 趕緊建議安排CHE CTA" },
+      { type: "link", content: "https://photos.app.goo.gl/BM1gsJydZZkoXo4k7", label: "2026年5月18日 \
+        切完揭曉 Type A dissection 終於 以前看學長們靠echo診斷AD真的好帥 無奈自己比較駑鈍從來沒成功 \
+        默默在心裡立下這個小目標 沒想到居然在今天做到了 也慶幸自己有勇氣推翻stemi的可能性並且叫停DAPT heparin \
+        從病人身上真的學到東西 希望後續治療平安順利" },
+      { type: "link", content: "https://photos.app.goo.gl/msn1ZrdfMbYZCNfMA", label: "2025年5月18日 \
+        這些偏方都沒用 自我安慰而已 誠心建議 把時間用在陪伴家人 自我實現跟遵從主治醫師醫囑 \
+        其他要你花錢或免費的偏方 都不要浪費你的生命去思考跟嘗試" },
+      { type: "link", content: "https://photos.app.goo.gl/mkkjNyBa8RkyJ1zcA", label: "2025年5月18日 \
+        那是應該的 人命無價 醫療成本很高本來就應該提高收費 這種高價值高風險行業本來就應該賺錢 \
+        很可惜事實不是如此 醫療業就是不賺錢 賠本救人 那些偏方跟詐騙 滾一邊去吧zzz" },
+      { type: "link", content: "https://photos.app.goo.gl/BKsiuiKWV9BFZ1bo7", label: "2025年5月18日 \
+        你八成心肌橋症候群或是容易血管痙攣而已 跟本不用治療 扯什麼中醫個屁 給路邊的狗看也會好 少在那邊用一知半解來胡扯 \
+        不過我個人是希望 你要好好堅持自己的想法 不要來醫院拜託 醫護沒有倒霉到需要看你這種病人 加油" },
+      { type: "link", content: "https://photos.app.goo.gl/DhuHWKxp96VaA9FG9", label: "2025年5月18日 \
+        在pgy階段確實聽診器沒什麼用 也幾乎沒在用 但如果這個聽診器沒被幹走 可以好好保留到快升vs的階段 \
+        後面認真看病人會很有用 就不用再多花錢買高級的 當然這個階段也可以選擇幹護理站或值班室的 很多人都這樣共用XD" },
+      { type: "link", content: "https://photos.app.goo.gl/mm5XGDW475KU87vo8", label: "2025年5月18日 被抓來第一次上瑜伽課 做完全身關節都在發熱" },
+      { type: "link", content: "https://photos.app.goo.gl/jhKkYZTTYou4Ndfx9", label: "2025年5月18日 好羨慕90歲還能跑步 90歲能跑比能工作重要多了" },
+      { type: "link", content: "https://photos.app.goo.gl/TbQ7eDX31XQaotdh9", label: "2025年5月18日 去lalaport不小心敗了一隻大雄 因為居然比蝦皮賣得都還便宜很多" },
+      { type: "link", content: "https://photos.app.goo.gl/LT1Nb84LUabYWQ5u5", label: "2025年5月18日 真可愛 誰先動就被打" },
+      { type: "link", content: "https://photos.app.goo.gl/kGSKLqkTEKuXUe7FA", label: "2024年5月18日 真的太苦了 已經不知道幾個不用上班的週末埋在書堆中" },
+      { type: "link", content: "https://photos.app.goo.gl/AFw7VjwupGStXUfE6", label: "2024年5月18日 鄭招榮也很棒 只有我注意到嗎XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/Q2vJJ7HBLnzgFJG48", label: "2024年5月18日 不管心內心外 不要一直進開刀房跟值班 下班不要寫paper不要做報告就可以" },
+      { type: "link", content: "https://photos.app.goo.gl/PN5SS87QkZUTdCSF7", label: "2024年5月18日 沒有= =" },
+      { type: "link", content: "https://photos.app.goo.gl/oxar7Tm1b66BJQ5U9", label: "2024年5月18日 我也想練" },
+      { type: "link", content: "https://photos.app.goo.gl/xYebTg9jS4f3BDCu8", label: "2023年5月18日 這裡太美了 但今天居然沒有斜射光" },
+      { type: "link", content: "https://photos.app.goo.gl/eX9F1yecD21xL6kD8", label: "2023年5月18日 欸 不要跳啦 不準跳" },
+      { type: "link", content: "https://photos.app.goo.gl/WRiPfcMj99EcRurt6", label: "2023年5月18日 為了去LAHANGAN SWEET拍火山 再次坐上吉普車 這個顛簸的誇張程度讓我想起之前去BROMO火山的路 一個人車票600元機車換搭吉普車" },
+      { type: "link", content: "https://photos.app.goo.gl/T6Rwjw1xCacPJbiB6", label: "2023年5月18日 搭了兩小時的車 機車 吉普車一路顛簸 只為拍幾張照" },
+      { type: "link", content: "https://photos.app.goo.gl/gJVHERaePqu6iGVv5", label: "2023年5月18日 為什麼大家的天堂之門都有倒影 因為前面有水嗎 原來是有在地攝影小哥 解惑了以前都不知道" },
+      { type: "link", content: "https://photos.app.goo.gl/2cQhdYLpXXy22xBCA", label: "2023年5月18日 今天的阿貢火山最多就這樣了 只能看到一點點頭 好可惜" },
+      { type: "link", content: "https://photos.app.goo.gl/c2gBpvYyaruHyGf7A", label: "2023年5月18日 \
+        PONDOK MINA 網路找到的 一個很重要的心得 絕對不要相信司機給你的推薦餐廳 又貴又不一定新鮮 \
+        昨天那家司機大推但卻說他從來沒吃過 不過司機人很好 請務必相信自己網路查詢的餐廳 \
+        今天我們自己找 又便宜又好吃又道地 又沒有奇怪的香料 大推" },
+      { type: "link", content: "https://photos.app.goo.gl/qbZwUJuH485UDg81A", label: "2022年5月18日 很棒 大昌讓病人又可以吃到熱帶水果風味的營養品了 三軍總醫院" },
+      { type: "link", content: "https://photos.app.goo.gl/248YHTFKs5FFC2WVA", label: "2021年5月18日 \
+        早已預言 早就說目前所有國泰金最強勢 逢低買進 今天就可以賣出 或持有都沒差 \
+        就算還是套牢 明年現金股利一定會超過今年 公布時也會漲停接著上漲好幾天 不會賠 \
+        不需要在意公司管理好不好 這是國泰金昨日法說會" },
+      { type: "link", content: "https://photos.app.goo.gl/R2ZqqUkKwNhWVSRy8", label: "2021年5月18日 我還在讀幼幼班的醫學教科書 左營陸戰隊排長就已經發好幾篇文章電爆我了" },
+      { type: "link", content: "https://photos.app.goo.gl/jN1dQcPCdn3BVsVp7", label: "2021年5月18日 \
+        商品名稱 LOKAHI LKBK BLUE 商品資訊 夏威夷品牌 新舊程度 全新 使用兩次拍照用而已 正常運作 我自己堅持只戴GARMIN運動錶故售出 \
+        價格 $1200 原價5020 聯絡及交易方式 疫情關係只有7-11匯款後店到店 運費我出可直接私我 商品可上拉連結" },
+      { type: "link", content: "https://photos.app.goo.gl/vgSJdyXrw2b2kxk79", label: "2021年5月18日 如果你是民眾並且害怕有疫苗的血栓風險 那麼可以聽這位台大血液科主治醫師的建議 不過目前的問題是疫苗大缺貨QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/Z2TZwJWQMgswcier5", label: "2021年5月18日 防疫在家亂煮 蛋炒飯最成功的一次" },
+      { type: "link", content: "https://photos.app.goo.gl/h9C5kqMJvjKDqKon6", label: "2019年5月18日 社腳里 開始工作八個月才存夠 真的體會錢有多難賺 辛苦的成果 終於我們的第一台車 luxgen u6" },
+      { type: "link", content: "https://photos.app.goo.gl/ToE892vkAxr3jvRH6", label: "2019年5月18日 從無開始出社會八個月 才存夠能買大白熊 終於能載妳風雨無阻的拍照 錢真的不好賺" },
+      { type: "link", content: "https://photos.app.goo.gl/kfDfN9hyS8f5dDtWA", label: "2019年5月18日 富富話合 這棟很吃光影 沒辦法 誰叫我只是排長 不是醫生 超棒的 在大樓裡面很顯眼" },
+      { type: "link", content: "https://photos.app.goo.gl/GAwjADbBKA4CYy6KA", label: "2018年5月18日 \
+        各位看這句 國文其實很有趣 他說在使用藥物的前三個月 其實也就是在使用藥物後三個月 出現副作用 的意思 \
+        因為他解釋成使用藥物後的那三個月 所以使用藥物的前三個月其實可以等於使用藥物的後三個月 \
+        但也可能單純就是使用藥物的前三個月 中文真是世上最偉大的語言呢" },
       { type: "link", content: "https://photos.app.goo.gl/YoJ7McEabrrwvkrZ9", label: "2017年5月18日 台南下著雨讓人心安" }
     ],
     "19": [
+      { type: "link", content: "https://photos.app.goo.gl/zDgS7ycQ7C5MEXBG9", label: "2026年5月19日 古前生物" },
+      { type: "link", content: "https://photos.app.goo.gl/owDJsMmGEzuzBniA7", label: "2026年5月19日 很漂亮" },
+      { type: "link", content: "https://photos.app.goo.gl/m6Ntw3x3tk4zuuNj9", label: "2025年5月19日 因為台灣醫師跟你不一樣 我們會先思考" },
+      { type: "link", content: "https://photos.app.goo.gl/qoZipFGejokbmejB7", label: "2025年5月19日 憑什麼醫護必須忍受這些人 唉" },
+      { type: "link", content: "https://photos.app.goo.gl/T3MrWVK68T2zRwpP9", label: "2025年5月19日 \
+        更新一下進度 收全款後 泰國空拍機代辦真的有認真幫我申請 目前已經通過CAAT NBTC要等入境章才會成功 \
+        早上入境後拍照傳給他們 似乎當天就會好 真正完全成功能飛 我在整理心得給大家 網路完全沒有這個資訊XD" },
+      { type: "link", content: "https://photos.app.goo.gl/Gvgpn9uQ9MXjyMNU7", label: "2025年5月19日 關我屁事 你這輩子都不要踏進西醫院就好 務必都找中醫 沒執照的更好 拜託了" },
+      { type: "link", content: "https://photos.app.goo.gl/aqaKwcsDQcxdb6bm7", label: "2025年5月19日 還好吧 沒很帥" },
+      { type: "link", content: "https://photos.app.goo.gl/5zHsNdFKZ8sJz65K9", label: "2025年5月19日 好啊換爆哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/1j117AbtBMjdE3jh9", label: "2024年5月19日 \
+        網路上好像沒啥資源 決定自己弄一個2021 FC內專勘誤在精選動態上 因為我不一定是對的 \
+        所以如果我堪錯或要投稿錯誤也可以直接私訊即可 造福一下少部分的可憐內專考生 一天一勘誤直到華健華醫師回覆我" },
+      { type: "link", content: "https://photos.app.goo.gl/vWx7y1oe4NzGJegr7", label: "2024年5月19日 第四冊330頁 底下應該是右邊的結腸較寬 不是左邊" },
+      { type: "link", content: "https://photos.app.goo.gl/Wn3pACiW8RSwEz5HA", label: "2024年5月19日 這個地方好像在我家附近 過奇美的那間正忠排骨" },
+      { type: "link", content: "https://photos.app.goo.gl/vktqybZzkndudF1R9", label: "2024年5月19日 \
+        Our Family 他們一起走上臺階 瞭望著夕陽下的點點燈火 寵物是不需文字溝通的家人 無聲的陪伴是他們帶來終其一生最好的禮物 \
+        很久沒有修圖練練手感了 好久沒有修圖練一練手感 希望久久還是能修個圖不然太快生疏 BEFORE AND AFTER" },
+      { type: "link", content: "https://photos.app.goo.gl/3nGPhukRXfrmxLGV8", label: "2024年5月19日 太厲害了 利用家中樓梯的光影拍出這張 好美的樓梯跟可愛貓貓" },
+      { type: "link", content: "https://photos.app.goo.gl/kxRJia8xN5QEU3b8A", label: "2024年5月19日 恭喜 故事看完了" },
+      { type: "link", content: "https://photos.app.goo.gl/TRjTLinwrAcdSUJq9", label: "2023年5月19日 \
+        與最愛的人在最偏遠的小島拍攝最愛的日出日落銀河 還有什麼比現在更值得活著 Rice Terrace Tegalalang\
+        Tegallalang Sunrise 這次行程非常緊湊 甚至回國後等著一堆值班與報告 因此還沒回國就決定來開箱峇里島之美 \
+        Tegallalang梯田很久以前就看過 心想怎麼可以如此爆幹美 又有斜射光 最初也是為了這裡下手了Mavic 3 classic \
+        這裡離Ubud約25分鐘車程 大概6:20日出 但印尼人都很早起 所以即便我們05:40出門街上早市已熙來攘往 \
+        車速不快無法趕上日出前的晨曦 這個景點位於路邊 有多個入口但都有矮門關著 因此司機幫我們打個招呼就能進去 \
+        許多外國人會穿鮮豔的服裝搭配梯田背景 等待耶穌光神來一筆 這裡也會有阿婆挑扁擔讓大家拍照 不過這是事後要收費的 \
+        所以我幾乎只飛空拍機 很可惜的這天沒有耶穌斜射光 但天氣不錯仍讓我拍到像等高線的梯田" },
+      { type: "link", content: "https://photos.app.goo.gl/EgyZs8s29qcdRz8v5", label: "2023年5月19日 來到天涯海角 每天睡不到五小時 根本不是來蜜月是來行軍 對不起" },
+      { type: "link", content: "https://photos.app.goo.gl/c7wq97ZPq5jwjWY68", label: "2023年5月19日 \
+        DIAMOND BEACH 這絕對是我住過第一屌的AIR BNB旅社 東南亞小島上一晚3142台幣 超舒服的木頭香味 超美的海灘 \
+        超大的空間 超亮眼的星空 台灣很多貴的要死的飯店真的被壓在地上摩擦 喔不對根本不同次元 \
+        寧願多花機票錢來東南亞小島 你真的會完全回不去台灣的旅遊 PS還有今晚的兩個人炒飯加飲料加香蕉煎餅才台幣300多塊" },
+      { type: "link", content: "https://photos.app.goo.gl/LLscMoG18zuJokXN8", label: "2023年5月19日 什麼 除了前面說的好處 居然還有攝影棚的功能 直接擺拍起來 人臉輪廓打燈跟佈景都超猛 這張是原檔" },
+      { type: "link", content: "https://photos.app.goo.gl/PPvm5TyrAB2FgUVk6", label: "2023年5月19日 BROKEN BEACH" },
+      { type: "link", content: "https://photos.app.goo.gl/WawaGobshsBFL7oT6", label: "2023年5月19日 富岡魚港 出發去綠島囉" },
+      { type: "link", content: "https://photos.app.goo.gl/UFd88Nc1Hffzrhij9", label: "2023年5月19日 ULUN DANU TEMPLE BALI ISLAND INDONES" },
+      { type: "link", content: "https://photos.app.goo.gl/UYY5o2E6PqqWqnHy7", label: "2022年5月19日 \
+        台灣加油 五月開始真難熬 疫情爆發 人力不足值班變得不輕鬆 加上論文跟讀書進度 根本碰不到相機 \
+        打開電腦都在查資料 PS也沒空打開 疫情可以趕快恢復嗎 股市可以趕快正常運作嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/Fqpx1yCxBRW9F9f2A", label: "2022年5月19日 他們越長越像了欸XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/tDeXZgLGcUGkA3TTA", label: "2021年5月19日 笑死 手機不知有啥毛病 LINE只要對話開頭一定強制傳一個貼圖先 也太可愛 希望他的手機永遠這樣當機" },
+      { type: "link", content: "https://photos.app.goo.gl/8P5izeHJrrVhoNXXA", label: "2021年5月19日 有朋友問這個問題 於是我找了一下資料 有興趣了解&連結都在下頁 會放上來的也都是醫界醫師整理分享 可信度沒問題" },
+      { type: "link", content: "https://photos.app.goo.gl/QyXXWyNyALS141YV6", label: "2021年5月19日 FB看到這位醫師整理分享 很清楚 目前我們針對武漢肺炎的疫苗 有哪些不同來源 可見連結 醫院網站資料" },
+      { type: "link", content: "https://photos.app.goo.gl/XCsiac2zwinProv57", label: "2021年5月19日 北榮家醫科同學分享正確觀念 我同學已經快當家醫科主治了 其實疫苗第一劑就有至少三個月的保護力 現在慢慢有響應把第二劑留給尚未施打的人的聲音" },
+      { type: "link", content: "https://photos.app.goo.gl/zGa3SLLwvoWAmN7PA", label: "2021年5月19日 暨被認證進步後 再次被大廚濕認證 我好興奮啊" },
+      { type: "link", content: "https://photos.app.goo.gl/AYcHCFpscxpNc8Pz6", label: "2021年5月19日 防疫晚餐" },
+      { type: "link", content: "https://photos.app.goo.gl/pMyjSZSf7hcWiCwK8", label: "2020年5月19日 第一次聽到有人說救護用的濕毛巾必須是 無菌的狀態 我真是大開眼界 至於是哪應該不用多說了" },
+      { type: "link", content: "https://photos.app.goo.gl/VuDUHDy33wfhaauZ8", label: "2018年5月19日 \
+        2014年作品 年輕很少有人能體會 為了工作得離開一切深愛人事物的感覺 這叫做絕望 \
+        當比別人更努力更優異 一路上通過各種考試面試與血汗實習 卻發現依舊沒有別人生活好 看著別人出國的出國 \
+        跟女友相聚的相聚 拍照的拍照 下班的下班等 那就更絕望了 其實許多上班族抱怨低薪與加班 在我眼裡你們真的很幸福 \
+        未來我沒有所謂的上下班時間更沒有一定的放假 聽起來很扯也是不合規定 但他就是目前發生的實際狀況 還是強制性的不能走 \
+        只是比較是沒有意義的 每個人得負責自己的人生 經過時間的歷練未來會比較好嗎 不知道 但也有那麼一群人跟我一樣 \
+        在為了生活而忍耐著 我們就必須堅強再堅強" },
       { type: "link", content: "https://photos.app.goo.gl/dACNmXGhzqnGegnC9", label: "2017年5月19日 今天平日早晨欸 夠扯 都不用上班" },
       { type: "link", content: "https://photos.app.goo.gl/uKwJxkX4bLfPbVtu6", label: "2017年5月19日 從12點拍到六點 我瘋了嗎 晚上接續值急診 會掛 中寮山天希坊" }
     ],
-    "20": [],
+    "20": [
+      { type: "link", content: "https://photos.app.goo.gl/A7Bjg1LMh3A7yiMBA", label: "2025年5月20日 下班後拖著疲憊感健身 晚上回家 超厲害弄出一個純蛋蛋捲 歐伊系的捏 也要感謝 yolin_chicken_farm 以前當兵的兄弟 退伍後又健身又自己做養雞場 雞蛋超新鮮的" },
+      { type: "link", content: "https://photos.app.goo.gl/vJYRDUPXEPvVZv7r8", label: "2025年5月20日 存起來 我之後帶妳去" },
+      { type: "link", content: "https://photos.app.goo.gl/RKdKx9E1nUpH1raPA", label: "2024年5月20日 \
+        把最後一檔仍在賠錢的股票賣掉了 賠了2萬多元 其他金融股跟大盤早已翻正 \
+        這是第一次認賠責的股票 三年前亂聽朋友建議買的 原本打算長期放到賺 但已經三年了 \
+        這樣會我失去買大盤跟金融股的機會 畢竟現在沒資金了 未來絕對只買大型金融股跟大盤 絕對不再亂聽建議" },
+      { type: "link", content: "https://photos.app.goo.gl/nuJzF2uV9LWzZWqB8", label: "2024年5月20日 這是台中嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/mJNDCuc8jncUWwND6", label: "2024年5月20日 我要吃" },
+      { type: "link", content: "https://photos.app.goo.gl/vMZXJ9B2JhMB48g39", label: "2023年5月20日 沒套任何濾鏡 週六還沒啥人 墾丁怎麼比" },
+      { type: "link", content: "https://photos.app.goo.gl/2vxtbfLZz4aqePii7", label: "2023年5月20日 比我們都還幸福的狗狗" },
+      { type: "link", content: "https://photos.app.goo.gl/ZyX6jLba2WErdwjA8", label: "2023年5月20日 腳架 一機兩鏡 DJI M3+三顆電池+帶屏遙控 筆電 水跟雜物 大概20KG每天背 SHIMODA除了稍醜一點真的很耐操 又防水" },
+      { type: "link", content: "https://photos.app.goo.gl/wiHJiCRtEEHX5jdA6", label: "2023年5月20日 又找到一個DK的神點 但這裡要退潮的日出才能拍珊瑚礁配恐龍岩" },
+      { type: "link", content: "https://photos.app.goo.gl/ZhxV3cAGAbeKDaKC6", label: "2023年5月20日 原本想說珊瑚礁看不到了我們兩個就離開 結果走到出口發現退潮真的退了一大截 不知道這樣是不是有珊瑚礁可以拍了XDDD 退潮的範圍" },
+      { type: "link", content: "https://photos.app.goo.gl/8s7y9S1SXqcETpeT8", label: "2023年5月20日 DK夕陽神點再加一 也是最後一個拍攝景點了 時間好快QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/UCN9KJC1UEGavx869", label: "2023年5月20日 下次去印尼希望能拍到這些景點" },
+      { type: "link", content: "https://photos.app.goo.gl/8uBNEYnwEy9t8PHo6", label: "2023年5月20日 再見了 M3 現在我什麼話都說不出來" },
+      { type: "link", content: "https://photos.app.goo.gl/wXTFMtgz4scrB1G87", label: "2022年5月20日 \
+        中信南港總部 520 生活分享No.18 520這一天還是要來紀念 與北漂快滿兩年的日子 尤其第二年 體驗到內科住院醫師的可怕 \
+        幾乎就是住在醫院的醫師 回家的日子不是累到癱睡 就是與書跟報告為友 看不見盡頭的暗黑生活 隨著專科考試的逼近 \
+        壓力漸漸累積成海嘯 好在願意包容我這樣的工作 好好的假日卻只能一個人在家真的很委屈 也謝謝總是在空閒幫我準備便當及水果 \
+        也容忍我偶爾帶回家一點零星的負面情緒 不論角色為何 互相體諒及包容才是感情基石 \
+        出社會後面對的洪流非常湍急 很幸運你是我的停泊港 希望我們繼續努力 也祝520這天有情人都能珍惜彼此" },
+      { type: "link", content: "https://photos.app.goo.gl/pejXEY5eDFPzyLGJ9", label: "2022年5月20日 今年開發金的股東禮物實在太可愛了 是高質量的故宮花鳥碗 一下班就奉的命令趕快去拿 一下子超多店家都沒了" },
+      { type: "link", content: "https://photos.app.goo.gl/Rc2X4j4qXfYjwNsL9", label: "2022年5月20日 One note真的很棒 感謝推薦 Notion也是頗受好評 但還在想辦法找回學生信箱 有學生信箱註冊notion最划算" },
+      { type: "link", content: "https://photos.app.goo.gl/tn1fqwWnompipmhWA", label: "2021年5月20日 \
+        無耳茶壺山步道 山城的碎黃金&生活分享No.2 今天520 敬我與的緣份 還有一起看茶壺山的美景 \
+        疫情關係 很多人也跟我們一樣得分隔兩地 因此我想談很多情侶都害怕的問題 遠距離 \
+        因工作特殊性 以前害怕遠距離的我 被迫慢慢克服了 我也很感動的 是容易沒有安全感的也在相處中變得堅強 \
+        這次疫情中 我也被劃入待命去萬華篩檢站的名單 不知道何時須出動 一但去了就不能拒絕國家的安排 \
+        結束也得至少自主隔離14天再碰面 所以我始終覺得 能克服適當的遠距離 才能夠保護珍惜的感情 \
+        另一方面 生命中若只剩下感情 反而會失去感情 真感情是先能過好自己的生活 照顧好自己 \
+        不造成伴侶負擔才能談能否對伴侶負責 否則都是假的 如果感情只有膩在一起 沒有工作賺錢的能力 沒有照顧對方的生活技能 \
+        沒有外面人脈 那只會讓更多的不順遂衝擊彼此 安穩的感情不會天上掉下來 一定得付出跟忍耐才有 \
+        所以遠距離的時候 即便思念對方 也要很清楚自己該過什麼生活 每天該完成什麼任務 讓生活充滿待辦事項 \
+        而不是因不能膩在一起而鬱鬱寡歡 以自己為例 除了兩人的世界 也要額外花時間精進醫學 \
+        甚至這工作常連續佔我超過30小時不能回家 另外攝影 語言 有氧無氧運動等也要投資自己 投資自己不能只為了追對象 \
+        所以不會因為有感情生活而停下腳步 自然在遠距離時 也靜下心來把該做的事情做好 許多的不安全感 \
+        疏離感也會某種程度拋在腦後 總之 希望疫情趕快過去 恢復正常軌道 祝大家520這天都平安快樂囉" },
+      { type: "link", content: "https://photos.app.goo.gl/4rYvTqAQfH1WQod66", label: "2021年5月20日 越來越兼顧外觀 可是最多只能做到這樣惹" },
+      { type: "link", content: "https://photos.app.goo.gl/bNqjYWR9fNGWNdfY7", label: "2021年5月20日 關於武漢腦炎的部分 我不行了 你們可以自己去看 XDDDDDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/CJ9k59NZi4Fh7kNg9", label: "2021年5月20日 心電圖對我來說一直是很大的障礙 常不懂裝懂 想說有沒有人會完整有系統的整理+教學結果沒有 那還是靠自己好了" },
+      { type: "link", content: "https://photos.app.goo.gl/2zvQN8eMniJRnGwS7", label: "2018年5月20日 520 今年最大的禮物 是希望能在短短的假期載妳出去玩" },
+      { type: "link", content: "https://photos.app.goo.gl/zWhfB8xFdUuobFVv7", label: "2018年5月20日 張醫師實在太厲害了哈哈 趙婕涵等我撐過這十幾年以後退伍 也帶你環遊世界 拍我們自己的甜蜜照" }
+    ],
     "21": [
       { type: "link", content: "https://photos.app.goo.gl/PTiAgXni373kzjbF7", label: "2017年5月21日 今晚兒急診大爆滿 門庭若市ORZ" }
     ],
