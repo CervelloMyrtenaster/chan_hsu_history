@@ -7332,6 +7332,9 @@ const records = {
         發生太多事情真的真的太累 我需要talk但我沒朋友 生活像是在吃屎還要假裝過很爽" }
     ],
     "23": [
+      { type: "link", content: "https://photos.app.goo.gl/a3L3E7QAk1mcwyKX7", label: "2026年5月23日 熱愛的部分每個人不同 但考上醫學系有件事是每個人都一樣的 就是恭喜你擁有繼續一路考試考到30幾歲的入場卷 而且你的對手會是越來越可怕跟強大的考試神人" },
+      { type: "link", content: "https://photos.app.goo.gl/fao2uX6YXbzsEFjF6", label: "2026年5月23日 傷害這種小動物的人真的沒品" },
+      { type: "link", content: "https://photos.app.goo.gl/UTreBkq54syYqA6s6", label: "2026年5月23日 出這種題目的人到底是何方神聖 把陷阱跟硬知識都融合進去 這種題目要是第一次遇到真不知道要怎麼寫對 真是純粹坑人的一題= =" },
       { type: "link", content: "https://photos.app.goo.gl/MgG61yEafdoUiKCA6", label: "2025年5月23日 找到了 原來毛澤東投胎了 民進黨趕快來抓共產元老啊" },
       { type: "link", content: "https://photos.app.goo.gl/amaFCzTuTatmWQqYA", label: "2025年5月23日 \
         國防部過去非常可惡 因為我被迫到非本院受訓 每年7-14天慰休非但沒有放 更是一毛錢都沒有 已經第四年了 \
@@ -7359,6 +7362,13 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/Md34HoQbbu7uWSdZ7", label: "2017年5月23日 Well trained in hospital Well trained in gym" }
     ],
     "24": [
+      { type: "link", content: "https://photos.app.goo.gl/QkzgoWT4qsR88ke6A", label: "2026年5月24日 成績考那麼好幹嘛 小時候關家裡 是長大當醫生繼續關在醫院" },
+      { type: "link", content: "https://photos.app.goo.gl/KG4RCc3pSjiHLYbe6", label: "2026年5月24日 \
+        查資料順便滑到這個 意外發現教科書聖經裡 居然把lower cost放在心導管術的優點 把cost放在繞道手術的缺點 \
+        這體現台灣醫療與美國 或者全世界 有巨大不合理跟差異的地方了 台灣與其他國家完全相反 可能都是因為健保吧" },
+      { type: "link", content: "https://photos.app.goo.gl/MzYUUDQTJcEooTJj8", label: "2026年5月24日 好棒 這是禮拜天完美的開場" },
+      { type: "link", content: "https://photos.app.goo.gl/otR1Lpcmc38DwuG6A", label: "2026年5月24日 上了一半的EP課程 如果口試考這些 我保證會被當" },
+      { type: "link", content: "https://photos.app.goo.gl/pK4SHPW4cYHnD4PR8", label: "2026年5月24日 我也好想運動" },
       { type: "link", content: "https://photos.app.goo.gl/KDkooaYsu12FphDe9", label: "2025年5月24日 \
         建議您看心理醫生 從您過去的貼文 看得出來您自卑感非常重 也非常嫉妒 因此不斷攻擊很多比您有成就 優秀的人 \
         並且發文看得出不合理的邏輯思維 加上遭受網友質疑後想必心理更不好受 做點心理治療 會對您更好唷 加油" },
@@ -7457,17 +7467,363 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/b5JD9XhXmRtsXKMZ7", label: "2017年5月24日 最近很煩惱" }
     ],
     "25": [
+      { type: "link", content: "https://photos.app.goo.gl/wQH4dVpkeDmfsdJo7", label: "2026年5月25日 真孝順 從小幫忙把痣摳掉哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/ba6VYi2r4D38EewVA", label: "2025年5月25日 \
+        幻想的部分還有醫師的薪水 根本不是40萬 缺的那20-30萬他應該要補給我吧 \
+        但我實在沒辦法再跟他回覆 因為他沒有病識感 完全看不到別人跟他講的真話 一直活在自己的幻覺裡自我感覺良好XD" },
+      { type: "link", content: "https://photos.app.goo.gl/3v5gZugtSKQsWsBi7", label: "2025年5月25日 \
+        這篇文章把醫生的困境說的很清楚 現在是急診醫生跑光 接著就是內外婦兒的醫生也跑光 \
+        看到thread上還很多反智的文章在攻擊醫生 真心覺得無知也是一種罪" },
+      { type: "link", content: "https://photos.app.goo.gl/KDrTA9G2HL2fVvyd7", label: "2025年5月25日 應該叫他小豆豆 因為眼睛超可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/UBrpMnP5zKm6aS947", label: "2025年5月25日 我會直接帶回家" },
+      { type: "link", content: "https://photos.app.goo.gl/QGrQuSfEnZgThVUz9", label: "2025年5月25日 原本想要50頁以內結束EKG的檔案結果還是得做到70頁 邊做邊想如果以前有人可以教我就好了 但想想好像是自己不去上課不長進" },
+      { type: "link", content: "https://photos.app.goo.gl/JrS6XWc59YzxZFa87", label: "2024年5月25日 \
+        與肌肉病變及MG有關的藥物 因考題啟發的整理 與肌肉傷害有關的藥物 在寫考古題時突然發現藥物導致肌肉問題的狀況其實有兩種 應該說目前看到這兩種 \
+        一種是最常見的藥物導致肌肉病變 如圖一及圖二harrison的表格 另一種則是造成或者惡化MG重症肌無力的藥物 如圖三及圖四 \
+        由於造成MG是因為NMJ 神經肌肉接合處 問題導致 並非肌肉病變 因此這兩種狀況造成的藥物會有不一樣 \
+        造成肌肉病變常見如降血脂藥物 類固醇 酒精、毒品 check point inhibitor penicillin amiodarone HCQ及colchicine \
+        造成或惡化MG則有check point inhibitor penicillin TKI interferon statin Macrolide Aminoglycoside b blocker及lithium \
+        可以發現有些藥物重複而有些不同 跟我一樣容易搞混的朋友可以參考看看 坊間參考資料沒有把他們放在一起討論的 資料來源為Harrison及Pubmed可放心服用" },
+      { type: "link", content: "https://photos.app.goo.gl/R6cimw3jFy3VQgcX9", label: "2024年5月25日 也難怪Harrison把這三個藥物特別寫在autoimmune myopathy 他們都會造成肌肉病變跟MG" },
+      { type: "link", content: "https://photos.app.goo.gl/w77FPRemMdc7CPKF9", label: "2024年5月25日 哈哈哈哈哈哈他以後一定很好成就 是個很人" },
+      { type: "link", content: "https://photos.app.goo.gl/qPGtnMGr1nVKrmzU9", label: "2024年5月25日 自我勘誤" },
+      { type: "link", content: "https://photos.app.goo.gl/9AYGwkzvmCr33Uyg7", label: "2024年5月25日 他好像自己也很愛穿" },
+      { type: "link", content: "https://photos.app.goo.gl/Q1HdRBfdKRrJ3REd7", label: "2024年5月25日 背影好胖" },
+      { type: "link", content: "https://photos.app.goo.gl/JKLPwo2JyMHty1kc8", label: "2023年5月25日 \
+        Nusa_Penida 這是Mavic3撞毀前的前一支影片 最後一支影片因為夕陽西下避障失效 因此起飛兩分鐘就撞毀在Paluang cliff這個峭壁上 \
+        唯一只有老鷹能幫我叼回來的峭壁 因此這裡是我空拍機的墓地 希望能再回去看看他 這個影片是緩存檔 畫質不好 \
+        最讓我心痛的不是撞掉了五萬塊 而是當天拍到從海外往內陸拍攝的超屌環景跟光線 就這樣沒了 真的心好痛 那個景超屌的 我的教訓是 \
+        日落後避障失效千萬不要飛 檔案拍完立刻打開傳輸到遙控器 永遠不會知道空拍機何時意外 最後用這段影片 \
+        紀錄我曾經到過如此美麗的海島 地球給予人類如此壯闊的自然 我們要好好珍惜 致 最遺憾的一次拍攝" },
+      { type: "link", content: "https://photos.app.goo.gl/4MgEKwGhWijoMAcJ7", label: "2022年5月25日 我看到也是想馬上分享給妳QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/n1pfXm1E61JaC8Mm9", label: "2020年5月25日 Ikea霜淇林是台灣第一的霜淇林 10元一支 超濃超香" },
+      { type: "link", content: "https://photos.app.goo.gl/a6HgJS16mzhmnzYdA", label: "2020年5月25日 \
+        容我兩次po跑文 因為太值得紀念了 這次被兩棲蛙人士官長操到差點腳軟 回來才知道這趟跑山超過10公里 \
+        去程整路都是上坡 到中間向下折往海邊 然後因為往下折是將近500公尺的陡下坡 所以上來就變成500公尺的陡上坡 \
+        就是這裡幾度跑不下去 結束後緩上坡到底再折返 這一趟緩上坡因為大腿剛被炸過 真的體驗生不如死 靠意志力撐的感覺 \
+        這已經不是在跑步 是翻著白眼只求活著跑回去XD 最後500公尺結束用衝的 今年體測跑10分那次 都沒像這次喘 \
+        我是第一次跑完需要扶著牆壁喘 然後現在還有點頭痛 暈 應該是稍微中暑了 整晚為自己hydration中 這絕對要做成紀錄 \
+        未來如果遇到困難 就回頭看看 告訴自己 撐下去就對了 不要輕言放棄 謝謝女友的愛心garmin 跑山紀錄" },
+      { type: "link", content: "https://photos.app.goo.gl/Ergiuy5d5PJ3xV7J9", label: "2019年5月25日 誠品也有賣超廣角鏡欸才850元 便宜" },
+      { type: "link", content: "https://photos.app.goo.gl/hbd43gazixSFn3Wd8", label: "2018年5月25日 不是故意捧 但夜景的招牌處理得很好 刮目相看了 越來越厲害 拍的讚讚 對了 我的影子呢" },
+      { type: "link", content: "https://photos.app.goo.gl/vvvuJ55DX2M5gvEM8", label: "2018年5月25日 \
+        We have colorful rainbow on daytime but we also have colorful galaxy on nighttime \
+        Do not miss any colorful thing on our nature I composed sunset view in Taipei with galaxy in Lanyu \
+        It's not so easy to deal with the edge of clouds and buildings \
+        Learn hoew to process composed work by Photoshop to maintain quelity and details not noly use auto-software" },
+      { type: "link", content: "https://photos.app.goo.gl/n9TSBzZuUQ1s6EW19", label: "2018年5月25日 想當個普通醫學生就好" },
       { type: "link", content: "https://photos.app.goo.gl/QH4B1symJSYkA9Tb8", label: "2017年5月25日 有點難做" },
       { type: "link", content: "https://photos.app.goo.gl/K6s4VYgcGoLsjsD29", label: "2017年5月25日 我的頭燈試用者" }
     ],
-    "26": [],
+    "26": [
+      { type: "link", content: "https://photos.app.goo.gl/zNpyno2uPqXpUu3C9", label: "2026年5月26日 看到 醫生沒說的真相 這種開頭 不是壞就是蠢 這年頭看看還有沒有人會被騙" },
+      { type: "link", content: "https://photos.app.goo.gl/nrB1RqrpLCdRKcF88", label: "2026年5月26日 我也要上班啊" },
+      { type: "link", content: "https://photos.app.goo.gl/F3NeykxjmuXLLT7m8", label: "2026年5月26日 這個對拍超屌 無話可說的強 她細節都有對到" },
+      { type: "link", content: "https://photos.app.goo.gl/zAXWiobiMuCE7uHi9", label: "2025年5月26日 真可憐 一輩子沒看過核廢料 也不知道核廢料是怎麼處理的 難怪能發這種程度的文章嘻嘻" },
+      { type: "link", content: "https://photos.app.goo.gl/zLJC4EqVvjwJgJqd8", label: "2025年5月26日 這不是當年74級分台中學霸 現在是開刀神手的優秀外科醫師嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/nZkxbJdaCoTmCx2Z7", label: "2025年5月26日 在曼谷住五天五星級飯店+機票 兩人 都不用這麼貴" },
+      { type: "link", content: "https://photos.app.goo.gl/RweXeXyhHtXzGmG56", label: "2025年5月26日 我有看到這個 但這樣很危險 我在安全" },
+      { type: "link", content: "https://photos.app.goo.gl/k7VgSoL9shBfH1Gw8", label: "2025年5月26日 他一定是理髮師" },
+      { type: "link", content: "https://photos.app.goo.gl/kokQidAWX3kqVuxu9", label: "2024年5月26日 \
+        讀到精神科的老人醫學 常見的失智從65歲開始機會就增加 \
+        試想一下 出社會25歲到50歲都勞勞碌碌 假設運氣很好65歲前都相對健康 沒有意外 沒有重大疾病 沒有退化造成失智等 \
+        加上不需照顧小孩跟雙親 你人生 唯一真正自由的時光 有錢有閒體力勉強還行也才15年 假設90歲過世人生才1/6能真正活出自我 \
+        有能力做自己想做的事情 能改變的方式 就是提早結束被工作束縛的日子 能退休就提早退休 早點趁命還在體力還行時出國旅遊吧" },
+      { type: "link", content: "https://photos.app.goo.gl/jun4XGXzV43jDCRp7", label: "2024年5月26日 \
+        這種垃圾踢正步除了能讓長官高潮以外 沒有特別用處 台灣國軍就應該減除這些沒用的訓練 \
+        讓國軍把時間精力花在真正的戰備上 不然跟對岸那些白痴共軍差在哪 黃埔精神只該存在博物館裡" },
+      { type: "link", content: "https://photos.app.goo.gl/6HQNLGirpeDwK29N8", label: "2024年5月26日 沒錯 一場亂七八糟的集會遊行確實會讓腦袋正常的人搞不清楚發生什麼事" },
+      { type: "link", content: "https://photos.app.goo.gl/ThjB2MhQ1jj3mU1Z8", label: "2024年5月26日 第五冊內專FC的180頁第二題 第3敘述 解答應該寫錯 但不影響答案 Clonazepam應該是rapid onset但維持時間為長效 解答直接寫一個長效感覺沒更正到題目錯誤的地方" },
+      { type: "link", content: "https://photos.app.goo.gl/gE7dSMEvQY4G8XoD9", label: "2024年5月26日 其實滿厲害的XD" },
+      { type: "link", content: "https://photos.app.goo.gl/NyDUoZmCT3WQHq5d6", label: "2024年5月26日 怎麼那麼讚" },
+      { type: "link", content: "https://photos.app.goo.gl/mq3Jj3JXfYtkFoBH7", label: "2024年5月26日 好爽喔 這樣才140真的太扯" },
+      { type: "link", content: "https://photos.app.goo.gl/x1zQarBKfE8RKirZ8", label: "2024年5月26日 女潤少搖咧" },
+      { type: "link", content: "https://photos.app.goo.gl/KguWwgzo3mGALvUb6", label: "2024年5月26日 我用糖果跟弟弟換" },
+      { type: "link", content: "https://photos.app.goo.gl/JuQ9wL6BUvEpT3bMA", label: "2024年5月26日 原來不是水塔" },
+      { type: "link", content: "https://photos.app.goo.gl/5g6QwtDuEAHmtAcL6", label: "2023年5月26日 \
+        在社群上被提醒有這則留言 點進去看真的有點難過 我成績不好 也沒有背景 更不是老師的愛將 \
+        我沒有什麼能力可以陰人 也沒有什麼資格可以嗆人 我只想當個平凡的醫師 好好的通過考試 然後完成攝影夢想 \
+        再說我跟同屆女同學都沒有什麼交集 更何況學姊或學妹 實在想不出得罪誰 我真的完全不知道有這樣的事情 \
+        如果你/妳曾經因為這位匿名的她說的事情發生過 而感到不爽 麻煩私訊我 讓我釐清 也讓我給予道歉 \
+        請不要用匿名的方式讓我一頭霧水 謝謝" },
+      { type: "link", content: "https://photos.app.goo.gl/uUQk3RQERAnnDvGq8", label: "2020年5月26日 地主也不事生產 除了吸血沒啥用處" },
+      { type: "link", content: "https://photos.app.goo.gl/L7iG51Bej3TYRVuG9", label: "2019年5月26日 恭喜妹受袍順利 台大獸醫專業學院" },
+      { type: "link", content: "https://photos.app.goo.gl/YKD11htpvbWGEwYu8", label: "2019年5月26日 那我要努力看看了" },
+      { type: "link", content: "https://photos.app.goo.gl/A5cLmXZprBAoLCY19", label: "2018年5月26日 \
+        真的好久又好久 雖然嘴裡說沒回家也還好 而且也真的好久能回台南幾天 但踏上這塊土地 仍眷戀好久 好想永遠在這裡 \
+        我依舊還是喜歡南部的空氣與味道 雖然很熱 40塊的鍋燒意麵 10幾塊的早餐 45塊的大杯水果茶飲 這些除了再第二喜歡的台中與埔里 \
+        我想除非跑去東部不然沒了吧 即使有也無法如台南 便宜務實的美食飲料密度這麼高 走去了以前國小安親班的空地 第一張 \
+        想到張媽媽帶著我們這群小鬼頭 每天中午或三點在風雨走廊集合回去 附上最期待的甜甜圈跟麥香奶茶 \
+        中間也跟大家上過golden英文補習班 我是班上問題兒童每次只考8分而且上課鬧同學 喬登補習班 沒認真學任何東西倒是靠畫畫讓補習班老師震驚 \
+        德心幼稚園書法 已拆 徐媽媽素描 我還一度變成8+9打巧固球跟整天罵三字經 跟同學打架然後被回頭是岸 然後夕陽西下的躲避球與追逐 \
+        暑假的零食大餐跟超級瑪麗歐 神人張孟竺現在只記得這個名字orz 然後是台南科技大學 第二張 小時候的校園常客 還被餵奶的母狗們追到掉進水池 \
+        圖書館是國中考基測常常待的地方 期待4點一到的家專籃球場 國中屁孩我跟一群大學生以上的大人廝殺 不斷練投六小時才回家 \
+        最後是高中的cs online是人生最瘋狂的網路遊戲 殭屍模式在大一打進台灣前100 百大名人 考完學測還躲去巨象網咖刷任務 \
+        感謝科技所賜 能讓我在好不容易想去這些點點滴滴 能保留在網路給80歲的我看 太多的回憶沈澱為現在的寧靜 \
+        也曉得回憶如同附近不斷變遷的商家一樣回不來 幹漫畫店倒了300多塊就沒了 下禮拜一再回國中高中看看吧 \
+        或許下一次回來已經是明年甚至更久 其實並非自己不愛回家 而是生活的沈重 沒有辦法回家 希望這裡的平靜依舊 \
+        最後 好想去奇美上班喔喔QQ 三村 永康國中 南科 家專 張媽媽 台南 歐洲世界籃球場 鹽行五號 同心 傅壹 唐群 \
+        宏泰物理 csonline殭屍模式 Tag這麼多只是想知道還有誰知道我在說啥 因為台南天氣超好喔天空超藍 在上班前來玩吧" }
+    ],
     "27": [
+      { type: "link", content: "https://photos.app.goo.gl/RkZ8TorB76em71Cs8", label: "2026年5月27日 口口聲聲說民進黨帶領台灣股票創新高 經濟好到不行 結果醫師護理師跟軍人加薪永遠做不到 可笑到不行" },
+      { type: "link", content: "https://photos.app.goo.gl/C4bUd8HT87DvYcPt8", label: "2026年5月27日 支持24-70無用論都是是不會拍照的 不用問那麼多了 " },
+      { type: "link", content: "https://photos.app.goo.gl/LLdbDUkyv3AHXSGL9", label: "2026年5月27日 最喜歡這種一直說話的貓" },
+      { type: "link", content: "https://photos.app.goo.gl/iJmfJ59S152z3qrY9", label: "2026年5月27日 \
+        真的是燃盡了 用兩個晚上做VT SCD指引 不過只做一半多一點的內容 眼睛已經快脫窗 \
+        老天爺能保佑我今年就不用再受醫學大考之苦了嗎 我想好好過身心健康的生活 不想再燃燒生命跟腦細胞了" },
+      { type: "link", content: "https://photos.app.goo.gl/48LzpFnVbF3yeXyp6", label: "2026年5月27日 應該暫時不用再做報告了吧" },
+      { type: "link", content: "https://photos.app.goo.gl/TocR6Nf5VBLB82Kv6", label: "2024年5月27日 \
+        台中超平價但CP爆表小火鍋 光看就餓了 台中超平價但CP爆表小火鍋 光看就餓了 \
+        碧山小鍋 鍋燒意麵 身為蛤仔控的我怎麼可以錯過這間位在逢甲附近的鍋燒意麵店 \
+        一碗鍋燒意麵$140元而已有20幾顆蛤仔 和其他原型食物的配料 像是豆腐 蔬菜 杏鮑菇 蛋 栗子地瓜 搭配清甜可口的湯頭 \
+        吃完有一種非常滿足的幸福感 另外 店裡賣的炸甜不辣和豆腐都很可口美味 甜不辣金黃酥脆 咬下去還會發出酥脆的聲音 \
+        搭配胡椒鹽的鹹香很ㄕㄨㄚ嘴 炸豆腐是用雞蛋豆腐下去炸 雖然份量不大 但外酥內軟 配著鍋燒麵吃也是非常快樂 \
+        甜不辣 炸豆腐一盤都$40元而已 價格可以說是很親民 總之 蠻推薦大家來吃吃看 尤其不喜歡火鍋料的人 \
+        這間隱身巷弄的小店一定可以滿足你們的口味 也很適合想要補充蛋白質的人來吃唷" },
+      { type: "link", content: "https://photos.app.goo.gl/gFXiVgquqjtJLZNL8", label: "2023年5月27日 參加攝影馬拉松活動 隨便找個路邊停車 也要看到三軍總醫院就對了 我跟三總這麼有緣的嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/fx7cM9eHomsXxqRh7", label: "2023年5月27日 放假一大早來參加累累的馬拉松" },
+      { type: "link", content: "https://photos.app.goo.gl/K1uzGDvRwHiSKm4j7", label: "2023年5月27日 第一個感想 台灣的熱天比峇里島更難受 好悶 可能因為台北的關係吧" },
+      { type: "link", content: "https://photos.app.goo.gl/fdpuMZoP7MDMcZaA6", label: "2023年5月27日 \
+        回國後緊密的上班跟值班 超過一個月以上每天睡不到五小時 接著法雅客攝影馬拉松 \
+        也是我第一次參加這類型比賽 但我們不是真的比賽而是被邀請 有許多的心得 之後再寫文章來分享 跟拍攝風景大不同" },
+      { type: "link", content: "https://photos.app.goo.gl/Trhnc9rTYQPxHjuD6", label: "2023年5月27日 \
+        ADOBE AI已經可以做到把照片局部圈起來 輸入指令 自動後製或合成 毫無違和 \
+        純手工後製已經漸漸要被淘汰 未來只要你願意花錢買AI PS 學會輸入指令 就能合成不輸他人的作品 \
+        純做後製大概會失業的 接下來 影片後製可能慢慢會被AI取代 相機可能會被手機取代 嗯 世界的變化真超乎想像" },
+      { type: "link", content: "https://photos.app.goo.gl/h4AByhi4prTPufgL9", label: "2023年5月27日 全台北法雅客24小時攝影馬拉松 主題人間煙火 只有我一個瘋子開一小時的車 爬35分鐘山路 來拍台北特有的百萬煙火 也謝謝路人情侶入鏡" },
+      { type: "link", content: "https://photos.app.goo.gl/GbFFjW1t5DZGTxs49", label: "2023年5月27日 傳說陪玩" },
+      { type: "link", content: "https://photos.app.goo.gl/5dW8KqafTnYskqh6A", label: "2021年5月27日 \
+        國防醫學院三軍總醫院 日出雲彩 終於打到第一劑AZ疫苗 感謝醫院安排 目前是打完疫苗的第11小時 \
+        只有手臂痠痛+頭暈 希望晚上會發燒 身體免疫動起來 證明自己不是老人QQ 打疫苗救台灣 台灣醫護加油" },
+      { type: "link", content: "https://photos.app.goo.gl/QC18zBT5njbsySqX7", label: "2021年5月27日 打過最痛的疫苗XD DONE 建議打完可吃ACETAMINOPHEN退燒 NSAID類好像會對抗體生成產生影響" },
+      { type: "link", content: "https://photos.app.goo.gl/i37XNyL3pxXa6j7X8", label: "2019年5月27日 \
+        上禮拜被直接丟下去當值星官 就是陸戰排長 可以說是滿頭包 每天0530起來弄到2200才能休息 \
+        今晚慢慢咀嚼前陣子抽到的詩籤 越覺得符合自己 我很抗拒跟軍有關的一切 卻反而陷得更深 更磨練 \
+        要說命運弄人也是可以 但其實就是 我們抵抗不了命運 只能從中學習謙卑 接受安排相信這一切是最好的" },
+      { type: "link", content: "https://photos.app.goo.gl/LHURNNYbqajZffno9", label: "2018年5月27日 請問有哪個職業 是需要極高強度記憶能力 還要有極高強度理解變通能力 工作還要極高耐心與超人的體力都不睡覺加早起 背不完" },
       { type: "link", content: "https://photos.app.goo.gl/EG7vW89U8EAms6cH9", label: "2017年5月27日 搭高鐵不能補眠背日文 上班休假都累得要死 我到底造什麼虐" }
     ],
-    "28": [],
-    "29": [],
-    "30": [],
+    "28": [
+      { type: "link", content: "https://photos.app.goo.gl/8B8tCs3agUcPCyCx9", label: "2026年5月28日 好屌 這種人我連回一個貼圖都覺得浪費生命" },
+      { type: "link", content: "https://photos.app.goo.gl/MMw3ShdeUdDsVJRX7", label: "2026年5月28日 00981A就是0050的放大版 跌跟漲都比0050多 不適合長期 但適合用來短期操作賺錢 而且負損益也不用認賠可以繼續放" },
+      { type: "link", content: "https://photos.app.goo.gl/BrKUYyFx47vRYMxf9", label: "2026年5月28日 我也要拍" },
+      { type: "link", content: "https://photos.app.goo.gl/1LrrhEBWB1eDYBp86", label: "2025年5月28日 這張留好 拍清楚 多年後回頭看看什麼叫做太年輕" },
+      { type: "link", content: "https://photos.app.goo.gl/2seAjtQ3g5uERpK98", label: "2025年5月28日 深淵的開始" },
+      { type: "link", content: "https://photos.app.goo.gl/4vzyRFiSa42mFcq29", label: "2025年5月28日 差點以為是ai太扯了" },
+      { type: "link", content: "https://photos.app.goo.gl/D5XtF7WZi9d49XA97", label: "2024年5月28日 如果依照台灣的物價跟醫療進步程度 醫護人員薪資應該如下 護理師十萬起 住院醫生二十萬起 主治醫生四十萬起 才對得起這些前線賣命的可憐醫護" },
+      { type: "link", content: "https://photos.app.goo.gl/x8uwnP4Hfgrs287D6", label: "2024年5月28日 短期炒股我只服DENTAL.STOCK 神牙醫真的是做來服務病人的 單日損益賺一輛藍寶堅尼休旅" },
+      { type: "link", content: "https://photos.app.goo.gl/RuwNMRuBx8SFfNQQ8", label: "2024年5月28日 太扯" },
+      { type: "link", content: "https://photos.app.goo.gl/AQxnEMP2x9TGbSBK6", label: "2024年5月28日 他們好先進喔哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/1QTE9e44va6UJSRA9", label: "2024年5月28日 M111三千跑最快的其中兩個" },
+      { type: "link", content: "https://photos.app.goo.gl/rXxWnUPtxXSLBb836", label: "2024年5月28日 好像在國外" },
+      { type: "link", content: "https://photos.app.goo.gl/7AFPUZSRaWogFTHj8", label: "2022年5月28日 新年值班有榮鈞醫師的摸彩卷 上次值班有榮鈞醫師的飲料 今天值班有榮鈞醫師的午餐 感恩學長讚嘆學長 謝謝33護理同仁幫忙爭取福利" },
+      { type: "link", content: "https://photos.app.goo.gl/LmhUE37KuMt2KnPS9", label: "2021年5月28日 這個攝影師一定嗑了什麼 都給我來一點 快笑死" },
+      { type: "link", content: "https://photos.app.goo.gl/FABcgejrjzesKo2J6", label: "2018年5月28日 根據雲圖 明早有機會日出大燒 猶以台北機會最大 建議三點在看雲圖上方高層 雲是否還在 以上 但我沒法拍 上過我家教班的朋友 我有教如何看基礎雲圖 可以印證看看XD" }
+    ],
+    "29": [
+      { type: "link", content: "https://photos.app.goo.gl/DZmWcabkpcsPo7GdA", label: "2026年5月29日 \
+        除了那種查不到資料的題目令人氣憤 第二種令人氣憤的是考舊的指引 唉畢竟是老的考古題 \
+        這種題目都令人害怕會改成出最新指引 所以必須確認是否有新指引 如果有還要拿出來比對跟重新注意是否有不同的地方 \
+        今天大四醫學生問我 學長心臟科題目要花多久才能讀懂 我告訴他你直接放棄吧 心臟科即使到了次專 \
+        我們這種普通人是不可能讀懂的 機轉 指引 試驗 基因 術式的題目隨便就能考死你" },
+      { type: "link", content: "https://photos.app.goo.gl/p5xbMLzp1QawpTDi8", label: "2026年5月29日 雖然這題白痴到送分 但還是想敲一敲出題者的腦袋 請問現在是在考哪個次專科" },
+      { type: "link", content: "https://photos.app.goo.gl/5ias1TSW3cQARWYn6", label: "2026年5月29日 你怎沒有先教我 我也要學啊" },
+      { type: "link", content: "https://photos.app.goo.gl/PvhcWP7wtLgpH6Lw6", label: "2025年5月29日 雖然我是華人 但我支持世界聯合起來消滅聽從共產黨的中國人 這樣地球會更乾淨一點" },
+      { type: "link", content: "https://photos.app.goo.gl/qpdEsKY2Pmr5Z6FV8", label: "2025年5月29日 台灣民智未開" },
+      { type: "link", content: "https://photos.app.goo.gl/AtK2oRZ11NKKhebR9", label: "2025年5月29日 心超是蠻有趣的東西 一路往下查 會發現不會的東西一直冒出來 永遠都能有不會的 也太深奧的一門學問" },
+      { type: "link", content: "https://photos.app.goo.gl/gwADYCi7mYareCHY7", label: "2025年5月29日 為了趕在到期日以前吃完 一次處理13顆蛋破紀錄ㄌ" },
+      { type: "link", content: "https://photos.app.goo.gl/GMoAPuj8ZTauNKut9", label: "2025年5月29日 他覺得主人這樣很潮吧哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/iyyxWnzkCqf3yn84A", label: "2025年5月29日 水汪汪大眼捏" },
+      { type: "link", content: "https://photos.app.goo.gl/NASoniWT3WEUXQk9A", label: "2025年5月29日 我覺得這樣很讚哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/zqkFbP1NqCG7zro88", label: "2025年5月29日 Ready to fly" },
+      { type: "link", content: "https://photos.app.goo.gl/i7NdrrTsYQdSV3F57", label: "2024年5月29日 他本來就是陸生鸚鵡螺ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/1XhAjzT6BdmKbEM1A", label: "2024年5月29日 超美 超想去" },
+      { type: "link", content: "https://photos.app.goo.gl/HrxZP9CxhqtSy9q99", label: "2024年5月29日 希望有官舍之後來養" },
+      { type: "link", content: "https://photos.app.goo.gl/GgVPHoK6YdyMxtWi6", label: "2024年5月29日 好潮XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/CwcNKyFFMMjhiQQ69", label: "2023年5月29日 軍費生的典範生日快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/24LKwpb9LFdiy6sa8", label: "2023年5月29日 大陸落後國家就是這樣 希望老了去玩不要跟團" },
+      { type: "link", content: "https://photos.app.goo.gl/KaNmnn2NZvkBFVVp9", label: "2022年5月29日 上了快6.5天的班 終於可以流個汗" },
+      { type: "link", content: "https://photos.app.goo.gl/ZmuSNa3QjbMATDXg8", label: "2022年5月29日 大尖山很棒 運動兼拍照 只要能見度好都好拍" },
+      { type: "link", content: "https://photos.app.goo.gl/zLZCqZW6hvM7Ujng7", label: "2022年5月29日 放風總是短暫 希望R五年過去不要變肥肉QAQ 汐止大尖山風景區" },
+      { type: "link", content: "https://photos.app.goo.gl/C6vcScpDASVBykHB6", label: "2021年5月29日 \
+        大家好 這是松山分院社區醫學吳展旭及YuHan Huang所做問卷 關於民眾 對醫療分級制度的了解 \
+        當然醫生也是問卷的對象 問題非常少 保證一分鐘內可以填寫完 感激不盡 謝謝大家的愛心幫忙QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/dYWEAwPs5Kis5KJs7", label: "2021年5月29日 \
+        PSVT的診斷 處置與用藥實證 常見的PSVT 從好幾處資料抓來再翻成中文整理 應該算言簡意賅又完整了 IG一直跳出字數太多 \
+        常見的PSVT 完整診斷 治療與藥物實證" },
+      { type: "link", content: "https://photos.app.goo.gl/R8X9jH61QQeqi83cA", label: "2021年5月29日 \
+        NSTEMI的流程 其實很單純 很簡單的步驟 但用文字寫就落落長 有錯誤 想討論都歡迎 NSTEMI的診斷與處置 \
+        NSTEMI如何診斷與下一步處置 2021最新資料" },
+      { type: "link", content: "https://photos.app.goo.gl/HBer3JT9yQ4hxoeL6", label: "2021年5月29日 我小時候大概長這樣吧" }
+    ],
+    "30": [
+      { type: "link", content: "https://photos.app.goo.gl/98dLwSiAqR5uGJ9M9", label: "2026年5月30日 不知你是什麼政黨的 但是對於你的 關心 身為醫護痛恨至極 病人有沒有床位 醫護比你更清楚 你有空關心床位 要不要先解決醫護低薪問題" },
+      { type: "link", content: "https://photos.app.goo.gl/NP8BJgaX3QEEzs117", label: "2026年5月30日 病人可以增加這個風險 但我們醫護不希望未來增加照顧負擔QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/R3KYid781onwGWRd9", label: "2026年5月30日 知道選牙不選醫 足見其聰明智慧與遠見" },
+      { type: "link", content: "https://photos.app.goo.gl/JPsm8nYe4Czd22Pu7", label: "2026年5月30日 所以我到底是在寫哪一個次專科的考題 明明是要考心臟科 已經不只一題 有INF的抗生素題目 有MET的DM題目 有精神科的藥物題目 現在又有RIA的題目" },
+      { type: "link", content: "https://photos.app.goo.gl/z3L1zqYa8mbdeJeK9", label: "2026年5月30日 一個人的診所玩出台灣一間急診室的難度" },
+      { type: "link", content: "https://photos.app.goo.gl/1R25QzR2fqTbvkuS6", label: "2026年5月30日 完全給我一樣 出國前必定準備另一半的零用錢" },
+      { type: "link", content: "https://photos.app.goo.gl/6BwnPpPXhhooViLx9", label: "2026年5月30日 本尊可愛到爆" },
+      { type: "link", content: "https://photos.app.goo.gl/K4XeNh9gEqsJYZuh8", label: "2026年5月30日 你一定要認識meta.ai 我一覺醒來看到thread出現他 這世界又要天翻地覆了XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/r4mU2oEFuETaXEye9", label: "2026年5月30日 學起來了 超棒超可愛 筆記" },
+      { type: "link", content: "https://photos.app.goo.gl/zTmQ1cHcUZobPwkD9", label: "2026年5月30日 要就是我們一起加入" },
+      { type: "link", content: "https://photos.app.goo.gl/i9fnyUytykzd73Jx5", label: "2026年5月30日 今天還有教學嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/53vcTehgevMAVjCH9", label: "2025年5月30日 這種的底層能不能直接死一死" },
+      { type: "link", content: "https://photos.app.goo.gl/k4aZfefuBviasA8W6", label: "2025年5月30日 身為醫師 我覺得機師有資格領那個高薪 真正問題是醫師在台灣被壓榨 薪水太低" },
+      { type: "link", content: "https://photos.app.goo.gl/xN5oQ16ob2UjQ2ca6", label: "2025年5月30日 第一次吃蟹肉飯 那個一條一條就是蟹肉 這樣100塊台幣有找 如果點爆量蟹肉只要180塊台幣" },
+      { type: "link", content: "https://photos.app.goo.gl/hHpnkw7hMoKtGSCSA", label: "2025年5月30日 大神出沒" },
+      { type: "link", content: "https://photos.app.goo.gl/gvwKWMdwNXBTtUgL8", label: "2025年5月30日 Pattaya Thailand 隨便走到哪裡都是台灣人 超誇張" },
+      { type: "link", content: "https://photos.app.goo.gl/a1bnf4Rf8vM5cUWb9", label: "2025年5月30日 大會報告 泰國空拍申請成功 CAAT NBTC都成功了 晚點來分享" },
+      { type: "link", content: "https://photos.app.goo.gl/TcX6eoSX7F8ufdg59", label: "2025年5月30日 桃園機國際機場第一航廈" },
+      { type: "link", content: "https://photos.app.goo.gl/tp4pjyYjiYZ4oXVh6", label: "2024年5月30日 啊羡慕了 現在一天連從窗外看到藍天的時間也不超過五分鐘吧" },
+      { type: "link", content: "https://photos.app.goo.gl/azyMtydvufdSRyyG6", label: "2024年5月30日 我每個月都會有些意外的大金額" },
+      { type: "link", content: "https://photos.app.goo.gl/261Fn8h4zzbuuKzYA", label: "2024年5月30日 很強欸" },
+      { type: "link", content: "https://photos.app.goo.gl/cV8gq5aLM45mACV29", label: "2023年5月30日 \
+        南方小島的夜晚銀河 分享一下近期看過最美的風景 海岸的小屋如同童話故事中 即使冒著悶熱跟辛苦的腳程都值得 \
+        由於現場是黑到伸手不見五指 為了拍攝 使用三張合成 地景一 F2.8 90秒 iso 2000做為基礎 \
+        地景二 F5.6 10秒 iso1200有手機補光 為了彌補全暗沒有細節之處 天空一 銀河本身 \
+        用nikon z6 11 nikon 14-24mm拍攝 在當下的現場比我在合歡山拍還暗 如果是用初中階相機也很難曝出細節 \
+        除非曝到兩三分鐘以上 所以不論用任何手機在當時的現場是完全沒辦法拍攝的 燥點現在用ps ai應該可以修的更好 \
+        但我只用疊圖跟noiseaware處理 這樣大概是極限了 未來就不一定了 也許十年內有機會 \
+        現在銀河 夜景 運動攝影拍野生動物 高連拍跟長焦段 跟大圖輸出的需求以外 其實iphone已經能處理八成的場景了 \
+        Ai能處理後製跟合成 Iphone能處理八成的拍攝 未來相機的地位肯定越來越式微 \
+        血管哥沒有理解我意思 拍到好照片需要的是構圖 思考 光線 但有些類型的照片想表現仍須依靠器材跟後製 \
+        器材跟後製會慢慢被科技取代 構圖等等思考沒辦法 但目前仍相輔相成 還有拍raw不等於夠用 Raw的資訊含量多不多還是視器材而定 \
+        總結一句話給你 器材或許未來慢慢不重要 但現在有些特殊場景拍攝還是很重要 光有構圖不夠 Z8太香了QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/n6xXWvj4ue2L7x4P9", label: "2022年5月30日 \
+        連交友軟體都知道台灣前三大金控的好 前陣子大跌還不補貨就太傻了XD \
+        可惜開發者太笨 醫院居然只允許幾乎醫學中心 不知道醫學中心醫師都比較窮還比較沒錢嗎XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/RRtJN6aEwyZHsVTF8", label: "2022年5月30日 開始使用one note後覺得很方便 也有自黏便戔可用" },
+      { type: "link", content: "https://photos.app.goo.gl/pevhA3xnTvxW8cfN9", label: "2022年5月30日 結果意外發現自黏便箋唯獨Mac無法使用" },
+      { type: "link", content: "https://photos.app.goo.gl/JedPu9d2hbjpkgak8", label: "2022年5月30日 \
+        Lymphoma的60歲男性 正在用facetent 臥床無力但意識清楚的病人 不斷說有痰咳不出來 抽痰也抽不太到 鼻子嘴巴都試過 \
+        化痰藥已用ambroxol actein 氣管擴張劑已用meptin combivent qid 想會診大家有什麼建議嗎QAQ" },
+      { type: "link", content: "https://photos.app.goo.gl/7PYoFtTU4fpRpWTV9", label: "2022年5月30日 \
+        臨床紀錄 影像 63歲婦人 病史高血壓 多年前確診雙側乳癌無轉移 stageIIA 105年結束化療 規律吃Femara至今 \
+        上個月在家跌倒後左腿疼痛無法動彈 到醫院照x-ray 如圖一 發生什麼事 \
+        結果並沒有骨折 疼痛控制後又可行走 但x-ray卻看到不尋常的lesion侵犯 如圖二 於是做了CT及PET 如圖三四 \
+        原來可能是乳癌復發合併肝臟及骨骼轉移了 後續將接受肝臟穿刺 證實是否為乳癌四期轉移" },
+      { type: "link", content: "https://photos.app.goo.gl/zaaMritQJSsr2KB38", label: "2022年5月30日 \
+        離開台北前 目標要把台灣的101角度都拍到 這是我第一次分享長焦段照片處理的心得 也有一位推薦的攝影師值得學習 \
+        大家也可以留言自己的看法唷 101次的101大樓 攝影分享No.15 拍了101次的101 遠焦段的呈現還是很美 當台灣地標之無愧 \
+        說到遠焦段的後製 我推薦大家模仿mindz.eye 遠焦段很吃空氣能見度 但即使空氣清楚 難免因焦段導致畫面模糊 通透感導致的 \
+        Mindz的作品不論風景或都市 八成都是遠焦段 他用了幾個手法來凸顯作品 強對比 強光源模糊跟強調主題 \
+        強對比可以補足長焦段的模糊 但過度的對比會損傷細節 拿捏尺寸因作品而不同 逆光或明亮的作品不會特別加強對比 \
+        但光線少的場景就需要加強 強光源模糊是我自己創詞的 仔細看他作品 會把照片重點光源處 以及一小塊受光處用模糊處理 \
+        這會讓作品重點部份給人遙遠但顯眼的感覺 我這張作品右後方夕陽照射處就是這樣處理 強調主題說的是構圖 \
+        Mindz習慣讓龐大的前景夾住比較小的主題 這樣能達到攝影減法的目的 讓多數的部份成為襯托 觀看者集中在微小主題 \
+        既能達成視覺對比 又能減輕觀看負擔 不會整張作品亂花花 可能我個性吹毛求疵 會在意這些小部分 但好的作品就像金字塔 \
+        小小的細節堆砌成整幅作品 希望大家都能觀察自己喜愛的攝影作品 找到他們處理畫面的手法 謝謝喜歡 謝謝端午愉快" },
+      { type: "link", content: "https://photos.app.goo.gl/TxovmoDpgD4HyXyX9", label: "2022年5月30日 這裡有明顯的例子 在強光源處使用模糊加強地景與天空交界 雖然喜好因人而異 但偏重口味的後製方式 我還滿喜歡Mindz的表現手法 很搶眼但不會膩" },
+      { type: "link", content: "https://photos.app.goo.gl/pAXMP27oreXEnpQq9", label: "2021年5月30日 \
+        疫情當前確實應有極端作為 可是指揮中心不能一手拿著鞭子鞭打醫療人員 一手表面功夫感謝醫療人員啊 \
+        何況最重要的配套措施沒做好 病人後續照顧跟出事的責任 都醫院在扛" },
+      { type: "link", content: "https://photos.app.goo.gl/ZnXU4sFjobFcBNYS8", label: "2021年5月30日 \
+        今天原本打算寫篇彙整目前疫苗資訊的文章 不過看到這個政策實在太怒了 所以決定晚點來寫真實的台灣醫療資源現況 \
+        這些中央官員真的可以不用坐在辦公桌下決策 實際做著打擊醫護人員的決定 表面還要假裝支持醫護人員 只會下懲罰性決策 \
+        卻要醫院跟醫師背負病患被踢出院的風險 更要病人自行背負後續照護 這不是本次疫情才發生 平常就是了 只是疫情讓這件事" },
+      { type: "link", content: "https://photos.app.goo.gl/59PhWzzxT4XmPnyGA", label: "2021年5月30日 \
+        為何我這麼生氣 疫情在家沒事的各位 不妨可滑滑我後面五個限時 這是我學長 精神科主治在東部 因應政府疫情政策 看到的實況 \
+        讓大家了解 政府目前決策沒有實際配套 結果犧牲了什麼" },
+      { type: "link", content: "https://photos.app.goo.gl/eLSeyRr6Eogt1wak9", label: "2021年5月30日 \
+        請大家務必珍惜台灣的醫療人員 在腹背受敵 政府 的情況下 仍努力的為台灣疫情努力 衛福部一直想塑造醫生很貪錢的假象 \
+        目的是為了有名目讓民眾支持 扣減醫療開銷解決健保赤字 醫生便不斷被削減應有薪水 來補貼破洞 病人來看病 \
+        醫生還要幫忙出錢治療 是你你做的下去嗎 身為醫療人員這口氣我是嚥不下去的" },
+      { type: "link", content: "https://photos.app.goo.gl/iAiShGzcnV4y385d7", label: "2021年5月30日 \
+        又來了喔各位 在台灣 你報告因為人手不足 行政因素延誤報告 直接不給你錢讓你做白工 \
+        台灣政府就是用威脅恐嚇就對待醫療人員 卻從來不主動解決醫院窒礙難行跟資源不足的問題" },
+      { type: "link", content: "https://photos.app.goo.gl/1BdS7obPHp1yCie36", label: "2021年5月30日 \
+        我們都希望台灣挺過疫情 除了說加油 也要理解醫療在台灣扮演的角色 人一輩子一定得用醫療資源 跟你我都有關 \
+        象山夕陽 醫涯分享No.2 台灣的醫療資源有什麼問題 開始前 我沒有任何政治立場 攝影的粉專會有這個內容 \
+        一來因為我的工作身份 二來因為醫療關係台灣全體 我們都會需要台灣的醫療資源 了解醫療 就是全民的責任 \
+        而我則粉專當作一個平台 再者 過去台灣重大災難 武肺目前累積死亡人數為109位 比它多的只有九二一2444 八八699 \
+        台南登革熱214 維冠115 其餘颱風 火車 氣爆 SARS等死亡人數都比進行式的武肺少 證明這次醫療資源的重要性了吧 \
+        正文開始 放下情緒 理性來看現有的問題 1政府資金投入太少 台灣2018年健保支出佔GDP約6% 比韓國 捷克 葡萄牙等相近的國家更少 \
+        這代表目前每年花費近8000億的預算是相當少的 2健保給付項目太多 健保支出相對較少 但又要補助的項目多 甚至每當要讓外國人納保 \
+        都會讓醫療人員跳腳 並非因為外國人納保沒有繳錢 而是越多人使用會使資源更匱乏 至於給付項目變多是不是買票政策我不曉得 \
+        不過健保應該推行更多的使用者付費政策 畢竟多數情況下 把自己的身體照顧好 少用醫療資源是自己的責任 3對於醫療人員過於苛扣 \
+        由於投入的資金不敷給付項目 因此會限制檢查及治療 比方說教科書告訴醫師 要檢查攝護腺癌最好需要12個手術檢體 但健保因金費少 \
+        限制醫師只能切少少幾片 如果多切了呢 檢查費由你醫院跟醫生自行吸收 這就是我說的 醫師看病還要貼錢 \
+        重點是 沒有按照準則做到全面的檢查 若因此沒有抓到病灶 病人也只會告醫生 面對這樣兩面受敵的狀況真的一點辦法也沒有 \
+        4好的藥物及治療進不了台灣 預算資金不足 開始利用壓低價格跟國外進藥 但賠本生意誰做 吃不消的藥廠退出台灣 \
+        雖跟民眾宣導台廠藥也很好 但問題擺在眼前 藥效就是不一樣 很多病人問為何以前的藥不能再開 醫生也沒辦法 再者藥廠賺黑心錢 \
+        各位必須知道 研發成本是多麼可怕的你卻看不到 我們都知道台積電之所以強是因為每年砸幾百億的金費在拓廠與研發 難道藥物就不是嗎 \
+        何況藥物失敗機率比半導體更高 因為人體是世上最多未知的科學之一啊 5自費市場受限 那我自己出錢看病買藥不就好了嗎 \
+        錯了 前陣子健保還訂定自費醫材有上限價碼 這不只步向藥物削價的後果 更甚者 很多自費醫材是需要醫師幾十年的功夫與經驗才會操作與使用 \
+        價高不就是買醫師的經驗跟技術嗎 用更好的醫材與技術來善待身體 因而付更多錢是天經地義 何況健康為一切根本 \
+        高利潤而讓人才願意成為醫師 也是好的循環 反過來說 也不會聽到有人抱怨台積電跟大立光工程師領太多薪水不是嗎 \
+        畢竟技術這種看不見的東西才是真正的價值 6政府利用金費當作割喉刀 從今天到新聞可以看到 政策都是架著刀子在醫療人員脖子上 \
+        做不到就把你殺了 這樣的作法不只無法鼓舞我們 更是讓後輩人才非常害怕 不敢投入醫療業 身為醫護人員 在畢業穿上專業制服的時候 \
+        都有宣誓的誓詞 這是一個良心的產業 不應該被政府當作小偷一樣對待與威脅 試想 今天政府把遇到困難的醫院金費削減或降級 \
+        最後受苦的正是該醫院的病患 如果那位病患是你或你家人 你能怪誰 7關於這次疫情 我非常挺政府的決策 總統與陳部長也很辛苦 \
+        戰爭的時刻我不會唱雖台灣的 但畢竟現實問題存在就是要面對 政策下來 除了利用威脅手段不恰當之外 對於非武肺而被趕出醫院的病人 \
+        以及對於其他急迫需要治療的病人 他們可沒有因為武肺而變少啊 他們依然需要醫療資源 指揮中心不妥善安排他們的去處及照護 \
+        要求醫院的醫師扮黑臉趕走他們 清空加護病房 假若病人出事情最後也是告醫師 找醫院算帳不是嗎 因此 全民一起團結 \
+        除了配合政府防疫政策 更應該呼籲給醫療體系一個合理的配套措施 亂世用重典是對的 但政府的責任 是兼顧公平正義 \
+        也要實質的支持醫療人員 從民國80年 我記得 有健保開始就有的 醫學中心 地區 區域醫院都沒辦法 只有診所才可以 \
+        因為任何大型醫院都被嚴格法規限制 必須依循健保體制走 就算健保與自費一起用都不行" },
+      { type: "link", content: "https://photos.app.goo.gl/E3b1SPeRmNtxVLbb8", label: "2020年5月30日 \
+        唉 反觀內湖某醫院 全台灣醫院都在遞牛肉 只有某體系還拿著鞭子在鞭打醫生 \
+        跳不了啊 全台灣唯一活到半百才能跳槽的醫院 只有某體系了XD" },
+      { type: "link", content: "https://photos.app.goo.gl/FiyncPj46jKHvqFJ7", label: "2019年5月30日 這更慘哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/wHAXXgUqqZNXE4h66", label: "2018年5月30日 我的日本地圖 制縣等級64 充滿許多攝影的回憶" }
+    ],
     "31": [
+      { type: "link", content: "https://photos.app.goo.gl/V8MuPs5rjbGveX5w5", label: "2026年5月31日 \
+        身為醫護最痛恨你這種關心 我來教你什麼是立委最好的關心 除了你過去支持的三班護病比以外 \
+        最快的方式就是全面提升所有醫事人員的待遇 包含醫師護理師醫檢師放射師等 所有人薪水至少1.5-2倍以上 \
+        錢到位就會人到位 人到位就會床到位 床到位就不會有人住不了院 該關心的不關心 \
+        捨近求遠 緣木求魚 做一個沒用又有傷害的事 還自以為自己被誤會 醒醒好嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/17s31YyFNjjB6EoLA", label: "2026年5月31日 醫師有夠可憐 錢就在難賺 薪水就在少 救人之餘還要弄麻煩的研究 還要被懷疑逃漏稅 怎麼不去查那些房東跟官員 可悲的台灣醫師" },
+      { type: "link", content: "https://photos.app.goo.gl/p1uAQFGYg9zZZN819", label: "2026年5月31日 感謝AI以正視聽 一堆政治狂熱的白癡真的很可憐" },
+      { type: "link", content: "https://photos.app.goo.gl/hqUpHTWpBWfriuZq5", label: "2026年5月31日 Le Mani琢手咖啡 考試前最後一次外食放鬆 已經快不行了 壓力超大" },
+      { type: "link", content: "https://photos.app.goo.gl/f3eRnb7i2ohTqRd38", label: "2026年5月31日 主要是值班跟考試太多根 本沒時間出去玩 算了 不買了" },
+      { type: "link", content: "https://photos.app.goo.gl/zZC1GKYrYBMp2Js27", label: "2026年5月31日 對的沒錯" },
+      { type: "link", content: "https://photos.app.goo.gl/QD5VxiUwmpMXutFY6", label: "2026年5月31日 喔喔喔我去救他們" },
+      { type: "link", content: "https://photos.app.goo.gl/DsPKzfTMaKXXceDS7", label: "2026年5月31日 他們兩個應該是夫妻" },
+      { type: "link", content: "https://photos.app.goo.gl/GiMaXYb1byRufyNB9", label: "2025年5月31日 \
+        老百姓搞清楚狀況好嗎 軍階薪水等同外面醫師底薪 醫勤等同外面醫院獎金 外面醫師都是底薪+獎金 應該說一堆職業都是 \
+        啊請問他們都領兩份薪水嗎 不是不懂給這種容易誤會的說法 那不叫兩份薪水 那叫一份薪水 一份非常辛苦痛苦而且CP值一開始非常低的薪水" },
+      { type: "link", content: "https://photos.app.goo.gl/b2Lo1MwQbbCATvTo6", label: "2025年5月31日 \
+        真心推薦大家有TREAD可以搜尋 好心醫師 一位很偉大的心臟內科醫師 由他老婆幫他寫的故事 這是真實的故事 \
+        無論再有天大本事 終究脫離不了肉體的脆弱 在有生之年 用盡全力過好自己想要的生活才是最重要的" },
+      { type: "link", content: "https://photos.app.goo.gl/sCG3DLmVz414bHot7", label: "2025年5月31日 推 超適合放診間" },
+      { type: "link", content: "https://photos.app.goo.gl/Yn2RPhChwKFKh3aV7", label: "2025年5月31日 有需要台灣的景色我可以儘量提供 第一張不是 也有國外的" },
+      { type: "link", content: "https://photos.app.goo.gl/L8P7v9ByfZA8AXU47", label: "2025年5月31日 司機大哥沒有在跟你繫安全帶的啦 酷 Pattaya Thailand" },
+      { type: "link", content: "https://photos.app.goo.gl/BNX4b6oqiF982KGUA", label: "2025年5月31日 阿公不想面對 寧願短褲穿低一點也不要膽固醇低一點XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/5L2PijHH2LfqDexBA", label: "2025年5月31日 \
+        各位 目前住過最屌的五星飯店 一晚6000多 曼谷市區的總統級套房 被升級成兩個房間 可以睡四人 \
+        市景跟河景都是最猛 就問台灣有這種的嗎QQ 太扯了必須分享 身為攝影人 一定要來住" },
+      { type: "link", content: "https://photos.app.goo.gl/WKMYJACPFEHumMBB7", label: "2025年5月31日 明天早上舒舒服服 日出直接起床走到窗檯拍曼谷日出 只可惜這幾天都陰天 這家未來一定要再住 拍到大景畢業為止" },
+      { type: "link", content: "https://photos.app.goo.gl/qQUQ6NfPPqYXDmzU8", label: "2025年5月31日 \
+        又香又古典的大廳 真的超推 當時查資料大家都在比曼谷飯店誰最便宜cp最高 但我完全不看價格 \
+        我只在意夜景角度是不是最美的 明天還有一家也很厲害 再分享 Tower Club at lebua" },
+      { type: "link", content: "https://photos.app.goo.gl/Uj2DhoZ8ycxgWNEQA", label: "2025年5月31日 Baan Phadthai 這個河粉超香 雞肉超嫩 好像沒在台灣吃到這種口味的" },
+      { type: "link", content: "https://photos.app.goo.gl/vTGQL2ydNV2mmrpc7", label: "2025年5月31日 \
+        這家飯店頂樓是米其林二星 我只是想去拍照 耍白痴下雨穿拖鞋被請回去換鞋子 \
+        換完鞋子走上去 跟我說下雨所以暫停開放室外天台 啊啊啊啊啊 幸好回房間也能拍 lebua at State Tower" },
+      { type: "link", content: "https://photos.app.goo.gl/hpr6UyvxnuchMzVq7", label: "2025年5月31日 每晚6000多塊頂級五星飯店 我認定曼谷夜景第一名的飯店 喜歡拍夜景的朋友都應該來住" },
+      { type: "link", content: "https://photos.app.goo.gl/1mE5b7cKj6gEpq647", label: "2024年5月31日 別人是在大安森林公園 哥是買在大安森林公園" },
+      { type: "link", content: "https://photos.app.goo.gl/g4XTfc2gckSWrGZp8", label: "2023年5月31日 每次都找不到自己停的車在哪 自己找車位就是會發生這樣的事情 記得有一次繳完費 找車子找了快半小時 直接延遲出場" },
+      { type: "link", content: "https://photos.app.goo.gl/fRTsqgTcjpDgAHM96", label: "2023年5月31日 我發現他耳朵超大欸哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/sFKwhWCxFgV2n1h96", label: "2023年5月31日 她以後每天放學跑第一個關喇叭哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/dsZKnmTmxAj54DA7A", label: "2022年5月31日 每天跟戴哥的病歷交戰 終於告一段落了 哪怕一點點粗心或沒寫好 馬上被當頭棒喝 不過下個月應該更難過QAQ" },
+      { type: "link", content: "https://photos.app.goo.gl/oLeohpYVgF3Nk8Xo6", label: "2022年5月31日 不可以每天製造我的陰影啦" },
+      { type: "link", content: "https://photos.app.goo.gl/ToTNPAMWFpWowoay6", label: "2022年5月31日 \
+        汐止天秀宮 迷霧台北 一點點的霧氣 配一點點的夕陽 一點點的斜射光 打在一點一點的城市 \
+        每天一點一點的消耗自己 內科知識卻只有一點點的增加 看似一點點的異常 背後藏著不止一點點的危險 \
+        一點鐘的半夜有無數的call 度過每次值班再一點點的找回自信 繼續再撐住 繼續再更強點" },
+      { type: "link", content: "https://photos.app.goo.gl/rMgPVG2yicTm1X1b8", label: "2021年5月31日 \
+        中央社記者王鴻國新北31日電 新北市雙和醫院上午約7時許發生流血案件 一名在病房隔離治療的確診病患疑似情緒不穩定 \
+        竟涉嫌拿水果刀劃傷3名護理師 警方獲報已前往制伏病患 3名護理師送急診治療 警消初步了解 這名62歲洪姓的武漢肺炎確診病患 \
+        收治在雙和醫院11樓負壓隔離病房 今天上午7時許疑似情緒不穩 竟持刀攻擊3名護理師 造成3人手部及腹部等多處刀傷" },
+      { type: "link", content: "https://photos.app.goo.gl/jUXdfAgSExseTev9A", label: "2021年5月31日 \
+        下一次發作品會整理疫苗的資訊 沒錯連我看都覺得眾說紛紜 也不知道有沒有假資訊 先貼兩個臉書粉專 \
+        這兩位醫師會把醫學權威期刊翻譯成重點中文 告訴我們疫苗的最新研究 是絕對可信的 有希望我寫在下次發文的也可下方留言 歡迎提問" },
+      { type: "link", content: "https://photos.app.goo.gl/4wikcEJCM4AWmdSb7", label: "2019年5月31日 \
+        陪伴我七年的小白 大部分生活在內湖 現在搬來高雄 以前還待過蘇澳跟基隆 也跟我一起坐過船 \
+        過去拍照時也上山下海去了許多地方 今天電池跟煞車壞了來修理 發現他也老了很多 劉家酸白菜二館" },
       { type: "link", content: "https://photos.app.goo.gl/rpYnzK4ENWD5NKbt6", label: "2017年5月31日 練個 步上自己的軌道 離計畫越來越近" },
       { type: "link", content: "https://photos.app.goo.gl/2YgLZ6qhefJqBiuNA", label: "2017年5月31日 \
         看到蘇花公路坍塌心裡只有一個想法 人總是以為美景能輕易的看到 因此造就許多環境的破壞 公路坍塌不是當然的嗎 \
