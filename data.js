@@ -8074,13 +8074,179 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/yG7Si7nUHxE8ABuS9", label: "2017年6月4日 收攤前阿姨送奶油紅豆餅 這麼感人 今天助人的好報吧" },
       { type: "link", content: "https://photos.app.goo.gl/ELaG3LsJ5FsesakQ7", label: "2017年6月4日 值班準備月底的攝影課程 2小時的課如何讓人有趣又能吸收呢" }
     ],
-    "5": [],
-    "6": [],
+    "5": [
+      { type: "link", content: "https://photos.app.goo.gl/1otmGXQQQ1JoNBDU8", label: "2026年6月5日 那句我會拒絕真的是噁心至極" },
+      { type: "link", content: "https://photos.app.goo.gl/YnxntM9YEz4Ycr5J8", label: "2026年6月5日 哈哈哈哈碰到手機就完了 跟我讀書一樣 碰到手機就完了 啊等下 手機又來了 先丟旁邊" },
+      { type: "link", content: "https://photos.app.goo.gl/8vTc2QooUQpbAVss7", label: "2026年6月5日 這是真的 我只能說這麼多了QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/PpFLTuwCYNCWcNCK7", label: "2025年6月5日 怎麼一臉可憐樣" },
+      { type: "link", content: "https://photos.app.goo.gl/7iTQTKvjpSK5sVrN6", label: "2024年6月5日 越是困難的專業就越要查國外文祥跟教科書 真的不能再養成先找中文資料的壞習慣 查了一下SQUARE ROOT SIGN 第一筆最多人看的BLOG就直接寫錯 還錯到完全相反" },
+      { type: "link", content: "https://photos.app.goo.gl/dRaxAXXraiXtpMyP6", label: "2024年6月5日 \
+        TB藥物口訣 HR賣肝吃pizza 一週上班三天(TIW)才輕鬆 肝代謝H=ING R=RMP PZA TIW上班才輕鬆=easy=EZ \
+        腎功能差EZ改成TIW使用 註 HR在業界就是人資的意思 人資通常也蠻操的 以此聯想" },
+      { type: "link", content: "https://photos.app.goo.gl/nkoX3UpsxZ7Brbhw7", label: "2024年6月5日 沒有 你吃一顆就好" },
+      { type: "link", content: "https://photos.app.goo.gl/HhsK7URYq7YLBTnAA", label: "2024年6月5日 漂亮超過一億倍" },
+      { type: "link", content: "https://photos.app.goo.gl/km3KnwP7U2JRnSiK8", label: "2024年6月5日 謝謝阿姨 讚嘆阿姨" },
+      { type: "link", content: "https://photos.app.goo.gl/Zj1RaDazx7guix719", label: "2024年6月5日 是膝蓋最好的狗狗狗哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/M7Sx3o28S8xSss9z7", label: "2024年6月5日 好漂亮" },
+      { type: "link", content: "https://photos.app.goo.gl/bC79FT92AJtP1ysJ7", label: "2023年6月5日 Ogilvie Syndrome 急性假性腸阻塞症候群=Ogilvie氏症 Acute colonic pseudo-obstruction ACPO" },
+      { type: "link", content: "https://photos.app.goo.gl/eFpjTHJKnUrGNA8fA", label: "2022年6月5日 我不懂為什麼這種人可以聊那麼久 是為了搜集素材才把封鎖的衝動忍住嗎XD" },
+      { type: "link", content: "https://photos.app.goo.gl/Gimq7xb3C4CPeg617", label: "2022年6月5日 \
+        今天這應該很典型的 天空漂亮但夕陽無望 18:30日落 大概18:00之前都很好看 又高清 但接近日落太陽就會被遮住 \
+        火燒雲也無望 不然台灣上空難得雲層漂亮 若大陸沿岸烏雲飄走就會是大景 16:30-18:00之前應該最好拍" },
+      { type: "link", content: "https://photos.app.goo.gl/Qub1iqC3qpH9c3ZD7", label: "2022年6月5日 今天到醫院看到天空放晴 特別路過拍一張大門照 高清銳利化 滿適合報告或展示使用" },
+      { type: "link", content: "https://photos.app.goo.gl/BcAVAvrHan1aFzVi6", label: "2021年6月5日 開車開到一半後車廂卡住斷電 整路一直叫 媽的" },
+      { type: "link", content: "https://photos.app.goo.gl/bgjK16hQ9zCHjPYu5", label: "2019年6月5日 除了經濟發展以外 薪資真的高 過去那邊考慮長久工作還是有很多問題 久多看看囉" },
+      { type: "link", content: "https://photos.app.goo.gl/bSWjYYQQbtL8nFyC9", label: "2019年6月5日 支持+1" },
+      { type: "link", content: "https://photos.app.goo.gl/mXbZTGS5uHAF1rKJ8", label: "2019年6月5日 你有想過車子的感受嗎QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/gcGZt5xVQ67UfvPc6", label: "2019年6月5日 八月去啊不要說說" }
+    ],
+    "6": [
+      { type: "link", content: "https://photos.app.goo.gl/s1zLgVkLDdhtmuCo7", label: "2026年6月6日 覺得錄音錄影是權利的病人 我覺得他是真的病人 真的腦殘的病人 這種人以後都不會幫他看診" },
+      { type: "link", content: "https://photos.app.goo.gl/gvAbEvyGprpcVUQ48", label: "2026年6月6日 現在這個時代已經越來越難看到了" },
+      { type: "link", content: "https://photos.app.goo.gl/NjTjwYPsstDLTfjS8", label: "2026年6月6日 太危險" },
+      { type: "link", content: "https://photos.app.goo.gl/gL9TgX72qZodMbPx7", label: "2026年6月6日 這個道理我以前有自己悟出來 而且試過 但我問之後她真的回大便 現在懂了" },
+      { type: "link", content: "https://photos.app.goo.gl/msa4tLtQkNP7WEUv6", label: "2025年6月6日 這是有後製合成不同場景 很久之前我看過這些作品" },
+      { type: "link", content: "https://photos.app.goo.gl/3o9YbXNS3ArbJFY29", label: "2025年6月6日 這系列色調很棒" },
+      { type: "link", content: "https://photos.app.goo.gl/hTo9FJ4CwefgaDMw9", label: "2025年6月6日 這次泰國超開心之旅 拍到很多很喜歡的照片" },
+      { type: "link", content: "https://photos.app.goo.gl/CDDveMkvrPyJ19QQ7", label: "2025年6月6日 有料欸哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/XjvDGNJQajZGVCWB9", label: "2025年6月6日 這個誰看到都養爆" },
+      { type: "link", content: "https://photos.app.goo.gl/okW43ZJhhWvyerRw6", label: "2024年6月6日 從追蹤加入股市肥羊已來 已經五六次肥羊醫師全壓的隔天金融股票大漲 必須說玩金融股 我只服肥羊老大啊" },
+      { type: "link", content: "https://photos.app.goo.gl/6qWw9Hm5AngPJxPk7", label: "2024年6月6日 這個我沒辦法 我還是覺得孫安佐就是一個對社會沒產值沒貢獻的唱秋媽寶富二代而已XDDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/6DARA2s1TvPaTui26", label: "2024年6月6日 惡魔果實肉粽" },
+      { type: "link", content: "https://photos.app.goo.gl/Bi1zcWqj5FxTYdnU7", label: "2024年6月6日 沒事齣" },
+      { type: "link", content: "https://photos.app.goo.gl/yNhdtK1Pn92hfMSZA", label: "2024年6月6日 XDDDDDDDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/1hWRZdS2tBQMLCZx7", label: "2023年6月6日 五年前最美日出在BROMO火山 五年後更美日出在PENIDA 環遊世界拍風景真的是我人生最大目標跟夢想" },
+      { type: "link", content: "https://photos.app.goo.gl/K9hr78FQX5nadoHr6", label: "2022年6月6日 \
+        我動作比較慢 也搞到比較晚下班 但因為不熟 我想每件事情都問清楚 也想每件事情都做完不留給值班 \
+        所以妳可以嗆我當R像C2 我聽到了 我承認我很爛 是我不好 當初intern該學的時候不好好學 現在花更多時間摸熟基本的東西 \
+        這句話會變成鞭策我的力量 我會撐住變強 CR再回去這個地方" },
+      { type: "link", content: "https://photos.app.goo.gl/opkftJzX23tacqFb6", label: "2022年6月6日 \
+        臨床adenosine治療過程 EKG變化紀錄 有興趣可觀看 臨床紀錄 PSVT治療 病人突然心跳快 沒有明顯P波 懷疑PSVT 推注adenosin 3-6-6mg \
+        因CVC故劑量減半 紀錄其步驟及心電圖變化 三次推注後均短暫恢復 但馬上又心跳快 後續考慮cordarone注射治療及找出underlying原因" },
+      { type: "link", content: "https://photos.app.goo.gl/2j4pb2JjAWBVzUq3A", label: "2021年6月6日 我們出國前都會一起衝刺個500公尺 做為體能訓練" },
+      { type: "link", content: "https://photos.app.goo.gl/ZVad6SXsTfBQ1Bmg6", label: "2019年6月6日 大白gogo 高速公路 新營休息站" },
+      { type: "link", content: "https://photos.app.goo.gl/F2JfuVcsBtvWUCvm9", label: "2019年6月6日 終於來了 開始辣台中人" },
+      { type: "link", content: "https://photos.app.goo.gl/ri8oyXmgkCRFr7oT7", label: "2019年6月6日 聰明之外 也要堅持哈 原來哈哈哈 那很好賺" },
+      { type: "link", content: "https://photos.app.goo.gl/gWeASdxsP4dMnnzL7", label: "2018年6月6日 三總內湖院區 50年後白髮蒼蒼 依然記得當年的香辣醬 那個對未來彷徨的感覺" },
+      { type: "link", content: "https://photos.app.goo.gl/4gE5s5mRVVv3ikU5A", label: "2018年6月6日 \
+        因為拍照 認識許多當醫師還能規劃自己的拍照旅程 女友蜜月的前輩 若你也是充滿除了從醫之外的熱忱 \
+        有賺錢以外的人生夢想清單 請在選擇人生道路時 務必把國防醫學院軍費生給用力劃掉 哪怕多蹲幾年重考也不能將就" },
+      { type: "link", content: "https://photos.app.goo.gl/d9LJdmpejSaTbFX29", label: "2018年6月6日 19咖啡輕食廚房 709寢" },
+      { type: "link", content: "https://photos.app.goo.gl/XKgfDp7hpAjRrwpGA", label: "2018年6月6日 兩個躺著過國考的人 每回醫師二考古題都穩在300左右的男人 想偷聽我們講話的熊" },
+      { type: "link", content: "https://photos.app.goo.gl/msENpU5SUQWCaZ2u6", label: "2018年6月6日 說好退伍一起在台中一中街開診所的室友 未來投資我們的股東" }
+    ],
     "7": [
+      { type: "link", content: "https://photos.app.goo.gl/GPQH4ypch6vVLFwd7", label: "2026年6月7日 \
+        其實可以這樣操作 理論上 實際上不曉得 因為住院如果是精神病退 不只不用賠錢 還能領保險金 住院期間的最低本俸跟部分退伍金 \
+        但如果他闖異性房間 能夠有辦法讓他異性核彈爆炸到變成兩性軍紀事件 甚至走到必須勒令退伍 那就不是病退 這樣他不只沒有退伍金 \
+        甚至需要賠償未滿年限退伍的賠償金 對於這種增加醫護負擔的混蛋 尤其是軍人 請這樣治他" },
+      { type: "link", content: "https://photos.app.goo.gl/LgxdvcCwhb5ritT4A", label: "2026年6月7日 這個不用留友" },
+      { type: "link", content: "https://photos.app.goo.gl/mhasM1DXnFMV182G8", label: "2026年6月7日 很好 按讚追蹤一個心超粉專之後 後續就會一直推播 分心滑手機的時候也能順便複習" },
+      { type: "link", content: "https://photos.app.goo.gl/xWtLgUUzHc8wjUrT7", label: "2026年6月7日 很漂亮捏 考完試我也要來規劃跑步計畫" },
+      { type: "link", content: "https://photos.app.goo.gl/9HYoN3yfq9tLuRyW6", label: "2025年6月7日 \
+        那每天面對死亡跟外傷等等 醫師護理師要不要優待 這篇文章顯然是完全沒當過軍人才這樣發言 \
+        軍人對比警消 薪水沒有比較高 但生活限制更多 戰爭如果來也是第一線面對死亡的 \
+        我支持警消待遇應該更好 但不支持你用這種類比方式 因為這是根本沒當過軍人 不知其悲慘的情況才發的出來的文章" },
+      { type: "link", content: "https://photos.app.goo.gl/13xJ8bT9E7wnJna18", label: "2025年6月7日 下次我也要練" },      
+      { type: "link", content: "https://photos.app.goo.gl/jQxg8gWc6K1CAofK6", label: "2025年6月7日 現在學生越來越厲害欸" },
+      { type: "link", content: "https://photos.app.goo.gl/4EiJnvGXxnC2Z2Hc9", label: "2025年6月7日 真的燙到爆哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/4Z35jMBBaVKv8Aw89", label: "2025年6月7日 \
+        曼谷王權Mahanakhon藍調 寫一點曼谷夜景的小攻略 其實曼谷超多在地攝影師推薦的拍點 但礙於時間 \
+        這次把目標放在王權大廈的夜景 王權之於曼谷就像101之於台北 兩棟都是核心城市的標誌性建築 \
+        因此最美好的夜景並非選擇王權頂樓酒吧 這樣只會得到接近平面的景色 真正的夜景是站在剛好的高度 拍攝最高的建築 \
+        這樣才能找到代表該城市的特色及維持畫面層次感 經過每家飯店的多方比較 單從飯店介紹的照片外 \
+        還要實際對照google map才知道視角及光線方向 我選擇以下兩家飯店 Tower Club at lebua 拍攝曼谷首推這家五星飯店 \
+        原本訂的河景套房被升級為15000每晚的河景+市景四人房 我才發現居然有 為攝影而生的完美房型 這種四人房編號為xx01 \
+        xx為樓數 每層樓只有一間 剛好位於飯店邊角 可同時從室外陽台拍攝市景 王權大廈日出 及河景 昭拍耶河夕陽 \
+        但如果沒訂到 也可到頂樓酒吧拍攝360度景觀 不過開放時間為17-24且須著正裝才能進入 \
+        Bangkok Marriott Hotel The Surawongse 這家是王權大廈最完美的角度 剛好斜切角可見王權建築之設計特徵 但沒有很推 \
+        原因是這家飯店無法指定房型 室內只有小面積玻璃窗且未必對到王權大廈 另外頂樓酒吧會禁止使用腳架 只能自己扶著相機拍攝 \
+        所以這家能否拍到王權夜景很看運氣 我是偷偷把腳架壓在玻璃牆上拍 沒辦法曝光太久 最後雨季曼谷要注意幾件事 \
+        下午若有行程 但要趕回飯店拍藍調夜景 一定要比原本車程多抓20分鐘 很容易叫不到grab或塞車 \
+        曼谷所有頂樓室外酒吧都有一個規定 就是遇到下雨不開放 清潔時間約為1-2小時以上 \
+        所以選擇Surawongse飯店但遇到下雨就直接gg 因為房間內幾乎無法拍攝 午後雷陣雨通常會在藍調時停止 即使下雨也不要放棄拍攝 \
+        有些室外酒吧為米其林餐廳 要著正裝 男生褲子至少遮住膝蓋 女生不能露肩膀 不能穿拖鞋等 \
+        曼谷真的很美 下次除了再研究其他王權大廈的拍攝點 也會去攻略鄭王廟的夜景拍攝飯店" },
+      { type: "link", content: "https://photos.app.goo.gl/XB8t18tKKFaRPbrq5", label: "2025年6月7日 \
+        曼谷王權Mahanakhon藍調 寫一點曼谷夜景的小攻略 這次把目標放在王權大廈的夜景 我選擇以下兩家飯店 \
+        Tower Club at lebua 拍攝曼谷首推這家五星飯店 原本訂的河景套房被升級為15000每晚的河景+市景四人房 我才發現居然有 \
+        為攝影而生的完美房型 這種四人房編號為xx01 xx為樓數 每層樓只有一間 剛好位於飯店邊角 可同時從室外陽台拍攝市景 \
+        王權大廈日出 及河景 昭拍耶河夕陽 Bangkok Marriott Hotel The Surawongse 這家是王權大廈最完美的角度 \
+        剛好斜切角可見王權建築之設計特徵 但沒有很推 原因是這家飯店無法指定房型 室內只有小面積玻璃窗且未必對到王權大廈 \
+        另外頂樓酒吧會禁止使用腳架 只能自己扶著相機拍攝 所以這家能否拍到王權夜景很看運氣 最後曼谷所有頂樓室外酒吧都有一個規定 \
+        就是遇到下雨不開放 清潔時間約為1-2小時以上" },
+      { type: "link", content: "https://photos.app.goo.gl/upmdvhhjMQxHYdZAA", label: "2025年6月7日 上圖低對比 下圖高對比 好奇大家喜歡哪張 上圖 下圖" },
+      { type: "link", content: "https://photos.app.goo.gl/AWRF3R3oAd5RZVaF9", label: "2025年6月7日 去哪弄來這麼可愛的蛋糕" },
+      { type: "link", content: "https://photos.app.goo.gl/rdHCnRY8UZQGxx7R6", label: "2024年6月7日 可惡超想去 真心覺得軍費生超可悲 只能忍痛拒絕 光上公文的時間根本來不及 但我會繼續做自己 醫療跟醫療本業以外的都做好 未來有機會一定要把握" },
+      { type: "link", content: "https://photos.app.goo.gl/quM9E4LQkVa98AFq6", label: "2024年6月7日 好可憐 共產黨國家人民的智商硬是比正常國家低了一半" },
+      { type: "link", content: "https://photos.app.goo.gl/vfB4wtZHTNqmcHbn7", label: "2024年6月7日 沒吧 護理師也會亂掛電話 個人行為好嗎 別牽拖職業" },
+      { type: "link", content: "https://photos.app.goo.gl/8dMvsTA6fgc1eSf28", label: "2024年6月7日 會講這種話的長官真的很可悲" },
+      { type: "link", content: "https://photos.app.goo.gl/veJK83xViFYQUFLk6", label: "2024年6月7日 來蕉流蕉流的" },
+      { type: "link", content: "https://photos.app.goo.gl/AjVRm43x5c9268NXA", label: "2024年6月7日 氣死" },
+      { type: "link", content: "https://photos.app.goo.gl/o7oDzgZ2iumX3iFB6", label: "2022年6月7日 \
+        臨床紀錄 困難A-line 四肢浮腫 血壓低的病人常是困難a-line 都消毒後 使用sono real time可以在畫面看到跳動的血管橫切面 \
+        增加成功率 不過我遇到的case 即使sono guide幫忙打上正確位置 也遇到推針不順跟無法回血 不知道原因" },
+      { type: "link", content: "https://photos.app.goo.gl/YsikZM4yG3GGyrMz9", label: "2022年6月7日 以前開開玩笑說病人自拔endo 然後真的就遇到自拔了" },
+      { type: "link", content: "https://photos.app.goo.gl/bNpdqmRVngYqNaag7", label: "2020年6月7日 六七兩個月 平均兩個禮拜就從左營殺到內湖一次 開車真的累 希望趕快結束奔波的生活 南仁湖企業中壢服務區" },
+      { type: "link", content: "https://photos.app.goo.gl/TD1End9PafWuYdDS9", label: "2020年6月7日 尊重跟理解兩個概念 不只從小應正確學習 有些大人 也可能這輩子都學不會" },
+      { type: "link", content: "https://photos.app.goo.gl/EYg6ASsyVDgVZC5k9", label: "2020年6月7日 台大gogo" },
+      { type: "link", content: "https://photos.app.goo.gl/aGnebGwGgXUNRhMC8", label: "2019年6月7日 白貓散步輕食館GATTO BIANCO" },
       { type: "link", content: "https://photos.app.goo.gl/gNcgFS6wTqJDdyWM7", label: "2017年6月7日 晚上都吃油條肉包豆漿一個多月 為什麼還胖不了 到底還要吃多久才行" },
       { type: "link", content: "https://photos.app.goo.gl/uc7rBNvSokn35teG7", label: "2017年6月7日 吸入劑" }
     ],
     "8": [
+      { type: "link", content: "https://photos.app.goo.gl/sFEPKVwuoqLH2xGi8", label: "2026年6月8日 明明看過書讀過的病 結果第一眼還是看不出來只覺得怪怪的 考試真的完蛋" },
+      { type: "link", content: "https://photos.app.goo.gl/VuDFK4ndmJQA99Q99", label: "2025年6月8日 看台灣最美的風景 所以我才叫妳路上不要好心去幫人 任何碰觸都有風險 不要不信邪 當個自私的人才不會惹禍上身" },
+      { type: "link", content: "https://photos.app.goo.gl/o1bHcxCsiQjHBi2C8", label: "2025年6月8日 大推" },
+      { type: "link", content: "https://photos.app.goo.gl/ruzCNNpW4mFcQpWR8", label: "2025年6月8日 好可愛的垃圾爺爺捏" },
+      { type: "link", content: "https://photos.app.goo.gl/xg2Jj1SefwVwxQct7", label: "2025年6月8日 要ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/8UiRq4UJx3qkNo3u9", label: "2025年6月8日 極度欣賞" },
+      { type: "link", content: "https://photos.app.goo.gl/3NtiFRqKrESUPcZH9", label: "2025年6月8日 我怎麼沒看到便當盒嗚嗚" },
+      { type: "link", content: "https://photos.app.goo.gl/KxUSeULpd9Pbs3iq5", label: "2025年6月8日 順便復健" },
+      { type: "link", content: "https://photos.app.goo.gl/Zi6Az7wBmaUpGdqF7", label: "2025年6月8日 今天好悶熱" },
+      { type: "link", content: "https://photos.app.goo.gl/Qv5aCNrEZBiVxnkL8", label: "2025年6月8日 想問一下有沒有大神知道 風景影片的後製 這種局部調色跟強化光線 都是用哪個軟體處理的呢" },
+      { type: "link", content: "https://photos.app.goo.gl/uecwFEoYAQF14FxJ9", label: "2025年6月8日 \
+        Sanctuary of Truth 泰國的空拍總共要過兩關 CAAT 申請過會得到一組空拍機許可號碼 請貼在機身 麻煩點是需要有泰國的電話 \
+        NBTC 申請後 需拍攝入境章+當地繳錢才能通過 通過會得到一份PDF檔 由於手續繁瑣 包含保險 如果想自己申請的dcard跟yt有教學 \
+        這裡介紹泰國當地空拍代辦公司 My Drone Thailand Team 搜尋上述網站 填寫基本資料就會用email聯絡你 \
+        接著會詢問一些空拍機資訊 空拍機照片 護照照片 擔心的話用很淺的浮水印寫僅供空拍申請使用 等 這過程任何問題跟他們+whatapp聯絡 \
+        他們通常都晚上回訊息 因為早上他們處理最急件的申請 而提前申請的都會晚上作業 價格為台幣3205元 使用paypal付費 因此要申請paypal帳號 \
+        整體而言非常推 如果跟我一樣非常忙碌或沒耐心自己來回更改申請資料 花三千台幣一定划算 尤其要入境後到當地匯款 \
+        非泰國人可請司機幫忙 實在擾民到不行 還有什麼問題歡迎留言詢問唷 問題回覆 網路上無任何資訊 這是chatgpt找到的 \
+        要提前多久申請 我提前一個月申請時間很足夠 最少應該提前兩週申請 入境後多久可開始飛 我是當天1100傳入境章 \
+        CAAT在台灣已通過 NBTC收到入境章約下午16-17通過 可否黑飛 法律不行 但其實避開人群跟夜間 飛行時不太有人理 \
+        我在海邊飛有遇到當地小哥好奇攀談 至於我非得申請的理由 是2024有一位大陸網紅在曼谷市區夜飛 起飛三分鐘就被舉報逮捕 \
+        甚至因為沒有申請被判四個月坐牢 因此有申請有保障 誰都不知有何意外 機場是否檢查空拍機 完全不會 沒有人檢查 \
+        記得電池都要放隨身包即可 真理聖殿的空拍規定 不能在園區內攜帶 起飛空拍機 但從外海飛過去拍則合法 \
+        但他的園區劃很大 而且園區周圍幾乎都飯店包圍起來的海灘 我騎車找過了沒有入口 方法二 可導航ร้านคุณไก่ ชายหาด สนอ旁邊的公共海灘起飛 \
+        又繞過一群高樓 有可能斷訊返航 我發生一次 另外直接訂離真理聖殿最近的那幾間飯店 除了海灘也能從房間陽台直接起飛 這樣最安全 \
+        最後提醒 真理聖殿空拍 天氣極其重要 要有出太陽 才能拍到立體感 陰影跟海水的藍" },
+      { type: "link", content: "https://photos.app.goo.gl/Cg1qXsDd6H54mcpZA", label: "2025年6月8日 \
+        終於把泰國空拍申請的過程整理好了 雖然是找代辦 但交資料跟當地找飛點也是很累人 \
+        我把本次泰國空拍申請的資訊完整寫上了 如果有幫助再麻煩幫我分享唷 這次拍攝真理聖殿都是陰天 如果出太陽應該會非常漂亮 真可惜" },
+      { type: "link", content: "https://photos.app.goo.gl/sbPPXYRg9xFC73Gr8", label: "2024年6月8日 要命就不要錢 要錢就不要命 要怪就怪政府把錢打水漂也不願意補足健保 醫護薪水低沒有欠你 不爽不要來看病少道德綁架" },
+      { type: "link", content: "https://photos.app.goo.gl/ME8d8XJegBjZNxaUA", label: "2024年6月8日 再貴也是相對便宜到死 不然去美國看病啊" },
+      { type: "link", content: "https://photos.app.goo.gl/YufJd6DNTHTESdus5", label: "2024年6月8日 我只記得軍訓週非常浪費大家生命 教一堆二戰時期的東西 跟沒用的基本教練 害大家沒辦法出國玩" },
+      { type: "link", content: "https://photos.app.goo.gl/6B8jPHrJL2c4XAMA7", label: "2024年6月8日 粉專小編放假繼續裝死哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/X1tJsjaH6h9DeVFr8", label: "2024年6月8日 沒錯 升上來之後再把星巴克裁掉 例如三總" },
+      { type: "link", content: "https://photos.app.goo.gl/JbcmbLL8eD2hfrna9", label: "2024年6月8日 是一間早餐時間排隊20分鐘才能結帳的小七" },
+      { type: "link", content: "https://photos.app.goo.gl/SCbiXrZ9KhKFEQjx6", label: "2024年6月8日 啊更正一下以前星巴克在B1記錯了哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/9zZuk9r9657yifsC9", label: "2024年6月8日 我連正常運動都不能自己掌握 被值班考試追著打QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/f1oA8UHKt4bYjne59", label: "2024年6月8日 深怕妹妹記得踩剎車 趕快補一腳XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/EFNqVoDB5coL1Uy49", label: "2024年6月8日 POPO" },
+      { type: "link", content: "https://photos.app.goo.gl/YHCczonWtBzvCSHp8", label: "2023年6月8日 崩潰 現在1700 剛報完一堆新病人 給我的ORDER準備處理到2000 絕望QQ 我要下班" },
+      { type: "link", content: "https://photos.app.goo.gl/TxLXBAA141bwygZP9", label: "2023年6月8日 再次突破上個月最晚下班紀錄 但離開前病人灰字持續出現 沒值班時每天12-13小時工時 值班時30多小時工時依舊" },
+      { type: "link", content: "https://photos.app.goo.gl/APJjEWe9GUZPiAsEA", label: "2023年6月8日 就這部 但我看到目前還不確定哪裡特別好看" },
+      { type: "link", content: "https://photos.app.goo.gl/BMwu33BNxABVGu1h8", label: "2022年6月8日 根本鄉民梗王 笑爛XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/14edzH1z9RK62sLz9", label: "2020年6月8日 啊 我要認真工作才行" },
+      { type: "link", content: "https://photos.app.goo.gl/coMXJY6Qw6vrtaZA6", label: "2019年6月8日 我是豬" },
+      { type: "link", content: "https://photos.app.goo.gl/5QBF9kA64vFaWQY69", label: "2019年6月8日 真的不要再給我睡了 昨天晚上從9:00睡到1:30起來洗澡之後 又繼續睡到今天早上11:00 現在睡什麼意思 嬰兒嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/HVpf6oohRmzkra9w6", label: "2019年6月8日 金山青年活動中心 這天的雲很暴力 遠遠的地平線方向有裊裊的煙 不過當時不太會拍照 也沒有用長焦紀錄 留了一點遺憾" },
+      { type: "link", content: "https://photos.app.goo.gl/kzsrcWspaiNiYn199", label: "2018年6月8日 這種很多耶 我原本會跟這種的吵架 但後來怕影響自己考績就會乖乖配合他 誤" },
+      { type: "link", content: "https://photos.app.goo.gl/h2nyoR3kLNDw6wnd7", label: "2018年6月8日 東京最強的子賢生日快樂 未來三總與東京醫科齒科的交流 就交給你跟張君頤了" },
+      { type: "link", content: "https://photos.app.goo.gl/ncH7Nm18dfSKgEnL8", label: "2018年6月8日 有大神融會貫通底下嗎 求救 努南氏症 卡門氏症 透納氏症 Klinefelter syndrome 逢考必死" },
+      { type: "link", content: "https://photos.app.goo.gl/Lym2fi8LiDAzcoN3A", label: "2018年6月8日 吃一頓好料的時間也是奢侈" },
+      { type: "link", content: "https://photos.app.goo.gl/LZknRGcQb7NVBnZa6", label: "2018年6月8日 原本想說跟dennis88111偷偷去日本吃飯再趕快回來 結果沒揪mike1357935 被發現==" },
       { type: "link", content: "https://photos.app.goo.gl/7r89YEoxAot34GbBA", label: "2017年6月8日 拍照去" }
     ],
     "9": [],
