@@ -267,7 +267,12 @@ function buildMonthList() {
         const mStr = String(m);
         const monthItem = document.createElement("li");
         monthItem.className = "month-item";
-        monthItem.textContent = m + "月";
+        const monthButton = document.createElement('button');
+        monthButton.type = 'button';
+        monthButton.className = 'date-navigation-button';
+        monthButton.textContent = m + "月";
+        monthButton.setAttribute('aria-expanded', 'false');
+        monthItem.appendChild(monthButton);
 
         // 挑出此月份有實際內容(length>0)的日期
         const daysObj = records[mStr] || {};
@@ -278,11 +283,19 @@ function buildMonthList() {
         }
 
         const dayList = document.createElement("ul");
+        dayList.id = `month-days-${m}`;
+        dayList.inert = true;
+        monthButton.setAttribute('aria-controls', dayList.id);
 
         daysWithData.forEach(d => {
             const dayItem = document.createElement("li");
             dayItem.className = "day-item";
-            dayItem.textContent = d + "日";
+            const dayButton = document.createElement('button');
+            dayButton.type = 'button';
+            dayButton.className = 'date-navigation-button';
+            dayButton.textContent = d + "日";
+            dayButton.setAttribute('aria-label', `${m}月${d}日記錄`);
+            dayItem.appendChild(dayButton);
             dayItem.dataset.month = mStr;
             dayItem.dataset.day = String(d);
             dayItem.classList.add("day-item");
@@ -296,7 +309,9 @@ function buildMonthList() {
         });
 
         monthItem.addEventListener("click", () => {
-            dayList.classList.toggle("open");
+            const isOpen = dayList.classList.toggle("open");
+            dayList.inert = !isOpen;
+            monthButton.setAttribute('aria-expanded', String(isOpen));
         });
 
         monthItem.appendChild(dayList);
@@ -632,11 +647,19 @@ async function shareCurrentView() {
 
 // sidebar highlight
 function highlightSidebar(monthStr, dayStr) {
+    monthList.querySelectorAll('.day-item button[aria-current]').forEach(button => {
+        button.removeAttribute('aria-current');
+    });
     const prev = monthList.querySelectorAll(".day-item.selected");
-    prev.forEach(n => n.classList.remove("selected"));
+    prev.forEach(n => {
+        n.classList.remove("selected");
+    });
     const selector = `.day-item[data-month="${monthStr}"][data-day="${dayStr}"]`;
     const now = monthList.querySelector(selector);
-    if (now) now.classList.add("selected");
+    if (now) {
+        now.classList.add("selected");
+        now.querySelector('button').setAttribute('aria-current', 'date');
+    }
 }
 
 // 切換日期的通用函數
@@ -1030,6 +1053,20 @@ document.getElementById('year-filter').addEventListener('change', (e) => {
 
 if (menuToggle) {
     menuToggle.addEventListener("click", () => sidebar.classList.toggle("open"));
+    const mobileMenu = window.matchMedia('(max-width: 768px)');
+    const syncMenuAccessibility = () => {
+        const isOpen = sidebar.classList.contains('open');
+        menuToggle.setAttribute('aria-expanded', String(isOpen));
+        // 滑出畫面外的手機選單不應留在鍵盤與輔助工具的導覽順序內。
+        const isHidden = mobileMenu.matches && !isOpen;
+        if (isHidden && sidebar.contains(document.activeElement)) menuToggle.focus();
+        sidebar.inert = isHidden;
+    };
+    new MutationObserver(syncMenuAccessibility).observe(sidebar, {
+        attributes: true, attributeFilter: ['class']
+    });
+    mobileMenu.addEventListener('change', syncMenuAccessibility);
+    syncMenuAccessibility();
 }
 
 // 點擊選單外部區域以關閉選單
@@ -1071,6 +1108,8 @@ document.getElementById("homeBtn").addEventListener("click", () => {
     
     document.querySelectorAll("#monthList ul.open").forEach(ul => {
         ul.classList.remove("open");
+        ul.inert = true;
+        ul.parentElement.querySelector('button').setAttribute('aria-expanded', 'false');
     });
     window.history.pushState({}, "", window.location.pathname);
 });
@@ -1146,22 +1185,53 @@ window.onpopstate = (event) => {
 const aboutBtn = document.getElementById('aboutBtn');
 const aboutModal = document.getElementById('about-modal');
 const closeBtn = document.querySelector('.close-button');
-aboutBtn.addEventListener('click', () => {
-    aboutModal.classList.add('show');
-});
-closeBtn.addEventListener('click', () => {
+let aboutReturnFocus = null;
+let aboutBackground = [];
+function closeAboutModal() {
     aboutModal.classList.remove('show');
+    aboutBackground.forEach(({ element, wasInert }) => { element.inert = wasInert; });
+    aboutBackground = [];
+    if (aboutReturnFocus && !aboutReturnFocus.closest('[inert]')) aboutReturnFocus.focus();
+    else menuToggle.focus();
+}
+aboutBtn.addEventListener('click', () => {
+    aboutReturnFocus = document.activeElement;
+    aboutModal.classList.add('show');
+    aboutBackground = Array.from(document.body.children)
+        .filter(element => element !== aboutModal && element.tagName !== 'SCRIPT')
+        .map(element => ({ element, wasInert: element.inert }));
+    aboutBackground.forEach(({ element }) => { element.inert = true; });
+    closeBtn.focus();
 });
+closeBtn.addEventListener('click', closeAboutModal);
 window.addEventListener('click', (event) => {
     if (event.target == aboutModal) {
-        aboutModal.classList.remove('show');
+        closeAboutModal();
     }
 });
 
 // 鍵盤快捷鍵功能
 document.addEventListener('keydown', (event) => {
+    if (aboutModal.classList.contains('show')) {
+        if (event.key === 'Escape') {
+            event.preventDefault();
+            closeAboutModal();
+        } else if (event.key === 'Tab') {
+            const focusable = Array.from(aboutModal.querySelectorAll('button, a[href]'));
+            const first = focusable[0];
+            const last = focusable[focusable.length - 1];
+            if (event.shiftKey && document.activeElement === first) {
+                event.preventDefault();
+                last.focus();
+            } else if (!event.shiftKey && document.activeElement === last) {
+                event.preventDefault();
+                first.focus();
+            }
+        }
+        return;
+    }
     // 當焦點在輸入框時 不觸發快捷鍵 避免干擾打字
-    if (document.activeElement.tagName === 'INPUT' || document.activeElement.tagName === 'TEXTAREA') {
+    if (document.activeElement.matches('input, textarea, select, [contenteditable="true"]')) {
         return;
     }
 
@@ -1175,10 +1245,7 @@ document.addEventListener('keydown', (event) => {
             document.getElementById('nextDay').click();
             break;
         case 'Escape': // Esc鍵
-            if (aboutModal.classList.contains('show')) {
-                aboutModal.classList.remove('show');
-            }
-            else if (sidebar.classList.contains('open')) {
+            if (sidebar.classList.contains('open')) {
                 sidebar.classList.remove('open');
             }
             break;
@@ -1767,6 +1834,9 @@ function showFavoritesPage(skipPush = false) {
     }
 
     document.querySelectorAll(".day-item.selected").forEach(el => el.classList.remove("selected"));
+    monthList.querySelectorAll('.day-item button[aria-current]').forEach(button => {
+        button.removeAttribute('aria-current');
+    });
     sidebar.classList.remove("open");
 }
 
