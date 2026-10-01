@@ -1,9 +1,74 @@
+(() => {
+'use strict';
+
+function startApplication() {
+const dom = Object.fromEntries([
+    'sidebar',
+    'content',
+    'monthList',
+    'dashboard',
+    'totalRecords',
+    'activeDays',
+    'mostActiveMonth',
+    'averagePerDay',
+    'heatmap',
+    'year-filter',
+    'dashboardBtn',
+    'trend-chart',
+    'wordcloud-canvas',
+    'searchInput',
+    'searchBtn',
+    'prevDay',
+    'nextDay',
+    'randomBtn',
+    'shareBtn',
+    'theme-toggle',
+    'homeBtn',
+    'aboutBtn',
+    'about-modal',
+    'backToTopBtn',
+    'quizBtn',
+    'quiz-container',
+    'quiz-setup-view',
+    'quiz-game-view',
+    'quiz-results-view',
+    'quiz-progress',
+    'quiz-score',
+    'quiz-question',
+    'quiz-options',
+    'quiz-feedback',
+    'final-score',
+    'play-again-btn',
+    'return-home-btn',
+    'quiz-review-area',
+    'clozeBtn',
+    'cloze-container',
+    'cloze-setup-view',
+    'cloze-game-view',
+    'cloze-results-view',
+    'cloze-progress',
+    'cloze-score',
+    'cloze-question',
+    'cloze-options',
+    'cloze-feedback',
+    'cloze-final-score',
+    'cloze-play-again-btn',
+    'cloze-return-home-btn',
+    'cloze-review-area',
+    'favoritesBtn'
+].map(id => [id, document.getElementById(id)]));
+const missingElements = Object.keys(dom).filter(id => !dom[id]);
+if (missingElements.length || typeof records === 'undefined') {
+    console.error('網站初始化失敗：缺少必要元素或 records 資料', missingElements);
+    return;
+}
+
 // DOM 元素和狀態
-const sidebar = document.getElementById("sidebar");
-const contentDiv = document.getElementById("content");
-const monthList = document.getElementById("monthList");
+const sidebar = dom['sidebar'];
+const contentDiv = dom['content'];
+const monthList = dom['monthList'];
 const menuToggle = document.querySelector(".menu-toggle");
-const dashboard = document.getElementById("dashboard");
+const dashboard = dom['dashboard'];
 
 const config = {
     quiz: {
@@ -19,51 +84,78 @@ const config = {
 };
 
 const FAVORITES_KEY = 'chan_hsu_favorites';
+const viewState = { name: 'main', month: null, day: null, search: null, favoritesSort: 'added' };
+const speechState = { speaking: false, paused: false, utterance: null };
+const timers = { content: null, wordcloud: null, quiz: null, cloze: null };
+let favoritesCache = null;
+let trendChartInstance = null;
+let uniqueYears = [];
+
+function readStoredValue(key) {
+    try { return localStorage.getItem(key); }
+    catch (error) { console.warn('無法讀取本機儲存資料', error); return null; }
+}
+function writeStoredValue(key, value) {
+    try { localStorage.setItem(key, value); return true; }
+    catch (error) { console.warn('無法儲存資料；本次操作仍保留在記憶體中', error); return false; }
+}
 function getFavorites() {
-    return JSON.parse(localStorage.getItem(FAVORITES_KEY)) || [];
+    if (favoritesCache === null) {
+        try {
+            const stored = JSON.parse(readStoredValue(FAVORITES_KEY) || '[]');
+            favoritesCache = Array.isArray(stored)
+                ? stored.filter(id => typeof id === 'string' && /^\d{1,2}-\d{1,2}-\d+$/.test(id)) : [];
+        } catch (error) {
+            console.warn('收藏資料格式不正確，使用空收藏清單', error);
+            favoritesCache = [];
+        }
+    }
+    return [...favoritesCache];
 }
 function saveFavorites(favorites) {
-    localStorage.setItem(FAVORITES_KEY, JSON.stringify(favorites));
-}
-function isFavorite(recordId) {
-    return getFavorites().includes(recordId);
+    favoritesCache = [...favorites];
+    writeStoredValue(FAVORITES_KEY, JSON.stringify(favoritesCache));
 }
 function toggleFavorite(recordId) {
-    let favorites = getFavorites();
-    if (favorites.includes(recordId)) {
-        favorites = favorites.filter(id => id !== recordId);
-    } else {
-        favorites.push(recordId);
-    }
-    saveFavorites(favorites);
-    return favorites.includes(recordId);
+    const favorites = getFavorites();
+    const wasFavorite = favorites.includes(recordId);
+    saveFavorites(wasFavorite ? favorites.filter(id => id !== recordId) : [...favorites, recordId]);
+    return !wasFavorite;
+}
+function getRecordById(recordId) {
+    const [month, day, index] = recordId.split('-');
+    return getDayRecords(month, day)[index] || null;
 }
 function pruneInvalidFavorites() {
-    let favorites = getFavorites();
-    if (favorites.length === 0) return;
-    const validFavorites = favorites.filter(recordId => {
-        const [month, day, index] = recordId.split('-');
-        return records[month] && records[month][day] && records[month][day][index];
-    });
-    if (validFavorites.length !== favorites.length) {
-        console.log(`清除了 ${favorites.length - validFavorites.length} 筆失效的收藏記錄`);
-        saveFavorites(validFavorites);
-    }
+    const favorites = getFavorites();
+    const validFavorites = favorites.filter(id => getRecordById(id));
+    if (validFavorites.length !== favorites.length) saveFavorites(validFavorites);
 }
-
-let currentMonth = null;
-let currentDay = null;
-let currentSearch = null;
-let showingDashboard = false;
-let isSpeaking = false;
-let isPaused = false;
-let uniqueYears = [];
-let trendChartInstance = null;
-let favoritesSortOrder = 'added';
+function clearTimer(name) {
+    clearTimeout(timers[name]);
+    timers[name] = null;
+}
+function stopSpeech() {
+    const previous = speechState.utterance;
+    speechState.utterance = null;
+    if (previous) previous.onstart = previous.onpause = previous.onresume = previous.onend = previous.onerror = null;
+    if ('speechSynthesis' in window) window.speechSynthesis.cancel();
+    speechState.speaking = false;
+    speechState.paused = false;
+    const button = document.getElementById('tts-button');
+    if (button) button.textContent = '▶️ 朗讀';
+}
 
 // 統一管理主要畫面的顯示狀態
 function showView(viewName) {
-    window.speechSynthesis.cancel();
+    stopSpeech();
+    clearTimer('content');
+    contentDiv.classList.remove('fade-out');
+    if (viewName !== 'dashboard') clearTimer('wordcloud');
+    if (viewName !== 'quiz') clearTimer('quiz');
+    if (viewName !== 'cloze') clearTimer('cloze');
+    viewState.name = viewName;
+    dom['dashboardBtn'].textContent = viewName === 'dashboard' ? '返回記錄' : '統計儀表板';
     contentDiv.style.display = 'none';
     sidebar.style.display = 'none';
     dashboard.classList.remove('active');
@@ -84,16 +176,54 @@ function showView(viewName) {
 }
 
 // 帶有淡入淡出效果的內容更新函數
-function updateContentWithFade(newHTML, callback) {
+function updateContentWithFade(content, callback) {
+    clearTimer('content');
     contentDiv.classList.add('fade-out');
-    setTimeout(() => {
-        contentDiv.innerHTML = newHTML;
+    timers.content = setTimeout(() => {
+        timers.content = null;
+        contentDiv.replaceChildren(content);
         contentDiv.scrollTop = 0;
         contentDiv.classList.remove('fade-out');
-        if (callback) {
-          callback();
-        }
+        if (callback) callback();
     }, 200);
+}
+const yearRegex = /^(\d{4})年/;
+const dateRegex = /^\d{4}年\d{1,2}月\d{1,2}日\s*/;
+function getRecordYear(record) {
+    const match = String(record.label || '').match(yearRegex);
+    return match ? match[1] : null;
+}
+function getDayRecords(month, day) {
+    const list = records[month] && records[month][day];
+    return Array.isArray(list) ? list : [];
+}
+function getAllRecords() {
+    const result = [];
+    for (const month of Object.keys(records)) {
+        for (const day of Object.keys(records[month] || {})) {
+            getDayRecords(month, day).forEach((record, index) => {
+                result.push({ ...record, month, day, index, year: getRecordYear(record) });
+            });
+        }
+    }
+    return result;
+}
+let recordIndex = [];
+let dayItems = [];
+function recordsForYear(year) {
+    return year === 'all' ? recordIndex : recordIndex.filter(record => record.year === String(year));
+}
+function groupRecordsByYear(list) {
+    const groups = {};
+    list.forEach((item, index) => {
+        const year = getRecordYear(item) || '未知年份';
+        (groups[year] ||= []).push({ item, index });
+    });
+    return groups;
+}
+function pushRoute(parameters = {}) {
+    const query = new URLSearchParams(parameters).toString();
+    window.history.pushState(parameters, '', location.pathname + (query ? '?' + query : ''));
 }
 
 // 圖片檢測正則式
@@ -101,63 +231,41 @@ const imgRe = /\.(jpe?g|png|gif|webp|bmp|svg)$/i;
 
 // 統計計算函數
 function calculateStats(selectedYear = 'all') {
-    let totalRecords = 0, activeDays = 0, maxCount = 0;
-    let mostActiveMonth = '-';
-    let monthCounts = {};
-    const yearRegex = /^(\d{4})年/;
-
-    for (const m in records) {
-        for (const d in records[m]) {              
-            if (Array.isArray(records[m][d]) && records[m][d].length > 0) {
-                let dayHasValidRecord = false;                 
-                records[m][d].forEach(record => {
-                    let yearMatch = record.label.match(yearRegex);
-                    let recordYear = yearMatch ? yearMatch[1] : null;
-                    if (selectedYear === 'all' || selectedYear === recordYear) {
-                        totalRecords++;
-                        monthCounts[m] = (monthCounts[m] || 0) + 1;
-                        dayHasValidRecord = true;
-                    }
-                });
-                if (dayHasValidRecord) {
-                      activeDays++;
-                }
-            }
+    const selectedRecords = recordsForYear(selectedYear);
+    const days = new Set();
+    const monthCounts = {};
+    selectedRecords.forEach(record => {
+        days.add(record.month + '-' + record.day);
+        monthCounts[record.month] = (monthCounts[record.month] || 0) + 1;
+    });
+    let mostActiveMonth = '-', maxCount = 0;
+    for (const month of Object.keys(monthCounts)) {
+        if (monthCounts[month] > maxCount) {
+            maxCount = monthCounts[month];
+            mostActiveMonth = month;
         }
     }
-
-    for (const m in monthCounts) {
-        if (monthCounts[m] > maxCount) {
-            maxCount = monthCounts[m];
-            mostActiveMonth = m;
-        }
-    }
-    
-    return {
-        totalRecords,
-        activeDays,
-        mostActiveMonth,
-        averagePerDay: activeDays > 0 ? (totalRecords / activeDays).toFixed(1) : 0
-    };
+    return { totalRecords: selectedRecords.length, activeDays: days.size, mostActiveMonth,
+        averagePerDay: days.size ? (selectedRecords.length / days.size).toFixed(1) : 0 };
 }
 
 // 更新統計儀表板
 function updateDashboard(selectedYear = 'all') {
     const stats = calculateStats(selectedYear);
-    document.getElementById('totalRecords').textContent = stats.totalRecords;
-    document.getElementById('activeDays').textContent = stats.activeDays;
-    document.getElementById('mostActiveMonth').textContent = stats.mostActiveMonth;
-    document.getElementById('averagePerDay').textContent = stats.averagePerDay;
+    dom['totalRecords'].textContent = stats.totalRecords;
+    dom['activeDays'].textContent = stats.activeDays;
+    dom['mostActiveMonth'].textContent = stats.mostActiveMonth;
+    dom['averagePerDay'].textContent = stats.averagePerDay;
 }
 
 // 創建熱力圖
 function createHeatmap(selectedYear = 'all') {
-    const heatmapContainer = document.getElementById('heatmap');
+    const heatmapContainer = dom['heatmap'];
     heatmapContainer.innerHTML = '';
 
     // 如果選擇所有年份 則顯示最新的那一年
-    const targetYear = (selectedYear === 'all' && uniqueYears.length > 0) 
-        ? Math.max(...uniqueYears.map(Number)) 
+    const targetYear = (selectedYear === 'all' && uniqueYears.length > 0)
+        ? Math.max(...uniqueYears.map(Number))
         : Number(selectedYear);
 
     if (!targetYear) {
@@ -165,28 +273,11 @@ function createHeatmap(selectedYear = 'all') {
       return;
     }
 
-    // 計算每日記錄數量
     const dailyCounts = {};
-    const yearRegex = /^(\d{4})年/;
-
-    for (const m in records) {
-        for (const d in records[m]) {
-            if (Array.isArray(records[m][d]) && records[m][d].length > 0) {
-                let dayCount = 0;
-                records[m][d].forEach(record => {
-                    const yearMatch = record.label.match(yearRegex);
-                    const recordYear = yearMatch ? yearMatch[1] : null;
-                    if (String(targetYear) === recordYear) {
-                        dayCount++;
-                    }
-                });
-                if (dayCount > 0) {
-                    const key = `${m}-${d}`;
-                    dailyCounts[key] = dayCount;
-                }
-            }
-        }
-    }
+    recordsForYear(String(targetYear)).forEach(record => {
+        const key = record.month + '-' + record.day;
+        dailyCounts[key] = (dailyCounts[key] || 0) + 1;
+    });
 
     // 找出最大值用於計算等級
     const maxCount = Math.max(1, ...Object.values(dailyCounts));
@@ -221,24 +312,8 @@ function createHeatmap(selectedYear = 'all') {
         dayElement.dataset.month = month;
         dayElement.dataset.day = dayOfMonth;
         dayElement.dataset.count = count;
-        
-        // 添加點擊事件
-        if (count > 0) {
-            dayElement.style.cursor = 'pointer';
-            dayElement.addEventListener('click', () => {
-                showRecords(month, dayOfMonth);
-            });
-            dayElement.addEventListener('mouseenter', (e) => {
-                e.target.style.transform = 'scale(1.3)';
-                e.target.style.zIndex = '10';
-                e.target.style.boxShadow = '0 0 5px rgba(0,0,0,0.3)';
-            });
-            dayElement.addEventListener('mouseleave', (e) => {
-                e.target.style.transform = 'scale(1)';
-                e.target.style.zIndex = '1';
-                e.target.style.boxShadow = 'none';
-            });
-        }
+
+        if (count > 0) dayElement.style.cursor = 'pointer';
 
         heatmapContainer.appendChild(dayElement);
     }
@@ -246,18 +321,11 @@ function createHeatmap(selectedYear = 'all') {
 
 // 顯示/隱藏統計儀表板
 function toggleDashboard() {
-    showingDashboard = !showingDashboard;
-    if (showingDashboard) {
-        showView('dashboard');
-        populateYearFilter();
-        if (!trendChartInstance) createTrendChart();          
-        const selectedYear = document.getElementById('year-filter').value;
-        refreshDashboard(selectedYear);          
-        document.getElementById('dashboardBtn').textContent = '返回記錄';
-    } else {
-        showView('main');
-        document.getElementById('dashboardBtn').textContent = '統計儀表板';
-    }
+    if (viewState.name === 'dashboard') { showView('main'); return; }
+    showView('dashboard');
+    populateYearFilter();
+    if (!trendChartInstance) createTrendChart();
+    refreshDashboard(dom['year-filter'].value);
 }
 
 // 建立左側月份/日期清單(只列出有資料的日期)
@@ -267,6 +335,7 @@ function buildMonthList() {
         const mStr = String(m);
         const monthItem = document.createElement("li");
         monthItem.className = "month-item";
+        monthItem.dataset.month = mStr;
         const monthButton = document.createElement('button');
         monthButton.type = 'button';
         monthButton.className = 'date-navigation-button';
@@ -277,7 +346,7 @@ function buildMonthList() {
         // 挑出此月份有實際內容(length>0)的日期
         const daysObj = records[mStr] || {};
         const daysWithData = Object.keys(daysObj).filter(d => Array.isArray(daysObj[d]) && daysObj[d].length > 0)
-                          .sort((a,b)=> Number(a) - Number(b));                          
+                          .sort((a,b)=> Number(a) - Number(b));
         if (daysWithData.length === 0) {
             continue;
         }
@@ -299,67 +368,68 @@ function buildMonthList() {
             dayItem.dataset.month = mStr;
             dayItem.dataset.day = String(d);
             dayItem.classList.add("day-item");
-            dayItem.addEventListener("click", (e) => {
-                e.stopPropagation();
-                document.querySelectorAll(".day-item.selected").forEach(el => el.classList.remove("selected"));
-                dayItem.classList.add("selected");
-                showRecords(m, d);
-            });
-            dayList.appendChild(dayItem);
-        });
 
-        monthItem.addEventListener("click", () => {
-            const isOpen = dayList.classList.toggle("open");
-            dayList.inert = !isOpen;
-            monthButton.setAttribute('aria-expanded', String(isOpen));
+            dayList.appendChild(dayItem);
         });
 
         monthItem.appendChild(dayList);
         monthList.appendChild(monthItem);
     }
+    dayItems = Array.from(monthList.querySelectorAll('.day-item'));
 }
 
-function _createRecordContent(item) {
-    const contentWrapper = document.createElement("div");
-    contentWrapper.className = "record-content";
-
-    if (item.type === "text") {
-        const p = document.createElement("p");
-        p.innerHTML = item.content;
-        contentWrapper.appendChild(p);
-    } else if (item.type === "link") {
-        const url = item.content || "";
-        const label = item.label || url;
-
-        // 若為圖片直連 直接顯示圖片
+function appendHighlightedText(element, text, keyword = '') {
+    const value = String(text || '');
+    if (!keyword) { element.textContent = value; return; }
+    const safeKeyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const regex = new RegExp(safeKeyword, 'gi');
+    let start = 0;
+    for (const match of value.matchAll(regex)) {
+        element.appendChild(document.createTextNode(value.slice(start, match.index)));
+        const mark = document.createElement('mark');
+        mark.textContent = match[0];
+        element.appendChild(mark);
+        start = match.index + match[0].length;
+    }
+    element.appendChild(document.createTextNode(value.slice(start)));
+}
+function createRecordContent(item, keyword = '') {
+    const wrapper = document.createElement('div');
+    wrapper.className = 'record-content';
+    if (item.type === 'text') {
+        // Existing text records may contain intentional HTML; keep this legacy format.
+        const paragraph = document.createElement('p');
+        paragraph.innerHTML = item.content || '';
+        wrapper.appendChild(paragraph);
+    } else if (item.type === 'link') {
+        const url = item.content || '', label = item.label || url;
         if (imgRe.test(url)) {
-            const img = document.createElement("img");
-            img.src = url;
-            img.alt = item.label;
-            contentWrapper.appendChild(img);
+            const image = document.createElement('img');
+            image.src = url;
+            image.alt = item.label || '';
+            wrapper.appendChild(image);
             if (label) {
-                const cap = document.createElement("p");
-                cap.innerHTML = label;
-                contentWrapper.appendChild(cap);
+                const caption = document.createElement('p');
+                appendHighlightedText(caption, label, keyword);
+                wrapper.appendChild(caption);
             }
         } else {
-            // 一般連結 使用 <a> 並用 textContent 以避免 raw HTML 注入
-            const a = document.createElement("a");
-            a.href = url;
-            a.target = "_blank";
-            a.rel = "noopener";
-            a.innerHTML = label;
-            contentWrapper.appendChild(a);
+            const link = document.createElement('a');
+            link.href = url;
+            link.target = '_blank';
+            link.rel = 'noopener';
+            appendHighlightedText(link, label, keyword);
+            wrapper.appendChild(link);
         }
     }
-    return contentWrapper;
+    return wrapper;
 }
 
-function createRecordElement(item, recordId, context = 'default') {
+function createRecordElement(item, recordId, context = 'default', keyword = '', favorites = new Set(getFavorites())) {
     const mainDiv = document.createElement("div");
     mainDiv.className = "record";
 
-    const contentWrapper = _createRecordContent(item)
+    const contentWrapper = createRecordContent(item, keyword);
 
     if (context === 'favorites' && recordId) {
         const [month, day] = recordId.split('-').map(Number);
@@ -368,20 +438,20 @@ function createRecordElement(item, recordId, context = 'default') {
         const link = document.createElement('a');
         link.href = '#';
         link.textContent = `查看 ${month}月${day}日 全部記錄 →`;
-        link.addEventListener('click', (e) => {
-            e.preventDefault();
-            e.stopPropagation();
-            showRecords(month, day);
-        });
+        link.dataset.month = month;
+        link.dataset.day = day;
+        link.dataset.navigateDate = 'true';
+
         linkContainer.appendChild(link);
         contentWrapper.appendChild(linkContainer);
     }
 
     const favButton = document.createElement('button');
+    favButton.type = 'button';
     favButton.className = 'favorite-btn';
     favButton.dataset.recordId = recordId;
     favButton.title = '點擊以收藏/取消收藏';
-    favButton.textContent = isFavorite(recordId) ? '❤️' : '🤍';
+    favButton.textContent = favorites.has(recordId) ? '❤️' : '🤍';
 
     mainDiv.appendChild(contentWrapper);
     if (recordId) {
@@ -391,212 +461,84 @@ function createRecordElement(item, recordId, context = 'default') {
 }
 
 // 顯示記錄(日期頁面)
-function showRecords(month, day, skipPush = false) {
-    window.speechSynthesis.cancel();
-    showView('main');
-
-    // 隱藏儀表板
-    if (showingDashboard) {
-        showingDashboard = false;
-        dashboard.classList.remove('active');
-        document.getElementById('dashboardBtn').textContent = '統計儀表板';
+function createDatePage(month, day) {
+    const list = getDayRecords(month, day);
+    const groups = groupRecordsByYear(list);
+    const favorites = new Set(getFavorites());
+    const page = document.createElement('div');
+    const header = document.createElement('div');
+    header.className = 'page-header';
+    const title = document.createElement('h2');
+    title.textContent = month + '月' + day + '日 展旭記錄';
+    header.appendChild(title);
+    if (list.length) {
+        const button = document.createElement('button');
+        button.type = 'button'; button.id = 'tts-button'; button.title = '朗讀本頁內容';
+        button.textContent = '▶️ 朗讀'; header.appendChild(button);
     }
-
-    const monthStr = String(month);
-    const dayStr = String(day);
-    currentMonth = monthStr;
-    currentDay = dayStr;
-    currentSearch = null;
-
-    const list = (records[monthStr] && Array.isArray(records[monthStr][dayStr])) ? records[monthStr][dayStr] : null;
-
-    // --- 1. 按年份對記錄進行分組 ---
-    const recordsByYear = {};
-    const yearRegex = /^(\d{4})年/;
-    if (list) {
-        list.forEach(item => {
-            const yearMatch = item.label.match(yearRegex);
-            const year = yearMatch ? yearMatch[1] : '未知年份';
-            if (!recordsByYear[year]) {
-                recordsByYear[year] = [];
-            }
-            recordsByYear[year].push(item);
+    page.appendChild(header);
+    if (Object.keys(groups).length > 1) {
+        const timeline = document.createElement('div');
+        timeline.className = 'timeline-view-container';
+        const track = document.createElement('div'); track.className = 'timeline-track';
+        Object.keys(groups).sort((a, b) => a - b).forEach(year => {
+            const card = document.createElement('div'); card.className = 'timeline-year-card';
+            const heading = document.createElement('h3'); heading.textContent = year + '年'; card.appendChild(heading);
+            groups[year].forEach(({ item, index }) => card.appendChild(createRecordElement(item, month + '-' + day + '-' + index, 'default', '', favorites)));
+            track.appendChild(card);
         });
-    }
-    const yearCount = Object.keys(recordsByYear).length;
-
-    // --- 2. 準備頁首 標題和朗讀按鈕 ---
-    let pageHeaderHTML = `
-      <div class="page-header">
-        <h2>${monthStr}月${dayStr}日 展旭記錄</h2>
-    `;
-    if (list && list.length > 0) {
-        pageHeaderHTML += `<button id="tts-button" title="朗讀本頁內容">▶️ 朗讀</button>`;
-    }
-    pageHeaderHTML += `</div>`;
-
-    let newContentHTML = pageHeaderHTML;
-
-    // --- 3. 智慧渲染 根據年份數量選擇視圖 ---
-    if (yearCount > 1) {
-        // **渲染橫向時間軸視圖**
-        newContentHTML += '<div class="timeline-view-container"><div class="timeline-track">';        
-        const sortedYears = Object.keys(recordsByYear).sort((a, b) => a - b);
-        sortedYears.forEach(year => {
-            newContentHTML += `<div class="timeline-year-card"><h3>${year}年</h3>`;
-            recordsByYear[year].forEach((item, index) => {
-                const originalIndex = list.indexOf(item);
-                const recordId = `${monthStr}-${dayStr}-${originalIndex}`;
-                newContentHTML += createRecordElement(item, recordId).outerHTML;
-            });
-            newContentHTML += `</div>`;
-        });
-        newContentHTML += '</div></div>';
+        timeline.appendChild(track); page.appendChild(timeline);
+    } else if (list.length) {
+        list.forEach((item, index) => page.appendChild(createRecordElement(item, month + '-' + day + '-' + index, 'default', '', favorites)));
     } else {
-        // **渲染預設的垂直列表視圖**
-        if (!list || list.length === 0) {
-            newContentHTML += "<p>此日期尚無記錄</p>";
-        } else {
-            list.forEach((item, index) => {
-                const recordId = `${monthStr}-${dayStr}-${index}`;
-                newContentHTML += createRecordElement(item, recordId).outerHTML;
-            });
-        }
+        const message = document.createElement('p'); message.textContent = '此日期尚無記錄'; page.appendChild(message);
     }
-
-    // --- 4. 附加維基百科連結 ---
-    const wikiLinkContainer = document.createElement('div');
-    wikiLinkContainer.style.marginTop = '30px';
-    wikiLinkContainer.className = 'external-link-section';
-    wikiLinkContainer.innerHTML = `
-        <h3>看看真實世界的這一天</h3>
-        <p>
-          <a href="https://zh.wikipedia.org/wiki/${month}月${day}日" target="_blank" rel="noopener">
-            點擊查看維基百科上「${month}月${day}日」發生的大事
-          </a>
-        </p>
-    `;
-    newContentHTML += wikiLinkContainer.outerHTML;
-
-    // --- 5. 更新畫面並綁定事件 ---
-    updateContentWithFade(newContentHTML, () => {
-        const ttsButton = document.getElementById('tts-button');
-        if (ttsButton) {
-            ttsButton.addEventListener('click', handleTTSClick);
-        }
-    });
-
-     // --- 6. 更新網址和側邊欄高亮 ---
-    if (!skipPush) {
-        const params = new URLSearchParams();
-        params.set("month", monthStr);
-        params.set("day", dayStr);
-        const newUrl = `${location.origin}${location.pathname}?${params.toString()}`;
-        window.history.pushState({ month: monthStr, day: dayStr }, "", newUrl);
-    }    
-    highlightSidebar(monthStr, dayStr);
-    sidebar.classList.remove("open");
+    const wiki = document.createElement('div'); wiki.className = 'external-link-section'; wiki.style.marginTop = '30px';
+    const heading = document.createElement('h3'); heading.textContent = '看看真實世界的這一天';
+    const paragraph = document.createElement('p'), link = document.createElement('a');
+    link.href = 'https://zh.wikipedia.org/wiki/' + month + '月' + day + '日';
+    link.target = '_blank'; link.rel = 'noopener';
+    link.textContent = '點擊查看維基百科上「' + month + '月' + day + '日」發生的大事';
+    paragraph.appendChild(link); wiki.append(heading, paragraph); page.appendChild(wiki);
+    return page;
 }
-
-function highlightText(text, keyword) {
-    if (!keyword || !text) {
-        return text;
-    }
-    const safeKeyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    const regex = new RegExp(safeKeyword, 'gi');
-    return text.replace(regex, (match) => `<mark>${match}</mark>`);
+function showRecords(month, day, skipPush = false) {
+    showView('main');
+    viewState.month = String(month); viewState.day = String(day); viewState.search = null;
+    updateContentWithFade(createDatePage(viewState.month, viewState.day));
+    if (!skipPush) pushRoute({ month: viewState.month, day: viewState.day });
+    highlightSidebar(viewState.month, viewState.day);
+    sidebar.classList.remove('open');
 }
 
 // 搜尋功能 結果中的日期可點回到該日
+function createSearchPage(keyword) {
+    const container = document.createElement('div');
+    const title = document.createElement('h2'); title.textContent = '搜尋結果：「' + keyword + '」';
+    container.appendChild(title);
+    const lower = keyword.toLowerCase(), favorites = new Set(getFavorites());
+    const matches = recordIndex.filter(record => String(record.label || '').toLowerCase().includes(lower) || String(record.content || '').toLowerCase().includes(lower));
+    matches.forEach(record => {
+        const item = document.createElement('div'); item.className = 'search-result-item';
+        const link = document.createElement('a'); link.href = '#'; link.className = 'search-result-date';
+        link.textContent = record.month + '月' + record.day + '日';
+        link.dataset.navigateDate = 'true'; link.dataset.month = record.month; link.dataset.day = record.day;
+        item.append(link, createRecordElement(record, record.month + '-' + record.day + '-' + record.index, 'default', keyword, favorites));
+        container.appendChild(item);
+    });
+    if (!matches.length) {
+        const message = document.createElement('p'); message.textContent = '查無符合的記錄'; container.appendChild(message);
+    }
+    return container;
+}
 function searchRecords(keyword, skipPush = false) {
-    window.speechSynthesis.cancel();
+    const value = String(keyword || '').trim();
+    if (!value) return;
     showView('main');
-    
-    const kw = String(keyword || "").trim();
-    if (!kw) return;
-
-    // 隱藏儀表板
-    if (showingDashboard) {
-        showingDashboard = false;
-        dashboard.classList.remove('active');
-        document.getElementById('dashboardBtn').textContent = '統計儀表板';
-    }
-
-    currentMonth = null;
-    currentDay = null;
-    currentSearch = kw;
-
-    const resultContainer = document.createElement('div');
-    const title = document.createElement('h2');
-    title.textContent = `搜尋結果：「${kw}」`;
-    resultContainer.appendChild(title);
-
-    let found = false;
-    const lower = kw.toLowerCase();
-
-    for (let m in records) {
-        for (let d in records[m]) {
-            const arr = records[m][d];
-            if (!Array.isArray(arr) || arr.length === 0) continue;
-
-            arr.forEach((item, index) => {
-                const label = item.label || "";
-                const content = item.content || "";
-                if ((label && label.toLowerCase().includes(lower)) || (content && content.toLowerCase().includes(lower))) {
-                    found = true;
-                    const recordId = `${m}-${d}-${index}`
-
-                    const resultItem = document.createElement("div");
-                    resultItem.className = "search-result-item";
-
-                    // 可點的日期連結 點擊會跳到該日期並更新URL
-                    const dateLink = document.createElement("a");
-                    dateLink.href = "#";
-                    dateLink.className = "search-result-date";
-                    dateLink.textContent = `${m}月${d}日`;
-                    dateLink.addEventListener("click", (e) => {
-                        e.preventDefault();
-                        showRecords(m, d);
-                    });
-
-                    // 建立一個新的item物件 其label經過高亮處理
-                    const highlightedItem = {
-                        ...item,
-                        label: highlightText(item.label, kw) 
-                    };
-                    const recordElement = createRecordElement(highlightedItem, recordId);
-
-                    resultItem.appendChild(dateLink);
-                    resultItem.appendChild(recordElement);          
-                    resultContainer.appendChild(resultItem);
-                }
-            });
-        }
-    }
-
-    if (!found) {
-        const noResult = document.createElement('p');
-        noResult.textContent = '查無符合的記錄';
-        resultContainer.appendChild(noResult);
-    }
-
-    contentDiv.classList.add('fade-out');
-    setTimeout(() => {
-        contentDiv.innerHTML = '';
-        contentDiv.appendChild(resultContainer);
-        contentDiv.scrollTop = 0;
-        contentDiv.classList.remove('fade-out');
-    }, 200);
-
-    // 更新網址(絕對URL)
-    if (!skipPush) {
-        const params = new URLSearchParams();
-        params.set("search", kw);
-        const newUrl = `${location.origin}${location.pathname}?${params.toString()}`;
-        window.history.pushState({ search: kw }, "", newUrl);
-    }
-
-    sidebar.classList.remove("open");
+    viewState.month = viewState.day = null; viewState.search = value;
+    updateContentWithFade(createSearchPage(value));
+    if (!skipPush) pushRoute({ search: value });
+    sidebar.classList.remove('open');
 }
 
 // 隨機功能(只在有資料的日期中挑)
@@ -619,10 +561,10 @@ async function shareCurrentView() {
 
     if (urlParams.get('view') === 'favorites') {
         shareUrl = `${location.origin}${location.pathname}?view=favorites`;
-    } else if (currentSearch) {
-        shareUrl = `${location.origin}${location.pathname}?search=${encodeURIComponent(currentSearch)}`;
-    } else if (currentMonth && currentDay) {
-        shareUrl = `${location.origin}${location.pathname}?month=${encodeURIComponent(currentMonth)}&day=${encodeURIComponent(currentDay)}`;
+    } else if (viewState.search) {
+        shareUrl = `${location.origin}${location.pathname}?search=${encodeURIComponent(viewState.search)}`;
+    } else if (viewState.month && viewState.day) {
+        shareUrl = `${location.origin}${location.pathname}?month=${encodeURIComponent(viewState.month)}&day=${encodeURIComponent(viewState.day)}`;
     } else {
         shareUrl = window.location.href;
     }
@@ -646,7 +588,7 @@ async function shareCurrentView() {
 }
 
 // sidebar highlight
-function highlightSidebar(monthStr, dayStr) {
+function clearSidebarSelection() {
     monthList.querySelectorAll('.day-item button[aria-current]').forEach(button => {
         button.removeAttribute('aria-current');
     });
@@ -654,6 +596,9 @@ function highlightSidebar(monthStr, dayStr) {
     prev.forEach(n => {
         n.classList.remove("selected");
     });
+}
+function highlightSidebar(monthStr, dayStr) {
+    clearSidebarSelection();
     const selector = `.day-item[data-month="${monthStr}"][data-day="${dayStr}"]`;
     const now = monthList.querySelector(selector);
     if (now) {
@@ -664,132 +609,81 @@ function highlightSidebar(monthStr, dayStr) {
 
 // 切換日期的通用函數
 function switchDay(direction) {
-    const days = Array.from(document.querySelectorAll('.day-item'));
-    if (days.length === 0) return;
-
-    const selected = document.querySelector('.day-item.selected');
-    let newIndex = -1;
-
-    if (selected) {
-        // 情況一 目前有選取的日期
-        const currentIndex = days.indexOf(selected);
-        if (currentIndex === -1) return;
-        newIndex = currentIndex + direction;
-
-    } else {
-        // 情況二 目前沒有選取的日期 根據currentMonth和currentDay尋找下一個目標
-        if (!currentMonth || !currentDay) return;
-        const currentDateValue = parseInt(currentMonth) * 100 + parseInt(currentDay);
-
-        if (direction === 1) {
-            // 尋找後一日
-            for (let i = 0; i < days.length; i++) {
-                const dayValue = parseInt(days[i].dataset.month) * 100 + parseInt(days[i].dataset.day);
-                if (dayValue > currentDateValue) {
-                    newIndex = i;
-                    break;
-              }
-            }
-        } else {
-            // 尋找前一日
-            for (let i = days.length - 1; i >= 0; i--) {
-                const dayValue = parseInt(days[i].dataset.month) * 100 + parseInt(days[i].dataset.day);
-                if (dayValue < currentDateValue) {
-                    newIndex = i;
-                    break;
-              }
-            }
-        }
+    if (!dayItems.length) return;
+    const selected = monthList.querySelector('.day-item.selected');
+    let nextIndex;
+    if (selected) nextIndex = dayItems.indexOf(selected) + direction;
+    else {
+        if (!viewState.month || !viewState.day) return;
+        const current = Number(viewState.month) * 100 + Number(viewState.day);
+        const ordered = direction === 1 ? dayItems : [...dayItems].reverse();
+        const target = ordered.find(item => {
+            const date = Number(item.dataset.month) * 100 + Number(item.dataset.day);
+            return direction === 1 ? date > current : date < current;
+        });
+        nextIndex = dayItems.indexOf(target);
     }
-
-    // 檢查計算出的 newIndex 是否在有效範圍內
-    if (newIndex < 0 || newIndex >= days.length) {
-        return;
-    }
-
-    // 移除舊的 selected class
-    if (selected) {
-        selected.classList.remove('selected');
-    }
-
-    // 取得新的目標日期元素並觸發點擊
-    const newDay = days[newIndex];
-    newDay.classList.add('selected');
-    newDay.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-    newDay.click();
+    if (nextIndex < 0 || nextIndex >= dayItems.length) return;
+    const next = dayItems[nextIndex];
+    next.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    showRecords(next.dataset.month, next.dataset.day);
 }
 
 // 繪製年度趨勢圖
 function createTrendChart() {
-    if (trendChartInstance) {
-        trendChartInstance.destroy();
-    }
-    const yearRegex = /^(\d{4})年/;
-    const yearData = {};
-
-    // 準備資料
-    for (const m in records) {
-        for (const d in records[m]) {
-            if (Array.isArray(records[m][d]) && records[m][d].length > 0) {
-                records[m][d].forEach(record => {
-                    const yearMatch = record.label.match(yearRegex);
-                    const year = yearMatch ? yearMatch[1] : null;
-                    if (year) {
-                        if (!yearData[year]) {
-                            yearData[year] = Array(12).fill(0);
-                        }
-                        yearData[year][parseInt(m) - 1]++;
-                    }
-                });
-            }
+    if (typeof Chart !== 'function') { console.warn('趨勢圖元件未載入'); return; }
+    try {
+        if (trendChartInstance) {
+            trendChartInstance.destroy();
         }
-    }
+        const yearData = {};
 
-    const colors = ['#e6194b', '#3cb44b', '#ffe119', '#4363d8', '#f58231', '#911eb4', '#46f0f0', '#f032e6', '#bcf60c', '#fabebe'];
-    const datasets = Object.keys(yearData).sort().map((year, index) => ({
-        label: `${year}年`,
-        data: yearData[year],
-        backgroundColor: colors[index % colors.length],
-        borderColor: colors[index % colors.length],
-        tension: 0.1,
-        fill: false,
-    }));
+        recordIndex.forEach(record => {
+            if (!record.year) return;
+            if (!yearData[record.year]) yearData[record.year] = Array(12).fill(0);
+            yearData[record.year][Number(record.month) - 1]++;
+        });
 
-    const ctx = document.getElementById('trend-chart').getContext('2d');
-    trendChartInstance = new Chart(ctx, {
-        type: 'line',
-        data: {
-            labels: ['一月', '二月', '三月', '四月', '五月', '六月', '七月', '八月', '九月', '十月', '十一月', '十二月'],
-            datasets: datasets
-        },
-        options: {
-            responsive: true,
-            maintainAspectRatio: false,
-            plugins: {
-                legend: {
-                    position: 'top',
-                },
-                title: {
-                    display: true,
-                    text: '每月記錄數趨勢'
+        const colors = ['#e6194b', '#3cb44b', '#ffe119', '#4363d8', '#f58231', '#911eb4', '#46f0f0', '#f032e6', '#bcf60c', '#fabebe'];
+        const datasets = Object.keys(yearData).sort().map((year, index) => ({
+            label: `${year}年`,
+            data: yearData[year],
+            backgroundColor: colors[index % colors.length],
+            borderColor: colors[index % colors.length],
+            tension: 0.1,
+            fill: false,
+        }));
+
+        const ctx = dom['trend-chart'].getContext('2d');
+        trendChartInstance = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: ['一月', '二月', '三月', '四月', '五月', '六月', '七月', '八月', '九月', '十月', '十一月', '十二月'],
+                datasets: datasets
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'top',
+                    },
+                    title: {
+                        display: true,
+                        text: '每月記錄數趨勢'
+                    }
                 }
             }
-        }
-    });
+        });
+    } catch (error) { trendChartInstance = null; console.warn('無法建立趨勢圖', error); }
 }
 
 // 填充年份篩選器的選項
 function populateYearFilter() {
-    const yearFilter = document.getElementById('year-filter');
+    const yearFilter = dom['year-filter'];
     if (yearFilter.options.length > 1) return;
 
-    const yearRegex = /^(\d{4})年/;
-    const years = new Set();
-    allRecordsFlat.forEach(record => {
-        const yearMatch = record.label.match(yearRegex);
-        if (yearMatch) years.add(yearMatch[1]);
-    });
-
+    const years = new Set(recordIndex.map(record => record.year).filter(Boolean));
     uniqueYears = Array.from(years).sort((a, b) => b - a);
 
     yearFilter.innerHTML = '<option value="all">所有年份</option>';
@@ -808,17 +702,14 @@ function extractChineseWords(text) {
     const words = [];
     const chineseRegex = /[\u4e00-\u9fa5]+/g;
     const chineseTexts = text.match(chineseRegex) || [];
-    
+
     chineseTexts.forEach(chunk => {
         for (let len = 5; len >= 2; len--) {
             for (let i = 0; i <= chunk.length - len; i++) {
                 words.push(chunk.substring(i, i + len));
             }
         }
-        // 也加入單字 但權重會較低
-        for (let i = 0; i < chunk.length; i++) {
-            words.push(chunk[i]);
-        }
+
     });
 
     return words;
@@ -845,7 +736,7 @@ function getStopWords() {
         'a', 'an', 'the', 'and', 'but', 'or', 'in', 'on', 'at', 'to',
         'for', 'of', 'with', 'by', 'from', 'up', 'about', 'into', 'through',
         'during', 'before', 'after', 'above', 'below', 'between', 'under',
-        
+
         // 新增常見無意義詞
         '可以', '可能', '應該', '必須', '需要', '想要', '希望', '覺得',
         '感覺', '認為', '知道', '看到', '聽到', '發現', '變成', '成為',
@@ -860,7 +751,7 @@ function getStopWords() {
         '分別', '另外', '其他', '其它', '別的', '某些', '某個', '這些',
         '那些', '這樣', '那樣', '如此', '這麼', '那麼', '怎麼', '怎樣',
         '為何', '為什麼', '哪裡', '何處', '何時', '什麼時候', '多少',
-        
+
         // 標點和單字
         '、', '，', '。', '！', '？', '：', '；', '「', '」', '『', '』',
         '（', '）', '《', '》', '【', '】', '〈', '〉', '…', '—', '～',
@@ -868,21 +759,21 @@ function getStopWords() {
         '讓', '叫', '要', '會', '能', '該', '將', '再', '又', '才', '都',
         '只', '就', '更', '最', '過', '來', '去', '得', '著', '了', '嗎',
         '呢', '吧', '啊', '呀', '哦', '喔', '唷', '欸', '誒', '耶', '囉',
-        
+
         // 時間相關
         '今天', '明天', '昨天', '前天', '後天', '現在', '剛才', '等等',
         '上午', '下午', '中午', '晚上', '早上', '半夜', '凌晨',
         '今年', '明年', '去年', '前年', '年初', '年底', '年中',
         '這週', '下週', '上週', '本週', '週末', '平日',
         '這月', '下月', '上月', '月初', '月底', '月中',
-        
+
         // 數字和量詞
         '一', '二', '三', '四', '五', '六', '七', '八', '九', '十',
         '個', '位', '名', '次', '回', '遍', '趟', '番', '場', '件',
         '條', '張', '隻', '匹', '頭', '座', '棟', '層', '間', '家',
         '台', '輛', '艘', '架', '枝', '支', '根', '株', '棵', '顆',
         '粒', '滴', '片', '塊', '團', '堆', '群', '批', '套', '副',
-        
+
         // 程度副詞
         '太', '挺', '蠻', '頗', '相當', '十分', '格外', '分外', '異常',
     ]);
@@ -903,287 +794,255 @@ function filterByFrequency(wordCounts, minFreq, maxFreqRatio) {
 }
 
 // 5. 詞雲生成函數
-let wordCloudCreated = false;
+function buildWordCloudList(selectedYear) {
+    const allCleanText = recordsForYear(selectedYear).map(record => String(record.label || '').replace(dateRegex, '').trim()).join(' ');
+
+    if (!allCleanText.trim()) {
+        return { list: [], message: '沒有足夠的資料來產生詞雲' };
+    }
+
+    const stopWords = getStopWords();
+    const wordCounts = {};
+
+    // 提取中文詞組
+    const chineseWords = extractChineseWords(allCleanText);
+    chineseWords.forEach(word => {
+        if (!stopWords.has(word) && word.length >= 2) {
+            wordCounts[word] = (wordCounts[word] || 0) + 1;
+        }
+    });
+
+    // 提取英文單詞
+    const englishWords = extractEnglishWords(allCleanText);
+    englishWords.forEach(word => {
+        const lowerWord = word.toLowerCase();
+        if (!stopWords.has(lowerWord) && lowerWord.length >= 3) {
+            wordCounts[lowerWord] = (wordCounts[lowerWord] || 0) + 1;
+        }
+    });
+
+    // 過濾詞頻
+    const filteredWords = filterByFrequency(wordCounts, 2, 0.2);
+
+    const finalWordCounts = filteredWords;
+
+    // 權重加成
+    const enhancedWords = {};
+    const sortedWordsForBoosting = Object.keys(finalWordCounts).sort((a, b) => b.length - a.length);
+    for (const word of sortedWordsForBoosting) {
+        let boost = 1;
+        if (word.length >= 3 && /^[\u4e00-\u9fa5]+$/.test(word)) {
+            boost = 1.5;
+        }
+        enhancedWords[word] = filteredWords[word] * boost;
+    }
+
+    // 轉換為列表並排序
+    const list = Object.entries(enhancedWords)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 150);
+    if (list.length === 0) {
+        return { list: [], message: '沒有足夠的關鍵字來產生詞雲' };
+    }
+
+    return { list, message: '' };
+}
+function showWordCloudMessage(message) {
+    const paragraph = document.createElement('p'); paragraph.className = 'loading-text'; paragraph.textContent = message;
+    dom['wordcloud-canvas'].replaceChildren(paragraph);
+}
 function createWordCloud(selectedYear = 'all') {
-    const canvas = document.getElementById('wordcloud-canvas');
-    canvas.innerHTML = '<p class="loading-text">正在分析語錄文字，請稍候...</p>';
+    clearTimer('wordcloud');
+    const canvas = dom['wordcloud-canvas'];
+    if (typeof WordCloud !== 'function') { canvas.textContent = '詞雲元件無法載入'; return; }
+    showWordCloudMessage('正在分析語錄文字，請稍候...');
 
-    setTimeout(() => {
-        let allCleanText = '';
-        const dateRegex = /^\d{4}年\d{1,2}月\d{1,2}日\s*/;
-        const yearRegex = /^(\d{4})年/;
-
-        // 收集所有文字
-        for (const m in records) {
-            for (const d in records[m]) {
-                if (Array.isArray(records[m][d]) && records[m][d].length > 0) {
-                    records[m][d].forEach(record => {
-                        const yearMatch = record.label.match(yearRegex);
-                        const recordYear = yearMatch ? yearMatch[1] : null;
-                        if (selectedYear === 'all' || selectedYear === recordYear) {
-                            if (record.label) {
-                                allCleanText += record.label.replace(dateRegex, '').trim() + ' ';
-                            }                              
-                        }
-                    });
+    timers.wordcloud = setTimeout(() => {
+        timers.wordcloud = null;
+        if (viewState.name !== 'dashboard') return;
+        try {
+            const { list, message } = buildWordCloudList(selectedYear);
+            if (!list.length) { showWordCloudMessage(message); return; }
+            WordCloud(canvas, {
+                list: list,
+                gridSize: Math.round(16 * canvas.offsetWidth / 1024),
+                weightFactor: function(size) {
+                    return Math.pow(size, 0.7) * 6;
+                },
+                fontFamily: 'Arial, "Microsoft JhengHei", "PingFang TC", sans-serif',
+                color: function() {
+                    const colors = [
+                        '#e74c3c', '#3498db', '#2ecc71', '#f39c12', '#9b59b6',
+                        '#1abc9c', '#e67e22', '#34495e', '#16a085', '#c0392b'
+                    ];
+                    return colors[Math.floor(Math.random() * colors.length)];
+                },
+                backgroundColor: 'transparent',
+                rotateRatio: 0.3,
+                rotationSteps: 2,
+                minSize: 12,
+                drawOutOfBound: false,
+                shrinkToFit: true,
+                click: function(item) {
+                    // 點擊詞彙時觸發搜尋
+                    dom['searchInput'].value = item[0];
+                    searchRecords(item[0]);
                 }
-            }
-        }
-
-        if (!allCleanText.trim()) {
-            canvas.innerHTML = '<p class="loading-text">沒有足夠的資料來產生詞雲</p>';
-            return;
-        }
-
-        const stopWords = getStopWords();
-        const wordCounts = {};
-
-        // 提取中文詞組
-        const chineseWords = extractChineseWords(allCleanText);
-        chineseWords.forEach(word => {
-            if (!stopWords.has(word) && word.length >= 2) {
-                wordCounts[word] = (wordCounts[word] || 0) + 1;
-            }
-        });
-
-        // 提取英文單詞
-        const englishWords = extractEnglishWords(allCleanText);
-        englishWords.forEach(word => {
-            const lowerWord = word.toLowerCase();
-            if (!stopWords.has(lowerWord) && lowerWord.length >= 3) {
-                wordCounts[lowerWord] = (wordCounts[lowerWord] || 0) + 1;
-            }
-        });
-
-        // 過濾詞頻
-        const filteredWords = filterByFrequency(wordCounts, 2, 0.2);
-
-        // 檢查當前詞彙是否已經被一個更長的詞彙所包含
-        const wordsSortedByLength = Object.keys(filteredWords).sort((a, b) => b.length - a.length);
-        const finalWordCounts = {};
-        let acceptedText = ' ';
-        for (const word of wordsSortedByLength) {            
-            if (!acceptedText.includes(` ${word} `)) {
-                finalWordCounts[word] = filteredWords[word];
-                  acceptedText += word + ' ';
-            }
-        }
-
-        // 權重加成
-        const enhancedWords = {};
-        const sortedWordsForBoosting = Object.keys(finalWordCounts).sort((a, b) => b.length - a.length);        
-        for (const word of sortedWordsForBoosting) {
-            let boost = 1;
-            if (word.length >= 3 && /^[\u4e00-\u9fa5]+$/.test(word)) {
-                boost = 1.5;
-            }
-            enhancedWords[word] = filteredWords[word] * boost;
-        }
-
-        // 轉換為列表並排序
-        const list = Object.entries(enhancedWords)
-            .sort((a, b) => b[1] - a[1])
-            .slice(0, 150);
-        if (list.length === 0) {
-            canvas.innerHTML = '<p class="loading-text">沒有足夠的關鍵字來產生詞雲</p>';
-            return;
-        }
-
-        WordCloud(canvas, {
-            list: list,
-            gridSize: Math.round(16 * canvas.offsetWidth / 1024),
-             weightFactor: function(size) {
-                return Math.pow(size, 0.7) * 6;
-            },
-            fontFamily: 'Arial, "Microsoft JhengHei", "PingFang TC", sans-serif',
-            color: function() {
-                const colors = [
-                    '#e74c3c', '#3498db', '#2ecc71', '#f39c12', '#9b59b6',
-                    '#1abc9c', '#e67e22', '#34495e', '#16a085', '#c0392b'
-                ];
-                return colors[Math.floor(Math.random() * colors.length)];
-            },
-            backgroundColor: 'transparent',
-            rotateRatio: 0.3,
-            rotationSteps: 2,
-            minSize: 12,
-            drawOutOfBound: false,
-            shrinkToFit: true,
-            click: function(item) {
-                // 點擊詞彙時觸發搜尋
-                document.getElementById('searchInput').value = item[0];
-                searchRecords(item[0]);
-            }
-        });
-        wordCloudCreated = true;
+            });
+        } catch (error) { canvas.textContent = '詞雲暫時無法產生'; console.warn('詞雲產生失敗', error); }
     }, 100);
 }
 
 // 刷新整個儀表板的總控制函數
 function refreshDashboard(selectedYear) {
-    wordCloudCreated = false; 
     updateDashboard(selectedYear);
     createHeatmap(selectedYear);
     createWordCloud(selectedYear);
 }
 
-// 事件監聽器設定
-document.getElementById("searchBtn").addEventListener("click", () => {
-    const kw = document.getElementById("searchInput").value.trim();
-    if (kw) searchRecords(kw);
-});
-
-document.getElementById("searchInput").addEventListener("keydown", (e) => {
-    if (e.key === "Enter") {
-        e.preventDefault();
-        const kw = document.getElementById("searchInput").value.trim();
-        if (kw) searchRecords(kw);
-    }
-});
-
-document.getElementById("dashboardBtn").addEventListener("click", toggleDashboard);
-document.getElementById("prevDay").addEventListener("click", function () {switchDay(-1);});
-document.getElementById("nextDay").addEventListener("click", function () {switchDay(1);});
-document.getElementById("randomBtn").addEventListener("click", randomRecord);
-document.getElementById("shareBtn").addEventListener("click", shareCurrentView);
-
-document.getElementById('year-filter').addEventListener('change', (e) => {
-    refreshDashboard(e.target.value);
-});
-
-if (menuToggle) {
-    menuToggle.addEventListener("click", () => sidebar.classList.toggle("open"));
-    const mobileMenu = window.matchMedia('(max-width: 768px)');
-    const syncMenuAccessibility = () => {
-        const isOpen = sidebar.classList.contains('open');
-        menuToggle.setAttribute('aria-expanded', String(isOpen));
-        // 滑出畫面外的手機選單不應留在鍵盤與輔助工具的導覽順序內。
-        const isHidden = mobileMenu.matches && !isOpen;
-        if (isHidden && sidebar.contains(document.activeElement)) menuToggle.focus();
-        sidebar.inert = isHidden;
-    };
-    new MutationObserver(syncMenuAccessibility).observe(sidebar, {
-        attributes: true, attributeFilter: ['class']
+function bindNavigationEvents() {
+    monthList.addEventListener('click', event => {
+        const day = event.target.closest('.day-item');
+        if (day && monthList.contains(day)) { showRecords(day.dataset.month, day.dataset.day); return; }
+        const month = event.target.closest('.month-item');
+        if (!month || !monthList.contains(month)) return;
+        const list = month.querySelector('ul'), button = month.querySelector('.date-navigation-button');
+        const open = list.classList.toggle('open'); list.inert = !open;
+        button.setAttribute('aria-expanded', String(open));
     });
-    mobileMenu.addEventListener('change', syncMenuAccessibility);
-    syncMenuAccessibility();
+    const heatmap = dom['heatmap'];
+    heatmap.addEventListener('click', event => {
+        const day = event.target.closest('.heatmap-day');
+        if (day && Number(day.dataset.count) > 0) showRecords(day.dataset.month, day.dataset.day);
+    });
+    [['mouseover', true], ['mouseout', false]].forEach(([eventName, hovering]) => {
+        heatmap.addEventListener(eventName, event => {
+            const day = event.target.closest('.heatmap-day');
+            if (!day || Number(day.dataset.count) <= 0 || day.contains(event.relatedTarget)) return;
+            day.style.transform = hovering ? 'scale(1.3)' : 'scale(1)';
+            day.style.zIndex = hovering ? '10' : '1';
+            day.style.boxShadow = hovering ? '0 0 5px rgba(0,0,0,0.3)' : 'none';
+        });
+    });
+    // 事件監聽器設定
+    const submitSearch = () => searchRecords(dom['searchInput'].value);
+    dom['searchBtn'].addEventListener('click', submitSearch);
+    dom['searchInput'].addEventListener('keydown', event => {
+        if (event.key === 'Enter') { event.preventDefault(); submitSearch(); }
+    });
+
+    dom['dashboardBtn'].addEventListener("click", toggleDashboard);
+    dom['prevDay'].addEventListener("click", function () {switchDay(-1);});
+    dom['nextDay'].addEventListener("click", function () {switchDay(1);});
+    dom['randomBtn'].addEventListener("click", randomRecord);
+    dom['shareBtn'].addEventListener("click", shareCurrentView);
+
+    dom['year-filter'].addEventListener('change', (e) => {
+        refreshDashboard(e.target.value);
+    });
+
+    if (menuToggle) {
+        menuToggle.addEventListener("click", () => sidebar.classList.toggle("open"));
+        const mobileMenu = window.matchMedia('(max-width: 768px)');
+        const syncMenuAccessibility = () => {
+            const isOpen = sidebar.classList.contains('open');
+            menuToggle.setAttribute('aria-expanded', String(isOpen));
+            // 滑出畫面外的手機選單不應留在鍵盤與輔助工具的導覽順序內。
+            const isHidden = mobileMenu.matches && !isOpen;
+            if (isHidden && sidebar.contains(document.activeElement)) menuToggle.focus();
+            sidebar.inert = isHidden;
+        };
+        new MutationObserver(syncMenuAccessibility).observe(sidebar, {
+            attributes: true, attributeFilter: ['class']
+        });
+        mobileMenu.addEventListener('change', syncMenuAccessibility);
+        syncMenuAccessibility();
+    }
+
+    // 點擊選單外部區域以關閉選單
+    document.addEventListener("click", function(event) {
+        const isMenuOpen = sidebar.classList.contains("open");
+        const isClickInsideMenu = sidebar.contains(event.target);
+        const isClickOnToggle = menuToggle && menuToggle.contains(event.target);
+        if (isMenuOpen && !isClickInsideMenu && !isClickOnToggle) {
+            sidebar.classList.remove("open");
+        }
+    });
+
+    // 主題切換
+    dom['theme-toggle'].addEventListener("click", function () {
+        document.body.classList.toggle("dark-mode");
+        if (document.body.classList.contains("dark-mode")) {
+            this.textContent = "淺色模式";
+            writeStoredValue('theme', 'dark');
+        } else {
+            this.textContent = "深色模式";
+            writeStoredValue('theme', 'light');
+        }
+    });
+
+    // 點擊標題回到首頁
+    dom['homeBtn'].addEventListener("click", () => {
+
+        const today = new Date();
+        const month = today.getMonth() + 1;
+        const day = today.getDate();
+        showRecords(month, day, true);
+
+        sidebar.classList.remove("open");
+
+        document.querySelectorAll("#monthList ul.open").forEach(ul => {
+            ul.classList.remove("open");
+            ul.inert = true;
+            ul.parentElement.querySelector('button').setAttribute('aria-expanded', 'false');
+        });
+        pushRoute();
+    });
+
 }
 
-// 點擊選單外部區域以關閉選單
-document.addEventListener("click", function(event) {
-    const isMenuOpen = sidebar.classList.contains("open");
-    const isClickInsideMenu = sidebar.contains(event.target);
-    const isClickOnToggle = menuToggle.contains(event.target);
-    if (isMenuOpen && !isClickInsideMenu && !isClickOnToggle) {
-        sidebar.classList.remove("open");
-    }
-});
-
-// 主題切換
-document.getElementById("theme-toggle").addEventListener("click", function () {
-    document.body.classList.toggle("dark-mode");
-    if (document.body.classList.contains("dark-mode")) {
-        this.textContent = "淺色模式";
-        localStorage.setItem('theme', 'dark');
-    } else {
-        this.textContent = "深色模式";
-        localStorage.setItem('theme', 'light');
-    }
-});
-
-// 點擊標題回到首頁
-document.getElementById("homeBtn").addEventListener("click", () => {
-    if (showingDashboard) {
-        showingDashboard = false;
-        dashboard.classList.remove('active');
-        document.getElementById('dashboardBtn').textContent = '統計儀表板';
-    }
-
+function showToday(skipPush = true) {
     const today = new Date();
-    const month = today.getMonth() + 1;
-    const day = today.getDate();
-    showRecords(month, day);
-    
-    sidebar.classList.remove("open");
-    
-    document.querySelectorAll("#monthList ul.open").forEach(ul => {
-        ul.classList.remove("open");
-        ul.inert = true;
-        ul.parentElement.querySelector('button').setAttribute('aria-expanded', 'false');
-    });
-    window.history.pushState({}, "", window.location.pathname);
-});
-
-// onload 與 popstate (歷史紀錄/分享網址支援)
-window.onload = () => {
+    showRecords(today.getMonth() + 1, today.getDate(), skipPush);
+}
+function restoreRoute(initial = false) {
+    const params = new URLSearchParams(location.search);
+    const month = params.get('month'), day = params.get('day'), search = params.get('search');
+    if (params.get('view') === 'favorites') showFavoritesPage(true);
+    else if (search) {
+        dom['searchInput'].value = search;
+        searchRecords(search, true);
+    } else if (/^(?:[1-9]|1[0-2])$/.test(month || '') && /^(?:[1-9]|[12][0-9]|3[01])$/.test(day || '') && (!initial || getDayRecords(month, day).length > 0)) {
+        showRecords(month, day, true);
+    } else showToday();
+}
+function initializeApplication() {
+    bindNavigationEvents();
+    bindAccessibilityEvents();
+    bindGameEvents();
+    bindRecordEvents();
     if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('./service-worker.js')
-        .then(registration => {
-          console.log('ServiceWorker 註冊成功, scope: ', registration.scope);
-        })
-        .catch(err => {
-          console.log('ServiceWorker 註冊失敗: ', err);
-        });
+        navigator.serviceWorker.register('./service-worker.js')
+            .then(registration => console.log('ServiceWorker 註冊成功, scope: ', registration.scope))
+            .catch(error => console.warn('ServiceWorker 註冊失敗: ', error));
     }
     pruneInvalidFavorites();
-
-    const savedTheme = localStorage.getItem('theme');
-    if (savedTheme === 'dark') {
+    if (readStoredValue('theme') === 'dark') {
         document.body.classList.add('dark-mode');
-        document.getElementById("theme-toggle").textContent = "淺色模式";
+        dom['theme-toggle'].textContent = '淺色模式';
     }
-
+    recordIndex = getAllRecords();
+    prepareQuizData();
     buildMonthList();
+    restoreRoute(true);
+}
+window.addEventListener('popstate', () => restoreRoute());
+window.addEventListener('storage', event => {
+    if (event.key === FAVORITES_KEY || event.key === null) favoritesCache = null;
+});
 
-    const urlParams = new URLSearchParams(window.location.search);
-    const monthParam = urlParams.get("month");
-    const dayParam = urlParams.get("day");
-    const searchParam = urlParams.get("search");
-    const viewParam = urlParams.get("view");
-
-    if (viewParam === 'favorites') {
-        showFavoritesPage(true);
-    } else if (searchParam) {
-        document.getElementById("searchInput").value = searchParam;
-        searchRecords(searchParam, true);
-    } else if (monthParam && dayParam && records[monthParam] && records[monthParam][dayParam] && records[monthParam][dayParam].length > 0) {
-        showRecords(monthParam, dayParam, true);
-    } else {
-        const today = new Date();
-        const m = String(today.getMonth() + 1);
-        const d = String(today.getDate());
-        showRecords(m, d, true);
-    }
-
-    flattenRecords();
-    prepareClozeData();
-    
-};
-
-window.onpopstate = (event) => {
-    const urlParams = new URLSearchParams(window.location.search);
-    const monthParam = urlParams.get("month");
-    const dayParam = urlParams.get("day");
-    const searchParam = urlParams.get("search");
-    const viewParam = urlParams.get("view");
-
-    if (viewParam === 'favorites') {
-        showFavoritesPage(true);
-    } else if (searchParam) {
-        document.getElementById("searchInput").value = searchParam;
-        searchRecords(searchParam, true);
-    } else if (monthParam && dayParam) {
-        showRecords(monthParam, dayParam, true);
-    } else {
-        const today = new Date();
-        const m = String(today.getMonth() + 1);
-        const d = String(today.getDate());
-        showRecords(m, d, true);
-    }
-};
-
-const aboutBtn = document.getElementById('aboutBtn');
-const aboutModal = document.getElementById('about-modal');
+const aboutBtn = dom['aboutBtn'];
+const aboutModal = dom['about-modal'];
 const closeBtn = document.querySelector('.close-button');
 let aboutReturnFocus = null;
 let aboutBackground = [];
@@ -1192,134 +1051,113 @@ function closeAboutModal() {
     aboutBackground.forEach(({ element, wasInert }) => { element.inert = wasInert; });
     aboutBackground = [];
     if (aboutReturnFocus && !aboutReturnFocus.closest('[inert]')) aboutReturnFocus.focus();
-    else menuToggle.focus();
+    else if (menuToggle) menuToggle.focus();
 }
-aboutBtn.addEventListener('click', () => {
-    aboutReturnFocus = document.activeElement;
-    aboutModal.classList.add('show');
-    aboutBackground = Array.from(document.body.children)
-        .filter(element => element !== aboutModal && element.tagName !== 'SCRIPT')
-        .map(element => ({ element, wasInert: element.inert }));
-    aboutBackground.forEach(({ element }) => { element.inert = true; });
-    closeBtn.focus();
-});
-closeBtn.addEventListener('click', closeAboutModal);
-window.addEventListener('click', (event) => {
-    if (event.target == aboutModal) {
-        closeAboutModal();
-    }
-});
-
-// 鍵盤快捷鍵功能
-document.addEventListener('keydown', (event) => {
-    if (aboutModal.classList.contains('show')) {
-        if (event.key === 'Escape') {
-            event.preventDefault();
-            closeAboutModal();
-        } else if (event.key === 'Tab') {
-            const focusable = Array.from(aboutModal.querySelectorAll('button, a[href]'));
-            const first = focusable[0];
-            const last = focusable[focusable.length - 1];
-            if (event.shiftKey && document.activeElement === first) {
-                event.preventDefault();
-                last.focus();
-            } else if (!event.shiftKey && document.activeElement === last) {
-                event.preventDefault();
-                first.focus();
-            }
-        }
-        return;
-    }
-    // 當焦點在輸入框時 不觸發快捷鍵 避免干擾打字
-    if (document.activeElement.matches('input, textarea, select, [contenteditable="true"]')) {
-        return;
-    }
-
-    switch (event.key) {
-        case 'ArrowLeft': // 左箭頭
-            event.preventDefault();
-            document.getElementById('prevDay').click();
-            break;
-        case 'ArrowRight': // 右箭頭
-            event.preventDefault();
-            document.getElementById('nextDay').click();
-            break;
-        case 'Escape': // Esc鍵
-            if (sidebar.classList.contains('open')) {
-                sidebar.classList.remove('open');
-            }
-            break;
-        case '/': // 斜線鍵
-            event.preventDefault(); 
-            document.getElementById('searchInput').focus(); // 直接跳到搜尋框
-            break;
-    }
-});
-
-// 回到頂部按鈕功能
-const backToTopBtn = document.getElementById('backToTopBtn');
-contentDiv.addEventListener('scroll', () => {
-    if (contentDiv.scrollTop > 300) {
-        backToTopBtn.style.display = 'block';
-    } else {
-        backToTopBtn.style.display = 'none';
-    }
-});
-backToTopBtn.addEventListener('click', () => {
-    contentDiv.scrollTo({
-        top: 0,
-        behavior: 'smooth'
+function bindAccessibilityEvents() {
+    aboutBtn.addEventListener('click', () => {
+        aboutReturnFocus = document.activeElement;
+        aboutModal.classList.add('show');
+        aboutBackground = Array.from(document.body.children)
+            .filter(element => element !== aboutModal && element.tagName !== 'SCRIPT')
+            .map(element => ({ element, wasInert: element.inert }));
+        aboutBackground.forEach(({ element }) => { element.inert = true; });
+        closeBtn.focus();
     });
-});
+    closeBtn.addEventListener('click', closeAboutModal);
+    window.addEventListener('click', (event) => {
+        if (event.target == aboutModal) {
+            closeAboutModal();
+        }
+    });
+
+    // 鍵盤快捷鍵功能
+    document.addEventListener('keydown', (event) => {
+        if (aboutModal.classList.contains('show')) {
+            if (event.key === 'Escape') {
+                event.preventDefault();
+                closeAboutModal();
+            } else if (event.key === 'Tab') {
+                const focusable = Array.from(aboutModal.querySelectorAll('button, a[href]'));
+                const first = focusable[0];
+                const last = focusable[focusable.length - 1];
+                if (event.shiftKey && document.activeElement === first) {
+                    event.preventDefault();
+                    last.focus();
+                } else if (!event.shiftKey && document.activeElement === last) {
+                    event.preventDefault();
+                    first.focus();
+                }
+            }
+            return;
+        }
+        // 當焦點在輸入框時 不觸發快捷鍵 避免干擾打字
+        if (document.activeElement.matches('input, textarea, select, [contenteditable="true"]')) {
+            return;
+        }
+
+        switch (event.key) {
+            case 'ArrowLeft': // 左箭頭
+                event.preventDefault();
+                dom['prevDay'].click();
+                break;
+            case 'ArrowRight': // 右箭頭
+                event.preventDefault();
+                dom['nextDay'].click();
+                break;
+            case 'Escape': // Esc鍵
+                if (sidebar.classList.contains('open')) {
+                    sidebar.classList.remove('open');
+                }
+                break;
+            case '/': // 斜線鍵
+                event.preventDefault();
+                dom['searchInput'].focus(); // 直接跳到搜尋框
+                break;
+        }
+    });
+
+    // 回到頂部按鈕功能
+    const backToTopBtn = dom['backToTopBtn'];
+    contentDiv.addEventListener('scroll', () => {
+        if (contentDiv.scrollTop > 300) {
+            backToTopBtn.style.display = 'block';
+        } else {
+            backToTopBtn.style.display = 'none';
+        }
+    });
+    backToTopBtn.addEventListener('click', () => {
+        contentDiv.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
+    });
+
+}
 
 // 展旭歷史王
 
 // 1. DOM 元素
-const quizBtn = document.getElementById('quizBtn');
-const quizContainer = document.getElementById('quiz-container');
-const quizSetupView = document.getElementById('quiz-setup-view');
-const quizGameView = document.getElementById('quiz-game-view');
-const quizResultsView = document.getElementById('quiz-results-view');
-const quizProgress = document.getElementById('quiz-progress');
-const quizScoreEl = document.getElementById('quiz-score');
-const quizQuestionEl = document.getElementById('quiz-question');
-const quizOptionsEl = document.getElementById('quiz-options');
-const quizFeedbackEl = document.getElementById('quiz-feedback');
-const finalScoreEl = document.getElementById('final-score');
-const playAgainBtn = document.getElementById('play-again-btn');
-const returnHomeBtn = document.getElementById('return-home-btn');
-const quizReviewArea = document.getElementById('quiz-review-area');
+const quizBtn = dom['quizBtn'];
+const quizContainer = dom['quiz-container'];
+const quizSetupView = dom['quiz-setup-view'];
+const quizGameView = dom['quiz-game-view'];
+const quizResultsView = dom['quiz-results-view'];
+const quizProgress = dom['quiz-progress'];
+const quizScoreEl = dom['quiz-score'];
+const quizQuestionEl = dom['quiz-question'];
+const quizOptionsEl = dom['quiz-options'];
+const quizFeedbackEl = dom['quiz-feedback'];
+const finalScoreEl = dom['final-score'];
+const playAgainBtn = dom['play-again-btn'];
+const returnHomeBtn = dom['return-home-btn'];
+const quizReviewArea = dom['quiz-review-area'];
 
 // 2. 測驗狀態變數
-let allRecordsFlat = [];
-let quizQuestions = [];
-let currentQuestionIndex = 0;
-let score = 0;
-let quizTotalQuestions = config.quiz.totalQuestions;
+const quizState = { records: [], questions: [], index: 0, score: 0, total: config.quiz.totalQuestions };
 
 // 3. 準備資料 將巢狀的 records 物件扁平化 方便隨機抽樣
-function flattenRecords() {
-    if (allRecordsFlat.length > 0) return;
-    const yearRegex = /^(\d{4})年/
-    for (const m in records) {
-        for (const d in records[m]) {
-            if (records[m][d].length > 0) {
-                records[m][d].forEach(record => {
-                    if (record.label && record.label.length >= config.quiz.minLabelLength) {
-                        const yearMatch = record.label.match(yearRegex);
-                        if (yearMatch) {
-                            allRecordsFlat.push({ 
-                                year: yearMatch[1],
-                                month: m, 
-                                day: d, 
-                                ...record
-                            });
-                        }
-                    }
-                });
-            }
-        }
-    }
+function prepareQuizData() {
+    quizState.records = recordIndex.filter(record => record.year && String(record.label || '').length >= config.quiz.minLabelLength);
 }
 
 // 4. 輔助函數 洗牌演算法
@@ -1332,13 +1170,14 @@ function shuffleArray(array) {
 
 // 5. 產生測驗問題
 function generateQuizQuestions() {
-    shuffleArray(allRecordsFlat);
-    quizQuestions = [];
+    shuffleArray(quizState.records);
+    quizState.questions = [];
     const usedLabels = new Set();
-    const dateRegex = /^\d{4}年\d{1,2}月\d{1,2}日\s*/;
+    const availableDates = [...new Set(quizState.records.map(record => `${record.year}年${record.month}月${record.day}日`))];
+    if (availableDates.length < 4) return;
 
-    for (let i = 0; i < allRecordsFlat.length && quizQuestions.length < quizTotalQuestions; i++) {
-        const questionRecord = allRecordsFlat[i];
+    for (let i = 0; i < quizState.records.length && quizState.questions.length < quizState.total; i++) {
+        const questionRecord = quizState.records[i];
         if (usedLabels.has(questionRecord.label)) continue;
 
         usedLabels.add(questionRecord.label);
@@ -1346,17 +1185,23 @@ function generateQuizQuestions() {
         const correctAnswer = `${questionRecord.year}年${questionRecord.month}月${questionRecord.day}日`;
         const options = new Set([correctAnswer]);
 
-        while (options.size < 4) {
-            const randomRecord = allRecordsFlat[Math.floor(Math.random() * allRecordsFlat.length)];
+        let attempts = 0;
+        while (options.size < 4 && attempts++ < 1000) {
+            const randomRecord = quizState.records[Math.floor(Math.random() * quizState.records.length)];
             const distractor = `${randomRecord.year}年${randomRecord.month}月${randomRecord.day}日`;
             options.add(distractor);
         }
 
+        if (options.size < 4) {
+            const remaining = availableDates.filter(date => !options.has(date));
+            shuffleArray(remaining);
+            remaining.forEach(date => { if (options.size < 4) options.add(date); });
+        }
         const shuffledOptions = Array.from(options);
         shuffleArray(shuffledOptions);
 
         const cleanQuestion = questionRecord.label.replace(dateRegex, '').trim();
-        quizQuestions.push({
+        quizState.questions.push({
             question: cleanQuestion,
             options: shuffledOptions,
             answer: correctAnswer,
@@ -1366,161 +1211,143 @@ function generateQuizQuestions() {
 }
 
 // 6. 顯示當前問題
-function displayQuestion() {
-    if (currentQuestionIndex >= quizQuestions.length) {
+function renderAnswerOptions(container, options) {
+    container.replaceChildren();
+    options.forEach(option => {
+        const button = document.createElement('button'); button.type = 'button';
+        button.className = 'quiz-option-btn'; button.textContent = option; container.appendChild(button);
+    });
+}
+function showAnswerFeedback(container, feedback, selectedButton, question) {
+    const buttons = container.querySelectorAll('button');
+    buttons.forEach(button => { button.disabled = true; });
+    const correct = selectedButton.textContent === question.answer;
+    selectedButton.classList.add(correct ? 'correct' : 'incorrect');
+    feedback.textContent = correct ? '答對了！' : '答錯了！正確答案是：' + question.answer;
+    feedback.style.color = correct ? '#28a745' : '#dc3545';
+    if (!correct) buttons.forEach(button => { if (button.textContent === question.answer) button.classList.add('correct'); });
+    return correct;
+}
+function displayQuizQuestion() {
+    if (quizState.index >= quizState.questions.length) {
         endQuiz();
         return;
     }
-    const currentQuestion = quizQuestions[currentQuestionIndex];
-    quizProgress.textContent = `第 ${currentQuestionIndex + 1} / ${quizTotalQuestions} 題`;
-    quizScoreEl.textContent = `分數: ${score}`;
+    const currentQuestion = quizState.questions[quizState.index];
+    quizProgress.textContent = `第 ${quizState.index + 1} / ${quizState.total} 題`;
+    quizScoreEl.textContent = `分數: ${quizState.score}`;
     quizQuestionEl.textContent = currentQuestion.question;
-    quizOptionsEl.innerHTML = '';
     quizFeedbackEl.textContent = '';
 
-    currentQuestion.options.forEach(option => {
-        const button = document.createElement('button');
-        button.className = 'quiz-option-btn';
-        button.textContent = option;
-        button.addEventListener('click', selectAnswer);
-        quizOptionsEl.appendChild(button);
-    });
+    renderAnswerOptions(quizOptionsEl, currentQuestion.options);
 }
 
 // 7. 選擇答案的邏輯
-function selectAnswer(e) {
+function selectQuizAnswer(e) {
     const selectedButton = e.target;
     const selectedAnswer = selectedButton.textContent;
-    const currentQuestion = quizQuestions[currentQuestionIndex];
+    const currentQuestion = quizState.questions[quizState.index];
 
     currentQuestion.userAnswer = selectedAnswer;
 
-    const allButtons = quizOptionsEl.querySelectorAll('button');
-    allButtons.forEach(btn => btn.disabled = true);
+    if (showAnswerFeedback(quizOptionsEl, quizFeedbackEl, selectedButton, currentQuestion)) quizState.score++;
 
-    if (selectedAnswer === currentQuestion.answer) {
-        score++;
-        selectedButton.classList.add('correct');
-        quizFeedbackEl.textContent = '答對了！';
-        quizFeedbackEl.style.color = '#28a745';
-    } else {
-        selectedButton.classList.add('incorrect');
-        quizFeedbackEl.textContent = `答錯了！正確答案是：${currentQuestion.answer}`;
-        quizFeedbackEl.style.color = '#dc3545';
-        allButtons.forEach(btn => {
-            if (btn.textContent === currentQuestion.answer) {
-                btn.classList.add('correct');
-            }
-        });
-    }    
-    currentQuestionIndex++;
-    setTimeout(displayQuestion, 2000);
+    quizState.index++;
+    timers.quiz = setTimeout(() => { timers.quiz = null; displayQuizQuestion(); }, 2000);
 }
 
 // 8. 顯示題目回顧的函數
-function displayQuizReview() {
-    quizReviewArea.innerHTML = '<h3>題目回顧</h3>';
-    quizQuestions.forEach((q, index) => {
-        const item = document.createElement('div');
-        item.className = 'review-item';
-        
-        const questionHTML = `<div class="review-question">${index + 1}. ${q.question}</div>`;
-        
-        let answerHTML = '<div class="review-answer">';
-        const isCorrect = q.userAnswer === q.answer;
-        if (isCorrect) {
-            answerHTML += `<p class="user-answer correct">✓ 您的答案：${q.userAnswer}</p>`;
-        } else {
-            answerHTML += `<p class="user-answer incorrect">✗ 您的答案：${q.userAnswer}</p>`;
-            answerHTML += `<p>正確答案：${q.answer}</p>`;
-        }
-        answerHTML += '</div>';
-
-        item.innerHTML = questionHTML + answerHTML;
-        quizReviewArea.appendChild(item);
+function renderClozeText(element, text, answer, replacement) {
+    element.replaceChildren();
+    const index = text.indexOf(answer);
+    if (index < 0) { element.textContent = text; return; }
+    const blank = document.createElement('span'); blank.className = 'cloze-blank'; blank.textContent = replacement;
+    element.append(document.createTextNode(text.slice(0, index)), blank, document.createTextNode(text.slice(index + answer.length)));
+}
+function renderGameReview(container, questions, cloze) {
+    const heading = document.createElement('h3'); heading.textContent = '題目回顧';
+    container.replaceChildren(heading);
+    questions.forEach((question, index) => {
+        const item = document.createElement('div'); item.className = 'review-item';
+        const title = document.createElement('div'); title.className = 'review-question';
+        const text = (index + 1) + '. ' + (cloze ? question.fullQuestion : question.question);
+        if (cloze) renderClozeText(title, text, question.answer, '[' + question.answer + ']');
+        else title.textContent = text;
+        const answers = document.createElement('div'); answers.className = 'review-answer';
+        const correct = question.userAnswer === question.answer;
+        const response = document.createElement('p'); response.className = 'user-answer ' + (correct ? 'correct' : 'incorrect');
+        response.textContent = (correct ? '✓' : '✗') + ' 您的答案：' + question.userAnswer;
+        answers.appendChild(response);
+        if (!correct) { const expected = document.createElement('p'); expected.textContent = '正確答案：' + question.answer; answers.appendChild(expected); }
+        item.append(title, answers); container.appendChild(item);
     });
 }
+function displayQuizReview() { renderGameReview(quizReviewArea, quizState.questions, false); }
 
 // 9. 結束歷史王
 function endQuiz() {
     quizGameView.style.display = 'none';
     quizResultsView.style.display = 'block';
-    finalScoreEl.textContent = `${score} / ${quizTotalQuestions}`; 
+    finalScoreEl.textContent = `${quizState.score} / ${quizState.total}`;
     displayQuizReview();
 }
 
 // 10. 開始歷史王
 function startQuiz() {
+    clearTimer('quiz');
     generateQuizQuestions();
-    if (quizQuestions.length < quizTotalQuestions) {
-        alert(`符合條件的題目不足 ${quizTotalQuestions} 題，無法開始遊戲！\n（目前只找到 ${quizQuestions.length} 題）`);
+    if (quizState.questions.length < quizState.total) {
+        alert(`符合條件的題目不足 ${quizState.total} 題，無法開始遊戲！\n（目前只找到 ${quizState.questions.length} 題）`);
         showQuizSetup(); // 返回設定畫面
         return;
     }
     quizSetupView.style.display = 'none';
     quizGameView.style.display = 'block';
     quizResultsView.style.display = 'none';
-    currentQuestionIndex = 0;
-    score = 0;
-    displayQuestion();
+    quizState.index = 0;
+    quizState.score = 0;
+    displayQuizQuestion();
 }
 
 // 11. 顯示設定畫面的函數
 function showQuizSetup() {
+    clearTimer('quiz');
     showView('quiz');
     quizSetupView.style.display = 'block';
     quizGameView.style.display = 'none';
     quizResultsView.style.display = 'none';
 }
 
-// 12. 綁定事件監聽器 (重構)
-quizBtn.addEventListener('click', showQuizSetup);
-document.querySelectorAll('#quiz-game-options .game-option-btn').forEach(button => {
-    button.addEventListener('click', (e) => {
-        quizTotalQuestions = parseInt(e.target.dataset.count, 10);
-        startQuiz();
-    });
-});
-playAgainBtn.addEventListener('click', showQuizSetup);
-returnHomeBtn.addEventListener('click', () => document.getElementById('homeBtn').click());
-
-
 // 展旭克漏字
 
 // 1. DOM 元素
-const clozeBtn = document.getElementById('clozeBtn');
-const clozeContainer = document.getElementById('cloze-container');
-const clozeSetupView = document.getElementById('cloze-setup-view');
-const clozeGameView = document.getElementById('cloze-game-view');
-const clozeResultsView = document.getElementById('cloze-results-view');
-const clozeProgress = document.getElementById('cloze-progress');
-const clozeScoreEl = document.getElementById('cloze-score');
-const clozeQuestionEl = document.getElementById('cloze-question');
-const clozeOptionsEl = document.getElementById('cloze-options');
-const clozeFeedbackEl = document.getElementById('cloze-feedback');
-const clozeFinalScoreEl = document.getElementById('cloze-final-score');
-const clozePlayAgainBtn = document.getElementById('cloze-play-again-btn');
-const clozeReturnHomeBtn = document.getElementById('cloze-return-home-btn');
-const clozeReviewArea = document.getElementById('cloze-review-area');
+const clozeBtn = dom['clozeBtn'];
+const clozeContainer = dom['cloze-container'];
+const clozeSetupView = dom['cloze-setup-view'];
+const clozeGameView = dom['cloze-game-view'];
+const clozeResultsView = dom['cloze-results-view'];
+const clozeProgress = dom['cloze-progress'];
+const clozeScoreEl = dom['cloze-score'];
+const clozeQuestionEl = dom['cloze-question'];
+const clozeOptionsEl = dom['cloze-options'];
+const clozeFeedbackEl = dom['cloze-feedback'];
+const clozeFinalScoreEl = dom['cloze-final-score'];
+const clozePlayAgainBtn = dom['cloze-play-again-btn'];
+const clozeReturnHomeBtn = dom['cloze-return-home-btn'];
+const clozeReviewArea = dom['cloze-review-area'];
 
 // 2. 遊戲狀態變數
-let allClozeRecords = [];
-let masterWordList = [];
-let clozeQuestions = [];
-let currentClozeIndex = 0;
-let clozeScore = 0;
-let clozeTotalQuestions = config.cloze.totalQuestions;
+const clozeState = { records: [], words: [], questions: [], index: 0, score: 0, total: config.cloze.totalQuestions };
 
 // 3. 準備克漏字資料和詞彙庫
 function prepareClozeData() {
-    if (allClozeRecords.length > 0) return;
+    if (clozeState.records.length > 0) return;
     const wordSet = new Set();
-    const dateRegex = /^\d{4}年\d{1,2}月\d{1,2}日\s*/;
-    const splitRegex = /[\s,.;。，；、()（）]/g; 
-    allRecordsFlat.forEach(record => {
+    const splitRegex = /[\s,.;。，；、()（）]/g;
+    quizState.records.forEach(record => {
         const cleanLabel = record.label.replace(dateRegex, '').trim();
         if (cleanLabel.length >= config.cloze.minLabelLength) {
-            allClozeRecords.push({ ...record, cleanLabel });
+            clozeState.records.push({ ...record, cleanLabel });
             const words = cleanLabel.split(splitRegex);
             words.forEach(word => {
                 if (word.length >= config.cloze.keywordMinLength && word.length <= config.cloze.keywordMaxLength) {
@@ -1529,34 +1356,40 @@ function prepareClozeData() {
             });
         }
     });
-    masterWordList = Array.from(wordSet);
+    clozeState.words = Array.from(wordSet);
 }
 
 // 4. 產生克漏字問題
 function generateClozeQuestions() {
-    shuffleArray(allClozeRecords);
-    clozeQuestions = [];
+    shuffleArray(clozeState.records);
+    clozeState.questions = [];
     const splitRegex = /[\s,.;。，；、()（）]/g
-    
-    for (let i = 0; i < allClozeRecords.length && clozeQuestions.length < clozeTotalQuestions; i++) {
-        const record = allClozeRecords[i];
+
+    for (let i = 0; i < clozeState.records.length && clozeState.questions.length < clozeState.total; i++) {
+        const record = clozeState.records[i];
         const words = record.cleanLabel.split(splitRegex).filter(w => w.length >= config.cloze.keywordMinLength && w.length <= config.cloze.keywordMaxLength);
         if (words.length === 0) continue;
 
         shuffleArray(words);
         const answer = words[0];
-        const questionText = record.cleanLabel.replace(answer, '<span class="cloze-blank">[ ___ ]</span>');
+        const questionText = record.cleanLabel;
         const options = new Set([answer]);
 
-        while(options.size < 4 && masterWordList.length > 3) {
-            const randomWord = masterWordList[Math.floor(Math.random() * masterWordList.length)];
+        let attempts = 0;
+        while(options.size < 4 && clozeState.words.length > 3 && attempts++ < 1000) {
+            const randomWord = clozeState.words[Math.floor(Math.random() * clozeState.words.length)];
             options.add(randomWord);
         }
-        
+
+        if (options.size < 4 && clozeState.words.length > 3) {
+            const remaining = clozeState.words.filter(word => !options.has(word));
+            shuffleArray(remaining);
+            remaining.forEach(word => { if (options.size < 4) options.add(word); });
+        }
         const shuffledOptions = Array.from(options);
         shuffleArray(shuffledOptions);
-        
-        clozeQuestions.push({
+
+        clozeState.questions.push({
             question: questionText,
             fullQuestion: record.cleanLabel,
             options: shuffledOptions,
@@ -1568,126 +1401,93 @@ function generateClozeQuestions() {
 
 // 5. 顯示克漏字問題
 function displayClozeQuestion() {
-    if (currentClozeIndex >= clozeQuestions.length) {
+    if (clozeState.index >= clozeState.questions.length) {
         endClozeTest();
         return;
     }
 
-    const currentQuestion = clozeQuestions[currentClozeIndex];
-    clozeProgress.textContent = `第 ${currentClozeIndex + 1} / ${clozeTotalQuestions} 題`;
-    clozeScoreEl.textContent = `分數: ${clozeScore}`;
-    clozeQuestionEl.innerHTML = currentQuestion.question;
-    clozeOptionsEl.innerHTML = '';
+    const currentQuestion = clozeState.questions[clozeState.index];
+    clozeProgress.textContent = `第 ${clozeState.index + 1} / ${clozeState.total} 題`;
+    clozeScoreEl.textContent = `分數: ${clozeState.score}`;
+    renderClozeText(clozeQuestionEl, currentQuestion.question, currentQuestion.answer, '[ ___ ]');
     clozeFeedbackEl.textContent = '';
 
-    currentQuestion.options.forEach(option => {
-        const button = document.createElement('button');
-        button.className = 'quiz-option-btn';
-        button.textContent = option;
-        button.addEventListener('click', selectClozeAnswer);
-        clozeOptionsEl.appendChild(button);
-    });
+    renderAnswerOptions(clozeOptionsEl, currentQuestion.options);
 }
 
 // 6. 選擇克漏字答案的邏輯
 function selectClozeAnswer(e) {
     const selectedButton = e.target;
     const selectedAnswer = selectedButton.textContent;
-    const currentQuestion = clozeQuestions[currentClozeIndex];
+    const currentQuestion = clozeState.questions[clozeState.index];
 
     currentQuestion.userAnswer = selectedAnswer;
 
-    const allButtons = clozeOptionsEl.querySelectorAll('button');
-    allButtons.forEach(btn => btn.disabled = true);
+    if (showAnswerFeedback(clozeOptionsEl, clozeFeedbackEl, selectedButton, currentQuestion)) clozeState.score++;
 
-    if (selectedAnswer === currentQuestion.answer) {
-        clozeScore++;
-        selectedButton.classList.add('correct');
-        clozeFeedbackEl.textContent = '答對了！';
-        clozeFeedbackEl.style.color = '#28a745';
-    } else {
-        selectedButton.classList.add('incorrect');
-        clozeFeedbackEl.textContent = `答錯了！正確答案是：${currentQuestion.answer}`;
-        clozeFeedbackEl.style.color = '#dc3545';
-        allButtons.forEach(btn => {
-            if (btn.textContent === currentQuestion.answer) {
-                btn.classList.add('correct');
-            }
-        });
-    }    
-    clozeQuestionEl.innerHTML = currentQuestion.question.replace('<span class="cloze-blank">[ ___ ]</span>', `<span class="cloze-blank">${currentQuestion.answer}</span>`);
-    currentClozeIndex++;
-    setTimeout(displayClozeQuestion, 2000);
+    renderClozeText(clozeQuestionEl, currentQuestion.question, currentQuestion.answer, currentQuestion.answer);
+    clozeState.index++;
+    timers.cloze = setTimeout(() => { timers.cloze = null; displayClozeQuestion(); }, 2000);
 }
 
 // 7. 顯示題目回顧的函數
-function displayClozeReview() {
-    clozeReviewArea.innerHTML = '<h3>題目回顧</h3>';
-    clozeQuestions.forEach((q, index) => {
-        const item = document.createElement('div');
-        item.className = 'review-item';
-        
-        const questionHTML = `<div class="review-question">${index + 1}. ${q.fullQuestion.replace(q.answer, `<span class="cloze-blank">[${q.answer}]</span>`)}</div>`;
-        
-        let answerHTML = '<div class="review-answer">';
-        const isCorrect = q.userAnswer === q.answer;
-        if (isCorrect) {
-            answerHTML += `<p class="user-answer correct">✓ 您的答案：${q.userAnswer}</p>`;
-        } else {
-            answerHTML += `<p class="user-answer incorrect">✗ 您的答案：${q.userAnswer}</p>`;
-            answerHTML += `<p>正確答案：${q.answer}</p>`;
-        }
-        answerHTML += '</div>';
-
-        item.innerHTML = questionHTML + answerHTML;
-        clozeReviewArea.appendChild(item);
-    });
-}
+function displayClozeReview() { renderGameReview(clozeReviewArea, clozeState.questions, true); }
 
 // 8. 結束克漏字
 function endClozeTest() {
     clozeGameView.style.display = 'none';
     clozeResultsView.style.display = 'block';
-    clozeFinalScoreEl.textContent = `${clozeScore} / ${clozeTotalQuestions}`;
+    clozeFinalScoreEl.textContent = `${clozeState.score} / ${clozeState.total}`;
     displayClozeReview();
 }
 
 // 9. 開始克漏字
 function startClozeTest() {
+    clearTimer('cloze');
     generateClozeQuestions();
-    if (clozeQuestions.length < clozeTotalQuestions) {
-        alert(`符合條件的題目不足 ${clozeTotalQuestions} 題，無法開始遊戲！\n（目前只找到 ${clozeQuestions.length} 題）`);
+    if (clozeState.questions.length < clozeState.total) {
+        alert(`符合條件的題目不足 ${clozeState.total} 題，無法開始遊戲！\n（目前只找到 ${clozeState.questions.length} 題）`);
         return;
     }
     clozeSetupView.style.display = 'none';
     clozeGameView.style.display = 'block';
     clozeResultsView.style.display = 'none';
-    currentClozeIndex = 0;
-    clozeScore = 0;
+    clozeState.index = 0;
+    clozeState.score = 0;
     displayClozeQuestion();
 }
 
 // 10. 顯示設定畫面的函數
 function showClozeSetup() {
+    clearTimer('cloze');
     showView('cloze');
     clozeSetupView.style.display = 'block';
     clozeGameView.style.display = 'none';
     clozeResultsView.style.display = 'none';
 }
 
-// 11. 綁定事件監聽器 
-clozeBtn.addEventListener('click', () => {
-    prepareClozeData();
-    showClozeSetup();
-});
-document.querySelectorAll('.game-option-btn').forEach(button => {
-    button.addEventListener('click', (e) => {
-        clozeTotalQuestions = parseInt(e.target.dataset.count, 10);
-        startClozeTest();
+function bindGameEvents() {
+    quizBtn.addEventListener('click', showQuizSetup);
+    clozeBtn.addEventListener('click', () => { prepareClozeData(); showClozeSetup(); });
+    quizSetupView.addEventListener('click', event => {
+        const button = event.target.closest('.game-option-btn'); if (!button) return;
+        quizState.total = Number(button.dataset.count); startQuiz();
     });
-});
-clozePlayAgainBtn.addEventListener('click', showClozeSetup);
-clozeReturnHomeBtn.addEventListener('click', () => document.getElementById('homeBtn').click());
+    clozeSetupView.addEventListener('click', event => {
+        const button = event.target.closest('.game-option-btn'); if (!button) return;
+        clozeState.total = Number(button.dataset.count); startClozeTest();
+    });
+    [[quizOptionsEl, selectQuizAnswer], [clozeOptionsEl, selectClozeAnswer]].forEach(([container, handler]) => {
+        container.addEventListener('click', event => {
+            const button = event.target.closest('.quiz-option-btn');
+            if (button && container.contains(button) && !button.disabled) handler({ target: button });
+        });
+    });
+    playAgainBtn.addEventListener('click', showQuizSetup);
+    clozePlayAgainBtn.addEventListener('click', showClozeSetup);
+    returnHomeBtn.addEventListener('click', () => dom['homeBtn'].click());
+    clozeReturnHomeBtn.addEventListener('click', () => dom['homeBtn'].click());
+}
 
 // 語音朗讀功能的核心處理函數
 function handleTTSClick() {
@@ -1696,19 +1496,19 @@ function handleTTSClick() {
         return;
     }
     const ttsButton = document.getElementById('tts-button');
+    if (!ttsButton) return;
     // 控制邏輯
-    if (isSpeaking && !isPaused) {
+    if (speechState.speaking && !speechState.paused) {
         window.speechSynthesis.pause();
-        isPaused = true;
+        speechState.paused = true;
         ttsButton.textContent = '▶️ 繼續';
-    } else if (isSpeaking && isPaused) {
+    } else if (speechState.speaking && speechState.paused) {
         window.speechSynthesis.resume();
-        isPaused = false;
+        speechState.paused = false;
         ttsButton.textContent = '⏸️ 暫停';
     } else {
         // 1. 收集要朗讀的文字
-        const dateRegex = /^\d{4}年\d{1,2}月\d{1,2}日\s*/;
-        let textToSpeak = '';
+            let textToSpeak = '';
         const recordsToRead = document.querySelectorAll('#content .record-content');
         recordsToRead.forEach(recordEl => {
             const label = recordEl.textContent.trim();
@@ -1722,40 +1522,43 @@ function handleTTSClick() {
         }
         // 2. 建立語音請求物件
         const utterance = new SpeechSynthesisUtterance(textToSpeak);
+        speechState.utterance = utterance;
         utterance.lang = 'zh-TW';
         utterance.rate = 1;
         utterance.pitch = 1;
         // 3. 綁定事件
         utterance.onstart = () => {
-            isSpeaking = true;
-            isPaused = false;
+            speechState.speaking = true;
+            speechState.paused = false;
             ttsButton.textContent = '⏸️ 暫停';
         };
         utterance.onpause = () => {
-            isPaused = true;
+            speechState.paused = true;
             ttsButton.textContent = '▶️ 繼續';
-        };          
+        };
         utterance.onresume = () => {
-            isPaused = false;
+            speechState.paused = false;
             ttsButton.textContent = '⏸️ 暫停';
         };
         utterance.onend = () => {
-            isSpeaking = false;
-            isPaused = false;
+            speechState.utterance = null;
+            speechState.speaking = false;
+            speechState.paused = false;
             ttsButton.textContent = '▶️ 朗讀';
-        };          
+        };
+        utterance.onerror = () => { if (speechState.utterance === utterance) stopSpeech(); };
         // 4. 開始朗讀
-        window.speechSynthesis.speak(utterance);
+        try { window.speechSynthesis.speak(utterance); }
+        catch (error) { stopSpeech(); console.warn('語音朗讀失敗', error); }
     }
 }
 
 // 收藏功能
-function showFavoritesPage(skipPush = false) {
-    showView('main');
-    let favorites = getFavorites();
+function createFavoritesPage() {
+    const favorites = getFavorites();
 
     // --- 排序邏輯 ---
-    if (favoritesSortOrder === 'date') {
+    if (viewState.favoritesSort === 'date') {
         favorites.sort((a, b) => {
             const [aMonth, aDay] = a.split('-').map(Number);
             const [bMonth, bDay] = b.split('-').map(Number);
@@ -1765,7 +1568,8 @@ function showFavoritesPage(skipPush = false) {
             return aDay - bDay;
         });
     }
-    
+
+    const favoriteIds = new Set(favorites);
     const container = document.createElement('div');
 
     const pageHeader = document.createElement('div');
@@ -1776,14 +1580,14 @@ function showFavoritesPage(skipPush = false) {
 
     const controls = document.createElement('div');
     controls.className = 'favorites-controls';
-    
+
     const sortDateBtn = document.createElement('button');
-    sortDateBtn.className = `sort-button ${favoritesSortOrder === 'date' ? 'active' : ''}`;
+    sortDateBtn.className = `sort-button ${viewState.favoritesSort === 'date' ? 'active' : ''}`;
     sortDateBtn.dataset.sort = 'date';
     sortDateBtn.textContent = '按日期排序';
-    
+
     const sortAddedBtn = document.createElement('button');
-    sortAddedBtn.className = `sort-button ${favoritesSortOrder === 'added' ? 'active' : ''}`;
+    sortAddedBtn.className = `sort-button ${viewState.favoritesSort === 'added' ? 'active' : ''}`;
     sortAddedBtn.dataset.sort = 'added';
     sortAddedBtn.textContent = '按收藏順序';
 
@@ -1792,64 +1596,63 @@ function showFavoritesPage(skipPush = false) {
     pageHeader.appendChild(title);
     pageHeader.appendChild(controls);
     container.appendChild(pageHeader);
-       
+
     if (favorites.length === 0) {
         const emptyMsg = document.createElement('p');
         emptyMsg.textContent = '您尚未收藏任何記錄，點擊記錄右側的 ❤️ 來收藏您喜歡的內容吧！';
         container.appendChild(emptyMsg);
     } else {
         favorites.forEach(recordId => {
-            const [month, day, index] = recordId.split('-');
-            if (records[month] && records[month][day] && records[month][day][index]) {
-                const item = records[month][day][index];
-                const recordElement = createRecordElement(item, recordId, 'favorites');
+            const item = getRecordById(recordId);
+            if (item) {
+                const recordElement = createRecordElement(item, recordId, 'favorites', '', favoriteIds);
                 container.appendChild(recordElement);
             }
         });
     }
 
-    contentDiv.classList.add('fade-out');
-    setTimeout(() => {
-        contentDiv.innerHTML = '';
-        contentDiv.appendChild(container);
-        contentDiv.scrollTop = 0;
-        contentDiv.classList.remove('fade-out');
-        
-        document.querySelectorAll('.sort-button').forEach(button => {
-            button.addEventListener('click', (e) => {
-                const sortBy = e.target.dataset.sort;
-                if (favoritesSortOrder !== sortBy) {
-                    favoritesSortOrder = sortBy;
-                    showFavoritesPage(true);
-                }
-            });
-        });
-    }, 200);
+    return container;
+}
+function showFavoritesPage(skipPush = false) {
+    showView('main');
+    viewState.month = viewState.day = viewState.search = null;
+    updateContentWithFade(createFavoritesPage());
+    if (!skipPush) pushRoute({ view: 'favorites' });
 
-    if (!skipPush) {
-        const params = new URLSearchParams();
-        params.set("view", "favorites");
-        const newUrl = `${location.origin}${location.pathname}?${params.toString()}`;
-        window.history.pushState({ view: 'favorites' }, "", newUrl);
-    }
+    clearSidebarSelection();
 
-    document.querySelectorAll(".day-item.selected").forEach(el => el.classList.remove("selected"));
-    monthList.querySelectorAll('.day-item button[aria-current]').forEach(button => {
-        button.removeAttribute('aria-current');
-    });
     sidebar.classList.remove("open");
 }
 
 // 綁定主按鈕
-const favoritesBtn = document.getElementById('favoritesBtn');
-favoritesBtn.addEventListener('click', showFavoritesPage);
+const favoritesBtn = dom['favoritesBtn'];
 
-// 使用事件委派，監聽所有記錄上的收藏按鈕點擊
-contentDiv.addEventListener('click', (event) => {
-    const target = event.target;
-    if (target.classList.contains('favorite-btn')) {
-        const recordId = target.dataset.recordId;
-        const isNowFavorite = toggleFavorite(recordId);
-        target.textContent = isNowFavorite ? '❤️' : '🤍';
-    }
-});
+function bindRecordEvents() {
+    favoritesBtn.addEventListener('click', () => showFavoritesPage(false));
+    contentDiv.addEventListener('click', event => {
+        const button = event.target.closest('.favorite-btn');
+        if (button && contentDiv.contains(button)) {
+            button.textContent = toggleFavorite(button.dataset.recordId) ? '❤️' : '🤍';
+            return;
+        }
+        const dateLink = event.target.closest('[data-navigate-date]');
+        if (dateLink && contentDiv.contains(dateLink)) {
+            event.preventDefault();
+            showRecords(dateLink.dataset.month, dateLink.dataset.day);
+            return;
+        }
+        const sortButton = event.target.closest('.sort-button');
+        if (sortButton && contentDiv.contains(sortButton) && viewState.favoritesSort !== sortButton.dataset.sort) {
+            viewState.favoritesSort = sortButton.dataset.sort;
+            showFavoritesPage(true);
+        }
+        if (event.target.closest('#tts-button')) handleTTSClick();
+    });
+}
+
+initializeApplication();
+}
+
+if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', startApplication, { once: true });
+else startApplication();
+})();
