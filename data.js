@@ -1235,8 +1235,8 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/vh78UN3bfGg9Uvyw9", label: "2025年1月20日 幹好扯 這會不死也半殘欸== 無法反駁欸" },
       { type: "link", content: "https://photos.app.goo.gl/3EVcMehetjEnsY6Q8", label: "2025年1月20日 這以後一定會去信義區或西門町中間表演椅子倒立 太強了" },
       { type: "link", content: "https://photos.app.goo.gl/hJY66CzsKW6s1v1g8", label: "2025年1月20日 +1 版面比之前更好看" },
-      { type: "link", content: "https://photos.app.goo.gl/ZKMzWhFL7dPwB5iJ7", label: "2023年1月10日 病人不乖 可以物理打昏" },
-      { type: "link", content: "https://photos.app.goo.gl/rhJWbaLHzJUrbCH16", label: "2023年1月10日 終於放假了嗚嗚 大家新年快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/ZKMzWhFL7dPwB5iJ7", label: "2023年1月20日 病人不乖 可以物理打昏" },
+      { type: "link", content: "https://photos.app.goo.gl/rhJWbaLHzJUrbCH16", label: "2023年1月20日 終於放假了嗚嗚 大家新年快樂" },
       { type: "link", content: "https://photos.app.goo.gl/rb2kauYHFhqDqxh58", label: "2022年1月20日 好痛苦 就算找資料也完全看不懂PAOD到底哪條血管塞" },
       { type: "link", content: "https://photos.app.goo.gl/XyhMq7Km8k8TKsZ78", label: "2022年1月20日 \
         台北 哈哈羅55泰式船麵 信義店 非常道地的泰式 就是直接把泰國的路邊攤搬來台灣一樣 \
@@ -2249,13 +2249,13 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/9ou3BPZ95eAWfFXV8", label: "2019年2月14日 情人節快樂 謝謝這次南下見面的朋友們很高興認識你們&好久不見 也謝謝陪喜歡到處旅遊的我奔波 希望大家快樂的都繼續 不快樂的趕快好運來 謝謝帥牙醫" },
       { type: "link", content: "https://photos.app.goo.gl/mBP2L6ASAizuTAHp6", label: "2019年2月14日 情人節快樂 每一天很認真的經營感情 雖然偶爾感到無力與懊悔 但因為彼此正向的成長 所以這一路走得很值得 我們要繼續加油" },
       { type: "link", content: "https://photos.app.goo.gl/nVLhwBQkk1oEBRsx7", label: "2019年2月14日 台南相機店我推薦這間" },
-      { type: "link", content: "https://photos.app.goo.gl/GsBR3djdaZ9itXsX9", label: "2018年2月24日 謝謝底片保存了 關於我 關於妳 關於我們彼此的回憶 底片新手 立志永遠當底片新手 情人節快樂XD" },
-      { type: "link", content: "https://photos.app.goo.gl/uWBZ6caTwWDRHC7h7", label: "2018年2月24日 夜深了 為了明天的情人節開始煩惱錢包不夠厚了嗎 記得睡前把充電線插上 明早才會有充飽飽的錢包唷 晚安 實用推 低能兒" },
-      { type: "link", content: "https://photos.app.goo.gl/pv9pSE4gwf2TeVp37", label: "2018年2月24日 急問 訊息回一半 陌生欄全部空白 這是 有人也是這樣嗎 沒有按到刪除 也沒有按全部婉拒啊啊啊啊 陌生訊息的朋友稍微等等 處理之後仍然會回覆唷" },
-      { type: "link", content: "https://photos.app.goo.gl/XkJuA5fguzxua1CH6", label: "2018年2月24日 似乎過一陣子會跑回來 訊息回家之後我會立即回覆 剛好回到快眼脫窗你 暫停一下" },
-      { type: "link", content: "https://photos.app.goo.gl/o9NvtcuMYa4UHZz66", label: "2018年2月24日 02.14風火輪之戀 攝影有無限可能 就跟人生一樣" },
-      { type: "link", content: "https://photos.app.goo.gl/aqtfEwsbAy2Db3n99", label: "2018年2月24日 獻上去年在蘭嶼氣象站 臨時要求路人當麻豆 什麼打光道具都沒有 靠頭燈+桌面反光當反光板 完成的偽婚紗 目前最喜歡的情侶合照之一 希望有機會拍銀河婚紗啊啊啊阿 祝大家情人節快樂" },
-      { type: "link", content: "https://photos.app.goo.gl/pD3hqGFE2RSJsmk16", label: "2018年2月24日 Tell me would you really ride for me Thanks to you all for 5K followers & Happy Valentine's Day New Picture Happy Valentine's Day" },
+      { type: "link", content: "https://photos.app.goo.gl/GsBR3djdaZ9itXsX9", label: "2018年2月14日 謝謝底片保存了 關於我 關於妳 關於我們彼此的回憶 底片新手 立志永遠當底片新手 情人節快樂XD" },
+      { type: "link", content: "https://photos.app.goo.gl/uWBZ6caTwWDRHC7h7", label: "2018年2月14日 夜深了 為了明天的情人節開始煩惱錢包不夠厚了嗎 記得睡前把充電線插上 明早才會有充飽飽的錢包唷 晚安 實用推 低能兒" },
+      { type: "link", content: "https://photos.app.goo.gl/pv9pSE4gwf2TeVp37", label: "2018年2月14日 急問 訊息回一半 陌生欄全部空白 這是 有人也是這樣嗎 沒有按到刪除 也沒有按全部婉拒啊啊啊啊 陌生訊息的朋友稍微等等 處理之後仍然會回覆唷" },
+      { type: "link", content: "https://photos.app.goo.gl/XkJuA5fguzxua1CH6", label: "2018年2月14日 似乎過一陣子會跑回來 訊息回家之後我會立即回覆 剛好回到快眼脫窗你 暫停一下" },
+      { type: "link", content: "https://photos.app.goo.gl/o9NvtcuMYa4UHZz66", label: "2018年2月14日 02.14風火輪之戀 攝影有無限可能 就跟人生一樣" },
+      { type: "link", content: "https://photos.app.goo.gl/aqtfEwsbAy2Db3n99", label: "2018年2月14日 獻上去年在蘭嶼氣象站 臨時要求路人當麻豆 什麼打光道具都沒有 靠頭燈+桌面反光當反光板 完成的偽婚紗 目前最喜歡的情侶合照之一 希望有機會拍銀河婚紗啊啊啊阿 祝大家情人節快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/pD3hqGFE2RSJsmk16", label: "2018年2月14日 Tell me would you really ride for me Thanks to you all for 5K followers & Happy Valentine's Day New Picture Happy Valentine's Day" },
       { type: "link", content: "https://photos.app.goo.gl/p6YpHJuMD1N1hSrM8", label: "2017年2月14日 情人節一個人走走即可 感恩每一位朋友家人學長學姊 遇見你們我很幸運 願自已變得更好遇上對的妳" }
     ],
     "15": [
@@ -3198,7 +3198,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/HsApxmM4dNSQyvvw7", label: "2017年3月5日 明天值班 先喝個芒果汁 吃個鳳梨酥壓壓驚 ㄏㄏ" }
     ],
     "6": [
-      { type: "link", content: "https://photos.app.goo.gl/ojqGDvQphtEKF2iK6", label: "2026年3月9日 白痴都不想變大陸人 我寧願歸化日本或變成美國人 寧願當初日本繼續統治台灣都更好 大陸除了文化歷史跟自然資源以外沒什麼好羨慕" },
+      { type: "link", content: "https://photos.app.goo.gl/ojqGDvQphtEKF2iK6", label: "2026年3月6日 白痴都不想變大陸人 我寧願歸化日本或變成美國人 寧願當初日本繼續統治台灣都更好 大陸除了文化歷史跟自然資源以外沒什麼好羨慕" },
       { type: "link", content: "https://photos.app.goo.gl/bVTeTPRbjmzKa72E6", label: "2026年3月6日 您這樣是怎麼通過心臟內科這個魔王級別的超難考試的啊 光是生活起居就沒辦法好好讀書 訓練跟值班了吧 辛苦了" },
       { type: "link", content: "https://photos.app.goo.gl/t6nViknirCX8xNpd9", label: "2026年3月6日 要存起來" },
       { type: "link", content: "https://photos.app.goo.gl/FbAdT3EAvF6ikJGw7", label: "2026年3月6日 原來是不小心按到了 知道了 雖然你也沒特別說 但我可能以後會不小心買到 但我也沒要用 如果不小心買了就給你用好了" },
@@ -8706,7 +8706,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/VmGMBKufqm8JPzTR7", label: "2025年6月18日 好可愛的小熊" },
       { type: "link", content: "https://photos.app.goo.gl/zSsgAJU1VPcgdxt86", label: "2025年6月18日 小小跑接著晚上健身 有累 運動不能總是逃避" },
       { type: "link", content: "https://photos.app.goo.gl/N4ZwNXryQ5bFJmQt9", label: "2025年6月18日 怎麼有辦法練成這樣" },
-      { type: "link", content: "https://photos.app.goo.gl/LKHhNRBnm7erguSM6", label: "2023年6月17日 也太好吃了吧" },
+      { type: "link", content: "https://photos.app.goo.gl/LKHhNRBnm7erguSM6", label: "2023年6月18日 也太好吃了吧" },
       { type: "link", content: "https://photos.app.goo.gl/oXvY95gmPVGAq35h6", label: "2022年6月18日 看完Curry的三分真的傻眼 無視距離 也沒有固定的起跳動作 直接說投就投 根本來不及守 還狂進 這怎麼守 太神啦" },
       { type: "link", content: "https://photos.app.goo.gl/LAz5913fjNFxMWsM7", label: "2019年6月18日 每天2100後都覺得精疲力竭 網路圖片深度梗" }
     ],
@@ -11486,27 +11486,27 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/78GfsgwVfA6aoYfa9", label: "2017年9月19日 看得眼花花 照片少修一點 論文多讀一點 橫批 能森啊" }
     ],
     "20": [
-      { type: "link", content: "https://photos.app.goo.gl/PpfA4QBv3jqDqk9F6", label: "2026年9月29日 \
+      { type: "link", content: "https://photos.app.goo.gl/PpfA4QBv3jqDqk9F6", label: "2026年9月20日 \
         其他醫生都在罵你 你不要理他們 我是醫生 你信我就好 你是對的 健保都是騙錢 西醫就是騙術 \
         答應我 以後別再踏入台灣任何一家西醫院被騙了好嗎 生病在家休息就會好了 不要再去給西醫騙錢了" },
-      { type: "link", content: "https://photos.app.goo.gl/KXv2X1tArKAZHVpS7", label: "2026年9月29日 你的症狀跟 真話俠 蠻像的 都有嚴重以自我為中心的幻想" },
-      { type: "link", content: "https://photos.app.goo.gl/FEZqVAkf6rk7eRQeA", label: "2026年9月29日 又是這種帳號" },
-      { type: "link", content: "https://photos.app.goo.gl/Yx8SQNg4Dxg1EQRc6", label: "2026年9月29日 但AI論述不至於這麼白癡XD" },
-      { type: "link", content: "https://photos.app.goo.gl/REXA6VmAfBDwPnNr7", label: "2026年9月29日 並沒有" },
-      { type: "link", content: "https://photos.app.goo.gl/hgNmMj9iNbbsEQek7", label: "2026年9月29日 你以為醫生回家在幹嘛 跟你一樣發廢文嗎 醫界最不缺的就是下班時間必須做報告跟讀書 看一堆文獻" },
-      { type: "link", content: "https://photos.app.goo.gl/WvmdkFETzSXYgZMs5", label: "2026年9月29日 \
+      { type: "link", content: "https://photos.app.goo.gl/KXv2X1tArKAZHVpS7", label: "2026年9月20日 你的症狀跟 真話俠 蠻像的 都有嚴重以自我為中心的幻想" },
+      { type: "link", content: "https://photos.app.goo.gl/FEZqVAkf6rk7eRQeA", label: "2026年9月20日 又是這種帳號" },
+      { type: "link", content: "https://photos.app.goo.gl/Yx8SQNg4Dxg1EQRc6", label: "2026年9月20日 但AI論述不至於這麼白癡XD" },
+      { type: "link", content: "https://photos.app.goo.gl/REXA6VmAfBDwPnNr7", label: "2026年9月20日 並沒有" },
+      { type: "link", content: "https://photos.app.goo.gl/hgNmMj9iNbbsEQek7", label: "2026年9月20日 你以為醫生回家在幹嘛 跟你一樣發廢文嗎 醫界最不缺的就是下班時間必須做報告跟讀書 看一堆文獻" },
+      { type: "link", content: "https://photos.app.goo.gl/WvmdkFETzSXYgZMs5", label: "2026年9月20日 \
         首爾 世界塔 將近半年的潛水 終於通過人生中最困難的心臟專科考試 這是一張重要的入門票 \
         代表我必須在這個領域更加深入的學習 也代表必須對患者負責 準備考試的過程 我只體會到自己對於專業領域的所知甚少 \
         在準備的期間也體會到未曾想像的壓力 過去參加大學學測跟考醫生執照時 我都沒有在考場極度的緊張想吐 \
         也沒有在準備的階段身體失調 甚至不斷失眠與拉肚子 如果有人給我一百萬 我願意再一次入伍訓 \
         但如果有人給我一百萬 我是絕對不會再想考一次 趁著考完後的恢復階段 開始整理今年在韓國的照片暖暖身 \
         除了風景以外 我想花點心力研究街頭攝影的後製與色調 也想稍微做點旅行的短影片 找回對攝影熱愛的感覺真的很棒" },
-      { type: "link", content: "https://photos.app.goo.gl/rBP1bp165tfu9QiJ6", label: "2026年9月29日 \
+      { type: "link", content: "https://photos.app.goo.gl/rBP1bp165tfu9QiJ6", label: "2026年9月20日 \
         最近心肌梗塞的新聞事件 看到一位民眾提問如果真的對aspirin過敏怎麼辦 說真的我還沒想到這個情境 \
         原來STEMI還是先p2y12i loading然後做aspirin desensitization 又學到了" },
-      { type: "link", content: "https://photos.app.goo.gl/hFaupnnwzyN4UFi18", label: "2026年9月29日 好好吃 吃飽休息等下來運動" },
-      { type: "link", content: "https://photos.app.goo.gl/Qs6YFvcugUodLRyR8", label: "2026年9月29日 達成本週兩次復健跑了" },
-      { type: "link", content: "https://photos.app.goo.gl/dVRhmZ5m1WKAqZ4a9", label: "2026年9月29日 跑步 讚讚" },
+      { type: "link", content: "https://photos.app.goo.gl/hFaupnnwzyN4UFi18", label: "2026年9月20日 好好吃 吃飽休息等下來運動" },
+      { type: "link", content: "https://photos.app.goo.gl/Qs6YFvcugUodLRyR8", label: "2026年9月20日 達成本週兩次復健跑了" },
+      { type: "link", content: "https://photos.app.goo.gl/dVRhmZ5m1WKAqZ4a9", label: "2026年9月20日 跑步 讚讚" },
       { type: "link", content: "https://photos.app.goo.gl/7m2mJ4VBY78o5wax5", label: "2017年9月20日 \
         四年前第一次去蘭嶼就跟自己約好 畢業之前會去第二次 而第二次便這麼倉促的出發 老實說若不是已經繳了住宿費 還真的沒啥動力 \
         這是大學第一次獨自的長途旅行 什麼行程都沒準備反正就是丟自己過去 體會一下何謂流浪 大的登山背包帶了電腦 相機 腳架等 每一處都可以是落腳點 \
