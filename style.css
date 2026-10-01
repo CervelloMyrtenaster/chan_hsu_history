@@ -180,6 +180,7 @@ body.dark-mode {
     flex-direction: column;
     flex: 1;
     min-height: 0;
+    overflow-y: auto;
 }
 header h1 #homeBtn,
 header h1 #homeBtn:hover {
@@ -275,6 +276,7 @@ header button {
 
 /* 統計儀表板樣式 */
 .dashboard {
+  flex-shrink: 0;
   padding: var(--space-sm);
   margin: 10px;
   display: none;
