@@ -86,7 +86,9 @@ const config = {
 const FAVORITES_KEY = 'chan_hsu_favorites';
 const viewState = { name: 'main', month: null, day: null, search: null, favoritesSort: 'added' };
 const speechState = { speaking: false, paused: false, utterance: null };
-const timers = { content: null, wordcloud: null, quiz: null, cloze: null };
+const timers = { content: null, wordcloud: null, quiz: null, cloze: null, search: null };
+const wordCloudCache = new Map();
+let firstContentRender = true;
 let favoritesCache = null;
 let trendChartInstance = null;
 let uniqueYears = [];
@@ -150,6 +152,7 @@ function stopSpeech() {
 function showView(viewName) {
     stopSpeech();
     clearTimer('content');
+    clearTimer('search');
     contentDiv.classList.remove('fade-out');
     if (viewName !== 'dashboard') clearTimer('wordcloud');
     if (viewName !== 'quiz') clearTimer('quiz');
@@ -178,14 +181,20 @@ function showView(viewName) {
 // 帶有淡入淡出效果的內容更新函數
 function updateContentWithFade(content, callback) {
     clearTimer('content');
-    contentDiv.classList.add('fade-out');
-    timers.content = setTimeout(() => {
+    const replaceContent = () => {
         timers.content = null;
         contentDiv.replaceChildren(content);
         contentDiv.scrollTop = 0;
         contentDiv.classList.remove('fade-out');
+        firstContentRender = false;
         if (callback) callback();
-    }, 200);
+    };
+    if (firstContentRender) {
+        replaceContent();
+    } else {
+        contentDiv.classList.add('fade-out');
+        timers.content = setTimeout(replaceContent, 200);
+    }
 }
 const yearRegex = /^(\d{4})年/;
 const dateRegex = /^\d{4}年\d{1,2}月\d{1,2}日\s*/;
@@ -512,31 +521,58 @@ function showRecords(month, day, skipPush = false) {
 }
 
 // 搜尋功能 結果中的日期可點回到該日
+function createSearchResult(record, keyword, favorites) {
+    const item = document.createElement('div'); item.className = 'search-result-item';
+    const link = document.createElement('a'); link.href = '#'; link.className = 'search-result-date';
+    link.textContent = record.month + '月' + record.day + '日';
+    link.dataset.navigateDate = 'true'; link.dataset.month = record.month; link.dataset.day = record.day;
+    item.append(link, createRecordElement(record, record.month + '-' + record.day + '-' + record.index, 'default', keyword, favorites));
+    return item;
+}
 function createSearchPage(keyword) {
     const container = document.createElement('div');
     const title = document.createElement('h2'); title.textContent = '搜尋結果：「' + keyword + '」';
     container.appendChild(title);
     const lower = keyword.toLowerCase(), favorites = new Set(getFavorites());
     const matches = recordIndex.filter(record => String(record.label || '').toLowerCase().includes(lower) || String(record.content || '').toLowerCase().includes(lower));
-    matches.forEach(record => {
-        const item = document.createElement('div'); item.className = 'search-result-item';
-        const link = document.createElement('a'); link.href = '#'; link.className = 'search-result-date';
-        link.textContent = record.month + '月' + record.day + '日';
-        link.dataset.navigateDate = 'true'; link.dataset.month = record.month; link.dataset.day = record.day;
-        item.append(link, createRecordElement(record, record.month + '-' + record.day + '-' + record.index, 'default', keyword, favorites));
-        container.appendChild(item);
-    });
+    // Small searches keep their original rendering behavior. Large searches
+    // retain every result, but yield between batches instead of blocking input.
+    const batchSize = 50;
+    let nextIndex = 0;
+    function appendBatch() {
+        const fragment = document.createDocumentFragment();
+        const started = performance.now();
+        let count = 0;
+        do {
+            fragment.appendChild(createSearchResult(matches[nextIndex++], keyword, favorites));
+            count++;
+        } while (nextIndex < matches.length && count < batchSize && performance.now() - started < 8);
+        container.appendChild(fragment);
+    }
+    // At most 50 records are constructed before the first search results appear.
+    if (matches.length) appendBatch();
     if (!matches.length) {
         const message = document.createElement('p'); message.textContent = '查無符合的記錄'; container.appendChild(message);
     }
-    return container;
+    if (nextIndex < matches.length) container.setAttribute('aria-busy', 'true');
+    function appendRemaining() {
+        if (!container.isConnected || viewState.name !== 'main' || viewState.search !== keyword) return;
+        appendBatch();
+        if (nextIndex < matches.length) timers.search = setTimeout(appendRemaining, 0);
+        else { timers.search = null; container.removeAttribute('aria-busy'); }
+    }
+    function startRemaining() {
+        if (nextIndex < matches.length) timers.search = setTimeout(appendRemaining, 0);
+    }
+    return { container, startRemaining };
 }
 function searchRecords(keyword, skipPush = false) {
     const value = String(keyword || '').trim();
     if (!value) return;
     showView('main');
     viewState.month = viewState.day = null; viewState.search = value;
-    updateContentWithFade(createSearchPage(value));
+    const { container, startRemaining } = createSearchPage(value);
+    updateContentWithFade(container, startRemaining);
     if (!skipPush) pushRoute({ search: value });
     sidebar.classList.remove('open');
 }
@@ -847,6 +883,13 @@ function buildWordCloudList(selectedYear) {
 
     return { list, message: '' };
 }
+function getWordCloudList(selectedYear) {
+    // Data is static during this page visit. Cache only the final 150 words,
+    // not the large intermediate n-gram arrays or rendered DOM.
+    const key = String(selectedYear);
+    if (!wordCloudCache.has(key)) wordCloudCache.set(key, buildWordCloudList(selectedYear));
+    return wordCloudCache.get(key);
+}
 function showWordCloudMessage(message) {
     const paragraph = document.createElement('p'); paragraph.className = 'loading-text'; paragraph.textContent = message;
     dom['wordcloud-canvas'].replaceChildren(paragraph);
@@ -861,10 +904,11 @@ function createWordCloud(selectedYear = 'all') {
         timers.wordcloud = null;
         if (viewState.name !== 'dashboard') return;
         try {
-            const { list, message } = buildWordCloudList(selectedYear);
+            const { list, message } = getWordCloudList(selectedYear);
             if (!list.length) { showWordCloudMessage(message); return; }
             WordCloud(canvas, {
-                list: list,
+                // The library receives its own pairs, keeping cached data immutable.
+                list: list.map(([word, weight]) => [word, weight]),
                 gridSize: Math.round(16 * canvas.offsetWidth / 1024),
                 weightFactor: function(size) {
                     return Math.pow(size, 0.7) * 6;
