@@ -10191,6 +10191,8 @@ const records = {
     ],
     "19": [
       { type: "link", content: "https://photos.app.goo.gl/jnJvtb3yv5UPPhpM8", label: "2026年7月19日 8才是最好的 但赫然發現是會議室 那9勉強是第二好 如果旁邊能再圍起來就完美" },
+      { type: "link", content: "https://photos.app.goo.gl/tSH8yoRSXiKmgqqp6", label: "2026年7月19日 笑死 就地蓋土地公廟XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/g5zM4gt7tXSyseqY7", label: "2026年7月19日 原來AVSD長這樣 這應該是primum ASD type" },
       { type: "link", content: "https://photos.app.goo.gl/ZQY7aSD6dmZ5ut4S6", label: "2025年7月19日 \
         國考標準答案是D 醫師就是犯賤 病人進去牛排館吃牛排 點最貴的來吃 吃完不付錢沒犯法 但看病不一樣 \
         研究花了上千萬研究出越來越好的DES 醫師救命之餘幫病人放再狹窄率更低的自費DES 結果病人撿回一命之後 還可以不認帳 \
@@ -10244,6 +10246,8 @@ const records = {
         大概這樣啦 要說為急忙跑來的阿嬤班長打抱不平也是真的ㄏㄏ" }
     ],
     "20": [
+      { type: "link", content: "https://photos.app.goo.gl/5QjFS3WqUxJEQEQ7A", label: "2026年7月20日 我也是原本超怕狗" },
+      { type: "link", content: "https://photos.app.goo.gl/7okUpTSvFZtggkXC7", label: "2026年7月20日 我好像也需要學" },
       { type: "link", content: "https://photos.app.goo.gl/wVmHdGstbhYHSWuT6", label: "2025年7月20日 \
         原本還覺得高是民進黨少數良知 原來可以為了黨背叛良心 站在人民的對立側 甚至不惜罷免自己的恩人 只為了讓民進黨一黨獨大 真是看透這個人了XD" },
       { type: "link", content: "https://photos.app.goo.gl/WgjT4qTyBpX3c6v79", label: "2025年7月20日 Ok啊" },
@@ -10325,6 +10329,14 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/UMGAB69dgdBFAq9n7", label: "2017年7月20日 原來外面已經有人做了 三總有沒可能也跟進呢 不只讓一般民眾理解剖腹產的過程 也能順便為媽媽跟寶寶留紀錄" }
     ],
     "21": [
+      { type: "link", content: "https://photos.app.goo.gl/FgvCp53gvu3rsYjE8", label: "2026年7月21日 \
+        我記得不是唯一 人體應該是唯二有兩條動脈為缺氧血 另一個應該是胎盤循環中的臍動脈umbilical arteries 記錯勿鞭 脫離國考太久QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/jZXUVLi751GcNrav8", label: "2026年7月21日 今天就當陳雷第一次社群留言紀念日" },
+      { type: "link", content: "https://photos.app.goo.gl/4HfA2r4gbLfYTJac8", label: "2026年7月21日 欸 這有點誇張XDDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/SGdDff8EVaPkfpdBA", label: "2026年7月21日 Braundwald and Husrt" },
+      { type: "link", content: "https://photos.app.goo.gl/oQak8LnDLrR3BiR19", label: "2026年7月21日 毛毛小凳子" },
+      { type: "link", content: "https://photos.app.goo.gl/S2Uwo1DhDTZfQYRB9", label: "2026年7月21日 小狗狗才是真正的畢業禮物" },
+      { type: "link", content: "https://photos.app.goo.gl/wJ3Rquko1XpxiTzR9", label: "2026年7月21日 題目出現幾百次了 終於看到球囊擴張式TAVI長這樣 其實就跟導管氣球一樣的概念" },
       { type: "link", content: "https://photos.app.goo.gl/HC8JfRnUFGue514n8", label: "2025年7月21日 \
         生病給chatgpt看就好 看什麼醫生 應該怪你自己沒有把母親全部交給chatgpt吧 你那麼厲害 母親那麼健康 去什麼醫院啊 \
         傻瓜才去醫院治療 你那麼強 用chatgpt幫母親治療一定會康復 也不用花錢住單人房了 你該好好檢討你自己啦 是你害了你的母" },
@@ -10384,6 +10396,13 @@ const records = {
         目前還要看場地狀況 可能免費或幾百 我們會儘快做出決定 感謝大家支持 若活動舉辦成功 不會讓你們失望的" }
     ],
     "22": [
+      { type: "link", content: "https://photos.app.goo.gl/BgRh39PahqSwVTCt7", label: "2026年7月22日 我完全沒辦法 我不可能讓我以外的人騎機車載你 這個男生不及格" },
+      { type: "link", content: "https://photos.app.goo.gl/KroMmdLgaXtXBEn16", label: "2026年7月22日 \
+        背所有可能抑制心臟收縮功能的抗心律不整藥物口訣 Negative inotropic effect 抑制LV function \
+        口訣 洗PD還吃Beta blocker難怪Cardiac Failure 字頭分別代表procainamide disopyramide \
+        beta blocker特性的propranolol propafenone satolol CCB verapamil diltiazem flecainide \
+        具有beta blocker特性的抗心律不整藥物就更好背了 只要背propanolol就好 \
+        取字頭pro-pafenone 取字尾sato-lol 再加個通道全阻斷的amiodarone跟dronedarone就完事" },
       { type: "link", content: "https://photos.app.goo.gl/4ycUxmQgV1MoGSe78", label: "2025年7月22日 \
         弱者才懂弱者的需求 想了很久 與其應付老師沒效率的方法 不如犧牲自己的時間來做醫學生國考複習 回想當初連兩次都剛好及格通過 \
         沒加分沒申覆 我知道沒讀書跟比較笨的學生需要怎麼教 我決定花點時間 用自己的方式來增加學弟妹的國考通過率 但對我毫無幫助 \
@@ -10424,6 +10443,15 @@ const records = {
         死都不會如此痛苦 800多天的努力只要一句話就能否定我 獨角戲罷了沒有意義" }
     ],
     "23": [
+      { type: "link", content: "https://photos.app.goo.gl/nsHzc19bhyjraa9W6", label: "2026年7月23日 不談政治 只談專業 這種事情會相信的人是不是被割腦了" },
+      { type: "link", content: "https://photos.app.goo.gl/ecasuXCdKMsXo4NA8", label: "2026年7月23日 \
+        我就是以前只想下課跟翹課的clerk 從pgy開始想要認真對得起病人對得起自己的時候 才發現已經太慢了 \
+        同學程度早就遙不可及 一路上追的很辛苦 成績不好 好的科都被選走 只能繼續努力苦撐 \
+        所以我之前在上課之前 都會用自己的例子告誡學弟妹 沒有人在疾病面前是天才 \
+        如果還有一絲想要真的治療病人那就趁早開始努力 至少趁還有人願意教的時候QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/uEt33xWqNLyBZXNj7", label: "2026年7月23日 當然有的 學生很多都不笨 M型分佈" },
+      { type: "link", content: "https://photos.app.goo.gl/fVbgQUyBUexjcGfr6", label: "2026年7月23日 他感覺需要你凱瑞了" },
+      { type: "link", content: "https://photos.app.goo.gl/ZckKjqFynn5PaZuB6", label: "2026年7月23日 Ok我載就好ㄚ" },
       { type: "link", content: "https://photos.app.goo.gl/MU5FnbTfcyfExeDt5", label: "2025年7月23日 好舒壓 就是要這樣對付那些抽煙亂丟的87" },
       { type: "link", content: "https://photos.app.goo.gl/U7mLhVNo9aydoPqq6", label: "2025年7月23日 \
         我在這裡呼籲 請全台灣人民認真思考跟認清台灣醫療的悲哀之處 不要平常沒生病作壁上觀 生病了才來哀求沒病房沒護理師沒醫師 \
@@ -10480,6 +10508,11 @@ const records = {
         修著以前長途旅行的照片 一點一滴回想著檢討著" }
     ],
     "24": [
+      { type: "link", content: "https://photos.app.goo.gl/VUXUvURVey8uZwhY9", label: "2026年7月24日 強烈建議政府應該立法 醫師或醫院有權把某些病人拉黑名單 在台灣不是每個人都有資格享受健保帶來的方便 尤其刁民" },
+      { type: "link", content: "https://photos.app.goo.gl/Qiv5MmVwfFoZoY2J7", label: "2026年7月24日 學長講的非常好欸 不光是臨床 經單純專科考試 就有非常多種版本的指引 有時就差那麼一點 真的覺得這些應該要有統一標準" },
+      { type: "link", content: "https://photos.app.goo.gl/S2wTWShen3WkLNqv5", label: "2026年7月24日 \
+        我終於有辦法十秒內看出這是什麼病了 可惜在口試只是基本題 以前是完全沒辦法看得懂 \
+        滑手機訓練有點效果了 但心臟超音波還是太難" },
       { type: "link", content: "https://photos.app.goo.gl/7CJecYepxz3m1aW19", label: "2025年7月24日 健保署什麼爛方法都可以用 但就是不用根本可以解決的辦法 醫護大加薪" },
       { type: "link", content: "https://photos.app.goo.gl/wsYfHYS3Ccvmi6ut6", label: "2025年7月24日 我以為衛福部會騙人是常識 沒想到還有讀到大學還這麼蠢的" },
       { type: "link", content: "https://photos.app.goo.gl/CVKbsVPkJfn4d1D57", label: "2025年7月24日 我海軍+陸戰隊排長都當過" },
@@ -10548,6 +10581,7 @@ const records = {
         歡迎追蹤並找我交流 婚禮婚紗 晨昏風景 街拍夜景銀河人文 人像創作 表演商攝網拍 都有涉略 有服務需求歡迎訊息詢問唷" }
     ],
     "25": [
+      { type: "link", content: "https://photos.app.goo.gl/iFxuLoiouuPkbhKC7", label: "2026年7月25日 ARVC" },
       { type: "link", content: "https://photos.app.goo.gl/AE7eva1NMgQ1yfcW6", label: "2025年7月25日 已經一年沒有中獎了" },
       { type: "link", content: "https://photos.app.goo.gl/gaXkWTSF7mJiXLSF7", label: "2025年7月25日 幹好好笑 下次我們也玩這個" },
       { type: "link", content: "https://photos.app.goo.gl/C8DmRiAvVfzGhpLXA", label: "2024年7月25日 \
@@ -10574,6 +10608,10 @@ const records = {
         可以 先給我們轉讓人的姓名 當天請轉讓接受人出示身分證核對即可 若報名系統出現問題該怎麼辦 私訊wilhelmchangphotography" }
     ],
     "26": [
+      { type: "link", content: "https://photos.app.goo.gl/jbPVtEawkqwhtDn16", label: "2026年7月26日 我記起來了" },
+      { type: "link", content: "https://photos.app.goo.gl/iyzXQ87FaSk18a7AA", label: "2026年7月26日 我也會刮水ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/r5MkJgzsR6mu8VVH6", label: "2026年7月26日 棒成這樣捏" },
+      { type: "link", content: "https://photos.app.goo.gl/kjM8JfmGREv5LZkQ9", label: "2026年7月26日 阿多是發生什麼事XD" },
       { type: "link", content: "https://photos.app.goo.gl/ouQ6NMm3MdCkcZvx8", label: "2025年7月26日 偏甜口味的鱔魚意麵 我自己很喜歡" },
       { type: "link", content: "https://photos.app.goo.gl/H4mteT9csNcEwUrg9", label: "2025年7月26日 不管再怎麼忙 工作再怎麼疲憊 每個月都一定要有好好相處的時間" },
       { type: "link", content: "https://photos.app.goo.gl/7sDwmrdzC5k7Y2zi7", label: "2024年7月26日 \
@@ -10605,6 +10643,9 @@ const records = {
         我會好好思考我為何而活 活著對我的意義又是什麼 在茫然中 前進 思考 徹底反思 人生 意義 思考 反省" }
     ],
     "27": [
+      { type: "link", content: "https://photos.app.goo.gl/wEAmhDEFiRmBW5iM7", label: "2026年7月27日 魚油是下降TG為主 而且你要吃超多才有心血管風險降低的效果" },
+      { type: "link", content: "https://photos.app.goo.gl/sw89LTNp34jVvDf89", label: "2026年7月27日 如果這種救人的活 做一次給付幾十萬到幾百萬 那就不會有這種狀況 不是說要扯遠 但就是事實" },
+      { type: "link", content: "https://photos.app.goo.gl/xX2i76e8WHHahdKz9", label: "2026年7月27日 Severe MS CW doppler" },
       { type: "link", content: "https://photos.app.goo.gl/id91AABUXiAYENqj7", label: "2025年7月27日 \
         完全支持啊 台灣不是怕戰 是執政黨搞亂整個台灣 分裂所有不認同他們的人 清算在野黨 我就問一句 要大罷免可以 \
         不適任的立委就應該下台 那請問民進黨執政時總統府被共諜滲透 這種鐵錚錚的事實 有沒有民進黨立委應該被罷免 \
@@ -10638,6 +10679,14 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/35hrc4HfVrC8oereA", label: "2018年7月27日 我的抽獎截止時間到12:30 請大家點入文章抽起來吧 其他人的截止時間是20:00 留言+tag我們在限時+follow我們" }
     ],
     "28": [
+      { type: "link", content: "https://photos.app.goo.gl/9AWMWgb6BKvgFSpX9", label: "2026年7月28日 \
+        看到這則報導 再對比現在自己的生活型態真心覺得很可悲 身心健康早已不復存在 \
+        舊時代有個錯誤觀念 認為應該努力成家立業甚至在工作上有成就 能造福下一代 大錯特錯 \
+        維持自己的身心健康 不讓自己成為家人跟健保體制的負擔才是造福下一代 \
+        祈禱老天爺給我一點考運 能不要重考 考過之後要認真過自己想要的人生了 對自己的健康負責" },
+      { type: "link", content: "https://photos.app.goo.gl/W6m6BVCCzkiPhxGu8", label: "2026年7月28日 我又不是這群的" },
+      { type: "link", content: "https://photos.app.goo.gl/y5N9bcRxwcij8kXSA", label: "2026年7月28日 這個氛圍我也超愛" },
+      { type: "link", content: "https://photos.app.goo.gl/C23QEAdgV5sgPq7e8", label: "2026年7月28日 人生榜樣" },
       { type: "link", content: "https://photos.app.goo.gl/Kb2mhagUm478K5Bj7", label: "2025年7月28日 我不喜歡綠共 但也完全不能認同館長 這種說法叫做 以偏概全 你不是從小在大陸出生的 沒資格講中國人民過的好不好" },
       { type: "link", content: "https://photos.app.goo.gl/iZ1ZezX2ZdAeQNz6A", label: "2025年7月28日 醫師也得加薪 你漏掉了" },
       { type: "link", content: "https://photos.app.goo.gl/jtawriUswa8QfytF7", label: "2025年7月28日 這影片原本是錄好用在台灣開戰之前播的嗎" },
@@ -10672,6 +10721,12 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/WkMt3G5myYie9jUSA", label: "2018年7月28日 其實比起玩遊戲 我覺得mike1357935比較喜歡解釋規則== 如果不讓他解釋他還會生氣" }
     ],
     "29": [
+      { type: "link", content: "https://photos.app.goo.gl/TRLWmiTa8mgYy6hNA", label: "2026年7月29日 \
+        不說說 這個月早就一路跌一路買 投資不是投機 重點是有穩定的工作跟核心策略 不被別人影響 \
+        再跌就再加碼 上漲就全部賣掉 981這種註定長期會輸大盤的股票 就應該當好他提款機的角色 \
+        提款之後再把錢放0050長期投資 沒有那麼難 不需要預測低點或學習技術" },
+      { type: "link", content: "https://photos.app.goo.gl/EskmxU3NdZXwkzEx5", label: "2026年7月29日 心導管狂站士+可能重考邊緣人 Photography Traveler" },
+      { type: "link", content: "https://photos.app.goo.gl/potZE75upgi5XYbn6", label: "2026年7月29日 我都直接轉32看七龍珠" },
       { type: "link", content: "https://photos.app.goo.gl/bMdXdqhgot3Rrz4ZA", label: "2025年7月29日 \
         學長我覺得任何用片面資訊就直接下定論都是不合理的 不管是什麼事情 我相信大陸有龐大的資金資源發展一定不差 但這不一定等於他們人們過的好不好" },
       { type: "link", content: "https://photos.app.goo.gl/GY9QkkyBSjienZJn8", label: "2025年7月29日 學長是說在大陸房子被套嗎 " },
@@ -10711,6 +10766,8 @@ const records = {
         當然 格外感謝開車的蛤哥 還有兩位厲害的攝影朋友陪同 讓等景跟白跑的過程不無聊" }
     ],
     "30": [
+      { type: "link", content: "https://photos.app.goo.gl/JjbYFCzFcDyQocA96", label: "2026年7月30日 巨胖麵包" },
+      { type: "link", content: "https://photos.app.goo.gl/5BYJnqxscBC8eyW17", label: "2026年7月30日 哪有 我忘記加上表情符號" },
       { type: "link", content: "https://photos.app.goo.gl/4s8WWbLvJRgGg2Q17", label: "2025年7月30日 真可憐 又是一個不知道兇手的衛福部的雕" },
       { type: "link", content: "https://photos.app.goo.gl/DFjB6YiV5eitYVJL8", label: "2025年7月30日 \
         題外話一下 我買這張記憶卡還有另個原因 就是以前小容量記憶卡 每次拍完都要習慣刪照片 \
@@ -10784,6 +10841,19 @@ const records = {
         我會懷念學生時代的美好的 原來時間 是這麼快啊" }
     ],
     "31": [
+      { type: "link", content: "https://photos.app.goo.gl/BxWGn2hvBYZqYa1b6", label: "2026年7月31日 我早就說這個時代沒有自備刀槍在身上真的很危險 路上瘋子一堆QQ" },
+      { type: "link", content: "https://photos.app.goo.gl/KhJe9Wtn68ZzQpNi8", label: "2026年7月31日 \
+        再說一次 不斷破低 不斷往下跌 卻讓人遲遲不敢接刀的股票 就是爛股票 會需要停損的股票就是爛股票 \
+        好的股票就是可以放心一直加碼 不能放心加碼的股票我從來不買" },
+      { type: "link", content: "https://photos.app.goo.gl/fYCYTWWMk6KYcgjn6", label: "2026年7月31日 \
+        是否為悶痛或胸骨後疼痛 是否會轉移左右手臂或後背 會的話可能心臟 \
+        時間 是否極短只有幾秒鐘或超級長數十小時 是的話不像心臟 心臟痛持續時間可能10-20分鐘 或30分鐘到兩小時 \
+        會隨著活動增加而變嚴重 休息可能變好 痛點 可以明確指出一個點再痛就不像心臟問題 \
+        皮膚 上面有紅疹就不像心臟問題 病史 是否最近剛運動有拉傷 是否平常有糖尿病抽菸等危險因子 年紀 性別 \
+        太多了網友不可能幫你看診 不確定就去掛急診 付個錢給專業的醫生看是最好的方式" },
+      { type: "link", content: "https://photos.app.goo.gl/yZpyyprmVdxpmpZy5", label: "2026年7月31日 好聰明 而且還直接坐在駕駛座露頭看哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/gaNJ1effn79QGPmXA", label: "2026年7月31日 以後一定要去" },
+      { type: "link", content: "https://photos.app.goo.gl/AQJAmuq6P6DATvGD6", label: "2026年7月31日 這當然 學長太毒了 真的超美" },
       { type: "link", content: "https://photos.app.goo.gl/1qY6CwH4zr9zuREy8", label: "2025年7月31日 \
         你是對的 請一定要堅持到底 肺水腫 全身水腫 喘到不行 高血鉀意識改變 心律不整的時候 也請務必讓中醫幫你 \
         千萬不可以讓西醫插手 加油 你很棒 去西醫只會害死你而已" },
@@ -10855,9 +10925,21 @@ const records = {
 
   "8": {
     "1": [
+      { type: "link", content: "https://photos.app.goo.gl/2W3CyHQmjy1CrVHB8", label: "2026年8月1日 \
+        我可以嗆到他祖宗十八代都跳出來 真的很可惜脆發文不需要驗智商先 不過考試前積口德 我先選擇跳過" },
+      { type: "link", content: "https://photos.app.goo.gl/Y1YKathrpT9h6sACA", label: "2026年8月1日 他耳朵好大喔" },
+      { type: "link", content: "https://photos.app.goo.gl/oBAB3TetTQ3LvWws5", label: "2026年8月1日 這是台灣醫學教育之父" },
+      { type: "link", content: "https://photos.app.goo.gl/3Wx85bRAqJzXLZGdA", label: "2026年8月1日 哈哈哈哈哈怎麼可以有這種功能XDDDD" },
       { type: "link", content: "https://photos.app.goo.gl/TtiayFjJN1ZSQUPV6", label: "2017年8月1日 就在闔眼的那剎那 小兒闌尾炎便準時敲門了 上刀囉" }
     ],
     "2": [
+      { type: "link", content: "https://photos.app.goo.gl/9yPaeuyALzDmagnt6", label: "2026年8月2日 真的欸 還有量子糾纏" },
+      { type: "link", content: "https://photos.app.goo.gl/GeWFCfCfDAmFjB52A", label: "2026年8月2日 \
+        但威爾森公園沒有到那麼頂 最近有進步 只是價格很高CP值低 他對面的波波才是真的厲害 價格差不多 但海鮮真的超好吃 同樣2000up的一餐 CP值很可以" },
+      { type: "link", content: "https://photos.app.goo.gl/g1TADQCNsibZ6JtH6", label: "2026年8月2日 考完試" },
+      { type: "link", content: "https://photos.app.goo.gl/Wipskk68rhZL55qY9", label: "2026年8月2日 好吃一直吃" },
+      { type: "link", content: "https://photos.app.goo.gl/Af6cENZK3qGPboac9", label: "2026年8月2日 純愛戰士是不會倒地的 會越來越勇" },
+      { type: "link", content: "https://photos.app.goo.gl/TYeCDXi6fARNAoUJ6", label: "2026年8月2日 沒有捏 我是本來就堅強Y" },
       { type: "link", content: "https://photos.app.goo.gl/LooHSmeHsYkpkUw2A", label: "2017年8月2日 禮物again 感謝日文老師 可以稍稍撫慰一下小兒外上刀到傍晚的心情哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/JsSfHAdcxeAm76Hk7", label: "2016年8月2日 \
         腸胃內科 實習 第一天 嗯是一切好的開始呢 因為主治出國一個禮拜啦 \
@@ -10866,9 +10948,18 @@ const records = {
         一幕一幕的回憶刷過腦海 雖然現在帶著酸苦的心情想起這些 但我相信會更好的 充實自己 讓自己比過去不一樣 過去應該直接蹓回去打電動了 \
         開工吧 期待回憶裡的場景 未來還能繼續出現在圖書館的某一角 firstchoice 回憶" }
     ],
-    "3": [],
+    "3": [
+      { type: "link", content: "https://photos.app.goo.gl/CZzwxiXwts2MbpC78", label: "2026年8月3日 \
+        兩年前為了考試喝red bull覺得超難喝 現在為了考試再買一次 還是爆幹難喝 我想他提神的最大原因 就是難喝到整個人醒過來" },
+      { type: "link", content: "https://photos.app.goo.gl/2NxiYS8KYYF5Rmtc8", label: "2026年8月3日 工程師是很爆肝 但是跟醫生比 還是小巫見大巫啦呵呵" },
+      { type: "link", content: "https://photos.app.goo.gl/CA7drCG3gYsn9drD6", label: "2026年8月3日 已收藏ㄌ" },
+      { type: "link", content: "https://photos.app.goo.gl/1vxeVks7JyzmkJzMA", label: "2026年8月3日 最遠的只有跟去的一個奇怪菲律賓小海島 希望以後可以去歐洲" },
+      { type: "link", content: "https://photos.app.goo.gl/2GoymmCCsby1VG8a6", label: "2026年8月3日 漂亮成這樣" },
+    ],
     "4": [
-      //{ type: "text", content: "測試文字" },
+      { type: "link", content: "https://photos.app.goo.gl/zxgqHsun6exsuom58", label: "2026年8月4日 只能說你是很幸運的人 不是每個有夢想想探索世界的人都能出發 多的是被生活跟工作關在牢裡的人" },
+      { type: "link", content: "https://photos.app.goo.gl/3aQqPKNXRPTTUaScA", label: "2026年8月4日 原來純素者冠心症風險增加跟homocysteine有關" },
+      { type: "link", content: "https://photos.app.goo.gl/2H1JWkLtun1bVtaz9", label: "2026年8月4日 只在書裡面看過 原來是要這樣弄" },
       { type: "link", content: "https://photos.app.goo.gl/nsukrSJaPRh8LTmD8", label: "2016年8月4日 \
         世界上有種男人跟畜生一樣 把剛分手的女生吃死死 利用這點 滿足自己齷齪噁心的性需求 我告訴你 幹你老爸老母操機掰 當初怎不把你射牆上 \
         我幹你全家 去死一死吧 最好不要讓我遇到你 以後你再敢動她 等著上社會新聞頭版 不過你應該也看不到了 操你爸媽是垃圾 沒把你教好 \
@@ -10877,6 +10968,10 @@ const records = {
         希望這個開中藥店的畜生 這禮拜給我把你那隻爛鳥勒緊 我絕對會找到你 幹你娘 幹你十八代祖宗 我會先剁你手 不要懷疑" }
     ],
     "5": [
+      { type: "link", content: "https://photos.app.goo.gl/YJ9Ei2QcEgFoqNZN8", label: "2026年8月5日 \
+        再看一次上課影片又被震撼到 原來HTN emergency並不是那麼死板的說SBP非得按照定義>180 \
+        即便SBP170但發生相關的HMOD也算是 也要依照指引下降血壓 老師故意把細節藏在魔鬼但老師不說 \
+        但內心已荒的不行 讀越多次發現自己越來越不會 有太多衝突或矛盾的地方 答題正確率不一定變高甚至可能錯更多 剩一個禮拜該怎麼辦啊" },
       { type: "link", content: "https://photos.app.goo.gl/Qh57F5GRnVFLMPFn6", label: "2016年8月5日 \
         過了這一晚 我發現 無論是誰 還是先疼自己最重要 擇我所愛 愛我所擇 一點都不容易 \
         這一關 我過得去嗎 可以 原諒滿腦精蟲的畜生 我做得到嗎 也許無法 如果兩年多前就知道會如此坎坷的話 我會做什麼選擇 \
@@ -10889,9 +10984,35 @@ const records = {
         可惜這個錯是我永遠的傷痕 一個超越我底線打破我原則的傷害 同時也是我曾經對妳的忽略與錯誤態度 要付出的龐大代價 但我依然挺住腳步 繼續前進 謝謝妳給我信任 \
         傷痕依舊 但是信任會跟著時間撫平情緒 等我 我被擊垮了很多次但還是爬了起來 如果有什麼能證明真愛 我想那是極端的痛苦 值班 疲憊 支離破碎" }
     ],
-    "6": [],
-    "7": [],
+    "6": [
+      { type: "link", content: "https://photos.app.goo.gl/dqgbyAc4GKyvKDHT6", label: "2026年8月6日 \
+        國家很有錢啊 隨便出手都是數億到數十億獲 利也是幾千萬到幾十億的 但只是不想把錢放在醫療業裡面 繼續壓榨你各位醫生護理師而已" },
+      { type: "link", content: "https://photos.app.goo.gl/NUxnQfJrX8YCF2AF9", label: "2026年8月6日 \
+        Beta blocker原來不是大鍋炒到處都能用 CCS心絞痛FDA許可的PMNA propra meto nad atenolol \
+        HCM第一線的BMNA Bisoprolol剩下同上 CPVT LQTS首選的non selective Nadolol propranolol \
+        HFrEF有EBM的CBM Carvedilol bisoprolol metoprolol" },
+      { type: "link", content: "https://photos.app.goo.gl/9CVjhWx8rRjop5pN9", label: "2026年8月6日 不曉得這些選項是為了混淆視聽還是真有含義 這題不是很肯定" },
+      { type: "link", content: "https://photos.app.goo.gl/4bEbAWMa8jt9rwLb6", label: "2026年8月6日 \
+        101攝影作品找我就對啦 我至少拍過20-30個以上101視角 但還有數十個點還沒解鎖 \
+        未來一定會完成 我超愛拍攝台灣跟各國的地標性建築 如果有私人高樓能拍攝101夜景我也願意付費解鎖 實在太愛夕陽跟夜景了" },
+      { type: "link", content: "https://photos.app.goo.gl/BfTWJJSHwVmAnmWV9", label: "2026年8月6日 只好自己存錢買一棟 本來就是一個不可能的夢想" },
+      { type: "link", content: "https://photos.app.goo.gl/TDSXkXqBPfGsyrzk8", label: "2026年8月6日 \
+        肺動脈瓣逆流考題從出來到現在已經整整一個多月我都不會 看了數次決定放棄用死背的 \
+        今天再看突然腦袋叮的一聲想通了 趕快寫下來 再去查資料驗證發現正確 這大概是考前的小確幸之一了吧 太虐了心臟科" },
+      { type: "link", content: "https://photos.app.goo.gl/DxRtqG2UfZKSVi5g7", label: "2026年8月6日 一邊讀進去記憶 一邊漏出來忘記 感覺腦袋真的有破洞 幸好的便當晚餐強力支援" },
+      { type: "link", content: "https://photos.app.goo.gl/Z2KHeTHzH9mxUKPn7", label: "2026年8月6日 著實是有點嚇到了" }
+    ],
+    "7": [
+      { type: "link", content: "https://photos.app.goo.gl/TBiGPo7uWL2GGgKk8", label: "2026年8月7日 這種一巴掌給他下去" },
+      { type: "link", content: "https://photos.app.goo.gl/U58giazRwKFRaeMa8", label: "2026年8月7日 我不知道還要考數學 我又沒有唸書" },
+      { type: "link", content: "https://photos.app.goo.gl/pk7yrVxcN6CYE4jj7", label: "2026年8月7日 大開眼界 原來AR導致LV volume overload會讓訊號傳導加強 導致surface ECG訊號被放大 超級冷知識 但不曉得真假 感覺也不實用" },
+      { type: "link", content: "https://photos.app.goo.gl/adg2V2CkR91nkrBq9", label: "2026年8月7日 很棒的Ventricular SMR範例 我從他EF不好判斷的 如果沒有CAD Class 1 indication可以做MTEER" },
+      { type: "link", content: "https://photos.app.goo.gl/G9H7QJKwFTvh4dmb6", label: "2026年8月7日 真可愛 我們需要這種店員" }
+    ],
     "8": [
+      { type: "link", content: "https://photos.app.goo.gl/Td6RfoYuxXPfbtEZ6", label: "2026年8月8日 怎麼又可愛阿啾二號" },
+      { type: "link", content: "https://photos.app.goo.gl/DmHc1BMdNRgwvsNs7", label: "2026年8月8日 嚇死 怎麼還有飛機頭" },
+      { type: "link", content: "https://photos.app.goo.gl/ZjkXka2VGK9Cs2Qx7", label: "2026年8月8日 很想回答tamponade 可是他寫Aortic valve 那為何會有這種變化 有大大知道嗎" },
       { type: "link", content: "https://photos.app.goo.gl/x19fGkCqu1Yt7B4q9", label: "2017年8月8日 \
         Follow us for more amazing works 看著夕陽落下 暈黃的金光閃爍著 此時我們沒有一聲交談 沈浸在時間靜止的這一刻 \
         歡迎攝影的朋友追蹤我的ig啦 這個帳號是私人 以後不會常po圖打擾大家" },
@@ -10902,11 +11023,55 @@ const records = {
         愛 痛苦的值班 痛苦的日子 我還沒放棄" }
     ],
     "9": [
+      { type: "link", content: "https://photos.app.goo.gl/itafFSrSixiquWfF8", label: "2026年8月9日 \
+        每天的讀書時間都是懺悔的時間 今天在檢討過去一年當教學總醫師 教給醫學生的心臟科知識實在太少太片面了 \
+        許多臨床上老師教導我的觀念及作法 其實背後都有一套完整的指引跟參考的trial 我都沒有好好參透跟理解 \
+        希望我還能有接下來一年的機會 好好整理這些資料做成一系列課程分享給學弟妹 心臟科最棒的地方在於他八成的知識都有邏輯跟機轉 \
+        理解後就不難記憶 可惜是我現在才略懂皮毛 啊但如果沒考過可能就要被遣返回花蓮了 我猜" },
+      { type: "link", content: "https://photos.app.goo.gl/ijYGZwuZZ3hhYebX6", label: "2026年8月9日 戒酒最正向 你怎麼不叫他戒酒 好好笑" },
+      { type: "link", content: "https://photos.app.goo.gl/Yeuvwx3H5LGzs4xr6", label: "2026年8月9日 好吃到一個不行" },
+      { type: "link", content: "https://photos.app.goo.gl/SW2KtqinV77hywBx9", label: "2026年8月9日 超級超級好吃" },
+      { type: "link", content: "https://photos.app.goo.gl/eRryGMJRbPB9q6hZ7", label: "2026年8月9日 海中狗狗" },
+      { type: "link", content: "https://photos.app.goo.gl/7PKm614FfMYmsxv46", label: "2026年8月9日 管他年紀大小跟能不能吃抗凝 先TAVR再說" },
+      { type: "link", content: "https://photos.app.goo.gl/nFkmm1nXQhvVqcCL8", label: "2026年8月9日 請問哪裡有買特斯拉送小貓貓嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/MxenytCBQbchMyd47", label: "2026年8月9日 \
+        支持一下趙大律師的粉專 現在專業人事要有自己的知名度跟發言權 才能讓民眾更理解專業的價值" },
       { type: "link", content: "https://photos.app.goo.gl/vhnL4YD7cZApQuaq8", label: "2017年8月9日 \
         這次半夜急刀會是intern生涯最難忘的 深刻體會醫護人員也是人 疾病面前人人平等 說倒就倒 我沒事 有感而發" }
     ],
-    "10": [],
+    "10": [
+      { type: "link", content: "https://photos.app.goo.gl/sy6Q5kN6JtL9HLpM7", label: "2026年8月10日 \
+        蠻敬佩值班不穿值班服跟洞洞鞋的人 值班時不要說自己的汗 病人血屎水尿痰膿什麼阿里不搭的都可能往身上噴 \
+        不一定洗得掉 我甚至連醫師袍都不敢穿 用值班服保護一切XD" },
+      { type: "link", content: "https://photos.app.goo.gl/Cvh6CZf3aHSf1tAAA", label: "2026年8月10日 \
+        考試當週我才發現notebook LM免費版很強大而且給的空間超足夠 很多題目直接用LM跑比我自己找書還快 \
+        痛苦的是居然這週才發現更多之前答案錯誤的題目 要重新背誦 唉 至少不是一直背錯的答案" },
+      { type: "link", content: "https://photos.app.goo.gl/dRxYRT3vxghyd9sW9", label: "2026年8月10日 \
+        超屌阿公 原子彈在700公尺內爆炸還活得好好 獲得輻射能量但沒有致癌反而活到98歲 說他是超人剛好而已 \
+        什麼醫生的頭銜都只是他生命裡最微不足道的事" },
+      { type: "link", content: "https://photos.app.goo.gl/xAuWUCUE7n34zixGA", label: "2026年8月10日 黑咖啡+康貝特 傷害健康組合 考前一週才敢用 上次是考內專前 拜託撐住身心痛苦的考試" },
+      { type: "link", content: "https://photos.app.goo.gl/xHigCApe3ejkWG2f9", label: "2026年8月10日 對啊" }
+    ],
     "11": [
+      { type: "link", content: "https://photos.app.goo.gl/TTETjzYU6Q5XdKt57", label: "2026年8月11日 \
+        電clerk一點意義都沒有 只有態度很差的需要被電 自己就是很普通的學生 知道clerk多數都是迷惘 \
+        跟不曉得到底該如何了解這些專科知識 好的醫師應該是要無私的教學 把秘訣跟邏輯告訴clerk \
+        建立他們的思維架構 這樣很多專科知識就不會那麼難背誦跟理解 也要告訴他們什麼是重要的跟不重要的 \
+        而不是學生來一直浪費他們時間 電學生從來不會讓我有成就感 而是讓曾經跟我一樣迷惘無知的學生 能夠早點了解 該如何開始與該如何學習" },
+      { type: "link", content: "https://photos.app.goo.gl/TJA58R3MZGfr3bYS9", label: "2026年8月11日 \
+        完全正確 不只專科訓練過程多少血汗跟常常超過24小時的工時 最後的考試難度之兇狠 常人無法體會 \
+        我都還沒說寫文章投稿跟假日開會上課這一part 除了醫師 沒有其他職類需要這樣賣命的啦 不過實話大家不愛聽" },
+      { type: "link", content: "https://photos.app.goo.gl/E7NjXgauFY228VAbA", label: "2026年8月11日 \
+        強烈推薦chatgpt現在的聽說功能 只要點開他 可以直接快速對話 還能教你正確的醫學專有名詞的發音 \
+        而且對話完全不延遲 甚至唸的過程已經跟真人一樣 完全就是直接打電話的情境 好強好可怕" },
+      { type: "link", content: "https://photos.app.goo.gl/LXo371LqivZMNP4T8", label: "2026年8月11日 \
+        你只對一半 我從來沒說醫學系畢業國考很難 一開始考進去門檻是真的很高 說千人選一可能剛好 \
+        但成為主治醫師之前的專科考試 尤其次專科 那難度是所有職類裡面最難之一 沒有第一難也有前三難 你只是不知道而已" },
+      { type: "link", content: "https://photos.app.goo.gl/S6Af7wBs1nYweeFu8", label: "2026年8月11日 \
+        讀越多 就懂越少 就發現更多的矛盾跟不解 終於懂那個什麼成長曲線 \
+        在知識的真理面前 越覺得自己渺小而無知 困惑而躊躇 然後這些糾結就會一直卡在腦海裡面 \
+        不斷質疑 不斷疑惑 越來越讀不下去 這種感覺真的很痛苦" },
+      { type: "link", content: "https://photos.app.goo.gl/Skv6D5267yjyjh3B8", label: "2026年8月11日 學長我其實是刀房那種鞋子 而且下班絕對不穿 回家也不穿外出 對病人好也對自己家人好XD" },
       { type: "link", content: "https://photos.app.goo.gl/wqJbksTETbutRL8BA", label: "2017年8月11日 \
         風景攝影經驗分享會 攝影小撇步 不解釋了 有興趣歡迎來內湖三總參加 詳細地點待公布 若剛好校方有事情需要改期也會通知 報名請直接私我或臉書搜尋la vision team photography 謝謝 龍洞合成銀河" },
       { type: "link", content: "https://photos.app.goo.gl/uWJ4b3NosNxoTzxy6", label: "2025年8月11日 違規事由 直行車佔用轉彎專用車道" },
@@ -10916,12 +11081,33 @@ const records = {
         本人已經跟當事人道歉 發文原因是因為從同學傳來 不得不正視 \
         當初的發文是我幼稚的舉動 我的個人行為也與前女友完全無關 如果還有任何問題 我都寫在這裡了 請不要再繼續私下做無謂且傷人的解釋 一人做事一人擔" }
     ],
-    "12": [],
+    "12": [
+      { type: "link", content: "https://photos.app.goo.gl/CkSU4S6hjtXw1h2k8", label: "2026年8月12日 \
+        你問的很好 這個問題我早就想過了 我用很實際的狀況跟你說 就是現在clerk到每一個科的時間實在太短 \
+        然後醫院其實排超多教學任務給他們 五花八門 還不算上查房跟看病人 所以 根本沒多少時間可以教學 \
+        但他們 國考難度越來越專科化 因此上課時 你用問問題跟電的方式 是十分浪費時間 你電一題 我都可以講2-3題或觀念 \
+        同樣大家都很忙 精力有限 上太久也會想睡 要在 短時間內讓他們帶走最多東西 就是要把核心觀念傳達給他們 \
+        我曾經在當教學總醫師之前 做了很多國考題打算在上課用 問的 增加他們印象 後來發現根本沒時間 \
+        要把一個章節完整的呈現甚至掌握 在他們還有體力專注時交給他們 自然不可能再浪費時間電跟講廢話" },
+      { type: "link", content: "https://photos.app.goo.gl/mguPZ4Ks2MnWFy4P6", label: "2026年8月12日 \
+        以前某個老師很喜歡開apresoline 我有樣學樣 後來血壓很高的病人也照著開 \
+        今天考前很好奇 仔細查了這個藥 發現他是不能這樣亂開的啊啊 副作用還是很強烈 \
+        很需要仔細評估病人的反應跟vital sign 也要搭配其他藥物才能使用 長記性了" },
+      { type: "link", content: "https://photos.app.goo.gl/78qyCWFqkCxaAP2A6", label: "2026年8月12日 我以為是反串" },
+      { type: "link", content: "https://photos.app.goo.gl/vQquyVuGAV23Hw3w6", label: "2026年8月12日 360個月大的小朋友也能掛號嗎" }
+    ],
     "13": [
+      { type: "link", content: "https://photos.app.goo.gl/y3Q7PMqd1jemio3K9", label: "2026年8月13日 這世界太多落後地區 不是歧視 是因為安全問題" },
+      { type: "link", content: "https://photos.app.goo.gl/hbdT8J4b9CVQ72mS6", label: "2026年8月13日 \
+        前幾天看題目沒有看很懂 分心滑手機突然看到這影片 發現原來就是在講這個 \
+        Seagull sign 機轉為inferior MI related leaflet tethering 屬於type 3b MR" },
+      { type: "link", content: "https://photos.app.goo.gl/AW4Afv3pBicn23SN6", label: "2026年8月13日 超大myxoma 即使不是thrombus 也可能會導致中風" },
       { type: "link", content: "https://photos.app.goo.gl/TcfDzTdFFJ1JAybi7", label: "2017年8月13日 真的好愛小兒外科 能有自己的時間學習充實興趣 任何工作都一樣 好的生活品質才活得像個人 唉" },
       { type: "link", content: "https://photos.app.goo.gl/hfSiosDTYSSwiTw26", label: "2017年8月13日 La vision team團員教學結束 很認真修圖" }
     ],
     "14": [
+      { type: "link", content: "https://photos.app.goo.gl/se64PHwxTJTTKN8i7", label: "2026年8月14日 這是我覺得台灣人很棒的一部分哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/Lt7a76uGfYqqSA2q7", label: "2026年8月14日 真的有點厲害 以後好好練" },
       { type: "link", content: "https://photos.app.goo.gl/jEEzhYw615Cw3JzU6", label: "2017年8月14日 為了後天上合歡露營 燒錢買裝中QAQ" },
       { type: "link", content: "https://photos.app.goo.gl/x72VLr3nJixQxdMS7", label: "2017年8月14日 給我一片大地還不夠 請再給我一片星空 三軍總醫院內有我的攝影分享會 歡迎在facebook搜尋la vision team粉專填寫報名表單唷" }
     ],
@@ -10933,14 +11119,36 @@ const records = {
         究竟還要多久 才能找到生命中的平靜 跌跌撞撞至今 好不容易才要抓穩了卻突然摔落 當我爬起來的時候 是否能再找回平靜的安心感 是否能再放鬆臉頰再次微笑 \
         sunset sky bluemoon" }
     ],
-    "16": [],
+    "16": [
+      { type: "link", content: "https://photos.app.goo.gl/ZRK69DAjJUTp8zL27", label: "2026年8月16日 這貼文就是人民未開智的發文範例 真的建議國民義務教育好好教 免得長大發這種可恥文" },
+      { type: "link", content: "https://photos.app.goo.gl/NV7ktV4QKmnt5TxK6", label: "2026年8月16日 會問這種問題 真的是九年國民義務教育沒有好好教" },
+      { type: "link", content: "https://photos.app.goo.gl/fwgpits4kmMnaXeq7", label: "2026年8月16日 \
+        Iphone是穩定性跟安全性最好的手機 就是這樣 不需要那些五花八門的功能 用手機就怕就是卡跟不穩定 \
+        其他家手機那麼好 怎麼會歷年來一直學蘋果的設計跟外型" },
+      { type: "link", content: "https://photos.app.goo.gl/TSAovUgRujjwaBxJ8", label: "2026年8月16日 第一關過了 拿到前往地獄級別考試的入場卷了 要打最終大boss 口試 會刷掉大量考生的口試" },
+      { type: "link", content: "https://photos.app.goo.gl/biJMJxLDcA5S7dNT8", label: "2026年8月16日 有壯哥" },
+      { type: "link", content: "https://photos.app.goo.gl/Q6aDPJZf6Z2uTNxA9", label: "2026年8月16日 這種是不可能發生在我們 我絕對不會讓妳在外面出糗ㄚ " },
+      { type: "link", content: "https://photos.app.goo.gl/5JKVepg9vPjHryvEA", label: "2026年8月16日 選飛機時間超重要" }
+    ],
     "17": [
+      { type: "link", content: "https://photos.app.goo.gl/caAPPBbBrtbhwg2x8", label: "2026年8月17日 \
+        憑什麼好用的藥物人民不用付出代價跟金錢 我認同廠商做法 好藥不應該納入健保作賤自己 \
+        人民應該被教育 健康跟生命是自己要對自己負責 是要高額金錢跟平常的正確保養與生活飲食改變才配擁有 \
+        這樣大家才會珍惜跟自愛 健保金額有限 那就應該只留給重症跟罕病" },
       { type: "link", content: "https://photos.app.goo.gl/Ndg2WMMLTJUXjpzZ7", label: "2017年8月17日 準備明天上山囉 為明日合歡銀河日出日落準備 好累" }
     ],
     "18": [
+      { type: "link", content: "https://photos.app.goo.gl/E1Djjz3FWxPqCarr8", label: "2026年8月18日 \
+        完全認同學長說的 國考結束以後的醫生生涯 所有考試都需要口試 \
+        筆試可以考前惡補 但口試完全就是臨床經驗的累積 尤其理學檢查 這完全裝不了 惡補不了 差距就是差距 \
+        我曾經就是那個臨床很爛的學生 現在真的很痛苦 跟同學差一大截 常常要擔心被當掉 認真建議看到這篇的學弟妹不要重蹈覆轍" },
       { type: "link", content: "https://photos.app.goo.gl/JKw2rfs4jbr1TeGZ7", label: "2017年8月18日 地墊沒呼吸心跳 趕快CPR循環" }
     ],
     "19": [
+      { type: "link", content: "https://photos.app.goo.gl/u74xwso2CQJ4Qt747", label: "2026年8月19日 哪怕智商只要接近正常水準 都看得出來這是違法又愚蠢的行為" },
+      { type: "link", content: "https://photos.app.goo.gl/y76LEfMo9WHiuii2A", label: "2026年8月19日 \
+        加薪是應該的 對比所有行業 軍人是戰爭時死亡風險最高的 對於戰爭時第一線替官兵治療跟處理的軍醫也更應該再加薪" },
+      { type: "link", content: "https://photos.app.goo.gl/AzPZU3X6W98QB9ACA", label: "2026年8月19日 你是高級亥牙捏" },
       { type: "link", content: "https://photos.app.goo.gl/UMxiFyVWNVJrCtEH6", label: "2016年8月19日 \
         半夜一點開始 陸陸續續新病人開始入院 奇怪的是這時間我居然完全睡不著 精神奕奕 於是接完之後肚子餓得要命 買了宵夜 隨意的點了YouTube一首歌 默默寫下今天滿溢的情緒 \
         下班的時候跟卓豪學長打招呼 看他用著燦爛的笑容 告訴我不要因為很多毛事失去當醫生的熱情 我很羨慕他 即使在忙碌的住院醫生生活 也有自己的愛人當歸屬 \
@@ -10949,7 +11157,19 @@ const records = {
         令我印象深刻的是前天宣佈他胃癌合併肝轉移 是第四期時 離婚沒有家庭的他說了 唉怎麼不讓我這麼死了好了 他的家人大概只剩下兩個女兒 其中一個還是奧運選手不在身邊 不斷胃出血的他 失去求生意志 我也只能袖手旁觀 \
         晚上接到一個修冷氣被電擊的老伯 算是內科收過主訴最特別的 然後收到腎臟科 好吧 也許有機會發生橫紋肌溶解 謝謝妳 我會振作" }
     ],
-    "20": [],
+    "20": [
+      { type: "link", content: "https://photos.app.goo.gl/w8DSvbKkymfbNSs27", label: "2026年8月20日 \
+        其實高血脂也是心臟科的範圍 這篇案例報告就是使用口服事前避孕藥後 因其中的雌激素導致TG顯著升高 \
+        最後引發hypertriglyceridemia-induced acute pancreatitis 三酸甘油脂導致的急性胰臟炎 \
+        TG超過500就有危險 超過1000就有急性胰臟炎的風險 這個樓主3000多實在是很有風險" },
+      { type: "link", content: "https://photos.app.goo.gl/ogJsH7WQveTFQvvx7", label: "2026年8月20日 \
+        醫學系分數錄取高是有原因的 不是隨便一個邏輯有問題的人都能來當醫生 \
+        文章寫某藥物觀察到能下降某癌症發生機率 並不等於建議用該藥物來降低這些癌症發生率 \
+        這兩者沒有相關 看不懂沒關係 但不知道自己邏輯有問題來戰醫生 就是臉皮太厚" },
+      { type: "link", content: "https://photos.app.goo.gl/VrbrBeLuhiyKBMth8", label: "2026年8月20日 \
+        行醫之路必須謹記 不可憐也不討好任何病人跟家屬 人生只要發生一次這樣被檢調搜索 真的會心裡創傷" },
+      { type: "link", content: "https://photos.app.goo.gl/N38jBJ2zsUZ18JHy5", label: "2026年8月20日 你才是棒ㄚ" }
+    ],
     "21": [
       { type: "link", content: "https://photos.app.goo.gl/vCc7GpHwso5W2aHcA", label: "2016年8月21日 \
         未來的每一天 都得自己走下去 只有變得更好 才有機會遇到更好 封閉過去的甜美與善良 拖著長長的血跡前進 希望能隨著時間 一點一點割下內心的軟弱 \
@@ -10957,16 +11177,35 @@ const records = {
         未來的我是怎麼樣的人 就會值得怎麼樣的妳 這段痛苦不堪 生不如死的日子我這輩子都不會忘記 我是怎麼走過來的 以後也會這樣走下去 midnight alone" }
     ],
     "22": [
+      { type: "link", content: "https://photos.app.goo.gl/T8gZoA1rfZ4uZu2v7", label: "2026年8月22日 \
+        第八支支架啊 雖然有點地獄 但這代表兩件事 他很有錢 如果都塗藥支架 起碼也要48萬 \
+        他可能活不久 支架裝了又裝代表平常生活沒有保養 高血脂高血糖高血壓可能都有 SCD風險高 綜合以上兩點剩下的我就不說了" },
+      { type: "link", content: "https://photos.app.goo.gl/eAYaX5oaqn1RvKaQ8", label: "2026年8月22日 \
+        存 今天模擬口試 ekg ep cxr不意外被碾爆 換作真的考試這三關應該被當定了 echo有提醒要會看這個 真的太難了" },
+      { type: "link", content: "https://photos.app.goo.gl/DrFjpXhJKVssfUre7", label: "2026年8月22日 特斯拉裡面有冷氣很棒ㄟ" },
+      { type: "link", content: "https://photos.app.goo.gl/cxAs4rq5aQz9a5LU9", label: "2026年8月22日 充滿能量的早餐" },
       { type: "link", content: "https://photos.app.goo.gl/isto48x1XKz3AZgJA", label: "2016年8月22日 夜騎 台北 騎個夜台北" }
     ],
     "23": [
+      { type: "link", content: "https://photos.app.goo.gl/9GWg5PmsSw25KgtL6", label: "2026年8月23日 \
+        這輩子還沒那麼認真看CXR 包含考內專都沒真的去研究 悲劇的是即使看了很久 現在隨便抽一張出來我也覺得根本就沒什麼特異性 每張幾乎長一樣 \
+        而且模擬考試時考官每張CXR兩側都漆黑一大片 害我覺得每張都pul embolism" },
       { type: "link", content: "https://photos.app.goo.gl/RnybMSPhrLZAm4gLA", label: "2016年8月23日 \
         希望妳還記得我們曾經看過的一句話 我知道人總有取捨 你取了你覺得重要的東西 捨棄了我 這只是你的選擇而已 \
         這只是妳的選擇而已 因此我接受 妳可以任性的 要的時候要 不要的時候不要 時間會告訴妳我 失去了什麼 又得到了什麼 什麼該後悔 什麼該保握 \
         但錯過了 就可能會永遠錯過 只是會有一個人需要帶著傷痛走下去 好久不見 謝謝妳 我會好好的 也不再想為什麼 加油" }
     ],
-    "24": [],
+    "24": [
+      { type: "link", content: "https://photos.app.goo.gl/qCmirwizCQu1uqN47", label: "2026年8月24日 怎麼有伊布" }
+    ],
     "25": [
+      { type: "link", content: "https://photos.app.goo.gl/w8Xo1baHfBNJxx978", label: "2026年8月25日 這什麼低水準的議員 中國國民黨確定要繼續有這種議員" },
+      { type: "link", content: "https://photos.app.goo.gl/hLMo1S2FKRpcntFB6", label: "2026年8月25日 \
+        沒欸 完全不認得 我很少看女主角一堆的動脈 我都看航海王 一拳超人 蠟筆小新 海綿寶寶 死神 火影 柯南 七龍珠 肌肉魔法使跟刃牙" },
+      { type: "link", content: "https://photos.app.goo.gl/4k44BquKMQLTzvut7", label: "2026年8月25日 LV endomyocardial fibrosis 左心室心內膜心肌纖維化 還第一次看到這個疾病 太神奇了" },
+      { type: "link", content: "https://photos.app.goo.gl/9nLYpa8QgAr5fBDE9", label: "2026年8月25日 \
+        V1 rbbb morphalogy V6 S and all precordial RS complex avR positive lead2似乎有些fusion beat 這些綜合起來應該是VT不像SVT \
+        V1 incomplete RBBB 23avf negative superior axis lead 1 + lead avf Left axis deviation Fascicular VT try verapamil" },
       { type: "link", content: "https://photos.app.goo.gl/77c4X5oSsDNjbg869", label: "2017年8月25日 \
         Photo by my Iphone 6s 非醫療圈朋友聊起關於台灣醫療體系是否納入勞基法 由於我的兩個身份 就破例以自己是醫生的角度發言 \
         今天沒有值班 晚上運動完極餓因此直接衝去最近的小吃街 就在抵達的一步之遙 學長傳訊息過來 嗨嗨 有一個 氣胸 在急診 \
@@ -10984,6 +11223,9 @@ const records = {
         之後只要他看到我在做都會駐足然後給我打氣 昨天還受到他的加油鼓勵 這種感覺有點奇怪 不過幸好不是吵到他就好 Keep going on" }
     ],
     "26": [
+      { type: "link", content: "https://photos.app.goo.gl/hnvgbi1krvVk6PuX6", label: "2026年8月26日 支持" },
+      { type: "link", content: "https://photos.app.goo.gl/EhxbMYAoPRob9V7Q7", label: "2026年8月26日 這怎麼可愛成這樣" },
+      { type: "link", content: "https://photos.app.goo.gl/Z1HAPXN11mdp947W7", label: "2026年8月26日 有胖狗的水果店真的很讚又不貴" },
       { type: "link", content: "https://photos.app.goo.gl/Fw6gweEJi7oeJnAn8", label: "2017年8月26日 拍攝完成 照顧小孩 hen辛苦" },
       { type: "link", content: "https://photos.app.goo.gl/rc8p2EENu1pLbxS46", label: "2017年8月26日 はたらく 今天接案拍小孩" },
       { type: "link", content: "https://photos.app.goo.gl/yyfAeHB5BpyXM8sbA", label: "2016年8月26日 \
@@ -10993,19 +11235,36 @@ const records = {
         感情與工作都是如此 看透了黑暗面 也要收起玻璃心 生命會為自己找到出路 環境再坎坷 也不能失去自己的積極與誠心" }
     ],
     "27": [
+      { type: "link", content: "https://photos.app.goo.gl/b6cp1UzjAv8wx1PEA", label: "2026年8月27日 好像一顆大香菇" },
       { type: "link", content: "https://photos.app.goo.gl/Dien47o2pDWhSRaf9", label: "2025年8月27日 違規事由 不緊靠道路右側停車" }
     ],
     "28": [
+      { type: "link", content: "https://photos.app.goo.gl/uKAJKd5xA7SnQQ5w8", label: "2026年8月28日 \
+        醫生穩定的低 做一輩子功德做到死 值班熬夜比工程師操 還有無限多的進修報告跟考試 \
+        工程師不穩定的高 早早幾年就存夠錢 參與股市投資 做到被炒魷魚也是剛好退休享受生活" },
       { type: "link", content: "https://photos.app.goo.gl/NzQYbKHtUorutaMh9", label: "2017年8月28日 \
         國防醫學院34教室 3樓 陳奕宏 HDR與圖層遮色片基礎應用 吳展旭 風景心路歷程與基礎拍攝分享 林偉峻 專業氣象判讀 \
         詳情請上fb搜尋吳展旭 連結已分享在版上 脫下醫師袍的我們 換了一個角色 繼續在興趣上一邊努力一邊享受" },
       { type: "link", content: "https://photos.app.goo.gl/f1rwDgUAbNhcK2P36", label: "2016年8月28日 今晚喝酒其它都不要想了" }
     ],
     "29": [
+      { type: "link", content: "https://photos.app.goo.gl/xYt9zhzQ59E8ozWw5", label: "2026年8月29日 \
+        認真超快 給他們一個讚 從我數十年前入學到現在 目前的三總地下街是巔峰時期 各種曾經最棒的店跟沒想過的店都開了" },
+      { type: "link", content: "https://photos.app.goo.gl/QY9eYAgfEFdq4S4M6", label: "2026年8月29日 \
+        目前為止的人生 從來沒有一場考試讓我這麼絕望 心專口試是地獄中的地獄 不論模擬口試還是科內老師的提問 \
+        基本上完整正確的回答最多1/3 但是要通過這場考試至少要答對7-8成 七關只要有一關fail就再見 \
+        幾乎沒有範圍 無限多的指引文獻 冷知識 沒有一定對錯的答案參雜著無數陷阱 \
+        不想唱雖 但真的想不到自己能及格通過 讀的再多永遠都回答不出讓老師滿意的答案 疲倦跟無力跟絕望 快要承受不了" },
+      { type: "link", content: "https://photos.app.goo.gl/5jt7HMCoqN1d4SEY9", label: "2026年8月29日 那我再看第八次" },
+      { type: "link", content: "https://photos.app.goo.gl/JGxBg1YD7GsR6iT38", label: "2026年8月29日 太扯了 我20歲的時候都還考不過" },
       { type: "link", content: "https://photos.app.goo.gl/YpiMSAxbuuSj9NUv9", label: "2017年8月29日 \
         小兒外科full run 滿滿的quality跟教學 這絕對是心目中第一志願的科別了 即使跟復健或整外相比 小兒外科依然吸引人很多 豪想直接fix噢" }
     ],
     "30": [
+      { type: "link", content: "https://photos.app.goo.gl/J9N8nxrk9xdRZi7k6", label: "2026年8月30日 \
+        寫題目寫到這題 厲害了 從來沒想過這個診斷 但看過一次就覺得很簡單印象很深刻 猜猜診斷及病因 有人回答再公布答案 \
+        答案是diastolic MR 居然是舒張期的 因為AV block導致LVEDP上升引起 太神奇了 有道理" },
+      { type: "link", content: "https://photos.app.goo.gl/UN8bw4zmYiempZeB9", label: "2026年8月30日 好羨慕 超想住在這種格局裡面" },
       { type: "link", content: "https://photos.app.goo.gl/DLKWBRvwkXxcofyY6", label: "2017年8月30日 月末聚餐 代表要離開小兒外科了 我難過QAQQQ" },
       { type: "link", content: "https://photos.app.goo.gl/8rFBUsxYktoPxxY26", label: "2016年8月30日 \
         兩三個禮拜以來漸漸調適情緒 以為即使痛苦也不會再痛哭 可惜晚上收到小生的來信 又點了他專頁的文章 \
@@ -11016,17 +11275,41 @@ const records = {
         這是我最後一次發感情文了 真的很可悲 因為這些鳥事哭掉20年份累積的眼淚 再見了真的 再見了機巴痛苦的回憶 幹機掰我孬" }
     ],
     "31": [
+      { type: "link", content: "https://photos.app.goo.gl/oHXh1eW4tLFmUaaJ8", label: "2026年8月31日 以目前台灣的物價計算 護理師月薪十萬 住院醫師20萬 主治醫師至少40-100萬看科別 才對得起目前大家提供的醫療品質" },
+      { type: "link", content: "https://photos.app.goo.gl/UGsbJeQL4UoUGgsz6", label: "2026年8月31日 學長這番話 好像越來越有感覺了 以前幾年來還真的對這些話是無感的" },
+      { type: "link", content: "https://photos.app.goo.gl/vkYcpbLJnabTERZn7", label: "2026年8月31日 怎麼有狗狗加油站 這麼棒" },
+      { type: "link", content: "https://photos.app.goo.gl/a4tgVDUFyeHCxsba6", label: "2026年8月31日 真的假的 居然有人可以這樣" },
+      { type: "link", content: "https://photos.app.goo.gl/WfGVvXBP31LvEfgeA", label: "2026年8月31日 怎麼了 被我戳中痛處" },
+      { type: "link", content: "https://photos.app.goo.gl/uRujyLW84qy4TkdD7", label: "2026年8月31日 好近喔 以後可以去" },
       { type: "link", content: "https://photos.app.goo.gl/XGBGFMSwfSP46NMd9", label: "2017年8月31日 終於下刀 外科生活暫時結束 可以好好修圖惹" }
     ]
   },
 
   "9": {
-    "1": [],
-    "2": [],
+    "1": [
+      { type: "link", content: "https://photos.app.goo.gl/LRDo6XkNpqqLDSen7", label: "2026年9月1日 以後要請你繼續拯救我了 恭喜" }
+    ],
+    "2": [
+      { type: "link", content: "https://photos.app.goo.gl/ey3e29er9i9xokyv8", label: "2026年9月2日 \
+        請AI統計近十年心專口試最常考的20個EKG主題總共30張 看到答案都覺得可以理解 實際上直接看到EKG會直接倒 真的很困難" },
+      { type: "link", content: "https://photos.app.goo.gl/9yLEGAMbzrpwsvFD6", label: "2026年9月2日 可愛的白色小火箭捏" }
+    ],
     "3": [
+      { type: "link", content: "https://photos.app.goo.gl/tV6hzTqBQ8QfNvmB6", label: "2026年9月3日 \
+        國考已經是醫師生涯所有考試裡面最仁慈的 有官方解答 有趙神有FC各種參考書 有歷屆考題讓你練習 \
+        甚至有AI 更甚至考完你還能申覆 如果你這一關都過不去 未來醫師專科跟次專科考試 那就是地獄 \
+        沒有範圍 AI也沒辦法100%答對 可能沒有考古題 就算有考古也沒有答案 就算有答案也不一定是對的 就算不是對的也不能申覆 \
+        你的決定是對的 如果你國考都忍受不了 確實不適合從醫 因為醫師未來的考試 是所有職類裡面最難的之一 會非常絕望" },
+      { type: "link", content: "https://photos.app.goo.gl/4cuhESwL37mo68yE6", label: "2026年9月3日 \
+        說實在 平常根本沒有看過這個東西 考試卻要很會辨認影像上這些問題 都已經考前一個禮拜了 還跟剛入科一樣根本就對這些人工瓣膜不太熟 \
+        真的沒有考過考試 考前不是在複習 而是還在學根本不熟的東西 然後超級難又超級多 真的很崩潰" },
+      { type: "link", content: "https://photos.app.goo.gl/3dd81WRZNhuybrb59", label: "2026年9月3日 以後每年要訂一天帶寵物上班日 強制的" },
+      { type: "link", content: "https://photos.app.goo.gl/EL6aJgxVAhvNoYf97", label: "2026年9月3日 馬爾濟居然會跟著主人殉情欸 他也太聰明了吧" },
       { type: "link", content: "https://photos.app.goo.gl/CsEoQXBreZHa1PWx8", label: "2016年9月3日 九三軍人節 可惜今天是刀一 整天穿著外科手術衣沒有機會穿軍服 所以到底要開刀的日本人什麼時候來啊 為了你我還沒吃晚餐啊啊" }
     ],
     "4": [
+      { type: "link", content: "https://photos.app.goo.gl/WfzceT4iSmsZfWhe7", label: "2026年9月4日 等等 spotifytw上面是有真正的心音可以聽的 傻眼 還有超過八萬次播放 這地球上是多少可憐人被逼著來聽XDDDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/61bovqnBTV56gMwy5", label: "2026年9月4日 這個要直接倒閉了吧" },
       { type: "link", content: "https://photos.app.goo.gl/vcvvKZVSMfKBAngm9", label: "2017年9月4日 這兩顆新電池被我丟進洗衣機洗 來實驗能不能用吧 結果居然可以" },
       { type: "link", content: "https://photos.app.goo.gl/7hbwwHKsc9aYDLrf8", label: "2017年9月4日 Fb搜尋吳展旭 追蹤我 有揪拍照或討論後製都在那裡唷 背景是已經處理好的照片一角" },
       { type: "link", content: "https://photos.app.goo.gl/nsR3xPY87B88cKEX8", label: "2017年9月4日 鎖定桌布跟主畫面都是自己的照片 覺得質感不錯 絕對不是因為沒女友的照片" },
@@ -11035,57 +11318,195 @@ const records = {
         吃完交班總醫師請的最後的晚餐 就要做好下地獄的決心 OK這樣的生活也不賴 每天聞著血味跟各種挖骨怪機械的聲音" }
     ],
     "5": [
+      { type: "link", content: "https://photos.app.goo.gl/AcSPkbgH8kjizNXU9", label: "2026年9月5日 社會上真的很多這種愛搞笑的癌細胞欸哈哈哈 希望有化療讓這些東西消失" },
+      { type: "link", content: "https://photos.app.goo.gl/kmvxVVoif5zZ4ghm8", label: "2026年9月5日 這輩子看到都要敬禮的" },
+      { type: "link", content: "https://photos.app.goo.gl/Kpq7sUGZWuSzLMru9", label: "2026年9月5日 \
+        VPC不會reset SAN 所以前面一跳正常RR間隔4大格 中間穿插著VPC的也會剛好等於兩跳間距8大格 如果是APC 可能兩跳間距就會小於8大格 學長學這個感覺是有點難" },
+      { type: "link", content: "https://photos.app.goo.gl/G68jYtCCmg9BUfEF6", label: "2026年9月5日 超帥 好羨慕" },
+      { type: "link", content: "https://photos.app.goo.gl/k7osB3qGufddvQCo7", label: "2026年9月5日 來看這個輕鬆跑配速 這種至少都是國家級運動員以上的水準 超快" },
+      { type: "link", content: "https://photos.app.goo.gl/B48DBSMMjdwwMRX86", label: "2026年9月5日 難怪笑成這樣哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/feQTvibjxAgN17rC7", label: "2026年9月5日 你不會有錯 所以這個表情你用不到ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/2hQMfb3hLPa5DS4n8", label: "2026年9月5日 這個好好笑" },
+      { type: "link", content: "https://photos.app.goo.gl/N8JXSY9d6uGK3oKZ8", label: "2026年9月5日 Carcinoid syndrome 我又大開眼界了 不過好像沒考過這題 太難" },
       { type: "link", content: "https://photos.app.goo.gl/HhyGxhELYyVdppMy7", label: "2017年9月5日 相機 幹自己沒帶記憶卡怪我囉" },
       { type: "link", content: "https://photos.app.goo.gl/PMaL5wFEtatqo4Cd8", label: "2017年9月5日 和煦夕陽 最適合吹著涼風 擦著昨天西子灣留下的海水了 一點拍照壓力都沒有 好不愜意呢 幹我還是轉型賣笑好了" },
       { type: "link", content: "https://photos.app.goo.gl/qqz52LyF563uZcFE6", label: "2017年9月5日 答案是來拍照嗎 不是歐 因為記憶卡不想跟我出門 哇哈哈哈哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/7seUS6sY4uPAsftD8", label: "2017年9月5日 這麼和煦的陽光適合做什麼呢" }
     ],
-    "6": [],
+    "6": [
+      { type: "link", content: "https://photos.app.goo.gl/nLhj67n1Dds6wVik9", label: "2026年9月6日 \
+        雖然AI節省很多時間 但付費的AI偶爾還是會有錯誤 即便已經把文獻整理清楚丟給他找\
+         還是會有找錯的時候 甚至要他重找還給我裝死 假裝無法回應 讓我想到最近脆上討論AI會取代哪些工作 \
+         我有信心說至少近十年不可能取代臨床急重症醫師 光是從口試的準備就知道 很多情境複雜到根本不是有限指引可以解決 \
+         甚至要能讀懂家屬或患者的需求或背後的惡意 這絕對不是AI可以辦到的 走在重症面對第一線病人 AI永遠是輔助 而不是主角 \
+         經歷各種風浪的醫師護理師才是主角 因為我們不是面對一個疾病的名詞 而是每個完全不同的人" },
+      { type: "link", content: "https://photos.app.goo.gl/6EfEPZ22JGLtNuYn8", label: "2026年9月6日 APC會reset SAN 所以下一跳P應該是提早出來 APC前後RR interval會短於八大格 圖中的" }
+    ],
     "7": [
+      { type: "link", content: "https://photos.app.goo.gl/z1KnzBGy5snfJJVy6", label: "2026年9月7日 記起來 以後一起去" },
+      { type: "link", content: "https://photos.app.goo.gl/WRAcZWg9sd8mFJC28", label: "2026年9月7日 留友看什麼是恐怖情人" },
       { type: "link", content: "https://photos.app.goo.gl/FfHwA9mis8eXcJm29", label: "2017年9月7日 捷運上意外摸到口袋中的1000 真是又驚又喜 感覺今天是一個美好的開始" },
       { type: "link", content: "https://photos.app.goo.gl/qwWcq21QhZrSbJth8", label: "2017年9月7日 \
         你相信嗎 在小小的台灣裡 依然存在天堂般的角落 整個十月我都在東京 有朋友要去日本嗎 想一起拍或被拍都可以ㄛ 想留下自己婚紗或和服照的都來來來 免費創作包您滿意" }
     ],
     "8": [
+      { type: "link", content: "https://photos.app.goo.gl/ZPz5ggbTfYxLxPgQ8", label: "2026年9月8日 喔喔原來是因為吵到其他人 不是因為不尊重醫護啊 落選剛好而已" },
+      { type: "link", content: "https://photos.app.goo.gl/q6r27dneUhn3zZFRA", label: "2026年9月8日 對啊 不過不管有沒有收入 這樣講話的人 就算是朋友都不要" },
+      { type: "link", content: "https://photos.app.goo.gl/SDzhsrMHsemv1g2y7", label: "2026年9月8日 \
+        找到一個類似某年EKG口試的題目 老年女性來急診主訴肚子痛 EKG長這樣 傳承下來的考生說他直接放棄不知答案 說真的第一次寫也完全沒想到是這個答案" },
+      { type: "link", content: "https://photos.app.goo.gl/PgjokSmYxjaeATTY9", label: "2026年9月8日 TGA or ebstein anomly or DCM massive pericaridial effusion is less likely" },
+      { type: "link", content: "https://photos.app.goo.gl/LwtnwUtjS8JJJ1sD7", label: "2026年9月8日 超聰明黑醬" },
+      { type: "link", content: "https://photos.app.goo.gl/sELWr5CfTAKUvSA46", label: "2026年9月8日 真可愛 直接診斷哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/Z4ZYFx5Sz5eShGd97", label: "2026年9月8日 完了 就此分開了哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/DM71vN6XkWLWxwyBA", label: "2026年9月8日 贊成" },
+      { type: "link", content: "https://photos.app.goo.gl/KQUYLTUx1nJwT7Re6", label: "2026年9月8日 我是不會上當的哈哈 因為我每天都有存照片 而且他是不是迪卡儂啊" },
+      { type: "link", content: "https://photos.app.goo.gl/WnrrS2Wd4ui3Ucx16", label: "2026年9月8日 好吧 抱歉" },
+      { type: "link", content: "https://photos.app.goo.gl/nefqVsTF4m5Pshy1A", label: "2026年9月8日 下個月就回家試試看" },
+      { type: "link", content: "https://photos.app.goo.gl/g6hmQhmDQDNFHHPi8", label: "2026年9月8日 男生看了都覺得虧爛" },
       { type: "link", content: "https://photos.app.goo.gl/jL2coUwBwDhsNX4j6", label: "2016年9月8日 \
         每天看不見終點的刀房日子 身心都非常疲倦了 我開始懷疑自己適不適合當醫生 其實我並不是很想 只是選擇了沒有退路 只有讓自己愛自己所擇 要撐住 不能放手努力過的歲月 \
         旅途終究還是一個人上路 想念自己的日子 想念只把風景留給自己的日子 想旅行了" }
     ],
-    "9": [],
+    "9": [
+      { type: "link", content: "https://photos.app.goo.gl/2GstBHBLMbSjz5mz9", label: "2026年9月9日 \
+        他如果附上數據來源 我覺得就是事實而已 就像醫學統計HIV就是男男為大眾 不用吵什麼性別議題 \
+        性別議題跟有事實根據的科學統計是不能混為一談 我個人的觀點是 不管誰傳給誰比較多 \
+        事實上對我們來講根本不重要 那是做研究的事情 重要的事情是 我們都要提早預防 也要潔身自好 保護自己就是保護所愛的人" },
+      { type: "link", content: "https://photos.app.goo.gl/uBcKcYcJ788GzuQm8", label: "2026年9月9日 \
+        如果是真的 那就是違法 而且也不能出來宣導這些事情 專科的東西只能相信真正的專科醫生" },
+      { type: "link", content: "https://photos.app.goo.gl/XBTFgeiSkkheen3n6", label: "2026年9月9日 哇噻" },
+      { type: "link", content: "https://photos.app.goo.gl/9Jp8YzeCwxGUz1kT6", label: "2026年9月9日 原來有這個節日" },
+      { type: "link", content: "https://photos.app.goo.gl/9P2JMKxaqSzCGq2v8", label: "2026年9月9日 還沒開始看門診 目前修煉還不夠XDD" },
+      { type: "link", content: "https://photos.app.goo.gl/hMxKLG992FBTZJXM6", label: "2026年9月9日 這位是物理麻醉師" },
+      { type: "link", content: "https://photos.app.goo.gl/1Hu23x5LpJx2gyoy5", label: "2026年9月9日 可是我都是你的照片咩" }
+    ],
     "10": [
+      { type: "link", content: "https://photos.app.goo.gl/iwirS4H4nnnSXHPf7", label: "2026年9月10日 會這樣問的人是根本沒看過急症吧" },
+      { type: "link", content: "https://photos.app.goo.gl/8jaPSPrhABL9m98G7", label: "2026年9月10日 \
+        答案後來是takotsubo心碎症候群 hsuehfuching答對有點厲害 有看到wellen B答案 不過V2-3不像 \
+        有看到低血鉀 V3應該要down up T比較像 好像也有看到便秘這個答案 心臟科真的太困難" },
+      { type: "link", content: "https://photos.app.goo.gl/HxbnQcvgiXLzkHp49", label: "2026年9月10日 其實除了迷彩有點醜 質料很好穿XD" },
       { type: "link", content: "https://photos.app.goo.gl/Lotxr9vkZeBd2tDA7", label: "2017年9月10日 唸書修圖修圖修圖吃飯修圖 修圖修圖拍照修圖修圖修圖 實習修圖修圖修圖" },
       { type: "link", content: "https://photos.app.goo.gl/eua94PxQEqnxcTJ98", label: "2017年9月10日 我的新桌面 追蹤我 年底目標 設計明信片 規劃修圖課程 追蹤獲得資訊吧" }
     ],
     "11": [
+      { type: "link", content: "https://photos.app.goo.gl/dEgYRtnZC2boY8vXA", label: "2026年9月11日 沒什麼錢買一堆不同種類股票的很白癡哈哈哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/KgtKNAXvzW2XpZtV7", label: "2026年9月11日 我不在意 光這段我就完全沒耐心看他講什麼" },
+      { type: "link", content: "https://photos.app.goo.gl/BugLEDtF32QMD5fW8", label: "2026年9月11日 我也要學" },
+      { type: "link", content: "https://photos.app.goo.gl/WuBeQggaN5twsn686", label: "2026年9月11日 \
+        如果跨年夜有病友願意讓我上去這間病房拍101煙火 拍完就走 我願意負擔這一晚的病房費用" },
+      { type: "link", content: "https://photos.app.goo.gl/M7KtohUd6f4nYUmX6", label: "2026年9月11日 \
+        今天唯一的小確幸 有夠棒 剩下兩天就要面對根本不可能考過的口試 真的很痛苦 而且我還是很不理解 為何當人的比例那麼高 \
+        選這個科已經很辛苦了啊 唉 明年再努力也沒差 做的事情也差不多 反正看開點認真唸就對了" },
       { type: "link", content: "https://photos.app.goo.gl/GS4ha6NgSMNT6iru6", label: "2016年9月11日 \
         今天再來隆重介紹一下刀房雞腿便當 沒錯今天刀一 從早上八點到現在總計20幾分鐘的吃飯時間 其他都是上刀上刀上刀刀刀刀 吃完還有三台刀準備戰到晚上十點 \
         老弟 10分鐘吃便當可以嗎 等下沒有人幫我抬腳 我實在很懷疑學長今天有沒有吃飯 今天心情跟外面的天氣一樣鬱卒 幸好還有學長請的草莓歐蕾跟進步的便當菜色 \
         最後我只告訴自己 這就是人生啦 開好開滿 不休息" }
     ],
-    "12": [],
+    "12": [
+      { type: "link", content: "https://photos.app.goo.gl/tdifvjk7N6dUhwEo9", label: "2026年9月12日 +1之後想去" },
+      { type: "link", content: "https://photos.app.goo.gl/SCJcv6nzPWgpmuaSA", label: "2026年9月12日 我也是" }
+    ],
     "13": [
+      { type: "link", content: "https://photos.app.goo.gl/3DuVUHjpt726LMa87", label: "2026年9月13日 \
+        很感謝這兩年師長同學的幫忙 這張心臟血管專科 甚至可以說是從國中以來沒有童年的唸書一直到考上醫學系 \
+        畢業 到真正可以當主治醫師的資格的這20年的總結 在我心裡 只有拿到主治醫師資格才是真正的當醫生 \
+        我說自己 以前我很少自稱醫生 也很僥倖一路以來沒有重考過 未來除了要更仔細 謹慎的對待每個病人 \
+        更努力跟師長學習 也要找回我的生活品質跟健康了 有很多的心得 之後再慢慢寫 先睡 \
+        再次感謝所有為我加油過的人 及一直等我包容我的tw.jhan_1107" },
+      { type: "link", content: "https://photos.app.goo.gl/26i9iYFEdCsnkTKh7", label: "2026年9月13日 \
+        講三小 偷竊也會被抓 我不如多偷幾個 賣國也會被抓 我不如多賣幾次 \
+        公然污辱也會被告 我不如多罵幾次 好像今天沒有死刑 嫌犯就不會多砍幾個人一樣 什麼鳥邏輯" },
+      { type: "link", content: "https://photos.app.goo.gl/D2CSh8s5XFQMc7tb6", label: "2026年9月13日 我要開始加入了" },
+      { type: "link", content: "https://photos.app.goo.gl/tirbDKN5Bp3BT6wh8", label: "2026年9月13日 我想吃" },
+      { type: "link", content: "https://photos.app.goo.gl/6cZ9B7u5H47wu4M88", label: "2026年9月13日 好啊" },
       { type: "link", content: "https://photos.app.goo.gl/dYENM1uB2XrjTifu9", label: "2017年9月13日 \
         我珍藏有無數種類的攝影 爬樓 街拍 夜景 空拍 人文 日出日落 銀河 婚紗等等 對我來說 是儲存創意跟攝影眼的好參考 \
         我得厲害的攝影師 不是挑食 不是自以為是不看別人作品 而是能夠廣納別人的思維 轉化成自己的無創 共勉之" }
     ],
     "14": [
+      { type: "link", content: "https://photos.app.goo.gl/a8Rc26CG2AwL2YCt7", label: "2026年9月14日 \
+        現在分數越來越低 大家都走牙醫跟電機 應該有機會 不要絕望 \
+        但你必須真的要接受當醫生辛苦的宿命 而不是只看到他的職業名稱" },
+      { type: "link", content: "https://photos.app.goo.gl/WX9ruqhMCEDrZ4du5", label: "2026年9月14日 \
+        為了通過人生最困難的一場考試 將近半年沒有拿起相機跟修圖 但好像可以回歸了 打開PS CC發現自己動作緩慢 但幸好肌肉記憶告訴我該點什麼功能XD \
+        AI的時代 修圖已經不是顯學 不過能夠用自己雙手享受視覺創作的過程 是AI無法給我的 更不用說拍攝當下的思考跟不期而遇的景" },
+      { type: "link", content: "https://photos.app.goo.gl/bL8th6amAVULMr6U8", label: "2026年9月14日 一起打籃球的快樂時光還剩下一年" },
+      { type: "link", content: "https://photos.app.goo.gl/7Sb8ExvyN3truECV8", label: "2026年9月14日 超強 現在穩穩四分速 我已經半年沒好好運動 靠你們帶我們倆了" },
       { type: "link", content: "https://photos.app.goo.gl/66i5Li45BjZunvLM6", label: "2017年9月14日 各位觀眾 帶你去更多點拍爽爽" }
     ],
     "15": [
+      { type: "link", content: "https://photos.app.goo.gl/EnzpoMGjPw3aWH7U6", label: "2026年9月15日 \
+        不是喔 是現在的無良衛福部把吃人夠夠的體制用來壓榨臨床上用心的醫護們 才奪走我們的耐心跟好脾氣噢 \
+        不去怪根本原因 反倒是來怪受害者啊 也難怪可憐人必有可恨之處 你這種思維不值得同情" },
+      { type: "link", content: "https://photos.app.goo.gl/JXbX7YzV6vheFvRe9", label: "2026年9月15日 \
+        沒錯 就是應該同仇敵愾對抗政府 還有 很多時候醫護人員沒有好臉色 是因為病人跟家屬無理的要求 \
+        不是全部 但總是有 在台灣 醫生護理師很多都是領低薪 沒有人應該一直被欺負" },
+      { type: "link", content: "https://photos.app.goo.gl/64cBgZybhCdjYwcs8", label: "2026年9月15日 \
+        我第二次忍住沒有嗆你囉 給你台階囉 什麼叫做醫療業是服務業 你先為醫療業是服務業這句話道歉 \
+        我沒有辦法接受這種話 沒有一個醫護是服務業 也沒有一個醫護拿過服務費 我實在懶得再聽你廢話 你好好適可而止" },
+      { type: "link", content: "https://photos.app.goo.gl/EJ5V5bK2Q1CUkixF6", label: "2026年9月15日 年底gogo" },
+      { type: "link", content: "https://photos.app.goo.gl/kQBUqBvx1CDmkHJH7", label: "2026年9月15日 怎麼有受害者流出" },
+      { type: "link", content: "https://photos.app.goo.gl/xk2dc76LXyVsoKQ17", label: "2026年9月15日 真可愛 他還用手去摸 確認自己沒看錯只有一顆XD " },
       { type: "link", content: "https://photos.app.goo.gl/PJiEDk9deJY2yMtD8", label: "2017年9月15日 \
         上半月交班離開前不打病歷 留給我下半月打 到底什麼意思 十幾篇喔補起來真的很賭爛 把爛攤丟給下個月的很爽 幹 \
         九月上半的intern沒有在交班前完成病歷 真的太誇張了 故下半月intern吳展旭只好代打" },
       { type: "link", content: "https://photos.app.goo.gl/iEUFqqGntAWaCbeB8", label: "2017年9月15日 為了拍照 把病歷補完先QAQ 好多" }
     ],
-    "16": [],
-    "17": [],
+    "16": [
+      { type: "link", content: "https://photos.app.goo.gl/EEAJKY4trSw8QV3x6", label: "2026年9月16日 開啟另一個地獄 講師資審" },
+      { type: "link", content: "https://photos.app.goo.gl/PG1JF4ecW4ZcXeDv8", label: "2026年9月16日 原本要買air pods但是看到價格就縮了 請問有什麼不那麼貴但超推的耳機牌子嗎" },
+      { type: "link", content: "https://photos.app.goo.gl/VYo4dvTxJTGk76Cy5", label: "2026年9月16日 真的很累XDDD" }
+    ],
+    "17": [
+      { type: "link", content: "https://photos.app.goo.gl/rrR9uyrnPy5sGFnL8", label: "2026年9月17日 \
+        身為醫生 坦白說我覺得這樣不妥 看過很多加護病的患者 基本上沒有必要不需要對病人這樣講話 即使狀況很差 也是很理性的告訴家屬" },
+      { type: "link", content: "https://photos.app.goo.gl/oPFUKQPkBXmmsbGN6", label: "2026年9月17日 \
+        憑什麼不繳健保是一種政策 自己的健康不需要成本來維護 爛透了 推這種政策的都是買票 一率不支持" },
+      { type: "link", content: "https://photos.app.goo.gl/CLxZZgdr9afsN9zcA", label: "2026年9月17日 \
+        從四月到九月中 最終boss級考試期間整整四個半月都沒運動 不是臥床就是坐著 今天終於復健踏出第一步了 \
+        現在直到老都要開始維持每週至少二跑" },
+      { type: "link", content: "https://photos.app.goo.gl/xUnQ8GFn8KqSbwvQ7", label: "2026年9月17日 \
+        奉勸大家不要跟我一樣 為了省一點錢 MAC買內建256GB的最小容量 灌修圖軟體跟一堆上班的資料後 \
+        隨便修個圖都直接沒暫存空間 就算照片放在隨身碟裡面也沒用 因為就是要電腦本身至少有20G以上的暫存空間 \
+        目前查資料這根本無解 除非把電腦上重要的資料存到隨身碟才有用 但這樣唸書做筆記超不方便 \
+        真的很氣 花了錢買結果暫存不夠 下次要直上至少1TB的" }
+    ],
     "18": [
+      { type: "link", content: "https://photos.app.goo.gl/yafXsX5EorgqtosbA", label: "2026年9月18日 打蟑螂救援隊來了" },
+      { type: "link", content: "https://photos.app.goo.gl/ApCYUHixxEvxLu6Q7", label: "2026年9月18日 這個我也會拍" },
       { type: "link", content: "https://photos.app.goo.gl/ms25gJqq8SzB6y5j6", label: "2017年9月18日 大半輩子的時間 都得在醫院內看著好天氣乾瞪眼 最近攝影衝的很兇 幫助很多朋友 但仍希望 未來本業可以幫助更多人" }
     ],
     "19": [
+      { type: "link", content: "https://photos.app.goo.gl/6NWuYb4ySrRFfD3p8", label: "2026年9月19日 超討厭華人這種白癡到家的習俗" },
+      { type: "link", content: "https://photos.app.goo.gl/HLAW4JvkPyipWXmG8", label: "2026年9月19日 推 心肌梗塞要聽心臟科醫師的" },
+      { type: "link", content: "https://photos.app.goo.gl/TtsAKJxmqHcogJYL8", label: "2026年9月19日 \
+        昨天查了能夠拍攝大阪城正面高角度的飯店 一晚5萬6台幣 今天查了能夠拍攝八坂塔高角度的飯店 一晚也是5-6萬台幣 \
+        以後努力賺錢再帶一起去住好了 現在一個人為了拍照去住有點不划算 超級超級貴啊 但一定要用這輩子的努力來完成這些經典地標的拍攝清單" },
       { type: "link", content: "https://photos.app.goo.gl/78GfsgwVfA6aoYfa9", label: "2017年9月19日 看得眼花花 照片少修一點 論文多讀一點 橫批 能森啊" }
     ],
     "20": [
+      { type: "link", content: "https://photos.app.goo.gl/PpfA4QBv3jqDqk9F6", label: "2026年9月29日 \
+        其他醫生都在罵你 你不要理他們 我是醫生 你信我就好 你是對的 健保都是騙錢 西醫就是騙術 \
+        答應我 以後別再踏入台灣任何一家西醫院被騙了好嗎 生病在家休息就會好了 不要再去給西醫騙錢了" },
+      { type: "link", content: "https://photos.app.goo.gl/KXv2X1tArKAZHVpS7", label: "2026年9月29日 你的症狀跟 真話俠 蠻像的 都有嚴重以自我為中心的幻想" },
+      { type: "link", content: "https://photos.app.goo.gl/FEZqVAkf6rk7eRQeA", label: "2026年9月29日 又是這種帳號" },
+      { type: "link", content: "https://photos.app.goo.gl/Yx8SQNg4Dxg1EQRc6", label: "2026年9月29日 但AI論述不至於這麼白癡XD" },
+      { type: "link", content: "https://photos.app.goo.gl/REXA6VmAfBDwPnNr7", label: "2026年9月29日 並沒有" },
+      { type: "link", content: "https://photos.app.goo.gl/hgNmMj9iNbbsEQek7", label: "2026年9月29日 你以為醫生回家在幹嘛 跟你一樣發廢文嗎 醫界最不缺的就是下班時間必須做報告跟讀書 看一堆文獻" },
+      { type: "link", content: "https://photos.app.goo.gl/WvmdkFETzSXYgZMs5", label: "2026年9月29日 \
+        首爾 世界塔 將近半年的潛水 終於通過人生中最困難的心臟專科考試 這是一張重要的入門票 \
+        代表我必須在這個領域更加深入的學習 也代表必須對患者負責 準備考試的過程 我只體會到自己對於專業領域的所知甚少 \
+        在準備的期間也體會到未曾想像的壓力 過去參加大學學測跟考醫生執照時 我都沒有在考場極度的緊張想吐 \
+        也沒有在準備的階段身體失調 甚至不斷失眠與拉肚子 如果有人給我一百萬 我願意再一次入伍訓 \
+        但如果有人給我一百萬 我是絕對不會再想考一次 趁著考完後的恢復階段 開始整理今年在韓國的照片暖暖身 \
+        除了風景以外 我想花點心力研究街頭攝影的後製與色調 也想稍微做點旅行的短影片 找回對攝影熱愛的感覺真的很棒" },
+      { type: "link", content: "https://photos.app.goo.gl/rBP1bp165tfu9QiJ6", label: "2026年9月29日 \
+        最近心肌梗塞的新聞事件 看到一位民眾提問如果真的對aspirin過敏怎麼辦 說真的我還沒想到這個情境 \
+        原來STEMI還是先p2y12i loading然後做aspirin desensitization 又學到了" },
+      { type: "link", content: "https://photos.app.goo.gl/hFaupnnwzyN4UFi18", label: "2026年9月29日 好好吃 吃飽休息等下來運動" },
+      { type: "link", content: "https://photos.app.goo.gl/Qs6YFvcugUodLRyR8", label: "2026年9月29日 達成本週兩次復健跑了" },
+      { type: "link", content: "https://photos.app.goo.gl/dVRhmZ5m1WKAqZ4a9", label: "2026年9月29日 跑步 讚讚" },
       { type: "link", content: "https://photos.app.goo.gl/7m2mJ4VBY78o5wax5", label: "2017年9月20日 \
         四年前第一次去蘭嶼就跟自己約好 畢業之前會去第二次 而第二次便這麼倉促的出發 老實說若不是已經繳了住宿費 還真的沒啥動力 \
         這是大學第一次獨自的長途旅行 什麼行程都沒準備反正就是丟自己過去 體會一下何謂流浪 大的登山背包帶了電腦 相機 腳架等 每一處都可以是落腳點 \
@@ -11097,6 +11518,7 @@ const records = {
         地獄的骨科還有兩個禮拜 要堅強 要撐住" }
     ],
     "21": [
+      { type: "link", content: "https://photos.app.goo.gl/hr4AL6eqc4SsNAWs5", label: "2026年9月21日 未來堅決不就醫我才佩服你 不然你只是個要醫護幫你收拾爛攤的咖" },
       { type: "link", content: "https://photos.app.goo.gl/WFTsJ35TY95XPyuj8", label: "2025年9月21日 跟Barry比心電圖目前大輸五分追得上嗎" },
       { type: "link", content: "https://photos.app.goo.gl/zHXyt9AkmptewenHA", label: "2025年9月21日 ECG進階課程真的太精彩實用 專家就是把細節看到骨子裏" },
       { type: "link", content: "https://photos.app.goo.gl/UQQuKCYz8T52F1yAA", label: "2025年9月21日 週末一早被鞭策來上課" },
@@ -11108,6 +11530,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/dHMdgjZiP4qwx34n7", label: "2020年9月21日 內心都有天使與惡魔交戰 不爭氣的用自己睡覺時間認命開" }
     ],
     "22": [
+      { type: "link", content: "https://photos.app.goo.gl/3sTD31nJ3d3qwGgVA", label: "2026年9月22日 真可愛" },
       { type: "link", content: "https://photos.app.goo.gl/q2C6sRfdTb9M1dA69", label: "2025年9月22日 雖然發美食的頻率會下降 但有信心推薦的店家是絕對好吃的 也會慢慢轉換到THREAD上經營囉" },
       { type: "link", content: "https://photos.app.goo.gl/Kk8mmQ3yc7vGvRQQ9", label: "2025年9月22日 亞洲社會從小就是學習一個錯誤的工作態度 大家都甘願鞠躬盡瘁 卻從來很少對自己人生的快樂跟健康負責" },
       { type: "link", content: "https://photos.app.goo.gl/L2Ry2nhqmbAcwozJ6", label: "2025年9月22日 去歐美洲千萬不要帶電腦" },
@@ -11125,6 +11548,9 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/uDAT7pPpgyNfTvZi9", label: "2016年9月22日 連續完全沒坐下上刀九個小時解鎖 站到自己講話胡言亂語 飯菜都又冷又硬 不過好充實啊 又刷新自己的耐力記錄了 晚點繼續加油 nolimit" }
     ],
     "23": [
+      { type: "link", content: "https://photos.app.goo.gl/1ra3k63z6JbY4JW46", label: "2026年9月23日 \
+        我原本以為國家機器是在開玩笑 但是經過韓國瑜賴清德蘇貞昌蔡英文這麼認真的敘述之後 \
+        看來是真的有 國家機器 的存在 到底有沒有人能具體說明這是什麼啊XD" },
       { type: "link", content: "https://photos.app.goo.gl/P4qdMdUaJKsdgAEU7", label: "2025年9月23日 怎麼可能站立死亡" },
       { type: "link", content: "https://photos.app.goo.gl/XpU8waBufmPZZvnU7", label: "2025年9月23日 社會住宅 我覺得要申請試試" },
       { type: "link", content: "https://photos.app.goo.gl/8sNWTUWarnhtyFZM9", label: "2024年9月23日 都2024年了怎麼還可以這麼無知" },
@@ -11135,6 +11561,9 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/1bVqXQjMEKVpduG59", label: "2021年9月23日 發售2022風景系列桌曆 賣場是在蝦皮一本250元" }
     ],
     "24": [
+      { type: "link", content: "https://photos.app.goo.gl/YYGdZJFHn4GVYPGe9", label: "2026年9月24日 認真覺得宿舍周圍這一圈很適合復健跑 一圈一公里 而且有持續的緩上坡可以增加負擔 蠻不錯的" },
+      { type: "link", content: "https://photos.app.goo.gl/Rk7ENhKN1FY9mC5b9", label: "2026年9月24日 有道理" },
+      { type: "link", content: "https://photos.app.goo.gl/TYoZxDieTioPRX3n7", label: "2026年9月24日 那個真的笑死 諸葛亮明明還活著" },
       { type: "link", content: "https://photos.app.goo.gl/2wrBJeYUoDBizjVP7", label: "2025年9月24日 這種壁虎可以養嗎" },
       { type: "link", content: "https://photos.app.goo.gl/wyQEiPYxXxLs5BBn6", label: "2025年9月24日 買買買 超好買" },
       { type: "link", content: "https://photos.app.goo.gl/9KhR47SkHLr6XQSYA", label: "2025年9月24日 AI太強了" },
@@ -11170,6 +11599,16 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/PxvZ8eESp8Li5qsr8", label: "2017年9月25日 開始還病歷債囉" }
     ],
     "26": [
+      { type: "link", content: "https://photos.app.goo.gl/RfwWQaTRtJVbpMgB7", label: "2026年9月26日 \
+        一堆國際知名地標旁邊的五星級飯店住5-6萬 就能享受高級服務跟頂級夜景 盤子才在台灣住這種XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/AqZBjCj333jnMiN46", label: "2026年9月26日 這種國家就是需要一顆核彈頭來重啟他的文化" },
+      { type: "link", content: "https://photos.app.goo.gl/oBujEed4XfKJ7g4Q8", label: "2026年9月26日 醫生跟護理師 不是服務業 覺得是的人跟長官就是智障一枚 這沒什麼好討論" },
+      { type: "link", content: "https://photos.app.goo.gl/bLCrBhA3aedpWoFk7", label: "2026年9月26日 學長大實話 這年頭醫生薪水很低 但還願意幫病人多想一點的醫生實在很難得" },
+      { type: "link", content: "https://photos.app.goo.gl/BWFZPSPYVV26r66z5", label: "2026年9月26日 \
+        每個晚上終於又能回到我最愛的時間 戴起耳機 享受音樂跟修圖的過程 兩三個小時的時間流逝又突然快了起來" },
+      { type: "link", content: "https://photos.app.goo.gl/6d73JwSWbEDBDB527", label: "2026年9月26日 完全認同" },
+      { type: "link", content: "https://photos.app.goo.gl/uB32gsBTiQ8JjF4u8", label: "2026年9月26日 好漂亮" },
+      { type: "link", content: "https://photos.app.goo.gl/WbJiVGkeqeVDJYuh7", label: "2026年9月26日 推推" },
       { type: "link", content: "https://photos.app.goo.gl/JgjjRxf9HV9J5Npk6", label: "2025年9月26日 我沒有躲導管 導管來 我就上 CV一直都要保持這種精神" },
       { type: "link", content: "https://photos.app.goo.gl/7UsieCTF15dKCqXv7", label: "2025年9月26日 看似一般大學 實則綁約高額賠款扣執照的軍校" },
       { type: "link", content: "https://photos.app.goo.gl/nqjQV3DenQs9EjT56", label: "2025年9月26日 認同 黃國昌害的民進黨不能安心官商勾結跟貪污 真的很糟糕" },
@@ -11233,6 +11672,20 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/fLjBjHm1KjkfsQY38", label: "2017年9月26日 早上要報Journal 下午要上課評鑑 Suffer" }
     ],
     "27": [
+      { type: "link", content: "https://photos.app.goo.gl/jDoFUUEABG2Xb9Zo8", label: "2026年9月27日 \
+        內務應該是你人生中遇到最小的困難了吧 未來命運是被國家丟來丟去 \
+        醫師的好處因為你是軍人所以享受不到 軍人的好處因為你在軍醫院所以享受不到 比起來內務根本還好" },
+      { type: "link", content: "https://photos.app.goo.gl/YKPyA1B58yHHbdQH6", label: "2026年9月27日 一聽就知道病人問題最大XDDD" },
+      { type: "link", content: "https://photos.app.goo.gl/wq1YdReni6snyDqS7", label: "2026年9月27日 \
+        完全認同 黑道就是一個國家的恥辱 整天正事不做的廢物組織 只想用各種方法快速賺大錢當董欸 對國家毫無用處還會傷害社會" },
+      { type: "link", content: "https://photos.app.goo.gl/ZG3iDXdgFtPVa9tZ7", label: "2026年9月27日 上次去韓國都沒買到的 這次吃到這款松鶴海苔 芥末口味的驚為天人 太好吃了吧 我要買100包" },
+      { type: "link", content: "https://photos.app.goo.gl/9xBYNa6wT3mBR4UDA", label: "2026年9月27日 有大大知道推薦的代購嗎 也太好吃了哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/66MHw5UU6rsjwf7Y7", label: "2026年9月27日 \
+        中秋 月映台北 華燈初上的台北點亮城市天際 滿月靜靜懸在暮藍之中 燈火與月色的交疊 讓繁華的城市多了一刻屬於團圓的溫柔 祝大家中秋快樂" },
+      { type: "link", content: "https://photos.app.goo.gl/FLFoektXG3NDfDLCA", label: "2026年9月27日 心導管狂站士 Photography Traveler Cardiologist 心臟血管專科醫師 心臟血管專科" },
+      { type: "link", content: "https://photos.app.goo.gl/GhvBK3HoVdv6XJdc9", label: "2026年9月27日 真的欸" },
+      { type: "link", content: "https://photos.app.goo.gl/eM2EvbZTTHNnSydu9", label: "2026年9月27日 好幾年前這裡很多攝影師來拍 也是一個很有特色的地方" },
+      { type: "link", content: "https://photos.app.goo.gl/TPLvPC4QksjrQFGX7", label: "2026年9月27日 這裡的夜景真的很美 也是我的夜景練功房" },
       { type: "link", content: "https://photos.app.goo.gl/ocpRQvVjtrd2sfp69", label: "2025年9月27日 是元信那隻欸 哈哈哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/RgRjV6p1vf4FsHWo8", label: "2025年9月27日 帳號一定可以要回來啦" },
       { type: "link", content: "https://photos.app.goo.gl/FQJqDpvZCFfuUSEz5", label: "2025年9月27日 這個也要給我看ㄚ" },
@@ -11277,6 +11730,18 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/jeFqr19mpTzJUrau8", label: "2017年9月27日 實習好累ㄛ" }
     ],
     "28": [
+      { type: "link", content: "https://photos.app.goo.gl/qrzULnCqoi5HaJuPA", label: "2026年9月28日 你忘記軍人有週末執勤可以補假了嗎 R在軍醫院週末值班 實際面上沒有補假的唷" },
+      { type: "link", content: "https://photos.app.goo.gl/rVH2ePB6Lq9e8QFYA", label: "2026年9月28日 \
+        考上心臟專科醫師後 一樣的問題還是困擾著我 究竟我能選擇的話會走哪科 終於有個簡單的測驗 結果果然是家醫科 \
+        其實我內心前三志願是精神科 急診或家醫 反而對醫美沒有很有興趣 不過 這永遠也只能說說 終究得走在重症上" },
+      { type: "link", content: "https://photos.app.goo.gl/2mbcpT8SrJpFJRTG6", label: "2026年9月28日 \
+        題外話 寫到這題的時候 我下意識先避開心臟血管 因為從clerk intern到pgy我從未去過心臟科 \
+        以前只覺得Cv fellow超可憐 大半夜空蕩的走廊上獨自推著心超去救人 但選擇心臟科之後 我反而有點開始喜歡這一科 \
+        所以我起先故意避開選擇心臟血管 結果BCD選項我反而更沒興趣 醫美皮膚真的沒什麼感覺 相較之下 還真的這幾個選項最喜歡心臟科 \
+        心臟血管給人一種專業而且真正是醫師的感覺 也確實是直接救人的科別 不用拐彎抹角 \
+        所以如果對心臟科不太排斥 其實最辛苦就兩年 撐一下就過去 也是很棒的選擇" },
+      { type: "link", content: "https://photos.app.goo.gl/tLBN9ndXb1TY5kqZ8", label: "2026年9月28日 配速越來越快了" },
+      { type: "link", content: "https://photos.app.goo.gl/kGxHHzjYzqhDL1Pc9", label: "2026年9月28日 太可愛" },
       { type: "link", content: "https://photos.app.goo.gl/2YLYtiuKsRjDYcDu7", label: "2025年9月28日 身為重度香蕉煎餅愛好者 吃過泰國的香蕉煎餅 同價格 但泰國的比較大 更脆更香" },
       { type: "link", content: "https://photos.app.goo.gl/BjWD9V8tDcPSJeih9", label: "2025年9月28日 謝謝你們 我就是吃完發現身分證四碼全對可以換牛肉的那位 但平日來不及了" },
       { type: "link", content: "https://photos.app.goo.gl/nad4ScfoWhBMDjxQ9", label: "2025年9月28日 \
@@ -11328,6 +11793,11 @@ const records = {
         最後兩天颱風假我都安全的躲在醫院 昨天還連躲手術房12小時 果然有沒颱風都干我屁事啊" }
     ],
     "29": [
+      { type: "link", content: "https://photos.app.goo.gl/AVe59u5RnhFidfuB7", label: "2026年9月29日 以前都要綜合各項天氣指標 甚至付費購買app 現在只要買AI就好" },
+      { type: "link", content: "https://photos.app.goo.gl/xmBMLQgbVV4eVdp8A", label: "2026年9月29日 AI可信度還算優 沒有太複雜的天氣狀況的話 我猜高山極地就沒那麼好用哈哈" },
+      { type: "link", content: "https://photos.app.goo.gl/3vdpxr6y942BL5dm6", label: "2026年9月29日 國防醫學大學 浴火鳳凰 今天傍晚 國防醫大門的永生鳳凰在天空翱翔 看到今天的火燒雲 直覺就想到了牠" },
+      { type: "link", content: "https://photos.app.goo.gl/xmGxjKdTmqYLUtE8A", label: "2026年9月29日 恭喜 你們有夠強大" },
+      { type: "link", content: "https://photos.app.goo.gl/P688o6CvEfxhiaZK7", label: "2026年9月29日 太可怕" },
       { type: "link", content: "https://photos.app.goo.gl/H2677VCbDWBqwrZw6", label: "2025年9月29日 緊急開刀裝了六支支架花了一百萬 你要不要聽聽看你在說什麼" },
       { type: "link", content: "https://photos.app.goo.gl/wEFXzND2ktboYvFD6", label: "2025年9月29日 這個連假值班兩天 沒辦法去花蓮幫忙 但醫院這樣的善舉應該分享 希望花蓮平安 早日恢復" },
       { type: "link", content: "https://photos.app.goo.gl/Z2GckW5TNGSV3BBz7", label: "2025年9月29日 還有關燈跟洗衣服" },
@@ -11377,6 +11847,21 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/8nofqYzotoaFySKA7", label: "2017年9月29日 我飄向東京 tokyo" }
     ],
     "30": [
+      { type: "link", content: "https://photos.app.goo.gl/YnssHBm7ybLdt1eL7", label: "2026年9月30日 錫蘭只是在幫台灣人開智而已" },
+      { type: "link", content: "https://photos.app.goo.gl/k2qi4hRs4cXnaMLp7", label: "2026年9月30日 \
+        我幾乎不參加這些攝影比賽 攝影的作品好或差 是由自己去判斷 風格的展現 也不應該是由別人給予答案 \
+        當然我也當過評審好幾次 評比時第一一定是確認是否符合比賽規定 第二才是審光影跟構圖 \
+        藝術沒有標準答案 因此藝術比賽的公正公平跟專業是很重要的" },
+      { type: "link", content: "https://photos.app.goo.gl/sVgnix7e6Zsnga3b8", label: "2026年9月30日 病人有病 那醫師被公審的委屈誰負責XD" },
+      { type: "link", content: "https://photos.app.goo.gl/JsB3KT9nVbNcBaZw6", label: "2026年9月30日 哪有 鱔魚意麵超好吃ㄚ" },
+      { type: "link", content: "https://photos.app.goo.gl/E6FYvC6AcredRecc6", label: "2026年9月30日 每天修圖都多學一點新技巧 不斷恢復攝影的敏感度真好" },
+      { type: "link", content: "https://photos.app.goo.gl/yaUZfj7h3fhbJtQQA", label: "2026年9月30日 找到夢核般的隧道" },
+      { type: "link", content: "https://photos.app.goo.gl/eT25ZtLRZYAMw3zaA", label: "2026年9月30日 這個前甲組 藍色衣服 有夠帥要夠強 動作俐落 姿勢好看 想找時間來練籃球了" },
+      { type: "link", content: "https://photos.app.goo.gl/DEUbmf5HZUFDvCAQ8", label: "2026年9月30日 真的有欸" },
+      { type: "link", content: "https://photos.app.goo.gl/4hpRDy3g8JZqsFLe6", label: "2026年9月30日 哈哈 是孔雀" },
+      { type: "link", content: "https://photos.app.goo.gl/8kCDaPfkc41baU4U8", label: "2026年9月30日 怎麼可以這麼近拍 真可愛" },
+      { type: "link", content: "https://photos.app.goo.gl/SfiNFZo8J4986qXF7", label: "2026年9月30日 這個也太漂亮" },
+      { type: "link", content: "https://photos.app.goo.gl/4sWKpK2PMgU7TAra8", label: "2026年9月30日 我覺得這是天生的 不是學習而來的哈哈" },
       { type: "link", content: "https://photos.app.goo.gl/4xK1WfKj3df5WujS8", label: "2025年9月30日 我需要這個功能 超討厭咬珍珠 牙齒容易沾黏珍珠" },
       { type: "link", content: "https://photos.app.goo.gl/uSpNJhQQyFcWmqh18", label: "2025年9月30日 之前去過 自駕真的還是最好 停車費稍微貴一點而已 但值得" },
       { type: "link", content: "https://photos.app.goo.gl/hSDSpHgTpZV396i89", label: "2025年9月30日 \
