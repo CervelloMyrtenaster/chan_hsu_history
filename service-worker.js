@@ -1,6 +1,6 @@
 // 每次發布 HTML、CSS、JS 或資料變更時，都必須更新此版本。
 const CACHE_PREFIX = 'chan-hsu-history-';
-const RELEASE = '20261002-pwa-v3';
+const RELEASE = '20261002-pwa-v4';
 const CORE_CACHE = `${CACHE_PREFIX}${RELEASE}-core`;
 const OPTIONAL_CACHE = `${CACHE_PREFIX}${RELEASE}-optional`;
 const BASE_URL = new URL('./', self.registration.scope);

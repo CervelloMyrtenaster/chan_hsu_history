@@ -23,9 +23,10 @@ class Element {
     else { child.parent = this; this.children.push(child); }
     return child;
   }
-  replaceChildren(child) {
+  append(...children) { children.forEach(child => this.appendChild(child)); }
+  replaceChildren(...children) {
     this.children.forEach(node => { node.parent = null; }); this.children = [];
-    this.appendChild(child);
+    this.append(...children);
   }
   setAttribute(name, value) { this.attributes.set(name, value); }
   getAttribute(name) { return this.attributes.get(name) ?? null; }
@@ -155,5 +156,67 @@ test('white statistic labels meet normal-text contrast across the entire gradien
     const foreground = background.map(value => value * (1 - opacity) + 255 * opacity);
     const contrast = (luminance(foreground) + 0.05) / (luminance(background) + 0.05);
     assert.ok(contrast >= 4.5, `Gradient contrast ${contrast} at ${step / 500}`);
+  }
+});
+
+test('heatmap keyboard navigation skips empty dates and follows responsive columns', () => {
+  const env = {};
+  vm.runInNewContext(section('function heatmapDestination(', 'function bindModernUI('), env);
+  const cells = Array.from({ length: 60 }, () => ({ tagName: 'DIV' }));
+  for (const index of [2, 4, 28, 54]) cells[index].tagName = 'BUTTON';
+  assert.equal(env.heatmapDestination(cells, 2, 'ArrowRight', 26), 4);
+  assert.equal(env.heatmapDestination(cells, 2, 'ArrowDown', 26), 28);
+  assert.equal(env.heatmapDestination(cells, 2, 'ArrowDown', 52), 54);
+  assert.equal(env.heatmapDestination(cells, 54, 'ArrowRight', 52), 54);
+  assert.equal(env.heatmapDestination(cells, 28, 'Home', 26), 2);
+  assert.equal(env.heatmapDestination(cells, 28, 'End', 26), 54);
+});
+
+test('appearance respects saved light/dark and follows system only when selected', () => {
+  const env = {
+    appearance: 'system', systemAppearance: { matches: true },
+    document: { body: { classList: { toggle: (name, value) => { env.dark = value; } } } },
+    dom: { 'theme-toggle': {}, 'year-filter': { value: '2024' } },
+    viewState: { name: 'main' }, trendChartInstance: null, createWordCloud() {}
+  };
+  vm.runInNewContext(section('function applyAppearance(', 'function heatmapDestination('), env);
+  env.applyAppearance('light'); assert.equal(env.dark, false);
+  env.applyAppearance('dark'); assert.equal(env.dark, true);
+  env.applyAppearance('system'); assert.equal(env.dark, true);
+  env.systemAppearance.matches = false;
+  env.applyAppearance('system'); assert.equal(env.dark, false);
+  env.applyAppearance(null); assert.equal(env.dom['theme-toggle'].value, 'system');
+});
+
+test('trend table remains complete when the optional chart library is unavailable', () => {
+  const env = {
+    ui: { 'trend-series': new Element(), 'trend-data': new Element() },
+    document: { createElement: () => Object.assign(new Element(), { addEventListener() {} }),
+      createTextNode: text => Object.assign(new Element(), { textContent: text }) }
+  };
+  vm.runInNewContext(section('function renderTrendData(', 'function renderWordCloudTerms('), env);
+  env.renderTrendData([{ label: '2024年', data: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12] }]);
+  const table = env.ui['trend-data'];
+  assert.equal(table.children[1].children[0].children.length, 13);
+  const row = table.children[2].children[0];
+  assert.equal(row.children[0].textContent, '2024年');
+  assert.deepEqual(row.children.slice(1).map(cell => cell.textContent), [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]);
+  assert.equal(env.ui['trend-series'].children[0].children[0].disabled, true);
+});
+
+test('share feedback preserves a selectable URL when clipboard access fails', async () => {
+  for (const clipboardFails of [false, true]) {
+    let notice;
+    const env = {
+      URLSearchParams, window: { location: { search: '?search=台灣', href: 'https://example.com/history/' } },
+      location: { origin: 'https://example.com', pathname: '/history/' },
+      viewState: { search: '台灣' },
+      navigator: { clipboard: { async writeText() { if (clipboardFails) throw new Error('Denied'); } } },
+      notify: (...args) => { notice = args; }, console
+    };
+    vm.runInNewContext(section('async function shareCurrentView(', '// sidebar highlight'), env);
+    await env.shareCurrentView();
+    if (clipboardFails) assert.equal(notice[1], 'https://example.com/history/?search=%E5%8F%B0%E7%81%A3');
+    else assert.equal(notice[0], '分享連結已複製到剪貼簿！');
   }
 });
