@@ -40,25 +40,43 @@
       <input type="text" id="searchInput" placeholder="輸入關鍵字搜尋">
       <button type="button" id="searchBtn">搜尋</button>
     </div>
+    <a class="toolbar-link ai-entry" href="https://notebook.google.com/notebook/898f35b3-22f9-4b96-9103-2ef14ec11a41" target="_blank" rel="noopener noreferrer" aria-describedby="ai-entry-description" title="開啟 Gemini Notebook（需要 Google 登入，另開分頁）">詢問展旭 AI <span aria-hidden="true">↗</span></a>
+    <span id="ai-entry-description" class="visually-hidden">前往外部 Gemini Notebook，需要 Google 登入，並在新分頁開啟。</span>
   </header>
 
-  <div class="header-buttons" role="group" aria-label="網站功能">
-    <button type="button" id="dashboardBtn">統計儀表板</button>
-    <button type="button" id="prevDay">前一日</button>
-    <button type="button" id="nextDay">後一日</button>
-    <button type="button" id="randomBtn">隨機看</button>
-    <button type="button" id="shareBtn">分享</button>
-    <button type="button" id="quizBtn">展旭歷史王</button>
-    <button type="button" id="clozeBtn">展旭克漏字</button>
-    <button type="button" id="favoritesBtn">我的收藏</button>
-    <a class="toolbar-link" href="https://notebook.google.com/notebook/898f35b3-22f9-4b96-9103-2ef14ec11a41" target="_blank" rel="noopener noreferrer" aria-describedby="ai-entry-description" title="開啟 Gemini Notebook（需要 Google 登入，另開分頁）">詢問展旭 AI</a>
-    <span id="ai-entry-description" class="visually-hidden">前往外部 Gemini Notebook，需要 Google 登入，並在新分頁開啟。</span>
-    <button type="button" id="theme-toggle">深色模式</button>
+  <div class="navigation-bar">
+    <button class="menu-toggle" type="button" aria-label="開啟或關閉日期選單" aria-controls="sidebar" aria-expanded="false">日期選單</button>
+    <details id="site-tools" class="site-tools" open>
+      <summary>更多功能</summary>
+      <div class="header-buttons" role="group" aria-label="網站功能">
+        <div class="toolbar-group" role="group" aria-label="探索記錄">
+          <button type="button" id="dashboardBtn">統計儀表板</button>
+          <button type="button" id="favoritesBtn">我的收藏</button>
+          <button type="button" id="randomBtn">隨機看</button>
+        </div>
+        <div class="toolbar-group" role="group" aria-label="遊戲">
+          <span class="group-label">遊戲</span>
+          <button type="button" id="quizBtn">展旭歷史王</button>
+          <button type="button" id="clozeBtn">展旭克漏字</button>
+        </div>
+        <div class="toolbar-group appearance-control">
+          <label for="theme-toggle">外觀</label>
+          <select id="theme-toggle">
+            <option value="system">跟隨系統</option>
+            <option value="light">淺色</option>
+            <option value="dark">深色</option>
+          </select>
+        </div>
+      </div>
+    </details>
   </div>
-  
-  <button class="menu-toggle" type="button" aria-label="開啟或關閉日期選單" aria-controls="sidebar" aria-expanded="false">☰ 選單</button>
 
   <main id="main-content" tabindex="-1">
+  <div class="record-actions" role="group" aria-label="記錄瀏覽與分享">
+    <button type="button" id="prevDay">← 前一日</button>
+    <button type="button" id="nextDay">後一日 →</button>
+    <button type="button" id="shareBtn">分享</button>
+  </div>
   <section class="dashboard" id="dashboard" aria-labelledby="dashboard-title">
     <h2 id="dashboard-title">展旭記錄統計儀表板</h2>
 
@@ -66,6 +84,7 @@
       <label for="year-filter">篩選年份：</label>
       <select id="year-filter"></select>
     </div>
+    <p class="section-description" id="dashboard-scope">統計與詞雲依所選年份顯示；趨勢圖保留所有年份。選擇所有年份時，熱力圖顯示最新一年。</p>
 
     <div class="stats-grid">
       <div class="stat-card">
@@ -96,9 +115,21 @@
       <p id="trend-chart-description" class="visually-hidden">橫軸是一月至十二月，各條折線代表不同年份的每月記錄數。</p>
     </div>
 
+    <details class="visualization-details">
+      <summary>趨勢圖年份與數據</summary>
+      <div id="trend-series" role="group" aria-label="顯示的趨勢圖年份"></div>
+      <div class="table-scroll" tabindex="0" role="region" aria-label="各年份每月記錄數"><table id="trend-data"></table></div>
+    </details>
+
     <div class="heatmap-container">
       <h3>年度活動熱力圖</h3>
-      <div class="heatmap" id="heatmap"></div>
+      <p class="section-description" id="heatmap-description"></p>
+      <div class="heatmap" id="heatmap" role="group" aria-label="依日期開啟記錄" aria-describedby="heatmap-description"></div>
+      <div class="heatmap-date-control">
+        <label for="heatmap-date">有記錄的日期</label>
+        <select id="heatmap-date"></select>
+        <button type="button" id="heatmap-open">查看記錄</button>
+      </div>
       <div class="heatmap-legend" role="group" aria-label="活動量圖例：顏色由淺到深代表無記錄至大量記錄">
         <span>少</span>
         <div class="heatmap-day level-0" title="無記錄"></div>
@@ -112,9 +143,14 @@
 
     <div class="wordcloud-container">
       <h3>關鍵字詞雲</h3>
-      <div id="wordcloud-canvas" class="wordcloud-canvas">
+      <div id="wordcloud-canvas" class="wordcloud-canvas" aria-hidden="true">
         <p class="loading-text">正在分析文字，請稍候...</p>
       </div>
+      <details class="visualization-details">
+        <summary>熱門詞彙：選擇詞彙搜尋記錄</summary>
+        <p class="section-description">次數為文字分析結果，並非記錄篇數；排序與詞雲相同。</p>
+        <div id="wordcloud-terms" class="wordcloud-terms"></div>
+      </details>
     </div>
 
   </section>
@@ -254,6 +290,9 @@
   </div>
 
   <footer>
+    <details id="footer-links" open>
+    <summary>追蹤展旭與資料連結</summary>
+    <div class="footer-groups">
     <p>
       追蹤展旭：
       <a href="https://www.facebook.com/wuxizu" target="_blank" rel="noopener">吳展旭(あきら)</a>
@@ -270,7 +309,15 @@
       <a href="http://Myrtenaster.quickconnect.to/mo/sharing/MpFJdFoNb" target="_blank" rel="noopener">展旭資料庫(Synology Photos)</a>
       <a href="https://photos.app.goo.gl/eZCcNOezVExNxYWk2" target="_blank" rel="noopener">展旭相簿(Google相簿)</a>
     </p>
+    </div>
+    </details>
   </footer>
+
+  <aside id="notification" class="notification" aria-label="操作提示" hidden>
+    <p id="notification-message" role="status" aria-live="polite" aria-atomic="true"></p>
+    <div id="notification-action"></div>
+    <button type="button" id="notification-close" aria-label="關閉操作提示">關閉</button>
+  </aside>
   
   <button type="button" id="backToTopBtn" title="回到頂部" aria-label="回到記錄頂部">↑</button>
 

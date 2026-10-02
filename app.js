@@ -69,6 +69,9 @@ const contentDiv = dom['content'];
 const monthList = dom['monthList'];
 const menuToggle = document.querySelector(".menu-toggle");
 const dashboard = dom['dashboard'];
+const ui = Object.fromEntries(['site-tools', 'footer-links', 'notification', 'notification-message',
+    'notification-action', 'notification-close', 'heatmap-description', 'heatmap-date', 'heatmap-open',
+    'trend-series', 'trend-data', 'wordcloud-terms'].map(id => [id, document.getElementById(id)]));
 
 const config = {
     quiz: {
@@ -276,6 +279,7 @@ function updateDashboard(selectedYear = 'all') {
 function createHeatmap(selectedYear = 'all') {
     const heatmapContainer = dom['heatmap'];
     heatmapContainer.innerHTML = '';
+    ui['heatmap-date'].replaceChildren();
 
     // 如果選擇所有年份 則顯示最新的那一年
     const targetYear = (selectedYear === 'all' && uniqueYears.length > 0)
@@ -284,8 +288,11 @@ function createHeatmap(selectedYear = 'all') {
 
     if (!targetYear) {
       heatmapContainer.innerHTML = '<p style="text-align: center;">無資料顯示</p>';
+      ui['heatmap-description'].textContent = '此年份沒有資料。';
+      ui['heatmap-open'].disabled = true;
       return;
     }
+    ui['heatmap-description'].textContent = `${targetYear}年活動。Tab 進入有記錄的日期，方向鍵移動，Enter 開啟；也可使用下方日期選單。`;
 
     const dailyCounts = {};
     recordsForYear(String(targetYear)).forEach(record => {
@@ -320,17 +327,26 @@ function createHeatmap(selectedYear = 'all') {
             level = Math.min(4, Math.ceil((count / maxCount) * 4));
         }
 
-        const dayElement = document.createElement('div');
+        const dayElement = document.createElement(count > 0 ? 'button' : 'div');
         dayElement.className = `heatmap-day level-${level}`;
         dayElement.title = `${targetYear}/${month}/${dayOfMonth}：${count}筆記錄`;
         dayElement.dataset.month = month;
         dayElement.dataset.day = dayOfMonth;
         dayElement.dataset.count = count;
 
-        if (count > 0) dayElement.style.cursor = 'pointer';
+        if (count > 0) {
+            dayElement.type = 'button';
+            dayElement.setAttribute('aria-label', dayElement.title);
+            dayElement.tabIndex = ui['heatmap-date'].options.length ? -1 : 0;
+            const option = document.createElement('option');
+            option.value = key;
+            option.textContent = `${month}月${dayOfMonth}日：${count}筆記錄`;
+            ui['heatmap-date'].appendChild(option);
+        }
 
         heatmapContainer.appendChild(dayElement);
     }
+    ui['heatmap-open'].disabled = !ui['heatmap-date'].options.length;
 }
 
 // 顯示/隱藏統計儀表板
@@ -506,6 +522,9 @@ function createDatePage(month, day) {
     if (Object.keys(groups).length > 1) {
         const timeline = document.createElement('div');
         timeline.className = 'timeline-view-container';
+        const hint = document.createElement('p'); hint.className = 'timeline-hint';
+        hint.textContent = '依年份排列，可橫向捲動查看更多年份。'; page.appendChild(hint);
+        timeline.tabIndex = 0; timeline.setAttribute('role', 'region'); timeline.setAttribute('aria-label', '跨年份記錄，可橫向捲動');
         const track = document.createElement('div'); track.className = 'timeline-track';
         Object.keys(groups).sort((a, b) => a - b).forEach(year => {
             const card = document.createElement('div'); card.className = 'timeline-year-card';
@@ -602,7 +621,7 @@ function randomRecord() {
     const monthsWithData = Object.keys(records).filter(m => {
         return Object.keys(records[m] || {}).some(d => Array.isArray(records[m][d]) && records[m][d].length > 0);
     });
-    if (monthsWithData.length === 0) return alert("尚無任何記錄可隨機顯示");
+    if (monthsWithData.length === 0) return notify("尚無任何記錄可隨機顯示");
 
     const randMonth = monthsWithData[Math.floor(Math.random() * monthsWithData.length)];
     const daysWithData = Object.keys(records[randMonth]).filter(d => Array.isArray(records[randMonth][d]) && records[randMonth][d].length > 0);
@@ -636,9 +655,9 @@ async function shareCurrentView() {
     } else {
         try {
             await navigator.clipboard.writeText(shareUrl);
-            alert("分享連結已複製到剪貼簿！");
+            notify("分享連結已複製到剪貼簿！");
         } catch (e) {
-            alert("無法複製連結，請手動複製：" + shareUrl);
+            notify("無法複製連結，請從下方欄位手動複製。", shareUrl);
         }
     }
 }
@@ -687,7 +706,6 @@ function switchDay(direction) {
 
 // 繪製年度趨勢圖
 function createTrendChart() {
-    if (typeof Chart !== 'function') { console.warn('趨勢圖元件未載入'); return; }
     try {
         if (trendChartInstance) {
             trendChartInstance.destroy();
@@ -711,6 +729,9 @@ function createTrendChart() {
         }));
 
         const ctx = dom['trend-chart'].getContext('2d');
+        const theme = chartTheme();
+        renderTrendData(datasets);
+        if (typeof Chart !== 'function') { console.warn('趨勢圖元件未載入；數據表仍可使用'); return; }
         trendChartInstance = new Chart(ctx, {
             type: 'line',
             data: {
@@ -720,13 +741,25 @@ function createTrendChart() {
             options: {
                 responsive: true,
                 maintainAspectRatio: false,
+                scales: {
+                    x: { ticks: { color: theme.text }, grid: { color: theme.border } },
+                    y: { ticks: { color: theme.text }, grid: { color: theme.border } }
+                },
                 plugins: {
                     legend: {
                         position: 'top',
+                        labels: { color: theme.text },
+                        onClick(event, item, legend) {
+                            const chart = legend.chart, index = item.datasetIndex;
+                            chart.setDatasetVisibility(index, !chart.isDatasetVisible(index));
+                            chart.update();
+                            ui['trend-series'].querySelectorAll('input')[index].checked = chart.isDatasetVisible(index);
+                        }
                     },
                     title: {
                         display: true,
-                        text: '每月記錄數趨勢'
+                        text: '每月記錄數趨勢',
+                        color: theme.text
                     }
                 }
             }
@@ -901,7 +934,7 @@ function buildWordCloudList(selectedYear) {
         return { list: [], message: '沒有足夠的關鍵字來產生詞雲' };
     }
 
-    return { list, message: '' };
+    return { list, counts: finalWordCounts, message: '' };
 }
 function getWordCloudList(selectedYear) {
     // Data is static during this page visit. Cache only the final 150 words,
@@ -917,15 +950,16 @@ function showWordCloudMessage(message) {
 function createWordCloud(selectedYear = 'all') {
     clearTimer('wordcloud');
     const canvas = dom['wordcloud-canvas'];
-    if (typeof WordCloud !== 'function') { canvas.textContent = '詞雲元件無法載入'; return; }
     showWordCloudMessage('正在分析語錄文字，請稍候...');
 
     timers.wordcloud = setTimeout(() => {
         timers.wordcloud = null;
         if (viewState.name !== 'dashboard') return;
         try {
-            const { list, message } = getWordCloudList(selectedYear);
+            const { list, counts, message } = getWordCloudList(selectedYear);
+            renderWordCloudTerms(list, counts, message);
             if (!list.length) { showWordCloudMessage(message); return; }
+            if (typeof WordCloud !== 'function') { showWordCloudMessage('詞雲元件無法載入，請使用下方熱門詞彙。'); return; }
             WordCloud(canvas, {
                 // The library receives its own pairs, keeping cached data immutable.
                 list: list.map(([word, weight]) => [word, weight]),
@@ -933,12 +967,11 @@ function createWordCloud(selectedYear = 'all') {
                 weightFactor: function(size) {
                     return Math.pow(size, 0.7) * 6;
                 },
-                fontFamily: 'Arial, "Microsoft JhengHei", "PingFang TC", sans-serif',
+                fontFamily: getComputedStyle(document.body).fontFamily,
                 color: function() {
-                    const colors = [
-                        '#e74c3c', '#3498db', '#2ecc71', '#f39c12', '#9b59b6',
-                        '#1abc9c', '#e67e22', '#34495e', '#16a085', '#c0392b'
-                    ];
+                    const colors = document.body.classList.contains('dark-mode')
+                        ? ['#ffb3b3', '#90c2ff', '#96dfb3', '#f2cd85', '#d7b1f3']
+                        : ['#a32727', '#175fa6', '#216c42', '#785308', '#744299'];
                     return colors[Math.floor(Math.random() * colors.length)];
                 },
                 backgroundColor: 'transparent',
@@ -964,6 +997,147 @@ function refreshDashboard(selectedYear) {
     createWordCloud(selectedYear);
 }
 
+let notificationReturnFocus = null;
+function notify(message, copyUrl = '') {
+    const panel = ui['notification'];
+    if (!panel.contains(document.activeElement)) notificationReturnFocus = document.activeElement;
+    panel.hidden = false;
+    ui['notification-message'].textContent = message;
+    ui['notification-action'].replaceChildren();
+    if (copyUrl) {
+        const label = document.createElement('label'); label.textContent = '分享連結';
+        const input = document.createElement('input'); input.type = 'text'; input.readOnly = true;
+        input.value = copyUrl; input.addEventListener('focus', () => input.select());
+        label.appendChild(input); ui['notification-action'].appendChild(label);
+    }
+}
+function closeNotification() {
+    const restoreFocus = ui['notification'].contains(document.activeElement);
+    ui['notification'].hidden = true;
+    if (restoreFocus && notificationReturnFocus?.isConnected && !notificationReturnFocus.closest('[inert]')) notificationReturnFocus.focus();
+}
+function chartTheme() {
+    const styles = getComputedStyle(document.body);
+    return { text: styles.getPropertyValue('--text-color').trim(), border: styles.getPropertyValue('--border-color').trim() };
+}
+function renderTrendData(datasets) {
+    ui['trend-series'].replaceChildren();
+    ui['trend-data'].replaceChildren();
+    const caption = document.createElement('caption'); caption.textContent = '所有年份每月記錄數（不受上方年份篩選影響）';
+    const head = document.createElement('thead'), headRow = document.createElement('tr');
+    ['年份', ...Array.from({ length: 12 }, (_, i) => `${i + 1}月`)].forEach(text => {
+        const cell = document.createElement('th'); cell.scope = 'col'; cell.textContent = text; headRow.appendChild(cell);
+    });
+    head.appendChild(headRow);
+    const body = document.createElement('tbody');
+    datasets.forEach((dataset, index) => {
+        const label = document.createElement('label'), input = document.createElement('input');
+        input.type = 'checkbox'; input.checked = true;
+        input.disabled = typeof Chart !== 'function';
+        input.addEventListener('change', () => {
+            if (!trendChartInstance) return;
+            trendChartInstance.setDatasetVisibility(index, input.checked); trendChartInstance.update();
+        });
+        label.append(input, document.createTextNode(dataset.label)); ui['trend-series'].appendChild(label);
+        const row = document.createElement('tr'), heading = document.createElement('th');
+        heading.scope = 'row'; heading.textContent = dataset.label; row.appendChild(heading);
+        dataset.data.forEach(count => { const cell = document.createElement('td'); cell.textContent = count; row.appendChild(cell); });
+        body.appendChild(row);
+    });
+    ui['trend-data'].append(caption, head, body);
+}
+function renderWordCloudTerms(list, counts = {}, message = '') {
+    const fragment = document.createDocumentFragment();
+    list.forEach(([word]) => {
+        const button = document.createElement('button'); button.type = 'button'; button.dataset.word = word;
+        button.textContent = `${word}（${counts[word] ?? '—'}次）`; fragment.appendChild(button);
+    });
+    if (!list.length) { const text = document.createElement('p'); text.textContent = message; fragment.appendChild(text); }
+    ui['wordcloud-terms'].replaceChildren(fragment);
+}
+const systemAppearance = window.matchMedia('(prefers-color-scheme: dark)');
+let appearance = 'system';
+function applyAppearance(value) {
+    appearance = ['light', 'dark', 'system'].includes(value) ? value : 'system';
+    document.body.classList.toggle('dark-mode', appearance === 'dark' || (appearance === 'system' && systemAppearance.matches));
+    dom['theme-toggle'].value = appearance;
+    if (trendChartInstance) {
+        const theme = chartTheme(), options = trendChartInstance.options;
+        options.plugins.legend.labels.color = options.plugins.title.color = theme.text;
+        for (const axis of ['x', 'y']) { options.scales[axis].ticks.color = theme.text; options.scales[axis].grid.color = theme.border; }
+        trendChartInstance.update('none');
+    }
+    if (viewState.name === 'dashboard') createWordCloud(dom['year-filter'].value);
+}
+function heatmapDestination(cells, current, key, columns) {
+    const steps = { ArrowLeft: -1, ArrowRight: 1, ArrowUp: -columns, ArrowDown: columns };
+    let target = key === 'Home' ? 0 : key === 'End' ? cells.length - 1 : current + steps[key];
+    const direction = key === 'End' || (steps[key] || 1) < 0 ? -1 : 1;
+    while (target >= 0 && target < cells.length) {
+        if (cells[target].tagName === 'BUTTON') return target;
+        target += direction;
+    }
+    return current;
+}
+function bindModernUI() {
+    const mobile = window.matchMedia('(max-width: 768px)');
+    const tools = ui['site-tools'], summary = tools.querySelector('summary');
+    function closeTools() {
+        if (!mobile.matches || !tools.open) return;
+        if (tools.contains(document.activeElement)) summary.focus();
+        tools.open = false;
+    }
+    const syncLayout = () => {
+        if (mobile.matches && tools.contains(document.activeElement)) summary.focus();
+        if (mobile.matches && ui['footer-links'].contains(document.activeElement)) ui['footer-links'].querySelector('summary').focus();
+        tools.open = !mobile.matches;
+        ui['footer-links'].open = !mobile.matches;
+    };
+    syncLayout(); mobile.addEventListener('change', syncLayout);
+    tools.addEventListener('click', event => { if (event.target.closest('button')) closeTools(); });
+    tools.addEventListener('keydown', event => {
+        if (event.key === 'Escape') { event.stopPropagation(); closeTools(); }
+    });
+    document.addEventListener('click', event => { if (!tools.contains(event.target)) closeTools(); });
+    ui['notification-close'].addEventListener('click', closeNotification);
+    ui['notification'].addEventListener('keydown', event => {
+        if (event.key === 'Escape') { event.stopPropagation(); closeNotification(); }
+    });
+    dom['theme-toggle'].addEventListener('change', event => {
+        applyAppearance(event.target.value); writeStoredValue('theme', appearance);
+    });
+    systemAppearance.addEventListener('change', () => { if (appearance === 'system') applyAppearance('system'); });
+    ui['heatmap-open'].addEventListener('click', () => {
+        const [month, day] = ui['heatmap-date'].value.split('-');
+        if (month && day) { showRecords(month, day); contentDiv.focus(); }
+    });
+    ui['wordcloud-terms'].addEventListener('click', event => {
+        const button = event.target.closest('button[data-word]');
+        if (!button) return;
+        dom['searchInput'].value = button.dataset.word; searchRecords(button.dataset.word); contentDiv.focus();
+    });
+    dom['heatmap'].addEventListener('keydown', event => {
+        const cells = [...dom['heatmap'].querySelectorAll('.heatmap-day')], current = cells.indexOf(event.target);
+        if (current < 0) return;
+        if (!['ArrowLeft', 'ArrowRight', 'ArrowUp', 'ArrowDown', 'Home', 'End'].includes(event.key)) return;
+        event.preventDefault(); event.stopPropagation();
+        const columns = Number(getComputedStyle(dom['heatmap']).getPropertyValue('--heatmap-columns')) || 52;
+        const index = heatmapDestination(cells, current, event.key, columns);
+        cells[current].tabIndex = -1; cells[index].tabIndex = 0; cells[index].focus();
+    });
+    dom['heatmap'].addEventListener('focusin', event => {
+        if (!event.target.matches('button')) return;
+        dom['heatmap'].querySelectorAll('button').forEach(button => { button.tabIndex = button === event.target ? 0 : -1; });
+    });
+    let resizeTimer;
+    window.addEventListener('resize', () => {
+        clearTimeout(resizeTimer);
+        if (viewState.name === 'dashboard') resizeTimer = setTimeout(() => {
+            if (viewState.name === 'dashboard') createWordCloud(dom['year-filter'].value);
+        }, 200);
+    });
+}
+
 function bindNavigationEvents() {
     monthList.addEventListener('click', event => {
         const day = event.target.closest('.day-item');
@@ -977,7 +1151,7 @@ function bindNavigationEvents() {
     const heatmap = dom['heatmap'];
     heatmap.addEventListener('click', event => {
         const day = event.target.closest('.heatmap-day');
-        if (day && Number(day.dataset.count) > 0) showRecords(day.dataset.month, day.dataset.day);
+        if (day && Number(day.dataset.count) > 0) { showRecords(day.dataset.month, day.dataset.day); contentDiv.focus(); }
     });
     [['mouseover', true], ['mouseout', false]].forEach(([eventName, hovering]) => {
         heatmap.addEventListener(eventName, event => {
@@ -1033,18 +1207,6 @@ function bindNavigationEvents() {
         }
     });
 
-    // 主題切換
-    dom['theme-toggle'].addEventListener("click", function () {
-        document.body.classList.toggle("dark-mode");
-        if (document.body.classList.contains("dark-mode")) {
-            this.textContent = "淺色模式";
-            writeStoredValue('theme', 'dark');
-        } else {
-            this.textContent = "深色模式";
-            writeStoredValue('theme', 'light');
-        }
-    });
-
     // 點擊標題回到首頁
     dom['homeBtn'].addEventListener("click", () => {
 
@@ -1081,6 +1243,8 @@ function restoreRoute(initial = false) {
     } else showToday();
 }
 function initializeApplication() {
+    bindModernUI();
+    applyAppearance(readStoredValue('theme'));
     bindNavigationEvents();
     bindAccessibilityEvents();
     bindGameEvents();
@@ -1091,10 +1255,6 @@ function initializeApplication() {
             .catch(error => console.warn('ServiceWorker 註冊失敗: ', error));
     }
     pruneInvalidFavorites();
-    if (readStoredValue('theme') === 'dark') {
-        document.body.classList.add('dark-mode');
-        dom['theme-toggle'].textContent = '淺色模式';
-    }
     recordIndex = getAllRecords();
     prepareQuizData();
     buildMonthList();
@@ -1103,6 +1263,7 @@ function initializeApplication() {
 window.addEventListener('popstate', () => restoreRoute());
 window.addEventListener('storage', event => {
     if (event.key === FAVORITES_KEY || event.key === null) favoritesCache = null;
+    if (event.key === 'theme' || event.key === null) applyAppearance(readStoredValue('theme'));
 });
 
 const aboutBtn = dom['aboutBtn'];
@@ -1155,7 +1316,7 @@ function bindAccessibilityEvents() {
             return;
         }
         // 當焦點在輸入框時 不觸發快捷鍵 避免干擾打字
-        if (document.activeElement.matches('input, textarea, select, [contenteditable="true"]')) {
+        if (document.activeElement.matches('input, textarea, select, summary, [contenteditable="true"]') || document.activeElement.closest('#heatmap, #site-tools, .timeline-view-container, .table-scroll')) {
             return;
         }
 
@@ -1361,7 +1522,7 @@ function startQuiz() {
     clearTimer('quiz');
     generateQuizQuestions();
     if (quizState.questions.length < quizState.total) {
-        alert(`符合條件的題目不足 ${quizState.total} 題，無法開始遊戲！\n（目前只找到 ${quizState.questions.length} 題）`);
+        notify(`符合條件的題目不足 ${quizState.total} 題，無法開始遊戲！（目前只找到 ${quizState.questions.length} 題）`);
         showQuizSetup(); // 返回設定畫面
         return;
     }
@@ -1510,7 +1671,7 @@ function startClozeTest() {
     clearTimer('cloze');
     generateClozeQuestions();
     if (clozeState.questions.length < clozeState.total) {
-        alert(`符合條件的題目不足 ${clozeState.total} 題，無法開始遊戲！\n（目前只找到 ${clozeState.questions.length} 題）`);
+        notify(`符合條件的題目不足 ${clozeState.total} 題，無法開始遊戲！（目前只找到 ${clozeState.questions.length} 題）`);
         return;
     }
     clozeSetupView.style.display = 'none';
@@ -1556,7 +1717,7 @@ function bindGameEvents() {
 // 語音朗讀功能的核心處理函數
 function handleTTSClick() {
     if (!('speechSynthesis' in window)) {
-        alert('抱歉，您的瀏覽器不支援語音朗讀功能');
+        notify('抱歉，您的瀏覽器不支援語音朗讀功能');
         return;
     }
     const ttsButton = document.getElementById('tts-button');
@@ -1581,7 +1742,7 @@ function handleTTSClick() {
             }
         });
         if (!textToSpeak) {
-            alert('本頁沒有可朗讀的文字內容');
+            notify('本頁沒有可朗讀的文字內容');
             return;
         }
         // 2. 建立語音請求物件
