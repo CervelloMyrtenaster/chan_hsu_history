@@ -112,14 +112,14 @@ body.dark-mode {
 }
 
 /* Shared controls and card surfaces; component rules keep their sizing. */
-:where(button, input, select) {
+:where(button, input, select, .toolbar-link) {
   font-family: var(--font-family);
   line-height: var(--line-height-control);
 }
-:where(button) {
+:where(button, .toolbar-link) {
   font-size: var(--font-size-control);
 }
-:where(header button, .header-buttons button, .about-button, #tts-button,
+:where(header button, .header-buttons button, .toolbar-link, .about-button, #tts-button,
 .quiz-results-buttons button, .game-option-btn, .quiz-option-btn, .sort-button) {
   box-sizing: border-box;
   max-width: 100%;
@@ -129,12 +129,12 @@ body.dark-mode {
   transition: background var(--duration-normal), color var(--duration-normal),
   border-color var(--duration-normal), transform var(--duration-normal);
 }
-:where(header button, .header-buttons button, .about-button, #tts-button,
+:where(header button, .header-buttons button, .toolbar-link, .about-button, #tts-button,
 .quiz-results-buttons button, .game-option-btn) {
   background: var(--button-bg);
   color: var(--button-text);
 }
-:where(header button, .header-buttons button, .about-button, #tts-button,
+:where(header button, .header-buttons button, .toolbar-link, .about-button, #tts-button,
 .quiz-results-buttons button, .game-option-btn):hover:not(:disabled) {
   background: var(--button-hover);
 }
@@ -270,8 +270,14 @@ header button {
   background: var(--header-buttons);
   flex-wrap: wrap;
 }
-.header-buttons button {
+.header-buttons button, .header-buttons .toolbar-link {
   padding: 4px 10px;
+}
+.header-buttons .toolbar-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
 }
 
 /* 統計儀表板樣式 */
@@ -1062,7 +1068,7 @@ header input[type="text"]:focus-visible {
   .modal { padding: var(--space-md); }
   .modal-content { padding: var(--space-lg); }
   .favorite-btn { min-width: var(--touch-target); min-height: var(--touch-target); }
-  :where(header button, .header-buttons button, .about-button, #tts-button,
+  :where(header button, .header-buttons button, .toolbar-link, .about-button, #tts-button,
   .quiz-results-buttons button, .game-option-btn, .quiz-option-btn,
   .sort-button, #year-filter, #searchInput) {
     min-height: var(--touch-target);
@@ -1088,7 +1094,7 @@ header input[type="text"]:focus-visible {
 
 /* Larger hit areas on touch devices without enlarging the icons themselves. */
 @media (pointer: coarse) {
-  :where(header button, .header-buttons button, .about-button, #tts-button,
+  :where(header button, .header-buttons button, .toolbar-link, .about-button, #tts-button,
   .quiz-results-buttons button, .game-option-btn, .quiz-option-btn,
   .sort-button, #year-filter, #searchInput, .favorite-btn) {
     min-height: var(--touch-target);
@@ -1110,7 +1116,7 @@ header input[type="text"]:focus-visible {
   .heatmap-day, .content, .day-item, .month-item > ul, .modal-content,
   .favorite-btn,
   :where(#sidebar, #monthList, #backToTopBtn, #tts-button),
-  :where(header button, .header-buttons button, .about-button,
+  :where(header button, .header-buttons button, .toolbar-link, .about-button,
   .quiz-results-buttons button, .game-option-btn, .quiz-option-btn, .sort-button) {
     animation: none;
     transition: none;
