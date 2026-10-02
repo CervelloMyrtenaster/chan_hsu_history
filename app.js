@@ -1066,7 +1066,7 @@ function initializeApplication() {
     bindGameEvents();
     bindRecordEvents();
     if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('./service-worker.js')
+        navigator.serviceWorker.register('./service-worker.js', { scope: './', updateViaCache: 'none' })
             .then(registration => console.log('ServiceWorker 註冊成功, scope: ', registration.scope))
             .catch(error => console.warn('ServiceWorker 註冊失敗: ', error));
     }
