@@ -19,8 +19,10 @@ function setup(options = {}) {
         async match(url) { return entries.get(typeof url === 'string' ? url : url.url)?.clone(); },
         async put(url, response) {
           if (state.failWrites) throw new Error('storage unavailable');
+          if (options.stallOptionalWrites && name.endsWith('-optional')) return new Promise(() => {});
+          const body = await response.arrayBuffer();
           writes.push(url);
-          entries.set(url, response.clone());
+          entries.set(url, new Response(body, { status: response.status, headers: response.headers }));
         }
       };
     },
@@ -29,6 +31,10 @@ function setup(options = {}) {
   };
   const fetch = async (url, settings) => {
     requests.push({ url, settings });
+    if (options.fetchResponse) {
+      const response = await options.fetchResponse(url, settings);
+      if (response) return response;
+    }
     if (state.offline || options.failCDN && url.startsWith('https://cdn.jsdelivr.net/')) throw new Error('offline');
     if (state.failURL === url) return new Response('server error', { status: 500 });
     const type = state.wrongTypeURL === url ? 'text/html' :
@@ -38,7 +44,7 @@ function setup(options = {}) {
   };
   vm.runInNewContext(source, {
     self: { registration: { scope: options.scope || base }, addEventListener: (name, fn) => handlers[name] = fn },
-    caches, fetch, URL, Response, AbortController, setTimeout, clearTimeout,
+    caches, fetch, URL, Response, AbortController, setTimeout: options.setTimeout || setTimeout, clearTimeout,
     console: { warn() {} }
   });
   async function lifecycle(name) {
@@ -97,6 +103,37 @@ test('CDN failure does not invalidate the complete core installation', async () 
   const env = setup({ failCDN: true });
   await env.lifecycle('install');
   assert.equal([...env.stores.values()][0].size, 7);
+});
+
+test('CDN body stalls are aborted after headers without blocking core installation', async () => {
+  const signals = [];
+  const env = setup({
+    setTimeout: (callback, delay) => setTimeout(callback, delay === 10000 ? 20 : delay),
+    fetchResponse: async (url, settings) => {
+      if (!url.startsWith('https://cdn.jsdelivr.net/')) return null;
+      signals.push(settings.signal);
+      const body = new ReadableStream({ start(controller) {
+        controller.enqueue(new TextEncoder().encode('/* incomplete download */'));
+        settings.signal.addEventListener('abort', () => controller.error(new Error('aborted')), { once: true });
+      } });
+      return new Response(body, { headers: { 'Content-Type': 'application/javascript' } });
+    }
+  });
+  await env.lifecycle('install');
+  assert.equal([...env.stores].find(([name]) => name.endsWith('-core'))[1].size, 7);
+  assert.equal(signals.length, 2);
+  assert.ok(signals.every(signal => signal.aborted));
+  assert.ok(!env.writes.some(url => url.startsWith('https://cdn.jsdelivr.net/')));
+});
+
+test('stalled optional cache storage does not keep installation waiting indefinitely', async () => {
+  const env = setup({
+    stallOptionalWrites: true,
+    setTimeout: (callback, delay) => setTimeout(callback, delay === 10000 ? 20 : delay)
+  });
+  await env.lifecycle('install');
+  assert.equal([...env.stores].find(([name]) => name.endsWith('-core'))[1].size, 7);
+  assert.ok(!env.writes.some(url => url.startsWith('https://cdn.jsdelivr.net/')));
 });
 
 test('activation removes only this project old caches and does not force takeover', async () => {

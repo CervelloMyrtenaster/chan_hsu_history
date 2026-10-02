@@ -89,6 +89,8 @@ const speechState = { speaking: false, paused: false, utterance: null };
 const timers = { content: null, wordcloud: null, quiz: null, cloze: null, search: null };
 const wordCloudCache = new Map();
 let firstContentRender = true;
+let pendingContentUpdate = null;
+let resumeSearch = null;
 let favoritesCache = null;
 let trendChartInstance = null;
 let uniqueYears = [];
@@ -181,14 +183,17 @@ function showView(viewName) {
 // 帶有淡入淡出效果的內容更新函數
 function updateContentWithFade(content, callback) {
     clearTimer('content');
+    resumeSearch = null;
     const replaceContent = () => {
         timers.content = null;
+        pendingContentUpdate = null;
         contentDiv.replaceChildren(content);
         contentDiv.scrollTop = 0;
         contentDiv.classList.remove('fade-out');
         firstContentRender = false;
         if (callback) callback();
     };
+    pendingContentUpdate = replaceContent;
     if (firstContentRender) {
         replaceContent();
     } else {
@@ -330,7 +335,14 @@ function createHeatmap(selectedYear = 'all') {
 
 // 顯示/隱藏統計儀表板
 function toggleDashboard() {
-    if (viewState.name === 'dashboard') { showView('main'); return; }
+    if (viewState.name === 'dashboard') {
+        showView('main');
+        // Complete a cancelled fade or continue the existing search without
+        // changing the route or resetting an already completed page.
+        if (pendingContentUpdate) pendingContentUpdate();
+        else if (resumeSearch) resumeSearch();
+        return;
+    }
     showView('dashboard');
     populateYearFilter();
     if (!trendChartInstance) createTrendChart();
@@ -434,6 +446,11 @@ function createRecordContent(item, keyword = '') {
     return wrapper;
 }
 
+function updateFavoriteButton(button, isFavorite) {
+    button.textContent = isFavorite ? '❤️' : '🤍';
+    button.setAttribute('aria-pressed', String(isFavorite));
+    button.title = isFavorite ? '取消收藏' : '收藏這筆記錄';
+}
 function createRecordElement(item, recordId, context = 'default', keyword = '', favorites = new Set(getFavorites())) {
     const mainDiv = document.createElement("div");
     mainDiv.className = "record";
@@ -459,8 +476,8 @@ function createRecordElement(item, recordId, context = 'default', keyword = '', 
     favButton.type = 'button';
     favButton.className = 'favorite-btn';
     favButton.dataset.recordId = recordId;
-    favButton.title = '點擊以收藏/取消收藏';
-    favButton.textContent = favorites.has(recordId) ? '❤️' : '🤍';
+    favButton.setAttribute('aria-label', '收藏記錄：' + (item.label || item.content || '未命名記錄'));
+    updateFavoriteButton(favButton, favorites.has(recordId));
 
     mainDiv.appendChild(contentWrapper);
     if (recordId) {
@@ -559,10 +576,13 @@ function createSearchPage(keyword) {
         if (!container.isConnected || viewState.name !== 'main' || viewState.search !== keyword) return;
         appendBatch();
         if (nextIndex < matches.length) timers.search = setTimeout(appendRemaining, 0);
-        else { timers.search = null; container.removeAttribute('aria-busy'); }
+        else { timers.search = null; resumeSearch = null; container.removeAttribute('aria-busy'); }
     }
     function startRemaining() {
-        if (nextIndex < matches.length) timers.search = setTimeout(appendRemaining, 0);
+        if (nextIndex < matches.length) {
+            resumeSearch = startRemaining;
+            timers.search = setTimeout(appendRemaining, 0);
+        }
     }
     return { container, startRemaining };
 }
@@ -1172,7 +1192,7 @@ function bindAccessibilityEvents() {
     backToTopBtn.addEventListener('click', () => {
         contentDiv.scrollTo({
             top: 0,
-            behavior: 'smooth'
+            behavior: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth'
         });
     });
 
@@ -1676,7 +1696,7 @@ function bindRecordEvents() {
     contentDiv.addEventListener('click', event => {
         const button = event.target.closest('.favorite-btn');
         if (button && contentDiv.contains(button)) {
-            button.textContent = toggleFavorite(button.dataset.recordId) ? '❤️' : '🤍';
+            updateFavoriteButton(button, toggleFavorite(button.dataset.recordId));
             return;
         }
         const dateLink = event.target.closest('[data-navigate-date]');

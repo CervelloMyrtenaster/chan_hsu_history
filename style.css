@@ -74,7 +74,7 @@
   --heatmap-level-2: #7bc96f;
   --heatmap-level-3: #239a3b;
   --heatmap-level-4: #196127;
-  --stat-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  --stat-gradient: linear-gradient(135deg, #596dd3 0%, #764ba2 100%);
   --close-color: #aaaaaa;
 }
 
@@ -306,7 +306,6 @@ header button {
 }
 .stat-label {
   font-size: var(--font-size-relative-small);
-  opacity: 0.9;
 }
 
 /* 熱力圖樣式 */
