@@ -1,6 +1,6 @@
 // 每次發布 HTML、CSS、JS 或資料變更時，都必須更新此版本。
 const CACHE_PREFIX = 'chan-hsu-history-';
-const RELEASE = '20261002-pwa-v1';
+const RELEASE = '20261002-pwa-v2';
 const CORE_CACHE = `${CACHE_PREFIX}${RELEASE}-core`;
 const OPTIONAL_CACHE = `${CACHE_PREFIX}${RELEASE}-optional`;
 const BASE_URL = new URL('./', self.registration.scope);
@@ -29,16 +29,27 @@ const CONTENT_TYPES = {
   json: ['application/json', 'application/manifest+json'], png: ['image/png']
 };
 
-async function fetchValidated(url, type, timeout = 0) {
+async function fetchValidated(url, type, timeout = 0, consumeResponse = null) {
   const controller = new AbortController();
-  const timer = timeout ? setTimeout(() => controller.abort(), timeout) : null;
-  try {
+  let timer;
+  const deadline = timeout ? new Promise((resolve, reject) => {
+    timer = setTimeout(() => {
+      controller.abort();
+      reject(new Error(`Request timed out: ${url}`));
+    }, timeout);
+  }) : null;
+  const download = async () => {
     const response = await fetch(url, { mode: 'cors', cache: 'no-cache', signal: controller.signal });
     const contentType = (response.headers.get('content-type') || '').split(';')[0].trim().toLowerCase();
     if (response.status !== 200 || !CONTENT_TYPES[type].includes(contentType)) {
       throw new Error(`Invalid ${type} response: ${url} (${response.status}, ${contentType})`);
     }
-    return response;
+    // Install-time consumers keep the deadline active through body download
+    // and cache storage; ordinary fetch handlers retain streaming responses.
+    return consumeResponse ? await consumeResponse(response) : response;
+  };
+  try {
+    return await (deadline ? Promise.race([download(), deadline]) : download());
   } finally {
     clearTimeout(timer);
   }
@@ -64,9 +75,10 @@ self.addEventListener('install', event => {
     }
     await Promise.all([...DEPENDENCIES].map(async ([url, type]) => {
       try {
-        const response = await fetchValidated(url, type, 10000);
-        const optional = await caches.open(OPTIONAL_CACHE);
-        await optional.put(url, response);
+        await fetchValidated(url, type, 10000, async response => {
+          const optional = await caches.open(OPTIONAL_CACHE);
+          await optional.put(url, response);
+        });
       } catch (error) {
         console.warn('可選離線套件未快取：', url, error);
       }

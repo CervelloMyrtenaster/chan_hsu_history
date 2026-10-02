@@ -1921,7 +1921,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/6HL8UY4SYihcHrMq8", label: "2026年2月8日 懂個皮毛就出來說三道四 沒看過幾個病人就高談闊論 我們醫師談的是良心跟知識 你談的是搶不搶飯碗 高下立見 我們最怕的不是人蠢 而是人蠢而不自知 " },
       { type: "link", content: "https://photos.app.goo.gl/UjtuQ1gLgjyzBJXLA", label: "2026年2月8日 不行欸 一群票那麼少的免洗筷幹嘛重視" },
       { type: "link", content: "https://photos.app.goo.gl/ui12zmPwdYYiPbMB7", label: "2026年2月8日 感謝奶綠 選愛麗絲來玩的都底層 洗自己數據 送隊友人頭" },
-      { type: "link", content: "", label: "2026年2月8日 認真覺得如果要唸 就直接看他的圖表 有圖表代表重要的 但絕對唸不完的 不如直接去寫題目之類的 遇到不會的回頭讀那個單元 丟gpt翻譯最快" },
+      { type: "link", content: "https://photos.app.goo.gl/FAxTnR7BAKXfEJVf7", label: "2026年2月8日 認真覺得如果要唸 就直接看他的圖表 有圖表代表重要的 但絕對唸不完的 不如直接去寫題目之類的 遇到不會的回頭讀那個單元 丟gpt翻譯最快" },
       { type: "link", content: "https://photos.app.goo.gl/tshd1gmuN6usJfUK8", label: "2026年2月8日 住院醫師 月薪十萬初頭 去日本住膠囊旅館省錢 超省錢" },
       { type: "link", content: "https://photos.app.goo.gl/vDZpf9CWWcGY93TD7", label: "2026年2月8日 對不起嘛 以後不敢了" },
       { type: "link", content: "https://photos.app.goo.gl/TkyX8ujZr1cqiprd9", label: "2026年2月8日 感謝常常分享友善時光給我們 我們值班一天100元 光吃個晚餐值班就虧到吃自己 還有有您拯救窮苦的醫師" },
@@ -13341,7 +13341,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/M3mkdV6wiHaQdDiC7", label: "2025年11月5日 看來我有安慰到你那脆弱的自卑心了, 算今天做了一件好事 不過建議還是掛號看精神科比較好唷" },
       { type: "link", content: "https://photos.app.goo.gl/DLDoEcuosHRMi1j3A", label: "2025年11月5日 人不怕無知丟臉這就是最經典的帳號" },
       { type: "link", content: "https://photos.app.goo.gl/BaH51h2CwFKY2rHd9", label: "2025年11月5日 浪浪都知道感恩XD" },
-      { type: "link", content: "", label: "2024年11月5日 \
+      { type: "link", content: "https://photos.app.goo.gl/z1iQ9ESuLG8mP7KZ9", label: "2024年11月5日 \
         因為聰明的人讀書不能中斷思考 所以必備物品必須擺出來才能馬上拿取 還有就是收拾會讓自己分心 因為收拾了一點就會想整理更多 時間因此被浪費 \
         因此我很認真的說 真正聰明的人都只收拾該收拾的 但需要的東西不會浪費時間收拾 這樣會導致效率嚴重下降 高效率的完成事情跟產出作品 遠比只有收拾後的美觀重要" },
       { type: "link", content: "https://photos.app.goo.gl/ihQWAhJGLFDT3ihcA", label: "2024年11月5日 對啊 那個大象很像蜘蛛哈哈哈" },
@@ -13823,7 +13823,7 @@ const records = {
       { type: "link", content: "https://photos.app.goo.gl/sy4rSgcpiB7argPD8", label: "2018年11月21日 \
         長官的好意讓我第一次能好好放6天 當然也在船上連待了十天跟疫苗還有校閱奮鬥 跟醫院工作相比或許現在只是很不穩定 但單就見面的次數也比較多 也快一年了慢慢磨合很多小習慣與價值觀 \
         我覺得可以認識自己的方法 才不是什麼旅行 少裝文青 而是遇到一個願意相陪的女友 才知道自己有多少缺點跟不經心 這才是認識自己吧 發現我私版怎麼都是她" },
-      { type: "link", content: "", label: "2018年11月21日 一邊讀書 一邊不讓自己對目前的生活想太多" },
+      { type: "link", content: "https://photos.app.goo.gl/epoDSUR4Fw2JcZzq9", label: "2018年11月21日 一邊讀書 一邊不讓自己對目前的生活想太多" },
       { type: "link", content: "https://photos.app.goo.gl/agjFjVueCfvaM4y48", label: "2017年11月21日 到底 救護車膩 我的智障室友" }
     ],
     "22": [
